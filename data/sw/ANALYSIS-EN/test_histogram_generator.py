@@ -2,10 +2,10 @@
 import os
 import sys
 import numpy as np
-sys.path.append('../../matchzoo/inputs')
-sys.path.append('../../matchzoo/utils')
-from preprocess import *
-from rank_io import *
+#sys.path.append('../../matchzoo/inputs')
+#sys.path.append('../../utils')
+from utils.preprocess import *
+from utils.rank_io import *
 
 
 if __name__ == '__main__':
@@ -13,9 +13,9 @@ if __name__ == '__main__':
     if len(sys.argv) > 1 and sys.argv[1] == 'classification':
         run_mode = 'classification'
     hist_size = 30
-    path = '../../data/toy_example/%s/'%(run_mode)
-    embed_size = 50
-    embedfile = path + 'embed_glove_d50_norm'
+    path = ''#%(run_mode)
+    embed_size = 300
+    embedfile = path + 'embed_fastext_d300_norm'
     corpfile = path + 'corpus_preprocessed.txt'
     relfiles = [path + 'relation_train.txt',path + 'relation_valid.txt',path + 'relation_test.txt']
     histfiles = [path + 'relation.train.hist-%d.txt'%(hist_size),path + 'relation.valid.hist-%d.txt'%(hist_size), path + 'relation.test.hist-%d.txt'%(hist_size)]

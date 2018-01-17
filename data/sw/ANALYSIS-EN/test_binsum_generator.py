@@ -2,10 +2,10 @@
 import os
 import sys
 import numpy as np
-sys.path.append('../../../matchzoo/inputs')
-sys.path.append('../../../matchzoo/utils')
-from preprocess import *
-from rank_io import *
+#sys.path.append('../../../matchzoo/inputs')
+#sys.path.append('../../../matchzoo/utils')
+from utils.preprocess import *
+from utils.rank_io import *
 
 if __name__ == '__main__':
     run_mode = 'ranking'

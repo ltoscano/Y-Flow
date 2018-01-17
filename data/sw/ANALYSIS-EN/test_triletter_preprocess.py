@@ -4,9 +4,9 @@
 import os
 import sys
 import numpy as np
-sys.path.append('../../../matchzoo/inputs')
-sys.path.append('../../../matchzoo/utils')
-from preprocess import *
+#sys.path.append('../../../matchzoo/inputs')
+#sys.path.append('../../../matchzoo/utils')
+from utils.preprocess import *
 
 def read_dict(infile):
     word_dict = {}
