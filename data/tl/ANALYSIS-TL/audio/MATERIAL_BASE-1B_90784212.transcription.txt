@@ -1,0 +1,95 @@
+0.000	inLine	<no-speech>
+0.000	outLine	<no-speech>
+0.780	inLine	ha ?
+1.142	outLine	titingnan ko .
+1.340	inLine	<no-speech>
+2.380	outLine	<no-speech>
+2.680	inLine	grabe 'asaan ka ba ?
+3.725	inLine	isasama mo raw ba sila Laila ?
+3.850	outLine	<no-speech>
+5.047	outLine	hindi .
+5.428	inLine	<no-speech>
+5.700	inLine	isama mo raw ba sila Laila ?
+6.359	outLine	<no-speech>
+7.690	inLine	<no-speech>
+8.540	outLine	hindi na hindi .
+9.320	inLine	ay ikaw lang .
+10.312	outLine	oo .
+10.431	inLine	<no-speech>
+10.739	inLine	pinayagan ka naman ?
+11.591	outLine	<no-speech>
+12.200	inLine	<no-speech>
+12.312	outLine	oo .
+13.700	inLine	an- -- pinapayagan ka ni Leo ?
+13.706	outLine	<no-speech> <sta> oo .
+16.000	inLine	<no-speech>
+16.891	outLine	<no-speech>
+17.000	inLine	kailan ka uuwi kung pupunta ka ngayon ?
+19.050	inLine	<no-speech>
+19.319	outLine	bukas .
+19.850	inLine	kailan ka nga rin uuwi ?
+20.761	outLine	bukas .
+21.279	inLine	<no-speech>
+21.720	outLine	<no-speech>
+21.734	inLine	mamaya rin bukas <no-speech> ng umaga ?
+22.960	outLine	<no-speech>
+23.422	outLine	oo .
+24.529	inLine	pagkabili mo ng biscuit ?
+24.577	outLine	<no-speech>
+26.100	inLine	<no-speech>
+26.269	outLine	oo .
+27.330	outLine	<no-speech>
+27.790	inLine	ano ba ?
+28.180	outLine	<no-speech>
+28.424	inLine	wala ka bang pasok ?
+29.530	inLine	<no-speech>
+29.651	outLine	wala .
+30.980	outLine	<no-speech>
+31.120	inLine	<sta> gano'n ?
+31.904	outLine	day-off ko day-off ko ngayon 'tsaka bukas .
+33.090	inLine	<no-speech>
+34.460	inLine	eh 'andoon sila ano eh .
+34.780	outLine	<no-speech>
+35.590	outLine	<no-speech>
+36.190	inLine	<no-speech>
+37.354	outLine	sino ?
+37.990	inLine	ay bago na Friday Saturday na ?
+38.727	outLine	<no-speech>
+39.898	outLine	hindi ano %incomplete
+40.150	inLine	<no-speech>
+41.290	inLine	'yang day-off Friday Saturday na ?
+41.951	outLine	<no-speech>
+43.166	outLine	oo lumalakad 'yong day-off namin .
+43.570	inLine	<no-speech>
+45.710	outLine	<no-speech>
+45.980	inLine	o bakit ?
+46.830	outLine	<no-speech>
+46.990	inLine	<no-speech>
+47.394	outLine	ikaw na talaga eh .
+48.680	inLine	ah lumalakad .
+49.343	outLine	<no-speech>
+49.672	outLine	oo .
+49.940	inLine	<no-speech>
+51.000	inLine	<no-speech>
+51.057	outLine	<no-speech>
+51.530	inLine	<no-speech>
+52.800	inLine	antayin ka sana .
+53.807	inLine	'kala 'kala nga pupunta ka sabi ko nga pupunta ka nga painom eh .
+55.050	outLine	<no-speech>
+56.020	outLine	<no-speech>
+56.900	inLine	<no-speech>
+56.981	outLine	sige tatawag na lang ako .
+58.450	inLine	papainom siya .
+59.120	outLine	<no-speech>
+59.590	inLine	<no-speech>
+60.040	outLine	<no-speech>
+60.980	inLine	mamaya basta mamaya na mamaya tapusin muna mo 'to .
+64.675	outLine	oo .
+65.110	inLine	<no-speech>
+65.757	inLine	'di ba tinext ka ni ate Grey 'to ?
+66.315	outLine	<no-speech>
+66.958	outLine	oo nga alam ko na 'yon kasi nakikita ko na .
+67.550	inLine	<no-speech>
+70.020	inLine	<no-speech>
+70.510	inLine	<no-speech>
+71.880

@@ -1,0 +1,63 @@
+[0.000]
+<no-speech>
+[1.623]
+<sta> dumepensa naman ang Malacañang sa mga batikos sa naging SONA ni pangulong Aquino kahapon .
+[7.330]
+<sta> maging ang ilang beses na pag-ubo ng pangulo sa kaniyang talumpati ipinaliwanag ng palasyo .
+[13.630]
+<sta> umaaksiyon si Roices Naguit .
+[19.350]
+pasensiya na po .
+[20.149]
+ilang beses na inubo at paminsan-minsang nautal si pangulong Aquino sa kaniyang SONA kahapon .
+[26.810]
+<no-speech>
+[28.793]
+inamin ng pangulo masama ang kaniyang pakiramdam .
+[31.990]
+hindi na nga niya sinunod ang traditional na processional walk bago ang talumpati .
+[36.250]
+paniguro naman ng Malacañang maayos ang kalusugan ng pangulo .
+[39.933]
+<int> ang kaniya lang naging <hes> <hes> concerned kahapon ay iyong Vertigo at <hes> ito lang dahilan kung bakit dumiretso siya doon sa podium ng <hes> House of Representatives .
+[51.469]
+<hes> maayos naman po ang kaniyang overall health condition <int> .
+[55.005]
+sa Instagram account nga ng kapatid ng pangulo na si Kris nagkaroon ang pamilya at gabinete ng post SONA dinner na ginanap sa Bahay Pangarap kagabi .
+[63.860]
+<sta> pero bukod sa kalusugan ng pangulo higit na napansin ang sabi ng ilan ay puro paninisi ng pangulo sa nagdaang administrasyon .
+[72.390]
+<sta> depensa ng Malacañang inilatag lang ng pangulo ang dinatnang problema na sinolusyonan daw ng kaniyang administrasyon .
+[79.126]
+<no-speech>
+[80.020]
+wala pong batayan iyong <hes> mga <sta> sinasabing paninisi ito .
+[84.180]
+ang ginawa ng pangulo ay nagbigay ng background o context .
+[88.673]
+<no-speech>
+[89.370]
+sa isyu naman ng M_R_T patuloy daw ang pagsisikap ng gobyerno na tugunan ang <sta> pangangailangan ng mga pasahero .
+[95.830]
+ang hindi naman daw pagkakabanggit sa SONA ng tinaguriang SAF forty four ay hindi nangangahulugang <sta> nakalimutan na sila ng pangulo .
+[102.992]
+<misc> maalala po natin na noo'y ikaanim ng Pebrero malinaw na ipinahayag ng pangulo na dadalhin niya hanggang sa kahuli-hulihan ang <hes> alaala no ng mga nasawi .
+[114.783]
+I will carry this until the end of my days .
+[117.427]
+<no-speech>
+[118.060]
+<misc> nagpaliwanag din ang palasyo sa tila biglang pagkambiyo ng pangulo sa isyu ng Anti-dynasty bill .
+[123.370]
+noong nakaraang taon kasi nagpahayag ang <sta> pangulo ng agam-agam sa panukala pero sa SONA kahapon <sta> direkta niyang pinakiusapan ang mga mambabatas na ipasa na ang Anti-dynasty bill .
+[133.801]
+<no-speech>
+[134.570]
+bilang isang pangulo na palaging nakikinig sa tinig ng kaniyang mga boss naririnig niya no na lumalakas iyong kahilingan o iyong pagnanasa na umpisahan nang tukuyin ito sa nalalabing sesyon ng ating Kongreso .
+[149.240]
+<no-speech>
+[150.162]
+<sta> sabi pa ng palasyo magandang pagkakataon <sta> ito para maipakita ng mga mambabatas na may kakayanan silang pagpasa ng kapaki-pakinabang na mga batas <sta> pabor man sa kanila o hindi .
+[161.101]
+umaaksiyon Roices Naguit ~ %incomplete
+[162.892]

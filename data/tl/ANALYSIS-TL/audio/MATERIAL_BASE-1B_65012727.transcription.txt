@@ -1,0 +1,212 @@
+0.000	outLine	<no-speech>
+0.000	inLine	anong sinabi mo ?
+1.400	outLine	oh si Macky pa- -- papasok ba ngayon ?
+1.530	inLine	<no-speech>
+4.870	outLine	<no-speech>
+5.100	inLine	hindi nga .
+6.060	outLine	tanungin mo kasi kung hindi siya papasok mamaya na 'ko uuwi .
+6.975	inLine	<no-speech> pinapaliguan nga si Yuri .
+8.960	inLine	<no-speech>
+9.740	outLine	<no-speech>
+11.600	inLine	<no-speech>
+12.600	outLine	ano ?
+12.610	inLine	<no-speech>
+13.560	outLine	<no-speech>
+13.770	inLine	pinapaliguan si Yuri .
+15.640	outLine	'asaan ba si Timmy ?
+15.704	inLine	<no-speech> pumunta ka ba kila ate ?
+16.960	outLine	<no-speech>
+17.180	inLine	<no-speech>
+19.440	inLine	ha ?
+20.070	inLine	<no-speech>
+20.200	outLine	ah .
+20.830	outLine	<no-speech>
+21.560	inLine	hello ?
+22.450	inLine	<no-speech>
+22.750	outLine	si Yuri naliligo ba ?
+24.110	inLine	pumunta -- pumunta ka kila ate ?
+25.050	outLine	<no-speech> naliligo pa .
+26.466	inLine	<no-speech>
+26.520	outLine	<no-speech>
+28.545	inLine	ha ?
+29.200	outLine	sino ?
+29.827	inLine	<no-speech> ikaw ?
+29.870	outLine	<no-speech>
+31.070	inLine	<no-speech>
+32.360	outLine	<no-speech>
+34.360	inLine	<no-speech>
+34.832	outLine	kain -- <no-speech> wala nagkakainan lang dito .
+36.356	inLine	pumunta ka kila ate ?
+37.810	inLine	<no-speech>
+38.675	outLine	<no-speech> oo .
+39.590	inLine	ha ?
+39.630	outLine	<no-speech>
+40.790	outLine	kay ate hindi naman ako nakapunta doon eh .
+40.790	inLine	<no-speech>
+43.010	outLine	<no-speech>
+43.240	inLine	hindi ka nagpunta .
+44.380	outLine	'di ako nakapunta kay ate .
+45.000	inLine	<no-speech>
+45.836	outLine	gustong-gusto ko ngang pumunta doon sa Parañaque eh .
+48.240	outLine	<no-speech>
+48.540	inLine	<no-speech>
+48.900	inLine	<no-speech>
+49.860	outLine	baka bago mag-birthday ako gusto kong makapunta doon .
+52.970	outLine	<no-speech> hindi pa pala ako nakapadala ng birthday card kay Girlie .
+53.540	inLine	<no-speech>
+54.010	inLine	<no-speech>
+56.340	outLine	<no-speech>
+57.050	inLine	<no-speech>
+57.620	inLine	<no-speech>
+58.590	inLine	(()) .
+58.720	outLine	baka -- baka mamaya 'pag binigyan ako ni nanay ng pera makabili akong birthday card <no-speech> ipapadala ko .
+59.450	inLine	<no-speech>
+63.400	inLine	<no-speech>
+63.760	inLine	<no-speech>
+64.960	inLine	<no-speech>
+65.420	inLine	<no-speech>
+65.690	outLine	<no-speech>
+66.350	inLine	pumunta ka doon .
+66.740	outLine	siguro one week lang 'yon 'andoon na .
+67.420	inLine	<no-speech>
+68.638	outLine	aabot 'yon ng April twenty six .
+68.990	inLine	<no-speech>
+69.360	inLine	<no-speech>
+70.630	inLine	<no-speech>
+70.880	outLine	<no-speech>
+71.630	inLine	<no-speech>
+73.140	inLine	pumunta ka sa poder ni ate .
+74.670	inLine	<no-speech>
+74.840	outLine	umiinit na ba diyan ?
+76.356	outLine	dito mainit na wala ng ulan .
+78.230	outLine	<no-speech>
+78.380	inLine	(()) .
+80.579	outLine	siguro naman nagsaing ka na ano ?
+81.290	inLine	<no-speech>
+83.110	outLine	<no-speech>
+84.050	inLine	<no-speech>
+84.140	outLine	hapon na eh .
+84.830	inLine	<no-speech>
+85.187	outLine	nagsaing ka na ba ?
+86.170	inLine	oo .
+86.336	outLine	baka mamaya ako pa hinihintay n'yo .
+87.190	inLine	<no-speech>
+88.780	inLine	hinihintay ka na .
+89.327	outLine	<no-speech> mamaya pa 'ko uuwi .
+90.658	inLine	<no-speech>
+91.190	outLine	<no-speech>
+91.286	inLine	ikaw nga hinihintay (()) eh .
+93.350	outLine	<click> nando'n na .
+93.360	inLine	<no-speech>
+94.340	outLine	<no-speech>
+94.620	inLine	(()) .
+95.490	inLine	<no-speech>
+95.820	outLine	<no-speech>
+96.510	inLine	pinatira .
+97.425	outLine	ano ?
+98.030	inLine	<no-speech>
+98.470	outLine	<no-speech>
+99.010	inLine	pinatira sa Anda .
+100.230	inLine	<no-speech>
+100.440	outLine	sino ?
+101.130	outLine	<no-speech>
+101.730	inLine	diyan .
+102.439	inLine	<no-speech> 'kala ko magdadala ka .
+104.300	inLine	<no-speech>
+104.950	outLine	<no-speech>
+106.560	inLine	ha ?
+107.060	inLine	<no-speech>
+108.035	outLine	ang handa ni Totot <no-speech> ano giniling na super anghang <no-speech> pero kaya ko namang kainin eh .
+108.320	inLine	(()) .
+108.860	inLine	<no-speech>
+110.280	inLine	<no-speech>
+110.880	inLine	<no-speech>
+112.570	inLine	<no-speech>
+112.930	inLine	<no-speech>
+115.469	outLine	<no-speech> tapos ngayon pinaluto ako ng tokwa .
+118.530	outLine	'yong tokwa tokwa lang walang baboy .
+120.890	inLine	ah pulutan niya .
+121.056	outLine	<no-speech> sabi ko masarap akong gumawa ng sauce noon .
+122.050	inLine	<no-speech>
+123.910	outLine	<no-speech>
+124.980	outLine	ay ginawan ko nga ng sauce .
+126.823	outLine	<no-speech> anda- %incomplete
+127.479	outLine	para %incomplete
+127.757	outLine	nalagyan ko maraming asin .
+128.580	inLine	<no-speech>
+129.170	outLine	ginawa ko nilagyan ko ng maraming asukal .
+131.897	outLine	<no-speech> nilagyan ko pa ng pasas para sumarap <no-speech> dahil sumobra na 'yong alat .
+135.110	inLine	o ?
+135.690	inLine	<no-speech>
+137.475	outLine	dumami nilagyan ko maraming suka .
+140.120	inLine	<no-speech>
+140.328	outLine	<no-speech> oo 'di napasarap nga .
+140.730	inLine	<no-speech>
+142.650	outLine	<no-speech>
+143.430	inLine	<no-speech>
+143.620	outLine	tapos eto na nasarapan na sila tapos may chicharon baboy pa .
+144.510	inLine	<no-speech>
+147.810	outLine	<no-speech>
+148.810	outLine	oh may menudo 'yon lang bale .
+151.165	outLine	<no-speech> <sta> pero nakakabusog naman eh .
+151.320	inLine	o sino nauna na- -- (()) <no-speech> 'di nalasing .
+153.471	outLine	<no-speech> <sta> oh madadala ko na lang diyan menudo .
+155.010	inLine	<no-speech>
+158.259	outLine	<no-speech>
+158.560	inLine	<no-speech>
+158.948	outLine	menudo nasarapan sila mukhang inuwi pa 'yong ano eh isaw .
+159.441	inLine	si Dodoy nalasing .
+160.870	inLine	<no-speech>
+161.900	inLine	ang layo ng sagot mo .
+163.037	outLine	<no-speech> huh ?
+163.350	inLine	<no-speech>
+164.239	outLine	<no-speech>
+164.700	inLine	ano sino nalasing ?
+165.910	outLine	<no-speech>
+166.130	inLine	<no-speech>
+168.780	outLine	alin ?
+168.870	inLine	ha ?
+169.470	outLine	<no-speech>
+169.678	inLine	<no-speech> kagabi <laugh> sino unang nalasing sa inyo ?
+170.760	outLine	sino ?
+171.480	outLine	<no-speech>
+171.910	inLine	<no-speech>
+172.360	outLine	oo (()) .
+173.120	outLine	<no-speech>
+174.470	outLine	huh ?
+174.760	inLine	ha ?
+175.220	inLine	<no-speech>
+175.236	outLine	<no-speech> mamaya uwi na ko .
+177.132	outLine	<no-speech>
+177.303	outLine	oo .
+177.650	inLine	<no-speech>
+178.030	inLine	<no-speech>
+178.616	outLine	<no-speech>
+178.850	inLine	hala .
+179.053	outLine	pero baka pumunta kami ni nanay sa Parañaque baka lang .
+179.870	inLine	<no-speech>
+182.730	inLine	<no-speech>
+182.980	outLine	<no-speech>
+183.590	inLine	<no-speech>
+184.540	outLine	eh alam mo naman si ate may galit 'yon .
+186.760	outLine	gusto noon pupunta ka para magkabati -- <no-speech> para batiin niya na 'ko .
+191.187	outLine	<no-speech> ayaw noon tatawagan lang siya eh .
+193.270	outLine	<no-speech>
+193.780	inLine	(()) .
+194.320	inLine	<no-speech>
+195.590	outLine	eh siyempre .
+195.760	inLine	(()) .
+196.410	inLine	<no-speech>
+197.140	outLine	<no-speech>
+198.130	outLine	malapit na birthday ko <cough> .
+198.410	inLine	ba't 'di ko tawagan ?
+199.610	inLine	<no-speech>
+200.450	outLine	<no-speech>
+201.490	outLine	kailangan batiin ko na siya .
+202.930	inLine	<no-speech>
+203.260	outLine	<no-speech>
+203.929	inLine	ha ?
+204.434	inLine	tawagan mo .
+204.470	outLine	hindi 'tsaka siyempre mahirap din 'yon eh <no-speech> samaan ng loob 'yon .
+205.350	inLine	<no-speech>
+209.070

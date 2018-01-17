@@ -1,0 +1,101 @@
+0.000	outLine	<no-speech>
+0.000	inLine	<sta> oo kaya palutuin natin si Pareng Inot total wala naman pasok si Inot <hes> .
+0.775	outLine	<no-speech>
+3.837	inLine	'di ba ?
+4.534	outLine	mas giyera 'yan giyera .
+4.560	inLine	<no-speech>
+5.918	outLine	<no-speech>
+6.100	inLine	<no-speech>
+6.450	inLine	<no-speech>
+7.250	inLine	<sta> hello .
+9.130	outLine	<no-speech>
+9.319	inLine	hello .
+11.283	outLine	hello .
+11.852	inLine	'di ba wala naman pasok si Inot 'di ba ?
+12.735	outLine	<no-speech>
+13.065	outLine	<no-speech>
+14.185	outLine	pero .
+14.725	outLine	<no-speech>
+14.969	inLine	mamaya ?
+16.255	outLine	<no-speech>
+16.780	inLine	<no-speech>
+17.034	outLine	oo .
+17.580	inLine	<no-speech>
+17.723	outLine	naririnig kayo niyan .
+18.755	outLine	<no-speech>
+19.264	inLine	oo 'yon nga <hes> mamaya yayain nga natin mag-inom palutuin natin siya nang pulutan sabihin mo kay Pay-Pay .
+19.755	outLine	<no-speech>
+20.505	outLine	<no-speech>
+23.465	outLine	<no-speech>
+23.815	outLine	<no-speech>
+25.761	inLine	<no-speech>
+27.885	outLine	<no-speech>
+28.575	outLine	oo naman .
+28.700	inLine	<no-speech>
+29.375	outLine	<no-speech>
+29.932	inLine	'di ba ?
+30.654	inLine	<no-speech>
+31.330	inLine	<no-speech>
+32.105	outLine	<laugh> mamaya .
+32.650	inLine	para .
+33.310	inLine	<no-speech>
+33.944	outLine	pagkatapos nila gisingin natin si ilong .
+34.150	inLine	<no-speech>
+34.520	inLine	<no-speech>
+35.800	inLine	<sta> oo .
+35.995	outLine	<no-speech>
+36.965	outLine	<no-speech>
+37.325	outLine	<no-speech>
+37.988	inLine	para maglaro .
+42.064	inLine	<hes> palagi na lang inom 'yon <hes> kailangan puro naman laro .
+42.875	outLine	<no-speech>
+43.365	outLine	<no-speech>
+46.525	outLine	<no-speech>
+46.900	inLine	<no-speech>
+47.045	outLine	<no-speech>
+47.901	inLine	hello .
+48.935	outLine	oo .
+49.831	outLine	<laugh> <hes> oo .
+51.318	outLine	<no-speech>
+51.909	outLine	<breath> 'pag sinabing laro kasi <no-speech> pare pare kahapon pare walang gaanong sigla kahapon <hes> kampi natin ni ano <hes> sigaw .
+54.532	inLine	ha ?
+57.320	inLine	<no-speech>
+58.890	inLine	<no-speech>
+62.475	outLine	<no-speech>
+64.010	inLine	<no-speech>
+64.990	inLine	<no-speech>
+65.410	inLine	<no-speech>
+66.590	inLine	<no-speech>
+71.575	outLine	<no-speech>
+71.925	outLine	<no-speech>
+73.625	outLine	<no-speech>
+74.218	outLine	alam ba niyang gayahin sa 'kin ba naman niya gawin 'yon .
+76.520	inLine	<no-speech>
+77.022	outLine	<int> <breath> alam ko naman 'yon 'yong <laugh> magiging ano 'yon kalaban niya <hes> .
+77.820	inLine	(()) .
+78.450	inLine	<no-speech>
+80.710	inLine	<no-speech>
+81.605	outLine	<no-speech>
+82.865	outLine	<no-speech>
+83.044	inLine	ano ?
+83.265	outLine	<no-speech>
+84.046	inLine	<no-speech>
+85.150	inLine	<no-speech>
+85.405	outLine	magulang <hes> magulang .
+87.000	inLine	<no-speech>
+87.095	outLine	<no-speech>
+87.555	inLine	magulang ba magulang ?
+89.192	inLine	maraya <hes> 'no .
+90.410	inLine	<no-speech>
+91.330	inLine	<no-speech>
+92.486	inLine	ito oo dami palang native dito kila Bebe <hes> .
+92.725	outLine	oo nga .
+94.136	outLine	<no-speech> ayaw niya siguro 'yong do'n lang itago natin do'n pare <no-speech> tang-ina <no-speech> aba imbes na maganda 'yong laro namin biglang bumaba si kagawad <hes> <no-speech> wala tuloy kaming ano .
+95.036	inLine	<no-speech>
+96.090	inLine	<no-speech>
+96.920	inLine	<sta> sabawan na natin .
+98.090	inLine	<no-speech>
+98.740	inLine	<no-speech>
+102.220	inLine	<no-speech>
+102.940	inLine	<no-speech>
+104.345

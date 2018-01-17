@@ -1,0 +1,63 @@
+0.000	inLine	<no-speech>
+0.000	outLine	kumusta ka naman ngayon ?
+1.410	inLine	kasi 'di ba <int> nag-aano lang baka .
+1.410	outLine	<no-speech>
+3.930	inLine	<no-speech>
+5.120	inLine	okey naman po .
+6.517	inLine	'yon lang .
+7.169	inLine	inayos ko lang po iyong sa S_S_S ni nanay .
+9.480	outLine	<sta> ah .
+9.650	inLine	<no-speech>
+10.371	outLine	<no-speech>
+11.430	outLine	<no-speech>
+12.360	outLine	<sta> ano naayos na ba ni .
+13.180	inLine	oo .
+13.814	inLine	inayos ko po 'yong sa S_S ni nanay .
+14.010	outLine	<no-speech>
+15.970	inLine	<no-speech>
+18.010	outLine	<sta> naayos na ni kuya mo 'yong %incomplete
+19.270	inLine	opo .
+19.347	outLine	<no-speech>
+19.742	inLine	medyo okey na po siya tita .
+20.540	outLine	<no-speech>
+21.680	inLine	<no-speech>
+21.990	outLine	ha ?
+22.790	inLine	iyong sa S_S_S po ?
+22.950	outLine	<no-speech>
+23.890	outLine	oo .
+24.050	inLine	<no-speech>
+24.597	outLine	<no-speech>
+25.454	outLine	na ano na ?
+25.490	inLine	iyong sa S_S_S tita ?
+26.161	outLine	<no-speech>
+26.892	inLine	<no-speech>
+27.317	outLine	naayos na ni kuya mo ?
+27.520	inLine	opo .
+28.487	inLine	naayos naman na .
+28.650	outLine	<no-speech>
+29.857	inLine	<breath> 'tapos ano .
+31.194	inLine	<no-speech>
+31.791	inLine	<lipsmack> opo .
+32.564	inLine	kaya lang ano pa 'yon tita <hes> for verifying pa mag-aantay pa kami ng isang buwan .
+36.380	outLine	tagal ano .
+36.770	inLine	<no-speech>
+37.400	outLine	<no-speech>
+38.670	outLine	matagal pa 'yon oo <hes> (()) .
+40.330	inLine	opo .
+41.063	inLine	mag-aantay pa po .
+41.800	outLine	<no-speech>
+42.790	outLine	<no-speech>
+42.869	inLine	<laugh> 'tapos mga <laugh> mga tamad pa daw iyong mga tao sa post office .
+44.460	outLine	<no-speech>
+47.812	inLine	<int> sabi araw-arawin namin iyong post office kapag hindi pa dumarating sa kanyang sulat ng isang buwan .
+53.970	outLine	<sta> oo .
+54.396	inLine	<int> <laugh> kasi mga tamad daw 'yon <hes> .
+54.580	outLine	<no-speech>
+55.773	outLine	ang hirap ano .
+56.617	outLine	<no-speech>
+57.600	inLine	<no-speech>
+57.810	outLine	gastos na ang hirap pa ng biyahe .
+60.070	inLine	mhm mhm .
+60.250	outLine	<no-speech>
+60.930	inLine	<no-speech>
+61.580
