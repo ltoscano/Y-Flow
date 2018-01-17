@@ -9,8 +9,8 @@ python test_preparation_for_ranking.py
 #unzip glove.6B.zip
 #mv glove.6B.50d.txt ../../data/toy_example/ranking/
 
-#wget https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.en.vec
-#mv wiki.en.vec ../../fastext/
+wget https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.en.vec
+mv wiki.en.vec ../../fastext/
 
 # 2. map word embedding
 python gen_w2v.py ../../fastext/wiki.en.vec word_dict.txt embed_fastext_d50
