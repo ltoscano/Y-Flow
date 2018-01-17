@@ -2,14 +2,15 @@
 import os
 import sys
 import numpy as np
-sys.path.append('../../matchzoo/inputs')
-sys.path.append('../../matchzoo/utils')
-from preparation import *
-from preprocess import *
-
+#sys.path.append('../../matchzoo/inputs')
+#sys.path.append('../../matchzoo/utils')
+from utils.preparation import *
+from utils.preprocess import *
+import nltk
+nltk.download('stopwords')
 
 if __name__ == '__main__':
-    basedir = '.'
+    basedir = ''
 
     # transform query/document pairs into corpus file and relation file
     prepare = Preparation()
