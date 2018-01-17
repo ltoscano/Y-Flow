@@ -1,0 +1,57 @@
+0.000	inLine	<no-speech>
+0.000	outLine	<no-speech>
+0.520	inLine	nag-iyak yata ako .
+1.250	outLine	<sta> ang tira naman face lift niyan .
+1.769	inLine	<no-speech>
+2.683	outLine	face lift ?
+2.776	inLine	mukhang naiyak 'ata ako sa graduation <hes> .
+3.340	outLine	<no-speech>
+4.870	inLine	<no-speech>
+5.290	outLine	<sta> ha ?
+5.700	inLine	mukhang naiyak 'ata ako sa graduation .
+5.780	outLine	<no-speech>
+7.890	inLine	<no-speech>
+7.990	outLine	<no-speech>
+9.046	outLine	ilang taon ka ba sa .
+10.190	outLine	<no-speech>
+10.330	inLine	ha ?
+10.884	inLine	<no-speech>
+11.200	outLine	ilang taon ka ba sa (()) ?
+12.430	outLine	<no-speech>
+13.278	inLine	anim na taon na yata ako sa Eris .
+14.290	outLine	<sta> ilang taon ka ba do'n ?
+15.294	inLine	<no-speech>
+15.360	outLine	<no-speech>
+16.300	outLine	<no-speech>
+17.134	inLine	tumatanda na 'ko sa Eris .
+19.150	inLine	<no-speech>
+19.400	outLine	<no-speech>
+20.220	outLine	<no-speech>
+20.600	outLine	<no-speech>
+20.680	inLine	habang tumatanda lalong ano .
+21.440	outLine	<no-speech>
+22.630	inLine	<no-speech>
+22.895	outLine	okey lang ngayon at least maka-graduate ka na .
+24.040	inLine	<no-speech>
+25.000	outLine	<no-speech>
+25.014	inLine	oo wala nang Pag-asa .
+27.350	inLine	<no-speech>
+27.360	outLine	<sta> ano ?
+28.160	inLine	<no-speech>
+28.341	outLine	<no-speech>
+29.821	outLine	di may Pag-asa na .
+30.650	inLine	<no-speech>
+31.438	outLine	<no-speech> kailan ba ano niyan exam na 'di ba ?
+32.790	inLine	ano -- ano ?
+32.990	outLine	<no-speech>
+33.431	inLine	<no-speech>
+34.040	outLine	<sta> may toga ka na .
+34.440	inLine	<no-speech>
+35.150	outLine	<no-speech>
+35.450	inLine	<no-speech>
+36.220	inLine	<no-speech>
+36.820	outLine	<sta> may toga ka na 'di ba ?
+37.840	inLine	ano -- ano ?
+37.940	outLine	<no-speech>
+38.530	inLine	<no-speech>
+39.640

@@ -1,0 +1,87 @@
+0.000	inLine	<no-speech>
+0.000	outLine	si Leng-Leng nandiyan <no-speech> ?
+1.170	inLine	wala (()) .
+1.580	outLine	katukin mo sabihin mo 'yong bra ko kunin mo 'yong bra ko .
+2.930	inLine	<no-speech>
+4.810	outLine	<no-speech>
+5.480	inLine	<no-speech>
+5.910	inLine	<no-speech>
+6.540	outLine	'andiyan pa 'yon .
+6.830	inLine	nakasarado .
+7.714	inLine	<no-speech>
+7.990	outLine	<no-speech>
+8.920	inLine	nakasarado .
+9.930	inLine	<no-speech>
+11.460	outLine	sabihin mo 'yong <hes> .
+11.740	inLine	<no-speech>
+12.980	inLine	<no-speech>
+13.075	outLine	<no-speech>
+13.420	inLine	<no-speech>
+13.676	outLine	sabihin mo 'yong bra ko .
+15.280	outLine	<no-speech>
+15.430	inLine	oo .
+16.110	inLine	<no-speech>
+20.340	outLine	'andoon 'yong bra ko naiwan eh .
+20.530	inLine	hello .
+21.013	inLine	<no-speech>
+22.089	outLine	<no-speech>
+22.255	inLine	oo .
+22.530	outLine	<no-speech>
+23.110	inLine	<no-speech>
+23.638	outLine	hello ?
+24.250	outLine	<no-speech>
+24.930	inLine	oo .
+25.640	inLine	<no-speech>
+26.910	outLine	kaya nga 'yong bra ko nga naiwan diyan kina Leng-Leng .
+27.530	inLine	<no-speech>
+29.105	inLine	oh ?
+29.714	inLine	<no-speech>
+29.860	outLine	<no-speech>
+30.660	outLine	'yong color blue .
+30.982	inLine	you .
+32.460	outLine	<no-speech>
+33.290	outLine	pakuha mo 'yong color blue .
+33.410	inLine	<no-speech>
+35.190	outLine	<no-speech>
+35.580	inLine	<int> 'yong ano .
+37.170	inLine	<no-speech>
+38.500	outLine	hello ?
+39.130	outLine	<no-speech>
+39.570	inLine	hello ?
+40.090	outLine	'asaan ka ba nandiyan ka sa labas ?
+40.280	inLine	<no-speech>
+41.790	outLine	<no-speech>
+41.800	inLine	nandito .
+42.178	inLine	nandito pa rin nakatayo .
+43.550	inLine	<no-speech>
+44.340	outLine	'yong bra kong kulay blue pakuha mo .
+46.650	outLine	<no-speech>
+46.680	inLine	<int> oo .
+47.810	inLine	<no-speech>
+49.640	outLine	'andiyan ka ba sa labas nga ?
+50.700	inLine	<sta> oo .
+51.260	outLine	<no-speech>
+52.140	inLine	<no-speech>
+52.970	inLine	<sta> Lyn .
+56.288	inLine	teka .
+56.620	outLine	o 'andito na pala si Leng-Leng eh .
+56.860	inLine	<no-speech>
+57.670	inLine	<sta> Lyn .
+58.480	outLine	<no-speech>
+59.580	outLine	<no-speech>
+59.970	outLine	<no-speech>
+60.322	inLine	oh .
+61.169	inLine	<no-speech>
+61.471	outLine	(()) .
+62.240	outLine	<no-speech>
+62.530	inLine	<no-speech>
+63.400	outLine	'andito na .
+64.420	outLine	<no-speech>
+64.660	inLine	<sta> dala na rin ?
+67.240	outLine	oo 'andito na si Leng-Leng .
+67.290	inLine	<no-speech>
+68.988	outLine	<no-speech>
+69.000	inLine	<int> o sige .
+69.570	outLine	<no-speech>
+70.539	inLine	<no-speech>
+71.960

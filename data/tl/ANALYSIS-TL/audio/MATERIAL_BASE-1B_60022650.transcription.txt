@@ -1,0 +1,65 @@
+0.000	inLine	<no-speech>
+0.000	outLine	<no-speech>
+1.660	inLine	<no-speech>
+4.113	inLine	tingnan mo kung may kanin pa .
+5.720	inLine	<no-speech>
+5.960	outLine	huh ?
+6.680	outLine	<no-speech>
+7.420	inLine	kakain ako diyan mamaya .
+8.738	inLine	<no-speech>
+9.472	inLine	kakain ako diyan mamaya .
+10.800	inLine	<no-speech>
+11.660	outLine	uh mhm .
+12.470	outLine	<no-speech>
+13.810	outLine	<no-speech>
+15.480	outLine	<no-speech>
+15.520	inLine	<no-speech>
+16.260	inLine	<no-speech>
+17.490	inLine	ano palabas sa channel seven ?
+19.256	inLine	tingnan mo nga .
+19.730	outLine	<no-speech>
+20.022	inLine	<no-speech>
+20.190	outLine	<no-speech>
+21.190	outLine	pagkain ?
+22.320	outLine	<no-speech>
+23.140	outLine	(()) .
+23.580	inLine	<no-speech>
+23.850	outLine	<no-speech>
+26.530	inLine	<no-speech>
+27.090	outLine	lang .
+27.351	inLine	hindi .
+27.660	outLine	<no-speech>
+27.915	inLine	may laban mamaya sa ano sa volleyball .
+30.399	inLine	may laban .
+31.530	outLine	<no-speech>
+31.660	inLine	<no-speech>
+32.862	outLine	baka -- baka .
+33.360	inLine	mamaya ?
+34.080	inLine	<no-speech>
+34.860	outLine	<no-speech>
+36.790	inLine	ano ?
+37.460	inLine	<no-speech>
+37.850	outLine	baka -- baka mayroon .
+39.430	inLine	<no-speech>
+39.996	inLine	P_B_A mayroon ?
+40.290	outLine	<no-speech>
+41.021	inLine	<no-speech>
+41.580	outLine	huh ?
+41.730	inLine	P_B_A ?
+42.190	outLine	<no-speech>
+42.550	inLine	<no-speech>
+43.260	outLine	<no-speech>
+43.790	outLine	<no-speech>
+44.890	inLine	P_B_A mayroon ?
+46.010	inLine	<no-speech>
+47.200	outLine	<no-speech>
+47.810	outLine	<no-speech>
+48.750	outLine	yata .
+49.610	outLine	<no-speech>
+50.850	inLine	Edrie ?
+51.840	inLine	<no-speech>
+52.640	outLine	mhm .
+53.236	outLine	<no-speech>
+53.430	inLine	yata .
+54.200	inLine	<no-speech>
+54.470

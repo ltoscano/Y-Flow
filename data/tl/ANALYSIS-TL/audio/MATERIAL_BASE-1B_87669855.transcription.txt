@@ -1,0 +1,170 @@
+0.000	outLine	oh 'yan na .
+0.000	inLine	<no-speech>
+0.880	outLine	<no-speech>
+2.570	inLine	daya ano daw ubong mo ?
+4.342	inLine	<no-speech>
+5.355	inLine	sa'n mo nga ubong ?
+6.987	inLine	<no-speech>
+8.671	inLine	tapay daw Ma tapay si Ubeng .
+11.300	outLine	<sta> bakit hindi pumunta si ate mo ay si tita mo ?
+11.430	inLine	<no-speech>
+12.560	inLine	Ma ?
+13.210	inLine	<no-speech>
+15.284	outLine	<no-speech>
+16.210	outLine	<no-speech>
+16.830	inLine	Ma ?
+17.440	outLine	bakit hindi pumunta si tita mo ?
+17.620	inLine	<no-speech>
+19.130	inLine	ha ?
+19.322	outLine	<no-speech>
+19.685	outLine	bakit hindi pupunta ?
+19.730	inLine	<no-speech>
+21.020	outLine	<no-speech>
+22.160	outLine	<no-speech>
+22.520	outLine	<no-speech>
+24.680	outLine	(()) .
+25.151	outLine	<no-speech>
+26.060	outLine	<no-speech>
+26.110	inLine	pupunta ka ng D_S_W_D ?
+27.828	outLine	ah .
+28.210	inLine	<no-speech>
+29.087	outLine	nakaalis na ba hindi pa ?
+30.640	inLine	si tita ang pupunta sa D_S_W_D .
+30.783	outLine	<no-speech>
+32.310	outLine	<no-speech>
+33.180	inLine	<no-speech>
+34.450	inLine	hindi pa para ka tito Atan 'yon eh .
+36.774	inLine	<no-speech>
+36.890	outLine	bakit daw ?
+37.910	outLine	<no-speech>
+38.318	inLine	mamaya pa raw alas-dos .
+39.330	outLine	<no-speech>
+39.720	outLine	<no-speech>
+40.590	inLine	<no-speech>
+40.840	outLine	sayang sana sama ako .
+42.040	inLine	ha ?
+42.667	outLine	<no-speech>
+42.930	inLine	<no-speech>
+43.203	outLine	sama ako .
+44.070	outLine	<no-speech>
+46.810	inLine	ano 'yun eh kay tito Atan .
+48.810	outLine	(()) .
+49.461	outLine	<no-speech> kaya nga .
+50.780	inLine	<no-speech>
+51.478	outLine	bakit pinuntahan sila ?
+51.720	inLine	<int> ha ?
+53.110	outLine	<no-speech>
+54.310	inLine	<no-speech>
+54.670	outLine	pinuntahan sila ?
+55.810	inLine	pinuntahan daw kayo 'ta ?
+56.140	outLine	<no-speech>
+58.901	inLine	<no-speech>
+60.243	inLine	'ta pinuntahan ka raw dito ?
+62.723	inLine	<no-speech>
+63.097	inLine	oo daw .
+63.525	outLine	<no-speech>
+64.303	inLine	<no-speech>
+64.609	inLine	kasama niya si ate Tess si tita Diane .
+67.700	inLine	ay si ate Nilang pala wala si tita Diane .
+70.200	inLine	<no-speech>
+70.910	outLine	ah bakit wala na si Diane ?
+72.607	outLine	<no-speech>
+73.830	inLine	'yung kay Bugoy .
+73.940	outLine	<no-speech>
+75.180	inLine	<no-speech>
+76.100	outLine	kaya nga wala .
+76.970	outLine	bakit wala si Diane ?
+77.190	inLine	ha ?
+77.830	inLine	<no-speech>
+78.470	outLine	<no-speech>
+80.010	outLine	wala rin si Bugoy ?
+81.870	outLine	<no-speech>
+82.370	inLine	nasa trabaho .
+83.690	inLine	<no-speech>
+84.600	inLine	kasali si Bugoy .
+88.170	inLine	<no-speech>
+88.260	outLine	<no-speech>
+88.950	outLine	sino pupunta ?
+89.520	inLine	pero hindi nila kasama 'yung ano mga ano mga sa- -- mga may sakit .
+89.920	outLine	<no-speech>
+93.520	outLine	kaya nga sino pupunta kay Bugoy ?
+93.626	inLine	<no-speech>
+94.461	inLine	ha ?
+95.090	inLine	<no-speech>
+95.505	outLine	<no-speech>
+96.560	outLine	<no-speech>
+98.740	outLine	(()) .
+99.220	inLine	si ate Ne .
+99.250	outLine	<no-speech>
+100.170	inLine	<no-speech>
+100.200	outLine	ah .
+101.550	outLine	<no-speech>
+103.410	inLine	si ate Ne .
+104.430	inLine	<no-speech>
+104.480	outLine	oo .
+105.349	outLine	<no-speech>
+106.148	outLine	bakit mamaya pa ng 'yong sa 'yo ?
+108.222	outLine	<no-speech>
+109.160	inLine	<no-speech>
+109.690	inLine	<no-speech>
+112.524	outLine	ano tapos na ?
+112.940	inLine	ha ?
+113.550	inLine	<no-speech>
+114.290	outLine	<no-speech>
+118.490	outLine	<sta> ano pupunta kayo ?
+118.510	inLine	hindi pa .
+119.560	inLine	<no-speech>
+122.600	inLine	'andito na pala si Lot .
+123.310	outLine	<no-speech>
+123.980	inLine	<no-speech>
+124.629	outLine	ngayon lang ?
+125.700	outLine	<no-speech>
+126.540	outLine	<sta> ngayon lang dumating ?
+127.260	inLine	ha ?
+127.850	inLine	<no-speech>
+129.630	inLine	oo ngayon lang kararating lang .
+129.700	outLine	<no-speech>
+130.940	outLine	<sta> naglakad kasi .
+131.810	inLine	<no-speech>
+133.070	inLine	ngayon lang .
+133.960	inLine	<no-speech>
+135.560	inLine	<no-speech>
+135.621	outLine	<no-speech>
+135.920	inLine	<no-speech>
+137.540	inLine	ewan ko bakit .
+137.810	outLine	<no-speech>
+138.478	inLine	ha ?
+139.330	inLine	<no-speech>
+140.310	outLine	<no-speech>
+140.560	inLine	naglakad ka lang ba Lot ?
+141.440	outLine	<no-speech>
+141.905	inLine	<no-speech>
+142.539	inLine	oo daw .
+142.580	outLine	<no-speech>
+143.440	inLine	<no-speech>
+144.220	outLine	<no-speech>
+145.710	inLine	Ma .
+146.370	inLine	<no-speech>
+146.370	outLine	naglakad kasi 'yan .
+147.830	inLine	Ma ?
+147.868	outLine	<no-speech>
+148.440	inLine	<no-speech>
+148.863	outLine	oh .
+149.400	outLine	<no-speech>
+151.350	inLine	naglakad nga lang daw siya .
+153.020	outLine	oo nga .
+153.260	inLine	<no-speech>
+153.992	outLine	<no-speech>
+159.370	inLine	<no-speech>
+159.760	outLine	<no-speech>
+161.130	inLine	<no-speech>
+162.490	inLine	'pag 'yaan %incomplete
+163.096	inLine	Mama 'pag umuwi si bunso mamayang gabi bibigay mo 'yung dalawang daan .
+166.260	outLine	<sta> sukli oh .
+166.730	inLine	<no-speech>
+167.575	outLine	<no-speech>
+169.970	inLine	ha ?
+170.448	outLine	ilang candy ?
+170.590	inLine	<no-speech>
+171.610	outLine	<no-speech>
+172.160

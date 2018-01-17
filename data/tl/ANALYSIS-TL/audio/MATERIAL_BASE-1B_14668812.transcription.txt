@@ -1,0 +1,277 @@
+[0.000]
+good morning senator .
+[1.326]
+good morning miss Cheryl .
+[2.229]
+okey po .
+[2.800]
+<int> narinig n'yo po ang panig ng administrasyon .
+[5.371]
+ano po ang reaksiyon n'yo sa kanilang mga sagot ?
+[8.000]
+<int> <hes> makita n'yo 'yong mga sagot ng <hes> -- ng Malacañang hindi ina-address directly 'yong issue ano .
+[13.660]
+at in this case nagtatago si presidente Duterte mismo ano .
+[17.462]
+<hes> ganiyan 'yan eh .
+[19.010]
+ma- -- mapapansin n'yo sa mga <hes> isyung mga maliliit papatulan ni presidente .
+[24.026]
+magmumura-mura siya .
+[24.985]
+pero pagka ganitong harapin siya ng katotohanan eh <hes> nauutal 'no .
+[29.525]
+nagtatago sa mga <hes> alipores niya .
+[32.042]
+mm .
+[32.870]
+paano po kayo <int> nakumbinsi o bakit po kayo kumbinsido na totoo po ang mga sinasabi ni Lascañas ?
+[40.090]
+alam n'yo tayong mga tao marunong tayong mag- -- <hes> -- mag- -- <hes> -- m- -- mangilatis kung <hes> isang tao ay nagsasabi ng totoo o hindi .
+[48.910]
+so bukod pa riyan ay tiningnan natin talaga 'yong mga <hes> istorya niya 'no .
+[53.338]
+kasi hindi lang naman isto-istorya ni Lascañas mayro'n kang Matobato at iba pang- -- mga -- mga circumstances ano .
+[60.327]
+mm .
+[60.660]
+just the fact na itong tao na 'to kaka-retired na sa serbisyo eh puwede na 'tong mam- -- mamuhay ng tahimik eh .
+[68.980]
+pero lumabas siya at <hes> ya- -- he is risking his life .
+[73.930]
+biruin mo presidente ang kinakalaban niya dito na alam niyang mamamatay-tao <breath> pero ginawa pa rin <int> niya dahil nakalabit 'yong konsensiya niya eh .
+[82.090]
+mhm .
+[82.484]
+pero senator ang <int> nasisilip po kasi ngayon 'yong kaniyang pagbaliktad .
+[86.209]
+kung -- pero kung sinasabi nga na binabaliktad niya ang kaniyang naunang pahayag mas nagiging kuwestiyonable ngayon 'yong kaniyang kredibilidad .
+[94.869]
+<lipsmack> well sabi ko nga ano pagharap niya sa senado muli makikilatis siya ng taumbayan .
+[100.275]
+alam ng <hes> mga kababayan natin kung -- kung 'yong istorya mo ay gawa-gawa lang or <hes> talagang <hes> bumaliktad ka dahil nakunsensiya ka .
+[109.433]
+so ikukumpara natin 'to do'n sa mga <hes> bilibid convicts na ginamit na testigo laban kay senator de Lima <breath> .
+[115.950]
+'yong mga 'yon talagang <hes> mga nakakulong na 'yon na kung kredibilidad lang pinag-uusapan <hes> <hes> convicted drug Lord na nga eh tapos papaniwalaan nga ng Malacañang eh 'di ba ?
+[125.954]
+mm .
+[126.198]
+ito pulis ito .
+[127.139]
+bago lang ito na retire so <hes> makikita ng <hes> mga kababayan natin 'yan .
+[132.416]
+ang tanong din po ng marami ngayon I'm just not sure kung <hes> sasa- -- kung masasagot n'yo po ay <int> hindi rin po napag-usapan sa press conference ano talaga 'yong dahilan niya ?
+[142.838]
+ba- -- why this time bakit bigla na lamang siya bumaliktad ?
+[146.773]
+<hes> 'yon na nga ano .
+[148.232]
+<hes> pagdating ng hearing 'yan 'yong mga una niyang <hes> sasagutin .
+[152.740]
+kailangan niyang makumbinsi ang mga kababayan natin na <hes> ito ay <hes> walang bahid na pulitika walang <hes> personal <hes> motivation o personal interest .
+[163.068]
+so makikita 'yan .
+[164.210]
+mhm .
+[164.690]
+okey <hes> ma- -- <hes> -- dito po as far as <hes> senate is concerned ano po ang plano kay Lascañas ?
+[172.630]
+mag-start na po 'yong hearing under <hes> sa committee po ni <hes> senator Ping .
+[178.264]
+yes .
+[178.754]
+mhm .
+[179.087]
+<no-speech>
+[179.920]
+last night <hes> nag- -- nag-privilege speech ako at pina-refer ko 'yong aking speech sa committee ni senator Lacson at <hes> sabi naman ni senator Lacson 'pag na-refer sa kaniya magka- -- mag-schedule na siya ng hearing <breath> <hes> probably next week .
+[196.040]
+okay .
+[196.575]
+mm .
+[196.947]
+pag- -- pag-usapan naman po natin kasi po sumabay sa isyung ito 'yon pong mga sinasabing bank accounts po ano ni president Duterte .
+[204.572]
+ano na po ba ang update ?
+[206.088]
+okey I have all the bank records here .
+[208.756]
+yes .
+[209.220]
+ano po ang update natin dito <hes> senator ?
+[211.517]
+okey .
+[212.027]
+<hes> isiniwalat ko 'to no'ng <hes> kampanya kaso hindi nila in-address ano .
+[217.644]
+nagtago nga ano si president Duterte dito sa issue na ito kaya pinaalalahanan ko lang ulit na siyam na buwan na 'yong nakalipas na 'yong pangako nila na ilalabas nila 'yong bank transactions ay hindi pa rin nila nagagawa .
+[230.648]
+so ngayon na medyo humupa 'yong <hes> ano na 'yong ingay ng <hes> kampanya at least eh makikita na no'ng tao na <hes> na talagang may <hes> problema rito ano at hinamon ko pa na <breath> pagka ako nagkamali diyan eh mag-re-resign ako <hes> bilang senador <breath> .
+[247.000]
+pero nakita n'yo 'yong <hes> reaksiyon nila ay nagtago sa mga teknikalidad <breath> .
+[251.770]
+ngayon sinabi niya 'yong AMLAC ay <hes> inutusan niya na buksan .
+[255.323]
+ah huh .
+[255.796]
+so ngayong <hes> araw na ito susulatan ko 'yong AMLAC nang sa gano'n ay makuha ko 'yong mga <hes> reported <hes> transactions under the name of <hes> Rodrigo Duterte .
+[267.747]
+so kung baga i-ca-call ko 'yan .
+[268.927]
+hindi ko 'to lulubayan .
+[270.264]
+mhm .
+[270.760]
+hanggang sa makita natin 'yong katotohanan dito .
+[273.336]
+at the same time nag-file na rin po ako nitong <hes> kaso kay president Duterte ng plunder sa ombudsman .
+[279.100]
+mhm .
+[279.651]
+ginamit ko 'yan bilang ebidensiya .
+[281.408]
+last year pa 'to huh May twenty sixteen .
+[283.880]
+kaya 'yong sinasabing kung may ebidensiya ka mag-file ka sa korte .
+[286.800]
+nag-file na ako .
+[287.874]
+ngayon <breath> iniimbestigahan ng ombudsman kaya nga nanawagan din ako na <hes> bilisan nila 'yong imbestigasyon .
+[293.834]
+mhm 'yon pong sa AMLAC kung <hes> -- although ang sinasabi po ng isang <hes> professor ano po na eksperto po dito hindi basta-basta puwedeng utusan ng kahit sino man na opisyal na <hes> kung ano man 'yong dapat gawin ng AMLAC .
+[308.750]
+pero hindi %incomplete
+[309.225]
+wouldn't it be easier for -- mismong sa kampo na lang po ni pangulong Duterte na sila na m- -- ang magsiwalat ng mga bank transactions na ito ?
+[316.860]
+'yon na nga ang sinasabi ko na pinakamadali nito ay iboluntaryo nilang ilabas o kaya mag-sign siya ng waiver %incomplete
+[323.825]
+but then they do that before the <hes> -- during the campaign period .
+[326.720]
+'yon na nga makikita n'yo yo- -- 'yong sinabi nito ni <hes> -- ni Panelo 'no .
+[330.324]
+alam n'yo sinungaling 'yan .
+[331.948]
+no'ng nagpunta kami ng B_P_I hindi siya nagbigay ng waiver .
+[336.230]
+binigyan bang kopya ng <hes> media no'ng waiver na 'yon ?
+[338.573]
+wala nga kayong kopya kasi hindi waiv- -- 'yong waiver na 'yon para sa kaniya lang <int> .
+[343.360]
+<hes> no'ng <hes> nagtagpo kami dito sa B_P_I Julia Vargas ang <hes> usapan namin <hes> ano daw ano dapat siya maghaharap kami .
+[352.124]
+nagtago siya .
+[353.440]
+eh <hes> ang tapang daw niya pero nagtago siya eh .
+[355.569]
+eh sabi ko nga pagka -yag -- -yag- -- bigya- -- harapin mo ng katotohanan si Duterte ay nagtatago .
+[361.680]
+so anyway pinadala niya abogado niya <breath> .
+[363.959]
+sabi nila may waiver sila .
+[365.280]
+tinanong ko 'yong B_P_I officials o may waiver na raw ibigay n'yo na 'yong dokumento .
+[368.661]
+sabi niya hindi 'yong waiver para sa abogado kay Panelo .
+[371.576]
+mhm .
+[371.989]
+tinanong ko 'yong abogado o <hes> ibibigay mo ba 'yong dokumento 'pag binigay sa 'yo ng B_P_I ?
+[377.051]
+ang sabi niya ay hindi .
+[378.189]
+'yong waiver para sa akin ibibigay ko sa kliyente ko kay Duterte <breath> .
+[381.490]
+so nililinlang nila 'yong tao .
+[383.238]
+kaya nga hanggang ngayon siyam na buwan na wala pa rin 'di ba ?
+[386.054]
+s- -- so ano po <int> ang inyong hamon kay pangulong Duterte na sa kaniya na manggaling mismo ?
+[390.489]
+mhm .
+[391.172]
+dapat mag- -- kung wala siyang tinatago ay iboluntaryo niya na 'yong impormasyon .
+[397.049]
+at <hes> na mayro'n siyang kumbaga 'yong tran- -- bank history niya 'no transaction history niya ng sa gano'n mapahiya niya na 'ko at ora mismo mag-re-resign ako .
+[406.182]
+wala na siyang kritiko sa senado di tapos na .
+[409.380]
+kaso nga hindi niya gagawin kasi may tinatagong yaman siya na aabot sa dalawang bilyong piso 'yon nga lang deposits and transactions <lipsmack> .
+[417.094]
+okey .
+[417.590]
+<int> deretsahang tanong po at gano'n din ang sinasabi niya mag-re-resign daw po siya bilang <hes> presidente kung mapapatunayan n'yong mayro'n po siyang two billion pesos .
+[427.790]
+ito po ba'y kaya n'yong mapatunayan ?
+[429.950]
+yes .
+[430.476]
+'yong <hes> dalawang <hes> mode namin diyan .
+[432.876]
+ka- -- kung hindi niya magboboluntaryo ng <hes> waiver or <hes> ilalabas niya talaga 'yong ombudsman <hes> case hinihintay <int> natin at 'yong sa AMLAC hinihintay din natin .
+[444.732]
+so 'pag isa diyan sa mga -- mga <hes> institution na 'yan ay <hes> magbigay ng <hes> kompirmasyon regarding these accounts eh di <hes> sisingilin natin siya sa pag resign .
+[456.084]
+<int> mm .
+[456.588]
+klaruhin lamang po <int> natin .
+[457.978]
+ano po -- 'yon -- 'yong pong pinag-usapan nating two billion as in one time transaction na nagka-two billion or are we talking about na na 'pag pinag- -- <hes> -- dag- -- pinag- -- <hes> sama-sama mo ay aabot po sa two billion at one point ?
+[472.657]
+yes .
+[473.307]
+<hes> ganito 'yan ano lahat no'ng -- itong sa mga dokumento na ito %incomplete
+[477.070]
+opo .
+[477.529]
+nakapasok 'yong transaksiyon 'yong deposits kung baga deposits or credits 'yong papasok na pera .
+[483.140]
+'pag sinuma mo from two thousand six hanggang two thousand fifteen mahigit dalawang bilyong piso bukod pa ro'n sa mga daan-daang milyon na nakalagay sa pangalan no'ng mga anak niya .
+[493.640]
+so ganiyan 'yong aking <hes> mga alegasyon .
+[496.838]
+at sa 'min kasi <lipsmack> alam n'yo kumpiyansang kumpiyansa ako na totoo ito kasi <int> i- -- isinasangkalang ko nga 'yong pagiging senador ko eh 'no .
+[506.422]
+mhm .
+[506.651]
+at hindi lang 'yan 'yong buhay ko rito .
+[509.170]
+dahil alam ko nga eh mamamatay-tao nga 'yong presidente eh .
+[512.227]
+bakit ko gagawin 'yan <breath> ?
+[513.609]
+tapos <hes> gawa-gawa lang 'yong dokumento .
+[515.845]
+kaya nga hindi siya makaharap eh .
+[517.242]
+at alam mo kahit ma-prove ko 'yan hindi mag-re-resign si <hes> president Duterte .
+[521.760]
+kagaya no'ng sinabi niyang three to six months na <hes> i-so-solve din daw niya 'yong crime corruption at <hes> illegal drugs lumipas na 'yon pero nag-resign ba ?
+[531.521]
+hindi .
+[531.875]
+walang isang salita 'yan .
+[533.210]
+bolero 'yan .
+[533.788]
+mhm .
+[534.252]
+<breath> so <int> ano -- ano po ang mangyayari diyan ?
+[536.191]
+hindi naman po po siya puwedeng <hes> kasuhan ka- -- dahil po ito ay during -- when he was a mayor .
+[542.530]
+well titingnan natin .
+[543.741]
+pagka na- -- <hes> -- na-prove na natin 'yang mga 'yan <hes> along with the other <hes> potential cases eh <hes> puwede na natin siyang sampahan ng impeachment <hes> ng sa gano'n maharap niya na 'to in the proper courts .
+[556.275]
+'pag sinabi po nating impeachment <int> kahit na po sabihing -- anong <hes> sabihin natin it's a numbers game .
+[561.709]
+would you have the numbers ?
+[563.175]
+well obligasyon na 'yon ng mga kababayan natin ano ?
+[565.906]
+kunwari <hes> makikita nila na 'yong presidente nila <int> mamamatay-tao at the same time kurakot pa eh tayo na <int> 'yong mga problema bilang Pilipino kung okey lang sa atin 'yon <no-speech> 'di ba ?
+[577.670]
+senator Antonio ~ %incomplete
+[578.545]
