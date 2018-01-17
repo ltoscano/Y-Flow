@@ -11,8 +11,8 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords as nltk_stopwords
 from nltk.stem import SnowballStemmer
 
-sys.path.append('../inputs')
-sys.path.append('../utils')
+#sys.path.append('../inputs')
+#sys.path.append('../utils')
 from preparation import *
 from rank_io import *
 
@@ -490,7 +490,7 @@ def _test_hist():
 if __name__ == '__main__':
     #_test_ngram()
     # test with sample data
-    basedir = '../../data/example/ranking/'
+    basedir = '../'
     prepare = Preparation()
     sample_file = basedir + 'sample.txt'
     corpus, rels = prepare.run_with_one_corpus(sample_file)

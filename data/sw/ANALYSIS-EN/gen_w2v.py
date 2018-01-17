@@ -6,7 +6,7 @@ from tqdm import tqdm
 w2v_file = open(sys.argv[1])
 word_map_file = open(sys.argv[2])
 
-#word_count, embed_dim = w2v_file.readline().strip().split()
+word_count, embed_dim = w2v_file.readline().strip().split()
 
 word_map_w2v = {}
 word_dict = {}
