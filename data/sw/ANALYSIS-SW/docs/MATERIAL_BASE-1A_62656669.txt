@@ -1,0 +1,26 @@
+<sta> ka nchini Burundi .
+ukimbizi sasa basi .
+<no-speech>
+<sta> ukimbizi umekwisha .
+<sta> nyinyi ni Watanzania .
+<no-speech>
+<sta> Tanzania iliwapokea wakimbizi wa <sta> kwanza kutoka nchini Burundi baada ya mapigano na mauaji ya kikabila <sta> baina ya wagungi na watusi mwezi Machi mwaka elfu moja mia tisa sabini na mbili na kuwahifadhi mkoani Tabora katika Kambi ya (()) <sta> ya kwanza kwa ajiri ya wakimbizi kutoka Burundi .
+<sta> kufuatia kuendelea kwa mapigano ya kikabila nchini Burundi na wimbi la wakimbizi kuongezeka nchini Tanzania .
+<sta> mwaka elfu moja mia tisa sabini na tatu Tanzania ilifungua Kambi mpya ya wakimbizi ya Katumba wilayani Mpanda nayo makazi ya wakimbizi ya Mishamo <sta> yalifunguliwa wilayani Mpanda baada ya mafuriko ya mvua kutokea katika Kambi ya Unyankuru mkoani Tabora .
+<misc> twaishukuru nchi ya Tanzania kwa kutupa uraia sisi warudi .
+uliokuwa wa kweli wa nchi hii <misc> .
+<misc> bariki viongozi Watanzania .
+<misc>
+<sta> katika sherehe hizi za kuishukuru serikali ya Tanzania kwa kuwapa uraia <sta> wakimbizi zaidi ya laki moja na sitini na mbili na hamsini na nane alfu kutoka nchini Burundi <misc> mwakilishi washirika la kimataifa la kuhudumia wakimbizi duniani U_N_H_C_R (()) amesema Tanzania ndiyo nchi inayoongoza duniani kutoa uraia <sta> kwa watu wengi kwa wakati mmoja .
+no any state has ever granted citizenship <sta> to A group of refugees of this size at once .
+hakuna nchi yoyote au taifa lolote <int> iliyowahi kutoa uraia kwa wakimbizi <sta> katika ukubwa wa namna hii .
+waziri wa mambo ya ndani ya nchi mheshimiwa Mathias Chikawe amesema serikali ya Tanzania pamoja na kuongoza duniani kwa kutoa uraia uzalendo upewe kipau mbele .
+hatimaye uamuzi wa kihistoria ulifanyika <no-speech> kwa idadi kubwa kabisa ya watu kupata uraia kwa mpigo .
+<no-speech>
+<int> haijapata kutokea dunia pote mpaka leo hii .
+<no-speech>
+<sta> hakuna nchi duniani ilipokea wakimbizi ikawapa uraia %incomplete
+kwa namba kubwa kama laki moja sitini na mbili elfu na hamsini na nane haijawahi kutokea .
+<int> ni Tanzania peke yake .
+kwanza sisi Watanzania na nyinyi Watanzania wenzetu mlikuja kutuunga mkono tujivune sana kwa kupewa uraia huu na Watanzania na Chama cha Mapinduzi .
+<misc>
