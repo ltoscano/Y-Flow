@@ -42,6 +42,8 @@ for filename in os.listdir('docs/'):
             #print(docs[filename])
         f.close()
 for q in q2d:
+    if q not in q2text:
+        continue
     for d in docs:
         if d in q2d[q]:
             w.write('1\t'+q2text[q]+'\t'+docs[d]+'\n')
