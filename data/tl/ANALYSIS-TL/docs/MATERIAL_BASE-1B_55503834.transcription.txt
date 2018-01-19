@@ -1,0 +1,19 @@
+[0.000]
+puwedeng mag-generate ng electricity .
+[1.850]
+ang National Irrigation Administration naman sinasabing hindi kailangang mangamba ng mga magsasaka para sa irigasyon ng kanilang pananim sa susunod na cropping season .
+[10.920]
+gayunman <sta> tiwala ang mga namamahala ng dam na hindi sasadsad sa critical level ang tubig sa Magat dahil sa pagsapit ng tag-ulan .
+[19.730]
+<int> hindi na rin daw kailangan magbawas ng supply ng patubig dahil tapos na raw ang harvest season sa ekta-ektaryang sakahan sa Isabela Quirino at Ifugao .
+[29.944]
+usually April May kasi <sta> wala ng <hes> release for irrigation .
+[36.088]
+mas maaga ang ulan <sta> inaaga naman namin 'yong start ng next cropping .
+[42.580]
+<sta> kung minsan nag-start kami ng May sixteen gano'n .
+[46.034]
+noong two thousand ten bumagsak <sta> sa critical level ang tubig sa dam at nagresulta ito sa pagkatuyot ng mga sakahan at fish kill sa mga palaisdaan .
+[55.630]
+bagay na <int> hindi na raw <sta> mauulit pa ~ %incomplete
+[57.235]

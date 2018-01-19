@@ -1,0 +1,19 @@
+[0.000]
+Food and Drug Administration nagbabala sa basta-bastang paggamit ng mga produktong pangontra umano sa dengue .
+[7.490]
+<overlap> .
+[9.486]
+lotion <overlap> baka galing (()) China hindi naman ?
+[13.410]
+hindi naman .
+[13.973]
+<overlap> mga imbento 'yan ng ating mga kababayan .
+[16.220]
+pero 'yong mga pandikit na 'yon usually pang bata pang baby <overlap> .
+[20.929]
+<sta> minsan may sinasabing placitronella madami kasing pang-alis pambugaw ng lamok eh .
+[26.710]
+pero 'yon nga lang dapat maingat tayo dahil hindi rin naman natin alam kung saan galing 'di ba ?
+[30.701]
+pero importante diyan 'yong paligid ho natin linisin natin .
+[33.649]

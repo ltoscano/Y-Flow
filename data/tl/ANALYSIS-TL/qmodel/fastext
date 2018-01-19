@@ -1,0 +1,5325 @@
+<parameters>
+<query>
+<type>indri</type>
+<number>query879</number>
+<text>
+#combine(
+#wsyn(
+0.46 pangkombat
+0.44 hyundai
+0.43 shomonkai
+0.42 wbc
+0.42 kenkyuusei
+0.42 pangkomiks
+0.42 gō
+0.42 pangkomyuter
+0.42 yonkoma
+0.42 kombat
+)
+#wsyn(
+0.46 rikka
+0.46 narda
+0.45 yuunosuke
+0.45 ogdru
+0.44 zabuza
+0.44 mahiyain
+0.43 jennylyn
+0.43 maruko
+0.43 tomboy
+0.43 muhlach
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query485</number>
+<text>
+#combine(
+#wsyn(
+0.62 paggastos
+0.58 nagastos
+0.58 gastos
+0.57 magastos
+0.54 inplasyon
+0.54 ginagastos
+0.54 us$
+0.54 gumagastos
+0.53 presyo
+0.51 piso
+)
+#wsyn(
+0.56 at
+0.55 ng
+0.50 ang
+0.50 iabng
+0.50 na
+0.50 hòa
+0.49 ay
+0.49 sa
+0.49 visegrád
+0.48 mga
+)
+#wsyn(
+0.49 nanirahan
+0.48 pinaninirahan
+0.48 manirahan
+0.47 panirahan
+0.47 naninirahan
+0.47 maninirahan
+0.47 naninirahang
+0.45 namumuhay
+0.45 paninirahan
+0.45 mamuhay
+)
+#wsyn(
+0.49 suweldo
+0.48 ibayad
+0.48 pagbayad
+0.47 sweldo
+0.46 paggastos
+0.46 bayad
+0.46 paggasta
+0.45 obligasyon
+0.45 magbayad
+0.45 benepisyaryo
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1122</number>
+<text>
+#combine(
+#wsyn(
+0.55 bilang
+0.51 rin
+0.45 京
+0.45 ŭ
+0.45 tāj
+0.44 李
+0.43 대한민국
+0.43 kelmendi
+0.43 o
+0.43 수상
+)
+#wsyn(
+0.70 malamig
+0.64 napakalamig
+0.63 malalamig
+0.61 mainit
+0.60 lumalamig
+0.59 lamig
+0.59 napakainit
+0.58 pinalamig
+0.57 pangmalamig
+0.57 tagtuyot
+)
+#wsyn(
+0.55 bilang
+0.51 rin
+0.45 京
+0.45 ŭ
+0.45 tāj
+0.44 李
+0.43 대한민국
+0.43 kelmendi
+0.43 o
+0.43 수상
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query337</number>
+<text>
+#combine(
+#wsyn(
+0.65 langis
+0.53 petrolyo
+0.51 gasolina
+0.50 petrolyong
+0.50 gas
+0.49 malangis
+0.46 gasgas
+0.46 bangis
+0.45 panghimagas
+0.45 petrol
+)
+#wsyn(
+0.58 kompanyang
+0.57 kompanya
+0.56 kumpanyang
+0.55 kumpanya
+0.53 inkorporada
+0.51 companya
+0.51 korporasyong
+0.51 monopolyo
+0.51 kooperatibang
+0.49 korporasyon
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query312</number>
+<text>
+#combine(
+#wsyn(
+1.00 Tagalogelection
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query336</number>
+<text>
+#combine(
+#wsyn(
+0.65 kuryente
+0.65 dekuryente
+0.61 pagkukuryente
+0.61 hidroelektriko
+0.59 elektriko
+0.58 elektrisidad
+0.58 enerhiya
+0.57 kuryenteng
+0.57 elektrikong
+0.57 dekuryenteng
+)
+#wsyn(
+0.53 kakulangan
+0.52 kakulangang
+0.47 nagastos
+0.46 paggastos
+0.45 malnutrisyon
+0.45 magastos
+0.44 malulubhang
+0.44 konsumidor
+0.44 pagdagsa
+0.44 taggutom
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query355</number>
+<text>
+#combine(
+#wsyn(
+0.52 garfish
+0.50 jellyfish
+0.49 isda
+0.49 soybean
+0.48 gawgaw
+0.48 pusit
+0.47 fish
+0.47 butterflyfish
+0.47 hagfish
+0.47 lumot
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query414</number>
+<text>
+#combine(
+#wsyn(
+0.64 terorista
+0.64 terorismo
+0.63 teroristang
+0.63 terorismong
+0.61 narkoterorismo
+0.59 qaeda
+0.57 gaddafi
+0.57 pambobomba
+0.57 militante
+0.57 terrorismo
+)
+#wsyn(
+0.54 pangkat
+0.46 samahán
+0.45 subgrupong
+0.44 groupong
+0.44 grupong
+0.44 iangkat
+0.43 angkat
+0.42 jyp
+0.42 syco
+0.41 pangkating
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query341</number>
+<text>
+#combine(
+#wsyn(
+1.00 rainwind
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1923</number>
+<text>
+#combine(
+#wsyn(
+0.49 hó
+0.49 snooky
+0.48 y
+0.46 cutey
+0.46 okey
+0.46 cheeky
+0.46 yuunosuke
+0.46 dyaket
+0.45 kenkyuusei
+0.45 ngiti
+)
+#wsyn(
+1.00 hypto
+)
+#wsyn(
+0.53 y
+0.52 hó
+0.51 ngumiti
+0.50 palabiro
+0.49 sayoko
+0.49 ayoko
+0.49 καὶ
+0.49 kaduweto
+0.49 ngiti
+0.48 patatawarin
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query894</number>
+<text>
+#combine(
+#wsyn(
+1.00 Masbateelection
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1902</number>
+<text>
+#combine(
+#wsyn(
+1.00 corruptioncontractual
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1414</number>
+<text>
+#combine(
+#wsyn(
+0.68 kanilang
+0.60 kanikanilang
+0.53 nilang
+0.53 kanyang
+0.51 jvkv
+0.50 gōzō
+0.50 ang
+0.49 panibago
+0.49 mapipilitang
+0.48 pagkupkop
+)
+#wsyn(
+0.59 sariling
+0.55 pansariling
+0.53 pangsariling
+0.51 sarili
+0.50 makasariling
+0.49 magsarili
+0.49 pansarili
+0.48 nagsarili
+0.48 makibagay
+0.48 malasariling
+)
+#wsyn(
+0.48 bansa
+0.45 kgk
+0.44 ufl
+0.44 pashtun
+0.43 ojibwa
+0.43 unicef
+0.43 islobenya
+0.43 wwi
+0.43 tehrān
+0.42 自治区
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query433</number>
+<text>
+#combine(
+#wsyn(
+1.00 Cebuinterview
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1255</number>
+<text>
+#combine(
+#wsyn(
+0.45 airlift
+0.45 guayaquil
+0.45 guantánamo
+0.45 freeport
+0.44 airline
+0.44 guantanamo
+0.44 minnesota
+0.43 airlines
+0.43 arlington
+0.42 jfk
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query405</number>
+<text>
+#combine(
+#wsyn(
+1.00 airplaneJapanese
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query359</number>
+<text>
+#combine(
+#wsyn(
+0.64 gusali
+0.59 gusaling
+0.51 naipatayo
+0.51 panggusali
+0.51 arkitektura
+0.50 naitayo
+0.50 arkitekturang
+0.49 arkitektural
+0.49 arkitektong
+0.48 hektaryang
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query109</number>
+<text>
+#combine(
+#wsyn(
+0.56 naiinom
+0.56 painumin
+0.55 inumin
+0.55 iinumin
+0.53 inuming
+0.53 uminom
+0.52 iniinom
+0.51 hinuhugasan
+0.51 maruruming
+0.51 maduming
+)
+#wsyn(
+0.57 iinom
+0.57 alkohol
+0.56 paginom
+0.55 alkoholiko
+0.55 naiinom
+0.55 iniinom
+0.54 alkoholismo
+0.54 drogang
+0.54 iinumin
+0.53 antihistamine
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1150</number>
+<text>
+#combine(
+#wsyn(
+0.49 paggagawa
+0.47 pagdidibuho
+0.47 arkitektura
+0.46 paggagawad
+0.46 paghubog
+0.45 arkitektural
+0.45 pagpintog
+0.45 dumisenyo
+0.45 pagdisenyo
+0.45 pagakto
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1263</number>
+<text>
+#combine(
+#wsyn(
+0.55 bilang
+0.51 rin
+0.45 京
+0.45 ŭ
+0.45 tāj
+0.44 李
+0.43 대한민국
+0.43 kelmendi
+0.43 o
+0.43 수상
+)
+#wsyn(
+0.54 mabilis
+0.49 mapabilis
+0.49 bilis
+0.47 kabilis
+0.47 napakabilis
+0.47 mabibilis
+0.46 mabilisan
+0.44 mabili
+0.44 mabilisang
+0.43 mabagal
+)
+#wsyn(
+0.55 bilang
+0.51 rin
+0.45 京
+0.45 ŭ
+0.45 tāj
+0.44 李
+0.43 대한민국
+0.43 kelmendi
+0.43 o
+0.43 수상
+)
+#wsyn(
+0.54 kidlat
+0.46 bugso
+0.46 hangikjöt
+0.46 tipak
+0.45 matamaan
+0.44 patamaan
+0.44 hagupit
+0.43 katamaan
+0.43 lagablab
+0.42 bisikletang
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1119</number>
+<text>
+#combine(
+#wsyn(
+1.00 Samarfisherman
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query368</number>
+<text>
+#combine(
+#wsyn(
+0.56 tuyot
+0.53 iniinit
+0.52 mainit
+0.52 mahalumigmig
+0.52 natuyo
+0.51 pinatuyo
+0.51 tuyo
+0.51 matuyo
+0.50 tagtuyot
+0.49 pinatuyong
+)
+#wsyn(
+0.42 rvq
+0.42 jvkv
+0.42 kinasihang
+0.41 at
+0.40 lászló
+0.40 pinasyahan
+0.40 pinangasiwaan
+0.39 pinasuko
+0.39 kinarga
+0.39 aankin
+)
+#wsyn(
+0.65 ulan
+0.53 maulan
+0.53 maulap
+0.53 tuyot
+0.52 ulap
+0.51 tagtuyot
+0.50 niyebe
+0.49 buhos
+0.49 matuyo
+0.48 ulang
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query747</number>
+<text>
+#combine(
+#wsyn(
+0.66 pulisya
+0.64 kapulisan
+0.62 kapulisang
+0.58 pampulisya
+0.57 pulisyang
+0.53 pulis
+0.53 milisya
+0.50 galisya
+0.50 sibilyan
+0.49 opisyales
+)
+#wsyn(
+0.56 aso
+0.51 baboy
+0.48 pusit
+0.48 piknik
+0.47 tukmol
+0.47 kamelya
+0.47 pusa
+0.46 hayop
+0.46 chickenpox
+0.46 karinyusa
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1144</number>
+<text>
+#combine(
+#wsyn(
+0.60 apokripa
+0.59 apokripo
+0.59 masoretiko
+0.58 apokripal
+0.58 apokripon
+0.57 deuterokanonikal
+0.57 nwt
+0.57 ebanghelyong
+0.56 ebanghelyo
+0.56 tanakh
+)
+#wsyn(
+1.00 evfreligion
+)
+#wsyn(
+0.68 kuwento
+0.61 kuwentong
+0.60 diskuwento
+0.59 ikinukuwento
+0.58 nagkuwento
+0.58 kwento
+0.57 ikinuwento
+0.56 salaysayin
+0.56 salaysaying
+0.56 pasalaysay
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query461</number>
+<text>
+#combine(
+#wsyn(
+0.66 puti
+0.60 itim
+0.58 puting
+0.57 kayumangging
+0.56 putih
+0.55 madilaw
+0.55 kayumanggi
+0.54 bughaw
+0.54 maputing
+0.53 maputi
+)
+#wsyn(
+0.52 isuot
+0.50 nakasuot
+0.50 suot
+0.47 sumbrero
+0.47 kasuotang
+0.46 buhok
+0.46 sumbrerong
+0.45 damit
+0.45 sinuot
+0.44 isinusuot
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1772</number>
+<text>
+#combine(
+#wsyn(
+0.59 capital
+0.57 kapital
+0.54 gdppercapital
+0.53 capitals
+0.52 capita
+0.48 capitata
+0.47 lungsod
+0.47 largest_city
+0.46 kapita
+0.46 kapitolyo
+)
+#wsyn(
+0.58 paparusahan
+0.57 kaparusahan
+0.56 parusahan
+0.56 pinaparusahan
+0.55 naparusahan
+0.55 maparusahan
+0.55 pinarusahan
+0.55 krimeng
+0.55 kaparusahang
+0.54 krimen
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query540</number>
+<text>
+#combine(
+#wsyn(
+1.00 Sulu
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1261</number>
+<text>
+#combine(
+#wsyn(
+0.39 yujirou
+0.39 payaso
+0.37 kameya
+0.37 kamei
+0.37 kenjiro
+0.36 ieyasu
+0.36 mutsuhito
+0.36 dyaket
+0.36 itaboy
+0.36 ogdru
+)
+#wsyn(
+0.62 estado
+0.54 estadong
+0.52 konpederadong
+0.48 arestado
+0.48 pederal
+0.45 konpederasyon
+0.44 federalny
+0.44 konpederasyong
+0.44 delaware
+0.43 pampublikong unibersidad
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1373</number>
+<text>
+#combine(
+#wsyn(
+1.00 Chinesegovernor
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query756</number>
+<text>
+#combine(
+#wsyn(
+0.47 amerindiyo
+0.46 inmigrante
+0.46 arkipelago
+0.45 panirahan
+0.45 sugboanon
+0.45 katutubo
+0.45 manirahan
+0.45 celtico
+0.44 seltiko
+0.44 amerindian
+)
+#wsyn(
+0.72 wika
+0.63 pasalita
+0.62 wikang
+0.62 diyalekto
+0.61 diyalektong
+0.59 nagsasalita
+0.59 dialekto
+0.59 dyalekto
+0.59 wikà
+0.58 panalita
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query881</number>
+<text>
+#combine(
+#wsyn(
+0.42 ŭ
+0.41 pumuputok
+0.41 naguumpisa
+0.41 nakasuksok
+0.41 nakakapinsalang
+0.41 pumanaog
+0.40 nagugutom
+0.40 pumanhik
+0.40 napipinsala
+0.40 nahigop
+)
+#wsyn(
+0.49 kisame
+0.47 bubuksan
+0.46 pintuan
+0.46 pinto
+0.45 pintas
+0.44 buksan
+0.44 bitbit
+0.43 kwintas
+0.43 pusilahe
+0.43 pinindot
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query830</number>
+<text>
+#combine(
+#wsyn(
+0.59 dating
+0.47 asosyadong
+0.45 teofisto
+0.45 dáting
+0.45 dati
+0.45 retiradong
+0.44 lászló
+0.44 deputado
+0.44 rodríguez
+0.43 dpj
+)
+#wsyn(
+1.00 President's
+)
+#wsyn(
+0.63 kaarawan
+0.53 annibersaryo
+0.53 anibersaryo
+0.51 anibersayo
+0.47 – 
+0.47 bisyesto
+0.46 gumugunita
+0.45  –
+0.45 bisperas
+0.45 wyd
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1884</number>
+<text>
+#combine(
+#wsyn(
+0.54 probinsyana
+0.53 probinsiyana
+0.51 probinsyano
+0.50 probinsiya
+0.50 pambatasan
+0.50 probinsiyang
+0.50 probinsiyal
+0.50 pambatas
+0.50 probinsya
+0.48 kongresyonal lehislatibo
+)
+#wsyn(
+1.00 councilformal
+)
+#wsyn(
+1.00 synofficial
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3987</number>
+<text>
+#combine(
+#wsyn(
+0.47 mojacko
+0.45 hiwaga
+0.45 mazurek
+0.45 kisapmata
+0.44 kyuubi
+0.43 kouga
+0.43 agimat
+0.43 mahiwaga
+0.42 duweto
+0.42 misadventures
+)
+#wsyn(
+0.61 proyekto
+0.58 proyektong
+0.57 pamproyekto
+0.51 wikiproyekto
+0.50 proyeksiyon
+0.49 pangkonstruksyon
+0.47 pagpapaunlad
+0.46 pangkonstruksiyon
+0.46 pangtulong
+0.46 imprastruktura
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query460</number>
+<text>
+#combine(
+#wsyn(
+1.00 informationdrug
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1963</number>
+<text>
+#combine(
+#wsyn(
+0.69 kultura
+0.66 kulturang
+0.62 pangkulturang
+0.61 pangkultura
+0.61 kultural
+0.58 kulture
+0.58 iskulturang
+0.57 kalinangan
+0.56 eskultura
+0.56 iskultura
+)
+#wsyn(
+1.00 evfarts
+)
+#wsyn(
+0.65 at
+0.59 mga
+0.58 désirée
+0.57 gōzō
+0.57 ng
+0.56 sa
+0.55 na
+0.54 เ
+0.54 ang
+0.53 tāj
+)
+#wsyn(
+0.66 sosyolohiya
+0.65 parmakolohiya
+0.64 etnomusikolohiya
+0.63 sikolohiya
+0.63 sosyolohiyang
+0.63 etnolohiya
+0.63 kinesyolohiya
+0.63 pangteolohiya
+0.62 musikolohiya
+0.62 pilolohiya
+)
+#wsyn(
+0.57 estudyanteng
+0.56 istudyante
+0.54 estudyanteid
+0.54 studyante
+0.54 estudyante
+0.52 pampublikong unibersidad
+0.52 pampaaralan
+0.51 ateneo
+0.51 pangkolehiyo
+0.50 paaralan
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query614</number>
+<text>
+#combine(
+#wsyn(
+0.68 kanilang
+0.60 kanikanilang
+0.53 nilang
+0.53 kanyang
+0.51 jvkv
+0.50 gōzō
+0.50 ang
+0.49 panibago
+0.49 mapipilitang
+0.48 pagkupkop
+)
+#wsyn(
+0.59 kita
+0.55 sahod
+0.55 buwis
+0.52 income
+0.52 inplasyon
+0.51 puhunang
+0.51 kitambayan
+0.51 net_income
+0.51 puhunan
+0.50 gdp
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query464</number>
+<text>
+#combine(
+#wsyn(
+0.77 halalan
+0.72 halalang
+0.70 halal
+0.63 nahalal
+0.63 halalan
+0.62 pagkapangulo
+0.62 naihalal
+0.61 pagkahalal
+0.61 ihinahalal
+0.60 maihalal
+)
+#wsyn(
+0.51 results
+0.50 resulta
+0.45 resultang
+0.44 magreresulta
+0.44 srswr
+0.43 pagsasampol
+0.43 diskresyon
+0.43 probabilistikong
+0.43 resulted
+0.43 diskreto
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3107</number>
+<text>
+#combine(
+#wsyn(
+0.51 malulungkot
+0.50 malungkot
+0.47 nalulungkot
+0.47 seryosohin
+0.46 mapahamak
+0.46 nararamdaman
+0.46 nararamdamang
+0.46 nalungkot
+0.46 matakot
+0.45 naiisip
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query441</number>
+<text>
+#combine(
+#wsyn(
+1.00 moneychurch
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query481</number>
+<text>
+#combine(
+#wsyn(
+0.46 karbohidrato
+0.46 photosynthesis
+0.46 karbono
+0.46 sulpura
+0.46 kumukunsumo
+0.45 sulfato
+0.45 sulfide
+0.45 sulfate
+0.45 oksihena
+0.45 sulfuriko
+)
+#wsyn(
+0.48 kubyertos
+0.45 sumobra
+0.45 dyanra
+0.44 tindero
+0.44 kubyerta
+0.43 buffet
+0.43 tinda
+0.43 dairy
+0.43 sumbrero
+0.43 squid
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query114</number>
+<text>
+#combine(
+#wsyn(
+1.00 hospitalManila
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1241</number>
+<text>
+#combine(
+#wsyn(
+0.56 terminolohiyang
+0.56 talahuluganang
+0.55 talahuluganan
+0.54 terminolohiya
+0.52 tekniks
+0.52 talahulugan
+0.51 teknikang
+0.51 λόγος
+0.51 terminong
+0.50 λογία
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query103</number>
+<text>
+#combine(
+#wsyn(
+1.00 Communist
+)
+#wsyn(
+0.54 rebeldeng
+0.54 manghihimagsik
+0.53 rebelde
+0.53 maghimagsik
+0.52 panghihimagsik
+0.52 mapanghimagsik
+0.51 naghimagsik
+0.51 paghihimagsik
+0.51 naghihimagsik
+0.50 mapaghimagsik
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1007</number>
+<text>
+#combine(
+#wsyn(
+0.49 pinakamahalagang
+0.49 pinakamahalaga
+0.48 mahadlangan
+0.47 mahalaga
+0.47 mahalagang
+0.45 pagpapahalagang
+0.45 humahadlang
+0.45 nakapagpapanatili
+0.45 pagpapaginhawa
+0.45 nakapagpapaginhawa
+)
+#wsyn(
+1.00 synimportant
+)
+#wsyn(
+0.50 operasyong
+0.47 kooperasyong
+0.47 pagbobomba
+0.46 operasyon
+0.45 atakeng
+0.45 eruplanong
+0.45 eruplano
+0.44 kooperasyon
+0.44 pambobomba
+0.44 stufenplan
+)
+#wsyn(
+1.00 synfunction
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3598</number>
+<text>
+#combine(
+#wsyn(
+0.56 iinumin
+0.54 uminom
+0.53 inumin
+0.53 makainom
+0.52 iniinom
+0.52 painumin
+0.51 hinuhugasan
+0.51 naiinom
+0.50 nainom
+0.50 inuming
+)
+#wsyn(
+0.62 kape
+0.54 niluluto
+0.54 tsaa
+0.53 kokwa
+0.53 fabada
+0.52 inumin
+0.52 tsaang
+0.52 iinumin
+0.52 pagkaing
+0.52 hinuhugasan
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2216</number>
+<text>
+#combine(
+#wsyn(
+0.60 sikoanalisis
+0.59 pratītyasamutpāda
+0.58 sinkretismo
+0.58 apolohetikang
+0.58 pormalisasyon
+0.58 empirikal
+0.57 eklektisismo
+0.57 metodolohiyang
+0.57 epistemolohikal
+0.57 kognisyon
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query933</number>
+<text>
+#combine(
+#wsyn(
+0.59 sila
+0.54 magkagayunman
+0.54 magkagayo
+0.53 magkagayon
+0.52 uwf
+0.52 jvkv
+0.51 ŭ
+0.51 sisihin
+0.50 үүрд
+0.50 magkagiyera
+)
+#wsyn(
+0.49 mga
+0.49 mga
+0.48 maibibilang
+0.48 pararamihin
+0.47 bumibilang
+0.46 gcf
+0.45 naiibang
+0.45 karamihang
+0.45 iba`t
+0.45 mararaming
+)
+#wsyn(
+0.57 ŭ
+0.57 hindi
+0.56 ay ang
+0.54 sigurong
+0.53 kung
+0.52 y
+0.52 ikunsidera
+0.51 naireresolba
+0.51 srswr
+0.51 nararapat
+)
+#wsyn(
+1.00 sadists
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1301</number>
+<text>
+#combine(
+#wsyn(
+1.00 transfertitle
+)
+#wsyn(
+1.00 evfproperty
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query781</number>
+<text>
+#combine(
+#wsyn(
+0.65 kalye
+0.62 abenida
+0.59 abenidang
+0.57 kalyeng
+0.56 avenida
+0.56 bulebard
+0.56 bulebar
+0.54 avenue
+0.53 panulukan
+0.51 lrt
+)
+#wsyn(
+0.48 magulang
+0.48 asawa
+0.48 babata
+0.46 magkakapatid
+0.46 pagkabata
+0.46 gulang
+0.46 kapansanan
+0.46 kababata
+0.45 bata
+0.45 gōzō
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query533</number>
+<text>
+#combine(
+#wsyn(
+0.68 kanilang
+0.60 kanikanilang
+0.53 nilang
+0.53 kanyang
+0.51 jvkv
+0.50 gōzō
+0.50 ang
+0.49 panibago
+0.49 mapipilitang
+0.48 pagkupkop
+)
+#wsyn(
+0.67 dugo
+0.57 hemoglobin
+0.54 kadugo
+0.54 haemoglobin
+0.54 dugon
+0.54 bdnf
+0.52 lamuymoy
+0.51 sinapupunan
+0.51 pluwidong
+0.51 pawis
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2207</number>
+<text>
+#combine(
+#wsyn(
+0.60 kabuhayan
+0.52 pagsasaka
+0.52 paggugubat
+0.51 magsasaka
+0.51 palahayupan
+0.50 pananim
+0.49 panananim
+0.49 pangkabuhayan
+0.49 palaisdaan
+0.48 pangisdaan
+)
+#wsyn(
+0.60 tulong
+0.57 pagtulong
+0.55 nagtulong
+0.51 tutulong
+0.50 payo
+0.49 pangtulong
+0.48 tagatulong
+0.47 pantulong
+0.47 makatulong
+0.47 makipagkasundo
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2292</number>
+<text>
+#combine(
+#wsyn(
+1.00 Imelda
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query620</number>
+<text>
+#combine(
+#wsyn(
+0.52 dingding
+0.46 harapan
+0.45 bedrock
+0.45 harapang
+0.45 batok
+0.45 patagilid
+0.45 pasukang
+0.45 umbok
+0.44 pelukang
+0.44 umuusli
+)
+#wsyn(
+1.00 evfbarrier
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query307</number>
+<text>
+#combine(
+#wsyn(
+0.58 isa
+0.57 dalawangpung
+0.57 dalawangpu
+0.56 pinakakamakailang
+0.56 pinakamagagaling
+0.56 labingdalawang
+0.55 pinakamaraming
+0.55 pinakamagastos
+0.55 pinakamabisang
+0.55 dalawang
+)
+#wsyn(
+0.66 mahigit
+0.59 tatlumpung
+0.58 limangdaang
+0.56 milyun
+0.55 siyamnapung
+0.55 apatnapung
+0.54 isangdaang
+0.54 dalawampung
+0.54 limangpung
+0.53 tatlumpu
+)
+#wsyn(
+0.62 mahigit
+0.60 milyun
+0.55 tatlumpung
+0.54 hihigit
+0.54 milyong
+0.51 tinatayang
+0.51 limampung
+0.51 kumulang
+0.51 limangdaang
+0.50 libong
+)
+#wsyn(
+0.59 piso
+0.57 dolyar
+0.56 dolyares
+0.55 €
+0.53 ₱
+0.52 usd
+0.51 us$
+0.48 billyon
+0.48 bilyon
+0.48 bilyong
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query137</number>
+<text>
+#combine(
+#wsyn(
+1.00 Maoist
+)
+#wsyn(
+0.59 komunistang
+0.58 rebelyon
+0.58 rebeldeng
+0.55 gaddafi
+0.55 hidwaang
+0.55 mnlf
+0.55 sagupaan
+0.54 rebelde
+0.54 hukbalahap
+0.54 pambobomba
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1371</number>
+<text>
+#combine(
+#wsyn(
+0.60 aklat
+0.54 nalathalang
+0.53 aklatan
+0.53 books
+0.52 librong
+0.52 aklatang
+0.51 inilathalang
+0.51 nilalathala
+0.51 paglalathalang
+0.50 nalimbag
+)
+#wsyn(
+0.58 para
+0.48 mga
+0.47 mga
+0.46 gōzō
+0.45 ŭ
+0.45 sa
+0.45 ngmga
+0.44 ██
+0.44 mga
+0.43 ang
+)
+#wsyn(
+0.48 magulang
+0.48 asawa
+0.48 babata
+0.46 magkakapatid
+0.46 pagkabata
+0.46 gulang
+0.46 kapansanan
+0.46 kababata
+0.45 bata
+0.45 gōzō
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query366</number>
+<text>
+#combine(
+#wsyn(
+0.51 liberalismo
+0.50 lipunang
+0.49 legalismo
+0.49 marxismo
+0.49 indibidwalismo
+0.49 idealismong
+0.48 radikalismo
+0.48 idealismo
+0.48 pyudalismo
+0.47 dào
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1068</number>
+<text>
+#combine(
+#wsyn(
+1.00 jeepneypassenger
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query363</number>
+<text>
+#combine(
+#wsyn(
+1.00 president's
+)
+#wsyn(
+0.50 tagapangulo
+0.50 chairman
+0.48 tagapamahayag
+0.47 kalihim ministro
+0.47 tagapangulong
+0.46 dswd
+0.46 tagapagpasinaya
+0.46 tagapagsiyasat
+0.46 aboitiz
+0.46 chávez
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1753</number>
+<text>
+#combine(
+#wsyn(
+1.00 Riyadh
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1523</number>
+<text>
+#combine(
+#wsyn(
+0.63 paglakbay
+0.62 paglalakbay
+0.60 maglalakbay
+0.59 maglakbay
+0.59 makapaglalakbay
+0.58 makapaglakbay
+0.56 naglalakbay
+0.56 manlalakbay
+0.56 panlalakbay
+0.56 panlakbay
+)
+#wsyn(
+0.54 kanaisnais
+0.52 kanais
+0.51 upang
+0.50 magnanais
+0.49 jvkv
+0.49 sanayin
+0.49 ninanais
+0.49 tāj
+0.49 gōzō
+0.48 ang
+)
+#wsyn(
+1.00 America
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4181</number>
+<text>
+#combine(
+#wsyn(
+1.00 Tago
+)
+#wsyn(
+1.00 hypname
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query338</number>
+<text>
+#combine(
+#wsyn(
+0.65 langis
+0.53 petrolyo
+0.51 gasolina
+0.50 petrolyong
+0.50 gas
+0.49 malangis
+0.46 gasgas
+0.46 bangis
+0.45 panghimagas
+0.45 petrol
+)
+#wsyn(
+0.63 suplay
+0.55 panustos
+0.52 magsuplay
+0.51 paggastos
+0.51 pagkukuryente
+0.51 pantransportasyon
+0.51 implasyon
+0.51 pangtransportasyon
+0.50 petrolyo
+0.50 inplasyon
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query313</number>
+<text>
+#combine(
+#wsyn(
+1.00 electionmachine
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3968</number>
+<text>
+#combine(
+#wsyn(
+1.00 Eunice
+)
+#wsyn(
+1.00 Samonte
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query528</number>
+<text>
+#combine(
+#wsyn(
+0.65 panseguridad
+0.63 seguridad
+0.63 pangseguridad
+0.56 kaseguruhan
+0.55 paseguruhan
+0.55 segurista
+0.52 pampulisya
+0.52 paseguruhang
+0.52 securitate
+0.52 intelihensya
+)
+#wsyn(
+0.51 pakikidigmang
+0.49 pagkagapi
+0.48 hukbalahap
+0.47 matakot
+0.47 pakikidigma
+0.47 pagbabanta
+0.47 nakikidigma
+0.47 pagkagutom
+0.47 hadlang
+0.46 pagkatakot
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query188</number>
+<text>
+#combine(
+#wsyn(
+1.00 Chinesefisherman
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query471</number>
+<text>
+#combine(
+#wsyn(
+0.70 hukumang
+0.67 hukuman
+0.65 panghukuman
+0.63 hudikatura
+0.62 lehislatura
+0.57 hukom
+0.57 kongresyonal lehislatibo
+0.57 lehislaturang
+0.57 lehislasyon
+0.56 legado
+)
+#wsyn(
+0.68 sistemang
+0.67 sisteman
+0.65 sistem
+0.64 sistema
+0.62 masistemang
+0.62 ekosistemang
+0.56 sistemikong
+0.56 pansistema
+0.56 sistemiko
+0.55 ekosistema
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1288</number>
+<text>
+#combine(
+#wsyn(
+0.50 nagpaplano
+0.49 kinokontrol
+0.47 sumasangkot
+0.47 responsableng
+0.47 kumokontrol
+0.46 nagsangkot
+0.46 nakokontrol
+0.46 sangkot
+0.46 nagpapamahagi
+0.46 nagsasangkot
+)
+#wsyn(
+0.53 indibiduwal
+0.52 indibidwal
+0.48 mga
+0.47 indibiwal
+0.47 magkakaibang
+0.47 indbidwal
+0.46 pagkakaibang
+0.46 iibang
+0.46 mga
+0.45 magpapasya
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1473</number>
+<text>
+#combine(
+#wsyn(
+0.53 vcd
+0.53 artwork imahe
+0.48 naibenta
+0.47 copyrigt
+0.47 maibenta
+0.47 vhs
+0.47 nililimbag
+0.46 dvd
+0.46 naibentang
+0.46 ililimbag
+)
+#wsyn(
+1.00 DVD
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query779</number>
+<text>
+#combine(
+#wsyn(
+0.46 gonorrhea
+0.43 vulva
+0.43 ostrich
+0.43 hymenoptera
+0.43 nemipterus
+0.43 mucus
+0.43 emphysema
+0.42 artritis
+0.42 bladder
+0.42 istreptokokus
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1078</number>
+<text>
+#combine(
+#wsyn(
+0.46 nagproprotesta
+0.46 boykot
+0.46 sturmabteilung
+0.45 binoykot
+0.45 nagprotesta
+0.45 mnlf
+0.45 pagprotesta
+0.44 magprotesta
+0.44 nagpoprotesta
+0.44 protesta
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query419</number>
+<text>
+#combine(
+#wsyn(
+1.00 privatizationwater
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2559</number>
+<text>
+#combine(
+#wsyn(
+1.00 Department
+)
+#wsyn(
+0.56 at
+0.55 ng
+0.50 ang
+0.50 iabng
+0.50 na
+0.50 hòa
+0.49 ay
+0.49 sa
+0.49 visegrád
+0.48 mga
+)
+#wsyn(
+1.00 Health
+)
+#wsyn(
+0.60 impeksiyon
+0.60 rotabirus
+0.58 naimpeksiyon
+0.58 nahawaan
+0.58 impektado
+0.58 maimpeksiyon
+0.58 impeksiyong
+0.57 birus
+0.56 nahawaang
+0.56 nahawa
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query742</number>
+<text>
+#combine(
+#wsyn(
+0.78 digmaang
+0.73 digmaaan
+0.71 digmaan
+0.65 pangdigmaan
+0.63 pandigmaan
+0.63 digma
+0.59 sumiklab
+0.58 pakikidigmang
+0.57 nakidigma
+0.57 pandaigdig
+)
+#wsyn(
+0.45 ang
+0.43 jvkv
+0.42 ▲
+0.42 nasabat
+0.41 umeere
+0.41 axn
+0.40 nagaabang
+0.40 etv
+0.40 ŭ
+0.40 ◆
+)
+#wsyn(
+0.64 droga
+0.61 drogang
+0.55 kemoterapiya
+0.53 hiv aids
+0.53 antibiyotiko
+0.53 antihistamine
+0.53 antibiotiko
+0.53 nsaids
+0.52 antibyotiko
+0.52 antitrypsin
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1303</number>
+<text>
+#combine(
+#wsyn(
+0.74 panlipunan
+0.73 panlipunang
+0.63 panglipunan
+0.60 lipunan
+0.58 lipunang
+0.57 sosyolohista
+0.56 pangheopolitika
+0.55 sosyetal
+0.55 pangkalinangan
+0.55 sosyo
+)
+#wsyn(
+1.00 securitycontribution
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query306</number>
+<text>
+#combine(
+#wsyn(
+1.00 Palawanprogram
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1109</number>
+<text>
+#combine(
+#wsyn(
+1.00 victim's
+)
+#wsyn(
+0.53 utnapishtim
+0.52 napishtim
+0.52 patiwarik
+0.51 ililibing
+0.51 ilibing
+0.51 naghuhugas
+0.50 huhugasan
+0.50 kyuubi
+0.50 nalibing
+0.50 injun
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query523</number>
+<text>
+#combine(
+#wsyn(
+0.54 hanggang
+0.54 nanungkulan
+0.53 noong
+0.52 nanungkulang
+0.52 nooong
+0.51 nang
+0.51 manungkulan
+0.51 pinatagal
+0.51 nanunungkulan
+0.50 csesznek
+)
+#wsyn(
+1.00 Sunday
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1391</number>
+<text>
+#combine(
+#wsyn(
+1.00 Pariscave
+)
+#wsyn(
+1.00 syncavern
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query392</number>
+<text>
+#combine(
+#wsyn(
+0.50 pansandatahan
+0.50 eruplanong
+0.50 pagpapaandar
+0.50 paglunsad
+0.49 operasyong
+0.48 sandatahan
+0.48 sandatahang
+0.47 eruplano
+0.47 pagsenyas
+0.47 pagpaplanong
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query673</number>
+<text>
+#combine(
+#wsyn(
+0.66 sapat
+0.58 sasapat
+0.53 kakailanganin
+0.53 kinakailangang
+0.53 kinakailangan
+0.52 makailang
+0.51 maaasahang
+0.51 konpidensiya
+0.50 kailangan
+0.50 maaasahan
+)
+#wsyn(
+0.66 ebidensiya
+0.64 ebidensiyang
+0.61 ebidensya
+0.61 ebidente
+0.59 ebidensyang
+0.52 konpidensiya
+0.52 koinsidensiya
+0.51 mapapatunayan
+0.51 mapapatunayang
+0.51 konpidensiyang
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query435</number>
+<text>
+#combine(
+#wsyn(
+0.60 ilegal
+0.49 garantisadong
+0.47 ipagbawal
+0.46 pinagbabawalang
+0.46 droga
+0.46 pinagbabawal
+0.46 terorismong
+0.46 pagbawal
+0.46 krimen
+0.46 maaresto
+)
+#wsyn(
+0.61 pagmimina
+0.49 industriyalisadong
+0.47 daambakal
+0.47 pagmimiron
+0.47 industriyalisado
+0.47 deposito
+0.47 minimina
+0.47 pagmamanupaktura
+0.47 industriyalisasyon
+0.47 industriyal
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query139</number>
+<text>
+#combine(
+#wsyn(
+1.00 Ilocanobutterfly
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1810</number>
+<text>
+#combine(
+#wsyn(
+0.66 lupain
+0.61 lupaing
+0.57 lupang
+0.56 lupa
+0.55 pahupain
+0.53 maylupa
+0.53 lupangyelo
+0.52 lupanlunti
+0.52 panglupain
+0.51 hektaryang
+)
+#wsyn(
+0.63 nireporma
+0.62 reporma
+0.59 repormang
+0.58 nirepormang
+0.55 repormer
+0.55 agrarismo
+0.54 repormista
+0.53 demokratisasyon
+0.53 tydings–mcduffie
+0.53 sekularisasyon
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query434</number>
+<text>
+#combine(
+#wsyn(
+0.69 turismo
+0.68 ekoturismo
+0.64 pangturismo
+0.64 turismong
+0.64 panturismo
+0.61 futurismo
+0.58 turista
+0.56 pangturista
+0.55 hortikulturista
+0.54 panturista
+)
+#wsyn(
+0.68 industriya
+0.65 industriyang
+0.65 industriyal
+0.64 industryal
+0.63 industrya
+0.61 industriyalisado
+0.60 industriyalisasyon
+0.60 industriyalista
+0.60 industry
+0.59 industriyalisadong
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4273</number>
+<text>
+#combine(
+#wsyn(
+0.57 tagapayong
+0.54 tagapayo
+0.53 gabineteng
+0.52 pananalaping
+0.51 gabinete
+0.51 tagapangulong
+0.51 oudh
+0.50 sekretaryo
+0.50 payo
+0.50 ncpo
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1052</number>
+<text>
+#combine(
+#wsyn(
+1.00 childrens'
+)
+#wsyn(
+0.69 karapatang
+0.68 karapatan
+0.61 karapat
+0.59 pangkarapatan
+0.59 pangkarapatang
+0.57 garapata
+0.57 nakakarapatang
+0.55 karapatdapat
+0.52 copyrights
+0.48 copyright
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1577</number>
+<text>
+#combine(
+#wsyn(
+1.00 Davao100
+)
+#wsyn(
+0.61 bagong
+0.57 new
+0.54 york
+0.53 new
+0.50 zealand
+0.47 panibagong
+0.44 yorktown
+0.44 selanda
+0.43 newry
+0.43 nyc
+)
+#wsyn(
+0.57 guro
+0.56 aaaral
+0.54 paaralan
+0.54 paaralang
+0.53 paaaralan
+0.53 nagtuturo
+0.52 pampaaralan
+0.51 paseguro
+0.51 panimulaan
+0.50 pampaaralang
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1834</number>
+<text>
+#combine(
+#wsyn(
+0.44 tukmol
+0.41 tiyesa
+0.41 pesteng
+0.40 lovebird
+0.40 gochujang
+0.40 biik
+0.40 tisoy
+0.40 hibla
+0.40 himaymay
+0.40 balinghoy
+)
+#wsyn(
+1.00 synwiping
+)
+#wsyn(
+0.53 sutla
+0.53 tela
+0.52 kasuotang
+0.52 kanbas
+0.51 garapon
+0.51 kasuotan
+0.50 damitan
+0.50 buhong
+0.50 hinuhugasan
+0.50 baywang
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1237</number>
+<text>
+#combine(
+#wsyn(
+1.00 Laoagsevere
+)
+#wsyn(
+0.61 init
+0.59 iinit
+0.57 iniinit
+0.54 temperatura
+0.54 mainit
+0.51 temperaturang
+0.51 umiinit
+0.51 uminit
+0.50 °c
+0.50 likido
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query123</number>
+<text>
+#combine(
+#wsyn(
+1.00 taxspeech
+)
+#wsyn(
+1.00 synoration
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1021</number>
+<text>
+#combine(
+#wsyn(
+1.00 worldcrisis
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query174</number>
+<text>
+#combine(
+#wsyn(
+1.00 I'm
+)
+#wsyn(
+1.00 afraidboycott
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query494</number>
+<text>
+#combine(
+#wsyn(
+0.56 martial
+0.54 ‘martial
+0.43 martian
+0.42 boksing
+0.42 martirolohiyang
+0.41 artisano
+0.40 boksingerong
+0.40 martir
+0.40 marsyal
+0.40 wushu
+)
+#wsyn(
+0.64 batas
+0.54 isabatas
+0.52 tydings–mcduffie
+0.51 naisabatas
+0.51 mcduffie
+0.50 kriminolohiya
+0.50 saligang
+0.49 hare–hawes–cutting
+0.49 aaproba
+0.49 saligan
+)
+#wsyn(
+0.58 biktima
+0.57 biktimang
+0.54 nabiktima
+0.53 kasawian
+0.52 manloloko
+0.52 ikinasugat
+0.52 arvizo
+0.51 nasaktang
+0.51 panloloko
+0.51 patiwarik
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1128</number>
+<text>
+#combine(
+#wsyn(
+1.00 anomalybridge
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4373</number>
+<text>
+#combine(
+#wsyn(
+0.57 pinakamahihirap
+0.57 pinakamayayamang
+0.54 pinakamayamang
+0.52 pinakamahirap
+0.51 pinakamayaman
+0.49 mahihirap
+0.49 pinakamataong
+0.49 pinakamaunlad
+0.48 mauunlad
+0.48 pinakamalubhang
+)
+#wsyn(
+0.47 subpamilya
+0.47 †pamilya
+0.47 pamilya
+0.46 kabahayan
+0.46 kabahayang
+0.45 subpamilyang
+0.45 sambahayanan
+0.44 sambahayan
+0.44 pamilyang
+0.44 sambahayang
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query661</number>
+<text>
+#combine(
+#wsyn(
+1.00 Dutertefriendship
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query503</number>
+<text>
+#combine(
+#wsyn(
+0.62 mga
+0.62 maraming
+0.59 karaming
+0.59 mararaming
+0.58 ilang
+0.57 napakaraming
+0.56 karamihang
+0.55 karamihan
+0.54 napakarami
+0.54 karami
+)
+#wsyn(
+0.51 kadahilanan
+0.50 kadahilang
+0.49 kadahilan
+0.49 kadahilanang
+0.48 dahilang
+0.47 suhestiyon
+0.46 dahila
+0.46 dahils
+0.45 suhestyon
+0.45 panuntunan
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query345</number>
+<text>
+#combine(
+#wsyn(
+1.00 infrastructureprogram
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query408</number>
+<text>
+#combine(
+#wsyn(
+0.49 nympha
+0.48 dyesebel
+0.48 mazurek
+0.47 azula
+0.47 bayou
+0.46 nymph
+0.46 bayola
+0.46 bael
+0.46 beowulf
+0.46 banoglawin
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1316</number>
+<text>
+#combine(
+#wsyn(
+0.56 optimisasyon
+0.55 optimal
+0.54 maksimisasyon
+0.54 pagpoprosesong
+0.54 makukwenta
+0.53 algoritmikong
+0.53 makinabang
+0.53 pagpoproseso
+0.53 maiging
+0.52 makinaryang
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query904</number>
+<text>
+#combine(
+#wsyn(
+0.49 traysikel
+0.48 bangkero
+0.46 guwapo
+0.46 mamamaneho
+0.46 jimboy
+0.45 sombrero
+0.45 biffle
+0.45 kotseng
+0.44 bangketa
+0.44 carrillo
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1330</number>
+<text>
+#combine(
+#wsyn(
+1.00 catleftover
+)
+#wsyn(
+0.70 pagkain
+0.66 pagkaing
+0.63 pampagkain
+0.60 pagkonsumo
+0.59 hapagkainan
+0.58 niluluto
+0.57 panimpla
+0.57 makainom
+0.56 iniluluto
+0.56 pagluluto
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1567</number>
+<text>
+#combine(
+#wsyn(
+1.00 Youtube
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query990</number>
+<text>
+#combine(
+#wsyn(
+0.52 coffea
+0.52 pukyutan
+0.52 atsuwete
+0.51 luya
+0.51 luyos
+0.51 gochujang
+0.51 koliplor
+0.51 sawsawan
+0.51 panimpla
+0.50 tapioca
+)
+#wsyn(
+0.49 cucumis
+0.47 saging
+0.47 dahon
+0.47 nguso
+0.46 coccinea
+0.46 biluging
+0.46 ratiles
+0.45 mamulaklak
+0.45 štrukli
+0.45 pamumulaklak
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2049</number>
+<text>
+#combine(
+#wsyn(
+0.44 aritmetika
+0.43 matematika
+0.43 pangmetapisika
+0.42 metapisika
+0.42 matematikal
+0.41 metapisikang
+0.40 pangmatematika
+0.40 matematikang
+0.40 topolohiya
+0.40 alhebra
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3306</number>
+<text>
+#combine(
+#wsyn(
+0.49 hinuhugasan
+0.48 tsaketa
+0.48 pastelerya
+0.48 telang
+0.47 sinulid
+0.47 pulbos
+0.47 inuukit
+0.46 doodle
+0.46 pahid
+0.46 pitso
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1376</number>
+<text>
+#combine(
+#wsyn(
+0.38 menstrual
+0.37 madaragdagan
+0.36 madadagdagan
+0.36 karagdagang
+0.35 menstruation
+0.35 gōzō
+0.35 madagdagan
+0.35 wysiwyg
+0.35 nadagdagang
+0.35 zexal
+)
+#wsyn(
+0.56 at
+0.55 ng
+0.50 ang
+0.50 iabng
+0.50 na
+0.50 hòa
+0.49 ay
+0.49 sa
+0.49 visegrád
+0.48 mga
+)
+#wsyn(
+0.57 pinulbos
+0.56 pulbos
+0.54 himaymay
+0.53 sahog
+0.53 hinuhugasan
+0.53 malagkit
+0.52 sabon
+0.52 garapon
+0.51 karbohidrato
+0.51 pinatuyong
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1758</number>
+<text>
+#combine(
+#wsyn(
+0.45 palaisdaan
+0.45 ilog
+0.45 panulukan
+0.45 bulebar
+0.44 daanan
+0.43 bulebard
+0.43 panulukang
+0.43 pantransportasyon
+0.42 lakeshore
+0.42 daanang
+)
+#wsyn(
+1.00 hypwaterway
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query991</number>
+<text>
+#combine(
+#wsyn(
+1.00 adobobeef
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1759</number>
+<text>
+#combine(
+#wsyn(
+0.69 pinakabatang
+0.63 pinakabata
+0.58 pinakasalan
+0.57 nakababatang
+0.56 pinakamatanda
+0.56 pinakamatatandang
+0.55 nakakabatang
+0.54 pinakamatalino
+0.54 pinakamatandang
+0.53 pinakamarunong
+)
+#wsyn(
+0.58 kapatid
+0.54 magkapatid
+0.53 napatid
+0.53 patid
+0.52 magkakapatid
+0.50 karenina
+0.50 anak
+0.48 désirée
+0.48 dolpina
+0.47 tiyahing
+)
+#wsyn(
+1.00 hypfemale
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3302</number>
+<text>
+#combine(
+#wsyn(
+0.58 niluto
+0.57 sibuyas
+0.57 tinimplahan
+0.57 pinakuluan
+0.57 pakuluan
+0.56 matamis
+0.56 bagoong
+0.56 panimpla
+0.55 coffea
+0.55 pinakukuluan
+)
+#wsyn(
+0.63 itlog
+0.55 mangitlog
+0.50 uhog
+0.50 gochujang
+0.50 pulbos
+0.50 pukyutan
+0.49 štrukli
+0.49 luglog
+0.48 pulupot
+0.48 ovum
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query416</number>
+<text>
+#combine(
+#wsyn(
+1.00 salaryteacher
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query753</number>
+<text>
+#combine(
+#wsyn(
+0.60 liwanag
+0.53 maliliwanag
+0.52 nagliliwanag
+0.52 madidilim
+0.51 madilim
+0.49 liboyhaba
+0.48 pagliliwanag
+0.48 ultraviolet
+0.48 liwanagin
+0.47 naaninag
+)
+#wsyn(
+1.00 evfweight
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1591</number>
+<text>
+#combine(
+#wsyn(
+0.63 bubong
+0.52 kubong
+0.51 kisame
+0.51 patyo
+0.51 gusali
+0.51 paltok
+0.50 kiskisan
+0.50 gusaling
+0.50 palapag
+0.50 bubot
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query330</number>
+<text>
+#combine(
+#wsyn(
+0.54 pampulisya
+0.53 pulisya
+0.51 pulisyang
+0.50 unipormadong
+0.50 kapulisang
+0.48 kapulisan
+0.48 paseguruhang
+0.48 pansandatahan
+0.48 ahensya
+0.48 securitate
+)
+#wsyn(
+0.66 pulisya
+0.64 kapulisan
+0.62 kapulisang
+0.58 pampulisya
+0.57 pulisyang
+0.53 pulis
+0.53 milisya
+0.50 galisya
+0.50 sibilyan
+0.49 opisyales
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query439</number>
+<text>
+#combine(
+#wsyn(
+0.60 pakuluan
+0.60 hinuhugasan
+0.59 pinakuluan
+0.59 niluto
+0.59 niluluto
+0.59 pulbos
+0.59 pinakukuluan
+0.59 tsaa
+0.59 kokwa
+0.58 matamis
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1388</number>
+<text>
+#combine(
+#wsyn(
+0.52 gochujang
+0.52 tinimplahan
+0.51 lugaw
+0.50 doenjang
+0.50 tapioca
+0.50 atsuwete
+0.50 luya
+0.49 hinuhurno
+0.49 sibuyas
+0.48 sinahugan
+)
+#wsyn(
+0.56 pamhimpapawid
+0.54 airforce
+0.53 panghimpapawid
+0.53 himpapawid
+0.51 lipad
+0.48 isahimpapawid
+0.48 salimpapaw
+0.48 airbus
+0.48 sumahimpapawid
+0.47 pinalipad
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query113</number>
+<text>
+#combine(
+#wsyn(
+0.72 tubig
+0.67 patubig
+0.65 tubigan
+0.65 matubig
+0.61 catubig
+0.60 patubigan
+0.59 pangtubig
+0.59 tubigang
+0.58 ibubuhos
+0.57 pantubig
+)
+#wsyn(
+0.48 tennessee
+0.48 wisconsin
+0.46 mcadoo
+0.46 boonesboro
+0.45 wheatley
+0.45 wheaton
+0.45 oakley
+0.45 woodson
+0.44 cotton
+0.44 buffalo
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1715</number>
+<text>
+#combine(
+#wsyn(
+0.58 ŭ
+0.58 maaaaring
+0.55 maaaari
+0.53 maaarin
+0.53 ∅
+0.53 maaaring
+0.52 srswr
+0.52 maaasim
+0.52 suhestyon
+0.52 ay ang
+)
+#wsyn(
+0.64 y
+0.60 ŭ
+0.59 suhestyon
+0.59 niyo
+0.59 ā
+0.59 pinoytrivia
+0.59 ~~~~
+0.59 kayong
+0.58 anakngaraw
+0.57 nickrds
+)
+#wsyn(
+0.49 suhestyon
+0.49 y
+0.48 maghintay
+0.48 anakngaraw
+0.47 elockid
+0.47 makausap
+0.47 tatapusin
+0.46 magugulo
+0.46 magtiis
+0.46 magtampo
+)
+#wsyn(
+0.59 ngayon
+0.52 ngayong
+0.52 ngayo
+0.47 itatayong
+0.46 tāj
+0.46 sangayon
+0.46 jvkv
+0.45 itatayo
+0.45 ŭ
+0.45 hó
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2557</number>
+<text>
+#combine(
+#wsyn(
+0.42 mililitro
+0.41 nangingitlog
+0.41 umiihip
+0.41 dadaloy
+0.41 umaapaw
+0.40 himaymay
+0.40 pinatuyo
+0.40 dihestibo
+0.40 iniimbak
+0.40 tumigas
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query573</number>
+<text>
+#combine(
+#wsyn(
+0.66 aking
+0.60 akin
+0.57 y
+0.54 paking
+0.54 ~~~~
+0.52 ‘salâh
+0.52 nickrds
+0.51 niyo
+0.51 inyong
+0.51 ŭ
+)
+#wsyn(
+0.47 kasintahan
+0.46 ibigan
+0.46 kaibigan
+0.45 kaibig
+0.44 kapitbahay
+0.43 iibigan
+0.43 guwapo
+0.43 magkasintahan
+0.42 umiibig
+0.42 punso
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1248</number>
+<text>
+#combine(
+#wsyn(
+1.00 ridiculoussoul
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query922</number>
+<text>
+#combine(
+#wsyn(
+0.50 tagapangulo
+0.49 chairman
+0.49 tagapangulong
+0.48 lupon
+0.46 wheelchair
+0.46 chair
+0.46 lupo
+0.45 tagapaggawad
+0.44 kansilyer
+0.44 tagapanguna
+)
+#wsyn(
+1.00 hypfurniture
+)
+#wsyn(
+0.69 aklat
+0.59 librong
+0.56 nobelang
+0.56 nobela
+0.56 paglimbag
+0.55 maglimbag
+0.54 nalimbag
+0.53 libro
+0.53 aklatang
+0.52 naglimbag
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1839</number>
+<text>
+#combine(
+#wsyn(
+0.47 krustasyano
+0.46 gluteus
+0.46 peponocephala
+0.45 cephalopod
+0.43 paniki
+0.43 girdle
+0.43 arthropod
+0.43 cinereus
+0.43 poltri
+0.43 ardilya
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query771</number>
+<text>
+#combine(
+#wsyn(
+0.47 ganjang
+0.46 prutas
+0.46 mamulaklak
+0.46 tinimplahang
+0.46 lamiaceae
+0.46 mabulaklak
+0.45 mansanilyang
+0.45 labuyo
+0.45 gochujang
+0.45 fabaceae
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query455</number>
+<text>
+#combine(
+#wsyn(
+0.65 pambansang
+0.60 pambansa
+0.51 national
+0.49 sbp
+0.48 supranational
+0.48 sabansaang
+0.48 nationalcaps
+0.47 nationalgoals
+0.47 kbp
+0.47 pambangko
+)
+#wsyn(
+0.72 wika
+0.63 pasalita
+0.62 wikang
+0.62 diyalekto
+0.61 diyalektong
+0.59 nagsasalita
+0.59 dialekto
+0.59 dyalekto
+0.59 wikà
+0.58 panalita
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1905</number>
+<text>
+#combine(
+#wsyn(
+0.57 pakikipagsapalaran
+0.55 pakikipagsapalarang
+0.54 nakikipagsapalaran
+0.54 nakipagsapalaran
+0.51 fantaserye
+0.50 sapalaran
+0.50 fantasya
+0.49 pantasya
+0.48 bidang
+0.48 zsazsa
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query117</number>
+<text>
+#combine(
+#wsyn(
+1.00 August
+)
+#wsyn(
+1.00 29
+)
+#wsyn(
+1.00 hypdate
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query357</number>
+<text>
+#combine(
+#wsyn(
+0.71 aking
+0.61 akin
+0.57 paking
+0.57 y
+0.54 nickrds
+0.54 ko
+0.54 hehehe
+0.53 akong
+0.52 hehe
+0.52 akina
+)
+#wsyn(
+0.52 kaklase
+0.50 kaibigan
+0.50 nagaaral
+0.47 kaibigang
+0.47 yuunosuke
+0.47 magaaral
+0.47 istudyante
+0.47 kaibig
+0.46 hayskul
+0.46 babata
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1037</number>
+<text>
+#combine(
+#wsyn(
+0.60 pinakakaunti
+0.59 pinakamaaga
+0.58 pinakamaraming
+0.58 pinakamarami
+0.57 pinakamabisang
+0.57 pinakamasama
+0.57 pinakakaunting
+0.56 pinakaraniwan
+0.56 pinakamaiging
+0.56 pinakamalimit
+)
+#wsyn(
+0.51 cetacea
+0.51 cephalopod
+0.50 buntot
+0.49 dromaeosauridae
+0.49 cetacean
+0.49 crustacea
+0.49 ahas
+0.49 sarcopterygii
+0.48 lepidoptera
+0.48 reptiliomorpha
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2044</number>
+<text>
+#combine(
+#wsyn(
+0.60 look
+0.47 pasigan
+0.46 looc
+0.45 bucay
+0.45 pandalampasigan
+0.45 daungan
+0.45 abucay
+0.44 dalampasigan
+0.43 dalampasigang
+0.43 golpo
+)
+#wsyn(
+0.49 cucumis
+0.47 saging
+0.47 dahon
+0.47 nguso
+0.46 coccinea
+0.46 biluging
+0.46 ratiles
+0.45 mamulaklak
+0.45 štrukli
+0.45 pamumulaklak
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query961</number>
+<text>
+#combine(
+#wsyn(
+0.54 pantransportasyon
+0.52 transportasyon
+0.50 ▲
+0.49 trapik
+0.49 transportasyong
+0.49 trapiko
+0.48 pangtransportasyon
+0.48 kalsada
+0.48 ｜
+0.47 deportasyon
+)
+#wsyn(
+0.60 liwanag
+0.53 maliliwanag
+0.52 nagliliwanag
+0.52 madidilim
+0.51 madilim
+0.49 liboyhaba
+0.48 pagliliwanag
+0.48 ultraviolet
+0.48 liwanagin
+0.47 naaninag
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query834</number>
+<text>
+#combine(
+#wsyn(
+0.53 talampakang
+0.53 talampakan
+0.49 sentimetro
+0.49 sentimetrong
+0.49 taas
+0.48 pulgada
+0.46 pulgadang
+0.46 milimetro
+0.46 tukmol
+0.46 palumpong
+)
+#wsyn(
+0.63 o
+0.50 na
+0.48 o at
+0.48 ŭ
+0.48 maaaring
+0.47 ay ang
+0.47 maaaaring
+0.46 אלהים
+0.46 mga
+0.46 יהוה
+)
+#wsyn(
+0.66 maikling
+0.61 maikli
+0.58 maiikling
+0.56 napakaikling
+0.52 mahabang
+0.51 tinikling
+0.50 maiikli
+0.49 mahaba
+0.49 mahahabang
+0.48 paikliin
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1692</number>
+<text>
+#combine(
+#wsyn(
+0.38 endorso
+0.38 nakipagsanib
+0.38 eendorso
+0.38 nakipagsabwatan
+0.37 makipagsanib
+0.37 tattoo
+0.37 cocaine
+0.37 gomburza
+0.36 jln
+0.36 nakipagpalitan
+)
+#wsyn(
+1.00 synmiddleman
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query774</number>
+<text>
+#combine(
+#wsyn(
+0.40 pinakamayamang
+0.40 pinakamahabagin
+0.40 pinakaloob
+0.39 pinakakamakailang
+0.39 pinakasinaunang
+0.39 karapatdapat
+0.39 pinakamayaman
+0.39 pagkapangalawang
+0.39 pinakakaunti
+0.39 pinakaabalang
+)
+#wsyn(
+1.00 evffoot
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query332</number>
+<text>
+#combine(
+#wsyn(
+1.00 Barangay
+)
+#wsyn(
+1.00 Mangingisda
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2078</number>
+<text>
+#combine(
+#wsyn(
+0.48 whale
+0.47 balyena
+0.46 cephalopod
+0.46 isda
+0.45 balyenang
+0.45 beetle
+0.45 porpoise
+0.45 herbibora
+0.45 pusit
+0.45 crustacean
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query930</number>
+<text>
+#combine(
+#wsyn(
+0.48 kudyapi
+0.48 kwintas
+0.47 kuwintas
+0.47 pamaypay
+0.46 balbas
+0.46 kaliskis
+0.46 muskiteras
+0.46 kasuotang
+0.45 namukadkad
+0.45 sirwelas
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1938</number>
+<text>
+#combine(
+#wsyn(
+0.36 tupi
+0.35 scolopsis
+0.35 tapsilog
+0.35 balisuso
+0.35 cucumis
+0.35 tsangpo
+0.35 buffet
+0.35 balsam
+0.34 balyenang
+0.34 bungeoppang
+)
+#wsyn(
+1.00 hyputensil
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1395</number>
+<text>
+#combine(
+#wsyn(
+0.54 padamdam
+0.53 kabigha
+0.53 kabighabighaning
+0.52 naiisip
+0.52 kaakit
+0.51 magiliw
+0.51 mapanlikhang
+0.51 naaakit
+0.50 kaayaaya
+0.50 pakiramdam
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query525</number>
+<text>
+#combine(
+#wsyn(
+0.68 kanta
+0.68 inawit
+0.66 kantang
+0.65 awiting
+0.63 awitin
+0.60 inaawit
+0.60 album
+0.60 kinanta
+0.59 awit
+0.59 pagkanta
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2047</number>
+<text>
+#combine(
+#wsyn(
+0.42 trutta
+0.42 tukmol
+0.42 balinghoy
+0.40 trutsang
+0.40 ginintuan
+0.40 tuwerka
+0.40 kaldereta
+0.40 orka
+0.40 keesee
+0.40 katingkaran
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1272</number>
+<text>
+#combine(
+#wsyn(
+0.44 opsyon
+0.43 hó
+0.43 ŭ
+0.42 sumobra
+0.42 sustansya
+0.42 kumukunsumo
+0.42 mefenamic
+0.41 pagdidiyeta
+0.41 makunat
+0.41 maduming
+)
+#wsyn(
+0.56 pamhimpapawid
+0.54 airforce
+0.53 panghimpapawid
+0.53 himpapawid
+0.51 lipad
+0.48 isahimpapawid
+0.48 salimpapaw
+0.48 airbus
+0.48 sumahimpapawid
+0.47 pinalipad
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query754</number>
+<text>
+#combine(
+#wsyn(
+0.63 yelo
+0.58 nagyelo
+0.56 iyelo
+0.53 pangyelo
+0.53 nagyeyelo
+0.50 hockey
+0.50 pagyeyelo
+0.49 yelong
+0.48 lupangyelo
+0.46 nagyeyelong
+)
+#wsyn(
+0.60 tsokolate
+0.57 tsokolateng
+0.56 juice
+0.56 tinimplahan
+0.55 tinimplahang
+0.55 tsaa
+0.54 pulbos
+0.54 sauce
+0.53 kayumangging
+0.53 gochujang
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2294</number>
+<text>
+#combine(
+#wsyn(
+0.51 yerba
+0.51 luya
+0.51 panimpla
+0.51 sibuyas
+0.51 luyos
+0.51 coffea
+0.50 prutas
+0.50 niyog
+0.50 fagopyrum
+0.49 tinimplahan
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query559</number>
+<text>
+#combine(
+#wsyn(
+0.55 niluluto
+0.55 lutuing
+0.55 karneng
+0.54 tinapay
+0.54 karne
+0.54 iluto
+0.54 lutong
+0.54 niluto
+0.53 nilutong
+0.53 pagkaing
+)
+#wsyn(
+0.60 lutuin
+0.58 panimpla
+0.58 baboy
+0.58 niluluto
+0.58 lutuing
+0.57 panimplang
+0.55 nagluluto
+0.55 tinimplahan
+0.55 karneng
+0.55 hotdog
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1682</number>
+<text>
+#combine(
+#wsyn(
+0.44 spindle
+0.44 madidilim
+0.43 emulsions
+0.43 mensworkoutmagazine
+0.42 plastic
+0.42 takipsilim
+0.42 sketches
+0.42 fantastic
+0.41 baluktot
+0.41 y
+)
+#wsyn(
+1.00 synreflecting
+)
+#wsyn(
+0.56 diaphragm
+0.55 pluwidong
+0.54 solidong
+0.54 likidong
+0.52 pluwido
+0.52 pluidong
+0.52 umbok
+0.52 kg m
+0.52 espigmomanometro
+0.52 µm
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1833</number>
+<text>
+#combine(
+#wsyn(
+0.47 dalampasigan
+0.46 dalampasigang
+0.45 pasigan
+0.45 tubigang
+0.45 pandalampasigan
+0.45 tubigan
+0.45 patubigan
+0.44 katubigang
+0.44 tinatahak
+0.44 taytay
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query966</number>
+<text>
+#combine(
+#wsyn(
+1.00 Christiandie
+)
+#wsyn(
+0.56 at
+0.55 ng
+0.50 ang
+0.50 iabng
+0.50 na
+0.50 hòa
+0.49 ay
+0.49 sa
+0.49 visegrád
+0.48 mga
+)
+#wsyn(
+0.49 kagutuman
+0.48 pagkagutom
+0.43 pagkagumon
+0.43 pagkagulo
+0.42 pagkirot
+0.42 pagpapahirap
+0.42 pagkapahiya
+0.42 pasiklab
+0.42 gutom
+0.42 pagkidnap
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1196</number>
+<text>
+#combine(
+#wsyn(
+0.55 atsuwete
+0.55 sawsawan
+0.54 gochujang
+0.54 sawsawang
+0.53 panimpla
+0.53 ihaw
+0.53 doenjang
+0.53 panimplang
+0.52 tapioca
+0.52 tinimplahang
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query813</number>
+<text>
+#combine(
+#wsyn(
+1.00 Lukban
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query532</number>
+<text>
+#combine(
+#wsyn(
+0.46 twitter
+0.45 oprah
+0.44 twitter
+0.44 paumanhin
+0.44 blogger
+0.43 twit
+0.43 blog
+0.43 vogout
+0.43 tumblr
+0.43 weblog
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2043</number>
+<text>
+#combine(
+#wsyn(
+1.00 Filipino
+)
+#wsyn(
+0.73 panitikang
+0.69 pampanitikang
+0.68 panitikan
+0.65 pampanitikan
+0.60 literaturang
+0.60 panulaan
+0.60 panulaang
+0.59 estetikang
+0.58 lingguwistikang
+0.57 dalubwika
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1463</number>
+<text>
+#combine(
+#wsyn(
+0.66 prinsipyong
+0.62 prinsipyo
+0.56 pundamentalismo
+0.55 optimismo
+0.55 pangangatwirang
+0.55 teoremang
+0.54 pangangatwiran
+0.54 konseptong
+0.54 nangangatwiran
+0.54 sinkretismo
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query948</number>
+<text>
+#combine(
+#wsyn(
+1.00 necktomorrow
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query736</number>
+<text>
+#combine(
+#wsyn(
+0.60 karne
+0.59 karneng
+0.57 panimpla
+0.57 niluluto
+0.57 lutuing
+0.56 lutuin
+0.55 niluto
+0.55 pagkaing
+0.54 panimplang
+0.54 nilutong
+)
+#wsyn(
+0.61 pakuluan
+0.60 niluto
+0.59 panimpla
+0.59 nilutong
+0.58 niluluto
+0.58 pinakuluan
+0.57 pinakukuluan
+0.57 uhog
+0.57 panimplang
+0.57 tinimplahan
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1273</number>
+<text>
+#combine(
+#wsyn(
+1.00 muddyrain
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query960</number>
+<text>
+#combine(
+#wsyn(
+0.60 liwanag
+0.53 maliliwanag
+0.52 nagliliwanag
+0.52 madidilim
+0.51 madilim
+0.49 liboyhaba
+0.48 pagliliwanag
+0.48 ultraviolet
+0.48 liwanagin
+0.47 naaninag
+)
+#wsyn(
+0.54 pantransportasyon
+0.52 transportasyon
+0.50 ▲
+0.49 trapik
+0.49 transportasyong
+0.49 trapiko
+0.48 pangtransportasyon
+0.48 kalsada
+0.48 ｜
+0.47 deportasyon
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1580</number>
+<text>
+#combine(
+#wsyn(
+0.52 dào
+0.51 tsismosa
+0.51 kaduwagan
+0.49 śīla
+0.48 intelektuwalismo
+0.48 calvinismo
+0.48 tathāgatagarbha
+0.48 satispaksiyon
+0.47 marubdob
+0.47 kanibalismo
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query422</number>
+<text>
+#combine(
+#wsyn(
+0.65 panlipunang
+0.65 panlipunan
+0.65 panglipunan
+0.62 lipunan
+0.61 lipunang
+0.60 pangkaisipan
+0.60 pangmoralidad
+0.59 sosyolohikal
+0.59 peminismo
+0.59 mfn
+)
+#wsyn(
+0.63 magbabago
+0.63 pagababago
+0.62 magbabagong
+0.61 mabago
+0.61 pagbabago
+0.60 pababago
+0.60 pagbabagong
+0.60 nababago
+0.59 babaguhin
+0.58 magpabago
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1380</number>
+<text>
+#combine(
+#wsyn(
+1.00 plasticfork
+)
+#wsyn(
+1.00 hyputensil
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1757</number>
+<text>
+#combine(
+#wsyn(
+1.00 controversialquestion
+)
+#wsyn(
+1.00 syninquiry
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query557</number>
+<text>
+#combine(
+#wsyn(
+0.52 garfish
+0.50 jellyfish
+0.49 isda
+0.49 soybean
+0.48 gawgaw
+0.48 pusit
+0.47 fish
+0.47 butterflyfish
+0.47 hagfish
+0.47 lumot
+)
+#wsyn(
+0.51 pakikibagay
+0.50 pagiisip
+0.50 pakiwari
+0.50 dispensasyonalismo
+0.49 indibidwalismo
+0.49 saloobing
+0.49 pakikibakang
+0.49 dào
+0.49 piyudalismo
+0.49 paguugali
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3818</number>
+<text>
+#combine(
+#wsyn(
+1.00 you're
+)
+#wsyn(
+0.57 ŭ
+0.53 y
+0.51 ā
+0.51 matulad
+0.49 hó
+0.49 ay ang
+0.48 kamukhang
+0.48 ΄
+0.48 kahawig
+0.48 kayong
+)
+#wsyn(
+0.54 na
+0.47 o
+0.46 ŭ
+0.45 ng
+0.45 mga
+0.44 tāj
+0.44 gōzō
+0.44 baggage_check
+0.43 hvc
+0.43 אלהים
+)
+#wsyn(
+0.51 gagamba
+0.45 gagambino
+0.45 gagambang
+0.45 alimangong
+0.45 uri espesye
+0.44 alimango
+0.44 halimuyak
+0.43 subespesye
+0.43 
+0.42 korpusel
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3102</number>
+<text>
+#combine(
+#wsyn(
+1.00 Java
+)
+#wsyn(
+0.49 kiwi
+0.48 bihon
+0.47 prutas
+0.47 lunti
+0.46 bihud
+0.46 tsaang
+0.46 garbansos
+0.46 sawsawan
+0.46 dahon
+0.46 tsaa
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query100</number>
+<text>
+#combine(
+#wsyn(
+1.00 garlicpepper
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2117</number>
+<text>
+#combine(
+#wsyn(
+1.00 Chavacano
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1690</number>
+<text>
+#combine(
+#wsyn(
+0.50 katihan
+0.47 sandatahan
+0.47 guwardya
+0.47 army
+0.46 hukbong
+0.46 usaffe
+0.45 pansandatahan
+0.45 gwardya
+0.45 komandante
+0.45 sandatahang
+)
+#wsyn(
+1.00 synwatchman
+)
+#wsyn(
+0.58 bahay
+0.51 maybahay
+0.48 kasambahay
+0.47 pabahay
+0.45 simabahan
+0.45 tiráhan
+0.44 penthouse
+0.44 house
+0.44 upper_house
+0.44 silid
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query788</number>
+<text>
+#combine(
+#wsyn(
+1.00 dutyteacher
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1742</number>
+<text>
+#combine(
+#wsyn(
+1.00 announcethree
+)
+#wsyn(
+0.61 araw
+0.54 linggo
+0.54 – 
+0.53  – 
+0.53 buwan
+0.52 buwang
+0.52 huwebes
+0.52 taon
+0.51 miyerkoles
+0.51 hatinggabi
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1347</number>
+<text>
+#combine(
+#wsyn(
+0.57 ray
+0.53 raye
+0.47 grayson
+0.45 rayleigh
+0.44 biffle
+0.44 murray
+0.42 scarface
+0.42 radke
+0.42 ozzy
+0.42 ultraviolet
+)
+#wsyn(
+0.56 at
+0.55 ng
+0.50 ang
+0.50 iabng
+0.50 na
+0.50 hòa
+0.49 ay
+0.49 sa
+0.49 visegrád
+0.48 mga
+)
+#wsyn(
+0.65 ng
+0.65 ang
+0.60 na
+0.59 ito
+0.58 at
+0.58 sa
+0.57 ay
+0.56 mga
+0.56 jvkv
+0.53 nito
+)
+#wsyn(
+0.42 merkyuryo
+0.42 solar
+0.41 lunisolar
+0.40 freezing
+0.40 umoorbit
+0.40 eclipse
+0.40 mayweather
+0.39 yi
+0.39 heather
+0.39 aether
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query172</number>
+<text>
+#combine(
+#wsyn(
+0.56 olympics
+0.55 taglamig
+0.54 wolympics
+0.53 pangtaglamig
+0.52 olympiad
+0.52 olimpico
+0.52 olympic
+0.50 olimpiks
+0.50 olimpiyadang
+0.50 paralympics
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1623</number>
+<text>
+#combine(
+#wsyn(
+1.00 blanketclothes
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query717</number>
+<text>
+#combine(
+#wsyn(
+0.65 dalawang
+0.65 dalawangpu
+0.64 labintatlong
+0.63 labingdalawang
+0.63 dalawangpung
+0.63 tatlong
+0.62 labingtatlong
+0.61 labindalawang
+0.59 labinwalong
+0.58 labinglimang
+)
+#wsyn(
+1.00 hypcardinal
+)
+#wsyn(
+0.49 srswr
+0.48 dobleng
+0.47 gcf
+0.47 dalawangpu
+0.46 dalawangpung
+0.45 ¢
+0.45 ₩
+0.44 mahigit
+0.44 humigit
+0.43 kopya ml
+)
+#wsyn(
+0.42 orasan
+0.42 hugpungan
+0.42 wheel
+0.41 kotse
+0.41 sugpungan
+0.41 biluging
+0.41 tapyas
+0.40 sinulid
+0.40 ugpungan
+0.39 kiskisan
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1661</number>
+<text>
+#combine(
+#wsyn(
+0.60 sitwasyon
+0.55 sitwasyong
+0.55 situwasyon
+0.52 haharap
+0.52 kahihinatnan
+0.51 haharapin
+0.51 pagdedesisyon
+0.51 krisis
+0.50 ihinarap
+0.50 hidwaan
+)
+#wsyn(
+1.00 syncircumstance
+)
+#wsyn(
+0.50 tagapaglikha
+0.48 tagalikha
+0.48 tagapaglimbag
+0.45 kämpfer
+0.45 tagaguhit
+0.44 nilikha
+0.43 likha
+0.43 tagalimbag
+0.43 tagapaglathala
+0.43 manlilikha
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query938</number>
+<text>
+#combine(
+#wsyn(
+0.59 panimpla
+0.57 krema
+0.56 niluluto
+0.56 luya
+0.55 yerba
+0.55 niyog
+0.55 gulay
+0.54 panimplang
+0.54 pananim
+0.54 sahog
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1584</number>
+<text>
+#combine(
+#wsyn(
+0.53 isda
+0.52 isdangbaga
+0.50 karniboro
+0.50 karnibora
+0.49 karniborong
+0.48 panimpla
+0.48 mycorrhizal
+0.47 rhizome
+0.47 isdang
+0.47 cetacea
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query943</number>
+<text>
+#combine(
+#wsyn(
+0.51 kutsara
+0.50 kutsarita
+0.49 hinuhugasan
+0.48 kubyertos
+0.47 dinurog
+0.47 bolpen
+0.47 pildoras
+0.47 karayom
+0.46 huhugasan
+0.46 hiringgilya
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query561</number>
+<text>
+#combine(
+#wsyn(
+0.57 mapaglabanan
+0.57 labanan
+0.56 lumaban
+0.55 nilabanan
+0.55 labanán
+0.55 pakikipaglaban
+0.54 paglalabanan
+0.54 malabanan
+0.54 makipaglaban
+0.54 labanang
+)
+#wsyn(
+0.46 pipit
+0.45 gout
+0.45 ngusong
+0.44 karpet
+0.43 punungkahoy
+0.43 biik
+0.42 paypay
+0.42 biskuwit
+0.42 tukmol
+0.42 pamaypay
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1276</number>
+<text>
+#combine(
+#wsyn(
+1.00 Butuanchallenge
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1440</number>
+<text>
+#combine(
+#wsyn(
+1.00 lizardceiling
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1047</number>
+<text>
+#combine(
+#wsyn(
+1.00 Christmas
+)
+#wsyn(
+1.00 Eve
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1398</number>
+<text>
+#combine(
+#wsyn(
+0.58 kapatid
+0.54 magkapatid
+0.53 napatid
+0.53 patid
+0.52 magkakapatid
+0.50 karenina
+0.50 anak
+0.48 désirée
+0.48 dolpina
+0.47 tiyahing
+)
+#wsyn(
+1.00 Adela
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query945</number>
+<text>
+#combine(
+#wsyn(
+0.55 unggoy
+0.49 donkey
+0.48 poy
+0.48 baboy
+0.48 kamelya
+0.48 lovebird
+0.47 hedgehog
+0.47 
+0.47 
+0.47 pikachu
+)
+#wsyn(
+1.00 hypanimal
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1618</number>
+<text>
+#combine(
+#wsyn(
+0.52 inumin
+0.51 painumin
+0.50 inuming
+0.50 pampalasa
+0.49 iinumin
+0.49 pagkaing
+0.48 sawsawan
+0.48 sawsawang
+0.48 hinuhugasan
+0.48 noodle
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query953</number>
+<text>
+#combine(
+#wsyn(
+1.00 woodroot
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1295</number>
+<text>
+#combine(
+#wsyn(
+1.00 trustedfriend
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1959</number>
+<text>
+#combine(
+#wsyn(
+0.54 diksiyunaryo
+0.53 diksiyunaryong
+0.53 talahuluganan
+0.50 talahuluganang
+0.50 diksyunaryong
+0.50 diksyunaryo
+0.49 bibliyograpiya
+0.49 talatinigan
+0.49 bibliograpiya
+0.48 talahulugan
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1035</number>
+<text>
+#combine(
+#wsyn(
+0.56 ahas
+0.49 buntot
+0.48 larvae
+0.47 cephalorhynchus
+0.47 goldfish
+0.47 cephalopod
+0.47 tukmol
+0.47 balyenang
+0.47 tapsilog
+0.46 amphitryon
+)
+#wsyn(
+0.70 pagdisenyo
+0.69 idisenyo
+0.68 magdisenyo
+0.67 pagdidisenyo
+0.67 disenyo
+0.67 nagdidisenyo
+0.66 nagdisenyo
+0.64 arkitektural
+0.63 tagadisenyo
+0.63 nakadisenyo
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1345</number>
+<text>
+#combine(
+#wsyn(
+0.53 ginuguhit
+0.53 pagguhit
+0.52 gumuguhit
+0.52 iguhit
+0.51 dibuho
+0.50 iginuguhit
+0.49 pangguhit
+0.49 guhit
+0.48 buhid
+0.48 guhitan
+)
+#wsyn(
+0.54 magkasamang
+0.52 magkakasamang
+0.50 magkasama
+0.47 magkapilas
+0.47 magkasalikop
+0.47 magkakasama
+0.47 at
+0.47 magkagayunman
+0.47 magkakaparehang
+0.46 magkasabay
+)
+#wsyn(
+0.44 isang
+0.41 na
+0.40 ng
+0.38 unang
+0.38 bülow
+0.37 awtentikong
+0.37 o
+0.37 zigzag
+0.37 prolipikong
+0.36 akmang
+)
+#wsyn(
+0.46 imbudo
+0.44 bumblebee
+0.44 makintab
+0.44 higop
+0.44 nakaguhit
+0.44 kapsula
+0.44 bubot
+0.44 kwintas
+0.44 bumbilya
+0.43 kyut
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1386</number>
+<text>
+#combine(
+#wsyn(
+0.52 isda
+0.51 cephalopod
+0.51 isdang
+0.49 phocoenidae
+0.49 crustacean
+0.49 karniborong
+0.49 reptilya
+0.49 isdangbaga
+0.49 artropod
+0.49 arthropod
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query527</number>
+<text>
+#combine(
+#wsyn(
+1.00 Japanese
+)
+#wsyn(
+1.00 Spanish
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query606</number>
+<text>
+#combine(
+#wsyn(
+0.45 nakikipagpaligsahan
+0.44 helmet
+0.44 sumbrerong
+0.42 makikipagpaligsahan
+0.42 pisbol
+0.42 sopbol
+0.42 manipis
+0.42 pagkiskis
+0.42 lambot
+0.41 makipagpaligsahan
+)
+#wsyn(
+1.00 hypsheet
+)
+#wsyn(
+0.68 metal
+0.60 metaliko
+0.58 metallic
+0.58 metalikong
+0.56 nonmetal
+0.56 metalurhiko
+0.56 metallurgy
+0.56 metals
+0.54 metalac
+0.54 metalloid
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1636</number>
+<text>
+#combine(
+#wsyn(
+0.42 orasan
+0.42 hugpungan
+0.42 wheel
+0.41 kotse
+0.41 sugpungan
+0.41 biluging
+0.41 tapyas
+0.40 sinulid
+0.40 ugpungan
+0.39 kiskisan
+)
+#wsyn(
+0.50 tagapangulo
+0.49 chairman
+0.49 tagapangulong
+0.48 lupon
+0.46 wheelchair
+0.46 chair
+0.46 lupo
+0.45 tagapaggawad
+0.44 kansilyer
+0.44 tagapanguna
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query822</number>
+<text>
+#combine(
+#wsyn(
+0.49 microsoft
+0.49 macintosh
+0.46 microphone
+0.45 soft
+0.44 windows
+0.44 smartphone
+0.44 bsd
+0.44 microblogging
+0.43 winload
+0.43 iphone
+)
+#wsyn(
+1.00 hypfruit
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1162</number>
+<text>
+#combine(
+#wsyn(
+0.46 kisame
+0.46 kiskisan
+0.45 dingding
+0.45 balkonahe
+0.45 pamukpok
+0.45 patyo
+0.44 kalubkob
+0.44 helmet
+0.44 balantok
+0.43 paitaas
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1686</number>
+<text>
+#combine(
+#wsyn(
+1.00 I
+)
+#wsyn(
+1.00 don't
+)
+#wsyn(
+0.61 pakiwari
+0.61 pakisagot
+0.59 intindihin
+0.57 y
+0.57 makibagay
+0.56 maunawaan
+0.56 iisipin
+0.56 mauunawaang
+0.55 maipapaliwanag
+0.55 pakialam
+)
+#wsyn(
+0.64 y
+0.60 ŭ
+0.59 suhestyon
+0.59 niyo
+0.59 ā
+0.59 pinoytrivia
+0.59 ~~~~
+0.59 kayong
+0.58 anakngaraw
+0.57 nickrds
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query869</number>
+<text>
+#combine(
+#wsyn(
+0.59 kaaway
+0.54 mapaglabanan
+0.54 hukbalahap
+0.54 pakikidigma
+0.53 pakikidigmang
+0.53 makubkob
+0.52 nakikidigma
+0.52 nakidigma
+0.52 kalupitan
+0.52 lalabanan
+)
+#wsyn(
+0.56 at
+0.55 ng
+0.50 ang
+0.50 iabng
+0.50 na
+0.50 hòa
+0.49 ay
+0.49 sa
+0.49 visegrád
+0.48 mga
+)
+#wsyn(
+0.65 ng
+0.65 ang
+0.60 na
+0.59 ito
+0.58 at
+0.58 sa
+0.57 ay
+0.56 mga
+0.56 jvkv
+0.53 nito
+)
+#wsyn(
+0.55 daga
+0.49 jellyfish
+0.48 lepidoptera
+0.48 cephalosporin
+0.47 dagaan
+0.47 gonorrhea
+0.46 haemoglobin
+0.46 mesencephalon
+0.46 hemoglobin
+0.46 lamuymoy
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query971</number>
+<text>
+#combine(
+#wsyn(
+1.00 dryriver
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query560</number>
+<text>
+#combine(
+#wsyn(
+0.60 lutuin
+0.58 panimpla
+0.58 baboy
+0.58 niluluto
+0.58 lutuing
+0.57 panimplang
+0.55 nagluluto
+0.55 tinimplahan
+0.55 karneng
+0.55 hotdog
+)
+#wsyn(
+0.65 talampakan
+0.65 talampakang
+0.60 pulgada
+0.59 milimetro
+0.59 sentimetro
+0.59 sentimetrong
+0.56 pulgadang
+0.55 tampakan
+0.53 baywang
+0.53 millimetro
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query427</number>
+<text>
+#combine(
+#wsyn(
+1.00 musicdance
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query789</number>
+<text>
+#combine(
+#wsyn(
+0.45 ay ang
+0.42 ŭ
+0.40 walang
+0.39 y
+0.39 wala
+0.39 kung
+0.39 nairal
+0.38 opsyon
+0.38 srswr
+0.38 mga
+)
+#wsyn(
+0.63 hustisya
+0.56 hustisyang
+0.55 suprema
+0.55 husgado
+0.55 katarungan
+0.54 hukuman
+0.52 supremasya
+0.51 sandiganbayan
+0.51 supremacy
+0.51 hukumang
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query790</number>
+<text>
+#combine(
+#wsyn(
+0.52 ŭ
+0.52 medyo
+0.50 malalamang
+0.50 mas
+0.50 malalambot
+0.50 masmainam
+0.49 madidilim
+0.49 naireresolba
+0.49 malalamig
+0.49 malalaman
+)
+#wsyn(
+0.64 mayaman
+0.60 mayamang
+0.52 mayayaman
+0.49 yayamang
+0.49 kayaman
+0.49 mayayamang
+0.46 kayamanang
+0.45 pinayaman
+0.45 kayamanan
+0.45 mayamot
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1346</number>
+<text>
+#combine(
+#wsyn(
+0.57 pinakamagastos
+0.53 pinakamababa
+0.52 pinakamabisang
+0.52 pinakamabenta
+0.51 mabibili
+0.51 pinakamababang
+0.50 bibili
+0.50 tiket
+0.50 pinakamainam
+0.50 pinakamainit
+)
+#wsyn(
+0.51 sweldo
+0.51 paaralan
+0.50 gradwado
+0.50 suweldo
+0.50 kurikulum
+0.50 paseguro
+0.49 pampublikong unibersidad
+0.49 paaaralan
+0.49 edukasyon
+0.49 aaaral
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query969</number>
+<text>
+#combine(
+#wsyn(
+0.38 pedobear
+0.36 hesukristong
+0.36 bmx
+0.35 iniakyat
+0.35 hesukristo
+0.35 toroman
+0.34 toros
+0.34 marating
+0.34 balbulang
+0.34 iiskeyting
+)
+#wsyn(
+0.65 ng
+0.65 ang
+0.60 na
+0.59 ito
+0.58 at
+0.58 sa
+0.57 ay
+0.56 mga
+0.56 jvkv
+0.53 nito
+)
+#wsyn(
+0.65 kalye
+0.62 abenida
+0.59 abenidang
+0.57 kalyeng
+0.56 avenida
+0.56 bulebard
+0.56 bulebar
+0.54 avenue
+0.53 panulukan
+0.51 lrt
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1379</number>
+<text>
+#combine(
+#wsyn(
+0.71 aking
+0.61 akin
+0.57 paking
+0.57 y
+0.54 nickrds
+0.54 ko
+0.54 hehehe
+0.53 akong
+0.52 hehe
+0.52 akina
+)
+#wsyn(
+0.57 orkestra
+0.55 tugtog
+0.54 orkestrang
+0.54 pangmusika
+0.53 gitara
+0.52 pangmusikang
+0.52 keyboards
+0.51 vocals
+0.51 nagpatugtog
+0.51 tagatugtog
+)
+#wsyn(
+0.67 guro
+0.58 tagapagturo
+0.55 istudyante
+0.55 palaaral
+0.54 edukador
+0.54 nagturo
+0.53 aaaral
+0.52 paaralan
+0.52 nagtuturo
+0.51 pagaaral
+)
+)
+</text>
+</query>
+</parameters>

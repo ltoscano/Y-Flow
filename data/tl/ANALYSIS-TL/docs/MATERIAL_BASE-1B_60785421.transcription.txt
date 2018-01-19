@@ -1,0 +1,73 @@
+[0.000]
+<no-speech>
+[1.745]
+<sta> next in line sa park na aming pinasyalan ay ang Bayanihan Park na matatagpuan sa harapan ng Clark main gate .
+[8.850]
+<sta> formerly called Astro Park great venue ito para sa mga magkakapamilya at magkakaibigan na nagpaplanong <sta> mag-picnic at mag-relax .
+[18.132]
+<no-speech>
+[20.721]
+<sta> right so Bayanihan Park is not just a park as it is Ma'am <sta> ay isa siyang mini amusement park and dito rin ano uhm may mga activities dito morning to afternoon kahit any time of the day .
+[33.700]
+<sta> kung kani-kanina lang ay kasama namin si Krish ang Clark Parade Grounds <sta> ngayon naman ay sinamahan kami ni Red na libutin ang Bayanihan Park .
+[44.050]
+<no-speech>
+[44.920]
+<sta> sa lawak rin ng park na ito ay napakaraming activities ang maaaring gawin rito .
+[51.410]
+<sta> dahil sa location nito dinarayo ito ng mga tao from nearby cities like Mabalacat and Angeles .
+[59.310]
+<sta> convenient puntahan dahil makikita ito just a few distance away from Balibago .
+[64.510]
+<sta> The Business and Amusement District of Angeles at bago ka pa makapasok sa Clark Field .
+[71.640]
+<sta> isa rin sa mga advantage ng park na ito ay open for public <sta> at hindi na kailangan magbayad ng entrance fee .
+[78.649]
+<no-speech>
+[80.232]
+as we can see very spacious <sta> so maraming siyang mga recreational activities and maraming sports na dito rin siya ginaganap .
+[88.330]
+<no-speech>
+[89.563]
+sports like basketball <sta> volleyball and badminton and activities such as kite flying ay maaari ring i-enjoy sa Bayanihan Park .
+[99.400]
+<sta> lugar rin ito upang ilaan sa iyong morning or afternoon fitness regimen .
+[104.168]
+(()) .
+[105.650]
+<sta> kunwari may mga activities yung mga students dito rin sila pumupunta for practice .
+[111.595]
+aah nag-pa-practice ng sayaw <int> sports or kahit na anong activities nila sa school gano'n .
+[118.646]
+<sta> bago pa matapos ang visit namin sa Bayanihan Park ay nakipagtsikahan muna ang aking mga guests <sta> co-hosts sa mga magkakapamilya at magbabarkada na sinusulit ang kanilang pahinga sa park .
+[131.450]
+Ma'am anong pangalan nila ?
+[132.791]
+<int> Jane .
+[133.340]
+<int> Jane ayan <sta> so madalas po ba kayo dito Ma'am ?
+[136.080]
+<sta> hmm yeah .
+[137.171]
+<sta> tuwing kailan Ma'am may set ba kayong date or everyday ?
+[140.517]
+<sta> naisipan lang ma-get together (()) <sta> bakit ito yung napili n'yo para mag-bonding ang family ?
+[146.522]
+<sta> bonggang view maganda maraming tao walang entrance .
+[151.070]
+<sta> aah walang entrance number ohh one ba 'yon para ito yung puntahan n'yo ?
+[155.281]
+<sta> ayan so tig -- taga-saan kayo Ma'am ?
+[157.650]
+<sta> Balibago Mountain View lang diyan .
+[159.005]
+aah so nilalakad n'yo lang siya pumunta dito ?
+[161.258]
+<int> minsan nag i-enjoy naman so far ?
+[164.410]
+yeah very (()) enjoy .
+[166.992]
+enjoy naman ang family ?
+[167.948]
+yes .
+[168.883]

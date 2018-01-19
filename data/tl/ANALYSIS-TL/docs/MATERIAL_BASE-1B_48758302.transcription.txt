@@ -1,0 +1,85 @@
+[0.000]
+<sta> lumalabas sa isang survey na anim sa bawat sampung kabataan ang gusto raw makapag-aral kung mabibigyan lang ng oportunidad .
+[6.700]
+<sta> kaya naman ilang mobile teacher ang walang pagod na nag-iikot sa Bulacan makapaghatid lang ng edukasyon .
+[11.901]
+narito ang Balitanghali special report .
+[14.790]
+<no-speech>
+[17.060]
+<sta> walang pinipiling lugar ang paghahatid ng edukasyon dito sa Baranggay San Roque Bulacan .
+[21.670]
+<sta> tulak-tulak ang trolley na ito naglalakbay ang mga mobile teachers sa mga (()) na lugar <sta> para makapagturo sa mga <int> out-of-school youth .
+[28.107]
+(()) .
+[33.600]
+(()) .
+[37.880]
+(()) .
+[43.570]
+(()) .
+[47.151]
+<sta> mahalaga ang alternative (()) sa <sta> mga pamayanan lalo pa't batay <int> sa twenty ten Annual Poverty Indicators Survey isa sa <sta> bawat walong kabataang edad anim hangga't dalawampu't apat na taong gulang ang 'di nakakapag-aral .
+[58.730]
+<sta> anim sa bawat sampung kabataan ang nagsabing gusto nilang makapag-aral kung mabibigyan ng oportunidad .
+[64.560]
+<sta> 'yong kahirapan <no-speech> 'yong <int> wala silang pantustos na makapag-aral doon sa formal education <sta> 'yong iba naman ay maaga silang nag-asawa 'yong iba naman medyo naging pasaway pinag-aaral ng magulang <sta> ay <hes> <int> nagbulakbol ngayon dumating 'yong certain time na na-realize nila <sta> na mahirap pala sa <int> kanila 'yong hindi man lang makatapos kahit high school .
+[93.510]
+kung minsan po <sta> inaabot kami <hes> tatlong oras kasi kung minsan hindi natin masasabi 'yong panahon .
+[98.560]
+<sta> pagka umuulan mahirap po lalo 'yong daan .
+[100.691]
+eh kung minsan inaabot tayo ng balaho <sta> pagka tumatawid po ng <hes> mga ilog .
+[105.180]
+okay lang din po .
+[106.217]
+ina- -- hinahayaan natin silang nando'n .
+[108.021]
+pinagtiyatiyagaan pa rin natin silang <hes> turuan at habang sa -- hanggang sa matuto sila .
+[112.844]
+<sta> sampung buwan ang gugugulin ng mga estudyante ng Alternative Learning System sa pag-aaral bago makakuha ng Accreditation and Equivalency Exam para <int> makapag-kolehiyo .
+[120.686]
+the formal education and the Alternative Learning System are parallel .
+[125.150]
+<sta> pareho lang 'yan .
+[126.206]
+ang diploma nila pirmado ng DepEd Secretary .
+[129.989]
+no'ng ka tapos po <sta> do'n po lumakas ang loob ko na kaya ko rin po pa lang makipagsabayan .
+[136.317]
+si Patrick labinsiyam <sta> na taong gulang .
+[138.793]
+pangarap daw makatapos ng pag-aaral para maging chef o restaurant manager balang araw .
+[143.330]
+<sta> mas naging deserving ako sa pag-aaral kasi kailangan talagang makayari dahil mahirap ng maghanap ng trabaho ngayon .
+[148.790]
+<sta> so kailangan talagang magtiyaga sa pag-aaral .
+[151.522]
+mas malaya kasi kami dito ng mag-isip ng maayos .
+[154.940]
+<no-speech>
+[155.834]
+<sta> kaysa do'n sa formal .
+[157.508]
+<no-speech>
+[158.244]
+tulong-tulong din ang komunidad para <int> pagyamanin ang aklatang ito kung saan puwedeng magbasa <sta> o humiram ng libro ang sino mang gustong matuto .
+[165.297]
+<no-speech>
+[166.127]
+ilan lang ito sa may <sta> tatlong daang libro dito sa barangay library ng Baranggay San Roque San Rafael Bulacan na ginagamit ng mga Alternative Learning students at lahat ng gustong magbasa ng libro .
+[174.890]
+<sta> bukas ito mula Lunes hanggang Sabado .
+[176.889]
+lahat ng mga ito donasyon mula sa mga pribadong indibiduwal at mga kompanya kasama ng mga <int> N_G_Os <sta> at mga eskuwelahan .
+[183.335]
+<no-speech>
+[185.102]
+hindi hadlang ang kahirapan at edad para matuto .
+[187.937]
+para sa mga estudyanteng uhaw sa kaalaman baon nila <sta> sa pagpasok sa eskuwela simpleng ballpen papel at masidhing determinasyon para makatapos ng pag-aaral .
+[197.790]
+<sta> thousand .
+[198.640]
+okay that is six thousand .
+[200.249]

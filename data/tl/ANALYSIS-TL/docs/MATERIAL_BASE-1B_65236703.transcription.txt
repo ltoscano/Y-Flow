@@ -1,0 +1,51 @@
+[0.000]
+kasindak-sindak .
+[1.585]
+<sta> may bagong pinagtatalunan ngayon ang mga dalubhasa kung saan nga ba <sta> ang tunay na kapanganakan ni Hesu Kristo ?
+[10.010]
+<no-speech>
+[11.084]
+<sta> ayon sa nasaliksik ng Kasindak-sindak may dalawang lugar sa Israel na tinawag na Bethlehem .
+[17.680]
+may isang maliit na nayon doon na tinawag na Galilee .
+[21.187]
+sa mga tradisyunal na pagdiriwang ng kapaskuhan tungkol sa kapanganakan ni Hesus nakalakihan na natin na siya ay isinilang sa sabsaban ng Bethlehem West Bank ng bansang Israel .
+[35.341]
+<breath> pero may pangalawang Bethlehem daw na maliit na village isang daang milya ang layo mula sa hilaga ng Bethlehem .
+[43.690]
+dito raw ang totoong lugar kung saan isinilang ni Maria ang anak niyang <sta> si Hesus .
+[49.878]
+<no-speech>
+[53.570]
+<sta> sabi ni Aviram Oshri opisyal ng Israel Antiquities Authority <int> naniniwala siya na may pangalawang Bethlehem nga at umikot ang buhay ni Hesus sa Galilee at Kinneret .
+[65.810]
+<sta> walong milya ang layo ng village sa Nazareth kaya imposible raw na malakad ni Maria ang gano'n kalayong lugar .
+[74.600]
+mahirap daw iyon dahil buntis siya at araw ang bibilangin para makarating sa Nazareth kung doon nga niya isinilang si Kristo .
+[84.084]
+sabi ni doktor Oshri sumakay si Maria sa donkey pagkapanganak akay-akay ni Maria si Hesus noong panahong iyon .
+[93.471]
+pero nakapagtataka raw dahil ano nga ba ang tsansa na mabuhay ang sanggol na si Hesus habang sakay sa donkey na bumabiyahe papuntang Bethlehem hanggang sa Judea .
+[105.282]
+<no-speech>
+[106.164]
+may nagsabi naman na si Hesus ay ipinanganak sa Nazareth .
+[110.040]
+sinabi ni doktor Uzi Dahari isang archaeologist sa panahon ng mga Romano kung saan nabuhay si Hesus hindi pinapayagang lumipat ng lugar sa lugar ang mga tao noon .
+[122.424]
+<no-speech>
+[122.810]
+dahil ang buong pamilya ni Hesus ay nagmula sa Nazareth naniniwala ang archaeologist na ito na sa Nazareth din isinilang si Hesus .
+[132.691]
+ngunit sa ating kasalukuyang panahon ang minamahalaga ay <hes> <breath> <sta> ang nagawa ni Hesus <int> sa pagkasilang at hindi kung saan siya isinilang .
+[143.342]
+mahalaga si Hesu Kristo sa marami dahil isa siyang mabuting halimbawang nilalang sa mundo .
+[148.963]
+<no-speech>
+[149.620]
+kaya nga ba anong saysay ng pagdiriwang ng kaniyang kaarawan kung ang mismong may kaarawan ay hindi masaya <breath> sa pagsaway ng marami .
+[157.980]
+<sta> sa dahilan ang kaniya mismong kapanganakan ang ipagpatuloy ang kaniyang sinimulan niyang aral .
+[163.965]
+ang aral ng tunay na pagmamahalan ng bawat nilalang .
+[171.050]
