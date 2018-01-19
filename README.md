@@ -1,8 +1,8 @@
 <div align='center'>
-<img src="./docs/_static/images/tree-shot.png" width = "600"  alt="图片名称" align=center />
+<img src="./docs/_static/images/tree-shot.png" width = "600"  alt="tree-shot" align=center />
 </div>
 
-DeepRank is an extension for MatchZoo a toolkit for text matching. It was developed with a focus on facilitating the designing, comparing and sharing of deep text matching models. There are a number of deep matching methods, such as DRMM, MatchPyramid, MV-LSTM, aNMM, DUET, ARC-I, ARC-II, DSSM, and CDSSM, designed with a unified interface. Potential tasks related to MatchZoo include document retrieval, question answering, conversational response ranking, paraphrase identification, etc. We are always happy to receive any code constributions, suggestions, comments from all our MatchZoo users.
+DeepRank is an extension for MatchZoo a toolkit for text matching. Here at Yale we are developing a system for text matching for question answering, document ranking, paraphrase identification, and machine translation. The figure above indicates a surprise language coming to our system and we are going to use zero-shot learning approaches for transfer learning particularly for syntax. 
 
 <table>
   <tr>
@@ -90,77 +90,51 @@ Here, the DRMM_TKS is a variant of DRMM for short text matching. Specifically, t
 
 ## Model Detail:
 
-1. DRMM
-
-this model is an implementation of <a href="http://www.bigdatalab.ac.cn/~gjf/papers/2016/CIKM2016a_guo.pdf">A Deep Relevance Matching Model for Ad-hoc Retrieval</a>.
+1. DRMM : this model is an implementation of <a href="http://www.bigdatalab.ac.cn/~gjf/papers/2016/CIKM2016a_guo.pdf">A Deep Relevance Matching Model for Ad-hoc Retrieval</a>.
 
 - model file: models/drmm.py
 - model config: models/drmm_ranking.config
 
----
-2. MatchPyramid
-
-this model is an implementation of <a href="https://arxiv.org/abs/1602.06359"> Text Matching as Image Recognition</a>
+2. MatchPyramid : this model is an implementation of <a href="https://arxiv.org/abs/1602.06359"> Text Matching as Image Recognition</a>
 
 - model file: models/matchpyramid.py
 - model config: models/matchpyramid_ranking.config
 
----
-3. ARC-I
-
-this model is an implementation of <a href="https://arxiv.org/abs/1503.03244">Convolutional Neural Network Architectures for Matching Natural Language Sentences</a>
+3. ARC-I : this model is an implementation of <a href="https://arxiv.org/abs/1503.03244">Convolutional Neural Network Architectures for Matching Natural Language Sentences</a>
 
 - model file: models/arci.py
 - model config: models/arci_ranking.config
 
----
-4. DSSM
-
-this model is an implementation of <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf">Learning Deep Structured Semantic Models for Web Search using Clickthrough Data</a>
+4. DSSM : this model is an implementation of <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf">Learning Deep Structured Semantic Models for Web Search using Clickthrough Data</a>
 
 - model file: models/dssm.py
 - model config: models/dssm_ranking.config
 
----
-5. CDSSM
-
-this model is an implementation of <a href="https://www.microsoft.com/en-us/research/publication/learning-semantic-representations-using-convolutional-neural-networks-for-web-search/">Learning Semantic Representations Using Convolutional Neural Networks for Web Search</a>
+5. CDSSM : this model is an implementation of <a href="https://www.microsoft.com/en-us/research/publication/learning-semantic-representations-using-convolutional-neural-networks-for-web-search/">Learning Semantic Representations Using Convolutional Neural Networks for Web Search</a>
 
 - model file: models/cdssm.py
 - model config: models/cdssm_ranking.config
 
----
-6. ARC-II
-
-this model is an implementation of <a href="https://arxiv.org/abs/1503.03244">Convolutional Neural Network Architectures for Matching Natural Language Sentences</a>
+6. ARC-II : this model is an implementation of <a href="https://arxiv.org/abs/1503.03244">Convolutional Neural Network Architectures for Matching Natural Language Sentences</a>
 
 - model file: models/arcii.py
 - model config: models/arcii_ranking.config
 
----
-7. MV-LSTM
-
-this model is an implementation of <a href="https://arxiv.org/abs/1511.08277">A Deep Architecture for Semantic Matching with Multiple Positional Sentence Representations</a>
+7. MV-LSTM : this model is an implementation of <a href="https://arxiv.org/abs/1511.08277">A Deep Architecture for Semantic Matching with Multiple Positional Sentence Representations</a>
 
 - model file: models/mvlstm.py
 - model config: models/mvlstm_ranking.config
 
--------
-8. aNMM
-
-this model is an implementation of <a href="http://maroo.cs.umass.edu/pub/web/getpdf.php?id=1240">aNMM: Ranking Short Answer Texts with Attention-Based Neural Matching Model</a>
+8. aNMM : this model is an implementation of <a href="http://maroo.cs.umass.edu/pub/web/getpdf.php?id=1240">aNMM: Ranking Short Answer Texts with Attention-Based Neural Matching Model</a>
 - model file: models/anmm.py
 - model config: models/anmm_ranking.config
 
--------
-9. DUET
 
-this model is an implementation of <a href="https://dl.acm.org/citation.cfm?id=3052579">Learning to Match Using Local and Distributed Representations of Text for Web Search</a>
+9. DUET : this model is an implementation of <a href="https://dl.acm.org/citation.cfm?id=3052579">Learning to Match Using Local and Distributed Representations of Text for Web Search</a>
 
 - model file: models/duet.py
 - model config: models/duet_ranking.config
 
----
 10. models under development:
 
 <a href="https://arxiv.org/abs/1604.04378">Match-SRNN</a>, <a href="https://arxiv.org/abs/1710.05649">DeepRank</a>, <a href="https://arxiv.org/abs/1706.06613">K-NRM</a> ....
