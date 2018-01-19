@@ -1,9 +1,8 @@
 <div align='center'>
-<img src="./docs/_static/images/matchzoo-logo.png" width = "400"  alt="图片名称" align=center />
+<img src="./docs/_static/images/tree-shot.png" width = "600"  alt="图片名称" align=center />
 </div>
 
----
-MatchZoo is a toolkit for text matching. It was developed with a focus on facilitating the designing, comparing and sharing of deep text matching models. There are a number of deep matching methods, such as DRMM, MatchPyramid, MV-LSTM, aNMM, DUET, ARC-I, ARC-II, DSSM, and CDSSM, designed with a unified interface. Potential tasks related to MatchZoo include document retrieval, question answering, conversational response ranking, paraphrase identification, etc. We are always happy to receive any code constributions, suggestions, comments from all our MatchZoo users.
+DeepRank is an extension for MatchZoo a toolkit for text matching. It was developed with a focus on facilitating the designing, comparing and sharing of deep text matching models. There are a number of deep matching methods, such as DRMM, MatchPyramid, MV-LSTM, aNMM, DUET, ARC-I, ARC-II, DSSM, and CDSSM, designed with a unified interface. Potential tasks related to MatchZoo include document retrieval, question answering, conversational response ranking, paraphrase identification, etc. We are always happy to receive any code constributions, suggestions, comments from all our MatchZoo users.
 
 <table>
   <tr>
@@ -59,13 +58,6 @@ python matchzoo/main.py --phase train --model_file examples/toy_example/config/a
 python matchzoo/main.py --phase predict --model_file examples/toy_example/config/arci_ranking.config
 ```
 
-## Overview
-The architecture of the MatchZoo toolkit is described in the Figure  in what follows,
-<div align='center'>
-<img src="./docs/_static/images/matchzoo.png" width = "400" height = "200" alt="图片名称" align=center />
-</div>
-There are three major modules in the toolkit, namely data preparation, model construction, training and evaluation, respectively. These three modules are actually organized as a pipeline of data flow.
-
 ### Data Preparation
 The data preparation module aims to convert dataset of different text matching tasks into a unified format as the input of deep matching models. Users provide datasets which contains pairs of texts along with their labels, and the module produces the following files.
 
@@ -94,85 +86,6 @@ In testing phase, you can run
 python matchzoo/main.py --phase predict --model_file examples/wikiqa/config/drmm_wikiqa.config
 ```
 
-We have compared 10 models, the results are as follows.
-<table>
-  <tr>
-    <th width=10%, bgcolor=#999999 >Models</th> 
-    <th width=20%, bgcolor=#999999>NDCG@3</th>
-    <th width="20%", bgcolor=#999999>NDCG@5</th>
-    <th width="20%", bgcolor=#999999>MAP</th>
-  </tr>
-  <tr>
-    <td align="center", bgcolor=#eeeeee> DSSM </td>
-    <td align="center", bgcolor=#eeeeee> 0.5439 </td>
-    <td align="center", bgcolor=#eeeeee> 0.6134 </td>
-    <td align="center", bgcolor=#eeeeee> 0.5647 </td>
-  </tr>
-  <tr>
-  	 <td align="center", bgcolor=#eeeeee> CDSSM </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.5489 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6084</td>
-  	 <td align="center", bgcolor=#eeeeee> 0.5593 </td>
-  </tr>
-  <tr>
-  	 <td align="center", bgcolor=#eeeeee> ARC-I </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.5680 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6317 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.5870 </td>
-  </tr>
-  <tr>
-  	 <td align="center", bgcolor=#eeeeee> ARC-II </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.5647 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6176 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.5845 </td>
-  </tr>
-  <tr>
-  	 <td align="center", bgcolor=#eeeeee> MV-LSTM </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.5818 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6452 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.5988 </td>
-  </tr>
-  <tr>
-  	 <td align="center", bgcolor=#eeeeee> DRMM </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6107 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6621 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6195 </td>
-  </tr>
-  <tr>
-     <td align="center", bgcolor=#eeeeee> aNMM </td>
-     <td align="center", bgcolor=#eeeeee> 0.6160 </td>
-     <td align="center", bgcolor=#eeeeee> 0.6696 </td>
-     <td align="center", bgcolor=#eeeeee> 0.6297 </td>
-  </tr>
-  <tr>
-  	 <td align="center", bgcolor=#eeeeee> DUET </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6065 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6722 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6301 </td>
-  </tr>
-  <tr>
-  	 <td align="center", bgcolor=#eeeeee> MatchPyramid </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6317 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6913 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6434 </td>
-  </tr>
-  <tr>
-  	 <td align="center", bgcolor=#eeeeee> DRMM_TKS </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6458 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6956 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6586 </td>
-  </tr>
- 
-</table>
-The loss of each models are described in the following figure,
- <div align='center'>
-<img src="./docs/_static/images/matchzoo.wikiqa.loss.png" width = "550" alt="图片名称" align=center />
-</div>
-
-The MAP of each models are depicted in the following figure,
-<div align='center'>
-<img src="./docs/_static/images/matchzoo.wikiqa.map.png" width = "550" alt="图片名称" align=center />
-</div>
 Here, the DRMM_TKS is a variant of DRMM for short text matching. Specifically, the matching histogram is replaced by a top-k maxpooling layer and the remaining part are fixed. 
 
 ## Model Detail:
@@ -263,18 +176,6 @@ this model is an implementation of <a href="https://dl.acm.org/citation.cfm?id=3
 }
 ```
 
-Project Organizers
-====
-- **Jiafeng Guo**
-    - Institute of Computing Technolgy, Chinese Academy of Sciences
-    - [HomePage](http://www.bigdatalab.ac.cn/~gjf/)
-- **Yanyan Lan**
-    - Institute of Computing Technolgy, Chinese Academy of Sciences
-    - [HomePage](http://www.bigdatalab.ac.cn/~lanyanyan/)
-- **Xueqi Cheng**
-    - Institute of Computing Technolgy, Chinese Academy of Sciences 
-    - [HomePage](http://www.bigdatalab.ac.cn/~cxq/)
-
 ## Environment
 * python2.7+
 * tensorflow 1.2+
@@ -283,28 +184,3 @@ Project Organizers
 * tqdm 4.19.4+
 * h5py 2.7.1+
 
-Development Teams
-====
-- **Yixing Fan**
-    - Institute of Computing Technolgy, Chinese Academy of Sciences
-    - [Google Scholar](https://scholar.google.com/citations?user=w5kGcUsAAAAJ&hl=en)
-- **Liang Pang** 
-    - Institute of Computing Technolgy, Chinese Academy of Sciences
-    - [Google Scholar](https://scholar.google.com/citations?user=1dgQHBkAAAAJ&hl=zh-CN)
-- **Liu Yang** 
-    - Center for Intelligent Information Retrieval, University of Massachusetts Amherst
-    - [HomePage](https://sites.google.com/site/lyangwww/)
-
-Acknowledgements
-=====
-We would like to express our appreciation to the following people for contributing source code to MatchZoo, including [Yixing Fan](https://scholar.google.com/citations?user=w5kGcUsAAAAJ&hl=en), [Liang Pang](https://scholar.google.com/citations?user=1dgQHBkAAAAJ&hl=zh-CN), [Liu Yang](https://sites.google.com/site/lyangwww/), [Yukun Zheng](), [Lijuan Chen](), [Jianpeng Hou](https://github.com/HouJP), [Zhou Yang](), [Niuguo cheng](https://github.com/niuox) etc..
-
-Feedback and Join Us
-=====
-Feel free to post any questions or suggestions on [GitHub Issues](https://github.com/faneshion/MatchZoo/issues) and we will reply to your questions there. You can also suggest adding new deep text maching models into MatchZoo and apply for joining us to develop MatchZoo together.
-
-Update in 12/10/2017: We have applied another WeChat ID: CLJ_Keep. Anyone who want to join the WeChat group can add this WeChat id as a friend. Please tell us your name, company or school, city when you send such requests. After you added "CLJ_Keep" as one of your WeChat friends, she will invite you to join the MatchZoo WeChat group. "CLJ_Keep" is one member of the MatchZoo team.
-
-<div align='center'>
-<img src="./docs/_static/images/matchzoo-group.jpeg" width = "200"  alt="图片名称" align=center />
-</div>
