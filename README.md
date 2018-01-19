@@ -58,13 +58,6 @@ python matchzoo/main.py --phase train --model_file examples/toy_example/config/a
 python matchzoo/main.py --phase predict --model_file examples/toy_example/config/arci_ranking.config
 ```
 
-## Overview
-The architecture of the MatchZoo toolkit is described in the Figure  in what follows,
-<div align='center'>
-<img src="./docs/_static/images/matchzoo.png" width = "400" height = "200" alt="图片名称" align=center />
-</div>
-There are three major modules in the toolkit, namely data preparation, model construction, training and evaluation, respectively. These three modules are actually organized as a pipeline of data flow.
-
 ### Data Preparation
 The data preparation module aims to convert dataset of different text matching tasks into a unified format as the input of deep matching models. Users provide datasets which contains pairs of texts along with their labels, and the module produces the following files.
 
