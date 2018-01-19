@@ -1,5 +1,5 @@
 <div align='center'>
-<img src="./docs/_static/images/tree-shot.png" width = "400"  alt="图片名称" align=center />
+<img src="./docs/_static/images/tree-shot.png" width = "600"  alt="图片名称" align=center />
 </div>
 
 ---
