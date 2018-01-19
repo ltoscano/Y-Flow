@@ -1,8 +1,8 @@
 <div align='center'>
-<img src="./docs/_static/images/tree-shot.png" width = "600"  alt="图片名称" align=center />
+<img src="./docs/_static/images/tree-shot.png" width = "600"  alt="tree-shot" align=center />
 </div>
 
-DeepRank is an extension for MatchZoo a toolkit for text matching. It was developed with a focus on facilitating the designing, comparing and sharing of deep text matching models. There are a number of deep matching methods, such as DRMM, MatchPyramid, MV-LSTM, aNMM, DUET, ARC-I, ARC-II, DSSM, and CDSSM, designed with a unified interface. Potential tasks related to MatchZoo include document retrieval, question answering, conversational response ranking, paraphrase identification, etc. We are always happy to receive any code constributions, suggestions, comments from all our MatchZoo users.
+DeepRank is an extension for MatchZoo a toolkit for text matching. Here at Yale we are developing a system for text matching for question answering, document ranking, paraphrase identification, and machine translation. The figure above indicates a surprise language coming to our system and we are going to use zero-shot learning approaches for transfer learning particularly for syntax. 
 
 <table>
   <tr>
