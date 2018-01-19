@@ -2,7 +2,7 @@
 <img src="./docs/_static/images/tree-shot.png" width = "600"  alt="图片名称" align=center />
 </div>
 
-MatchZoo is a toolkit for text matching. It was developed with a focus on facilitating the designing, comparing and sharing of deep text matching models. There are a number of deep matching methods, such as DRMM, MatchPyramid, MV-LSTM, aNMM, DUET, ARC-I, ARC-II, DSSM, and CDSSM, designed with a unified interface. Potential tasks related to MatchZoo include document retrieval, question answering, conversational response ranking, paraphrase identification, etc. We are always happy to receive any code constributions, suggestions, comments from all our MatchZoo users.
+DeepRank is an extension for MatchZoo a toolkit for text matching. It was developed with a focus on facilitating the designing, comparing and sharing of deep text matching models. There are a number of deep matching methods, such as DRMM, MatchPyramid, MV-LSTM, aNMM, DUET, ARC-I, ARC-II, DSSM, and CDSSM, designed with a unified interface. Potential tasks related to MatchZoo include document retrieval, question answering, conversational response ranking, paraphrase identification, etc. We are always happy to receive any code constributions, suggestions, comments from all our MatchZoo users.
 
 <table>
   <tr>
@@ -93,85 +93,6 @@ In testing phase, you can run
 python matchzoo/main.py --phase predict --model_file examples/wikiqa/config/drmm_wikiqa.config
 ```
 
-We have compared 10 models, the results are as follows.
-<table>
-  <tr>
-    <th width=10%, bgcolor=#999999 >Models</th> 
-    <th width=20%, bgcolor=#999999>NDCG@3</th>
-    <th width="20%", bgcolor=#999999>NDCG@5</th>
-    <th width="20%", bgcolor=#999999>MAP</th>
-  </tr>
-  <tr>
-    <td align="center", bgcolor=#eeeeee> DSSM </td>
-    <td align="center", bgcolor=#eeeeee> 0.5439 </td>
-    <td align="center", bgcolor=#eeeeee> 0.6134 </td>
-    <td align="center", bgcolor=#eeeeee> 0.5647 </td>
-  </tr>
-  <tr>
-  	 <td align="center", bgcolor=#eeeeee> CDSSM </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.5489 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6084</td>
-  	 <td align="center", bgcolor=#eeeeee> 0.5593 </td>
-  </tr>
-  <tr>
-  	 <td align="center", bgcolor=#eeeeee> ARC-I </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.5680 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6317 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.5870 </td>
-  </tr>
-  <tr>
-  	 <td align="center", bgcolor=#eeeeee> ARC-II </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.5647 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6176 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.5845 </td>
-  </tr>
-  <tr>
-  	 <td align="center", bgcolor=#eeeeee> MV-LSTM </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.5818 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6452 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.5988 </td>
-  </tr>
-  <tr>
-  	 <td align="center", bgcolor=#eeeeee> DRMM </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6107 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6621 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6195 </td>
-  </tr>
-  <tr>
-     <td align="center", bgcolor=#eeeeee> aNMM </td>
-     <td align="center", bgcolor=#eeeeee> 0.6160 </td>
-     <td align="center", bgcolor=#eeeeee> 0.6696 </td>
-     <td align="center", bgcolor=#eeeeee> 0.6297 </td>
-  </tr>
-  <tr>
-  	 <td align="center", bgcolor=#eeeeee> DUET </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6065 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6722 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6301 </td>
-  </tr>
-  <tr>
-  	 <td align="center", bgcolor=#eeeeee> MatchPyramid </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6317 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6913 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6434 </td>
-  </tr>
-  <tr>
-  	 <td align="center", bgcolor=#eeeeee> DRMM_TKS </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6458 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6956 </td>
-  	 <td align="center", bgcolor=#eeeeee> 0.6586 </td>
-  </tr>
- 
-</table>
-The loss of each models are described in the following figure,
- <div align='center'>
-<img src="./docs/_static/images/matchzoo.wikiqa.loss.png" width = "550" alt="图片名称" align=center />
-</div>
-
-The MAP of each models are depicted in the following figure,
-<div align='center'>
-<img src="./docs/_static/images/matchzoo.wikiqa.map.png" width = "550" alt="图片名称" align=center />
-</div>
 Here, the DRMM_TKS is a variant of DRMM for short text matching. Specifically, the matching histogram is replaced by a top-k maxpooling layer and the remaining part are fixed. 
 
 ## Model Detail:
