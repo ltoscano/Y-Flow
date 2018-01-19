@@ -176,18 +176,6 @@ this model is an implementation of <a href="https://dl.acm.org/citation.cfm?id=3
 }
 ```
 
-Project Organizers
-====
-- **Jiafeng Guo**
-    - Institute of Computing Technolgy, Chinese Academy of Sciences
-    - [HomePage](http://www.bigdatalab.ac.cn/~gjf/)
-- **Yanyan Lan**
-    - Institute of Computing Technolgy, Chinese Academy of Sciences
-    - [HomePage](http://www.bigdatalab.ac.cn/~lanyanyan/)
-- **Xueqi Cheng**
-    - Institute of Computing Technolgy, Chinese Academy of Sciences 
-    - [HomePage](http://www.bigdatalab.ac.cn/~cxq/)
-
 ## Environment
 * python2.7+
 * tensorflow 1.2+
