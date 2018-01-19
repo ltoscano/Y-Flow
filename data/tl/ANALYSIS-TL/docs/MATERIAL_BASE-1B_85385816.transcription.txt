@@ -1,0 +1,91 @@
+[0.000]
+<no-speech>
+[1.637]
+ang naging pangalan at tawag na kaugalian <sta> ng mga pumapasyal dito na mahilig sa mga aklat ay aklatan sa bangketa .
+[12.587]
+gawa ng nagsimula ito na nasa bangketa lang .
+[16.120]
+limampung aklat na mga luma na nakikita n'yo ngayon ay napakarami na .
+[22.104]
+<no-speech>
+[23.920]
+<no-speech>
+[26.461]
+<sta> bukas anumang oras at anumang panahon ang aklatan na ito sa garahe ni mang Nani .
+[32.390]
+<sta> sampung taong gulang ako na nagsisimula na ako ng ganito ng pahihiram ng mga babasahin no .
+[39.150]
+no'ng nag -- sa kolehiyo naman ako nagtrabaho rin ako sa silid-aklatan .
+[44.900]
+hindi ko rin binigyan ng <no-speech> pagpapahalaga 'yon .
+[49.320]
+no'ng panahon ng edad ko ay singkuwenta wala na akong maisip na programa na maitutulong sa kapwa .
+[58.920]
+ito na nga nagsimula na nga at ito na .
+[61.788]
+<no-speech>
+[64.320]
+<sta> labing-apat na taon na mula nang buksan niya ito sa publiko .
+[68.560]
+<sta> alay niya raw ito sa mga na payapang magulang .
+[71.748]
+libre ang mga libro puwedeng hingin at iuwi .
+[75.830]
+<sta> so magmula dito lahat 'yan walang bayad 'yan .
+[80.410]
+kung anong gusto mong magazine para sa iyong project pocketbook para sa iyong research <no-speech> o sa iyong short story thesis report writing .
+[91.810]
+medical books <no-speech> maraming medical books sa mga nurses .
+[95.970]
+para ng sa gano'n mahal ang kanilang aklat dito makakakuha sila ng mga reference book .
+[102.240]
+<no-speech>
+[104.070]
+ito yung mga bata nagsisimula 'yang ng pagbabasa sa pamamagitan ng mga litratong comics .
+[111.492]
+<no-speech>
+[113.434]
+<sta> parang anak ang turing niya sa mga paboritong suki ng aklatan .
+[118.120]
+nakakapag-aral po kasi ako ng maayos kasi po sa ano libro ni <int> lolo .
+[122.500]
+nakakatulong po siya sa ano recitation .
+[125.720]
+tapos sa lecture .
+[127.280]
+nakakatuloy na po yung mga bata dahil sa mga -- sa mga libro .
+[131.739]
+<sta> ang mga binabasa ko dito ang pambasang pambata kasi po natututo <int> kami sa mga babasahin .
+[139.159]
+<no-speech>
+[140.338]
+hindi lang bata ang pumupunta sa library .
+[143.885]
+<no-speech>
+[145.590]
+<sta> walang pondo ang aklatan hindi rin ito tumatanggap ng pera .
+[149.780]
+(()) maraming salamat pandagdag sa (()) mag-sunglass ka para %incomplete
+[155.431]
+ayan .
+[156.738]
+uy salamat .
+[157.996]
+'yon ang sinasabi ko may lumalabas sampu ang bumabalik .
+[163.500]
+kaya mas magaling ang lumalabas .
+[165.603]
+tatlong libo isang buwan <no-speech> sampung libo ang bumabalik .
+[169.292]
+<no-speech>
+[176.420]
+<sta> kahit mga dayuhan bilib kay mang Nani .
+[179.633]
+<no-speech>
+[181.320]
+<sta> nagbibigay rin ng libro si mang Nani sa mga liblib na lugar sa iba't ibang probinsiya .
+[186.830]
+<no-speech>
+[188.271]
+<sta> mahalaga ang talino at kaalaman kay mang Nani kaya itinaguyod niya ang aklatan .
+[194.835]

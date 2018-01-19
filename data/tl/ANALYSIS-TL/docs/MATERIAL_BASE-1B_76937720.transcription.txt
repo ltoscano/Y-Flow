@@ -1,0 +1,41 @@
+[0.000]
+<sta> sa pagguhit at pagkulay ginugugol ng mga drug dependent ang ilang oras ng kanilang therapy sa rehabilitation facility na ito sa Antipolo City .
+[11.880]
+<sta> ayon sa isang nonprofit group na katuwang ng rehabilitation facility malaking tulong ang art therapy para mas masusuri ang kondisyon ng mga pasyente .
+[21.470]
+dito rin nailalabas ng mga ito ang kanilang mga saloobin .
+[24.761]
+<int> so ngayon so through art they can express whatever they feel .
+[30.052]
+<sta> so do'n sa mga bagay na hindi nila kayang banggitin hindi nila kayang ilagay sa salita <sta> ay kaya nilang ilagay sa pamamagitan ng drawing at ma-e-express nila kung ano man ang nararamdaman nila .
+[41.208]
+<no-speech>
+[42.050]
+<sta> may ilang ginuhit ang kanilang pamilya at may ilan namang broken hearted pa yata .
+[47.480]
+<sta> pagkatapos mag-drawing ay magtitipon ang mga ito para ipaliwanag ang kanilang mga likha .
+[53.220]
+<sta> layon ng grupong Center for Christian Recovery na tulungan ang mga drug dependent na gustong magbagong-buhay .
+[60.120]
+<sta> nais din daw nilang ipakita kay pangulong Rodrigo Duterte <sta> na may pag-asa pa ang mga ito at may iba pang- -- solusyon <sta> para sugpuin ang problema sa ilegal na droga .
+[71.077]
+<int> witness ako ng mga taong nagbabago .
+[74.060]
+nahihirapan sila .
+[75.292]
+they really want to recover kaso napakahirap .
+[78.030]
+kung <hes> puputulin natin 'yong buhay nila hindi na natin sila mabibigyan ng tsansa para mas maintindihan pa kung ano ang buhay .
+[84.549]
+<int> <sta> bukod sa art therapy <sta> mayroon Ding counseling ng program para sa mga drug dependent .
+[91.530]
+nananawagan naman sa pangulo ang ilang mga pasyente <sta> na sana'y huwag sila basta patayin dahil may ilan pang gustong <sta> magbagong-buhay .
+[100.237]
+<int> sana naman <hes> aksiyunan rin 'to ng presidente natin .
+[104.112]
+may pag-asa pa naman kaming magbago .
+[106.270]
+hindi pa huli ang lahat .
+[107.299]
+<int> umaaksiyon Gary ~ %incomplete
+[109.402]

@@ -1,0 +1,110 @@
+0.000	outLine	<no-speech>
+0.000	inLine	anong gawa mo ?
+1.295	outLine	<int> dito lang nakahiga lang .
+2.210	inLine	<no-speech>
+4.145	outLine	<no-speech>
+4.955	outLine	<int> easy lang hide diyan sa bahay .
+6.905	outLine	<no-speech>
+6.930	inLine	ah .
+8.534	inLine	oo ito habang nakaupo wala pa rin magawa <hes> .
+12.185	outLine	<no-speech>
+12.585	outLine	<no-speech>
+12.660	inLine	<no-speech>
+13.500	inLine	<no-speech>
+13.815	outLine	paupo ka ?
+13.870	inLine	<no-speech>
+14.587	outLine	<no-speech>
+14.900	inLine	oo .
+15.568	inLine	walang magawa <hes> .
+16.125	outLine	<no-speech>
+17.045	outLine	bungad ganap nap- -- namo- -- naming fishnet ng %incomplete .
+17.880	inLine	<no-speech>
+20.215	outLine	<no-speech>
+20.580	inLine	<no-speech>
+21.010	inLine	<no-speech>
+21.715	outLine	<no-speech>
+21.840	inLine	<sta> pare mamaya laro tayo ha .
+22.135	outLine	<no-speech>
+22.965	outLine	<no-speech>
+23.990	inLine	<no-speech>
+24.695	outLine	<no-speech>
+25.830	inLine	<sta> laro tayo mamaya .
+26.755	outLine	aha ?
+27.365	outLine	<no-speech>
+29.233	inLine	kalaban natin sila .
+29.995	outLine	<no-speech>
+31.761	outLine	oo .
+32.395	outLine	<no-speech>
+33.640	inLine	<no-speech>
+34.570	inLine	<no-speech>
+34.695	outLine	laro tayo .
+34.920	inLine	<no-speech>
+35.625	outLine	<no-speech>
+35.740	inLine	o sige sige .
+36.565	outLine	<no-speech>
+37.111	inLine	tapos tawagan %incomplete
+37.265	outLine	<no-speech>
+38.328	inLine	mamaya text mo na rin si pareng baybay .
+38.615	outLine	<no-speech>
+38.965	outLine	<no-speech>
+40.610	inLine	<no-speech>
+40.865	outLine	<no-speech>
+41.245	outLine	<no-speech>
+42.130	inLine	<no-speech>
+42.595	outLine	<no-speech>
+43.380	inLine	<no-speech>
+44.305	outLine	<no-speech>
+44.540	inLine	oo 'musta ko na love life ?
+45.225	outLine	amoy %incomplete
+45.879	outLine	<no-speech>
+45.970	inLine	<no-speech>
+47.177	outLine	mabaho diyan sila pare .
+48.425	outLine	<no-speech>
+48.960	inLine	<sta> ha ?
+49.868	inLine	walang balita kay Mara ?
+50.455	outLine	<no-speech>
+51.700	inLine	<no-speech>
+52.313	outLine	bumawi ng sila .
+53.345	outLine	<no-speech>
+53.610	inLine	<no-speech>
+56.870	inLine	<no-speech>
+57.085	outLine	<no-speech>
+58.015	outLine	<no-speech>
+58.160	inLine	pero mahal ka niya 'no ?
+59.035	outLine	(()) .
+59.385	outLine	<no-speech>
+59.544	inLine	<no-speech>
+60.755	outLine	<no-speech>
+61.060	inLine	<no-speech>
+62.472	outLine	<int> oo naman .
+63.420	outLine	<no-speech>
+63.420	inLine	<laugh> I love you nga <hes> .
+66.778	outLine	sayang ano <no-speech> galit na galit nga kami do'n pare <hes> .
+67.406	inLine	I love you what's up ?
+69.064	inLine	mahal na mahal ka daw niya .
+69.725	outLine	<no-speech>
+70.860	inLine	<no-speech>
+71.195	outLine	oo .
+72.055	outLine	<no-speech>
+72.290	inLine	<sta> ba't kasi patorpe-torpe pa ?
+74.775	outLine	<no-speech>
+75.145	outLine	<no-speech>
+75.976	inLine	<no-speech>
+77.450	inLine	<no-speech>
+78.025	outLine	<no-speech>
+80.466	outLine	gano'n talaga pre .
+81.645	outLine	<no-speech>
+82.370	inLine	guwapo <hes> no ?
+82.625	outLine	<no-speech>
+83.670	inLine	<no-speech>
+83.714	outLine	gano'n talaga .
+84.555	outLine	<no-speech>
+86.000	inLine	ah 'pag gano'n kuha na kaagad .
+88.340	inLine	<no-speech>
+88.695	outLine	<no-speech>
+89.095	outLine	<no-speech>
+89.360	inLine	'wag nang patorpe-torpe .
+90.475	outLine	<no-speech>
+90.865	outLine	<no-speech>
+91.943	inLine	love you na kaagad kung ano 'yong dapat .
+94.130

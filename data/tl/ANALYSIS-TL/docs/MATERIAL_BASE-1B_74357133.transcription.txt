@@ -1,0 +1,231 @@
+[0.000]
+<sta> Anthony sa Baranggay Malinao sa Pasig .
+[3.643]
+at nandito pa rin sa bahay ng <hes> <int> %incomplete
+[6.518]
+ni <hes> Marjorie at siyempre ito'y tinatawag nating Marjorie zoo dahil akala mo ay zoo .
+[12.024]
+alam mo Marjorie <sta> naka- -- nakakatuwang isipin dahil ako pangarap ko lang na mag-alaga ng napakadaming hayop pero ngayon ginagawa ninyo .
+[19.910]
+<hes> naaalala mo ba noong bata ka tapos may mga katabi kang mga hayop ?
+[25.230]
+uh huh pusa pusa <int> mahilig ako sa pusa 'tsaka iyon .
+[29.430]
+pero ngayon wala kayong pusa ?
+[30.857]
+wala <laugh> .
+[31.541]
+oo nga .
+[32.094]
+ba't %incomplete
+[32.255]
+<overlap> naging aso sila <laugh> .
+[34.197]
+di kasi ano ang tawag dito mas dati kasi iyong pusa kasi bigay lang sa akin .
+[39.291]
+mhm .
+[39.862]
+iyon sa mother ko pa ako noon tapos ngayon dito na iyong <int> .
+[44.310]
+<no-speech>
+[45.634]
+dumami na iyong alaga .
+[47.360]
+so paano pag <hes> nag-expand nang ganito karami ?
+[50.210]
+<no-speech>
+[50.360]
+iyong mga hayop %incomplete
+[50.808]
+minsan may nagbibigay nagreregalo nagdadala rin dito parang rescue center ng mga animal ganoon .
+[57.369]
+uh huh .
+[57.851]
+pero kayo nagbibigay din ba kayo %incomplete
+[59.142]
+oo .
+[59.653]
+o nagbebenta kayo ?
+[60.210]
+<sta> nag- -- nag-be-bread kami tapos binibigay namin sa mga kamag-anak sa mga friend <sta> ganoon kapag ka %incomplete
+[66.080]
+so hindi ninyo ibinebenta ?
+[66.924]
+hindi namin hindi kami nagbebenta .
+[68.705]
+sayang naman bakit hindi ?
+[70.037]
+oo nga .
+[70.820]
+<sta> hindi kasi once noong <hes> time kasi na nagbenta kami parang <sta> karamihan sa ano namatayan .
+[76.269]
+parang nagtampo <int> ganoon .
+[78.000]
+<sta> sige bigay mo na lang iyong mga iba sa akin ako ang magbebenta <laugh> tapos may porsiyento ka agad .
+[83.425]
+all right .
+[83.801]
+well <int> iyon iyong kanina %incomplete
+[85.132]
+<hes> yes Donita .
+[85.878]
+to be honest kasi <hes> medyo takot ako sa mga hayop pero %incomplete
+[89.248]
+mhm .
+[89.710]
+mula noong kaninang umaga hanggang ngayon nagkaroon ako ng <hes> mas malakas na confidence <int> dahil <sta> <hes> iyong parang binigyan mo ako ng mga tips .
+[98.506]
+mhm .
+[99.077]
+binigyan mo ako ng mga trivia tungkol sa mga hayop at <sta> sobrang naaliw ako .
+[103.340]
+mhm .
+[103.719]
+so ngayon mas komportable ako at <hes> ini-expect ko iyong mga bata lalo na iyong mga bata %incomplete
+[109.308]
+mhm .
+[109.403]
+pag nagpunta dito magkaroon sila ng awareness <overlap> mhm <overlap> and love for nature .
+[114.196]
+oo .
+[114.744]
+iyong iyon nga nabanggit mo maganda iyon maganda iyong punto na iyon mga kapamilya .
+[117.720]
+dahil kung alam n'yo po tapos Donita talagang takot na takot sa animal kahit aso pa iyan o tuta na hindi naman mangangagat takot na takot po siya .
+[125.137]
+uh huh .
+[125.644]
+maganda na may nalaman tayo konting kaalaman tungkol sa hayop ngayon .
+[129.265]
+uh huh <overlap> at alam natin iyong mga character traits iyong personalidad .
+[132.280]
+ito nga po eh nagpakain nga po kami kanina .
+[134.192]
+itong pinakain namin ito iyong Chinese turkey .
+[136.120]
+this one is my paborito <int> .
+[137.680]
+<hes> pabo- -- paborito .
+[139.237]
+my paborito .
+[139.986]
+ito po iyong <hes> Bengala .
+[141.890]
+kung tawagin nila eh <sta> Chinese turkey Chinese turkey po siya .
+[144.578]
+mahiyain po sila kung madaming tao .
+[146.780]
+<sta> hindi po sila lumalapit pero noong sinira po namin iyong pintuan eh iyon po inatake nila iyong pinapakain namin na repolyo .
+[152.282]
+uh huh <overlap> yes .
+[153.670]
+<sta> at <hes> mayroon %incomplete
+[154.934]
+siyempre maraming mga hayop pa rin dito .
+[157.642]
+iyon naman -- ito naman iyong mas malaking <hes> turkey .
+[160.642]
+oo .
+[161.047]
+ito iyong native .
+[161.874]
+three months ?
+[162.630]
+<sta> yes three months .
+[164.276]
+so mga bata pang- -- mga iyan ?
+[165.520]
+<sta> mhm .
+[166.120]
+ito iyong anak noong kaibigan mo Donita na niloloko mo laki laki laki ah ito iyon ?
+[169.940]
+<sta> pag gumagalaw laki laki laki .
+[171.516]
+sumasagot siya oo .
+[172.864]
+laki laki laki .
+[173.367]
+ito po iyong native turkey kung tawagin na napakalaki nila for <hes> <sta> three months old pa lang sila <overlap> oo .
+[178.599]
+kinakain nila iyong mga <hes> feeds .
+[180.982]
+feeds .
+[181.560]
+<sta> iyong susunod dito ay iyong mga ayon iyon eh %incomplete
+[184.432]
+iyan ang paborito mo ?
+[185.772]
+pangalawang favorite ko ito .
+[186.580]
+ito iyong <hes> mga <hes> well they %incomplete
+[189.608]
+may mga maliliit na arawana pero favorite ko diyan iyong pig nosed turtle dahil <int> iyong ilong ng pig nosed turtle ay parang <int> ilong ng baboy .
+[198.657]
+mhm .
+[198.951]
+literal po talaga na %incomplete
+[200.147]
+iyan po iyon iyong tinatawag na pig nosed <int> turtle na tuwang-tuwa si Donita .
+[204.065]
+kung makikita n'yo po eh iyong talaga niya nga ay parang ngook ngook ngook .
+[207.764]
+oo iyong mayroon pang- -- isang <sta> mas malaki pa diyan na green na green at <hes> napakalaki ng ilong kasi mas <overlap> uh huh mature <overlap> mhm .
+[214.981]
+pero <hes> pinahiram sa iba para mag-breed .
+[218.374]
+o iyon po iyong pinakain .
+[220.051]
+ito naman din <no-speech> <hes> <int> mayroon ding mga koi fish na napakatakaw <laugh> kung tawagin dahil ang dami nilang kinakain oo na mga pellets .
+[230.245]
+uh huh tapos maririnig mo silang nagkaka <overlap> ayan ayan po iyan at mag aagawan sila .
+[234.960]
+iyon nga sabi mo nga Donita narinig mo iyong pag-chew nila <int> iyong pagkagat nila noong pellet .
+[238.579]
+uugch uugch gumaganon .
+[239.910]
+<int> ayan po iyong mga koi fish na napakadami .
+[242.505]
+so talagang nakakatuwa po din .
+[244.197]
+alam mo totoo lang nakakawala siya ng pagod ng stress ng stress ng problema na makatingin at makasalamuha iyong iba't ibang klaseng hayop .
+[253.277]
+ito naman ano naman itong nasa likod natin ?
+[255.232]
+<hes> Leopoldi stingray .
+[256.824]
+Leopoldi stingray .
+[258.130]
+oo .
+[258.635]
+ito din ba iyong nasabi nilang delikado ?
+[260.216]
+dahil kung maaalala po natin <sta> noong two thousand and six <hes> stingray po iyong <hes> nakapatay kay Steve Irwin .
+[266.479]
+yes <overlap> oo <overlap> ito iyong kumbaga umiiyak rin tayo Steve Irwin iyong Australiano ng Australia .
+[271.304]
+and known around the world .
+[272.567]
+oo two thousand six .
+[273.980]
+eh ito ba iyong masasabi din na nakakamatay ng tao ?
+[276.627]
+delikado <overlap> <hes> hindi .
+[277.532]
+<sta> actually hindi naman siya dahilan noong kamatayan iyong poison <overlap> oops kinakain iyan .
+[282.000]
+iyong ikinamatay ni Steve Irwin iyong pagsaksak niya sa heart .
+[285.238]
+so iyong mga katulad nitong stingray <hes> mamamanhid lang sandali .
+[289.846]
+okay okay <overlap> kahit na maano ka %incomplete
+[291.446]
+yes .
+[292.260]
+ano ?
+[292.852]
+mamanhid ka lang sandali tapos mawawala rin .
+[295.581]
+okey maraming salamat ulit Marjorie ha %incomplete
+[296.886]
+thank you Marjorie <overlap> maraming salamat .
+[297.865]

@@ -1,0 +1,91 @@
+[0.000]
+<sta> dekada otsenta ng pasukin ni Julio Diaz o Mariano de Leon sa tunay na buhay ang mundo ng showbiz .
+[6.089]
+<no-speech>
+[7.400]
+<int> ikasiyam ng Abril twenty sixteen isang pangyayari ang naglagay kay Julio sa bingit ng peligro .
+[13.500]
+three days before the ano I was socialized in a <hes> you know kahit anong sabihin natin na pinagbabawal na gamot .
+[21.985]
+<no-speech>
+[23.210]
+nagkaroon daw ng pagtatalo sa pagitan ni Julio at ng kaniyang tauhan .
+[27.084]
+<no-speech>
+[28.070]
+ang init ng kaniyang ulo nasundan ng panghihina ng kaniyang katawan .
+[32.671]
+<no-speech>
+[33.990]
+<sta> ang akala niyang simpleng sama ng pakiramdam may seryoso na palang dahilan .
+[38.179]
+<sta> nagkaroon siya ng kondisyon na kung tawagin ay brain aneurysm .
+[42.320]
+<no-speech>
+[44.272]
+<sta> naging kritikal ang kalagayan ni Julio sa intensive care unit o I_C_U dahil sa pagputok ng kaniyang aneurysm .
+[51.080]
+<int> ang brain o cerebral aneurysm ay paglobo sa mahihinang bahagi ng walls ng artery o mga ugat na dinadaluyan ng dugo mula sa ating puso .
+[60.570]
+'yong mga factors na puwedeng magpa-increase ng pagputok nito with the increase ng blood pressure o o kaya mataas ang mga cholesterol or blood sugar kasi nakakapagpahina ito ng ugat 'no ?
+[75.687]
+<no-speech>
+[77.120]
+<sta> sa patuloy na paglaki ng aneurysm o lobo sa ugat nagiging mas manipis ang artery walls <sta> na kalauna'y maaaring magdulot ng pagkalagot pagputok o rupture .
+[86.989]
+<no-speech>
+[88.660]
+<sta> sa kaso ni Julio pumutok ang kaniyang aneurysm na naging dahilan ng pagdurugo sa kaniyang utak na tinatawag na subarachnoid <sta> hemorrhage .
+[98.590]
+<sta> ibig sabihin na-stroke si Julio .
+[101.820]
+<sta> aneurysm niya nandoon sa anterior communicating artery .
+[104.815]
+<sta> so nando'n sa medyo relatively harap 'no pero gitna pa rin ng brain .
+[109.185]
+<sta> so 'pag pumutok 'yon <sta> <hes> in other words bumabalot 'yong -- babalot 'yong dugo sa <hes> ano sa surface ng brain .
+[117.120]
+kadalasan asymptomatic o walang tiyak na sintomas ang brain aneurysm .
+[121.760]
+pero ayon sa eksperto kapag pumutok ang aneurysm kalimitang nakakaranas ang pasyente ng labis na pananakit ng ulo pagtaas ng presyon pagkahilo at pagsusuka at pagkawala ng malay .
+[135.280]
+<int> sampung araw na na-comatose si Julio at upang maisalba ang kaniyang buhay sumailalim sa mahal at sensitibong operasyon na tinatawag na endovascular treatment o curling procedure .
+[148.062]
+usually ang pinapasukan namin 'yong <hes> common femoral artery which is 'yon ang ugat sa may singit 'no .
+[154.160]
+'pag papasok nang maliit na tube or catheter itutulay 'yan sa loob ng ugat and then <hes> pararatingin 'yong maliit na catheter na 'yan sa loob ng aneurysm .
+[162.540]
+.
+[163.285]
+'pag nasa loob ka na no'ng aneurysm <hes> maglalabas ako ng coil <hes> through 'yong catheter na 'yon para barahan 'yong aneurysm from the inside para hindi na rin pasukan ng dugo .
+[174.336]
+<no-speech>
+[175.110]
+ayon sa pag-aaral karamihan sa mga nagkakaroon ng aneurysm ay 'yong mga nasa edad trenta y singko hanggang animnapu pero maging ang mga bata ay hindi rin ligtas dito .
+[184.690]
+mas mataas daw ang tsansang magkaroon nito ang mga babae kaysa mga lalaki .
+[189.400]
+sa buong mundo tinatayang kalahating milyon kada taon ang namamatay dahil sa sakit na ito .
+[194.400]
+<no-speech>
+[197.160]
+makalipas ang apat na buwan tuloy ang buhay para sa limampu't pitong taong gulang na si Julio .
+[203.540]
+inabutan namin siya na abala sa ipinapagawa niyang bahay sa Bulacan .
+[207.900]
+<sta> oh mister Diaz kumusta na huh ?
+[211.035]
+<sta> maupo ka na muna .
+[212.540]
+<sta> payo ng doktor kay Julio dapat ay ituloy-tuloy na niya ang pagtalikod sa kaniyang mga naging bisyo .
+[217.844]
+<no-speech>
+[218.780]
+<sta> siniguro rin ni Julio ang pagkain ng wasto at ang regular na pag-inom ng gamot .
+[223.940]
+<no-speech>
+[225.350]
+<sta> tuluyan na rin daw niyang tatalikuran ang unhealthy lifestyle na siyang ugat ng kaniyang aneurysm .
+[231.360]
+<sta> the moment we live is ~ %incomplete
+[233.183]

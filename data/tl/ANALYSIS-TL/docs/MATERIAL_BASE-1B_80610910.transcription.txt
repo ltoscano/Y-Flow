@@ -1,0 +1,144 @@
+0.000	inLine	huh ?
+0.000	outLine	<no-speech>
+0.756	inLine	sila Rolda ?
+1.245	outLine	sila .
+1.985	outLine	<no-speech>
+3.294	inLine	o kumusta na pala pa- -- ano pakiramdam ng papa mo ?
+5.750	inLine	<no-speech>
+9.430	inLine	ha ?
+9.849	inLine	<no-speech>
+10.255	outLine	(()) .
+11.245	outLine	<no-speech>
+11.289	inLine	<no-speech> huh ?
+12.320	inLine	<no-speech>
+13.380	inLine	okey na sila ?
+14.545	outLine	<no-speech>
+14.579	inLine	<no-speech>
+15.604	outLine	sampalin .
+16.020	inLine	<no-speech>
+17.120	inLine	gano'n pa rin ?
+17.125	outLine	<no-speech>
+18.040	inLine	eh si- -- ibig sabihin si mama mo lagi ang bumibiyahe ngayon ?
+18.315	outLine	hindi .
+19.035	outLine	<no-speech>
+22.270	inLine	<no-speech>
+24.720	inLine	huh ?
+26.135	outLine	oo .
+26.646	inLine	huh ?
+26.905	outLine	<no-speech>
+27.763	inLine	<no-speech>
+29.270	inLine	<no-speech>
+30.460	inLine	siya lagi na ngayon na (()) .
+31.405	outLine	oo .
+31.840	inLine	<no-speech>
+32.385	outLine	<no-speech>
+33.190	inLine	gano'n ?
+34.134	inLine	ano bang nararamdaman kasi ni papa mo ?
+36.180	inLine	<no-speech>
+38.760	inLine	<no-speech>
+39.748	inLine	mhm ?
+40.075	outLine	yes .
+40.140	inLine	<no-speech>
+40.566	outLine	ano ?
+41.195	outLine	<no-speech>
+41.570	inLine	anu-ano ?
+42.450	inLine	<no-speech>
+43.130	inLine	<no-speech>
+44.350	inLine	<no-speech>
+45.642	inLine	ba- -- baka naman ano nag- -- <hes> nagpapalambing lang .
+46.395	outLine	ewan ko sa kanya .
+47.905	outLine	<no-speech>
+55.585	outLine	hindi rin .
+55.800	inLine	<no-speech>
+56.425	outLine	<no-speech>
+57.994	inLine	eh anong observation mo ?
+60.994	inLine	huh ?
+64.905	outLine	(()) .
+65.220	inLine	<no-speech>
+66.150	inLine	huh ?
+66.235	outLine	<no-speech>
+67.362	inLine	<no-speech>
+70.402	inLine	ano bang sa tingin mo anong obserbasyon mo ?
+73.625	outLine	(()) sa 'yo .
+73.860	inLine	<no-speech>
+74.905	outLine	<no-speech>
+75.150	inLine	huh ?
+75.750	inLine	<no-speech>
+79.250	inLine	<no-speech>
+79.955	outLine	parang late kayo ako .
+81.201	inLine	parang ako oh .
+81.775	outLine	<no-speech>
+83.806	inLine	ga- -- ano ?
+87.075	outLine	oo nga 'yon nga 'no ang tagal mo nga 'no .
+89.440	inLine	hindi ko maintindihan .
+89.895	outLine	<no-speech>
+92.225	outLine	<no-speech>
+92.585	outLine	<no-speech>
+92.691	inLine	<no-speech>
+94.789	inLine	ang lakas ng hangin dito .
+96.555	outLine	parang late kayo ka 'ko .
+97.510	inLine	<no-speech>
+98.645	outLine	<no-speech>
+98.720	inLine	parang katulad ko gano'n ?
+100.269	inLine	<no-speech>
+100.910	inLine	<no-speech>
+102.250	inLine	<no-speech>
+102.620	inLine	<no-speech>
+104.025	outLine	hindi parang late kayo .
+106.595	outLine	<no-speech>
+107.510	inLine	parang galit sa 'kin ?
+109.553	inLine	<no-speech>
+112.730	inLine	<no-speech>
+112.745	outLine	late .
+113.610	inLine	<no-speech>
+113.965	outLine	<no-speech>
+114.726	inLine	anong sabi mo ?
+115.392	inLine	anong sabi mo ?
+116.130	inLine	<no-speech>
+117.660	inLine	<no-speech>
+118.040	inLine	<no-speech>
+119.755	outLine	parang late 'yung dating ng salita sa 'yo .
+122.325	outLine	<no-speech>
+125.080	inLine	hindi ko maintindihan .
+126.420	inLine	<no-speech>
+127.400	inLine	mahina naman pala itong ganitong ano .
+131.382	inLine	<no-speech>
+132.985	outLine	<no-speech>
+134.035	outLine	<no-speech>
+134.925	outLine	<no-speech>
+135.275	outLine	<no-speech>
+137.040	inLine	<no-speech>
+138.740	inLine	dapat -- dapat ano maligo ka na kaagad after lunch .
+141.800	outLine	<no-speech>
+142.280	inLine	<no-speech>
+144.320	inLine	<no-speech>
+145.688	inLine	huh ?
+146.389	inLine	<no-speech>
+147.240	inLine	<no-speech>
+148.325	outLine	saan mo 'ko dadalhin ?
+149.635	outLine	<no-speech>
+149.700	inLine	huh ?
+150.601	inLine	<no-speech>
+152.856	inLine	ano ?
+154.235	outLine	saan n'yo 'ko dadalhin ?
+154.370	inLine	<no-speech>
+155.350	inLine	<no-speech>
+155.885	outLine	<no-speech>
+158.392	inLine	Pikachu .
+159.360	inLine	<no-speech>
+160.250	inLine	nag-teach na .
+161.248	inLine	nag-teach .
+162.610	inLine	<no-speech>
+164.130	inLine	<no-speech>
+165.105	outLine	huh ?
+165.145	inLine	ah hindi hindi mayroon pa .
+165.635	outLine	<no-speech>
+166.664	inLine	hello hello akala ko ba naputol na kasi mayroon tumunog eh .
+170.120	inLine	<no-speech>
+171.310	inLine	<no-speech>
+172.570	inLine	<no-speech>
+175.640	inLine	<no-speech>
+175.685	outLine	eight days pa lang eh .
+176.720	inLine	huh ?
+177.025	outLine	<no-speech>
+177.700

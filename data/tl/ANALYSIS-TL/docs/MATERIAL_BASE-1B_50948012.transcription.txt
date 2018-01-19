@@ -1,0 +1,39 @@
+[0.000]
+<sta> bad news mga kapatid inaprubahan na ng Commission on Higher Education <sta> ang taas-matrikula ng higit dalawang daang kolehiyo sa buong bansa .
+[10.112]
+<sta> ang masaklap pa tila masusurpresa na lang tayong mga magulang <sta> dahil tumanggi ang Ched na isiwalat kung anu-anong eskuwelahan ang binigyan nila ng go signal .
+[20.780]
+<sta> Gerard Garcia ikuwento mo .
+[22.772]
+<int> doble kayod sa pagtitinda ng pagkain si Mercy para raw may pambayad matrikula sa kolehiyo ang kayang labimpitong taong gulang na anak na kumukuha ng Business Administration .
+[33.352]
+<int> araw-araw kami kumakayod kahit papaano kumikita rin ng pamasahe ng anak ko .
+[38.212]
+<int> pero mula Hunyo lalong sasakit ang ulo ng mga tulad ni Mercy .
+[42.290]
+pinayagan na kasi ng Commission on Higher Education ang mahigit dalawang daang pribadong kolehiyo sa bansa na magtaas ng hanggang sampung porsiyento sa matrikula .
+[50.860]
+tatlumpu't tatlo rito mula sa N_C_R .
+[53.543]
+kaya ang dating dose mil na binabayaran ni Mercy kada semestre madadagdagan pa ng one thousand two hundred pesos halaga na pambili na sana ng school supplies ng anak niya .
+[62.116]
+<int> dapat hindi nila taasan yung tuition fee para hindi po mahirapang masyado yung mga nag-aaral tsaka yung magulang .
+[67.440]
+<int> kinondena ng kabataan party list ang taas-matrikula .
+[70.163]
+access sa college education maaaring bumaba .
+[73.530]
+kaya ina-anticipate natin baka tumaas yung dropout rates .
+[76.981]
+<int> pero giit ng Ched dumaan sa tamang konsultasyon sa mga eskuwelahan at magulang ang taas tuition .
+[82.279]
+kailangang-kailangan <int> din e para maitaas din yung uh suweldo ng kanilang mga guro .
+[87.567]
+<int> puwede naman daw mag-apply ng scholarship sa Ched <sta> basta't matataas ang grade sa estudyante at hindi lalagpas ng three hundred thousand pesos ang taunang kita ng mga magulang .
+[97.050]
+posibleng dumami pa <int> ang bilang ng mga kolehiyong magtataas ng kanilang matrikula sa pagbubukas ng klase sa Hunyo .
+[102.730]
+pero siniguro naman ng Ched na hindi magtataas ng tuition ang mga state colleges at universities .
+[108.451]
+Gerard Garcia ~ %incomplete
+[110.051]
