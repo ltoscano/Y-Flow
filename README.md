@@ -44,10 +44,10 @@ Y-Flow is an extension for MatchZoo a toolkit for text matching. Here at Yale we
 </table>
 
 ## Installation
-MatchZoo is still under development. Before the first stable release (1.0), please clone the repository and run
+Please clone the repository and run
 ```
-git clone https://github.com/faneshion/MatchZoo.git
-cd MatchZoo
+git clone https://github.com/javiddadashkarimi/Y-Flow.git
+cd Y-Flow
 python setup.py install
 ```
 In the main directory, this will install the dependencies automatically.
