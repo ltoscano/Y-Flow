@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # generate matchzoo data for ranking
+sh run.sh
 python sample.py
 python test_preparation_for_ranking.py
 

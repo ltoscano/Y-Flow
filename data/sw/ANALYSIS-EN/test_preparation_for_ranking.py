@@ -9,6 +9,24 @@ from utils.preprocess import *
 import nltk
 nltk.download('stopwords')
 
+def sub_sample(rel_train):
+    train_sample =[]
+    q2pos = {}
+    q2neg = {}
+    i =0
+    pos=0
+    neg=0
+    for x in rel_train:
+        l,q,d = x
+        if q not in q2neg:
+            q2neg[q]=0
+        if int(l)==0:
+            q2neg[q] +=1
+        if int(l)==0 and q2neg[q]>20:
+            continue
+        train_sample.append(x)
+    return train_sample
+
 if __name__ == '__main__':
     basedir = ''
 
@@ -19,7 +37,10 @@ if __name__ == '__main__':
     print('total relations : %d ...' % (len(rels)))
     prepare.save_corpus(basedir + 'corpus.txt', corpus)
 
-    rel_train, rel_valid, rel_test = prepare.split_train_valid_test_for_ranking(rels, [0.4, 0.3, 0.3])
+    rel_train, rel_valid, rel_test = prepare.split_train_valid_test_for_ranking(rels, [0.7, 0.1, 0.2])
+    
+    #print(rel_train)
+    rel_train = sub_sample(rel_train)
     prepare.save_relation(basedir + 'relation_train.txt', rel_train)
     prepare.save_relation(basedir + 'relation_valid.txt', rel_valid)
     prepare.save_relation(basedir + 'relation_test.txt', rel_test)
