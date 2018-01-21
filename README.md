@@ -18,6 +18,18 @@ Y-Flow is an extension for MatchZoo a toolkit for text matching. Here at Yale we
     <td align="center", bgcolor=#eeeeee> classification </td>
   </tr>
   <tr>
+    <td align="center", bgcolor=#eeeeee> Sentiment Analysis </td>
+    <td align="center", bgcolor=#eeeeee> product </td>
+    <td align="center", bgcolor=#eeeeee> review </td>
+    <td align="center", bgcolor=#eeeeee> classification </td>
+  </tr>
+  <tr>
+    <td align="center", bgcolor=#eeeeee> Sentence Matching </td>
+    <td align="center", bgcolor=#eeeeee> sentence 1 </td>
+    <td align="center", bgcolor=#eeeeee> sentence 2 </td>
+    <td align="center", bgcolor=#eeeeee> score </td>
+  </tr>
+  <tr>
     <td align="center", bgcolor=#eeeeee> Textual Entailment </td>
     <td align="center", bgcolor=#eeeeee> text </td>
     <td align="center", bgcolor=#eeeeee> hypothesis </td>
