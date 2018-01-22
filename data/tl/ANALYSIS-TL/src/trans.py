@@ -13,6 +13,7 @@ from word_translation import DIC_EVAL_PATH, load_identical_char_dico, load_dicti
 from gensim.models import KeyedVectors
 from nltk.stem import PorterStemmer
 from nltk.tokenize import sent_tokenize, word_tokenize
+from tqdm import tqdm
 
 import numpy as np
 VALIDATION_METRIC = 'mean_cosine-csls_knn_10-S2T-10000'
@@ -77,7 +78,7 @@ elif(params.model=="fastext"):
 ps = PorterStemmer()
 dictionary = {}
 with open(params.dico_train) as f:
-    for line in f:
+    for line in tqdm(f):
         word, trans = line.rstrip().split(' ')
         word = ps.stem(word).encode('ascii', 'ignore')
         if(word in dictionary):
