@@ -26,3 +26,5 @@ python test_histogram_generator.py  'ranking'
 # 5. run to generate binsum for aNMM
 #python test_binsum_generator.py 'ranking'
 
+# 6. delete text2NewId_dic.txt file
+rm text2txt.txt

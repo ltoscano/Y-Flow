@@ -44,15 +44,30 @@ class Preparation(object):
         corpus = {}
         rels = []
         f = codecs.open(file_path, 'r', encoding='utf8')
+        # load text to newid dict
+        text2OldId_f = open('text2id.txt','r')
+        text2OldId ={}
+        for line in text2OldId_f.readlines():
+            elems = line.strip().split('\t')
+            text2OldId[elems[1].decode('utf-8')]=elems[0].decode('utf-8') # text2ID
+        text2OldId_f.close()
+        
         for line in f:
             line = line
             line = line.strip()
             label, t1, t2 = self.parse_line(line)
-            id1 = self.get_text_id(hashid, t1, 'T')
+            id1 = self.get_text_id(hashid, t1, 'Q')
             id2 = self.get_text_id(hashid, t2, 'T')
-            corpus[id1] = t1
-            corpus[id2] = t2
-            rels.append((label, id1, id2))
+            #replace the ids with original ids
+
+            if (t1 in text2OldId.keys()) and (t2 in text2OldId.keys()):
+                corpus[text2OldId[t1]] = t1
+                corpus[text2OldId[t2]] = t2
+            rels.append((label,text2OldId[t1],text2OldId[t2]))
+            # corpus[id1] = t1
+            # corpus[id2] = t2
+            # rels.append((label, id1, id2))
+
         f.close()
         return corpus, rels
 

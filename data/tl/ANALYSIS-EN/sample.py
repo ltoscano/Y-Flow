@@ -46,13 +46,17 @@ f.close()
 for filename in os.listdir('docs/'):
     if filename.endswith(".txt"): 
         with open(os.path.join('docs/', filename)) as f:
-            data = f.read().replace('\r\n',' ')
+            #data = f.read().replace('\r\n',' ')
+            data = f.read().replace('\r\n',' ').replace('\n',' ').replace('\t',' ')
             m = re.search('MATERIAL_BASE(.+?)\.', filename)
             if m:
                 filename = 'MATERIAL_BASE'+m.group(1)
             docs[filename] = str(data)#''.join(str(w) for w in data)
             #print(docs[filename])
         f.close()
+
+text2id = {}
+
 for q in q2d:
     if q not in q2text:
         continue
@@ -68,4 +72,19 @@ for q in q2d:
                 continue
             w.write('0\t'+q2text[q]+'\t'+docs[d]+'\n')
             count +=1
+        text2id[q] = q2text[q]
+        text2id[d] = docs[d]
+
+text2id_f = open('text2id.txt', 'w')
+for text, newid in text2id.iteritems():
+    text2id_f.write(text.strip().encode('utf-8'))
+    text2id_f.write('\t')
+    text2id_f.write(newid)
+    text2id_f.write('\n')
+print('Finished writing text2id.txt!')
+text2id_f.close()
+
+
 w.close()
+
+
