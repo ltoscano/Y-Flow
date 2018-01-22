@@ -1,0 +1,2 @@
+model_checkpoint_path: "SentenceMatch.normal.best.model"
+all_model_checkpoint_paths: "SentenceMatch.normal.best.model"

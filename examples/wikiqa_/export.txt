@@ -1,0 +1,1 @@
+export PATH=$PATH:/data/tools/anaconda2/bin
