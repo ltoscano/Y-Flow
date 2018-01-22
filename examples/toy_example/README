@@ -5,7 +5,7 @@ This file provides the example on how to train the DRMM [A Deep Relevance Matchi
 ## generate the match histogram of the dataset.
 ``` bash
 
-# generate matchzoo data for ranking
+# generate yflow data for ranking
 sh generate_ranking_data.sh
 
 # configure the model file
@@ -74,7 +74,7 @@ sh generate_ranking_data.sh
     }
   },
   "model": {
-    "model_path": "matchzoo/models/",
+    "model_path": "yflow/models/",
     "model_py": "drmm.DRMM",
     "setting": {
         "num_layers": 1,
@@ -97,9 +97,9 @@ cd ../../
 
 currpath=`pwd`
 # train the model
-python matchzoo/main.py --phase train --model_file ${currpath}/examples/toy_example/config/drmm_ranking.config
+python yflow/main.py --phase train --model_file ${currpath}/examples/toy_example/config/drmm_ranking.config
 
 
 # predict with the model
-# notice here, int the drmm_ranking.config, the weights file for test should be the correct file name, you can find the weights file in MatchZoo/matchzoo/models/weights/.
-python matchzoo/main.py --phase predict --model_file ${currpath}/examples/toy_example/config/drmm_ranking.config
+# notice here, int the drmm_ranking.config, the weights file for test should be the correct file name, you can find the weights file in Y-Flow/yflow/models/weights/.
+python yflow/main.py --phase predict --model_file ${currpath}/examples/toy_example/config/drmm_ranking.config

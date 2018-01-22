@@ -13,7 +13,7 @@ unzip glove.6B.zip
 # filter queries which have no right or wrong answers
 python filter_query.py
 
-# transfer the dataset into matchzoo dataset format
+# transfer the dataset into yflow dataset format
 python transfer_to_mz_format.py
 # generate the mz-datasets
 python prepare_mz_data.py

@@ -5,15 +5,15 @@ def read(fname):
     return open(os.path.join(os.path.dirname(__file__), fname), encoding= 'utf').read()
 
 setup(
-    name = "MatchZoo",
+    name = "Y-Flow",
     version = "0.2.0",
     author = "Yixing Fan, Liang Pang, Jianpeng Hou, Jiafeng Guo, Yanyan Lan, Xueqi Cheng",
     author_email = "fanyixing@software.ict.ac.cn",
-    description = ("MatchZoo is a toolkit for text matching. It was developed with a focus on facilitating the designing, comparing and sharing of deep text matching models."),
+    description = ("Y-Flow is a toolkit for text matching. It was developed with a focus on facilitating the designing, comparing and sharing of deep text matching models."),
     license = "BSD",
     keywords = "text matching models",
-    url = "https://github.com/faneshion/MatchZoo",
-    packages=find_packages(),#['data', 'docs', 'examples', 'matchzoo', 'tests'],
+    url = "https://github.com/faneshion/Y-Flow",
+    packages=find_packages(),#['data', 'docs', 'examples', 'yflow', 'tests'],
     #long_description=read('README.md'),
     classifiers=[
         # How mature is this project? Common values are

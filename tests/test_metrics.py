@@ -2,7 +2,7 @@
 import os
 import sys
 
-sys.path.append('../matchzoo/metrics/')
+sys.path.append('../yflow/metrics/')
 import rank_evaluations
 
 

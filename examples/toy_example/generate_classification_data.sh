@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# generate matchzoo data for ranking
+# generate yflow data for ranking
 python test_preparation_for_classify.py
 
 # 1. download embedding 

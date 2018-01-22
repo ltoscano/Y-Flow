@@ -1,6 +1,6 @@
 Development Team
 =====
-The following people contributed to the development of the MatchZoo project：
+The following people contributed to the development of the Y-Flow project：
 
 - **Yixing Fan (Team Leader)**
     - PhD. student from Institute of Computing Technology, Chinese Academy of Sciences,

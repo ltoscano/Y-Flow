@@ -2,7 +2,7 @@
 <img src="./docs/_static/images/tree-shot.png" width = "600"  alt="tree-shot" align=center />
 </div>
 
-Y-Flow is an extension for MatchZoo a toolkit for text matching. Here at Yale we are developing a system for text matching for question answering, document ranking, paraphrase identification, and machine translation. The figure above indicates a surprise language coming to our system and we are going to use zero-shot learning approaches for transfer learning particularly for syntax. 
+Y-Flow is an extension for Y-Flow a toolkit for text matching. Here at Yale we are developing a system for text matching for question answering, document ranking, paraphrase identification, and machine translation. The figure above indicates a surprise language coming to our system and we are going to use zero-shot learning approaches for transfer learning particularly for syntax. 
 
 <table>
   <tr>
@@ -76,7 +76,7 @@ The data preparation module aims to convert dataset of different text matching t
 +	**Word Dictionary**: records the mapping from each word to a unique identifier called *wid*. Words that are too frequent (e.g. stopwords), too rare or noisy (e.g. fax numbers) can be  filtered out by predefined rules.
 +	**Corpus File**: records the mapping from each text to a unique identifier called *tid*, along with a sequence of word identifiers contained in that text. Note here each text is truncated or padded to a fixed length customized by users.
 +	**Relation File**: is used to store the relationship between two texts, each line containing a pair of *tids* and the corresponding label.
-+   **Detailed Input Data Format**: a detailed explaination of input data format can be found in MatchZoo/data/example/readme.md.
++   **Detailed Input Data Format**: a detailed explaination of input data format can be found in Y-Flow/data/example/readme.md.
 
 ### Model Construction
 In the model construction module, we employ Keras library to help users build the deep matching model layer by layer conveniently. The Keras libarary provides a set of common layers widely used in neural models, such as convolutional layer, pooling layer, dense layer and so on. To further facilitate the construction of deep text matching models, we extend the Keras library to provide some layer interfaces specifically designed for text matching.
@@ -87,7 +87,7 @@ Moreover, the toolkit has implemented two schools of representative deep text ma
 For learning the deep matching models, the toolkit provides a variety of objective functions for regression, classification and ranking. For example, the ranking-related objective functions include several well-known pointwise, pairwise and listwise losses. It is flexible for users to pick up different objective functions in the training phase for optimization. Once a model has been trained, the toolkit could be used to produce a matching score, predict a matching label, or rank target texts (e.g., a document) against an input text.
 
 ## Benchmark Results:
-Here, we adopt <a href="https://www.microsoft.com/en-us/download/details.aspx?id=52419">WikiQA</a> dataset for an example to inllustrate the usage of MatchZoo. WikiQA is a popular benchmark dataset for answer sentence selection in question answering. We have provided <a href="./data/WikiQA/run_data.sh">a script</a> to download the dataset, and prepared it into the MatchZoo data format. In the <a href="">models directory</a>, there are a number of configurations about each model for WikiQA dataset. 
+Here, we adopt <a href="https://www.microsoft.com/en-us/download/details.aspx?id=52419">WikiQA</a> dataset for an example to inllustrate the usage of Y-Flow. WikiQA is a popular benchmark dataset for answer sentence selection in question answering. We have provided <a href="./data/WikiQA/run_data.sh">a script</a> to download the dataset, and prepared it into the Y-Flow data format. In the <a href="">models directory</a>, there are a number of configurations about each model for WikiQA dataset. 
 
 Take the DRMM as an example. In training phase, you can run
 ```
@@ -155,7 +155,7 @@ Here, the DRMM_TKS is a variant of DRMM for short text matching. Specifically, t
 
 ```
 @article{fan2017matchzoo,
-  title={MatchZoo: A Toolkit for Deep Text Matching},
+  title={Y-Flow: A Toolkit for Deep Text Matching},
   author={Fan, Yixing and Pang, Liang and Hou, JianPeng and Guo, Jiafeng and Lan, Yanyan and Cheng, Xueqi},
   journal={arXiv preprint arXiv:1707.07270},
   year={2017}

@@ -19,10 +19,10 @@ import keras
 import keras.backend as K
 from keras.models import Sequential, Model
 
-from matchzoo.utils import *
-#import matchzoo.inputs
-#import matchzoo.metrics
-#from matchzoo.losses import *
+from yflow.utils import *
+#import yflow.inputs
+#import yflow.metrics
+#from yflow.losses import *
 
 
 config = tensorflow.ConfigProto()
@@ -71,7 +71,7 @@ def crossval(config,split):
     pivot = int(float(split)* total_rel)
     test_end = num_train + num_test
     #pivot = int(split*total_rel)
-    print('######################',split,'#####################')
+    print('########>',split,'<########')
     rel_test = relations[pivot:pivot+num_test]
     del relations[pivot:pivot+num_test]
     rel_train = relations
@@ -91,7 +91,7 @@ def main(argv):
     parser = argparse.ArgumentParser()
     parser.add_argument('--split', default='0', help='Split point: split point to break training and test data')
     parser.add_argument('--phase', default='train', help='Phase: Can be train or predict, the default value is train.')
-    parser.add_argument('--model_file', default='./models/arci.config', help='Model_file: MatchZoo model file for the chosen model.')
+    parser.add_argument('--model_file', default='./models/arci.config', help='Model_file: Y-Flow model file for the chosen model.')
     args = parser.parse_args()
     model_file =  args.model_file
     with open(model_file, 'r') as f:

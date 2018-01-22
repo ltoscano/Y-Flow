@@ -4,8 +4,8 @@ from __future__ import  print_function
 
 import os
 import sys
-sys.path.append('../../matchzoo/inputs/')
-sys.path.append('../../matchzoo/utils/')
+sys.path.append('../../yflow/inputs/')
+sys.path.append('../../yflow/utils/')
 
 from preparation import Preparation
 from preprocess import Preprocess, NgramUtil

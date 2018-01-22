@@ -3,8 +3,8 @@
 from __future__ import print_function
 import os
 import sys
-sys.path.append('../../matchzoo/utils/')
-sys.path.append('../../matchzoo/inputs/')
+sys.path.append('../../yflow/utils/')
+sys.path.append('../../yflow/inputs/')
 from preprocess import cal_hist
 from rank_io import *
 
