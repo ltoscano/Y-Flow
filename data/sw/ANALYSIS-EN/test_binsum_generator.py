@@ -2,8 +2,8 @@
 import os
 import sys
 import numpy as np
-#sys.path.append('../../../matchzoo/inputs')
-#sys.path.append('../../../matchzoo/utils')
+#sys.path.append('../../../yflow/inputs')
+#sys.path.append('../../../yflow/utils')
 from utils.preprocess import *
 from utils.rank_io import *
 
