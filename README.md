@@ -18,6 +18,18 @@ Y-Flow is an extension for MatchZoo a toolkit for text matching. Here at Yale we
     <td align="center", bgcolor=#eeeeee> classification </td>
   </tr>
   <tr>
+    <td align="center", bgcolor=#eeeeee> Sentiment Analysis </td>
+    <td align="center", bgcolor=#eeeeee> product </td>
+    <td align="center", bgcolor=#eeeeee> review </td>
+    <td align="center", bgcolor=#eeeeee> classification </td>
+  </tr>
+  <tr>
+    <td align="center", bgcolor=#eeeeee> Sentence Matching </td>
+    <td align="center", bgcolor=#eeeeee> sentence 1 </td>
+    <td align="center", bgcolor=#eeeeee> sentence 2 </td>
+    <td align="center", bgcolor=#eeeeee> score </td>
+  </tr>
+  <tr>
     <td align="center", bgcolor=#eeeeee> Textual Entailment </td>
     <td align="center", bgcolor=#eeeeee> text </td>
     <td align="center", bgcolor=#eeeeee> hypothesis </td>
@@ -44,10 +56,10 @@ Y-Flow is an extension for MatchZoo a toolkit for text matching. Here at Yale we
 </table>
 
 ## Installation
-MatchZoo is still under development. Before the first stable release (1.0), please clone the repository and run
+Please clone the repository and run
 ```
-git clone https://github.com/faneshion/MatchZoo.git
-cd MatchZoo
+git clone https://github.com/javiddadashkarimi/Y-Flow.git
+cd Y-Flow
 python setup.py install
 ```
 In the main directory, this will install the dependencies automatically.
