@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# generate matchzoo data for ranking
+# generate yflow data for ranking
 multi_en="../../multi/wiki.en.tl.vec"    # /   (root directory)
 multi_tl="../../multi/wiki.tl.vec"    # /   (root directory)
 if [ -e "$multi_en" -a -e "$multi_tl" ] 
@@ -34,6 +34,7 @@ python norm_embed.py embed_fastext_d300 embed_fastext_d300_norm
 
 # 3. run to generate histogram for DRMM
 python test_histogram_generator.py  'ranking'
+cat relation_train.txt relation_test.txt relation_valid.txt > relation_all.txt 
 
 # 4. run to generate tri-grams for DSSM or CDSSM
 #python test_triletter_preprocess.py 'ranking'
