@@ -69,8 +69,8 @@ For usage examples, you can run
 python material.py -src=en -tgt=sw -c=en -m=mt
 
 ```
-    -'--source','-src', default='en', help='output language [sw,tl,en]'
-    -'--target','-tgt', default='sw', help='output language [sw,tl,en]'
+    -'--source','-src', default='en', help='source language [sw,tl,en]'
+    -'--target','-tgt', default='sw', help='target language [sw,tl,en]'
     -'--collection','-c', default='en', help='language of documents [sw,tl,en]'
     -'--out','-o', default='en', help='output language [sw,tl,en]')
     -'--method','-m', default='mt', help='method [mt,google,wiktionary,fastext]'
