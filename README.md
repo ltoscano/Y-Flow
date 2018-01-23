@@ -66,9 +66,14 @@ In the main directory, this will install the dependencies automatically.
 
 For usage examples, you can run
 ```
-python matchzoo/main.py --phase train --model_file examples/toy_example/config/arci_ranking.config
-python matchzoo/main.py --phase predict --model_file examples/toy_example/config/arci_ranking.config
+python material.py -src en -tgt sw -c en -m mt
+
 ```
+    -'--source','-src', default='en', help='source language [sw,tl,en]'
+    -'--target','-tgt', default='sw', help='target language [sw,tl,en]'
+    -'--collection','-c', default='en', help='language of documents [sw,tl,en]'
+    -'--out','-o', default='en', help='output language [sw,tl,en]'
+    -'--method','-m', default='mt', help='method [mt,google,wiktionary,fastext]'
 
 ### Data Preparation
 The data preparation module aims to convert dataset of different text matching tasks into a unified format as the input of deep matching models. Users provide datasets which contains pairs of texts along with their labels, and the module produces the following files.
