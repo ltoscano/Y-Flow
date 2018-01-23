@@ -8,17 +8,17 @@ eps = 1e-8
 
 class SentenceMatchModelGraph(object):
     def __init__(self, num_classes, word_vocab=None, char_vocab=None, POS_vocab=None, NER_vocab=None,
-                 dropout_rate=0.5, learning_rate=0.001, optimize_type='adam',lambda_l2=1e-5, 
-                 with_word=True, with_char=True, with_POS=True, with_NER=True, 
-                 char_lstm_dim=20, context_lstm_dim=100, aggregation_lstm_dim=200, is_training=True,filter_layer_threshold=0.2,
-                 MP_dim=50, context_layer_num=1,aggregation_layer_num=1, fix_word_vec=False,with_filter_layer=True, with_highway=False,
-                 with_lex_features=False,lex_dim=100,word_level_MP_dim=-1,sep_endpoint=False,end_model_combine=False,with_match_highway=False,
-                 with_aggregation_highway=False,highway_layer_num=1,with_lex_decomposition=False, lex_decompsition_dim=-1,
+                 dropout_rate=0.5, learning_rate=0.001, optimize_type='adam', lambda_l2=1e-5,
+                 with_word=True, with_char=True, with_POS=True, with_NER=True,
+                 char_lstm_dim=20, context_lstm_dim=100, aggregation_lstm_dim=200, is_training=True, filter_layer_threshold=0.2,
+                 MP_dim=50, context_layer_num=1, aggregation_layer_num=1, fix_word_vec=False, with_filter_layer=True, with_input_highway=False,
+                 with_lex_features=False, lex_dim=100, word_level_MP_dim=-1, sep_endpoint=False, end_model_combine=False, with_match_highway=False,
+                 with_aggregation_highway=False, highway_layer_num=1, with_lex_decomposition=False, lex_decompsition_dim=-1,
                  with_left_match=True, with_right_match=True,
                  with_full_match=True, with_maxpool_match=True, with_attentive_match=True, with_max_attentive_match=True,
-                 with_bilinear_att = True, type1 = None, type2 = None, type3 = None, with_aggregation_attention = True,
-                 is_answer_selection = True, is_shared_attention = True, modify_loss = 0,is_aggregation_lstm = True, max_window_size=3
-                 ,prediction_mode = 'list_wise', context_lstm_dropout = True, is_aggregation_siamese = True):
+                 with_bilinear_att = 's', type1 = None, type2 = None, type3 = None, with_aggregation_attention = True,
+                 is_answer_selection = True, is_shared_attention = True, modify_loss = 0, is_aggregation_lstm = True, max_window_size=3
+                 , prediction_mode = 'list_wise', context_lstm_dropout = True, is_aggregation_siamese = True, unstack_cnn = True,with_context_self_attention=False):
 
         # ======word representation layer======
         in_question_repres = []
@@ -160,11 +160,13 @@ class SentenceMatchModelGraph(object):
         question_mask = tf.sequence_mask(self.question_lengths, question_len, dtype=tf.float32) # [batch_size, question_len]
 
         # ======Highway layer======
-        if with_highway:
+        if with_input_highway:
             with tf.variable_scope("input_highway"):
-                in_question_repres = match_utils.multi_highway_layer(in_question_repres, input_dim, highway_layer_num)
+                in_question_repres = match_utils.highway_layer(in_question_repres, input_size=input_dim, scope='s',
+                                                               output_size=input_dim)
                 tf.get_variable_scope().reuse_variables()
-                in_passage_repres = match_utils.multi_highway_layer(in_passage_repres, input_dim, highway_layer_num)
+                in_passage_repres = match_utils.highway_layer(in_passage_repres, input_size=input_dim, scope='s',
+                                                               output_size=input_dim)
         
         # ========Bilateral Matching=====
         (match_representation, match_dim) = match_utils.bilateral_match_func2(in_question_repres, in_passage_repres,
@@ -176,7 +178,7 @@ class SentenceMatchModelGraph(object):
                         with_left_match, with_right_match, with_bilinear_att, type1, type2, type3, with_aggregation_attention
                                                                               ,is_shared_attention, is_aggregation_lstm,
                                                                               max_window_size, context_lstm_dropout,
-                                                                              is_aggregation_siamese)
+                                                                              is_aggregation_siamese,unstack_cnn, with_input_highway,with_context_self_attention)
 
 
         #========Prediction Layer=========

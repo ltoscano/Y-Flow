@@ -93,19 +93,19 @@ if __name__ == '__main__':
     with tf.Graph().as_default():
         initializer = tf.random_uniform_initializer(-init_scale, init_scale)
         with tf.variable_scope("Model", reuse=False, initializer=initializer):
-            valid_graph = SentenceMatchModelGraph(num_classes, word_vocab=word_vocab, char_vocab=char_vocab, POS_vocab=POS_vocab, NER_vocab=NER_vocab, 
-                 dropout_rate=FLAGS.dropout_rate, learning_rate=FLAGS.learning_rate, optimize_type=FLAGS.optimize_type,
-                 lambda_l2=FLAGS.lambda_l2, char_lstm_dim=FLAGS.char_lstm_dim, context_lstm_dim=FLAGS.context_lstm_dim, 
-                 aggregation_lstm_dim=FLAGS.aggregation_lstm_dim, is_training=False, MP_dim=FLAGS.MP_dim, 
-                 context_layer_num=FLAGS.context_layer_num, aggregation_layer_num=FLAGS.aggregation_layer_num, 
-                 fix_word_vec=FLAGS.fix_word_vec,with_filter_layer=FLAGS.with_filter_layer, with_highway=FLAGS.with_highway,
-                 word_level_MP_dim=FLAGS.word_level_MP_dim,
-                 with_match_highway=FLAGS.with_match_highway, with_aggregation_highway=FLAGS.with_aggregation_highway,
-                 highway_layer_num=FLAGS.highway_layer_num, with_lex_decomposition=FLAGS.with_lex_decomposition, 
-                 lex_decompsition_dim=FLAGS.lex_decompsition_dim,
-                 with_left_match=(not wo_left_match), with_right_match=(not wo_right_match),
-                 with_full_match=(not wo_full_match), with_maxpool_match=(not wo_maxpool_match), 
-                 with_attentive_match=(not wo_attentive_match), with_max_attentive_match=(not wo_max_attentive_match))
+            valid_graph = SentenceMatchModelGraph(num_classes, word_vocab=word_vocab, char_vocab=char_vocab, POS_vocab=POS_vocab, NER_vocab=NER_vocab,
+                                                  dropout_rate=FLAGS.dropout_rate, learning_rate=FLAGS.learning_rate, optimize_type=FLAGS.optimize_type,
+                                                  lambda_l2=FLAGS.lambda_l2, char_lstm_dim=FLAGS.char_lstm_dim, context_lstm_dim=FLAGS.context_lstm_dim,
+                                                  aggregation_lstm_dim=FLAGS.aggregation_lstm_dim, is_training=False, MP_dim=FLAGS.MP_dim,
+                                                  context_layer_num=FLAGS.context_layer_num, aggregation_layer_num=FLAGS.aggregation_layer_num,
+                                                  fix_word_vec=FLAGS.fix_word_vec, with_filter_layer=FLAGS.with_filter_layer, with_input_highway=FLAGS.with_highway,
+                                                  word_level_MP_dim=FLAGS.word_level_MP_dim,
+                                                  with_match_highway=FLAGS.with_match_highway, with_aggregation_highway=FLAGS.with_aggregation_highway,
+                                                  highway_layer_num=FLAGS.highway_layer_num, with_lex_decomposition=FLAGS.with_lex_decomposition,
+                                                  lex_decompsition_dim=FLAGS.lex_decompsition_dim,
+                                                  with_left_match=(not wo_left_match), with_right_match=(not wo_right_match),
+                                                  with_full_match=(not wo_full_match), with_maxpool_match=(not wo_maxpool_match),
+                                                  with_attentive_match=(not wo_attentive_match), with_max_attentive_match=(not wo_max_attentive_match))
 #             saver = tf.train.Saver()
         # remove word _embedding
         vars_ = {}

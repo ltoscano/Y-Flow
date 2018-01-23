@@ -170,37 +170,99 @@ def bilinear_att (passage_rep, question_rep, w, b):
     elems = (question_rep, passage_rep)
     return tf.map_fn(single_instance, elems, dtype=tf.float32) #[bs, M, d]
 
-def my_att_base (p, q, w):
-    ww = tf.expand_dims(w, 0)  # [1, d]
-    qq = tf.multiply(q, ww)  # [N,d]
-    qq = tf.expand_dims(qq, 0)  # [1, N, d]
-    pp = tf.expand_dims(p, 1)  # [M, 1, d]
-    z = tf.multiply(qq, pp)  # [M, N, d]
-    z = tf.reduce_sum(z, -1)  # [M, N]
-    return z
+# def my_att_base (p, q, w):
+#     ww = tf.expand_dims(w, 0)  # [1, d]
+#     qq = tf.multiply(q, ww)  # [N,d]
+#     qq = tf.expand_dims(qq, 0)  # [1, N, d]
+#     pp = tf.expand_dims(p, 1)  # [M, 1, d]
+#     z = tf.multiply(qq, pp)  # [M, N, d]
+#     z = tf.reduce_sum(z, -1)  # [M, N]
+#     return z
 
-def my_att (passage_rep, question_rep, w):
+def dot_product(passage_rep, question_rep):
+    p = tf.expand_dims(passage_rep, 2) #[bs, M, 1, d]
+    q = tf.expand_dims(question_rep, 1) #[bs, 1, N, d]
+    z = tf.multiply(p, q) #[bs, M, N, d]
+    z = tf.reduce_sum(z, -1)
+    z = tf.nn.softmax(z) #[bs, M, N]
     def single_instance (x):
-        q = x[0] #[N,d]
-        p = x[1] #[M,d]
-        z = my_att_base(p, q, w)
-        z = tf.nn.softmax(z)  # [M,N]
-        return tf.matmul(z, q) #[M,d]
-    elems = (question_rep, passage_rep)
+        z1 = x[0]
+        q1 = x[1]
+        return tf.matmul(z1, q1)
+    elems = (z, question_rep)
     return tf.map_fn(single_instance, elems, dtype=tf.float32) #[bs, M, d]
 
-def my_att_fw_bw(passage_rep, question_rep,w1, w2):
+def linear (passage_rep, question_rep, w, b):
+    # def single_instance (x):
+    #     q = x[0] #[N,d]
+    #     p = x[1] #[M,d]
+    #     z = my_att_base(p, q, w)
+    #     z = tf.nn.softmax(z)  # [M,N]
+    #     return tf.matmul(z, q) #[M,d]
+    # elems = (question_rep, passage_rep)
+    # return tf.map_fn(single_instance, elems, dtype=tf.float32) #[bs, M, d]
+    p_shape = tf.shape(passage_rep)
+    batch_size = p_shape[0]
+    passage_len = p_shape[1]
+    dim = p_shape[2]
+    p_shape = tf.shape(question_rep)
+    quetion_len = p_shape[1]
+
+    p = tf.expand_dims(passage_rep, 2) #[bs, M, 1, d]
+    q = tf.expand_dims(question_rep, 1) #[bs, 1, N, d]
+    z = tf.multiply(p, q) #[bs, M, N, d]
+    z = tf.reshape(z, [-1, dim])
+    z = tf.nn.xw_plus_b(z, w, b) #[bs, M, N, 1]
+    z = tf.reshape(z, [batch_size, passage_len, quetion_len]) #[bs, M, N]
+    z = tf.nn.softmax(z) #[bs, M, N]
     def single_instance (x):
-        q = x[0] #[N,d]
-        p = x[1] #[M,d]
-        z = my_att_base(p, q, w1)
-        p_r = tf.reverse(passage_rep, axis=-1)
-        z = z + my_att_base(p_r, q, w2)
-        z = tf.nn.softmax(z)  # [M,N]
-        return tf.matmul(z, q) #[M,d]
-    elems = (question_rep, passage_rep)
+        z1 = x[0]
+        q1 = x[1]
+        return tf.matmul(z1, q1)
+    elems = (z, question_rep)
     return tf.map_fn(single_instance, elems, dtype=tf.float32) #[bs, M, d]
 
+def linear_p_bias(passage_rep, question_rep, w, b):
+    #b [d, 1]
+    p_shape = tf.shape(passage_rep)
+    batch_size = p_shape[0]
+    passage_len = p_shape[1]
+    dim = p_shape[2]
+    p_shape = tf.shape(question_rep)
+    quetion_len = p_shape[1]
+
+    p_bias = tf.reshape(passage_rep, [-1, dim])
+    p_bias = tf.matmul(p_bias, b) #[-1, 1]
+    p_bias = tf.reshape(p_bias, [batch_size, passage_len]) #[bs, M]
+
+    p = tf.expand_dims(passage_rep, 2)  # [bs, M, 1, d]
+    q = tf.expand_dims(question_rep, 1)  # [bs, 1, N, d]
+    z = tf.multiply(p, q)  # [bs, M, N, d]
+    z = tf.reshape(z, [-1, dim])
+    z = tf.matmul(z, w)  # [bs, M, N, 1]
+    z = tf.reshape(z, [batch_size, passage_len, quetion_len])  # [bs, M, N]
+
+    p_bias = tf.expand_dims(p_bias, -1) #[bs, M, 1]
+    z = tf.add(p_bias, z)
+    z = tf.nn.softmax(z)  # [bs, M, N]
+    def single_instance (x):
+        z1 = x[0]
+        q1 = x[1]
+        return tf.matmul(z1, q1)
+    elems = (z, question_rep)
+    return tf.map_fn(single_instance, elems, dtype=tf.float32) #[bs, M, d]
+
+# def my_att_fw_bw(passage_rep, question_rep,w1, w2):
+#     def single_instance (x):
+#         q = x[0] #[N,d]
+#         p = x[1] #[M,d]
+#         z = my_att_base(p, q, w1)
+#         p_r = tf.reverse(passage_rep, axis=-1)
+#         z = z + my_att_base(p_r, q, w2)
+#         z = tf.nn.softmax(z)  # [M,N]
+#         return tf.matmul(z, q) #[M,d]
+#     elems = (question_rep, passage_rep)
+#     return tf.map_fn(single_instance, elems, dtype=tf.float32) #[bs, M, d]
 
 def multi_bilinear_att (passage_rep, question_rep,num_att_type,input_dim , is_shared_attetention, num_call ,with_bilinear_att , scope = None):
     scope_name = 'bi_att_layer'
@@ -212,19 +274,28 @@ def multi_bilinear_att (passage_rep, question_rep,num_att_type,input_dim , is_sh
         else:
             cur_scope_name ="-{}".format(num_call) + scope_name + "-{}".format(i)
         with tf.variable_scope(cur_scope_name, reuse=is_shared_attetention):
-            if with_bilinear_att == True:
+            if with_bilinear_att == 'bilinear':
                 w = tf.get_variable('bilinear_w', [input_dim, input_dim], dtype=tf.float32)
                 b = tf.get_variable('bilinear_b', [input_dim], dtype = tf.float32)
                 h_rep_list.append(bilinear_att(passage_rep, question_rep, w, b))
-            else:
-                w= tf.get_variable('linear_w', [input_dim], dtype = tf.float32)
-                #b = tf.get_variable('bilinear_b', [input_dim], dtype = tf.float32)
-                h_rep_list.append(my_att(passage_rep, question_rep, w))
+            elif with_bilinear_att == 'linear':
+                w= tf.get_variable('linear_w', [input_dim, 1], dtype = tf.float32)
+                b = tf.get_variable('linear_b', [1], dtype = tf.float32)
+                h_rep_list.append(linear(passage_rep, question_rep, w, b))
+            elif with_bilinear_att == 'linear_p_bias':
+                w = tf.get_variable('linear_w', [input_dim, 1], dtype=tf.float32)
+                b = tf.get_variable('linear_b', [input_dim, 1], dtype=tf.float32)
+                h_rep_list.append(linear_p_bias(passage_rep, question_rep, w, b))
+            elif with_bilinear_att =='dot_product':
+                h_rep_list.append(dot_product(passage_rep, question_rep))
+
+
+
 
     return h_rep_list
 
 
-def cal_wxb(in_val, scope, output_dim, input_dim):
+def cal_wxb(in_val, scope, output_dim, input_dim, activation = 'relu'):
     #in_val : [bs, M, d]
     input_shape = tf.shape(in_val)
     batch_size = input_shape[0]
@@ -233,29 +304,34 @@ def cal_wxb(in_val, scope, output_dim, input_dim):
     with tf.variable_scope(scope):
         w = tf.get_variable('sim_w', [input_dim, output_dim], dtype=tf.float32)
         b = tf.get_variable('sim_b', [output_dim], dtype = tf.float32)
-        outputs = tf.nn.relu(tf.nn.xw_plus_b(in_val, w, b))
+        if activation == 'relu':
+            outputs = tf.nn.relu(tf.nn.xw_plus_b(in_val, w, b))
+        elif activation == 'tanh':
+            outputs = tf.nn.tanh(tf.nn.xw_plus_b(in_val, w, b))
+        else:
+            outputs = tf.nn.xw_plus_b(in_val, w, b)
     outputs = tf.reshape(outputs, [batch_size, passage_len, output_dim])
     return outputs # [bs, M, MP]
 
-def sim_w_con(h_rep, passage_rep, mp_dim, scope, input_dim):
+def sim_w_con(h_rep, passage_rep, mp_dim, scope, input_dim,activation):
     in_val = tf.concat([h_rep, passage_rep], 2) #[bs, M, 2d]
-    return cal_wxb(in_val, scope, mp_dim, 2*input_dim)
+    return cal_wxb(in_val, scope, mp_dim, 2*input_dim,activation)
 
-def sim_w_mul(h_rep, passage_rep, mp_dim, scope, input_dim):
+def sim_w_mul(h_rep, passage_rep, mp_dim, scope, input_dim,activation):
     in_val = tf.multiply(h_rep, passage_rep) #[bs, M, d]
-    return cal_wxb(in_val, scope, mp_dim, input_dim)
+    return cal_wxb(in_val, scope, mp_dim, input_dim,activation)
 
-def sim_w_sub(h_rep, passage_rep, mp_dim, scope, input_dim):
+def sim_w_sub(h_rep, passage_rep, mp_dim, scope, input_dim,activation):
     in_val = tf.subtract(h_rep, passage_rep)
     in_val=tf.multiply(in_val, in_val) #[bs, M, d]
-    return cal_wxb(in_val, scope, mp_dim, input_dim)
+    return cal_wxb(in_val, scope, mp_dim, input_dim,activation)
 
-def sim_w_sub_mul(h_rep, passage_rep, mp_dim, scope, input_dim):
+def sim_w_sub_mul(h_rep, passage_rep, mp_dim, scope, input_dim,activation):
     in_mul = tf.multiply(h_rep, passage_rep)
     in_sub = tf.subtract(h_rep, passage_rep)
     in_sub = tf.multiply(in_sub, in_sub)
     in_val = tf.concat([in_mul, in_sub], 2) #[bs, M, 2d]
-    return cal_wxb(in_val, scope, mp_dim, 2*input_dim)
+    return cal_wxb(in_val, scope, mp_dim, 2*input_dim,activation)
 
 def sim_mul(h_rep, passage_rep, mp_dim, scope, input_dim):
     #[bs, M, d]
@@ -266,15 +342,15 @@ def sim_mul(h_rep, passage_rep, mp_dim, scope, input_dim):
     in_mul = tf.reshape(in_mul, [batch_size , passage_len, mp_dim, -1])
     return tf.reduce_mean(in_mul, 3) #[bs, M, mp]
 
-def sim_layer (h_rep, passage_rep, mp_dim, scope, sim_type, input_dim):
+def sim_layer (h_rep, passage_rep, mp_dim, scope, sim_type, input_dim,activation):
     if sim_type == 'w_con':
-        return sim_w_con(h_rep, passage_rep, mp_dim, scope, input_dim)
+        return sim_w_con(h_rep, passage_rep, mp_dim, scope, input_dim,activation)
     elif sim_type == 'w_mul':
-        return sim_w_mul(h_rep, passage_rep, mp_dim, scope, input_dim)
+        return sim_w_mul(h_rep, passage_rep, mp_dim, scope, input_dim,activation)
     elif sim_type == 'w_sub':
-        return sim_w_sub(h_rep, passage_rep, mp_dim, scope,input_dim)
+        return sim_w_sub(h_rep, passage_rep, mp_dim, scope,input_dim,activation)
     elif sim_type == 'w_sub_mul':
-        return sim_w_sub_mul(h_rep, passage_rep, mp_dim, scope,input_dim)
+        return sim_w_sub_mul(h_rep, passage_rep, mp_dim, scope,input_dim,activation)
     # elif sim_type == 'w_cos':
     #     w_cos = tf.get_variable("w_cos_weight", [mp_dim, input_dim], dtype= tf.float32)
     #     return cal_attentive_matching(passage_rep, h_rep, w_cos)
@@ -284,20 +360,21 @@ def sim_layer (h_rep, passage_rep, mp_dim, scope, sim_type, input_dim):
         print ("there is no true sim type")
         return None
 
-def multi_sim_layer (h_rep_list, passage_rep, mp_dim, sim_type_list, input_dim ,scope):
+def multi_sim_layer (h_rep_list, passage_rep, mp_dim, sim_type_list, input_dim ,scope, activation):
     #scope_name = 'sim_layer'
     outputs = []
     #if scope is not None: scope_name = scope
     for i in xrange (len(sim_type_list)):
         cur_scope_name = scope + "-{}".format(i)
         outputs.append(sim_layer(h_rep_list[i], passage_rep, mp_dim,
-                                 cur_scope_name, sim_type_list[i], input_dim))
+                                 cur_scope_name, sim_type_list[i], input_dim,activation))
     outputs = tf.concat(outputs,2) #[bs, M, num_sim*MP]
     return outputs
 
 
 def match_bilinear_sim (passage_rep, question_rep, mp_dim, input_dim,
-                        type1, type2, type3, is_shared_attetention, num_call, with_bilinear_att):
+                        type1, type2, type3, is_shared_attetention, num_call, with_bilinear_att
+                        , with_match_highway):
     # passage_rep  [bs, M, d]
     # question_rep [bs, N, d]
     # type means sim_func_type
@@ -306,20 +383,24 @@ def match_bilinear_sim (passage_rep, question_rep, mp_dim, input_dim,
     if (type2 is not None): sim_type_list.append(type2)
     if (type3 is not None): sim_type_list.append(type3)
     h_rep_list = multi_bilinear_att(passage_rep, question_rep, len(sim_type_list),input_dim, is_shared_attetention, num_call, with_bilinear_att)
-    return multi_sim_layer(h_rep_list, passage_rep, mp_dim, sim_type_list, input_dim, scope=str(num_call))
+    if with_match_highway == False:
+        return multi_sim_layer(h_rep_list, passage_rep, mp_dim, sim_type_list, input_dim, scope=str(num_call), activation='relu')
+    else:
+        return multi_sim_layer(h_rep_list, passage_rep, mp_dim, sim_type_list, input_dim, scope=str(num_call), activation='None')
 
 
-def aggregation_attention(passage_context_representation_fw, pasage_context_representation_bw,mask,input_dim):
+
+def self_attention(passage_context_representation_fw, pasage_context_representation_bw,mask,input_dim):
     pasage_context_representation_bw = tf.multiply(pasage_context_representation_bw,
                                                      tf.expand_dims(mask, -1))
     passage_context_representation_fw = tf.multiply(passage_context_representation_fw,
                                                      tf.expand_dims(mask, -1))
     passage_rep = tf.concat([passage_context_representation_fw,pasage_context_representation_bw], 2)
     shrinking_factor = 2
-    mm = tf.nn.tanh(cal_wxb(passage_rep, scope='ag_att_1',
-                            output_dim=input_dim/shrinking_factor, input_dim=input_dim))  # [bs, M, d/2]
+    mm = cal_wxb(passage_rep, scope='ag_att_1',
+                            output_dim=input_dim/shrinking_factor, input_dim=input_dim,activation='tanh')  # [bs, M, d/2]
     mm = cal_wxb(mm, scope='ag_att_2',
-                 output_dim=1, input_dim=input_dim/shrinking_factor)  # [bs, M, 1]
+                 output_dim=1, input_dim=input_dim/shrinking_factor, activation='None')  # [bs, M, 1]
     agg_shape = tf.shape(mm)
     batch_size = agg_shape[0]
     passage_len = agg_shape[1]
@@ -331,24 +412,23 @@ def aggregation_attention(passage_context_representation_fw, pasage_context_repr
     return mm
 
 
-
-
-
-def highway_layer(in_val, output_size, scope=None):
+def highway_layer(in_val, input_size, scope=None, output_size=-1):
+    if output_size == -1:
+        output_size = input_size
     # in_val: [batch_size, passage_len, dim]
     input_shape = tf.shape(in_val)
     batch_size = input_shape[0]
     passage_len = input_shape[1]
 #     feat_dim = input_shape[2]
-    in_val = tf.reshape(in_val, [batch_size * passage_len, output_size])
+    in_val = tf.reshape(in_val, [batch_size * passage_len, input_size])
     with tf.variable_scope(scope or "highway_layer"):
-        highway_w = tf.get_variable("highway_w", [output_size, output_size], dtype=tf.float32)
+        highway_w = tf.get_variable("highway_w", [input_size, output_size], dtype=tf.float32)
         highway_b = tf.get_variable("highway_b", [output_size], dtype=tf.float32)
-        full_w = tf.get_variable("full_w", [output_size, output_size], dtype=tf.float32)
+        full_w = tf.get_variable("full_w", [input_size, output_size], dtype=tf.float32)
         full_b = tf.get_variable("full_b", [output_size], dtype=tf.float32)
         trans = tf.nn.tanh(tf.nn.xw_plus_b(in_val, full_w, full_b))
         gate = tf.nn.sigmoid(tf.nn.xw_plus_b(in_val, highway_w, highway_b))
-        outputs = tf.add(tf.multiply(trans, gate), tf.multiply(in_val, tf.subtract(1.0, gate)), "y")
+        outputs = tf.multiply(trans, gate)#tf.add(tf.multiply(trans, gate), tf.multiply(in_val, tf.subtract(1.0, gate)), "y") aslan dige nemishe chon ouput_size != input_size
     outputs = tf.reshape(outputs, [batch_size, passage_len, output_size])
     return outputs
 
@@ -402,8 +482,8 @@ def match_passage_with_question(passage_context_representation_fw, passage_conte
                                 question_context_representation_fw, question_context_representation_bw,question_mask,
                                 MP_dim, context_lstm_dim, scope=None,
                                 with_full_match=True, with_maxpool_match=True, with_attentive_match=True, with_max_attentive_match=True,
-                                with_bilinear_att = True, type1 = None, type2 = None, type3= None,
-                                is_shared_attetention = False, num_call = 1):
+                                with_bilinear_att = 's', type1 = None, type2 = None, type3= None,
+                                is_shared_attetention = False, unstack_cnn = True, num_call = 1, with_match_highway = True):
 
     all_question_aware_representatins = []
     dim = 0
@@ -426,7 +506,7 @@ def match_passage_with_question(passage_context_representation_fw, passage_conte
         passage_context_representation_fw_bw = tf.concat([passage_context_representation_fw,
                                                           passage_context_representation_bw], 2)
         outputs = match_bilinear_sim(passage_context_representation_fw_bw, question_context_representation_fw_bw,
-                           MP_dim,context_lstm_dim*2,type1, type2, type3, is_shared_attetention, num_call, with_bilinear_att)
+                           MP_dim,context_lstm_dim*2,type1, type2, type3, is_shared_attetention, num_call, with_bilinear_att, with_match_highway)
         all_question_aware_representatins.append(outputs)
         if type1 is not None: dim += MP_dim
         if type2 is not None: dim += MP_dim
@@ -675,15 +755,18 @@ def bilateral_match_func2(in_question_repres, in_passage_repres,
                         with_aggregation_highway,with_lex_decomposition,lex_decompsition_dim,
                         with_full_match=True, with_maxpool_match=True, with_attentive_match=True, with_max_attentive_match=True,
                         with_left_match=True, with_right_match=True,
-                          with_bilinear_att = True, type1 = None, type2 = None, type3 = None, with_aggregation_attention = True,
+                          with_bilinear_att = 's', type1 = None, type2 = None, type3 = None, with_aggregation_attention = True,
                           is_shared_attetention = True, is_aggregation_lstm = True, max_window_size = 3,
-                          context_lstm_dropout = True, is_aggregation_siamese = False):
+                          context_lstm_dropout = True, is_aggregation_siamese = False, unstack_cnn = True, with_input_highway=False, with_context_self_attention=False):
 
     # ====word level matching======
     question_aware_representatins = []
     question_aware_dim = 0
     passage_aware_representatins = []
     passage_aware_dim = 0
+
+    quesstion_self_att = 0
+    passage_self_att = 0
     # cosine_matrix = cal_relevancy_matrix(in_question_repres, in_passage_repres) # [batch_size, passage_len, question_len]
     # cosine_matrix = mask_relevancy_matrix(cosine_matrix, question_mask, mask)
     # cosine_matrix_transpose = tf.transpose(cosine_matrix, perm=[0,2,1])# [batch_size, question_len, passage_len]
@@ -712,37 +795,52 @@ def bilateral_match_func2(in_question_repres, in_passage_repres,
     with tf.variable_scope('context_MP_matching'):
         for i in xrange(context_layer_num): # support multiple context layer
             with tf.variable_scope('layer-{}'.format(i)):
-                with tf.variable_scope('context_represent'):
-                    # parameters
-                    #context_lstm_cell_fw = tf.nn.rnn_cell.BasicLSTMCell(context_lstm_dim)
-                    #context_lstm_cell_bw = tf.nn.rnn_cell.BasicLSTMCell(context_lstm_dim)
-                    context_lstm_cell_fw = tf.contrib.rnn.BasicLSTMCell(context_lstm_dim)
-                    context_lstm_cell_bw = tf.contrib.rnn.BasicLSTMCell(context_lstm_dim)
-                    if is_training and context_lstm_dropout == True:
-                    #     context_lstm_cell_fw = tf.nn.rnn_cell.DropoutWrapper(context_lstm_cell_fw, output_keep_prob=(1 - dropout_rate))
-                    #     context_lstm_cell_bw = tf.nn.rnn_cell.DropoutWrapper(context_lstm_cell_bw, output_keep_prob=(1 - dropout_rate))
-                    # context_lstm_cell_fw = tf.nn.rnn_cell.MultiRNNCell([context_lstm_cell_fw])
-                    # context_lstm_cell_bw = tf.nn.rnn_cell.MultiRNNCell([context_lstm_cell_bw])
-                        context_lstm_cell_fw = tf.contrib.rnn.DropoutWrapper(context_lstm_cell_fw,
-                                                                         output_keep_prob=(1 - dropout_rate))
-                        context_lstm_cell_bw = tf.contrib.rnn.DropoutWrapper(context_lstm_cell_bw,
-                                                                        output_keep_prob=(1 - dropout_rate))
-                    context_lstm_cell_fw = tf.contrib.rnn.MultiRNNCell([context_lstm_cell_fw])
-                    context_lstm_cell_bw = tf.contrib.rnn.MultiRNNCell([context_lstm_cell_bw])
+                if with_input_highway == False or with_input_highway == True:
+                    with tf.variable_scope('context_represent'):
+                        # parameters
+                        #context_lstm_cell_fw = tf.nn.rnn_cell.BasicLSTMCell(context_lstm_dim)
+                        #context_lstm_cell_bw = tf.nn.rnn_cell.BasicLSTMCell(context_lstm_dim)
+                        context_lstm_cell_fw = tf.contrib.rnn.BasicLSTMCell(context_lstm_dim)
+                        context_lstm_cell_bw = tf.contrib.rnn.BasicLSTMCell(context_lstm_dim)
+                        if is_training and context_lstm_dropout == True:
+                        #     context_lstm_cell_fw = tf.nn.rnn_cell.DropoutWrapper(context_lstm_cell_fw, output_keep_prob=(1 - dropout_rate))
+                        #     context_lstm_cell_bw = tf.nn.rnn_cell.DropoutWrapper(context_lstm_cell_bw, output_keep_prob=(1 - dropout_rate))
+                        # context_lstm_cell_fw = tf.nn.rnn_cell.MultiRNNCell([context_lstm_cell_fw])
+                        # context_lstm_cell_bw = tf.nn.rnn_cell.MultiRNNCell([context_lstm_cell_bw])
+                            context_lstm_cell_fw = tf.contrib.rnn.DropoutWrapper(context_lstm_cell_fw,
+                                                                             output_keep_prob=(1 - dropout_rate))
+                            context_lstm_cell_bw = tf.contrib.rnn.DropoutWrapper(context_lstm_cell_bw,
+                                                                            output_keep_prob=(1 - dropout_rate))
+                        context_lstm_cell_fw = tf.contrib.rnn.MultiRNNCell([context_lstm_cell_fw])
+                        context_lstm_cell_bw = tf.contrib.rnn.MultiRNNCell([context_lstm_cell_bw])
 
-                    # question representation
-                    (question_context_representation_fw, question_context_representation_bw), _ = rnn.bidirectional_dynamic_rnn(
-                                        context_lstm_cell_fw, context_lstm_cell_bw, in_question_repres, dtype=tf.float32, 
-                                        sequence_length=question_lengths) # [batch_size, question_len, context_lstm_dim]
-                    in_question_repres = tf.concat([question_context_representation_fw, question_context_representation_bw], 2)
+                        # question representation
+                        (question_context_representation_fw, question_context_representation_bw), _ = rnn.bidirectional_dynamic_rnn(
+                                            context_lstm_cell_fw, context_lstm_cell_bw, in_question_repres, dtype=tf.float32,
+                                            sequence_length=question_lengths) # [batch_size, question_len, context_lstm_dim]
+                        in_question_repres = tf.concat([question_context_representation_fw, question_context_representation_bw], 2)
+                        # passage representation
+                        tf.get_variable_scope().reuse_variables()
+                        (passage_context_representation_fw, passage_context_representation_bw), _ = rnn.bidirectional_dynamic_rnn(
+                                            context_lstm_cell_fw, context_lstm_cell_bw, in_passage_repres, dtype=tf.float32,
+                                            sequence_length=passage_lengths) # [batch_size, passage_len, context_lstm_dim]
+                        in_passage_repres = tf.concat([passage_context_representation_fw, passage_context_representation_bw], 2)
+                    if i == 0:
+                        with tf.variable_scope ("context_self"):
+                            passage_self_att = self_attention(passage_context_representation_fw=passage_context_representation_fw,
+                                       pasage_context_representation_bw=passage_context_representation_bw,
+                                       mask=mask, input_dim=context_lstm_dim * 2)
+                            tf.get_variable_scope().reuse_variables()
+                            question_self_att = self_attention(passage_context_representation_fw=question_context_representation_fw,
+                                   pasage_context_representation_bw=question_context_representation_bw,
+                                   mask=question_mask, input_dim=context_lstm_dim * 2)
 
-                    # passage representation
-                    tf.get_variable_scope().reuse_variables()
-                    (passage_context_representation_fw, passage_context_representation_bw), _ = rnn.bidirectional_dynamic_rnn(
-                                        context_lstm_cell_fw, context_lstm_cell_bw, in_passage_repres, dtype=tf.float32, 
-                                        sequence_length=passage_lengths) # [batch_size, passage_len, context_lstm_dim]
-                    in_passage_repres = tf.concat([passage_context_representation_fw, passage_context_representation_bw], 2)
-                    
+                # else:
+                #     passage_context_representation_fw = in_passage_repres
+                #     passage_context_representation_bw = in_passage_repres
+                #     question_context_representation_fw = in_question_repres
+                #     question_context_representation_bw = in_question_repres
+
                 # Multi-perspective matching
                 with tf.variable_scope('MP_matching'):
                     (matching_vectors, matching_dim) = match_passage_with_question(passage_context_representation_fw, 
@@ -752,7 +850,7 @@ def bilateral_match_func2(in_question_repres, in_passage_repres,
                                 with_full_match=with_full_match, with_maxpool_match=with_maxpool_match, 
                                 with_attentive_match=with_attentive_match, with_max_attentive_match=with_max_attentive_match,
                                     with_bilinear_att=with_bilinear_att, type1=type1, type2=type2, type3=type3
-                                                                                   ,is_shared_attetention = False, num_call = 1)
+                                                                                   ,is_shared_attetention = False, unstack_cnn= unstack_cnn, num_call = 1, with_match_highway=with_match_highway)
                     question_aware_representatins.extend(matching_vectors)
                     question_aware_dim += matching_dim
                 #right_scope = 'right_MP_matching'
@@ -766,10 +864,11 @@ def bilateral_match_func2(in_question_repres, in_passage_repres,
                                 with_full_match=with_full_match, with_maxpool_match=with_maxpool_match, 
                                 with_attentive_match=with_attentive_match, with_max_attentive_match=with_max_attentive_match,
                                     with_bilinear_att=with_bilinear_att, type1=type1, type2=type2, type3 = type3
-                                                                                   ,is_shared_attetention = False, num_call = 2)
+                                                                                   ,is_shared_attetention = False, unstack_cnn=unstack_cnn ,num_call = 2, with_match_highway=with_match_highway)
                     passage_aware_representatins.extend(matching_vectors)
                     passage_aware_dim += matching_dim
         
+
 
     question_aware_representatins = tf.concat(question_aware_representatins, 2) # [batch_size, passage_len, question_aware_dim]
     passage_aware_representatins = tf.concat(passage_aware_representatins, 2) # [batch_size, question_len, question_aware_dim]
@@ -827,7 +926,7 @@ def bilateral_match_func2(in_question_repres, in_passage_repres,
                         aggregation_dim += 2* aggregation_lstm_dim
                     else:
                         aggregation_representation.append(
-                            aggregation_attention(passage_aggregation_representation_fw,passage_aggregation_representation_bw, mask,
+                            self_attention(passage_aggregation_representation_fw,passage_aggregation_representation_bw, mask,
                                                   aggregation_lstm_dim * 2))
                         aggregation_dim += 2 * aggregation_lstm_dim
 
@@ -856,7 +955,7 @@ def bilateral_match_func2(in_question_repres, in_passage_repres,
                         aggregation_dim += 2* aggregation_lstm_dim
                     else:
                         aggregation_representation.append(
-                            aggregation_attention(question_aggregation_representation_fw,question_aggregation_representation_bw
+                            self_attention(question_aggregation_representation_fw,question_aggregation_representation_bw
                                                   ,question_mask,aggregation_lstm_dim * 2))
                         aggregation_dim += 2 * aggregation_lstm_dim
         else: #CNN
@@ -872,7 +971,7 @@ def bilateral_match_func2(in_question_repres, in_passage_repres,
             my_reuse = True
             with tf.variable_scope ('left_cnn_agg'):
                 conv_out, agg_dim = conv_aggregate(pa_aggregation_input, aggregation_lstm_dim, MP_dim, sim_len,is_training,dropout_rate
-                                               ,max_window_size, context_layer_num)
+                                               ,max_window_size, context_layer_num,unstack_cnn)
                 aggregation_representation.append(conv_out)
                 aggregation_dim += agg_dim
             if is_aggregation_siamese == False:
@@ -880,11 +979,15 @@ def bilateral_match_func2(in_question_repres, in_passage_repres,
                 my_reuse = False
             with tf.variable_scope(my_scope, reuse=my_reuse):
                 conv_out, agg_dim = conv_aggregate(qa_aggregation_input, aggregation_lstm_dim, MP_dim, sim_len, is_training, dropout_rate
-                                                   ,max_window_size, context_layer_num)
+                                                   ,max_window_size, context_layer_num,unstack_cnn)
                 aggregation_representation.append(conv_out)
                 aggregation_dim += agg_dim
     #
 
+    if with_context_self_attention == True:
+        aggregation_representation.append(tf.subtract(question_self_att , passage_self_att))
+        aggregation_representation.append(tf.multiply(question_self_att , passage_self_att))
+        aggregation_dim += 4*context_lstm_dim
     aggregation_representation = tf.concat(aggregation_representation, 1) # [batch_size, aggregation_dim]
 
     # ======Highway layer======
@@ -895,6 +998,8 @@ def bilateral_match_func2(in_question_repres, in_passage_repres,
             aggregation_representation = tf.reshape(aggregation_representation, [1, batch_size, aggregation_dim])
             aggregation_representation = multi_highway_layer(aggregation_representation, aggregation_dim, highway_layer_num)
             aggregation_representation = tf.reshape(aggregation_representation, [batch_size, aggregation_dim])
+
+
     return (aggregation_representation, aggregation_dim)
 
 def conv_pooling (passage_rep, window_size, mp_dim, filter_count, scope):
@@ -911,19 +1016,26 @@ def conv_pooling (passage_rep, window_size, mp_dim, filter_count, scope):
 
 
 def conv_aggregate(qa_aggregation_input, aggregation_lstm_dim, mp_dim, sim_len, is_training, dropout_rate, max_window_size
-                   ,c_lstm_layer):
+                   , c_lstm_layer, unstack_cnn = True):
     qa_shape = tf.shape(qa_aggregation_input)  # [bs, M, MP*sim_len]
     batch_size = qa_shape[0]
     passage_length = qa_shape[1]
-    passage_rep = tf.reshape(qa_aggregation_input, [batch_size, passage_length, mp_dim, sim_len*c_lstm_layer]) #-1: sim_len*c_lstm_layer
-    passage_rep = tf.unstack(passage_rep, axis=3) #[[bs, M, MP]]
+    if unstack_cnn == True:
+        passage_rep = tf.reshape(qa_aggregation_input, [batch_size, passage_length, mp_dim, sim_len*c_lstm_layer]) #-1: sim_len*c_lstm_layer
+        passage_rep = tf.unstack(passage_rep, axis=3) #[[bs, M, MP]]
+    else:
+        passage_rep = [qa_aggregation_input]
     aggregation_dim = 0
     passage_cnn_output = []
     for filter_size in xrange (1, max_window_size + 1):
         for i in range(len(passage_rep)):
             cur_scope_name = "-{}-{}".format(filter_size, i)
-            conv_out, dim = conv_pooling(passage_rep[i], window_size=filter_size, mp_dim=mp_dim,
+            if unstack_cnn == True:
+                conv_out, dim = conv_pooling(passage_rep[i], window_size=filter_size, mp_dim=mp_dim,
                                          filter_count=aggregation_lstm_dim, scope=cur_scope_name)
+            else:
+                conv_out, dim = conv_pooling(passage_rep[i], window_size=filter_size, mp_dim=mp_dim*sim_len*c_lstm_layer,
+                                             filter_count=aggregation_lstm_dim, scope=cur_scope_name)
             passage_cnn_output.append(conv_out)  # [bs, filter_count]
             aggregation_dim += dim
     passage_cnn_output = tf.concat(passage_cnn_output,1)  # [bs, filter_count*sim_len]
@@ -932,7 +1044,7 @@ def conv_aggregate(qa_aggregation_input, aggregation_lstm_dim, mp_dim, sim_len, 
     b_0 = tf.get_variable("b_0", [aggregation_dim / 2], dtype=tf.float32)
 
     logits = tf.matmul(passage_cnn_output, w_0) + b_0
-    logits = tf.nn.relu(logits)
+    logits = tf.nn.tanh(logits)
     #if is_training:
     #    logits = tf.nn.dropout(logits, (1 - dropout_rate))
     #else:

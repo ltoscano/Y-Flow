@@ -215,17 +215,17 @@ def Generate_random_initialization():
     if FLAGS.is_server == True:
         type1 = ['w_sub_mul']
         type2 = ['mul']
-        type3 = [None, 'w_mul', 'w_sub_mul', 'mul']
+        type3 = ['w_sub_mul']
         FLAGS.type1 = random.choice(type1)
         FLAGS.type2 = random.choice(type2)
         FLAGS.type3 = random.choice(type3)
-        context_layer_num = [2]
-        aggregation_layer_num = [2]
+        context_layer_num = [1]
+        aggregation_layer_num = [1]
         FLAGS.aggregation_layer_num = random.choice(aggregation_layer_num)
         FLAGS.context_layer_num = random.choice(context_layer_num)
         is_aggregation_lstm = [True]
         FLAGS.is_aggregation_lstm = random.choice(is_aggregation_lstm)
-        max_window_size = [x for x in range (1, 6, 1)]
+        max_window_size = [3] #[x for x in range (1, 4, 1)]
         FLAGS.max_window_size = random.choice(max_window_size)
 
         att_cnt = 0
@@ -239,47 +239,53 @@ def Generate_random_initialization():
 
         #context_lstm_dim:
         if FLAGS.context_layer_num == 2:
-            context_lstm_dim = [100] #[x for x in range(50, 110, 10)]
+            context_lstm_dim = [50] #[x for x in range(50, 110, 10)]
         else:
-            context_lstm_dim = [x for x in range(50, 160, 10)]
+            context_lstm_dim = [50]#[x for x in range(50, 160, 10)]
 
         if FLAGS.is_aggregation_lstm == True:
             if FLAGS.aggregation_layer_num == 2:
-                aggregation_lstm_dim = [80]#[x for x in range (50, 110, 10)]
+                aggregation_lstm_dim = [50]#[x for x in range (50, 110, 10)]
             else:
-                aggregation_lstm_dim = [x for x in range (50, 160, 10)]
+                aggregation_lstm_dim = [50]#[x for x in range (50, 160, 10)]
         else: # CNN
             if FLAGS.max_window_size == 1:
-                aggregation_lstm_dim = [x for x in range (50, 801, 10)]
+                aggregation_lstm_dim = [150]#[x for x in range (50, 801, 10)]
             elif FLAGS.max_window_size == 2:
-                aggregation_lstm_dim = [x for x in range (50, 510, 10)]
+                aggregation_lstm_dim = [100, 150]#[x for x in range (50, 510, 10)]
             elif FLAGS.max_window_size == 3:
-                aggregation_lstm_dim = [x for x in range (50, 410, 10)]
+                aggregation_lstm_dim = [150]#[x for x in range (50, 410, 10)]
             elif FLAGS.max_window_size == 4:
                 aggregation_lstm_dim = [x for x in range (50, 210, 10)]
             else: #5
                 aggregation_lstm_dim = [x for x in range (50, 110, 10)]
 
 
-        MP_dim = [20, 50, 100]#[x for x in range (20, 610, 10)]
+        MP_dim = [20]#[x for x in range (20, 610, 10)]
         #batch_size = [x for x in range (30, 80, 10)] we can not determine batch_size here
         learning_rate = [0.002]#[0.001, 0.002, 0.003, 0.004]
-        dropout_rate = [0.04,0.1]#[x/100.0 for x in xrange (2, 30, 2)]
+        dropout_rate = [0.04]#[x/100.0 for x in xrange (2, 30, 2)]
         char_lstm_dim = [80] #[x for x in range(40, 110, 10)]
         char_emb_dim = [40] #[x for x in range (20, 110, 10)]
-        with_aggregation_highway = [True, False]
-        wo_char = [False]
+        wo_char = [True]
         wo_lstm_drop_out = [True]
         wo_agg_self_att = [True]
-        is_shared_attention = [True, False]
-        modify_loss = [0, 0.1]#[x/10.0 for x in range (0, 5, 1)]
-        prediction_mode = ['list_wise', 'hinge_wise']
-        with_match_highway = [True, False]
-        with_highway = [True, False]
+        is_shared_attention = [False, True]
+        modify_loss = [0.1]#[x/10.0 for x in range (0, 5, 1)]
+        prediction_mode = ['list_wise']
+        unstack_cnn = [False]
+        with_match_highway = [False]
+        with_highway = [False]
+        with_aggregation_highway = [False]
         highway_layer_num = [0]
         is_aggregation_siamese = [False]
 
+        attention_type = ['bilinear', 'linear', 'linear_p_bias', 'dot_product']
+        with_context_self_attention = [False]
+        FLAGS.with_context_self_attention = random.choice(with_context_self_attention)
         #FLAGS.batch_size = random.choice(batch_size)
+        FLAGS.unstack_cnn = random.choice(unstack_cnn)
+        FLAGS.attention_type = random.choice(attention_type)
         FLAGS.learning_rate = random.choice(learning_rate)
         FLAGS.dropout_rate = random.choice(dropout_rate)
         FLAGS.char_lstm_dim = random.choice(char_lstm_dim)
@@ -421,56 +427,58 @@ def main(_):
             initializer = tf.random_uniform_initializer(-init_scale, init_scale)
     #         with tf.name_scope("Train"):
             with tf.variable_scope("Model", reuse=None, initializer=initializer):
-                train_graph = SentenceMatchModelGraph(num_classes, word_vocab=word_vocab, char_vocab=char_vocab,POS_vocab=POS_vocab, NER_vocab=NER_vocab,
-                     dropout_rate=FLAGS.dropout_rate, learning_rate=FLAGS.learning_rate, optimize_type=FLAGS.optimize_type,
-                     lambda_l2=FLAGS.lambda_l2, char_lstm_dim=FLAGS.char_lstm_dim, context_lstm_dim=FLAGS.context_lstm_dim,
-                     aggregation_lstm_dim=FLAGS.aggregation_lstm_dim, is_training=True, MP_dim=FLAGS.MP_dim,
-                     context_layer_num=FLAGS.context_layer_num, aggregation_layer_num=FLAGS.aggregation_layer_num,
-                     fix_word_vec=FLAGS.fix_word_vec,with_filter_layer=FLAGS.with_filter_layer, with_highway=FLAGS.with_highway,
-                     word_level_MP_dim=FLAGS.word_level_MP_dim,
-                     with_match_highway=FLAGS.with_match_highway, with_aggregation_highway=FLAGS.with_aggregation_highway,
-                     highway_layer_num=FLAGS.highway_layer_num,with_lex_decomposition=FLAGS.with_lex_decomposition,
-                     lex_decompsition_dim=FLAGS.lex_decompsition_dim,
-                     with_left_match=(not FLAGS.wo_left_match), with_right_match=(not FLAGS.wo_right_match),
-                     with_full_match=(not FLAGS.wo_full_match), with_maxpool_match=(not FLAGS.wo_maxpool_match),
-                     with_attentive_match=(not FLAGS.wo_attentive_match), with_max_attentive_match=(not FLAGS.wo_max_attentive_match),
-                                                      with_bilinear_att=(not FLAGS.wo_bilinear_att)
+                train_graph = SentenceMatchModelGraph(num_classes, word_vocab=word_vocab, char_vocab=char_vocab, POS_vocab=POS_vocab, NER_vocab=NER_vocab,
+                                                      dropout_rate=FLAGS.dropout_rate, learning_rate=FLAGS.learning_rate, optimize_type=FLAGS.optimize_type,
+                                                      lambda_l2=FLAGS.lambda_l2, char_lstm_dim=FLAGS.char_lstm_dim, context_lstm_dim=FLAGS.context_lstm_dim,
+                                                      aggregation_lstm_dim=FLAGS.aggregation_lstm_dim, is_training=True, MP_dim=FLAGS.MP_dim,
+                                                      context_layer_num=FLAGS.context_layer_num, aggregation_layer_num=FLAGS.aggregation_layer_num,
+                                                      fix_word_vec=FLAGS.fix_word_vec, with_filter_layer=FLAGS.with_filter_layer, with_input_highway=FLAGS.with_highway,
+                                                      word_level_MP_dim=FLAGS.word_level_MP_dim,
+                                                      with_match_highway=FLAGS.with_match_highway, with_aggregation_highway=FLAGS.with_aggregation_highway,
+                                                      highway_layer_num=FLAGS.highway_layer_num, with_lex_decomposition=FLAGS.with_lex_decomposition,
+                                                      lex_decompsition_dim=FLAGS.lex_decompsition_dim,
+                                                      with_left_match=(not FLAGS.wo_left_match), with_right_match=(not FLAGS.wo_right_match),
+                                                      with_full_match=(not FLAGS.wo_full_match), with_maxpool_match=(not FLAGS.wo_maxpool_match),
+                                                      with_attentive_match=(not FLAGS.wo_attentive_match), with_max_attentive_match=(not FLAGS.wo_max_attentive_match),
+                                                      with_bilinear_att=(FLAGS.attention_type)
                                                       , type1=FLAGS.type1, type2 = FLAGS.type2, type3=FLAGS.type3,
                                                       with_aggregation_attention=not FLAGS.wo_agg_self_att,
                                                       is_answer_selection= FLAGS.is_answer_selection,
                                                       is_shared_attention=FLAGS.is_shared_attention,
-                                                      modify_loss=FLAGS.modify_loss,is_aggregation_lstm=FLAGS.is_aggregation_lstm
-                                                      ,max_window_size=FLAGS.max_window_size
-                                                      ,prediction_mode=FLAGS.prediction_mode,
+                                                      modify_loss=FLAGS.modify_loss, is_aggregation_lstm=FLAGS.is_aggregation_lstm
+                                                      , max_window_size=FLAGS.max_window_size
+                                                      , prediction_mode=FLAGS.prediction_mode,
                                                       context_lstm_dropout=not FLAGS.wo_lstm_drop_out,
-                                                      is_aggregation_siamese=FLAGS.is_aggregation_siamese)
+                                                      is_aggregation_siamese=FLAGS.is_aggregation_siamese
+                                                      , unstack_cnn=FLAGS.unstack_cnn,with_context_self_attention=FLAGS.with_context_self_attention)
                 tf.summary.scalar("Training Loss", train_graph.get_loss()) # Add a scalar summary for the snapshot loss.
 
     #         with tf.name_scope("Valid"):
             with tf.variable_scope("Model", reuse=True, initializer=initializer):
                 valid_graph = SentenceMatchModelGraph(num_classes, word_vocab=word_vocab, char_vocab=char_vocab, POS_vocab=POS_vocab, NER_vocab=NER_vocab,
-                     dropout_rate=FLAGS.dropout_rate, learning_rate=FLAGS.learning_rate, optimize_type=FLAGS.optimize_type,
-                     lambda_l2=FLAGS.lambda_l2, char_lstm_dim=FLAGS.char_lstm_dim, context_lstm_dim=FLAGS.context_lstm_dim,
-                     aggregation_lstm_dim=FLAGS.aggregation_lstm_dim, is_training=False, MP_dim=FLAGS.MP_dim,
-                     context_layer_num=FLAGS.context_layer_num, aggregation_layer_num=FLAGS.aggregation_layer_num,
-                     fix_word_vec=FLAGS.fix_word_vec,with_filter_layer=FLAGS.with_filter_layer, with_highway=FLAGS.with_highway,
-                     word_level_MP_dim=FLAGS.word_level_MP_dim,
-                     with_match_highway=FLAGS.with_match_highway, with_aggregation_highway=FLAGS.with_aggregation_highway,
-                     highway_layer_num=FLAGS.highway_layer_num, with_lex_decomposition=FLAGS.with_lex_decomposition,
-                     lex_decompsition_dim=FLAGS.lex_decompsition_dim,
-                     with_left_match=(not FLAGS.wo_left_match), with_right_match=(not FLAGS.wo_right_match),
-                     with_full_match=(not FLAGS.wo_full_match), with_maxpool_match=(not FLAGS.wo_maxpool_match),
-                     with_attentive_match=(not FLAGS.wo_attentive_match), with_max_attentive_match=(not FLAGS.wo_max_attentive_match),
-                                                      with_bilinear_att=(not FLAGS.wo_bilinear_att)
+                                                      dropout_rate=FLAGS.dropout_rate, learning_rate=FLAGS.learning_rate, optimize_type=FLAGS.optimize_type,
+                                                      lambda_l2=FLAGS.lambda_l2, char_lstm_dim=FLAGS.char_lstm_dim, context_lstm_dim=FLAGS.context_lstm_dim,
+                                                      aggregation_lstm_dim=FLAGS.aggregation_lstm_dim, is_training=False, MP_dim=FLAGS.MP_dim,
+                                                      context_layer_num=FLAGS.context_layer_num, aggregation_layer_num=FLAGS.aggregation_layer_num,
+                                                      fix_word_vec=FLAGS.fix_word_vec, with_filter_layer=FLAGS.with_filter_layer, with_input_highway=FLAGS.with_highway,
+                                                      word_level_MP_dim=FLAGS.word_level_MP_dim,
+                                                      with_match_highway=FLAGS.with_match_highway, with_aggregation_highway=FLAGS.with_aggregation_highway,
+                                                      highway_layer_num=FLAGS.highway_layer_num, with_lex_decomposition=FLAGS.with_lex_decomposition,
+                                                      lex_decompsition_dim=FLAGS.lex_decompsition_dim,
+                                                      with_left_match=(not FLAGS.wo_left_match), with_right_match=(not FLAGS.wo_right_match),
+                                                      with_full_match=(not FLAGS.wo_full_match), with_maxpool_match=(not FLAGS.wo_maxpool_match),
+                                                      with_attentive_match=(not FLAGS.wo_attentive_match), with_max_attentive_match=(not FLAGS.wo_max_attentive_match),
+                                                      with_bilinear_att=(FLAGS.attention_type)
                                                       , type1=FLAGS.type1, type2 = FLAGS.type2, type3=FLAGS.type3,
                                                       with_aggregation_attention=not FLAGS.wo_agg_self_att,
                                                       is_answer_selection= FLAGS.is_answer_selection,
                                                       is_shared_attention=FLAGS.is_shared_attention,
-                                                      modify_loss=FLAGS.modify_loss,is_aggregation_lstm=FLAGS.is_aggregation_lstm,
+                                                      modify_loss=FLAGS.modify_loss, is_aggregation_lstm=FLAGS.is_aggregation_lstm,
                                                       max_window_size=FLAGS.max_window_size
-                                                      ,prediction_mode=FLAGS.prediction_mode,
+                                                      , prediction_mode=FLAGS.prediction_mode,
                                                       context_lstm_dropout=not FLAGS.wo_lstm_drop_out,
-                                                      is_aggregation_siamese=FLAGS.is_aggregation_siamese)
+                                                      is_aggregation_siamese=FLAGS.is_aggregation_siamese
+                                                      , unstack_cnn=FLAGS.unstack_cnn,with_context_self_attention=FLAGS.with_context_self_attention)
 
 
             initializer = tf.global_variables_initializer()
@@ -629,14 +637,14 @@ def main(_):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    #parser.add_argument('--word_vec_path', type=str, default='../data/glove/glove.6B.50d.txt', help='Path the to pre-trained word vector model.')
-    parser.add_argument('--word_vec_path', type=str, default='../data/glove/glove.840B.300d.txt', help='Path the to pre-trained word vector model.')
+    parser.add_argument('--word_vec_path', type=str, default='../data/glove/glove.6B.50d.txt', help='Path the to pre-trained word vector model.')
+    #parser.add_argument('--word_vec_path', type=str, default='../data/glove/glove.840B.300d.txt', help='Path the to pre-trained word vector model.')
     parser.add_argument('--is_server',default=True, help='loop: ranom initalizaion of parameters -> run ?')
-    parser.add_argument('--max_epochs', type=int, default=15, help='Maximum epochs for training.')
-    parser.add_argument('--wo_bilinear_att', default=False, help='Without bilinear attention', action='store_true')
+    parser.add_argument('--max_epochs', type=int, default=10, help='Maximum epochs for training.')
+    parser.add_argument('--attention_type', default='linear_p_bias', help='[bilinear, linear, linear_p_bias, dot_product]', action='store_true')
 
 
-    parser.add_argument('--batch_size', type=int, default=60, help='Number of instances in each batch.')
+    parser.add_argument('--batch_size', type=int, default=40, help='Number of instances in each batch.')
     parser.add_argument('--is_answer_selection',default=True, help='is answer selection or other sentence matching tasks?')
     parser.add_argument('--optimize_type', type=str, default='adam', help='Optimizer type.')
     parser.add_argument('--prediction_mode', default='list_wise', help = 'point_wise, list_wise, hinge_wise .'
@@ -652,9 +660,9 @@ if __name__ == '__main__':
     parser.add_argument('--dropout_rate', type=float, default=0.04, help='Dropout ratio.')
     parser.add_argument('--char_emb_dim', type=int, default=20, help='Number of dimension for character embeddings.')
     parser.add_argument('--char_lstm_dim', type=int, default=20, help='Number of dimension for character-composed embeddings.')
-    parser.add_argument('--context_lstm_dim', type=int, default=10, help='Number of dimension for context representation layer.')
-    parser.add_argument('--aggregation_lstm_dim', type=int, default=10, help='Number of dimension for aggregation layer.')
-    parser.add_argument('--MP_dim', type=int, default=10, help='Number of perspectives for matching vectors.')
+    parser.add_argument('--context_lstm_dim', type=int, default=50, help='Number of dimension for context representation layer.')
+    parser.add_argument('--aggregation_lstm_dim', type=int, default=50, help='Number of dimension for aggregation layer.')
+    parser.add_argument('--MP_dim', type=int, default=20, help='Number of perspectives for matching vectors.')
     parser.add_argument('--max_char_per_word', type=int, default=10, help='Maximum number of characters for each word.')
     parser.add_argument('--max_sent_length', type=int, default=100, help='Maximum number of words within each sentence.')
     parser.add_argument('--aggregation_layer_num', type=int, default=1, help='Number of LSTM layers for aggregation layer.')
@@ -665,16 +673,18 @@ if __name__ == '__main__':
     parser.add_argument('--with_match_highway', default=False, help='Utilize highway layers for matching layer.', action='store_true')
     parser.add_argument('--with_aggregation_highway', default=False, help='Utilize highway layers for aggregation layer.', action='store_true')
     parser.add_argument('--wo_char', default=True, help='Without character-composed embeddings.', action='store_true')
-    parser.add_argument('--type1', default='mul', help='similrty function 1', action='store_true')
+    parser.add_argument('--type1', default='w_sub_mul', help='similrty function 1', action='store_true')
     parser.add_argument('--type2', default= 'w_sub_mul' , help='similrty function 2', action='store_true')
     parser.add_argument('--type3', default= 'mul' , help='similrty function 3', action='store_true')
     parser.add_argument('--wo_lstm_drop_out', default=  True , help='with out context lstm drop out', action='store_true')
     parser.add_argument('--wo_agg_self_att', default= True , help='with out aggregation lstm self attention', action='store_true')
     parser.add_argument('--is_shared_attention', default= False , help='are matching attention values shared or not', action='store_true')
     parser.add_argument('--modify_loss', type=float, default=0.1, help='a parameter used for loss.')
-    parser.add_argument('--is_aggregation_lstm', default=True, help = 'is aggregation lstm or aggregation cnn' )
+    parser.add_argument('--is_aggregation_lstm', default=False, help = 'is aggregation lstm or aggregation cnn' )
     parser.add_argument('--max_window_size', type=int, default=2, help = '[1..max_window_size] convolution')
     parser.add_argument('--is_aggregation_siamese', default=False, help = 'are aggregation wieghts on both sides shared or not' )
+    parser.add_argument('--unstack_cnn', default=False, help = 'are aggregation wieghts on both sides shared or not' )
+    parser.add_argument('--with_context_self_attention', default=True, help = 'are aggregation wieghts on both sides shared or not' )
 
 
 
