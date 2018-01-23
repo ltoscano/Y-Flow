@@ -63,12 +63,12 @@ assert params.dico_max_size == 0 or params.dico_max_size > params.dico_min_size
 
 dictionary = {}
 with open(params.dico_train) as f:
-     for line in f:
-         word, trans = line.rstrip().split(' ')
-         if(word in dictionary):
-             dictionary[word].append(trans)
-         else:
-             dictionary[word] = [trans]
+    for line in f:
+        word, trans = line.rstrip().split(' ')
+        if(word in dictionary):
+            dictionary[word].append(trans)
+        else:
+            dictionary[word] = [trans]
 out = open(params.tquery,'w')
 out.write("<parameters>\n")
 with open(params.query) as f:
