@@ -1,0 +1,10 @@
+/home/lily/jd2392/anaconda2/envs/mrl/lib/python2.7/site-packages/h5py/__init__.py:34: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Traceback (most recent call last):
+  File "SentenceMatchTrainer.py", line 16, in <module>
+    from SentenceMatchModelGraph import SentenceMatchModelGraph
+  File "/data/lily/jd2392/virenv/Multi-rel-Loss/src/SentenceMatchModelGraph.py", line 2, in <module>
+    import my_rnn
+  File "/data/lily/jd2392/virenv/Multi-rel-Loss/src/my_rnn.py", line 19, in <module>
+    _state_size_with_prefix = rnn_cell._state_size_with_prefix
+AttributeError: 'module' object has no attribute '_state_size_with_prefix'

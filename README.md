@@ -2,11 +2,7 @@
 <img src="./docs/_static/images/tree-shot.png" width = "600"  alt="tree-shot" align=center />
 </div>
 
-<<<<<<< HEAD
 Y-Flow is an extension for Y-Flow a toolkit for text matching. Here at Yale we are developing a system for text matching for question answering, document ranking, paraphrase identification, and machine translation. The figure above indicates a surprise language coming to our system and we are going to use zero-shot learning approaches for transfer learning particularly for syntax. 
-=======
-Y-Flow is an extension for MatchZoo a toolkit for text matching. Here at Yale we are developing a system for text matching for question answering, document ranking, paraphrase identification, and machine translation. The figure above indicates a surprise language coming to our system and we are going to use zero-shot learning approaches for transfer learning particularly for syntax. 
->>>>>>> 6ead61448329ab48ede35e004d7e408b9afca24f
 
 <table>
   <tr>

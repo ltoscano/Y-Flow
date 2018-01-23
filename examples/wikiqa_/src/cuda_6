@@ -1,0 +1,277 @@
+/home/lily/jd2392/anaconda2/envs/mrl/lib/python2.7/site-packages/h5py/__init__.py:34: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Configurations:
+0
+100000
+200000
+300000
+Collect words, chars and labels ...
+Number of words: 34746
+Number of labels: 2
+Number of chars: 259
+word_vocab shape is (300001, 300)
+tag_vocab shape is (3, 2)
+Build SentenceMatchDataStream ... 
+Number of instances in trainDataStream: 8651
+Number of instances in devDataStream: 1130
+Number of instances in testDataStream: 2351
+Number of batches in trainDataStream: 270
+Number of batches in devDataStream: 38
+Number of batches in testDataStream: 79
+2018-01-15 11:24:12.273108: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+2018-01-15 11:24:14.208355: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1030] Found device 0 with properties: 
+name: Tesla K80 major: 3 minor: 7 memoryClockRate(GHz): 0.8235
+pciBusID: 0000:8a:00.0
+totalMemory: 11.17GiB freeMemory: 477.12MiB
+2018-01-15 11:24:14.208404: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:8a:00.0, compute capability: 3.7)SStart the training loop.
+0110022003300440055006600770088009900 100011100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 2400 2500 2600 2700 2800 2900 3000 3100 3200 3300 3400 3500 3600 3700 3800 3900 4000 2018-01-15 12:15:44.085731: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:8a:00.0, compute capability: 3.7)
+2018-01-15 12:15:57.285534: W tensorfl400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 2400 2500 2600 2700 2800 2900 3000 3100 3200 3300 3400 3500 3600 3700 3800 3900 4000 2018-01-15 12:54:30.616125: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:8a:00.0, compute capability: 3.7)
+Start the training loop.
+0 100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 2400 2500 2600 2700 2800 2900 3000 3100 3200 3300 3400 3500 3600 3700 3800 3900 4000 2018-01-15 13:35:41.698364: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:8a:00.0, compute capability: 3.7)
+Start the training loop.
+0 100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 2400 2500 2600 2700 2800 2900 3000 3100 3200 3300 3400 3500 3600 3700 3800 3900 4000 2018-01-15 14:14:03.603024: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:8a:00.0, compute capability: 3.7)
+Start the training loop.
+0 100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 2400 2500 2600 2700 2800 2900 3000 3100 3200 3300 3400 3500 3600 3700 3800 3900 4000 2018-01-15 15:03:58.913786: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:8a:00.0, compute capability: 3.7)
+Start the training loop.
+0 100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 2400 2500 2600 2700 2800 2900 3000 3100 3200 3300 3400 3500 3600 3700 3800 3900 4000 2018-01-15 15:24:15.378305: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:8a:00.0, compute capability: 3.7)
+Start the training loop.
+0 100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 2400 2500 2600 2700 2800 2900 3000 3100 3200 3300 3400 3500 3600 3700 3800 3900 4000 2018-01-15 15:51:08.194896: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:8a:00.0, compute capability: 3.7)
+Start the training loop.
+0 100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 2400 2500 2600 2700 2800 2900 3000 3100 3200 3300 3400 3500 3600 3700 3800 3900 4000 2018-01-15 16:08:29.437944: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:8a:00.0, compute capability: 3.7)
+Start the training loop.
+0 100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 2400 2500 2600 2700 2800 2900 3000 3100 3200 3300 3400 3500 3600 3700 3800 3900 4000 2018-01-15 16:26:08.645653: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:8a:00.0, compute capability: 3.7)
+Start the training loop.
+0 100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 2400 2500 2600 2700 2800 2900 3000 3100 3200 3300 3400 3500 3600 3700 3800 3900 4000 2018-01-15 16:59:18.764042: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:8a:00.0, compute capability: 3.7)
+Start the training loop.
+0 100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 2400 2500 2600 2700 2800 2900 3000 3100 3200 3300 3400 3500 3600 3700 3800 3900 4000 2018-01-15 17:24:38.950681: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:8a:00.0, compute capability: 3.7)
+Start the training loop.
+0 100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 2400 2500 2600 2700 2800 2900 3000 3100 3200 3300 3400 3500 3600 3700 3800 3900 4000 2018-01-15 18:00:54.034365: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:8a:00.0, compute capability: 3.7)
+Start the training loop.
+0 100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 2400 2500 2600 2700 2800 2900 3000 3100 3200 3300 3400 3500 3600 3700 3800 3900 4000 2018-01-15 18:21:08.571642: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:8a:00.0, compute capability: 3.7)
+Start the training loop.
+0 100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 2400 2500 2600 2700 2800 2900 3000 3100 3200 3300 3400 3500 3600 3700 3800 3900 4000 2018-01-15 18:41:05.826736: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:8a:00.0, compute capability: 3.7)
+Start the training loop.
+0 100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 2400 2500 2600 2700 2800 2900 3000 3100 3200 3300 3400 3500 3600 3700 3800 3900 4000 2018-01-15 19:01:33.539361: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:8a:00.0, compute capability: 3.7)
+Start the training loop.
+0 100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 2400 2500 2600 2700 2800 2900 3000 3100 3200 3300 3400 3500 3600 3700 3800 3900 4000 2018-01-15 19:35:52.786475: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:8a:00.0, compute capability: 3.7)
+Start the training loop.
+0 100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 2400 2500 2600 2700 2800 2900 3000 3100 3200 3300 3400 3500 3600 3700 3800 3900 4000 2018-01-15 20:32:40.622462: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:8a:00.0, compute capability: 3.7)
+Start the training loop.
+0 100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 2400 2500 2600 2700 2800 2900 3000 3100 3200 3300 3400 3500 3600 3700 3800 3900 4000 2018-01-15 21:08:44.034300: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:8a:00.0, compute capability: 3.7)
+Start the training loop.
+0 100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 2400 2500 2600 2700 2800 2900 3000 3100 3200 3300 3400 3500 3600 3700 3800 3900 4000 2018-01-15 21:30:31.052143: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:8a:00.0, compute capability: 3.7)
+Start the training loop.
+0 100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 2400 2500 2600 2700 2800 2900 3000 85909: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2304fe8a00 of size 256
+2018-01-15 12:15:57.285913: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2304fe8b00 of size 104192
+2018-01-15 12:15:57.285917: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305002200 of size 256
+2018-01-15 12:15:57.285922: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305002300 of size 256
+2018-01-15 12:15:57.285926: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305002400 of size 256
+2018-01-15 12:15:57.285930: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305002500 of size 256
+2018-01-15 12:15:57.285935: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305002600 of size 256
+2018-01-15 12:15:57.285939: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305002700 of size 256
+2018-01-15 12:15:57.285943: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305002800 of size 104192
+2018-01-15 12:15:57.285948: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230501bf00 of size 256
+2018-01-15 12:15:57.285952: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230501c000 of size 256
+2018-01-15 12:15:57.285956: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230501c100 of size 1792
+2018-01-15 12:15:57.285961: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230501c800 of size 256
+2018-01-15 12:15:57.285965: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230501c900 of size 1792
+2018-01-15 12:15:57.285970: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230501d000 of size 9472
+2018-01-15 12:15:57.285974: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230501f500 of size 256
+2018-01-15 12:15:57.285978: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230501f600 of size 256
+2018-01-15 12:15:57.285982: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230501f700 of size 256
+2018-01-15 12:15:57.285987: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230501f800 of size 104192
+2018-01-15 12:15:57.286006: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305038f00 of size 256
+2018-01-15 12:15:57.286010: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305039000 of size 256
+2018-01-15 12:15:57.286014: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305039100 of size 256
+2018-01-15 12:15:57.286020: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305039200 of size 256
+2018-01-15 12:15:57.286025: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305039300 of size 256
+2018-01-15 12:15:57.286029: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305039400 of size 256
+2018-01-15 12:15:57.286033: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305039500 of size 104192
+2018-01-15 12:15:57.286037: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305052c00 of size 256
+2018-01-15 12:15:57.286041: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305052d00 of size 256
+2018-01-15 12:15:57.286045: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305052e00 of size 256
+2018-01-15 12:15:57.286049: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305052f00 of size 256
+2018-01-15 12:15:57.286054: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305053000 of size 256
+2018-01-15 12:15:57.286058: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305053100 of size 256
+2018-01-15 12:15:57.286062: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305053200 of size 104192
+2018-01-15 12:15:57.286066: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230506c900 of size 256
+2018-01-15 12:15:57.286070: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230506ca00 of size 256
+2018-01-15 12:15:57.286074: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230506cb00 of size 256
+2018-01-15 12:15:57.286078: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230506cc00 of size 256
+2018-01-15 12:15:57.286083: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230506cd00 of size 256
+2018-01-15 12:15:57.286087: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230506ce00 of size 256
+2018-01-15 12:15:57.286091: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230506cf00 of size 104192
+2018-01-15 12:15:57.286095: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305086600 of size 256
+2018-01-15 12:15:57.286099: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305086700 of size 256
+2018-01-15 12:15:57.286103: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305086800 of size 256
+2018-01-15 12:15:57.286107: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305086900 of size 256
+2018-01-15 12:15:57.286111: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305086a00 of size 256
+2018-01-15 12:15:57.286115: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305086b00 of size 256
+2018-01-15 12:15:57.286120: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305086c00 of size 156160
+2018-01-15 12:15:57.286124: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23050ace00 of size 256
+2018-01-15 12:15:57.286128: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23050acf00 of size 256
+2018-01-15 12:15:57.286132: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23050ad000 of size 256
+2018-01-15 12:15:57.286136: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23050ad100 of size 256
+2018-01-15 12:15:57.286140: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23050ad200 of size 256
+2018-01-15 12:15:57.286144: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23050ad300 of size 256
+2018-01-15 12:15:57.286149: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23050ad400 of size 156160
+2018-01-15 12:15:57.286153: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23050d3600 of size 256
+2018-01-15 12:15:57.286157: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23050d3700 of size 256
+2018-01-15 12:15:57.286161: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23050d3800 of size 256
+2018-01-15 12:15:57.286167: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23050d3900 of size 256
+2018-01-15 12:15:57.286171: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23050d3a00 of size 256
+2018-01-15 12:15:57.286176: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23050d3b00 of size 256
+2018-01-15 12:15:57.286180: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23050d3c00 of size 256
+2018-01-15 12:15:57.286184: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23050d3d00 of size 156160
+2018-01-15 12:15:57.286188: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23050f9f00 of size 256
+2018-01-15 12:15:57.286192: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23050fa000 of size 256
+2018-01-15 12:15:57.286196: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23050fa100 of size 256
+2018-01-15 12:15:57.286201: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23050fa200 of size 256
+2018-01-15 12:15:57.286205: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23050fa300 of size 256
+2018-01-15 12:15:57.286209: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23050fa400 of size 256
+2018-01-15 12:15:57.286213: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23050fa500 of size 156160
+2018-01-15 12:15:57.286217: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305120700 of size 256
+2018-01-15 12:15:57.286221: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305120800 of size 256
+2018-01-15 12:15:57.286225: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305120900 of size 256
+2018-01-15 12:15:57.286230: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305120a00 of size 256
+2018-01-15 12:15:57.286234: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305120b00 of size 256
+2018-01-15 12:15:57.286238: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305120c00 of size 360192
+2018-01-15 12:15:57.286242: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305178b00 of size 1280
+2018-01-15 12:15:57.286247: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305179000 of size 360192
+2018-01-15 12:15:57.286251: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23051d0f00 of size 1280
+2018-01-15 12:15:57.286255: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23051d1400 of size 156160
+2018-01-15 12:15:57.286259: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23051f7600 of size 640000
+2018-01-15 12:15:57.286263: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305293a00 of size 640000
+2018-01-15 12:15:57.286267: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230532fe00 of size 156160
+2018-01-15 12:15:57.286272: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305356000 of size 160000
+2018-01-15 12:15:57.286276: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230537d100 of size 1024
+2018-01-15 12:15:57.286280: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230537d500 of size 160000
+2018-01-15 12:15:57.286284: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23053a4600 of size 1024
+2018-01-15 12:15:57.286289: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23053a4a00 of size 160000
+2018-01-15 12:15:57.286293: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23053cbb00 of size 1024
+2018-01-15 12:15:57.286297: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23053cbf00 of size 80128
+2018-01-15 12:15:57.286301: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23053df800 of size 256
+2018-01-15 12:15:57.286305: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23053df900 of size 80128
+2018-01-15 12:15:57.286312: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23053f3200 of size 256
+2018-01-15 12:15:57.286316: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x23053f3300 of size 160000
+2018-01-15 12:15:57.286321: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230541a400 of size 1024
+2018-01-15 12:15:57.286325: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230541a800 of size 9472
+2018-01-15 12:15:57.286329: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230541cd00 of size 170752
+2018-01-15 12:15:57.286333: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305446800 of size 1280
+2018-01-15 12:15:57.286338: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2305446d00 of size 43804928
+2018-01-15 12:15:57.286342: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2307e0d600 of size 1024
+2018-01-15 12:15:57.286346: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2307e0da00 of size 160000
+2018-01-15 12:15:57.286350: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2307e34b00 of size 1024
+2018-01-15 12:15:57.286354: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2307e34f00 of size 80128
+2018-01-15 12:15:57.286359: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2307e48800 of size 256
+2018-01-15 12:15:57.286363: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x2307e48900 of size 87609600
+2018-01-15 12:15:57.286367: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230d1d5a00 of size 80128
+2018-01-15 12:15:57.286371: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230d1e9300 of size 256
+2018-01-15 12:15:57.286376: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230d1e9400 of size 480000
+2018-01-15 12:15:57.286391: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230d25e700 of size 480000
+2018-01-15 12:15:57.286395: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230d2d3a00 of size 18944
+2018-01-15 12:15:57.286399: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230d2d8400 of size 160000
+2018-01-15 12:15:57.286403: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230d2ff500 of size 1024
+2018-01-15 12:15:57.286408: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230d2ff900 of size 160000
+2018-01-15 12:15:57.286412: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230d326a00 of size 1024
+2018-01-15 12:15:57.286416: I tensorflow/core/common_runtime/bfc_allocator.cc:661] Chunk at 0x230d326e00 of size 126587392
+2018-01-15 12:15:57.286428: I tensorflow/core/common_runtime/bfc_allocator.cc:676]      Summary of in-use Chunks by size: 
+2018-01-15 12:15:57.286436: I tensorflow/core/common_runtime/bfc_allocator.cc:679] 84 Chunks of size 256 totalling 21.0KiB
+2018-01-15 12:15:57.286442: I tensorflow/core/common_runtime/bfc_allocator.cc:679] 8 Chunks of size 1024 totalling 8.0KiB
+2018-01-15 12:15:57.286447: I tensorflow/core/common_runtime/bfc_allocator.cc:679] 4 Chunks of size 1280 totalling 5.0KiB
+2018-01-15 12:15:57.286452: I tensorflow/core/common_runtime/bfc_allocator.cc:679] 4 Chunks of size 1792 totalling 7.0KiB
+2018-01-15 12:15:57.286457: I tensorflow/core/common_runtime/bfc_allocator.cc:679] 2 Chunks of size 9472 totalling 18.5KiB
+2018-01-15 12:15:57.286462: I tensorflow/core/common_runtime/bfc_allocator.cc:679] 1 Chunks of size 18944 totalling 18.5KiB
+2018-01-15 12:15:57.286467: I tensorflow/core/common_runtime/bfc_allocator.cc:679] 3 Chunks of size 52224 totalling 153.0KiB
+2018-01-15 12:15:57.286472: I tensorflow/core/common_runtime/bfc_allocator.cc:679] 4 Chunks of size 80128 totalling 313.0KiB
+2018-01-15 12:15:57.286477: I tensorflow/core/common_runtime/bfc_allocator.cc:679] 6 Chunks of size 104192 totalling 610.5KiB
+2018-01-15 12:15:57.286482: I tensorflow/core/common_runtime/bfc_allocator.cc:679] 6 Chunks of size 156160 totalling 915.0KiB
+2018-01-15 12:15:57.286489: I tensorflow/core/common_runtime/bfc_allocator.cc:679] 7 Chunks of size 160000 totalling 1.07MiB
+2018-01-15 12:15:57.286495: I tensorflow/core/common_runtime/bfc_allocator.cc:679] 1 Chunks of size 170752 totalling 166.8KiB
+2018-01-15 12:15:57.286500: I tensorflow/core/common_runtime/bfc_allocator.cc:679] 2 Chunks of size 360192 totalling 703.5KiB
+2018-01-15 12:15:57.286505: I tensorflow/core/common_runtime/bfc_allocator.cc:679] 2 Chunks of size 480000 totalling 937.5KiB
+2018-01-15 12:15:57.286510: I tensorflow/core/common_runtime/bfc_allocator.cc:679] 2 Chunks of size 640000 totalling 1.22MiB
+2018-01-15 12:15:57.286515: I tensorflow/core/common_runtime/bfc_allocator.cc:679] 1 Chunks of size 43804928 totalling 41.78MiB
+2018-01-15 12:15:57.286521: I tensorflow/core/common_runtime/bfc_allocator.cc:679] 1 Chunks of size 87609600 totalling 83.55MiB
+2018-01-15 12:15:57.286526: I tensorflow/core/common_runtime/bfc_allocator.cc:679] 1 Chunks of size 126587392 totalling 120.72MiB
+2018-01-15 12:15:57.286531: I tensorflow/core/common_runtime/bfc_allocator.cc:683] Sum Total of in-use chunks: 252.12MiB
+2018-01-15 12:15:57.286539: I tensorflow/core/common_runtime/bfc_allocator.cc:685] Stats: 
+Limit:                   264372224
+InUse:                   264372224
+MaxInUse:                264372224
+NumAllocs:                88026428
+MaxAllocSize:            126587392
+
+2018-01-15 12:15:57.286554: W tensorflow/core/common_runtime/bfc_allocator.cc:277] **************************************************************************************xxxxxxxxxxxxxx
+2018-01-15 12:15:57.286576: W tensorflow/core/framework/op_kernel.cc:1182] Resource exhausted: OOM when allocating tensor of shape [200,200] and type float
+2018-01-15 12:15:57.286820: E tensorflow/core/common_runtime/executor.cc:643] Executor failed to create kernel. Resource exhausted: OOM when allocating tensor of shape [200,200] and type float
+	 [[Node: Model/Model/context_MP_matching/layer-1/MP_matching/match_passage_with_question/-1bi_att_layer-2/bilinear_w/Adam/Initializer/zeros = Const[_class=["loc:@Model/context_MP_matching/layer-1/MP_matching/match_passage_with_question/-1bi_att_layer-2/bilinear_w"], dtype=DT_FLOAT, value=Tensor<type: float shape: [200,200] values: [0 0 0]...>, _device="/job:localhost/replica:0/task:0/device:GPU:0"]()]]
+Traceback (most recent call last):
+  File "SentenceMatchTrainer.py", line 704, in <module>
+    tf.app.run(main=main, argv=[sys.argv[0]] + unparsed)
+  File "/home/lily/jd2392/anaconda2/envs/mrl/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 48, in run
+    _sys.exit(main(_sys.argv[:1] + flags_passthrough))
+  File "SentenceMatchTrainer.py", line 486, in main
+    sess.run(initializer)
+  File "/home/lily/jd2392/anaconda2/envs/mrl/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 889, in run
+    run_metadata_ptr)
+  File "/home/lily/jd2392/anaconda2/envs/mrl/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1120, in _run
+    feed_dict_tensor, options, run_metadata)
+  File "/home/lily/jd2392/anaconda2/envs/mrl/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1317, in _do_run
+    options, run_metadata)
+  File "/home/lily/jd2392/anaconda2/envs/mrl/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 1336, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.ResourceExhaustedError: OOM when allocating tensor of shape [200,200] and type float
+	 [[Node: Model/Model/context_MP_matching/layer-1/MP_matching/match_passage_with_question/-1bi_att_layer-2/bilinear_w/Adam/Initializer/zeros = Const[_class=["loc:@Model/context_MP_matching/layer-1/MP_matching/match_passage_with_question/-1bi_att_layer-2/bilinear_w"], dtype=DT_FLOAT, value=Tensor<type: float shape: [200,200] values: [0 0 0]...>, _device="/job:localhost/replica:0/task:0/device:GPU:0"]()]]
+
+Caused by op u'Model/Model/context_MP_matching/layer-1/MP_matching/match_passage_with_question/-1bi_att_layer-2/bilinear_w/Adam/Initializer/zeros', defined at:
+  File "SentenceMatchTrainer.py", line 704, in <module>
+    tf.app.run(main=main, argv=[sys.argv[0]] + unparsed)
+  File "/home/lily/jd2392/anaconda2/envs/mrl/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 48, in run
+    _sys.exit(main(_sys.argv[:1] + flags_passthrough))
+  File "SentenceMatchTrainer.py", line 446, in main
+    is_aggregation_siamese=FLAGS.is_aggregation_siamese)
+  File "/data/lily/jd2392/virenv/Multi-rel-Loss/src/SentenceMatchModelGraph.py", line 265, in __init__
+    self.train_op = optimizer.apply_gradients(zip(grads, tvars))
+  File "/home/lily/jd2392/anaconda2/envs/mrl/lib/python2.7/site-packages/tensorflow/python/training/optimizer.py", line 474, in apply_gradients
+    self._create_slots([_get_variable_for(v) for v in var_list])
+  File "/home/lily/jd2392/anaconda2/envs/mrl/lib/python2.7/site-packages/tensorflow/python/training/adam.py", line 136, in _create_slots
+    self._zeros_slot(v, "m", self._name)
+  File "/home/lily/jd2392/anaconda2/envs/mrl/lib/python2.7/site-packages/tensorflow/python/training/optimizer.py", line 796, in _zeros_slot
+    named_slots[_var_key(var)] = slot_creator.create_zeros_slot(var, op_name)
+  File "/home/lily/jd2392/anaconda2/envs/mrl/lib/python2.7/site-packages/tensorflow/python/training/slot_creator.py", line 174, in create_zeros_slot
+    colocate_with_primary=colocate_with_primary)
+  File "/home/lily/jd2392/anaconda2/envs/mrl/lib/python2.7/site-packages/tensorflow/python/training/slot_creator.py", line 148, in create_slot_with_initializer
+    dtype)
+  File "/home/lily/jd2392/anaconda2/envs/mrl/lib/python2.7/site-packages/tensorflow/python/training/slot_creator.py", line 67, in _create_slot_var
+    validate_shape=validate_shape)
+  File "/home/lily/jd2392/anaconda2/envs/mrl/lib/python2.7/site-packages/tensorflow/python/ops/variable_scope.py", line 1203, in get_variable
+    constraint=constraint)
+  File "/home/lily/jd2392/anaconda2/envs/mrl/lib/python2.7/site-packages/tensorflow/python/ops/variable_scope.py", line 1092, in get_variable
+    constraint=constraint)
+  File "/home/lily/jd2392/anaconda2/envs/mrl/lib/python2.7/site-packages/tensorflow/python/ops/variable_scope.py", line 425, in get_variable
+    constraint=constraint)
+  File "/home/lily/jd2392/anaconda2/envs/mrl/lib/python2.7/site-packages/tensorflow/python/ops/variable_scope.py", line 394, in _true_getter
+    use_resource=use_resource, constraint=constraint)
+  File "/home/lily/jd2392/anaconda2/envs/mrl/lib/python2.7/site-packages/tensorflow/python/ops/variable_scope.py", line 805, in _get_single_variable
+    constraint=constraint)
+  File "/home/lily/jd2392/anaconda2/envs/mrl/lib/python2.7/site-packages/tensorflow/python/ops/variables.py", line 213, in __init__
+    constraint=constraint)
+  File "/home/lily/jd2392/anaconda2/envs/mrl/lib/python2.7/site-packages/tensorflow/python/ops/variables.py", line 303, in _init_from_args
+    initial_value(), name="initial_value", dtype=dtype)
+  File "/home/lily/jd2392/anaconda2/envs/mrl/lib/python2.7/site-packages/tensorflow/python/ops/variable_scope.py", line 779, in <lambda>
+    shape.as_list(), dtype=dtype, partition_info=partition_info)
+  File "/home/lily/jd2392/anaconda2/envs/mrl/lib/python2.7/site-packages/tensorflow/python/ops/init_ops.py", line 93, in __call__
+    return array_ops.zeros(shape, dtype)
+  File "/home/lily/jd2392/anaconda2/envs/mrl/lib/python2.7/site-packages/tensorflow/python/ops/array_ops.py", line 1439, in zeros
+    output = constant(zero, shape=shape, dtype=dtype, name=name)
+  File "/home/lily/jd2392/anaconda2/envs/mrl/lib/python2.7/site-packages/tensorflow/python/framework/constant_op.py", line 214, in constant
+    name=name).outputs[0]
+  File "/home/lily/jd2392/anaconda2/envs/mrl/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2956, in create_op
+    op_def=op_def)
+  File "/home/lily/jd2392/anaconda2/envs/mrl/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1470, in __init__
+    self._traceback = self._graph._extract_stack()  # pylint: disable=protected-access
+
+ResourceExhaustedError (see above for traceback): OOM when allocating tensor of shape [200,200] and type float
+	 [[Node: Model/Model/context_MP_matching/layer-1/MP_matching/match_passage_with_question/-1bi_att_layer-2/bilinear_w/Adam/Initializer/zeros = Const[_class=["loc:@Model/context_MP_matching/layer-1/MP_matching/match_passage_with_question/-1bi_att_layer-2/bilinear_w"], dtype=DT_FLOAT, value=Tensor<type: float shape: [200,200] values: [0 0 0]...>, _device="/job:localhost/replica:0/task:0/device:GPU:0"]()]]
+
