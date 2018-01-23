@@ -58,6 +58,7 @@ Y-Flow is an extension for Y-Flow a toolkit for text matching. Here at Yale we a
 ## Installation
 Please clone the repository and run
 ```
+conda install -c anaconda tensorflow-gpu
 git clone https://github.com/javiddadashkarimi/Y-Flow.git
 cd Y-Flow
 python setup.py install
