@@ -66,7 +66,7 @@ In the main directory, this will install the dependencies automatically.
 
 For usage examples, you can run
 ```
-python material.py -src en -tgt sw -c=en -m mt
+python material.py -src en -tgt sw -c en -m mt
 
 ```
     -'--source','-src', default='en', help='source language [sw,tl,en]'
