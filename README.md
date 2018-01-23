@@ -61,6 +61,7 @@ Please clone the repository and run
 git clone https://github.com/javiddadashkarimi/Y-Flow.git
 cd Y-Flow
 python setup.py install
+export TF_CPP_MIN_LOG_LEVEL=2
 ```
 In the main directory, this will install the dependencies automatically.
 
