@@ -146,7 +146,7 @@ def main(argv):
         result_folder = config['inputs']['predict']['result_folder']
         print(google_script)
         call(["sh",google_script])
-        call(["cp",result_folder+'result.google','predict.test.duet_ranking.txt'])
+        call(["cp",result_folder+'result.file','predict.test.duet_ranking.txt'])
     elif args.source == 'en' and args.target == 'tl' and args.collection == 'tl' and args.method == 'google':
         model_file ="examples/tl/config/duet_ranking_google.config"
         with open(model_file, 'r') as f:
@@ -155,7 +155,7 @@ def main(argv):
         google_script = config['global']['google_script']
         result_folder = config['inputs']['predict']['result_folder']
         call(["sh",google_script])
-        call(["cp",result_folder+'result.google','predict.test.duet_ranking.txt'])
+        call(["cp",result_folder+'result.file','predict.test.duet_ranking.txt'])
     elif args.source == 'en' and args.target == 'sw' and args.collection == 'sw' and args.method == 'wiktionary':
         model_file ="examples/sw/config/duet_ranking_wiktionary.config"
         with open(model_file, 'r') as f:
@@ -164,7 +164,7 @@ def main(argv):
         result_folder = config['inputs']['predict']['result_folder']
         print(google_script)
         call(["sh",google_script])
-        call(["cp",result_folder+'result.google','predict.test.duet_ranking.txt'])
+        call(["cp",result_folder+'result.file','predict.test.duet_ranking.txt'])
     elif args.source == 'en' and args.target == 'tl' and args.collection == 'tl' and args.method == 'wiktionary':
         model_file ="examples/tl/config/duet_ranking_wiktionary.config"
         with open(model_file, 'r') as f:
@@ -173,7 +173,7 @@ def main(argv):
         google_script = config['global']['google_script']
         result_folder = config['inputs']['predict']['result_folder']
         call(["sh",google_script])
-        call(["cp",result_folder+'result.google','predict.test.duet_ranking.txt'])
+        call(["cp",result_folder+'result.file','predict.test.duet_ranking.txt'])
 
     else:
         print('-src source language [sw,tl,en] -tgt target language [sw,tl,en] -c collection language [sw,tl,en] -m method [mt,google,wiktionary,fastext]')
