@@ -151,7 +151,7 @@ def main(argv):
         model_file ="examples/tl/config/duet_ranking_google.config"
         with open(model_file, 'r') as f:
             config = json.load(f)
-        crossval(config,i)
+        #crossval(config,i)
         google_script = config['global']['google_script']
         result_folder = config['inputs']['predict']['result_folder']
         call(["sh",google_script])
@@ -169,7 +169,7 @@ def main(argv):
         model_file ="examples/tl/config/duet_ranking_wiktionary.config"
         with open(model_file, 'r') as f:
             config = json.load(f)
-        crossval(config,i)
+        #crossval(config,i)
         google_script = config['global']['google_script']
         result_folder = config['inputs']['predict']['result_folder']
         call(["sh",google_script])
