@@ -65,10 +65,18 @@ python setup.py install
 export TF_CPP_MIN_LOG_LEVEL=2
 ```
 In the main directory, this will install the dependencies automatically.
+Or run the following to run the dependencies:
+ 
+```
+pip install -r requirements.txt
 
 For usage examples, you can run
 ```
+# to trigger machine translation-involved version:
 python material.py -src en -tgt sw -c en -m mt
+
+# to trigger google translation-involoved version:
+python material.py -src en -tgt tl -c tl -m google
 
 ```
     -'--source','-src', default='en', help='source language [sw,tl,en]'
