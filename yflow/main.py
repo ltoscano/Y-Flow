@@ -106,14 +106,14 @@ def train(config):
     eval_gen = OrderedDict()
 
     for tag, conf in input_train_conf.items():
-        print(conf, end='\n')
+        #print(conf, end='\n')
         conf['data1'] = dataset[conf['text1_corpus']]
         conf['data2'] = dataset[conf['text2_corpus']]
         generator = inputs.get(conf['input_type'])
         train_gen[tag] = generator( config = conf )
 
     for tag, conf in input_eval_conf.items():
-        print(conf, end='\n')
+        #print(conf, end='\n')
         conf['data1'] = dataset[conf['text1_corpus']]
         conf['data2'] = dataset[conf['text2_corpus']]
         generator = inputs.get(conf['input_type'])
@@ -180,7 +180,7 @@ def train(config):
 def predict(config):
     ######## Read input config ########
 
-    print(json.dumps(config, indent=2), end='\n')
+    #print(json.dumps(config, indent=2), end='\n')
     input_conf = config['inputs']
     share_input_conf = input_conf['share']
 
@@ -225,7 +225,7 @@ def predict(config):
     predict_gen = OrderedDict()
 
     for tag, conf in input_predict_conf.items():
-        print(conf, end='\n')
+        #print(conf, end='\n')
         conf['data1'] = dataset[conf['text1_corpus']]
         conf['data2'] = dataset[conf['text2_corpus']]
         generator = inputs.get(conf['input_type'])

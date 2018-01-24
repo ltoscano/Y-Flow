@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # The Input Data Format of Y-Flow Toolkit
-=======
-# The Input Data Format of MatchZoo Toolkit
->>>>>>> 6ead61448329ab48ede35e004d7e408b9afca24f
 
 ## Ranking
 + **corpus.txt**: Each line is corresponding to a document. The first column is document ID. Then the following words are from this document after tokenization.
@@ -21,8 +17,4 @@
 For classification, the format of most files are the same with the case in ranking. The only difference is the format of "relation_train.txt/relation_valid.txt/relation_test.txt". Each line is "label document_id1 document_id2". Take paraphrase identification as an example, we want to predict whether two sentences have the same meaning using deep text matching models.
 
 ## Sample Input Data and Useful Scripts
-<<<<<<< HEAD
 The sample input data can be found under Y-Flow/data/example. You can transfer the raw sample.txt to these files by Y-Flow/examples/test_preparation_for_classify.py for classification or Y-Flow/examples/test_preparation_for_ranking.py for ranking.
-=======
-The sample input data can be found under MatchZoo/data/example. You can transfer the raw sample.txt to these files by MatchZoo/examples/test_preparation_for_classify.py for classification or MatchZoo/examples/test_preparation_for_ranking.py for ranking.
->>>>>>> 6ead61448329ab48ede35e004d7e408b9afca24f
