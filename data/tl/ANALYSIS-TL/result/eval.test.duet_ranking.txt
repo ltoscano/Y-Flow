@@ -1,3 +1,65 @@
+<<<<<<< HEAD
+map                   	query1047	0.0357
+P_5                   	query1047	0.0000
+P_10                  	query1047	0.0000
+map                   	query113	0.9167
+P_5                   	query113	0.6000
+P_10                  	query113	0.3000
+map                   	query117	0.0000
+P_5                   	query117	0.0000
+P_10                  	query117	0.0000
+map                   	query1330	0.0000
+P_5                   	query1330	0.0000
+P_10                  	query1330	0.0000
+map                   	query1345	1.0000
+P_5                   	query1345	0.2000
+P_10                  	query1345	0.1000
+map                   	query1591	0.8042
+P_5                   	query1591	0.8000
+P_10                  	query1591	0.4000
+map                   	query1661	0.0000
+P_5                   	query1661	0.0000
+P_10                  	query1661	0.0000
+map                   	query1690	0.1667
+P_5                   	query1690	0.0000
+P_10                  	query1690	0.1000
+map                   	query1759	0.0000
+P_5                   	query1759	0.0000
+P_10                  	query1759	0.0000
+map                   	query1810	0.7544
+P_5                   	query1810	0.8000
+P_10                  	query1810	0.5000
+map                   	query1833	0.8333
+P_5                   	query1833	0.4000
+P_10                  	query1833	0.2000
+map                   	query1884	0.0000
+P_5                   	query1884	0.0000
+P_10                  	query1884	0.0000
+map                   	query1963	0.5000
+P_5                   	query1963	0.4000
+P_10                  	query1963	0.2000
+map                   	query307	0.0000
+P_5                   	query307	0.0000
+P_10                  	query307	0.0000
+map                   	query336	0.1429
+P_5                   	query336	0.0000
+P_10                  	query336	0.1000
+map                   	query337	0.2333
+P_5                   	query337	0.2000
+P_10                  	query337	0.2000
+map                   	query357	1.0000
+P_5                   	query357	0.2000
+P_10                  	query357	0.1000
+map                   	query359	0.5000
+P_5                   	query359	0.2000
+P_10                  	query359	0.1000
+map                   	query4373	0.0000
+P_5                   	query4373	0.0000
+P_10                  	query4373	0.0000
+map                   	query439	0.6917
+P_5                   	query439	0.6000
+P_10                  	query439	0.4000
+=======
 map                   	query100	1.0000
 P_5                   	query100	0.2000
 P_10                  	query100	0.1000
@@ -103,21 +165,54 @@ P_10                  	query441	0.2000
 map                   	query460	0.3333
 P_5                   	query460	0.2000
 P_10                  	query460	0.1000
+>>>>>>> 4f6f4af165c4e5e08de8b5ed675876e5897140fc
 map                   	query464	1.0000
 P_5                   	query464	0.2000
 P_10                  	query464	0.1000
 map                   	query503	0.0000
 P_5                   	query503	0.0000
 P_10                  	query503	0.0000
+<<<<<<< HEAD
+map                   	query533	0.0000
+P_5                   	query533	0.0000
+P_10                  	query533	0.0000
+=======
 map                   	query533	0.1111
 P_5                   	query533	0.0000
 P_10                  	query533	0.1000
+>>>>>>> 4f6f4af165c4e5e08de8b5ed675876e5897140fc
 map                   	query540	1.0000
 P_5                   	query540	0.2000
 P_10                  	query540	0.1000
 map                   	query557	0.0000
 P_5                   	query557	0.0000
 P_10                  	query557	0.0000
+<<<<<<< HEAD
+map                   	query559	0.2500
+P_5                   	query559	0.2000
+P_10                  	query559	0.1000
+map                   	query573	0.0000
+P_5                   	query573	0.0000
+P_10                  	query573	0.0000
+map                   	query614	0.0000
+P_5                   	query614	0.0000
+P_10                  	query614	0.0000
+map                   	query753	0.0000
+P_5                   	query753	0.0000
+P_10                  	query753	0.0000
+map                   	query754	0.0000
+P_5                   	query754	0.0000
+P_10                  	query754	0.0000
+map                   	query771	1.0000
+P_5                   	query771	0.2000
+P_10                  	query771	0.1000
+map                   	query774	1.0000
+P_5                   	query774	0.2000
+P_10                  	query774	0.1000
+map                   	query781	0.2000
+P_5                   	query781	0.2000
+P_10                  	query781	0.1000
+=======
 map                   	query559	0.1667
 P_5                   	query559	0.0000
 P_10                  	query559	0.1000
@@ -136,12 +231,21 @@ P_10                  	query781	0.0000
 map                   	query788	0.0000
 P_5                   	query788	0.0000
 P_10                  	query788	0.0000
+>>>>>>> 4f6f4af165c4e5e08de8b5ed675876e5897140fc
 map                   	query789	0.0000
 P_5                   	query789	0.0000
 P_10                  	query789	0.0000
 map                   	query943	1.0000
 P_5                   	query943	0.2000
 P_10                  	query943	0.1000
+<<<<<<< HEAD
+map                   	query969	0.0000
+P_5                   	query969	0.0000
+P_10                  	query969	0.0000
+map                   	all	0.3619
+P_5                   	all	0.1611
+P_10                  	all	0.0944
+=======
 map                   	query948	0.1111
 P_5                   	query948	0.0000
 P_10                  	query948	0.1000
@@ -157,3 +261,4 @@ P_10                  	query991	0.1000
 map                   	all	0.4101
 P_5                   	all	0.1808
 P_10                  	all	0.1212
+>>>>>>> 4f6f4af165c4e5e08de8b5ed675876e5897140fc

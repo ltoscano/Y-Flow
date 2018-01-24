@@ -65,10 +65,15 @@ python setup.py install
 export TF_CPP_MIN_LOG_LEVEL=2
 ```
 In the main directory, this will install the dependencies automatically.
+Or run the following to run the dependencies:`pip install -r requirements.txt`.
 
 For usage examples, you can run
 ```
+# to trigger machine translation-involved version:
 python material.py -src en -tgt sw -c en -m mt
+
+# to trigger google translation-involoved version:
+python material.py -src en -tgt tl -c tl -m google
 
 ```
     -'--source','-src', default='en', help='source language [sw,tl,en]'
@@ -171,8 +176,8 @@ Here, the DRMM_TKS is a variant of DRMM for short text matching. Specifically, t
 
 ## Environment
 * python2.7+
-* tensorflow 1.2+
-* keras 2.06+
+* tensorflow 1.4.1+
+* keras 2.1.3+
 * nltk 3.2.2+
 * tqdm 4.19.4+
 * h5py 2.7.1+
