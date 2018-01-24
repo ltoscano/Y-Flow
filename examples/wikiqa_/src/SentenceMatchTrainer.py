@@ -223,7 +223,7 @@ def Generate_random_initialization():
         aggregation_layer_num = [1]
         FLAGS.aggregation_layer_num = random.choice(aggregation_layer_num)
         FLAGS.context_layer_num = random.choice(context_layer_num)
-        is_aggregation_lstm = [True]
+        is_aggregation_lstm = [False]
         FLAGS.is_aggregation_lstm = random.choice(is_aggregation_lstm)
         max_window_size = [3] #[x for x in range (1, 4, 1)]
         FLAGS.max_window_size = random.choice(max_window_size)
@@ -250,11 +250,11 @@ def Generate_random_initialization():
                 aggregation_lstm_dim = [50]#[x for x in range (50, 160, 10)]
         else: # CNN
             if FLAGS.max_window_size == 1:
-                aggregation_lstm_dim = [150]#[x for x in range (50, 801, 10)]
+                aggregation_lstm_dim = [100]#[x for x in range (50, 801, 10)]
             elif FLAGS.max_window_size == 2:
                 aggregation_lstm_dim = [100, 150]#[x for x in range (50, 510, 10)]
             elif FLAGS.max_window_size == 3:
-                aggregation_lstm_dim = [150]#[x for x in range (50, 410, 10)]
+                aggregation_lstm_dim = [100]#[x for x in range (50, 410, 10)]
             elif FLAGS.max_window_size == 4:
                 aggregation_lstm_dim = [x for x in range (50, 210, 10)]
             else: #5
@@ -275,13 +275,13 @@ def Generate_random_initialization():
         prediction_mode = ['list_wise']
         unstack_cnn = [False]
         with_match_highway = [False]
-        with_highway = [False]
+        with_highway = [True, False]
         with_aggregation_highway = [False]
-        highway_layer_num = [0]
+        highway_layer_num = [1]
         is_aggregation_siamese = [False]
 
-        attention_type = ['bilinear', 'linear', 'linear_p_bias', 'dot_product']
-        with_context_self_attention = [False]
+        attention_type = ['bilinear']#['bilinear', 'linear', 'linear_p_bias', 'dot_product']
+        with_context_self_attention = [False, True]
         FLAGS.with_context_self_attention = random.choice(with_context_self_attention)
         #FLAGS.batch_size = random.choice(batch_size)
         FLAGS.unstack_cnn = random.choice(unstack_cnn)
