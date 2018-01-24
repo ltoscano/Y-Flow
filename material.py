@@ -101,7 +101,6 @@ def main(argv):
             call(["mv", "predict.test.duet_ranking.txt","predict."+str(i)+".txt"])
 	call("cat predict.0* > predict.test.duet_ranking.txt",shell=True)
 	call("rm predict.0*",shell=True)
-        #call(["python", "aggregate.py", "--phase", "predict", "--model_file", model_file]) # _en, _tl,_sw
     elif args.source == 'en' and args.target == 'tl' and args.collection == 'en' and args.method == 'mt':
         for  i in {0.0,0.2,0.4,0.6,0.8}:
             model_file ="examples/tl/config/duet_ranking_en.config"
@@ -113,7 +112,6 @@ def main(argv):
             call(["mv", "predict.test.duet_ranking.txt","predict."+str(i)+".txt"])
 	call("cat predict.0* > predict.test.duet_ranking.txt",shell=True)
 	call("rm predict.0*",shell=True)
-        #call(["python", "aggregate.py", "--phase", "predict", "--model_file", model_file]) # _en, _tl,_sw
     elif args.source == 'en' and args.target == 'sw' and args.collection == 'sw' and args.method == 'fastext':
         for  i in tqdm({0.0,0.2,0.4,0.6,0.8}):
             model_file ="examples/sw/config/duet_ranking_sw.config"
@@ -125,7 +123,6 @@ def main(argv):
             call(["mv", "predict.test.duet_ranking.txt","predict."+str(i)+".txt"])
 	call("cat predict.0* > predict.test.duet_ranking.txt",shell=True)
 	call("rm predict.0*",shell=True)
-        #call(["python", "aggregate.py", "--phase", "predict", "--model_file", model_file]) # _en, _tl,_sw
     elif args.source == 'en' and args.target == 'tl' and args.collection == 'tl' and args.method == 'fastext':
         for  i in {0.0,0.2,0.4,0.6,0.8}:
             model_file ="examples/tl/config/duet_ranking_tl.config"
@@ -137,21 +134,18 @@ def main(argv):
             call(["mv", "predict.test.duet_ranking.txt","predict."+str(i)+".txt"])
 	call("cat predict.0* > predict.test.duet_ranking.txt",shell=True)
 	call("rm predict.0*",shell=True)
-        #call(["python", "aggregate.py", "--phase", "predict", "--model_file",model_file]) # _en, _tl,_sw
     elif args.source == 'en' and args.target == 'sw' and args.collection == 'sw' and args.method == 'google':
         model_file ="examples/sw/config/duet_ranking_google.config"
         with open(model_file, 'r') as f:
             config = json.load(f)
         google_script = config['global']['google_script']
         result_folder = config['inputs']['predict']['result_folder']
-        print(google_script)
         call(["sh",google_script])
         call(["cp",result_folder+'result.file','predict.test.duet_ranking.txt'])
     elif args.source == 'en' and args.target == 'tl' and args.collection == 'tl' and args.method == 'google':
         model_file ="examples/tl/config/duet_ranking_google.config"
         with open(model_file, 'r') as f:
             config = json.load(f)
-        #crossval(config,i)
         google_script = config['global']['google_script']
         result_folder = config['inputs']['predict']['result_folder']
         call(["sh",google_script])
@@ -160,19 +154,17 @@ def main(argv):
         model_file ="examples/sw/config/duet_ranking_wiktionary.config"
         with open(model_file, 'r') as f:
             config = json.load(f)
-        google_script = config['global']['google_script']
+        wiktionary_script = config['global']['wiktionary_script']
         result_folder = config['inputs']['predict']['result_folder']
-        print(google_script)
-        call(["sh",google_script])
+        call(["sh",wiktionary_script])
         call(["cp",result_folder+'result.file','predict.test.duet_ranking.txt'])
     elif args.source == 'en' and args.target == 'tl' and args.collection == 'tl' and args.method == 'wiktionary':
         model_file ="examples/tl/config/duet_ranking_wiktionary.config"
         with open(model_file, 'r') as f:
             config = json.load(f)
-        #crossval(config,i)
-        google_script = config['global']['google_script']
+        wiktionary_script = config['global']['wiktionary_script']
         result_folder = config['inputs']['predict']['result_folder']
-        call(["sh",google_script])
+        call(["sh",wiktionary_script])
         call(["cp",result_folder+'result.file','predict.test.duet_ranking.txt'])
 
     else:
