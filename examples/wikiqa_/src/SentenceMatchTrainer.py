@@ -213,6 +213,12 @@ def output_probs(probs, label_vocab):
 
 def Generate_random_initialization():
     if FLAGS.is_server == True:
+        configuration = [1, 2, 3, 4]
+        #1 : attention lstm agg
+        #2 : cnn stack and highway
+        #3 : context self attention
+        #4 : aggregation self attention
+        cnf = random.choice(configuration)
         type1 = ['w_sub_mul']
         type2 = ['mul']
         type3 = ['w_sub_mul']
@@ -223,7 +229,12 @@ def Generate_random_initialization():
         aggregation_layer_num = [1]
         FLAGS.aggregation_layer_num = random.choice(aggregation_layer_num)
         FLAGS.context_layer_num = random.choice(context_layer_num)
-        is_aggregation_lstm = [False]
+        if cnf == 1  or cnf == 4:
+            is_aggregation_lstm = [True]
+        elif cnf == 2:
+            is_aggregation_lstm =  [False]
+        else: #3
+            is_aggregation_lstm = [True, False]
         FLAGS.is_aggregation_lstm = random.choice(is_aggregation_lstm)
         max_window_size = [3] #[x for x in range (1, 4, 1)]
         FLAGS.max_window_size = random.choice(max_window_size)
@@ -254,7 +265,7 @@ def Generate_random_initialization():
             elif FLAGS.max_window_size == 2:
                 aggregation_lstm_dim = [100, 150]#[x for x in range (50, 510, 10)]
             elif FLAGS.max_window_size == 3:
-                aggregation_lstm_dim = [100]#[x for x in range (50, 410, 10)]
+                aggregation_lstm_dim = [50]#[x for x in range (50, 410, 10)]
             elif FLAGS.max_window_size == 4:
                 aggregation_lstm_dim = [x for x in range (50, 210, 10)]
             else: #5
@@ -269,19 +280,34 @@ def Generate_random_initialization():
         char_emb_dim = [40] #[x for x in range (20, 110, 10)]
         wo_char = [True]
         wo_lstm_drop_out = [True]
-        wo_agg_self_att = [True]
+        if cnf == 4:
+            wo_agg_self_att = [False, True]
+        else:
+            wo_agg_self_att = [True]
         is_shared_attention = [False, True]
         modify_loss = [0.1]#[x/10.0 for x in range (0, 5, 1)]
         prediction_mode = ['list_wise']
-        unstack_cnn = [False]
+        if cnf == 2:
+            unstack_cnn = [False, True]
+        else:
+            unstack_cnn = [False, True]
         with_match_highway = [False]
-        with_highway = [True, False]
+        if cnf == 2 or cnf == 3:
+            with_highway = [True, False]
+        else:
+            with_highway = [False]
         with_aggregation_highway = [False]
         highway_layer_num = [1]
-        is_aggregation_siamese = [False]
+        is_aggregation_siamese = [False, True]
 
-        attention_type = ['bilinear']#['bilinear', 'linear', 'linear_p_bias', 'dot_product']
-        with_context_self_attention = [False, True]
+        if cnf == 1:
+            attention_type = ['bilinear', 'linear', 'linear_p_bias', 'dot_product']
+        else:
+            attention_type = ['bilinear']
+        if cnf == 3:
+            with_context_self_attention = [False, True]
+        else:
+            with_context_self_attention = [False]
         FLAGS.with_context_self_attention = random.choice(with_context_self_attention)
         #FLAGS.batch_size = random.choice(batch_size)
         FLAGS.unstack_cnn = random.choice(unstack_cnn)
