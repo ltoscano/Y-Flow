@@ -176,8 +176,8 @@ Here, the DRMM_TKS is a variant of DRMM for short text matching. Specifically, t
 
 ## Environment
 * python2.7+
-* tensorflow 1.2+
-* keras 2.06+
+* tensorflow 1.4.1+
+* keras 2.1.3+
 * nltk 3.2.2+
 * tqdm 4.19.4+
 * h5py 2.7.1+
