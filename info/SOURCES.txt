@@ -3,19 +3,11 @@ README.md
 Team.md
 run.sh
 setup.py
-<<<<<<< HEAD
 Y-Flow.egg-info/PKG-INFO
 Y-Flow.egg-info/SOURCES.txt
 Y-Flow.egg-info/dependency_links.txt
 Y-Flow.egg-info/requires.txt
 Y-Flow.egg-info/top_level.txt
-=======
-MatchZoo.egg-info/PKG-INFO
-MatchZoo.egg-info/SOURCES.txt
-MatchZoo.egg-info/dependency_links.txt
-MatchZoo.egg-info/requires.txt
-MatchZoo.egg-info/top_level.txt
->>>>>>> 6ead61448329ab48ede35e004d7e408b9afca24f
 data/.gitignore
 data/WikiQA/.gitignore
 data/WikiQA/filter_query.py
@@ -546,19 +538,11 @@ data/toy_example/ranking/triletter_dict.txt
 data/toy_example/ranking/word_dict.txt
 data/toy_example/ranking/word_stats.txt
 data/toy_example/ranking/word_triletter_map.txt
-<<<<<<< HEAD
 docs/_static/images/yflow-group.jpeg
 docs/_static/images/yflow-logo.png
 docs/_static/images/yflow.png
 docs/_static/images/yflow.wikiqa.loss.png
 docs/_static/images/yflow.wikiqa.map.png
-=======
-docs/_static/images/matchzoo-group.jpeg
-docs/_static/images/matchzoo-logo.png
-docs/_static/images/matchzoo.png
-docs/_static/images/matchzoo.wikiqa.loss.png
-docs/_static/images/matchzoo.wikiqa.map.png
->>>>>>> 6ead61448329ab48ede35e004d7e408b9afca24f
 examples/.gitignore
 examples/toy_example/.gitignore
 examples/toy_example/README
@@ -626,7 +610,6 @@ examples/wikiqa/config/dssm_wikiqa.config
 examples/wikiqa/config/duet_wikiqa.config
 examples/wikiqa/config/matchpyramid_wikiqa.config
 examples/wikiqa/config/mvlstm_wikiqa.config
-<<<<<<< HEAD
 yflow/__init__.py
 yflow/main.py
 yflow/inputs/__init__.py
@@ -662,43 +645,6 @@ yflow/utils/__init__.py
 yflow/utils/rank_io.py
 yflow/utils/roc_auc.py
 yflow/utils/utility.py
-=======
-matchzoo/__init__.py
-matchzoo/main.py
-matchzoo/inputs/__init__.py
-matchzoo/inputs/list_generator.py
-matchzoo/inputs/pair_generator.py
-matchzoo/inputs/point_generator.py
-matchzoo/inputs/preparation.py
-matchzoo/inputs/preprocess.py
-matchzoo/layers/DynamicMaxPooling.py
-matchzoo/layers/Match.py
-matchzoo/layers/MatchTensor.py
-matchzoo/layers/NonMasking.py
-matchzoo/layers/SparseFullyConnectedLayer.py
-matchzoo/layers/__init__.py
-matchzoo/losses/__init__.py
-matchzoo/losses/rank_losses.py
-matchzoo/metrics/__init__.py
-matchzoo/metrics/evaluations.py
-matchzoo/metrics/rank_evaluations.py
-matchzoo/models/README
-matchzoo/models/anmm.py
-matchzoo/models/arci.py
-matchzoo/models/arcii.py
-matchzoo/models/cdssm.py
-matchzoo/models/drmm.py
-matchzoo/models/drmm_tks.py
-matchzoo/models/dssm.py
-matchzoo/models/duet.py
-matchzoo/models/matchpyramid.py
-matchzoo/models/model.py
-matchzoo/models/mvlstm.py
-matchzoo/utils/__init__.py
-matchzoo/utils/rank_io.py
-matchzoo/utils/roc_auc.py
-matchzoo/utils/utility.py
->>>>>>> 6ead61448329ab48ede35e004d7e408b9afca24f
 tests/qrels
 tests/ranklist
 tests/test_metrics.py
