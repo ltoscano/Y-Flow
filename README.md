@@ -65,10 +65,7 @@ python setup.py install
 export TF_CPP_MIN_LOG_LEVEL=2
 ```
 In the main directory, this will install the dependencies automatically.
-Or run the following to run the dependencies:
- 
-```
-pip install -r requirements.txt
+Or run the following to run the dependencies:`pip install -r requirements.txt`.
 
 For usage examples, you can run
 ```
