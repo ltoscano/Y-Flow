@@ -160,16 +160,6 @@ python material.py -src en -tgt tl -c tl -m google
 
 <a href="https://arxiv.org/abs/1604.04378">Match-SRNN</a>, <a href="https://arxiv.org/abs/1710.05649">DeepRank</a>, <a href="https://arxiv.org/abs/1706.06613">K-NRM</a> ....
 
-## Citation
-
-```
-@article{fan2017matchzoo,
-  title={Y-Flow: A Toolkit for Deep Text Matching},
-  author={Fan, Yixing and Pang, Liang and Hou, JianPeng and Guo, Jiafeng and Lan, Yanyan and Cheng, Xueqi},
-  journal={arXiv preprint arXiv:1707.07270},
-  year={2017}
-}
-```
 
 ## Environment
 * python2.7+
