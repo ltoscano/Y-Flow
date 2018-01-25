@@ -67,7 +67,32 @@ export TF_CPP_MIN_LOG_LEVEL=2
 In the main directory, this will install the dependencies automatically.
 Or run the following to run the dependencies:`pip install -r requirements.txt`.
 
-For usage examples, you can run
+
+### Data Preparation
+Different text matching formats are considered in this porject for unification:
+
++	**Word Dictionary**: records the mapping from each word to a unique identifier called *wid*. Words that are too frequent (e.g. stopwords), too rare or noisy (e.g. fax numbers) can be  filtered out by predefined rules.
++	**Corpus File**: records the mapping from each text to a unique identifier called *tid*, along with a sequence of word identifiers contained in that text. Note here each text is truncated or padded to a fixed length customized by users.
++	**Relation File**: is used to store the relationship between two texts, each line containing a pair of *tids* and the corresponding label.
++   **Detailed Input Data Format**: a detailed explaination of input data format can be found in Y-Flow/data/example/readme.md.
+
++  **Example**: for indexing and also generating training data in document ranking: 
+```
+  - IndriBuildIndex index.param
+  - sh generate_ranking_data.sh
+```
+
+### Model Construction
+In the model construction module, we employ Keras library to help users build the deep matching model layer by layer conveniently. The Keras libarary provides a set of common layers widely used in neural models, such as convolutional layer, pooling layer, dense layer and so on. To further facilitate the construction of deep text matching models, we extend the Keras library to provide some layer interfaces specifically designed for text matching.
+
+Moreover, the toolkit has implemented two schools of representative deep text matching models, namely representation-focused models and interaction-focused models [[Guo et al.]](http://www.bigdatalab.ac.cn/~gjf/papers/2016/CIKM2016a_guo.pdf).
+
+### Training and Evaluation
+For learning the deep matching models, the toolkit provides a variety of objective functions for regression, classification and ranking. For example, the ranking-related objective functions include several well-known pointwise, pairwise and listwise losses. It is flexible for users to pick up different objective functions in the training phase for optimization. Once a model has been trained, the toolkit could be used to produce a matching score, predict a matching label, or rank target texts (e.g., a document) against an input text.
+
+## Usage:
+
+For the document ranking example, you can run
 ```
 # to trigger machine translation-involved version:
 python material.py -src en -tgt sw -c en -m mt
@@ -82,35 +107,7 @@ python material.py -src en -tgt tl -c tl -m google
     -'--out','-o', default='en', help='output language [sw,tl,en]'
     -'--method','-m', default='mt', help='method [mt,google,wiktionary,fastext]'
 
-### Data Preparation
-The data preparation module aims to convert dataset of different text matching tasks into a unified format as the input of deep matching models. Users provide datasets which contains pairs of texts along with their labels, and the module produces the following files.
 
-+	**Word Dictionary**: records the mapping from each word to a unique identifier called *wid*. Words that are too frequent (e.g. stopwords), too rare or noisy (e.g. fax numbers) can be  filtered out by predefined rules.
-+	**Corpus File**: records the mapping from each text to a unique identifier called *tid*, along with a sequence of word identifiers contained in that text. Note here each text is truncated or padded to a fixed length customized by users.
-+	**Relation File**: is used to store the relationship between two texts, each line containing a pair of *tids* and the corresponding label.
-+   **Detailed Input Data Format**: a detailed explaination of input data format can be found in Y-Flow/data/example/readme.md.
-
-### Model Construction
-In the model construction module, we employ Keras library to help users build the deep matching model layer by layer conveniently. The Keras libarary provides a set of common layers widely used in neural models, such as convolutional layer, pooling layer, dense layer and so on. To further facilitate the construction of deep text matching models, we extend the Keras library to provide some layer interfaces specifically designed for text matching.
-
-Moreover, the toolkit has implemented two schools of representative deep text matching models, namely representation-focused models and interaction-focused models [[Guo et al.]](http://www.bigdatalab.ac.cn/~gjf/papers/2016/CIKM2016a_guo.pdf).
-
-### Training and Evaluation
-For learning the deep matching models, the toolkit provides a variety of objective functions for regression, classification and ranking. For example, the ranking-related objective functions include several well-known pointwise, pairwise and listwise losses. It is flexible for users to pick up different objective functions in the training phase for optimization. Once a model has been trained, the toolkit could be used to produce a matching score, predict a matching label, or rank target texts (e.g., a document) against an input text.
-
-## Benchmark Results:
-Here, we adopt <a href="https://www.microsoft.com/en-us/download/details.aspx?id=52419">WikiQA</a> dataset for an example to inllustrate the usage of Y-Flow. WikiQA is a popular benchmark dataset for answer sentence selection in question answering. We have provided <a href="./data/WikiQA/run_data.sh">a script</a> to download the dataset, and prepared it into the Y-Flow data format. In the <a href="">models directory</a>, there are a number of configurations about each model for WikiQA dataset. 
-
-Take the DRMM as an example. In training phase, you can run
-```
-python matchzoo/main.py --phase train --model_file examples/wikiqa/config/drmm_wikiqa.config
-```
-In testing phase, you can run
-```
-python matchzoo/main.py --phase predict --model_file examples/wikiqa/config/drmm_wikiqa.config
-```
-
-Here, the DRMM_TKS is a variant of DRMM for short text matching. Specifically, the matching histogram is replaced by a top-k maxpooling layer and the remaining part are fixed. 
 
 ## Model Detail:
 
@@ -163,16 +160,6 @@ Here, the DRMM_TKS is a variant of DRMM for short text matching. Specifically, t
 
 <a href="https://arxiv.org/abs/1604.04378">Match-SRNN</a>, <a href="https://arxiv.org/abs/1710.05649">DeepRank</a>, <a href="https://arxiv.org/abs/1706.06613">K-NRM</a> ....
 
-## Citation
-
-```
-@article{fan2017matchzoo,
-  title={Y-Flow: A Toolkit for Deep Text Matching},
-  author={Fan, Yixing and Pang, Liang and Hou, JianPeng and Guo, Jiafeng and Lan, Yanyan and Cheng, Xueqi},
-  journal={arXiv preprint arXiv:1707.07270},
-  year={2017}
-}
-```
 
 ## Environment
 * python2.7+
@@ -181,4 +168,4 @@ Here, the DRMM_TKS is a variant of DRMM for short text matching. Specifically, t
 * nltk 3.2.2+
 * tqdm 4.19.4+
 * h5py 2.7.1+
-
+* indri 5.7
