@@ -67,20 +67,6 @@ export TF_CPP_MIN_LOG_LEVEL=2
 In the main directory, this will install the dependencies automatically.
 Or run the following to run the dependencies:`pip install -r requirements.txt`.
 
-For usage examples, you can run
-```
-# to trigger machine translation-involved version:
-python material.py -src en -tgt sw -c en -m mt
-
-# to trigger google translation-involoved version:
-python material.py -src en -tgt tl -c tl -m google
-
-```
-    -'--source','-src', default='en', help='source language [sw,tl,en]'
-    -'--target','-tgt', default='sw', help='target language [sw,tl,en]'
-    -'--collection','-c', default='en', help='language of documents [sw,tl,en]'
-    -'--out','-o', default='en', help='output language [sw,tl,en]'
-    -'--method','-m', default='mt', help='method [mt,google,wiktionary,fastext]'
 
 ### Data Preparation
 Different text matching formats are considered in this porject for unification:
@@ -104,19 +90,24 @@ Moreover, the toolkit has implemented two schools of representative deep text ma
 ### Training and Evaluation
 For learning the deep matching models, the toolkit provides a variety of objective functions for regression, classification and ranking. For example, the ranking-related objective functions include several well-known pointwise, pairwise and listwise losses. It is flexible for users to pick up different objective functions in the training phase for optimization. Once a model has been trained, the toolkit could be used to produce a matching score, predict a matching label, or rank target texts (e.g., a document) against an input text.
 
-## Benchmark Results:
-Here, we adopt <a href="https://www.microsoft.com/en-us/download/details.aspx?id=52419">WikiQA</a> dataset for an example to inllustrate the usage of Y-Flow. WikiQA is a popular benchmark dataset for answer sentence selection in question answering. We have provided <a href="./data/WikiQA/run_data.sh">a script</a> to download the dataset, and prepared it into the Y-Flow data format. In the <a href="">models directory</a>, there are a number of configurations about each model for WikiQA dataset. 
+## Usage:
 
-Take the DRMM as an example. In training phase, you can run
+For the document ranking example, you can run
 ```
-python matchzoo/main.py --phase train --model_file examples/wikiqa/config/drmm_wikiqa.config
-```
-In testing phase, you can run
-```
-python matchzoo/main.py --phase predict --model_file examples/wikiqa/config/drmm_wikiqa.config
-```
+# to trigger machine translation-involved version:
+python material.py -src en -tgt sw -c en -m mt
 
-Here, the DRMM_TKS is a variant of DRMM for short text matching. Specifically, the matching histogram is replaced by a top-k maxpooling layer and the remaining part are fixed. 
+# to trigger google translation-involoved version:
+python material.py -src en -tgt tl -c tl -m google
+
+```
+    -'--source','-src', default='en', help='source language [sw,tl,en]'
+    -'--target','-tgt', default='sw', help='target language [sw,tl,en]'
+    -'--collection','-c', default='en', help='language of documents [sw,tl,en]'
+    -'--out','-o', default='en', help='output language [sw,tl,en]'
+    -'--method','-m', default='mt', help='method [mt,google,wiktionary,fastext]'
+
+
 
 ## Model Detail:
 
