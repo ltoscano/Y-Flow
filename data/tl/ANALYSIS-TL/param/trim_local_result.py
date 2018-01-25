@@ -1,0 +1,1 @@
+../../ANALYSIS-EN/param/trim_local_result.py
