@@ -83,12 +83,18 @@ python material.py -src en -tgt tl -c tl -m google
     -'--method','-m', default='mt', help='method [mt,google,wiktionary,fastext]'
 
 ### Data Preparation
-The data preparation module aims to convert dataset of different text matching tasks into a unified format as the input of deep matching models. Users provide datasets which contains pairs of texts along with their labels, and the module produces the following files.
+Different text matching formats are considered in this porject for unification:
 
 +	**Word Dictionary**: records the mapping from each word to a unique identifier called *wid*. Words that are too frequent (e.g. stopwords), too rare or noisy (e.g. fax numbers) can be  filtered out by predefined rules.
 +	**Corpus File**: records the mapping from each text to a unique identifier called *tid*, along with a sequence of word identifiers contained in that text. Note here each text is truncated or padded to a fixed length customized by users.
 +	**Relation File**: is used to store the relationship between two texts, each line containing a pair of *tids* and the corresponding label.
 +   **Detailed Input Data Format**: a detailed explaination of input data format can be found in Y-Flow/data/example/readme.md.
+
+```
+# Example: for indexing and also generating training data in document ranking: 
+  - IndriBuildIndex index.param
+  - sh generate_ranking_data.sh
+```
 
 ### Model Construction
 In the model construction module, we employ Keras library to help users build the deep matching model layer by layer conveniently. The Keras libarary provides a set of common layers widely used in neural models, such as convolutional layer, pooling layer, dense layer and so on. To further facilitate the construction of deep text matching models, we extend the Keras library to provide some layer interfaces specifically designed for text matching.
