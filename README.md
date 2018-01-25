@@ -90,8 +90,8 @@ Different text matching formats are considered in this porject for unification:
 +	**Relation File**: is used to store the relationship between two texts, each line containing a pair of *tids* and the corresponding label.
 +   **Detailed Input Data Format**: a detailed explaination of input data format can be found in Y-Flow/data/example/readme.md.
 
++  **Example: for indexing and also generating training data in document ranking: 
 ```
-# Example: for indexing and also generating training data in document ranking: 
   - IndriBuildIndex index.param
   - sh generate_ranking_data.sh
 ```
