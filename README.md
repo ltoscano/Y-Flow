@@ -2,7 +2,7 @@
 <img src="./docs/_static/images/tree-shot.png" width = "600"  alt="tree-shot" align=center />
 </div>
 
-Y-Flow is an extension for Y-Flow a toolkit for text matching. Here at Yale we are developing a system for text matching for question answering, document ranking, paraphrase identification, and machine translation. The figure above indicates a surprise language coming to our system and we are going to use zero-shot learning approaches for transfer learning particularly for syntax. 
+Y-Flow is an extension for MatchZoo <https://github.com/faneshion/MatchZoo>  toolkit for text matching. Here at Yale we are developing a system for text matching for question answering, document ranking, paraphrase identification, and machine translation. The figure above indicates a surprise language coming to our system and we are going to use zero-shot learning approaches for transfer learning particularly for syntax. 
 
 <table>
   <tr>
@@ -10,48 +10,59 @@ Y-Flow is an extension for Y-Flow a toolkit for text matching. Here at Yale we a
     <th width=20%, bgcolor=#999999>Text 1</th>
     <th width="20%", bgcolor=#999999>Text 2</th>
     <th width="20%", bgcolor=#999999>Objective</th>
+    <th width="20%", bgcolor=#999999>author</th>
   </tr>
   <tr>
     <td align="center", bgcolor=#eeeeee> Paraphrase Indentification </td>
     <td align="center", bgcolor=#eeeeee> string 1 </td>
     <td align="center", bgcolor=#eeeeee> string 2 </td>
     <td align="center", bgcolor=#eeeeee> classification </td>
+    <td align="center", bgcolor=#eeeeee> matchzoo </td>
   </tr>
   <tr>
     <td align="center", bgcolor=#eeeeee> Sentiment Analysis </td>
     <td align="center", bgcolor=#eeeeee> product </td>
     <td align="center", bgcolor=#eeeeee> review </td>
     <td align="center", bgcolor=#eeeeee> classification </td>
+    <td align="center", bgcolor=#eeeeee> yflow </td>
   </tr>
   <tr>
     <td align="center", bgcolor=#eeeeee> Sentence Matching </td>
     <td align="center", bgcolor=#eeeeee> sentence 1 </td>
     <td align="center", bgcolor=#eeeeee> sentence 2 </td>
     <td align="center", bgcolor=#eeeeee> score </td>
+     <td align="center", bgcolor=#eeeeee> yflow </td>
+
   </tr>
   <tr>
     <td align="center", bgcolor=#eeeeee> Textual Entailment </td>
     <td align="center", bgcolor=#eeeeee> text </td>
     <td align="center", bgcolor=#eeeeee> hypothesis </td>
     <td align="center", bgcolor=#eeeeee> classification </td>
+     <td align="center", bgcolor=#eeeeee> matchzoo </td>
+
   </tr>
   <tr>
     <td align="center", bgcolor=#eeeeee> Question Answer </td>
     <td align="center", bgcolor=#eeeeee> question </td>
     <td align="center", bgcolor=#eeeeee> answer </td>
     <td align="center", bgcolor=#eeeeee> classification/ranking </td>
+     <td align="center", bgcolor=#eeeeee> matchzoo </td>
+
   </tr>
   <tr>
     <td align="center", bgcolor=#eeeeee> Conversation </td>
     <td align="center", bgcolor=#eeeeee> dialog </td>
     <td align="center", bgcolor=#eeeeee> response </td>
     <td align="center", bgcolor=#eeeeee> classification/ranking </td>
+     <td align="center", bgcolor=#eeeeee> matchzoo </td>
   </tr>
   <tr>
     <td align="center", bgcolor=#eeeeee> Information Retrieval </td>
     <td align="center", bgcolor=#eeeeee> query </td>
     <td align="center", bgcolor=#eeeeee> document </td>
     <td align="center", bgcolor=#eeeeee> ranking </td>
+      <td align="center", bgcolor=#eeeeee> yflow </td>
   </tr>
 </table>
 
