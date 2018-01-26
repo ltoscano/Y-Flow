@@ -10,7 +10,7 @@ Y-Flow is an extension for MatchZoo <https://github.com/faneshion/MatchZoo>  too
     <th width=20%, bgcolor=#999999>Text 1</th>
     <th width="20%", bgcolor=#999999>Text 2</th>
     <th width="20%", bgcolor=#999999>Objective</th>
-    <th width="20%", bgcolor=#999999>licence</th>
+    <th width="20%", bgcolor=#999999>author</th>
   </tr>
   <tr>
     <td align="center", bgcolor=#eeeeee> Paraphrase Indentification </td>
@@ -24,14 +24,14 @@ Y-Flow is an extension for MatchZoo <https://github.com/faneshion/MatchZoo>  too
     <td align="center", bgcolor=#eeeeee> product </td>
     <td align="center", bgcolor=#eeeeee> review </td>
     <td align="center", bgcolor=#eeeeee> classification </td>
-    <td align="center", bgcolor=#eeeeee> matchzoo </td>
+    <td align="center", bgcolor=#eeeeee> yflow </td>
   </tr>
   <tr>
     <td align="center", bgcolor=#eeeeee> Sentence Matching </td>
     <td align="center", bgcolor=#eeeeee> sentence 1 </td>
     <td align="center", bgcolor=#eeeeee> sentence 2 </td>
     <td align="center", bgcolor=#eeeeee> score </td>
-     <td align="center", bgcolor=#eeeeee> matchzoo </td>
+     <td align="center", bgcolor=#eeeeee> yflow </td>
 
   </tr>
   <tr>
@@ -62,7 +62,7 @@ Y-Flow is an extension for MatchZoo <https://github.com/faneshion/MatchZoo>  too
     <td align="center", bgcolor=#eeeeee> query </td>
     <td align="center", bgcolor=#eeeeee> document </td>
     <td align="center", bgcolor=#eeeeee> ranking </td>
-      <td align="center", bgcolor=#eeeeee> matchzoo </td>
+      <td align="center", bgcolor=#eeeeee> yflow </td>
   </tr>
 </table>
 
