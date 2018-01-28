@@ -87,7 +87,8 @@ def main(argv):
     parser.add_argument('--collection','-c', default='en', help='language of documents [sw,tl,en]')
     parser.add_argument('--out','-o', default='en', help='output language [sw,tl,en]')
     parser.add_argument('--method','-m', default='none', help='method [mt,google,wiktionary,fastext]')
-    
+    parser.add_argument('--query_list', '-q', nargs='*',help='check query result [query Id list]')
+
     args = parser.parse_args()
 
     if args.source == 'en' and args.target == 'sw' and args.collection == 'en' and args.method == 'mt':
@@ -185,6 +186,11 @@ def main(argv):
             if qid =='all':
                 print(metric+'='+val)
     f.close()
+
+    # check result by ID
+    if args.query_list:
+
+        call(["python", "single_query_result.py", "-q", ' '.join(args.query_list)])
     return
 
 if __name__=='__main__':

@@ -117,6 +117,7 @@ python material.py -src en -tgt tl -c tl -m google
     -'--collection','-c', default='en', help='language of documents [sw,tl,en]'
     -'--out','-o', default='en', help='output language [sw,tl,en]'
     -'--method','-m', default='mt', help='method [mt,google,wiktionary,fastext]'
+    -'--query_list', '-q', nargs='*',help='check query result [query Id list]'
 
 
 
