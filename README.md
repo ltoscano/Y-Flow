@@ -111,6 +111,9 @@ python material.py -src en -tgt sw -c en -m mt
 # to trigger google translation-involoved version:
 python material.py -src en -tgt tl -c tl -m google
 
+# add query list by -q to show detailed results:
+python material.py -src en -tgt tl -c tl -m google -q query991 query306
+
 ```
     -'--source','-src', default='en', help='source language [sw,tl,en]'
     -'--target','-tgt', default='sw', help='target language [sw,tl,en]'
