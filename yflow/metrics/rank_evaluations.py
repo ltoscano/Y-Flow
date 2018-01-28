@@ -44,6 +44,8 @@ class rank_eval():
         else:
             return s / ipos
 
+    def aqwv(self,y_true,y_pred):
+
     def ndcg(self, y_true, y_pred, k = 20):
         s = 0.
         c = self.zipped(y_true, y_pred)
