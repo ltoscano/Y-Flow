@@ -213,15 +213,16 @@ def output_probs(probs, label_vocab):
 
 def Generate_random_initialization():
     if FLAGS.is_server == True:
-        configuration = [1, 2, 3, 4]
+        configuration = [1, 2, 3, 4, 5]
         #1 : attention lstm agg
         #2 : cnn stack and highway
         #3 : context self attention
         #4 : aggregation self attention
         cnf = random.choice(configuration)
-        type1 = ['w_sub_mul']
-        type2 = ['mul']
-        type3 = ['w_sub_mul']
+        FLAGS.cnf = cnf
+        type1 = ['mul']
+        type2 = ['mul', 'w_sub_mul',None]
+        type3 = [None]
         FLAGS.type1 = random.choice(type1)
         FLAGS.type2 = random.choice(type2)
         FLAGS.type3 = random.choice(type3)
@@ -229,14 +230,14 @@ def Generate_random_initialization():
         aggregation_layer_num = [1]
         FLAGS.aggregation_layer_num = random.choice(aggregation_layer_num)
         FLAGS.context_layer_num = random.choice(context_layer_num)
-        if cnf == 1  or cnf == 4:
-            is_aggregation_lstm = [True]
-        elif cnf == 2:
-            is_aggregation_lstm =  [False]
-        else: #3
-            is_aggregation_lstm = [True, False]
+        #if cnf == 1  or cnf == 4:
+        #    is_aggregation_lstm = [True]
+        #elif cnf == 2:
+        #    is_aggregation_lstm =  [False]
+        #else: #3
+        is_aggregation_lstm = [True, False]
         FLAGS.is_aggregation_lstm = random.choice(is_aggregation_lstm)
-        max_window_size = [3] #[x for x in range (1, 4, 1)]
+        max_window_size = [1] #[x for x in range (1, 4, 1)]
         FLAGS.max_window_size = random.choice(max_window_size)
 
         att_cnt = 0
@@ -263,7 +264,7 @@ def Generate_random_initialization():
             if FLAGS.max_window_size == 1:
                 aggregation_lstm_dim = [100]#[x for x in range (50, 801, 10)]
             elif FLAGS.max_window_size == 2:
-                aggregation_lstm_dim = [100, 150]#[x for x in range (50, 510, 10)]
+                aggregation_lstm_dim = [100]#[x for x in range (50, 510, 10)]
             elif FLAGS.max_window_size == 3:
                 aggregation_lstm_dim = [50]#[x for x in range (50, 410, 10)]
             elif FLAGS.max_window_size == 4:
@@ -272,7 +273,7 @@ def Generate_random_initialization():
                 aggregation_lstm_dim = [x for x in range (50, 110, 10)]
 
 
-        MP_dim = [20]#[x for x in range (20, 610, 10)]
+        MP_dim = [20,50,100]#[x for x in range (20, 610, 10)]
         #batch_size = [x for x in range (30, 80, 10)] we can not determine batch_size here
         learning_rate = [0.002]#[0.001, 0.002, 0.003, 0.004]
         dropout_rate = [0.04]#[x/100.0 for x in xrange (2, 30, 2)]
@@ -287,23 +288,23 @@ def Generate_random_initialization():
         is_shared_attention = [False, True]
         modify_loss = [0.1]#[x/10.0 for x in range (0, 5, 1)]
         prediction_mode = ['list_wise']
-        if cnf == 2:
-            unstack_cnn = [False, True]
+        #if cnf == 2:
+        unstack_cnn = [False, True]
+        #else:
+        #    unstack_cnn = [False, True]
+        with_highway = [False]
+        if FLAGS.is_aggregation_lstm == False:
+            with_match_highway = [True, False]
         else:
-            unstack_cnn = [False, True]
-        with_match_highway = [False]
-        if cnf == 2 or cnf == 3:
-            with_highway = [True, False]
-        else:
-            with_highway = [False]
+            with_match_highway = [False]
         with_aggregation_highway = [False]
         highway_layer_num = [1]
         is_aggregation_siamese = [False, True]
 
-        if cnf == 1:
-            attention_type = ['bilinear', 'linear', 'linear_p_bias', 'dot_product']
-        else:
-            attention_type = ['bilinear']
+        #if cnf == 1:
+        attention_type = ['bilinear', 'linear', 'linear_p_bias', 'dot_product']
+        #else:
+        #attention_type = ['bilinear']
         if cnf == 3:
             with_context_self_attention = [False, True]
         else:
@@ -666,7 +667,7 @@ if __name__ == '__main__':
     parser.add_argument('--word_vec_path', type=str, default='../data/glove/glove.6B.50d.txt', help='Path the to pre-trained word vector model.')
     #parser.add_argument('--word_vec_path', type=str, default='../data/glove/glove.840B.300d.txt', help='Path the to pre-trained word vector model.')
     parser.add_argument('--is_server',default=True, help='loop: ranom initalizaion of parameters -> run ?')
-    parser.add_argument('--max_epochs', type=int, default=10, help='Maximum epochs for training.')
+    parser.add_argument('--max_epochs', type=int, default=13, help='Maximum epochs for training.')
     parser.add_argument('--attention_type', default='linear_p_bias', help='[bilinear, linear, linear_p_bias, dot_product]', action='store_true')
 
 
