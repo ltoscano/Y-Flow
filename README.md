@@ -185,7 +185,7 @@ python material.py -src en -tgt tl -c tl -m google -q query991 query306
 Development Teams
 ====
 - **Caitlin Westerfield**
-    - Yale university, transfehttpsr learning
+    - Yale university, transfer learning
     - [GitHub](https://github.com/CMWesterfield16)
     
 ## Environment
