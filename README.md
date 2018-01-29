@@ -182,7 +182,12 @@ python material.py -src en -tgt tl -c tl -m google -q query991 query306
 
 <a href="https://arxiv.org/abs/1604.04378">Match-SRNN</a>, <a href="https://arxiv.org/abs/1710.05649">DeepRank</a>, <a href="https://arxiv.org/abs/1706.06613">K-NRM</a> ....
 
-
+Development Teams
+====
+- **Caitlin Westerfield**
+    - Yale university, transfehttpsr learning
+    - [GitHub](https://github.com/CMWesterfield16)
+    
 ## Environment
 * python2.7+
 * tensorflow 1.4.1+
