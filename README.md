@@ -12,6 +12,13 @@ Y-Flow is an extension for MatchZoo <https://github.com/faneshion/MatchZoo>  too
     <th width="20%", bgcolor=#999999>Objective</th>
     <th width="20%", bgcolor=#999999>author</th>
   </tr>
+    <tr>
+    <td align="center", bgcolor=#eeeeee> Transfer Learning </td>
+    <td align="center", bgcolor=#eeeeee> ranking 1 </td>
+    <td align="center", bgcolor=#eeeeee> ranking 2 </td>
+    <td align="center", bgcolor=#eeeeee> ranking </td>
+    <td align="center", bgcolor=#eeeeee> yflow </td>
+  </tr>
   <tr>
     <td align="center", bgcolor=#eeeeee> Paraphrase Indentification </td>
     <td align="center", bgcolor=#eeeeee> string 1 </td>
