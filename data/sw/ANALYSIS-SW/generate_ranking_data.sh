@@ -14,7 +14,7 @@ fi
 
 python src/trans.py --src_lang en --tgt_lang sw --query ../topics/en.t --tquery qmodel/fastext --model multi --src_emb ../../multi/wiki.en.sw.vec --tgt_emb ../../multi/wiki.sw.vec --dico_train ../../dictionary/en-sw.txt 
 IndriRunQuery qmodel/fastext -index=index/ -count=20 -trecFormat=true > result/result.first
-python param/trim_result.py # generate result.file
+python param/trim_local_result.py # generate result.file
 rm result/result.first
 
 python sample.py
