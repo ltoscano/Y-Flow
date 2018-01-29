@@ -187,9 +187,11 @@ def main(argv):
                 print(metric+'='+val)
     f.close()
 
+    result_name="results/"+'_'.join(sys.argv[1:])+'.txt'
+    call(["cp","eval.test.duet_ranking.txt",result_name])
+    print('Result txt file saved in',result_name)
     # check result by ID
     if args.query_list:
-
         call(["python", "single_query_result.py", "-q", ' '.join(args.query_list)])
     return
 
