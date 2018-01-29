@@ -12,6 +12,13 @@ Y-Flow is an extension for MatchZoo <https://github.com/faneshion/MatchZoo>  too
     <th width="20%", bgcolor=#999999>Objective</th>
     <th width="20%", bgcolor=#999999>author</th>
   </tr>
+    <tr>
+    <td align="center", bgcolor=#eeeeee> Transfer Learning </td>
+    <td align="center", bgcolor=#eeeeee> ranking 1 </td>
+    <td align="center", bgcolor=#eeeeee> ranking 2 </td>
+    <td align="center", bgcolor=#eeeeee> ranking </td>
+    <td align="center", bgcolor=#eeeeee> yflow </td>
+  </tr>
   <tr>
     <td align="center", bgcolor=#eeeeee> Paraphrase Indentification </td>
     <td align="center", bgcolor=#eeeeee> string 1 </td>
@@ -175,7 +182,12 @@ python material.py -src en -tgt tl -c tl -m google -q query991 query306
 
 <a href="https://arxiv.org/abs/1604.04378">Match-SRNN</a>, <a href="https://arxiv.org/abs/1710.05649">DeepRank</a>, <a href="https://arxiv.org/abs/1706.06613">K-NRM</a> ....
 
-
+Development Teams
+====
+- **Caitlin Westerfield**
+    - Yale University, Transfer Learning
+    - [GitHub](https://github.com/CMWesterfield16)
+    
 ## Environment
 * python2.7+
 * tensorflow 1.4.1+
