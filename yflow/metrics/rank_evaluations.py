@@ -45,6 +45,19 @@ class rank_eval():
             return s / ipos
 
     def aqwv(self,y_true,y_pred):
+        beta = 40 
+        c = self.zipped(y_true, y_pred)
+        c = sorted(c, key=lambda x:x[1], reverse=True)
+        ipos = 0.
+        s = 0.
+        for i, (g,p) in enumerate(c):
+            if g > self.rel_threshold:
+                ipos += 1.
+                s += ipos / ( 1. + i )
+        if ipos == 0:
+            return 0.
+        else:
+            return s / ipos
 
     def ndcg(self, y_true, y_pred, k = 20):
         s = 0.
