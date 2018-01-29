@@ -29,30 +29,6 @@ def map(y_true, y_pred, rel_threshold=0):
         s /= ipos
     return s
 
-def aqwv(y_true, y_pred, rel_threshold=0):
-    beta = 20.
-    p_miss = 0.
-    p_fa = 1.
-
-    #s = 0.
-    #y_true = _to_list(np.squeeze(y_true).tolist())
-    #y_pred = _to_list(np.squeeze(y_pred).tolist())
-    #c = list(zip(y_true, y_pred))
-    #random.shuffle(c)
-    #c = sorted(c, key=lambda x:x[1], reverse=True)
-    #ipos = 0
-    #for j, (g, p) in enumerate(c):
-    #    if g > rel_threshold:
-    #        ipos += 1.
-    #        s += ipos / ( j + 1.)
-    #if ipos == 0:
-    #    s = 0.
-    #else:
-    #    s /= ipos
-    #return s
-
-    return 1 - p_miss - beta * p_fa
-
 def mrr(y_true, y_pred, rel_threshold = 0.):
     k = 10
     s = 0.
