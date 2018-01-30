@@ -164,7 +164,8 @@ Development Teams
 |**Caitlin Westerfield**|  Yale University | Transfer Learning | [GitHub](https://github.com/CMWesterfield16)|
 |**Gaurav Pathak**|  Yale University | Zero-shot Learning | [GitHub](https://github.com/GauravPathakYale)|
 |**Javid Dadashkarimi**|  Yale University | Organizer | [GitHub](https://github.com/dadashkarimi)|
-    
+|**Dragomir Radev**|  Yale University | Adviser | [GitHub](https://github.com/Yale-LILY)|
+
 ## Environment
 * python2.7+
 * tensorflow 1.4.1+
