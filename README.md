@@ -161,36 +161,9 @@ Development Teams
 |author|affiliation| Task | page |
 | --- | --- | --- | --- |
 |**Irene Li**|  Yale University | Information Retrieval | [GitHub](https://github.com/IreneZihuiLi)|
-
-<table>
-  <tr>
-    <th width=50%> 
-     **Irene Li**
-     Yale University, Information Retrieval
-    [GitHub](https://github.com/IreneZihuiLi)
-    </th> 
-    <th width=50%>
-    - **Caitlin Westerfield**
-    - Yale University, Transfer Learning
-    - [GitHub](https://github.com/CMWesterfield16)
-    </th>
-  </tr>
-</table>
-- **Irene Li**
-    - Yale University, Information Retrieval
-    - [GitHub](https://github.com/IreneZihuiLi)
-    
-- **Caitlin Westerfield**
-    - Yale University, Transfer Learning
-    - [GitHub](https://github.com/CMWesterfield16)
-    
-- **Gaurav Pathak**
-    - Yale University, Zero-shot Learning
-    - [GitHub](https://github.com/GauravPathakYale)
-   
- - **Javid Dadashkarimi**
-    - Yale University, mentor 
-    - [GitHub](https://github.com/dadashkarimi)
+|**Caitlin Westerfield**|  Yale University | Information Retrieval | [GitHub](https://github.com/CMWesterfield16)|
+|**Gaurav Pathak**|  Yale University | Information Retrieval | [GitHub](https://github.com/GauravPathakYale)|
+|**Javid Dadashkarimi**|  Yale University | Organizer | [GitHub](https://github.com/dadashkarimi)|
     
 ## Environment
 * python2.7+
