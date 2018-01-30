@@ -158,7 +158,7 @@ python material.py -src en -tgt tl -c tl -m google -q query991 query306
 
 Development Teams
 ====
-|ddd|ddd|
+|||
 | --- | --- |
 |[GitHub](https://github.com/IreneZihuiLi)|dd|
 <table>
