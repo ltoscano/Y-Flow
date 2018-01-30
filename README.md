@@ -158,15 +158,15 @@ python material.py -src en -tgt tl -c tl -m google -q query991 query306
 
 Development Teams
 ====
-
+|ddd|ddd|
 | --- | --- |
 |ddd|dd|
 <table>
   <tr>
     <th width=50%> 
-    - **Irene Li**
-    - Yale University, Information Retrieval
-    - [GitHub](https://github.com/IreneZihuiLi)
+     **Irene Li**
+     Yale University, Information Retrieval
+    [GitHub](https://github.com/IreneZihuiLi)
     </th> 
     <th width=50%>
     - **Caitlin Westerfield**
