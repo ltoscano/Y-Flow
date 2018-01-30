@@ -161,8 +161,8 @@ Development Teams
 |author|affiliation| Task | page |
 | --- | --- | --- | --- |
 |**Irene Li**|  Yale University | Information Retrieval | [GitHub](https://github.com/IreneZihuiLi)|
-|**Caitlin Westerfield**|  Yale University | Information Retrieval | [GitHub](https://github.com/CMWesterfield16)|
-|**Gaurav Pathak**|  Yale University | Information Retrieval | [GitHub](https://github.com/GauravPathakYale)|
+|**Caitlin Westerfield**|  Yale University | Transfer Learning | [GitHub](https://github.com/CMWesterfield16)|
+|**Gaurav Pathak**|  Yale University | Zero-shot Learning | [GitHub](https://github.com/GauravPathakYale)|
 |**Javid Dadashkarimi**|  Yale University | Organizer | [GitHub](https://github.com/dadashkarimi)|
     
 ## Environment
