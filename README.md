@@ -160,13 +160,13 @@ Development Teams
 ====
 <table>
   <tr>
-    <th width=50%, bgcolor=#999999> 
-    - **Irene Li**
+    <th width=50%> 
+    - **Irene Li
     - Yale University, Information Retrieval
     - [GitHub](https://github.com/IreneZihuiLi)
     </th> 
-    <th width=50%, bgcolor=#999999>
-    - **Caitlin Westerfield**
+    <th width=50%>
+    - **Caitlin Westerfield
     - Yale University, Transfer Learning
     - [GitHub](https://github.com/CMWesterfield16)
     </th>
