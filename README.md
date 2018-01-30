@@ -184,9 +184,21 @@ python material.py -src en -tgt tl -c tl -m google -q query991 query306
 
 Development Teams
 ====
+- **Irene Li**
+    - Irene Li, Information Retrieval
+    - [GitHub](https://github.com/IreneZihuiLi)
+    
 - **Caitlin Westerfield**
     - Yale University, Transfer Learning
     - [GitHub](https://github.com/CMWesterfield16)
+    
+- **Gaurav Pathak**
+    - Yale University, Zero-shot Learning
+    - [GitHub](https://github.com/GauravPathakYale)
+   
+ - **Javid Dadashkarimi**
+    - Yale University, mentor 
+    - [GitHub](https://github.com/dadashkarimi)
     
 ## Environment
 * python2.7+
