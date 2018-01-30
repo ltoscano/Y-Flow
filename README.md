@@ -158,8 +158,22 @@ python material.py -src en -tgt tl -c tl -m google -q query991 query306
 
 Development Teams
 ====
+<table>
+  <tr>
+    <th width=50%, bgcolor=#999999> 
+    - **Irene Li**
+    - Yale University, Information Retrieval
+    - [GitHub](https://github.com/IreneZihuiLi)
+    </th> 
+    <th width=50%, bgcolor=#999999>
+    - **Caitlin Westerfield**
+    - Yale University, Transfer Learning
+    - [GitHub](https://github.com/CMWesterfield16)
+    </th>
+  </tr>
+</table>
 - **Irene Li**
-    - Irene Li, Information Retrieval
+    - Yale University, Information Retrieval
     - [GitHub](https://github.com/IreneZihuiLi)
     
 - **Caitlin Westerfield**
