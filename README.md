@@ -158,9 +158,10 @@ python material.py -src en -tgt tl -c tl -m google -q query991 query306
 
 Development Teams
 ====
-|||
-| --- | --- |
-|[GitHub](https://github.com/IreneZihuiLi)|dd|
+|author|affiliation| Task | page |
+| --- | --- | --- | --- |
+|**Irene Li**|  Yale University | Information Retrieval | [GitHub](https://github.com/IreneZihuiLi)|
+
 <table>
   <tr>
     <th width=50%> 
