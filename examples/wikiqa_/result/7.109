@@ -1,0 +1,55 @@
+Namespace(MP_dim=20, NER_dim=20, POS_dim=20, aggregation_layer_num=1, aggregation_lstm_dim=50, attention_type='bilinear', batch_size=40, char_emb_dim=40, char_lstm_dim=80, cnf=5, context_layer_num=1, context_lstm_dim=50, dev_path='../data/wikiqa/WikiQACorpus/WikiQA-dev.txt', dropout_rate=0.04, fix_word_vec=True, highway_layer_num=1, is_aggregation_lstm=True, is_aggregation_siamese=False, is_answer_selection=True, is_server=True, is_shared_attention=True, lambda_l2=0.0, learning_rate=0.002, lex_decompsition_dim=-1, max_char_per_word=10, max_epochs=13, max_sent_length=100, max_window_size=1, model_dir='../models', modify_loss=0.1, optimize_type='adam', prediction_mode='list_wise', suffix='normal', test_path='../data/wikiqa/WikiQACorpus/WikiQA-test.txt', train_path='../data/wikiqa/WikiQACorpus/WikiQA-train.txt', type1='mul', type2='w_sub_mul', type3=None, unstack_cnn=True, with_NER=False, with_POS=False, with_aggregation_highway=False, with_context_self_attention=False, with_filter_layer=False, with_highway=False, with_lex_decomposition=False, with_match_highway=False, wo_agg_self_att=True, wo_attentive_match=True, wo_char=True, wo_full_match=True, wo_left_match=False, wo_lstm_drop_out=True, wo_max_attentive_match=True, wo_maxpool_match=True, wo_right_match=False, word_level_MP_dim=-1, word_vec_path='../data/glove/glove.6B.50d.txt')
+
+Step 272: loss = 925.05 (89.056 sec)
+valid- map: '0.637360137658', mrr: '0.638041984471'
+test- map: '0.60724056893', mrr: '0.617089814621
+
+Step 545: loss = 825.84 (97.086 sec)
+valid- map: '0.648722716877', mrr: '0.650368282511'
+test- map: '0.604226527086', mrr: '0.616024325767
+
+Step 818: loss = 766.31 (97.389 sec)
+valid- map: '0.658277535956', mrr: '0.670360239408'
+test- map: '0.617621593277', mrr: '0.626979446501
+
+Step 1091: loss = 742.32 (98.068 sec)
+valid- map: '0.646389578235', mrr: '0.654506890816'
+test- map: '0.635790730122', mrr: '0.644472218991
+
+Step 1364: loss = 638.73 (97.527 sec)
+valid- map: '0.648736977308', mrr: '0.656366417974'
+test- map: '0.644277883014', mrr: '0.654421464452
+
+Step 1637: loss = 570.83 (97.638 sec)
+valid- map: '0.685016691862', mrr: '0.692425673973'
+test- map: '0.673448551515', mrr: '0.681203170401
+
+Step 1910: loss = 471.44 (97.190 sec)
+valid- map: '0.69097623056', mrr: '0.697667147667'
+test- map: '0.667857469072', mrr: '0.678311777386
+
+Step 2183: loss = 389.45 (98.289 sec)
+valid- map: '0.701809334845', mrr: '0.710405643739'
+test- map: '0.69154810482', mrr: '0.703102795695
+
+Step 2456: loss = 348.72 (97.863 sec)
+valid- map: '0.709128845141', mrr: '0.713032536247'
+test- map: '0.689576546714', mrr: '0.694631797101
+
+Step 2729: loss = 306.65 (98.462 sec)
+valid- map: '0.671285845988', mrr: '0.675208433542'
+test- map: '0.65835741291', mrr: '0.669259356508
+
+Step 3002: loss = 284.67 (97.786 sec)
+valid- map: '0.696986431025', mrr: '0.700902719762'
+test- map: '0.665282035246', mrr: '0.670272537248
+
+Step 3275: loss = 210.96 (97.834 sec)
+valid- map: '0.694934177375', mrr: '0.697231670446'
+test- map: '0.67553453491', mrr: '0.680913633691
+
+Step 3548: loss = 153.93 (98.373 sec)
+valid- map: '0.720490939836', mrr: '0.722290826457'
+test- map: '0.664757996378', mrr: '0.675050216311
+
+train- map: '0.951668633059', mrr: '0.959182894234'
