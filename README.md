@@ -158,7 +158,7 @@ python material.py -src en -tgt tl -c tl -m google -q query991 query306
 
 Development Teams
 ====
-|author|affiliation| task | page |
+| author | affiliation | task | page |
 | --- | --- | --- | --- |
 |**Irene Li**|  Yale University | Information Retrieval | [GitHub](https://github.com/IreneZihuiLi)|
 |**Caitlin Westerfield**|  Yale University | Transfer Learning | [GitHub](https://github.com/CMWesterfield16)|
