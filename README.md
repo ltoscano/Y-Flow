@@ -12,6 +12,13 @@ Y-Flow is an extension for MatchZoo <https://github.com/faneshion/MatchZoo>  too
     <th width="20%", bgcolor=#999999>Objective</th>
     <th width="20%", bgcolor=#999999>author</th>
   </tr>
+    <tr>
+    <td align="center", bgcolor=#eeeeee> Transfer Learning </td>
+    <td align="center", bgcolor=#eeeeee> ranking 1 </td>
+    <td align="center", bgcolor=#eeeeee> ranking 2 </td>
+    <td align="center", bgcolor=#eeeeee> ranking </td>
+    <td align="center", bgcolor=#eeeeee> yflow </td>
+  </tr>
   <tr>
     <td align="center", bgcolor=#eeeeee> Paraphrase Indentification </td>
     <td align="center", bgcolor=#eeeeee> string 1 </td>
@@ -128,53 +135,36 @@ python material.py -src en -tgt tl -c tl -m google -q query991 query306
 
 1. DRMM : this model is an implementation of <a href="http://www.bigdatalab.ac.cn/~gjf/papers/2016/CIKM2016a_guo.pdf">A Deep Relevance Matching Model for Ad-hoc Retrieval</a>.
 
-- model file: models/drmm.py
-- model config: models/drmm_ranking.config
-
 2. MatchPyramid : this model is an implementation of <a href="https://arxiv.org/abs/1602.06359"> Text Matching as Image Recognition</a>
-
-- model file: models/matchpyramid.py
-- model config: models/matchpyramid_ranking.config
 
 3. ARC-I : this model is an implementation of <a href="https://arxiv.org/abs/1503.03244">Convolutional Neural Network Architectures for Matching Natural Language Sentences</a>
 
-- model file: models/arci.py
-- model config: models/arci_ranking.config
-
 4. DSSM : this model is an implementation of <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf">Learning Deep Structured Semantic Models for Web Search using Clickthrough Data</a>
-
-- model file: models/dssm.py
-- model config: models/dssm_ranking.config
 
 5. CDSSM : this model is an implementation of <a href="https://www.microsoft.com/en-us/research/publication/learning-semantic-representations-using-convolutional-neural-networks-for-web-search/">Learning Semantic Representations Using Convolutional Neural Networks for Web Search</a>
 
-- model file: models/cdssm.py
-- model config: models/cdssm_ranking.config
-
 6. ARC-II : this model is an implementation of <a href="https://arxiv.org/abs/1503.03244">Convolutional Neural Network Architectures for Matching Natural Language Sentences</a>
-
-- model file: models/arcii.py
-- model config: models/arcii_ranking.config
 
 7. MV-LSTM : this model is an implementation of <a href="https://arxiv.org/abs/1511.08277">A Deep Architecture for Semantic Matching with Multiple Positional Sentence Representations</a>
 
-- model file: models/mvlstm.py
-- model config: models/mvlstm_ranking.config
-
 8. aNMM : this model is an implementation of <a href="http://maroo.cs.umass.edu/pub/web/getpdf.php?id=1240">aNMM: Ranking Short Answer Texts with Attention-Based Neural Matching Model</a>
-- model file: models/anmm.py
-- model config: models/anmm_ranking.config
 
 
 9. DUET : this model is an implementation of <a href="https://dl.acm.org/citation.cfm?id=3052579">Learning to Match Using Local and Distributed Representations of Text for Web Search</a>
-
-- model file: models/duet.py
-- model config: models/duet_ranking.config
 
 10. models under development:
 
 <a href="https://arxiv.org/abs/1604.04378">Match-SRNN</a>, <a href="https://arxiv.org/abs/1710.05649">DeepRank</a>, <a href="https://arxiv.org/abs/1706.06613">K-NRM</a> ....
 
+Development Teams
+====
+| author | affiliation | task | page |
+| --- | --- | --- | --- |
+|**Irene Li**|  Yale University | Information Retrieval | [GitHub](https://github.com/IreneZihuiLi)|
+|**Caitlin Westerfield**|  Yale University | Transfer Learning | [GitHub](https://github.com/CMWesterfield16)|
+|**Gaurav Pathak**|  Yale University | Zero-shot Learning | [GitHub](https://github.com/GauravPathakYale)|
+|**Javid Dadashkarimi**|  Yale University | Organizer | [GitHub](https://github.com/dadashkarimi)|
+|**Dragomir Radev**|  Yale University | Adviser | [GitHub](https://github.com/Yale-LILY)|
 
 ## Environment
 * python2.7+
