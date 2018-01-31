@@ -85,6 +85,8 @@ export TF_CPP_MIN_LOG_LEVEL=2
 In the main directory, this will install the dependencies automatically.
 Or run the following to run the dependencies:`pip install -r requirements.txt`.
 
+Then install [trec_eval](http://trec.nist.gov/trec_eval/) for runnning the system.
+Visit [IndriBuildIndex](https://www.lemurproject.org/lemur/indexing.php#IndriBuildIndex) to install IndriBuildIndex application.
 
 ### Data Preparation
 Different text matching formats are considered in this porject for unification:
