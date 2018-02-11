@@ -88,6 +88,7 @@ def main(argv):
     parser.add_argument('--out','-o', default='en', help='output language [sw,tl,en]')
     parser.add_argument('--method','-m', default='none', help='method [mt,google,wiktionary,fastext]')
     parser.add_argument('--query_list', '-q', nargs='*',help='check query result [query Id list]')
+    parser.add_argument('--phase', default='train', help='Phase: Can be train or predict, the default value is train.')
 
     args = parser.parse_args()
 
@@ -97,44 +98,48 @@ def main(argv):
             with open(model_file, 'r') as f:
                 config = json.load(f)
             crossval(config,i)
-            call(["python", "yflow/main.py", "--phase", "train" ,"--model_file", model_file]) # _en,_tl,_sw
-            call(["python", "yflow/main.py" ,"--phase", "predict", "--model_file", model_file]) # _en, _tl,_sw
+            if args.phase == 'train':
+                call(["python", "yflow/main.py", "--phase", "train" ,"--model_file", model_file, "--fold", str(i)]) # _en,_tl,_sw
+            call(["python", "yflow/main.py" ,"--phase", "predict", "--model_file", model_file, "--fold", str(i)]) # _en, _tl,_sw
             call(["mv", "predict.test.duet_ranking.txt","predict."+str(i)+".txt"])
-	call("cat predict.0* > predict.test.duet_ranking.txt",shell=True)
-	call("rm predict.0*",shell=True)
+        call("cat predict.0* > predict.test.duet_ranking.txt",shell=True)
+        call("rm predict.0*",shell=True)
     elif args.source == 'en' and args.target == 'tl' and args.collection == 'en' and args.method == 'mt':
         for  i in {0.0,0.2,0.4,0.6,0.8}:
             model_file ="examples/tl/config/duet_ranking_en.config"
             with open(model_file, 'r') as f:
                 config = json.load(f)
             crossval(config,i)
-            call(["python", "yflow/main.py", "--phase", "train" ,"--model_file", model_file]) # _en,_tl,_sw
-            call(["python", "yflow/main.py" ,"--phase", "predict", "--model_file", model_file]) # _en, _tl,_sw
+            if args.phase == 'train':
+                call(["python", "yflow/main.py", "--phase", "train" ,"--model_file", model_file, "--fold", str(i)]) # _en,_tl,_sw
+            call(["python", "yflow/main.py" ,"--phase", "predict", "--model_file", model_file, "--fold", str(i)]) # _en, _tl,_sw
             call(["mv", "predict.test.duet_ranking.txt","predict."+str(i)+".txt"])
-	call("cat predict.0* > predict.test.duet_ranking.txt",shell=True)
-	call("rm predict.0*",shell=True)
+        call("cat predict.0* > predict.test.duet_ranking.txt",shell=True)
+        call("rm predict.0*",shell=True)
     elif args.source == 'en' and args.target == 'sw' and args.collection == 'sw' and args.method == 'fastext':
         for  i in tqdm({0.0,0.2,0.4,0.6,0.8}):
             model_file ="examples/sw/config/duet_ranking_sw.config"
             with open(model_file, 'r') as f:
                 config = json.load(f)
             crossval(config,i)
-            call(["python", "yflow/main.py", "--phase", "train" ,"--model_file",model_file]) # _en,_tl,_sw
-            call(["python", "yflow/main.py" ,"--phase", "predict", "--model_file",model_file]) # _en, _tl,_sw
+            if args.phase == 'train':
+                call(["python", "yflow/main.py", "--phase", "train" ,"--model_file",model_file, "--fold", str(i)]) # _en,_tl,_sw
+            call(["python", "yflow/main.py" ,"--phase", "predict", "--model_file",model_file, "--fold", str(i)]) # _en, _tl,_sw
             call(["mv", "predict.test.duet_ranking.txt","predict."+str(i)+".txt"])
-	call("cat predict.0* > predict.test.duet_ranking.txt",shell=True)
-	call("rm predict.0*",shell=True)
+        call("cat predict.0* > predict.test.duet_ranking.txt",shell=True)
+        call("rm predict.0*",shell=True)
     elif args.source == 'en' and args.target == 'tl' and args.collection == 'tl' and args.method == 'fastext':
         for  i in {0.0,0.2,0.4,0.6,0.8}:
             model_file ="examples/tl/config/duet_ranking_tl.config"
             with open(model_file, 'r') as f:
                 config = json.load(f)
             crossval(config,i)
-            call(["python", "yflow/main.py", "--phase", "train" ,"--model_file", model_file]) # _en,_tl,_sw
-            call(["python", "yflow/main.py" ,"--phase", "predict", "--model_file", model_file]) # _en, _tl,_sw
+            if args.phase == 'train':
+                call(["python", "yflow/main.py", "--phase", "train" ,"--model_file", model_file, "--fold", str(i)]) # _en,_tl,_sw
+            call(["python", "yflow/main.py" ,"--phase", "predict", "--model_file", model_file, "--fold", str(i)]) # _en, _tl,_sw
             call(["mv", "predict.test.duet_ranking.txt","predict."+str(i)+".txt"])
-	call("cat predict.0* > predict.test.duet_ranking.txt",shell=True)
-	call("rm predict.0*",shell=True)
+        call("cat predict.0* > predict.test.duet_ranking.txt",shell=True)
+        call("rm predict.0*",shell=True)
     elif args.source == 'en' and args.target == 'sw' and args.collection == 'sw' and args.method == 'google':
         model_file ="examples/sw/config/duet_ranking_google.config"
         with open(model_file, 'r') as f:
@@ -187,7 +192,7 @@ def main(argv):
                 print(metric+'='+val)
     f.close()
 
-    result_name="results/"+'_'.join(sys.argv[1:])+'.txt'
+    result_name="results/"+'_'.join(sys.argv[1:])[1:]+'.txt'
     call(["cp","eval.test.duet_ranking.txt",result_name])
     print('Result txt file saved in',result_name)
     # check result by ID
