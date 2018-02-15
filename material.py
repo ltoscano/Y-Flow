@@ -193,7 +193,8 @@ def main(argv):
     f.close()
 
     result_name="results/"+'_'.join(sys.argv[1:])[1:]+'.txt'
-    call(["cp","eval.test.duet_ranking.txt",result_name])
+    call(["cp","eval.test.duet_ranking.txt",result_name+"_eval"])
+    call(["cp","predict.test.duet_ranking.txt",result_name+"_predict"])
     print('Result txt file saved in',result_name)
     # check result by ID
     if args.query_list:
