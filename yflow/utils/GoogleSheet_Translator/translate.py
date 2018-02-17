@@ -14,11 +14,6 @@ def main(argv):
         print("Usage: translate.py [source language] [target language] [txt filename]")
         return
 
-    """
-    Creates a Sheets API service object and prints the names and majors of
-    students in a sample spreadsheet:
-    https://docs.google.com/spreadsheets/d/17EJkhCG_EnPFVfg6x-ghlchG-ieA2suPPJDE-2pdtp4/edit
-    """
     credentials = get_credentials()
     http = credentials.authorize(httplib2.Http())
     discoveryUrl = ('https://sheets.googleapis.com/$discovery/rest?'
