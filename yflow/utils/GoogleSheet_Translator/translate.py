@@ -11,7 +11,7 @@ from read_words import read_words
 def main(argv):
 
     if len(argv) != 4:
-        print("Usage: index.py originalLanguage translationLanguage fileName.csv")
+        print("Usage: translate.py [source language] [target language] [txt filename]")
         return
 
     """
