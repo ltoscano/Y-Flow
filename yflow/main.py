@@ -42,7 +42,7 @@ def load_model(config):
     return mo
 
 
-def train(config):
+def train(config, fold):
 
     #print(json.dumps(config, indent=2), end='\n')
     # read basic config
@@ -175,9 +175,9 @@ def train(config):
             print('Iter:%d\t%s' % (i_e, '\t'.join(['%s=%f'%(k,v/num_valid) for k, v in res.items()])), end='\n')
             sys.stdout.flush()
         if (i_e+1) % save_weights_iters == 0:
-            model.save_weights(weights_file % (i_e+1))
+            model.save_weights(weights_file % (i_e+1) + '.fold' + str(fold))
 
-def predict(config):
+def predict(config, fold):
     ######## Read input config ########
 
     #print(json.dumps(config, indent=2), end='\n')
@@ -239,7 +239,7 @@ def predict(config):
 
     ######## Load Model ########
     global_conf = config["global"]
-    weights_file = str(global_conf['weights_file']) + '.' + str(global_conf['test_weights_iters'])
+    weights_file = str(global_conf['weights_file']) + '.' + str(global_conf['test_weights_iters']) + '.fold' + str(fold)
 
     model = load_model(config)
     model.load_weights(weights_file)
@@ -311,15 +311,16 @@ def main(argv):
     parser = argparse.ArgumentParser()
     parser.add_argument('--phase', default='train', help='Phase: Can be train or predict, the default value is train.')
     parser.add_argument('--model_file', default='./models/arci.config', help='Model_file: Y-Flow model file for the chosen model.')
+    parser.add_argument('--fold', type=float, default=0.0, help='')
     args = parser.parse_args()
     model_file =  args.model_file
     with open(model_file, 'r') as f:
         config = json.load(f)
     phase = args.phase
     if args.phase == 'train':
-        train(config)
+        train(config, args.fold)
     elif args.phase == 'predict':
-        predict(config)
+        predict(config, args.fold)
     else:
         print('Phase Error.', end='\n')
     return
