@@ -92,9 +92,20 @@ def main(argv):
     args = parser.parse_args()
 
     #Portion I added for tl to tl test case, since no previous code for sources from tl
-    if args.source == 'tl' and args.target == 'tl' and args.collection == 'tl' and args.method == 'mt':
+    if args.source == 'tl' and args.target == 'tl' and args.collection == 'en' and args.method == 'm':
         for  i in {0.0,0.2,0.4,0.6,0.8}:
             model_file ="examples/SurpriseRet/tl/config/duet_ranking_tl.config"
+            with open(model_file, 'r') as f:
+                config = json.load(f)
+            crossval(config,i)
+            call(["python", "yflow/main.py", "--phase", "train" ,"--model_file", model_file]) # _en,_tl,_sw
+            call(["python", "yflow/main.py" ,"--phase", "predict", "--model_file", model_file]) # _en, _tl,_sw
+            call(["mv", "predict.test.duet_ranking.txt","predict."+str(i)+".txt"])
+        call("cat predict.0* > predict.test.duet_ranking.txt",shell=True)
+        call("rm predict.0*",shell=True)
+    elif args.source == 'tl' and args.target == 'sw' and args.collection == 'en' and args.method == 'm':
+        for  i in {0.0,0.2,0.4,0.6,0.8}:
+            model_file ="examples/SurpriseRet/transfer/config/duet_ranking_tl_sw.config"
             with open(model_file, 'r') as f:
                 config = json.load(f)
             crossval(config,i)
