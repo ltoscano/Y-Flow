@@ -1,8 +1,8 @@
 <parameters>
-    <index>index/</index>
+    <index>index-sw/</index>
     <memory>10G</memory>
     <corpus>
-      <path>docs/</path>
+      <path>docs-sw/</path>
       <class>text</class>
     </corpus>
 </parameters>
