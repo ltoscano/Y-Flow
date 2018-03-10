@@ -1,8 +1,0 @@
-<parameters>
-    <index>index/</index>
-    <memory>10G</memory>
-    <corpus>
-      <path>docs/</path>
-      <class>text</class>
-    </corpus>
-</parameters>

@@ -1,5 +1,0 @@
-<1>	(0.000-4.610)	<sta> naging makulay at maningning ang gala night ng musical na Mama Mia kagabi .	the gala night of the musical Mama Mia last night was colorful and bright .
-<2>	(4.610-10.660)	<sta> pinangunahan ni A_B_S-C_B_N chairman Gabby Lopez ang mga high profile personalities na dumalo sa event .	the high profile personalities who attended the event were led by A_B_S-C_B_N Chairman Gabby Lopez .
-<3>	(10.660-18.280)	<sta> present rin ang mga kapamilya stars gaya nina K_C Conception Kathryn Bernardo Diether Ocampo at Agot Isidro sa gala night .	Kapamilya stars like K_C Conception Kathryn Bernardo Deither Ocampo and Agot Isidro were also present in the gala night .
-<4>	(18.280-25.390)	<sta> mas lalo pang tumingkad ang event nang dumalo ang mga pinoy international stars na sina Lea Salonga at Arnel Pineda .	the event became even brighter when the Filipino international stars Lea Salonga and Arnel Pineda came .
-<5>	(25.390-33.066)	<sta> nagsimula ang musical noong Martes a bente-kuwatro ng Enero at tatagal hanggang sa susunod na buwan sa C_C_P .	the musical started last Tuesday January twenty-four and will last until next month in C_C_P .

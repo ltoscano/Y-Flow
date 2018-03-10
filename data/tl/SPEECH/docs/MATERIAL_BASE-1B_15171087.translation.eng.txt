@@ -1,9 +1,0 @@
-<1>	(0.000-7.490)	Food and Drug Administration nagbabala sa basta-bastang paggamit ng mga produktong pangontra umano sa dengue .	the Food and Drug Administration warned against the careless use of products that are supposed to combat dengue .
-<2>	(7.490-9.486)	<overlap> .	.
-<3>	(9.486-13.410)	lotion <overlap> baka galing (()) China hindi naman ?	the lotion is possibly from (()) China isn't it ?
-<4>	(13.410-13.973)	hindi naman .	not really .
-<5>	(13.973-16.220)	<overlap> mga imbento 'yan ng ating mga kababayan .	those are stories made up by our countrymen .
-<6>	(16.220-20.929)	pero 'yong mga pandikit na 'yon usually pang bata pang baby <overlap> .	but those adhesives are usually for children for babies .
-<7>	(20.929-26.710)	<sta> minsan may sinasabing placitronella madami kasing pang-alis pambugaw ng lamok eh .	sometimes it has what's called placitronella because well there are a lot of mosquito killers repellents .
-<8>	(26.710-30.701)	pero 'yon nga lang dapat maingat tayo dahil hindi rin naman natin alam kung saan galing 'di ba ?	but the thing is we should be careful because we are not also sure where they came from right ?
-<9>	(30.701-33.649)	pero importante diyan 'yong paligid ho natin linisin natin .	but what's important there is we should clean our surroundings .

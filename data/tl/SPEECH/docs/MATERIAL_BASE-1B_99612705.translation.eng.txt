@@ -1,8 +1,0 @@
-<1>	(0.000-1.158)	<sta> i-ta-try ko pa Alex .	I will try Alex .
-<2>	(1.158-6.810)	<sta> ang tanong katapusan na nga ba ng sikat na Gangnam Style sa pagpasok ng taong twenty thirteen ?	the question is is it the end of the famous Gangnam Style as we enter the year twenty thirteen ?
-<3>	(6.810-15.289)	<sta> tila ito ang ipinahihiwatig ng Korean pop Star na si Psy sa kaniyang official Twitter account na may hashtag <sta> na Gangnam finale .	this seems to be what the Korean Pop star Psy is referring to in his official Twitter account with the hashtag Gangnam finale .
-<4>	(15.289-21.729)	<sta> nag-post sa kaniyang Twitter account si Psy pagkatapos ng kaniyang performance sa Times Square sa New York <sta> kasama si M_C Hammer .	Psy posted on his Twitter account after his performance at Times Square in New York along with M_C Hammer .
-<5>	(21.729-25.510)	<sta> sinabi niya rin niya ito sa panayam niya sa isang music channel .	he has already mentioned this in an interview for a music channel .
-<6>	(25.510-36.919)	<sta> ang sabi ni Psy kailangan na raw niya magsulat ng bagong <sta> single lalo't sobrang sikat na ang Gangnam Style pero sinabi niyang sasayaw pa rin siya ng Gangnam sa Paris <sta> at sa China .	Psy said that he needs to write a new single especially since Gangnam Style was so famous but he said he will still dance Gangnam in Paris and China .
-<7>	(36.919-40.622)	<sta> nakatakda rin siyang mag-concert sa Pilipinas sa Pebrero .	he is also set to have a concert in the Philippines in February .
-<8>	(40.622-42.531)	<no-speech>	<no-speech>

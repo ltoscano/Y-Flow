@@ -1,7 +1,0 @@
-<1>	(0.000-5.760)	ayon sa mga senator judges hindi naman pala nakapangalan lahat sa punong mahistrado .	according to the senator judges not all are named under the Chief Justice .
-<2>	(5.760-12.191)	giit ng depensa <int> sa apatnapu't limang properties na nasa listahan labing pito rito ang kanselado na .	the defense insisted that out of the forty-five properties in the list seventeen have already been cancelled .
-<3>	(12.191-14.382)	labindalawa ang hindi nakapangalan kay Corona .	twelve are not named under Corona .
-<4>	(14.382-18.729)	pitong titulo naman ang inangkin ni Demetrio Vicente sa Marikina .	seven titles were claimed by Demetrio Vicente in Marikina .
-<5>	(18.729-23.770)	at ang tatlong titulo ay para nga lamang sa mga parking lot .	and the three titles were only for parking lots .
-<6>	(23.770-27.835)	sa huli lumalabas na lima na lamang ang pag-aari ni Corona .	in the end it shows that only five were owned by Corona .
-<7>	(27.835-40.064)	inamin ni Diaz na hindi niya sinuri ng isa-isa ang mga lumabas na titulo ng i-search niya ang pangalan ni C_J Corona sa data base ng L_R_A matapos itong hingin ng prosekusyon ng noong Enero .	Diaz confessed that he did not check the titles one-by-one when searched the name of C_J Corona in the database of L_R_A when it was asked by the prosecution last January .
