@@ -1,0 +1,72 @@
+<1>	(Outline, 0.000-3.600)	<no-speech>	<no-speech>
+<2>	(Inline, 0.000-4.290)	mamaya pala <no-speech> birthday ni Kiko 'yong apo ni Manok .	and also later Kiko's birthday Manok's grandson .
+<3>	(Outline, 3.600-3.950)	<no-speech>	<no-speech>
+<4>	(Outline, 3.950-5.220)	<no-speech>	<no-speech>
+<5>	(Inline, 4.290-6.850)	<no-speech>	<no-speech>
+<6>	(Outline, 5.220-6.009)	mhm .	yes .
+<7>	(Outline, 6.009-6.980)	<no-speech>	<no-speech>
+<8>	(Inline, 6.850-7.700)	hello ?	hello ?
+<9>	(Outline, 6.980-8.210)	<no-speech>	<no-speech>
+<10>	(Inline, 7.700-8.870)	<no-speech>	<no-speech>
+<11>	(Outline, 8.210-8.850)	hello ?	hello ?
+<12>	(Outline, 8.850-15.430)	<no-speech>	<no-speech>
+<13>	(Inline, 8.870-11.627)	ayun nagmemerienda doon sakto .	oh taking a snack there just quite on time .
+<14>	(Inline, 11.627-15.240)	hello <no-speech> 'yong apo ni Manok si Kiko mag-bi-birthday mamaya .	hello Manok's grandson Kiko will have a birthday party later .
+<15>	(Inline, 15.240-18.340)	<no-speech>	<no-speech>
+<16>	(Outline, 15.430-16.000)	oo .	yes .
+<17>	(Outline, 16.000-18.340)	<no-speech>	<no-speech>
+<18>	(Outline, 18.340-18.710)	<no-speech>	<no-speech>
+<19>	(Inline, 18.340-21.300)	kila Manok four o'clock 'yon samahan mo na lang siyang noon .	in Manok's that is four o'clock just accompany him there .
+<20>	(Outline, 18.710-21.410)	<no-speech>	<no-speech>
+<21>	(Inline, 21.300-22.310)	<no-speech>	<no-speech>
+<22>	(Outline, 21.410-22.563)	<no-speech>	<no-speech>
+<23>	(Inline, 22.310-23.740)	spaghetti doon .	spaghetti there .
+<24>	(Outline, 22.563-25.080)	sige samahan ko oo samahan ko .	sure I will accompany him yes will accompany him .
+<25>	(Inline, 23.740-25.900)	<no-speech>	<no-speech>
+<26>	(Outline, 25.080-28.950)	<no-speech>	<no-speech>
+<27>	(Inline, 25.900-29.860)	kaya lang bili mo -- <no-speech> bili muna tayo regalo pala <no-speech> sa Liana's .	but you have to buy -- buy a gift first in Liana's .
+<28>	(Outline, 28.950-29.462)	mhm .	yes .
+<29>	(Outline, 29.462-30.680)	<no-speech>	<no-speech>
+<30>	(Inline, 29.860-32.270)	<no-speech>	<no-speech>
+<31>	(Outline, 30.680-33.450)	<no-speech>	<no-speech>
+<32>	(Inline, 32.270-34.204)	oo four o'clock 'yon eh .	yes that is at four o'clock .
+<33>	(Outline, 33.450-33.840)	<no-speech>	<no-speech>
+<34>	(Outline, 33.840-34.870)	<no-speech>	<no-speech>
+<35>	(Inline, 34.204-36.160)	nandiyan na si Marissa ?	is Marissa already there ?
+<36>	(Outline, 34.870-35.240)	<no-speech>	<no-speech>
+<37>	(Outline, 35.240-36.100)	<no-speech>	<no-speech>
+<38>	(Outline, 36.100-37.058)	'andito .	is here .
+<39>	(Inline, 36.160-39.620)	<no-speech>	<no-speech>
+<40>	(Outline, 37.058-38.270)	kakapasok lang .	have just entered .
+<41>	(Outline, 38.270-39.270)	<no-speech>	<no-speech>
+<42>	(Outline, 39.270-39.640)	<no-speech>	<no-speech>
+<43>	(Inline, 39.620-42.590)	ay <no-speech> kakapasok lang .	ah have just entered .
+<44>	(Outline, 39.640-42.120)	<no-speech>	<no-speech>
+<45>	(Outline, 42.120-42.894)	mhm .	yes .
+<46>	(Inline, 42.590-43.520)	<no-speech>	<no-speech>
+<47>	(Outline, 42.894-44.302)	ikaw nasa'n 'asaan ka ba ?	and you where where are you now ?
+<48>	(Inline, 43.520-46.422)	oh tapo- -- ano na ginagawa ni ate ?	oh then -- what is our older girl sibling doing ?
+<49>	(Outline, 44.302-46.542)	<no-speech>	<no-speech>
+<50>	(Inline, 46.422-47.145)	<no-speech>	<no-speech>
+<51>	(Outline, 46.542-47.820)	ah sige .	oh sure .
+<52>	(Inline, 47.145-51.247)	nandi- -- sa lo- -- nasa Lanao kami biya- -- sa sasakyan eh oo .	we are actually in Lanao -- in the vehicle yes .
+<53>	(Outline, 47.820-49.420)	<no-speech>	<no-speech>
+<54>	(Outline, 49.420-50.637)	<no-speech>	<no-speech>
+<55>	(Outline, 50.637-51.300)	oo .	yes .
+<56>	(Inline, 51.247-52.550)	<no-speech> bibiyahe .	going to travel .
+<57>	(Outline, 51.300-58.710)	<no-speech>	<no-speech>
+<58>	(Inline, 52.550-55.040)	<no-speech>	<no-speech>
+<59>	(Inline, 55.040-58.237)	ah sasamahan mo siya sa birthday bibihisan ko na lang 'yan pagdating .	ah you will accompany him to the birthday I will just change his clothes when you arrive .
+<60>	(Inline, 58.237-59.080)	<no-speech>	<no-speech>
+<61>	(Outline, 58.710-59.820)	okey sige .	okay sure .
+<62>	(Inline, 59.080-62.150)	<no-speech>	<no-speech>
+<63>	(Outline, 59.820-67.310)	<no-speech>	<no-speech>
+<64>	(Inline, 62.150-63.526)	oo punta kayo doon .	yes go there .
+<65>	(Inline, 63.526-64.316)	<no-speech>	<no-speech>
+<66>	(Inline, 64.316-65.094)	ikaw na lang suma- %incomplete	you'll be the one who'll go with %incomplete
+<67>	(Inline, 65.094-66.470)	pati si Isaac ha .	including Isaac okay .
+<68>	(Inline, 66.470-69.880)	<no-speech>	<no-speech>
+<69>	(Outline, 67.310-68.450)	oo sige dalawa sila .	yes the two of them .
+<70>	(Outline, 68.450-72.190)	<no-speech>	<no-speech>
+<71>	(Inline, 69.880-72.790)	sa- -- <no-speech> oo sama rin siya para makakain .	in -- yes he will also go along to eat .
+<72>	(Outline, 72.190-72.790)	<no-speech>	<no-speech>

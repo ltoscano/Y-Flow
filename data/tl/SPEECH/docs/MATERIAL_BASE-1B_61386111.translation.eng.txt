@@ -1,0 +1,61 @@
+<1>	(0.000-1.709)	tulong sa inyo ni (()) .	to help you (()) .
+<2>	(1.709-2.466)	<no-speech>	<no-speech>
+<3>	(2.466-10.340)	<int> ayun nga po (()) ko lang ko'y -- kung mayro'n po bang pananagutan yung school kasi po na-bully po yung anak ko sa <overlap> mm mm .	that's it (()) my only -- if the school is also responsible because my child was bullied .
+<4>	(10.340-13.116)	nasaktan po siya tapos nagkaroon po siya ng sugat .	she was hurt and then she had a wound .
+<5>	(13.116-16.797)	tinahi po yung sugat niya sa (()) <int> aah .	her wound was sewed in (()) aah .
+<6>	(16.797-17.833)	nagkasugat po .	there was a wound .
+<7>	(17.833-19.201)	saan -- saan po siya nagkasugat ?	where -- where was she wounded ?
+<8>	(19.201-20.880)	sa mukha po ba ?	was it on the face ?
+<9>	(20.880-21.211)	opo .	yes .
+<10>	(21.211-26.270)	sa may <hes> bandang baba po ng mata niya sa may taas ng pisngi .	on the lower part of her eye just above her cheek .
+<11>	(26.270-31.346)	ah ah -- alam n'yo -- alam n'yo Aling Lerma napakalinaw na ng batas natin diyan .	ah ah -- do you know -- do you know Aling Lerma our laws are very clear about that .
+<12>	(31.346-63.490)	ang sabi ng batas sa mga estudyanteng minor de edad na nasa eskuwelahan o kaya nasa labas ng eskuwelahan pero under the supervision no'ng eskuwela kung napinsala sila ang unang mananagot emphasis po diyan ha ang unang mananagot ay ang eskuwelahan o and Administrator ng eskuwelahan o ang guro yung teacher in charge o lahat sila sa kapinsalaan ng bata .	our law says that if students who are minors that are at school or even outside school but under the supervision of the school if they're injured the first to be held responsible and an emphasis on the first is the school or the administrator of the school or the teacher in charge or everyone of them for the injury of the child .
+<13>	(63.490-69.747)	kaya nga po napakataas ng pananagutan at obligasyon ng mga guro .	that is why the responsibility and obligation of teachers is very high .
+<14>	(69.747-71.160)	hanggang dito po oh .	it's up to here .
+<15>	(71.160-78.300)	na-presumed <sta> negligence sila kung nagkaroon ng ah sakuna sa loob ng eskuwelahan .	they will be presumed negligence if there are any disasters inside the school .
+<16>	(78.300-86.690)	so halimbawa Grace halimbawa lang -- halimbawa lang yung bata sa loob ng eskuwelahan nagkabukol siya .	so for example that Grace for example -- for example is inside the school premises and she gets a lump .
+<17>	(86.690-93.420)	ang papatunayan lang sa korte yung anak ko student diyan sa eskuwelahan lumabas ng eskuwela may bukol .	what will be proven in the court is that my child is a student in that school and when she went outside she already has a lump .
+<18>	(93.420-96.649)	hindi mo na papatunayan na anong ginawa ng teacher ?	will you no longer prove what the teacher did ?
+<19>	(96.649-103.181)	kasi may pagpapalagay ang batas na doon sa sitwasyon eh pabaya ang guro .	because the law has an assumption in that situation that the teacher was negligent .
+<20>	(103.181-109.250)	ngayon kailan magiging <hes> pananagutan ng magulang ?	now when is it the responsible of the parent ?
+<21>	(109.250-110.224)	mm mm .	mm mm .
+<22>	(110.224-120.670)	magiging pananagutan ng magulang kung <no-speech> walang maibayad yung guro walang maibayad yung <int> eskuwelahan walang maibayad yung Administrador .	it will be an accountability of the parents if the teacher has nothing to pay the school has nothing to pay and the administrator has nothing to pay .
+<23>	(120.670-124.650)	ang tawag diyan subsidiary liability ng magulang .	that is called the subsidiary liability of the parent .
+<24>	(124.650-125.012)	I see .	I see .
+<25>	(125.012-134.427)	so attorney ang ibig n'yo pong sabihin kailangan magsampa ng kaso laban sa eskuwelahan ang magulang ng isang bata na na-bully at nagkaroon ng physical na napinsala ?	so attorney do you mean the parent of the child who is bullied and has acquired physical damage needs to file a case against the school ?
+<26>	(134.427-137.416)	oh yu- -- 'yon ang huling -- 'yon ang huling course of action .	oh -- that is the last -- that is the last course of action .
+<27>	(137.416-137.804)	I see .	I see .
+<28>	(137.804-141.840)	pero dapat siyempre sa lahat ng mga sigalot mag-usap muna .	but of course in all dispute there should be a dialogue first .
+<29>	(141.840-152.481)	pero kung wala na talagang <hes> mapapag-usapan dahil ayaw umamin ng mga tao eh baka nga isampa na sa korte 'yan para managot na ang dapat managot .	but if there isn't any dialogue for a settlement because people do not admit then perhaps that should be filed in the court for those who are liable should be accounted for .
+<30>	(152.481-161.640)	Ma'am Lerma eh nakausap n'yo po ba ang mga magulang ng <hes> sub -- nag <hes> nang -- nang-bully sa inyong <hes> anak ?	Ma'am Lerma were you able to talk the parents of -- those who bullied your kid ?
+<31>	(161.640-162.515)	opo .	yes .
+<32>	(162.515-165.405)	'yon -- 'yon mga -- yung eskuwelahan po nakausap n'yo rin ?	the -- the -- school were you also able to talk to them ?
+<33>	(165.405-166.280)	<no-speech>	<no-speech>
+<34>	(166.280-171.862)	<hes> opo kaya lang po yung school po ang pinapanagot lang po nila yung parents no'ng bata .	yes but the school puts the accountability of the liability to the parents of the child .
+<35>	(171.862-178.717)	<hes> alam n'yo -- alam n'yo well <laugh> understandable sa talagang sinasabi ng batas na sila ang una kasing managot .	you know -- you know well it is understandable as stated by the law that they are primarily held accountable .
+<36>	(178.717-179.119)	yes .	yes .
+<37>	(179.119-180.940)	kaya nagtuturuan na po 'yan .	so they are passing the responsibility to one another .
+<38>	(180.940-182.860)	nagtuturuan na po 'yan Aling Lerma .	they are passing the responsibility to one another Ma'am Lerma .
+<39>	(182.860-185.085)	kayo -- kayo maingat na dapat dito .	you -- you should be the one who needs to be careful here .
+<40>	(185.085-187.984)	<int> dapat alam na alam n'yo ang mga sinasabi ng batas .	you should know what the law states very well .
+<41>	(187.984-189.500)	uulitin ko po .	I will repeat .
+<42>	(189.500-210.301)	<sta> sa mga kapinsalaang natamo ng isang minor de edad na <hes> estudyante ang unang mananagot eskuwelahan guro Administrador ng eskuwelahang 'yon at kung walang maibabayad sa danyos perwisyong 'yang mga taong 'yan o mga Institusyon na 'yan ang mga magulang na ang pangalawang mananagot .	on the damages acquired of someone in minor age the student should primarily be held accountable the school teacher administrators of that school and if those people or institutions have nothing to pay to compensate the damages the parents are secondarily held accountable .
+<43>	(210.301-211.263)	'yan po 'yan .	that is it .
+<44>	(211.263-215.630)	so yu- -- ang guro yung Institusyon yung eskuwelahan at yung <overlap> Administrator .	so -- the teacher institution the school and the administrator .
+<45>	(215.630-218.497)	administrator <overlap> correct yes at magulang na ang susunod .	administrator correct yes and the parents should be next .
+<46>	(218.497-219.002)	yes .	yes .
+<47>	(219.002-226.261)	kung walang maibabayad na panggastos sa inyo ang eskuwelahan 'yan po 'yan .	if they have nothing to pay you for the expenses it will be on the school's .
+<48>	(226.261-234.499)	pero kung mapatunayan ng eskuwelahan na sila ay gumawa ng -- <no-speech> ng karampatang aksiyon .	but if the school proves that they have made -- appropriate action .
+<49>	(234.499-246.480)	ibig sabihin yung -- yung due diligence yung necessary safeguard para <int> maiwasan 'yun at nangyari pa rin eh baka do'n lang sila makakaligtas <int> sa pananagutan .	it means the -- the due diligence the necessary safeguard to avoid it and it still happens then perhaps they would be saved from the accountability .
+<50>	(246.480-249.097)	ayan po Aling Lerma <overlap> so puwede pong humingi ng danyos ?	that's it Ma'am Lerma so can we ask for a compensation for the damages ?
+<51>	(249.097-249.813)	oh puwede naman .	oh yes you can .
+<52>	(249.813-251.700)	puwedeng -- puwedeng humingi 'yan .	you can -- you can ask for that .
+<53>	(251.700-255.443)	<int> Ma'am Lerma may itanong po ba kayo kay <hes> (()) ?	Ma'am Lerma do you have something to ask (()) ?
+<54>	(255.443-256.430)	<no-speech>	<no-speech>
+<55>	(256.430-257.759)	<hes> ayun -- ayun po .	that -- that's it .
+<56>	(257.759-266.118)	<hes> bale puwede -- ayun nga po puwede pong school ang ano kasi po yung parents po no'ng bata medyo hindi (()) hindi po sila %incomplete	so you can -- that's it the school can because the parents of the child seems slightly (()) they are not %incomplete
+<57>	(266.118-267.836)	hirap din po sila sa ano %incomplete	they are also having difficulty in %incomplete
+<58>	(267.836-269.037)	kasi po <overlap> finances .	because of finances .
+<59>	(269.037-275.630)	ang prinsipyo rin Aling Lerma eh <int> ang mga magulang sila ang may talagang pangunahing mag-aalaga ng bata .	also the principle Ma'am Lerma the parents have really the primary care for the child .
+<60>	(275.630-292.145)	kaya lang kung ibibigay na nila ang kustodiya nila ng -- sa mga anak ng pansamantala sa isang eskuwelahan na halos buong araw ay nandoon sa pamanga -- pangangasiwa at pangangalaga ng eskuwelahan yung nag-aalagang 'yon ang unang mananagot .	but if they are going to the give their custody -- of their children temporarily to a school for almost a day it is on the care and management of the school those who are taking care of them will answer .
+<61>	(292.145-293.822)	<sta> ayan po Aling Lerma .	that's it Ma'am Lerma .

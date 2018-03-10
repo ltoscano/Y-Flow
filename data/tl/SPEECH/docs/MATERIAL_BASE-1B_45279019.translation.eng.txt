@@ -1,0 +1,109 @@
+<1>	(0.000-1.827)	<no-speech>	<no-speech>
+<2>	(1.827-11.652)	<sta> headline sa mga lokal na pahayagan dito sa Macrohon sa Southern Leyte <sta> ang imahe ng Birheng Maria na 'di umano lumuluha .	the image of Saint Mary that is claimed to be tearing up is the headline of local news papers here at Macrohan in Southern Leyte .
+<3>	(11.652-15.400)	<no-speech>	<no-speech>
+<4>	(15.400-18.702)	<no-speech>	<no-speech>
+<5>	(18.702-33.980)	<sta> mula no'ng umugong ang balitang ito <sta> katulad ng inasahan dinagsa ng mga deboto at usisero ang parokya ng Baranggay Ichon <sta> kung saan naroon ang 'di umano'y lumuluhang Birhen .	since this news circulated just as expected the devotees and curious swarmed all over the parish of Baranggay Ichon where the crying Saint is .
+<6>	(33.980-36.952)	<no-speech>	<no-speech>
+<7>	(36.952-43.734)	<sta> Maria Ina ka sa Diyos ipanalangin mo kaming mga makasasala <sta> lalo na sa oras ng aming kamatayan .	Mary mother of God pray for us sinners now and at the hour of our death .
+<8>	(43.734-53.680)	<sta> (()) sa grasya (()) <sta> ang pinagkakaguluhan ngayong imahe ang Mary Mediatrix of All Grace .	(()) in grace (()) the talked about icon is the Mary Mediatrix of All Grace .
+<9>	(53.680-57.189)	<sta> nasa loob ito ng orna o eskaparateng salamin .	this is inside the Orna or glass case .
+<10>	(57.189-61.950)	<sta> may taas na pitong talampakan at gawa sa fiber glass .	with a height of seven feet and made of fiber glass .
+<11>	(61.950-71.774)	<sta> sa kanang pisngi ng Birhen makikita ang bakas ng likido na ipinagpalagay ng marami na luha 'di umano <sta> ng Birhen .	on the right cheek of the Virgin you can see the mark of liquid that is assumed by many to be the tear of the Virgin .
+<12>	(71.774-76.128)	<sta> makikita ang tila mga natuyong <sta> patak 'di umano ng luha .	you can see what seems like dried drops of tears .
+<13>	(76.128-82.388)	<sta> naniwala po ako na isang himala 'yon kasi na-feel ko sa puso ko <sta> na totoo siyang umiiyak .	I believed that it was a miracle because I felt inside of me that she was indeed crying .
+<14>	(82.388-85.960)	<sta> lumigaya ako nalungkot ako .	I became happy I became sad .
+<15>	(85.960-86.877)	<sta> hindi ko masabi .	I can't say .
+<16>	(86.877-87.906)	(()) ko .	(()) me .
+<17>	(87.906-94.750)	<no-speech>	<no-speech>
+<18>	(94.750-100.176)	<sta> ang ilan sa mga pumunta ipinunas sa eskaparate ang mga dala nilang panyo .	some of those who came wiped their handkerchiefs on the case .
+<19>	(100.176-102.730)	<sta> may ilan nag-se-selfie pa .	some were even taking selfies .
+<20>	(102.730-105.294)	<no-speech>	<no-speech>
+<21>	(105.294-111.787)	<sta> para makita naman ang 'di umano'y luha ng Birhen <sta> inilawan nila ng flashlight ang mukha nito .	to show the said tear of the Virgin they lighted up the face with a flashlight .
+<22>	(111.787-115.040)	<no-speech>	<no-speech>
+<23>	(115.040-123.650)	<sta> pero marami sa mga sumadya rito umaasang maambunan kung mayro'n mang dalang himala ang Birhen .	but many of those who came are hoping to be blessed if there is any with miracles brought by the Virgin .
+<24>	(123.650-139.786)	<sta> katulad ng mag-asawang Lola Anunciacion at Lolo Porferio na tiniyaga ang ilang oras na biyahe mula Cebu <sta> sa pag-asang mapapagaling ng 'di umano'y lumuluhang Birhen <sta> ang acute arthritis ni Nanay Anunciacion .	like the couple grandma Anunciacion and grandpa Porferio who bore hours of travel from Cebu in the hopes of having the crying Virgin treat the acute arthritis of Nanay Anunciacion .
+<25>	(139.786-141.600)	(()) .	(()) .
+<26>	(141.600-145.580)	(()) .	(()) .
+<27>	(145.580-151.510)	(()) .	(()) .
+<28>	(151.510-160.212)	<sta> ipinunas ni Lolo Porferio ang dala niyang panyo sa salamin ng imahen at ipinahid ito sa binti ng kaniyang asawa .	grandpa Porferio wiped his handkerchief on the glass of the icon and wiped it on the calf of his wife .
+<29>	(160.212-163.520)	<no-speech>	<no-speech>
+<30>	(163.520-165.770)	<no-speech>	<no-speech>
+<31>	(165.770-179.620)	<sta> kuwento ng siyam na taong gulang na si Mila hindi niya tunay na pangalan <sta> nag-aalay daw siya ng bulaklak bandang alas-kuwatro ng hapon noong Mayo a tres <sta> nang makita niyang parang lumuluha ang Birhen .	seven year old Mila not her true name shared that she offered flowers at around four in the afternoon last May three when she saw the Virgin tearing up .
+<32>	(179.620-185.477)	natatakot dahil first time ko pang- -- nakita mata- -- mga tao lang 'yong umiiyak .	I was scared because it was my first time to -- see -- only people are crying .
+<33>	(185.477-188.180)	<sta> hindi naman umiiyak 'yong mga Santo .	Saints don't cry .
+<34>	(188.180-197.050)	<sta> nakita ko parang totoo 'yong mukha niya pero walang light wala namang sound na narinig ko .	I saw that it seemed real but there was no light I didn't even hear a sound .
+<35>	(197.050-200.998)	<sta> parang buhay 'yong mata niya at lumuluha siya .	her eyes seemed alive and she's crying .
+<36>	(200.998-203.098)	<no-speech>	<no-speech>
+<37>	(203.098-209.501)	<sta> nakaabot ito sa kaalaman ng Assistant Parish Priest ng parokya si Father Ervin .	it reached Father Ervin the Assistant Parish Priest of the parish .
+<38>	(209.501-214.160)	ang nakita ko talagang may tubig na umaagos sa mata niya .	what I really saw were drops of water falling from her eyes .
+<39>	(214.160-219.810)	<sta> parang luha lang siguro so nakikita ko talaga personally 'yong sinasabi ng mga bata .	seemed like tears I really saw personally what the children were saying .
+<40>	(219.810-231.450)	<sta> ang pagdududa at pagtataka ni Father Ervin sa pagluha 'di umano ng imahe ng Mary Mediatrix sa kanilang simbahan <sta> nadagdagan ng iba pang- -- mga katanungan .	questions were added on the doubts and wonders of Father Ervin on the tears of the icon of Mary Mediatrix in their church .
+<41>	(231.450-235.110)	<int> sa second week ng January inilagay namin 'yong imahen dito .	we placed the icon here on the second week of January .
+<42>	(235.110-241.913)	para naman 'yong mga tao na nagsisimba sa nine day novena mass bago mag-fiesta eh dito sila titingin .	so the people who are going to church on the ninth day of novena mass before the feast will look here .
+<43>	(241.913-246.550)	open salamin na siya o hindi siya basta-basta nabubuksan kasi nasa atin 'yong susi .	it's an open glass or not easily opened because we have the key .
+<44>	(246.550-247.537)	<no-speech>	<no-speech>
+<45>	(247.537-257.934)	<sta> ayon kay Father Ervin wala raw basta-bastang nakakapagbukas ng orna ng Birhen <sta> dahil nakakandado ito at nakatago ang susi .	according to Father Ervin no one can easily open the orna of the Virgin because it's locked and the key's hidden .
+<46>	(257.934-268.410)	<sta> wala rin daw caretaker na naglilinis ng imahen <sta> dahil nasa loob naman ito ng salamin na hindi raw madaling pasukan ng dumi o alikabok .	there's no caretaker that cleans the icon as well because it's inside the glass which can't be easily dirty .
+<47>	(268.410-271.410)	<sta> sinabi ko nga sa mga bata baka joke lang 'yan .	I even told the children that maybe it's just a joke .
+<48>	(271.410-277.926)	<sta> pero 'pag personal ko na na nakita no'ng panahon na pumupunta na ako do'n sa imahen at tinitingnan ko talaga <sta> parang na-gi-guilty ako .	but when I personally look at the icon while I was going there I felt guilty .
+<49>	(277.926-281.351)	<sta> sinasabi ko sa sarili ko baka <sta> ba't ba siya umiiyak ?	I tell myself why is she crying ?
+<50>	(281.351-283.270)	<sta> ano bang ginawa kong masama ?	what did I do wrong ?
+<51>	(283.270-287.196)	<sta> ano bang -- ano bang nangyayari talaga dito na ba't siya dito siya umiiyak ?	what did -- what did really happen here why is she crying ?
+<52>	(287.196-289.240)	<sta> it leads me to pray more 'no ?	it leads me to pray more right ?
+<53>	(289.240-293.737)	it leads me to reflect <hes> the beauty of faith .	it leads me to reflect the beauty of faith .
+<54>	(293.737-304.420)	<sta> kung halumigmig o pawis man daw ang pinagsususpetsahang likido <sta> bakit daw ito sumulpot sa daluyan mismo ng luha ?	if humidity or sweat is suspected liquid why would it appear on the cheek ?
+<55>	(304.420-314.913)	<sta> gayon pa man wala raw sila sa tamang posisyon para makapagsabi kung ang sinasabing luha <sta> totoo o gawa-gawa lang .	nevertheless they're not in the right position to say if the tears are true or made-up .
+<56>	(314.913-321.939)	kami ni Father Ervin we have no authority no capacity 'no to declare this phenomenon as we recall 'no ?	Father Ervin and I have no authority no capacity to declare this phenomenon as we recall right ?
+<57>	(321.939-331.720)	it's the task where all of the Bishop to initiate an investigation (()) investigation siya 'yong magsabi na ito ay worthy of belief ba o hindi .	it's the task where all of the Bishop to initiate an investigation (()) it's an investigation that will tell if it's worthy of belief or not .
+<58>	(331.720-340.590)	<sta> sa tala ng Simbahang Katolika isa pa lang daw ang sinertipikahan na lumuluhang Birhen sa kasaysayan .	in the records of the catholic church only one Virgin has been certified in the history .
+<59>	(340.590-341.495)	<no-speech>	<no-speech>
+<60>	(341.495-347.260)	<sta> ito ang Weeping Virgin Mary ng Our Lady of Akita sa Akita Japan .	this is the Weeping Virgin Mary of Our Lady of Akita in Akita Japan .
+<61>	(347.260-360.152)	<sta> taong nineteen seventy three no'ng unang nagpakita ang lumuluhang Birhen kay Sister Agnes <sta> at makalipas ang labing limang taon kinilala ang rebulto <sta> bilang milagroso .	it was in year ninety seventy-three when Sister Agnes saw the weeping Virgin and after fifteen years the statue was known as miraculous .
+<62>	(360.152-362.861)	<no-speech>	<no-speech>
+<63>	(362.861-372.319)	ang dinadayo ngayong rebulto ng Birheng Maria sa Ichon <sta> ibinigay raw ng isang grupo ng mga deboto mula sa Davao taong twenty twelve .	the statue of Virgin Maria of Ichon visited by tourists was given by a group of devotees from Davao in the year twenty twelve .
+<64>	(372.319-376.960)	<sta> nanggaling daw ito sa Lipa City sa Batangas .	it came from Lipa City in Batangas .
+<65>	(376.960-377.978)	<no-speech>	<no-speech>
+<66>	(377.978-386.889)	hindi pala ito ang unang beses na sinasabing <sta> naghimala ang isang rebulto ng Mary Mediatrix of All Grace .	this is not the first time the statue of Mary Mediatrix of All Grace was talked about to be miraculous .
+<67>	(386.889-388.298)	<no-speech>	<no-speech>
+<68>	(388.298-405.929)	<sta> taong nineteen forty eight <sta> sa kumbento ng Our Lady of Lourdes of Mary Mediatrix of All Grace sa Mount Carmel sa Batangas <sta> 'di umano sunod-sunod din na pinakitaan ng imahen ang isang madre si Sister Teresita Castillo .	in year nineteen forty-eight in the convent of Our Lady of Lourdes of Mary Mediatrix of All Grace in Mount Caramel in Batangas it was said that the icon appeared successively in front of a nun Sister Teresita Castillo .
+<69>	(405.929-417.002)	<sta> ayon sa kanila ilang beses daw nagpaulan ang Birhen ng Mary Mediatrix ng mga mahahalimuyak na talulot <sta> o petals ng pulang rosas .	according to them the Virgin of Mary Mediatrix has showered fragrant leaves or petals of red roses multiple times .
+<70>	(417.002-420.780)	<no-speech>	<no-speech>
+<71>	(420.780-431.330)	pero taong nineteen fifty one idineklara ang testimonyang ito <int> ni Sister Teresita <sta> bilang non-supernatural o hindi maituturing na himala .	but it was year nineteen fifty-one when this testimony of Sister Teresita was declared as non-supernatural or not considered a miracle .
+<72>	(431.330-432.312)	<no-speech>	<no-speech>
+<73>	(432.312-437.060)	<sta> dahil sa kontrobersiya pansamantalang ipinasara ang kumbento .	because of the controversy the convent was temporarily closed .
+<74>	(437.060-450.314)	<sta> taong nineteen ninety one muling nabuksan ang kaso ng sinasabing aparisyon sa Batangas <sta> matapos mapag-alamang may ilang iregularidad sa naging takbo noon ng imbestigasyon .	it was in year nineteen ninety-one when the case of alleged apparition in Batangas was reopened after it was learned that there were irregularities on the investigation before .
+<75>	(450.314-455.606)	<sta> magpahanggang ngayon <sta> patuloy pa rin daw itong pinag-aaralan ng Vatican .	until now it's an ongoing investigation of the Vatican .
+<76>	(455.606-459.630)	<no-speech>	<no-speech>
+<77>	(459.630-465.284)	<sta> samantala ipinakita namin sa ilang eksperto ang sinasabing lumuluhang Birhen ng Ichon .	meanwhile we showed the weeping Virgin of Ichon to some experts .
+<78>	(465.284-474.610)	sa tagal ko ng <sta> gumagawa ng Santo wala pa naman akong nakitang lumuhang imahe unless lang na pekehin nila talaga .	in the long time that I've been making saints I have never seen a weeping icon unless it was faked .
+<79>	(474.610-479.181)	ipinakita kung paanong posibleng lumuha ang isang imahen .	it was showed how it's possible for an icon to weep .
+<80>	(479.181-482.569)	<sta> puwede nilang butasan ito kahit maliit na maliit lang .	they can drill a hole in it just really small .
+<81>	(482.569-488.716)	<sta> kaya na nilang patuluin 'yon kung ano mang bagay 'yong napa- -- tumulo do'n sa Birhen puwede siyang lagyan ng hose sa loob .	they can let the tear fall whatever they used -- fell on the Virgin they can put a hose inside .
+<82>	(488.716-494.120)	<no-speech>	<no-speech>
+<83>	(494.120-496.829)	<sta> 'tapos lagyan ng tubig para siya lumuha .	and put water for her to tear up .
+<84>	(496.829-499.142)	<no-speech>	<no-speech>
+<85>	(499.142-505.030)	'yong pangalawa <sta> lalagyan siya ng petroleum jelly o kaya kung ano man gagamitan natin ng blower .	second put petroleum jelly or whatever we'll use a blower for it .
+<86>	(505.030-508.453)	<sta> ito ang magsisilbing <sta> sikat ng araw .	this will serve as the sunshine .
+<87>	(508.453-514.316)	<sta> sa tindi ng sikat ng araw ngayon na sobrang init kaya puwede siyang tumulo .	the heat of the sun right now is so intense that it drips .
+<88>	(514.316-516.360)	<sta> malusaw tumulo .	melt drip .
+<89>	(516.360-517.185)	<sta> sa sobrang init .	because of intense heat .
+<90>	(517.185-519.840)	<no-speech>	<no-speech>
+<91>	(519.840-523.200)	<sta> pero ayon kina Father Dennis at Father Ervin .	but according to Father Dennis and Father Ervin .
+<92>	(523.200-536.160)	it doesn't mean na itong phenomenon na ito although not yet declared <hes> may not be declared as a miracle <sta> would not be able to evoke in them and in us a feeling of the of -- of the presence of the Holy 'no ?	it doesn't mean that this phenomenon although not yet declared may not be declared as a miracle would not be able to evoke in them and in us a feeling of the -- of the presence of the Holy right ?
+<93>	(536.160-541.960)	so sabi ko baka dito after having seen the tear you may be lead to pray .	that's why I said here after having seen the tear you may be lead to pray .
+<94>	(541.960-543.030)	well and <int> good .	well and good .
+<95>	(543.030-546.840)	lighting a candle to pray for people you love but do ask for your prayers .	lighting a candle to pray for people you love but do ask for your prayers .
+<96>	(546.840-557.627)	sabi ko nga maraming mga lugar na under persecution <hes> mga ethnic violence na hindi alam natin pero i- -- if you pray for them at least we'd be able to help them .	as I've said many places are under persecution ethnic violence that we do not know but if you pray for them at least we'd be able to help them .
+<97>	(557.627-558.527)	hindi ko alam .	I don't know .
+<98>	(558.527-561.870)	we'll face the issue as it is and as it will come 'no ?	we'll face the issue as it is and as it will come right ?
+<99>	(561.870-564.116)	'pag mawala it doesn't mean that our faith would be gone .	when it's gone it doesn't mean that our faith would be gone .
+<100>	(564.116-565.310)	hindi .	no .
+<101>	(565.310-568.390)	'di nakasalalay naman 'yong pananampalataya namin doon sa luha .	our faith does not rely on the tears .
+<102>	(568.390-569.499)	<no-speech>	<no-speech>
+<103>	(569.499-580.480)	<sta> sa ngayon nagtalaga na raw ang obispo ng Leyte ng mamumuno sa isasagawa nilang imbestigasyon <sta> tungkol sa 'di umano'y pagluha ng Mary Mediatrix .	right now the bishop of Leyte has appointed someone to lead the investigation they will conduct regarding the alleged crying of Mary Mediatrix .
+<104>	(580.480-599.182)	<sta> in the history of the Church <hes> maraming nag-cla-claim na <sta> 'yong statue lumuluha and then experts with the Bishop form a team and the team would investigate the incident and they -- they would find out later on that it was fake .	in the history of the Church there were many claims about the crying of the statue and then the experts with the Bishop form a team and team would investigate the incident and they -- they would find out later on that it was a fake .
+<105>	(599.182-600.597)	<no-speech>	<no-speech>
+<106>	(600.597-609.403)	<sta> kung kinakailangan <sta> magsasagawa raw sila ng mas malaliman at mas siyentipikong imbestigasyon .	if they needed to conduct a thorough and more scientific investigation .
+<107>	(609.403-618.753)	he called <hes> a commission in order to -- to deal with this <hes> incident whether it is supernatural or or -- or not .	he called a commission in order to -- to deal with this incident whether it is supernatural or or -- or not .
+<108>	(618.753-619.437)	<no-speech>	<no-speech>
+<109>	(619.437-627.620)	bagamat hindi pa ito nangyayari ngayon pa lang <sta> ang mga naniniwala hindi natitinag .	although this has not happened yet the believers stands firm even now .

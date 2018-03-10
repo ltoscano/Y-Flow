@@ -1,0 +1,33 @@
+<1>	(0.000-6.370)	<sta> sa mga pista sa Pilipinas hindi nawawala ang iba't ibang palaro at kung anu-anong kasiyahan .	in the feasts in the Philippines various games and many different festivities will not go missing .
+<2>	(6.370-10.529)	<sta> patunay raw ito ng pagiging likas na masigla at masayahin ng mga pinoy .	this is a said proof of Filipinos being naturally enthusiastic and joyful .
+<3>	(10.529-15.060)	sa fiesta ng Binalonan Pangasinan mga larong pinoy ang isinabuhay .	the fiesta in Binalonan Pangasinan Philippine games are relived .
+<4>	(15.060-21.470)	<sta> pero sa Estancia Iloilo libreng talaba naman ang inihanda sarap para sa kanilang taunang Talaba Festival .	but in Estancia Iloilo free oysters are prepared delicious for their annual Oyster Festival .
+<5>	(21.470-23.473)	<sta> makibalita tayo kay Ivan Mayrina .	let us hear the news from Ivan Mayrina .
+<6>	(23.473-25.770)	<no-speech>	<no-speech>
+<7>	(25.770-32.860)	<sta> naghain ng mga libreng talaba ang mga taga Estancia Iloilo bilang bahagi ng taunang selebrasyon ng Talaba Festival .	residents of Estancia Iloilo prepared free oysters as part of the annual celebration of Talaba Festival .
+<8>	(32.860-34.034)	<no-speech>	<no-speech>
+<9>	(34.034-35.877)	<foreign> .	<foreign> .
+<10>	(35.877-36.887)	<no-speech>	<no-speech>
+<11>	(36.887-40.540)	<sta> talaba ang pangunahing produkto ng barangay Bayuyan sa Estancia .	oyster is the primary product of barrio Bayuyan in Estancia .
+<12>	(40.540-44.767)	<sta> paraan daw ang festival para magpasalamat sa lahat ng mga biyayang natatanggap mula sa dagat .	the festival is a means of thanking for all the blessings received from the sea .
+<13>	(44.767-45.300)	<no-speech>	<no-speech>
+<14>	(45.300-53.710)	<sta> sa Iloilo City naman nagpagalingan sa pagsayaw ng samba ang tatlong grupong lumahok sa Sinamba sa Paraw Mardi Gras Competition twenty twelve .	meanwhile in Iloilo City three groups competed in dancing samba joined the Samba in Paraw Mardi Gras Competition twenty twelve .
+<15>	(53.710-59.550)	<no-speech>	<no-speech>
+<16>	(59.550-65.410)	nagwagi ang Grupo Del Oeste ng West Visayas State University na nakakuha rin ng limang special awards .	the Grupo Del Oeste of West Visayas State University won who got five special awards .
+<17>	(65.410-72.120)	<sta> nagtagisan naman ang ilang babae sa twenty twelve Miss Virginia Tobacco Pageant sa Candon Ilocos Sur .	some ladies competed in the twenty twelve Miss Virginia Tobacco Pageant in Candon Ilocos Sur .
+<18>	(72.120-74.625)	ang ilan sa kanila ay mga anak <sta> ng tobacco farmers .	some of them are daughters of tobacco farmers .
+<19>	(74.625-80.550)	bukod sa pagandahan nagpagalingan din sila sa paghahanap ng uod na sumisira sa mga pananim na tabako .	aside from beauty they also competed in finding worms that destroy tobacco plants .
+<20>	(80.550-84.349)	<no-speech>	<no-speech>
+<21>	(84.349-88.310)	<int> palo sebo hilahan ng lubid at kadang-kadang .	oiled bamboo pole climbing tug of war and coconut shell race .
+<22>	(88.310-95.150)	ilan lang iyan sa mga larong pinoy na sinalihan ng mga bata mula walo hanggang labintatlong taong gulang <sta> sa fiesta ng Binalonan Pangasinan .	those are just some of the the Filipino games that kids from eight to thirteen years old joined at the festival of Binalonan Pangasinan .
+<23>	(95.150-96.911)	pinakainabangan ang paghuli sa biik .	the most awaited was the capturing of piglet .
+<24>	(96.911-102.170)	<no-speech>	<no-speech>
+<25>	(102.170-104.150)	<sta> wagi ang batang si Lark .	a kid named Lark won .
+<26>	(104.150-106.024)	o ano gagawin mo diyan ngayon ?	what are going to do with that now ?
+<27>	(106.024-106.961)	alagaan po .	take care of it .
+<28>	(106.961-108.530)	alagaan mo tapos ?	take care of it and then ?
+<29>	(108.530-111.280)	<hes> papalakihin ko po .	I will make it grow .
+<30>	(111.280-113.480)	ang mga batang babae naman nagbunong braso .	meanwhile the female kids arm wrestled .
+<31>	(113.480-118.410)	ito ang ika-apat na taong isinagawa ang laro ng lahi bilang bahagi ng fiesta ng Binalonan .	this is the fourth year the game of race was organized as part of the festival of Binalonan .
+<32>	(118.410-120.143)	Ivan Mayrina G_M_A News .	Ivan Mayrina G_M_A news .
+<33>	(120.143-120.396)	<no-speech>	<no-speech>

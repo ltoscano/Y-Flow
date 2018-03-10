@@ -1,0 +1,20 @@
+<1>	(0.000-1.800)	<no-speech>	<no-speech>
+<2>	(1.800-7.370)	<sta> dinagsa ng art enthusiasts ang katatapos lang na Art Fair Philippines sa Makati .	the recent Art Fair Philippines in Makati was visited by art enthusiasts .
+<3>	(7.370-12.491)	<sta> bukod sa magandang exhibit ng samo't saring obra e nabili rin ang ilang likha ng mga kapatid nating artists .	aside from a beautiful exhibit of different works of art some of the creations of our fellow artists were sold .
+<4>	(12.491-14.250)	naku palakpakan naman tayo diyan .	geez how about applause there .
+<5>	(14.250-16.928)	<sta> 'yan ang inaksiyunan ni Sheila Francisco .	that is what Sheila Francisco covered .
+<6>	(16.928-18.550)	<no-speech>	<no-speech>
+<7>	(18.550-23.540)	<no-speech>	<no-speech>
+<8>	(23.540-29.240)	<no-speech>	<no-speech>
+<9>	(29.240-31.410)	<sta> upuang gawa sa kutsara .	chair made of spoon .
+<10>	(31.410-34.948)	<no-speech>	<no-speech>
+<11>	(34.948-37.820)	<sta> glow in the dark na art pieces .	glow in the dark art pieces .
+<12>	(37.820-41.784)	<sta> three D art at kakaibang art installations at paintings .	three D art and unique art installations and paintings .
+<13>	(41.784-45.840)	ilan lang 'yan sa mga bumida sa kakatapos lang na Philippine Art Fair .	those are just some of the features of the recently held Philippine Art Fair .
+<14>	(45.840-54.560)	<sta> mas pinalaki ito sa mga naunang Art Fairs dahil bukod sa apatnapung gallery owners mahigit sixteen thousand din na bisita ang inasahang pumunta rito .	it is bigger than the previous art fairs because aside from forty gallery owners more than sixteen thousand guests were expected to have visited here .
+<15>	(54.560-58.930)	<sta> may mga bata mga sikat na personalidad at mga investors .	there are children famous personalities and investors .
+<16>	(58.930-65.250)	<sta> I wanna find out what's going on in the coming artists <hes> the few talents .	I wanna find out what's going on in the coming artists the few talents .
+<17>	(65.250-74.287)	<sta> so <no-speech> the arts in the Philippines and in Asia basically <sta> has been one of the more interesting (()) globally .	so the arts in the Philippines and in Asia basically has been one of the more interesting (()) globally .
+<18>	(74.287-80.326)	that's why (()) presence here now it's too nice to see <sta> we're developing .	that's why (()) presence here now it's too nice to see we're developing .
+<19>	(80.326-89.347)	<int> madalas puntahan ng mga art gallery ang matataong lugar <sta> kaya ginagawa ito sa parking lot ng isa sa mga pinaka-busy na lugar sa bansa ang Makati .	frequently visited by the art gallery are crowded places that's why this is done at a parking lot of one of the busiest places in the country which is Makati .
+<20>	(89.347-91.422)	we really want to expand the ~ %incomplete	we really want to expand the %incomplete

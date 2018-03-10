@@ -1,0 +1,32 @@
+<1>	(0.000-5.340)	<sta> matinding baha ang resulta ng tuloy-tuloy na pag-ulan simula pa kagabi .	extreme flood is the result of the continuous rain since last night .
+<2>	(5.340-10.290)	<sta> kinansela ang mga klase sa halos buong Metro Manila at sa ilang kalapit na probinsiya .	classes are cancelled to almost whole Metro Manila and to some neighboring province .
+<3>	(10.290-18.950)	<sta> pero gaya ng dati problema na naman ang atrasadong pagsususpende sa pasok ng mga estudyante na trabaho na ngayon ng mga mayor .	but just like before the problem again is the belated suspension of classes of the students which is now the job of the mayors .
+<4>	(18.950-20.805)	<sta> Mia Reyes ikuwento mo .	Mia Reyes tell the story .
+<5>	(20.805-24.802)	<sta> pasado alas-onse kagabi bumuhos ang malakas na ulan .	past eleven o'clock last night heavy rain poured .
+<6>	(24.802-28.830)	agad tumaas ang tubig baha sa ilang bahagi ng Quezon city .	immediately the flood water rose to some parts of Quezon city .
+<7>	(28.830-32.208)	<sta> sa Cubao Aurora underpass umabot hanggan binti ang tubig .	at the Cubao Aurora underpass the water was leg-deep .
+<8>	(32.208-34.939)	sa barangay Talayan umapaw pa ang creek .	at Talayan village the creek overflowed .
+<9>	(34.939-35.561)	<no-speech>	<no-speech>
+<10>	(35.561-42.470)	pero dahil walang patid ang ulan sa <int> V Luna street sa barangay Pinahan umabot hanggang baywang ang baha .	but because of the continuous rain the flood at V Luna street in Pinahan village was waist-deep .
+<11>	(42.470-45.190)	<sta> ang taxing ito hindi na kinaya ang tubig .	this taxi could not overcome the water .
+<12>	(45.190-50.820)	tumirik ito sa gitna nang kalsada <int> at halos malubog na sa tubig baha na umabot hanggang hood .	it broke down in the middle of the street and was almost submerged in the flood that reached the hood .
+<13>	(50.820-55.300)	<breath> ang ibang <sta> sasakyan hindi na naglakas loob na pumasok sa kalsada <int> .	the other cars no longer attempted to enter the street .
+<14>	(55.300-62.280)	<sta> gamit naman ang dalawang submersible pump ng M_M_D_A hinigop ang tubig sa kalsada papunta sa creek sa Nia road .	two submersible pumps from the M_M_D_A were used to suck the water on the street towards the creek at Nia road .
+<15>	(62.280-69.691)	sabi ng M_M_D_A bukod sa napondong <int> basura mayroon daw mga bato na sinlaki ng hollow blocks na bumara sa drainage .	the M_M_D_A stated that aside from stagnant trash there were rocks as large as hollow blocks that were blocking the drainage .
+<16>	(69.691-74.880)	mayroon ding nakitang pundasyon ng gusali na nakaharang sa dinadaluyan ng tubig .	there was also a building foundation that was seen blocking the flow of the water .
+<17>	(74.880-87.350)	<sta> i-re-refer po natin sa <hes> legal namin 'yan -- legal ng M_M_D_A kung anong mga sanctions <hes> <sta> para <hes> maunawaan nila na <hes> hindi ho tama ang ginagawa nila .	let us refer that to our legal -- legal of the M_M_D_A what the sanctions are so that they will understand that what they're doing is wrong .
+<18>	(87.350-93.593)	<sta> sa kalapit naman na paaralan sa V Luna Flora Ylagan high school nagkalituhan sa suspension ng klase .	in the nearby school of V Luna Flora Ylagan high school there was confusion regarding the suspension of classes .
+<19>	(93.593-98.880)	ang tatay na ito <sta> basang-basa pa ng sunduin ang anak bandang alas nuwebe ng umaga .	this father was drenched when he fetched his child around nine o'clock in the morning .
+<20>	(98.880-105.850)	<sta> si Lito Mijares napasugod pa sa principal's office dahil sa malabo raw ang naging kanselasyon ng klase .	Lito Mijares even rushed to the principal's office because the cancellation of classes was allegedly unclear .
+<21>	(105.850-108.820)	sabi ko sa kaniya makipag-ugnayan ka sa principal's office .	I told him to contact the principal's office .
+<22>	(108.820-114.790)	sabihin mo ka mo may announcement na sa T_V sta- -- sa radio station na wala nang pasok ang Flora Ylagan .	tell them you said there was an announcement on the T_V -- on the radio station that there will be no classes at Flora Ylagan .
+<23>	(114.790-118.493)	ang sabi ng principal's office wala pa raw declaration na galing sa kanila .	the principal's office said there was no declaration from them yet .
+<24>	(118.493-119.330)	<no-speech>	<no-speech>
+<25>	(119.330-123.790)	<breath> pero ang principal ibinalik ang sisi sa Quezon city government .	but the principal placed the blame on the Quezon city government .
+<26>	(123.790-130.080)	<sta> ang naging problema po kasi sa Quezon city bukod sa napakalaki parang walang coordination no .	the main problem at Quezon city aside from the very large seemingly no coordination right .
+<27>	(130.080-133.630)	humingi naman ng dispensa ang Palacio sa nahuling anunsiyo <breath> .	the Palace apologized for the late announcement .
+<28>	(133.630-139.880)	posibleng naninibago pa raw ang mga L_G_U <sta> na inatasang magdesisyon sa pagsususpende ng mga klase <breath> .	it was possible that the L_G_U who are mandated to decide on the suspension of classes are still new to this .
+<29>	(139.880-146.420)	<sta> sa protocol na inilabas ng pangulo four thirty pa lang ng umaga dapat nagsususpende na nang klase ang mga mayor .	in the protocol released by the president at only four thirty in the morning the mayors should have suspended the classes .
+<30>	(146.420-155.040)	pero ang rekomendasyon naman ng DepEd desisyonan na <sta> alas diyes ng gabi hanggang alas-kuwatro na madaling-araw kung sususpendihin ang klase o hindi .	but DepEd recommended that it should be decided by ten o'clock until four o'clock of daybreak if classes will be suspended or not .
+<31>	(155.040-160.492)	<sta> pero sa huli nasa magulang pa rin daw ang pasya kung papasukin ang anak o hindi .	but in the end it is still the parents decision if they will have their children enter or not .
+<32>	(160.492-162.254)	Mia Reyes ~ %incomplete	Mia Reyes %incomplete

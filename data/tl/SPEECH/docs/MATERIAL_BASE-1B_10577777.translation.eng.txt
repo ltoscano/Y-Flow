@@ -1,0 +1,91 @@
+<1>	(Inline, 0.000-0.600)	<no-speech>	<no-speech>
+<2>	(Outline, 0.000-1.210)	sino kasama n'yo diyan ?	who's with you there ?
+<3>	(Inline, 0.600-1.380)	oo .	yes .
+<4>	(Outline, 1.210-4.240)	<no-speech>	<no-speech>
+<5>	(Inline, 1.380-4.630)	<no-speech>	<no-speech>
+<6>	(Outline, 4.240-4.740)	ha ?	huh ?
+<7>	(Inline, 4.630-8.280)	ako lang 'tsaka 'yung mga gay na tropa rin .	just me and the gay friends too .
+<8>	(Outline, 4.740-8.090)	<no-speech>	<no-speech>
+<9>	(Outline, 8.090-10.140)	ay 'kala -- ay wala si Jan-Jan ?	oh I thought -- oh Jan-Jan is absent ?
+<10>	(Inline, 8.280-12.990)	<no-speech>	<no-speech>
+<11>	(Outline, 10.140-12.050)	<no-speech>	<no-speech>
+<12>	(Outline, 12.050-12.880)	<no-speech>	<no-speech>
+<13>	(Outline, 12.880-15.270)	<no-speech>	<no-speech>
+<14>	(Inline, 12.990-15.200)	ayon na pumasok pa 'yon mamaya pa uwi noon .	he went to work so he'll come home later .
+<15>	(Inline, 15.200-16.620)	<no-speech>	<no-speech>
+<16>	(Outline, 15.270-16.810)	hmm .	hmm .
+<17>	(Inline, 16.620-17.130)	mhm .	yes .
+<18>	(Outline, 16.810-18.170)	<no-speech>	<no-speech>
+<19>	(Inline, 17.130-26.750)	<no-speech>	<no-speech>
+<20>	(Outline, 18.170-19.970)	'di 'yan na lang .	so just those ones .
+<21>	(Outline, 19.970-21.880)	<no-speech>	<no-speech>
+<22>	(Outline, 21.880-24.180)	<sta> bukas na lang .	tomorrow okay .
+<23>	(Outline, 24.180-26.810)	<no-speech>	<no-speech>
+<24>	(Inline, 26.750-28.430)	mhm sino 'yon ?	yes who's that ?
+<25>	(Outline, 26.810-28.096)	eh uwi ba kayo ng %incomplete	are you going home on %incomplete
+<26>	(Outline, 28.096-28.797)	<no-speech>	<no-speech>
+<27>	(Inline, 28.430-33.210)	<no-speech>	<no-speech>
+<28>	(Outline, 28.797-30.659)	si Ate Letty si ate Che 'andito kami .	Sister Letty and Sister Che we're here .
+<29>	(Outline, 30.659-31.426)	bakit ?	why ?
+<30>	(Outline, 31.426-32.580)	<no-speech> eh ano .	uh .
+<31>	(Outline, 32.580-35.560)	<no-speech>	<no-speech>
+<32>	(Inline, 33.210-34.206)	ah ah .	ah ah .
+<33>	(Inline, 34.206-35.837)	<no-speech>	<no-speech>
+<34>	(Outline, 35.560-36.470)	eh ano ?	what ?
+<35>	(Inline, 35.837-38.700)	anong ginagawa n'yo diyan nag-to-tong-it <laugh> ?	what are you doing there playing rummy ?
+<36>	(Outline, 36.470-38.460)	<no-speech>	<no-speech>
+<37>	(Outline, 38.460-39.844)	wala nagkukuwentuhan .	nothing chatting .
+<38>	(Inline, 38.700-40.140)	<no-speech>	<no-speech>
+<39>	(Outline, 39.844-41.010)	eh sa (()) .	how about in (()) .
+<40>	(Inline, 40.140-42.280)	<breath> kumusta na kayo ?	how are you ?
+<41>	(Outline, 41.010-41.900)	<no-speech>	<no-speech>
+<42>	(Outline, 41.900-42.810)	eto .	like this .
+<43>	(Inline, 42.280-47.010)	<no-speech>	<no-speech>
+<44>	(Outline, 42.810-43.710)	<no-speech>	<no-speech>
+<45>	(Outline, 43.710-45.040)	mabutete .	fat .
+<46>	(Outline, 45.040-48.800)	<no-speech>	<no-speech>
+<47>	(Inline, 47.010-48.960)	nawawala-wala ka naman .	I'm losing you again .
+<48>	(Outline, 48.800-52.476)	hello ?	hello ?
+<49>	(Inline, 48.960-50.380)	<no-speech>	<no-speech>
+<50>	(Inline, 50.380-51.120)	hello ?	hello ?
+<51>	(Inline, 51.120-53.750)	<no-speech>	<no-speech>
+<52>	(Outline, 52.476-56.670)	(()) .	(()) .
+<53>	(Inline, 53.750-54.620)	hello ?	hello ?
+<54>	(Inline, 54.620-63.920)	<no-speech>	<no-speech>
+<55>	(Outline, 56.670-57.500)	<no-speech>	<no-speech>
+<56>	(Outline, 57.500-59.346)	<no-speech>	<no-speech>
+<57>	(Outline, 59.346-61.227)	'asaan ka diyan ka pa ?	where are you are you still there ?
+<58>	(Outline, 61.227-62.450)	<no-speech>	<no-speech>
+<59>	(Outline, 62.450-68.340)	<no-speech>	<no-speech>
+<60>	(Inline, 63.920-65.483)	eh 'andito ako nakatayo o .	I'm here standing .
+<61>	(Inline, 65.483-66.114)	hello ?	hello ?
+<62>	(Inline, 66.114-69.173)	hi kitang-kita ko nga kayo 'musta na kayo <laugh> ?	hi I can see you clearly how are you ?
+<63>	(Outline, 68.340-69.820)	eto mabuti .	fine .
+<64>	(Inline, 69.173-73.520)	hello ang suot mo nga ano ba suot mo kulay pink red o green ?	hello you're wearing what color are you wearing pink red or green ?
+<65>	(Outline, 69.820-73.460)	<no-speech>	<no-speech>
+<66>	(Outline, 73.460-74.737)	ano daw ?	what ?
+<67>	(Inline, 73.520-76.250)	<no-speech>	<no-speech>
+<68>	(Outline, 74.737-77.380)	<no-speech>	<no-speech>
+<69>	(Inline, 76.250-78.800)	<no-speech>	<no-speech>
+<70>	(Outline, 77.380-78.920)	<no-speech>	<no-speech>
+<71>	(Inline, 78.800-80.910)	<no-speech>	<no-speech>
+<72>	(Outline, 78.920-81.120)	<no-speech>	<no-speech>
+<73>	(Inline, 80.910-87.820)	<no-speech>	<no-speech>
+<74>	(Outline, 81.120-85.850)	<no-speech>	<no-speech>
+<75>	(Outline, 85.850-91.240)	<no-speech>	<no-speech>
+<76>	(Inline, 87.820-89.540)	<no-speech>	<no-speech>
+<77>	(Inline, 89.540-93.152)	<no-speech>	<no-speech>
+<78>	(Outline, 91.240-95.650)	<no-speech>	<no-speech>
+<79>	(Inline, 93.152-95.744)	ano ba 'yan nagtawanan na lang <laugh> .	whatever they just laughed .
+<80>	(Outline, 95.650-96.820)	ano (()) .	what (()) .
+<81>	(Inline, 95.744-98.940)	pagka may pera ako ng May uuwi kami ni Princess .	if I have money on May Princess and I will go home .
+<82>	(Outline, 96.820-99.330)	<no-speech>	<no-speech>
+<83>	(Inline, 98.940-103.430)	<no-speech>	<no-speech>
+<84>	(Outline, 99.330-100.300)	'no ?	what ?
+<85>	(Outline, 100.300-101.590)	<no-speech>	<no-speech>
+<86>	(Outline, 101.590-102.240)	<no-speech>	<no-speech>
+<87>	(Outline, 102.240-103.270)	<no-speech>	<no-speech>
+<88>	(Outline, 103.270-103.830)	(()) .	(()) .
+<89>	(Inline, 103.430-106.480)	'pag may pera kami ng May uuwi kami ni Princess .	if we have money on May Princess and I will go home .
+<90>	(Outline, 103.830-105.990)	<no-speech>	<no-speech>
+<91>	(Outline, 105.990-106.480)	<no-speech>	<no-speech>

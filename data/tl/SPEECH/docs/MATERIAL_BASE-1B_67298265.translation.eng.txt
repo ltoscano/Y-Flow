@@ -1,0 +1,66 @@
+<1>	(Inline, 0.000-1.585)	<no-speech>	<no-speech>
+<2>	(Outline, 0.000-9.175)	<no-speech>	<no-speech>
+<3>	(Inline, 1.585-2.915)	(()) .	(()) .
+<4>	(Inline, 2.915-3.825)	<no-speech>	<no-speech>
+<5>	(Inline, 3.825-4.495)	hello ?	hello ?
+<6>	(Inline, 4.495-5.855)	<no-speech>	<no-speech>
+<7>	(Inline, 5.855-7.905)	hello .	hello .
+<8>	(Inline, 7.905-8.815)	<no-speech>	<no-speech>
+<9>	(Inline, 8.815-10.355)	hello naririnig mo 'ko ?	hello do you hear me ?
+<10>	(Outline, 9.175-10.405)	<no-speech>	<no-speech>
+<11>	(Inline, 10.355-11.265)	<no-speech>	<no-speech>
+<12>	(Outline, 10.405-11.960)	oo bakit ?	yes why ?
+<13>	(Inline, 11.265-12.675)	hello 'musta ka na ?	hello how are you ?
+<14>	(Outline, 11.960-12.947)	<no-speech>	<no-speech>
+<15>	(Inline, 12.675-15.655)	<no-speech>	<no-speech>
+<16>	(Outline, 12.947-14.836)	okey lang .	just okay .
+<17>	(Outline, 14.836-16.667)	<no-speech>	<no-speech>
+<18>	(Inline, 15.655-17.015)	anong ginagawa mo ?	what are you doing ?
+<19>	(Outline, 16.667-20.575)	nagluluto <no-speech> sinaing .	cooking rice .
+<20>	(Inline, 17.015-18.735)	<no-speech>	<no-speech>
+<21>	(Inline, 18.735-19.760)	<no-speech>	<no-speech>
+<22>	(Inline, 19.760-20.800)	oh siya na maghugas ?	he will be the one to wash ?
+<23>	(Outline, 20.575-21.395)	<no-speech>	<no-speech>
+<24>	(Inline, 20.800-21.530)	<no-speech>	<no-speech>
+<25>	(Outline, 21.395-22.005)	<no-speech>	<no-speech>
+<26>	(Inline, 21.530-22.664)	anu-ano niluluto mo ?	what are you cooking ?
+<27>	(Outline, 22.005-23.055)	<no-speech>	<no-speech>
+<28>	(Inline, 22.664-24.698)	<no-speech>	<no-speech>
+<29>	(Outline, 23.055-24.405)	sinaing .	rice .
+<30>	(Outline, 24.405-26.935)	<no-speech>	<no-speech>
+<31>	(Inline, 24.698-27.291)	ako kanina naghugas na ako ng pinggan kaya natagalan .	me I already washed the dishes earlier which is why it took me some time .
+<32>	(Outline, 26.935-30.433)	<no-speech>	<no-speech>
+<33>	(Inline, 27.291-29.605)	<no-speech> ah <no-speech> ano ulam mo ?	ah what is your dish ?
+<34>	(Inline, 29.605-30.645)	<no-speech>	<no-speech>
+<35>	(Outline, 30.433-34.091)	wala yu- -- 'yon pa rin (()) kanina .	none -- the same (()) from earlier .
+<36>	(Inline, 30.645-33.276)	<no-speech>	<no-speech>
+<37>	(Inline, 33.276-34.285)	naririnig mo 'ko ?	do you hear me ?
+<38>	(Outline, 34.091-37.095)	<no-speech> oo maliwanag .	yes clearly .
+<39>	(Inline, 34.285-35.185)	<no-speech>	<no-speech>
+<40>	(Inline, 35.185-35.615)	<no-speech>	<no-speech>
+<41>	(Inline, 35.615-39.955)	<no-speech>	<no-speech>
+<42>	(Outline, 37.095-41.951)	ga'no 'yung 'yung unang mano .	how much is the first hit .
+<43>	(Inline, 39.955-45.955)	nandidiyan sila ano -- sila <no-speech> ano <no-speech> ano %incomplete .	they are in there -- they uhm uhm %incomplete
+<44>	(Outline, 41.951-44.301)	<no-speech>	<no-speech>
+<45>	(Outline, 44.301-46.995)	'no 'no ?	right right ?
+<46>	(Inline, 45.955-47.475)	<no-speech>	<no-speech>
+<47>	(Outline, 46.995-59.025)	<no-speech> 'yung -- 'yung unang mano <no-speech> 'yung mano kanina 'yung tawag dito <no-speech> parang putol-putol 'yung una .	the -- the first hit the hit earlier the call here the first one seems choppy .
+<48>	(Inline, 47.475-48.225)	tagal ?	it's too long ?
+<49>	(Inline, 48.225-49.185)	<no-speech>	<no-speech>
+<50>	(Inline, 49.185-50.095)	matagal .	it's too long .
+<51>	(Inline, 50.095-59.515)	<no-speech>	<no-speech>
+<52>	(Outline, 59.025-61.295)	<no-speech>	<no-speech>
+<53>	(Inline, 59.515-63.445)	ah oo na parang nag-cho-choppy pero ngayon okey na .	yes it seems you were choppy but it's okay now .
+<54>	(Outline, 61.295-63.337)	<no-speech>	<no-speech>
+<55>	(Outline, 63.337-65.693)	okey naman malinaw .	okay it's clear .
+<56>	(Inline, 63.445-64.645)	<no-speech>	<no-speech>
+<57>	(Inline, 64.645-65.185)	<no-speech>	<no-speech>
+<58>	(Inline, 65.185-65.985)	<no-speech>	<no-speech>
+<59>	(Outline, 65.693-68.641)	<no-speech>	<no-speech>
+<60>	(Inline, 65.985-67.547)	ano kamusta na kayo diyan ?	how are you doing there ?
+<61>	(Inline, 67.547-68.685)	<no-speech>	<no-speech>
+<62>	(Outline, 68.641-71.458)	private number 'tong nakalagay rito .	a private number appears here .
+<63>	(Inline, 68.685-70.975)	<no-speech>	<no-speech>
+<64>	(Inline, 70.975-71.535)	anong %incomplete .	what %incomplete
+<65>	(Outline, 71.458-72.825)	<no-speech>	<no-speech>
+<66>	(Inline, 71.535-72.825)	<no-speech>	<no-speech>

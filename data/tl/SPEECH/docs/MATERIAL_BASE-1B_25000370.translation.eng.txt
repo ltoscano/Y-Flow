@@ -1,0 +1,86 @@
+<1>	(Inline, 0.000-1.170)	<no-speech>	<no-speech>
+<2>	(Outline, 0.000-1.580)	si Leng-Leng nandiyan <no-speech> ?	is Leng-Leng there ?
+<3>	(Inline, 1.170-2.930)	wala (()) .	no (()) .
+<4>	(Outline, 1.580-4.810)	katukin mo sabihin mo 'yong bra ko kunin mo 'yong bra ko .	knock and tell her to get my bra get my bra .
+<5>	(Inline, 2.930-5.480)	<no-speech>	<no-speech>
+<6>	(Outline, 4.810-6.540)	<no-speech>	<no-speech>
+<7>	(Inline, 5.480-5.910)	<no-speech>	<no-speech>
+<8>	(Inline, 5.910-6.830)	<no-speech>	<no-speech>
+<9>	(Outline, 6.540-7.990)	'andiyan pa 'yon .	it's still there .
+<10>	(Inline, 6.830-7.714)	nakasarado .	it's closed .
+<11>	(Inline, 7.714-8.920)	<no-speech>	<no-speech>
+<12>	(Outline, 7.990-11.460)	<no-speech>	<no-speech>
+<13>	(Inline, 8.920-9.930)	nakasarado .	it's closed .
+<14>	(Inline, 9.930-11.740)	<no-speech>	<no-speech>
+<15>	(Outline, 11.460-13.075)	sabihin mo 'yong <hes> .	tell her that .
+<16>	(Inline, 11.740-12.980)	<no-speech>	<no-speech>
+<17>	(Inline, 12.980-13.420)	<no-speech>	<no-speech>
+<18>	(Outline, 13.075-13.676)	<no-speech>	<no-speech>
+<19>	(Inline, 13.420-15.430)	<no-speech>	<no-speech>
+<20>	(Outline, 13.676-15.280)	sabihin mo 'yong bra ko .	tell her to get my bra .
+<21>	(Outline, 15.280-20.340)	<no-speech>	<no-speech>
+<22>	(Inline, 15.430-16.110)	oo .	okay .
+<23>	(Inline, 16.110-20.530)	<no-speech>	<no-speech>
+<24>	(Outline, 20.340-22.089)	'andoon 'yong bra ko naiwan eh .	my bra was left in there .
+<25>	(Inline, 20.530-21.013)	hello .	hello .
+<26>	(Inline, 21.013-22.255)	<no-speech>	<no-speech>
+<27>	(Outline, 22.089-22.530)	<no-speech>	<no-speech>
+<28>	(Inline, 22.255-23.110)	oo .	yes .
+<29>	(Outline, 22.530-23.638)	<no-speech>	<no-speech>
+<30>	(Inline, 23.110-24.930)	<no-speech>	<no-speech>
+<31>	(Outline, 23.638-24.250)	hello ?	hello ?
+<32>	(Outline, 24.250-26.910)	<no-speech>	<no-speech>
+<33>	(Inline, 24.930-25.640)	oo .	yes .
+<34>	(Inline, 25.640-27.530)	<no-speech>	<no-speech>
+<35>	(Outline, 26.910-29.860)	kaya nga 'yong bra ko nga naiwan diyan kina Leng-Leng .	yes my bra was left there at Leng-Leng's .
+<36>	(Inline, 27.530-29.105)	<no-speech>	<no-speech>
+<37>	(Inline, 29.105-29.714)	oh ?	really ?
+<38>	(Inline, 29.714-30.982)	<no-speech>	<no-speech>
+<39>	(Outline, 29.860-30.660)	<no-speech>	<no-speech>
+<40>	(Outline, 30.660-32.460)	'yong color blue .	the blue one .
+<41>	(Inline, 30.982-33.410)	you .	you .
+<42>	(Outline, 32.460-33.290)	<no-speech>	<no-speech>
+<43>	(Outline, 33.290-35.190)	pakuha mo 'yong color blue .	have her get the blue one .
+<44>	(Inline, 33.410-35.580)	<no-speech>	<no-speech>
+<45>	(Outline, 35.190-38.500)	<no-speech>	<no-speech>
+<46>	(Inline, 35.580-37.170)	<int> 'yong ano .	which one .
+<47>	(Inline, 37.170-39.570)	<no-speech>	<no-speech>
+<48>	(Outline, 38.500-39.130)	hello ?	hello ?
+<49>	(Outline, 39.130-40.090)	<no-speech>	<no-speech>
+<50>	(Inline, 39.570-40.280)	hello ?	hello ?
+<51>	(Outline, 40.090-41.790)	'asaan ka ba nandiyan ka sa labas ?	where are you ? are you outside ?
+<52>	(Inline, 40.280-41.800)	<no-speech>	<no-speech>
+<53>	(Outline, 41.790-44.340)	<no-speech>	<no-speech>
+<54>	(Inline, 41.800-42.178)	nandito .	I'm here .
+<55>	(Inline, 42.178-43.550)	nandito pa rin nakatayo .	still standing here .
+<56>	(Inline, 43.550-46.680)	<no-speech>	<no-speech>
+<57>	(Outline, 44.340-46.650)	'yong bra kong kulay blue pakuha mo .	have my blue bra retrieved .
+<58>	(Outline, 46.650-49.640)	<no-speech>	<no-speech>
+<59>	(Inline, 46.680-47.810)	<int> oo .	yes .
+<60>	(Inline, 47.810-50.700)	<no-speech>	<no-speech>
+<61>	(Outline, 49.640-51.260)	'andiyan ka ba sa labas nga ?	are you really there outside ?
+<62>	(Inline, 50.700-52.140)	<sta> oo .	yes .
+<63>	(Outline, 51.260-56.620)	<no-speech>	<no-speech>
+<64>	(Inline, 52.140-52.970)	<no-speech>	<no-speech>
+<65>	(Inline, 52.970-56.288)	<sta> Lyn .	Lyn .
+<66>	(Inline, 56.288-56.860)	teka .	wait .
+<67>	(Outline, 56.620-58.480)	o 'andito na pala si Leng-Leng eh .	ohh Leng-Leng is already here .
+<68>	(Inline, 56.860-57.670)	<no-speech>	<no-speech>
+<69>	(Inline, 57.670-60.322)	<sta> Lyn .	Lyn .
+<70>	(Outline, 58.480-59.580)	<no-speech>	<no-speech>
+<71>	(Outline, 59.580-59.970)	<no-speech>	<no-speech>
+<72>	(Outline, 59.970-61.471)	<no-speech>	<no-speech>
+<73>	(Inline, 60.322-61.169)	oh .	oh .
+<74>	(Inline, 61.169-62.530)	<no-speech>	<no-speech>
+<75>	(Outline, 61.471-62.240)	(()) .	(()) .
+<76>	(Outline, 62.240-63.400)	<no-speech>	<no-speech>
+<77>	(Inline, 62.530-64.660)	<no-speech>	<no-speech>
+<78>	(Outline, 63.400-64.420)	'andito na .	already here .
+<79>	(Outline, 64.420-67.240)	<no-speech>	<no-speech>
+<80>	(Inline, 64.660-67.290)	<sta> dala na rin ?	did he bring it too ?
+<81>	(Outline, 67.240-68.988)	oo 'andito na si Leng-Leng .	yes Leng-Leng is already here .
+<82>	(Inline, 67.290-69.000)	<no-speech>	<no-speech>
+<83>	(Outline, 68.988-69.570)	<no-speech>	<no-speech>
+<84>	(Inline, 69.000-70.539)	<int> o sige .	okay .
+<85>	(Outline, 69.570-71.960)	<no-speech>	<no-speech>
+<86>	(Inline, 70.539-71.960)	<no-speech>	<no-speech>

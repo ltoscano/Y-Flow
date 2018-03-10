@@ -1,0 +1,9 @@
+<1>	(0.000-1.850)	puwedeng mag-generate ng electricity .	can generate electricity .
+<2>	(1.850-10.920)	ang National Irrigation Administration naman sinasabing hindi kailangang mangamba ng mga magsasaka para sa irigasyon ng kanilang pananim sa susunod na cropping season .	the National Irrigation Administration says farmers don't need to worry about irrigation of their crops for the next cropping season .
+<3>	(10.920-19.730)	gayunman <sta> tiwala ang mga namamahala ng dam na hindi sasadsad sa critical level ang tubig sa Magat dahil sa pagsapit ng tag-ulan .	still the management of the dam believe that water in Magat will not hit critical level because of the approaching rainy season .
+<4>	(19.730-29.944)	<int> hindi na rin daw kailangan magbawas ng supply ng patubig dahil tapos na raw ang harvest season sa ekta-ektaryang sakahan sa Isabela Quirino at Ifugao .	supply of water doesn't need to be decreased because supposedly harvest season in hectares of farms in Isabela Quirino and Ifugao are over .
+<5>	(29.944-36.088)	usually April May kasi <sta> wala ng <hes> release for irrigation .	because usually April May there is no more release for irrigation .
+<6>	(36.088-42.580)	mas maaga ang ulan <sta> inaaga naman namin 'yong start ng next cropping .	the earlier the rains the earlier we start the next cropping .
+<7>	(42.580-46.034)	<sta> kung minsan nag-start kami ng May sixteen gano'n .	sometimes we start on May sixteen like that .
+<8>	(46.034-55.630)	noong two thousand ten bumagsak <sta> sa critical level ang tubig sa dam at nagresulta ito sa pagkatuyot ng mga sakahan at fish kill sa mga palaisdaan .	in two thousand ten water in the dam reached critical level and resulted in drought in farms and fish kill in fisheries .
+<9>	(55.630-57.235)	bagay na <int> hindi na raw <sta> mauulit pa ~ %incomplete	something that can't be done again %incomplete

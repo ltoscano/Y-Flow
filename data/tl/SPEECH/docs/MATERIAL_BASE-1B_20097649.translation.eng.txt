@@ -1,0 +1,28 @@
+<1>	(0.000-7.816)	inianunsiyo ng D_O_H pasado alas-onse kaninang umaga na nagnegatibo na sa MERS-CoV si nurse B na taga-Banga South Cotabato .	the D_O_H has announced that past eleven this morning nurse B of Banga South Cotabato is negative of MERS-CoV .
+<2>	(7.816-9.160)	<no-speech>	<no-speech>
+<3>	(9.160-16.033)	kasama ang malalapit na kaibigan at kamag-anak ipinaalam namin ang magandang balita sa pamilya ni nurse B sa Banga .	together with close friends and relatives the good news is announced to nurse B's family in Banga .
+<4>	(16.033-18.052)	<no-speech>	<no-speech>
+<5>	(18.052-23.610)	pero naalarma si nurse B nang malamang nakipagsalamuha na ang kaniyang ama sa ibang tao .	but nurse B is alarmed when he learned her father has already interacted with other people .
+<6>	(23.610-24.634)	and you are free .	and you are free .
+<7>	(24.634-29.080)	(()) .	(()) .
+<8>	(29.080-38.080)	(()) .	(()) .
+<9>	(38.080-47.373)	sabi ng D_O_H kagabi pa lumabas ang resulta na nagnegatibo sa MERS-CoV test si nurse B na labis na ikinatuwa ng kaniyang pamilya .	according to D_O_H a negative result in a MERS-CoV test to nurse B was already released last night which caused overwhelming joy to her family .
+<10>	(47.373-54.620)	kuwento ni mang Leon na isang barangay kapitan napakatindi ng pinagdaanan nilang pagsubok sa nakaraang tatlong araw .	the story of Mang Leon a barangay captain the challenge that they had been through in the past three days was intense .
+<11>	(54.620-60.257)	pero mahirap din pala kung kayo ay naka-confine o 'tsaka naka-quarantine .	but it is also difficult if you are confined or quarantined .
+<12>	(60.257-64.760)	hindi kayo makagawa eh very worried talaga ako ma'am .	because you cannot do anything I am very worried ma'am .
+<13>	(64.760-70.940)	eh sabi ko ito pala ang maramdaman ng isang tao habang siya ay na ays- -- na-isolate malungkot .	so then I said this must be the feeling of a person while he -- is isolated lonely .
+<14>	(70.940-74.155)	kasi kahit na sa pagkain halos hindi ako makakain .	because even when eating I cannot almost eat .
+<15>	(74.155-78.680)	'yong isip ko talaga 'yong kung ano ang mangyari sa akin na .	I am really thinking of what is going to happen to me .
+<16>	(78.680-106.010)	<foreign> <foreign> ay pakiramdam ko na happy <foreign> liban sa anak na nurse at mister nito pito pa sa kanilang pamilya ang naka-quarantine kabilang si Elmer na ilang araw ding absent sa klase .	<foreign><foreign> ah my feeling of happiness <foreign> aside from a daughter who is a nurse and her husband another seven in their family are quarantined including Elmer who has been absent from his classes for few days .
+<17>	(106.010-108.287)	gusto ko makita mga friends ko .	I want to see my friends .
+<18>	(108.287-118.200)	nagbuhos naman ng sama ng loob ang miyembro ng pamilya dahil sa maling ulat ng ibang miyembro ng media at sa mga taong nanghusga at nandiri sa kanila .	the members of the family poured out their bad feelings because of the incorrect reports of the media and the people who judged and were disgusted at them .
+<19>	(118.200-127.198)	<hes> medyo nagalit na masama ang loob sa ano sa media sa -- sa mga nagbigay ng impormasyon na maling impormasyon .	slightly mad and the feelings are bad to the media -- to those who gave an information wrong information .
+<20>	(127.198-129.250)	actually mino-monitor palang 'yon eh .	actually it was still being monitored .
+<21>	(129.250-131.277)	wala pang- -- wala pang- -- katotohanan .	there is no -- no -- truth yet .
+<22>	(131.277-135.880)	<hes> pero sana mabawi na 'yong ano ma- -- ma- -- 'wag nang matakot ang mga tao .	but hopefully the -- could be taken back the people would not be afraid anymore .
+<23>	(135.880-142.730)	sana iwaksi na natin sa ating kaisipan na kayo ay nandidiri sa amin lalong-lalo na sa akin .	hopefully let us get rid from our minds that you are disgusted on us especially to me .
+<24>	(142.730-143.663)	'wag sana ako .	hopefully not me .
+<25>	(143.663-147.330)	sana iwaksi na 'yon kasi declared naman na negative siya ma'am .	hopefully that will be get rid off because it was already declared that she was negative ma'am .
+<26>	(147.330-152.825)	tumulak na papuntang Davao si kapitan Piliado para sunduin ang kaniyang anak at mister nito .	Captain Piliado went to Davao to fetch his daughter and her husband .
+<27>	(152.825-160.480)	pero maiiwan muna sa isolation room ng S_P_M_C sa Davao ang tatlo pang miyembro ng pamilya habang hinihintay ang resulta ng test .	but the remaining three members of the family will remain in the isolation room of S_P_M_C in Davao while waiting for the results of the test .
+<28>	(160.480-169.001)	umaasa naman ang pamilya na magiging normal na ulit ang pamumuhay nila na mas pinatatag ng isa pang- -- pinakamalaking pagsubok sa kanilang pamilya .	the family is expecting their way of life to become normal again which is strengthened by one of -- the biggest challenge in their family .

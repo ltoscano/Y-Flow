@@ -1,0 +1,65 @@
+<1>	(Inline, 0.000-0.530)	<no-speech>	<no-speech>
+<2>	(Outline, 0.000-1.960)	<no-speech>	<no-speech>
+<3>	(Inline, 0.530-1.722)	asa- -- asa- -- 'asaan ka na ?	where -- where -- where are you now ?
+<4>	(Inline, 1.722-8.200)	(()) .	(()) .
+<5>	(Outline, 1.960-2.620)	huh ?	huh ?
+<6>	(Outline, 2.620-5.070)	<no-speech>	<no-speech>
+<7>	(Outline, 5.070-6.140)	pauwi 'ko now .	I am on my way home .
+<8>	(Outline, 6.140-6.950)	<no-speech>	<no-speech>
+<9>	(Outline, 6.950-8.020)	na-flatan ako .	I got a flat tire .
+<10>	(Outline, 8.020-9.810)	<no-speech>	<no-speech>
+<11>	(Inline, 8.200-9.487)	mag-de-deal tayo .	let us have a deal .
+<12>	(Inline, 9.487-10.475)	huh ?	huh ?
+<13>	(Outline, 9.810-10.488)	hmm .	yes .
+<14>	(Inline, 10.475-11.510)	<no-speech>	<no-speech>
+<15>	(Outline, 10.488-11.360)	ano ?	what ?
+<16>	(Outline, 11.360-13.870)	<no-speech>	<no-speech>
+<17>	(Inline, 11.510-12.530)	<no-speech>	<no-speech>
+<18>	(Inline, 12.530-14.233)	ah hindi 'yan mag-de-deal nga tayo .	ah not that let us have a deal .
+<19>	(Outline, 13.870-14.300)	<no-speech>	<no-speech>
+<20>	(Inline, 14.233-14.801)	<no-speech>	<no-speech>
+<21>	(Outline, 14.300-16.600)	<no-speech>	<no-speech>
+<22>	(Inline, 14.801-16.300)	(()) mag-aahente tayo .	(()) let's become agents .
+<23>	(Inline, 16.300-17.180)	<no-speech>	<no-speech>
+<24>	(Outline, 16.600-17.260)	(()) .	(()) .
+<25>	(Inline, 17.180-17.530)	<no-speech>	<no-speech>
+<26>	(Outline, 17.260-20.960)	<no-speech>	<no-speech>
+<27>	(Inline, 17.530-18.620)	<no-speech>	<no-speech>
+<28>	(Inline, 18.620-20.780)	(()) ng house and lot .	(()) of house and lot .
+<29>	(Inline, 20.780-21.840)	<no-speech>	<no-speech>
+<30>	(Outline, 20.960-21.718)	hmm .	hmmm .
+<31>	(Outline, 21.718-22.360)	<no-speech>	<no-speech>
+<32>	(Inline, 21.840-24.810)	mag-aahente ako ng house and lot <int> binebenta sa 'kin .	I am going to be an agent for the house and lot being sold to me .
+<33>	(Outline, 22.360-24.900)	<no-speech>	<no-speech>
+<34>	(Inline, 24.810-25.830)	<no-speech>	<no-speech>
+<35>	(Outline, 24.900-26.470)	oo ito na-flatan ako eh .	yes I got flat .
+<36>	(Inline, 25.830-27.000)	<no-speech>	<no-speech>
+<37>	(Outline, 26.470-29.120)	<no-speech>	<no-speech>
+<38>	(Inline, 27.000-28.670)	ayaw mo ba sa ano %incomplete .	don't you like the %incomplete
+<39>	(Inline, 28.670-30.080)	<no-speech>	<no-speech>
+<40>	(Outline, 29.120-30.430)	na-flatan 'yung bike 'ko .	my bike went flat .
+<41>	(Inline, 30.080-33.060)	hindi nga sa mga kaibigan (()) .	not to friends really (()) .
+<42>	(Outline, 30.430-36.500)	<no-speech>	<no-speech>
+<43>	(Inline, 33.060-34.770)	<no-speech>	<no-speech>
+<44>	(Inline, 34.770-36.170)	i-invite mo lang na (()) .	just invite for (()) .
+<45>	(Inline, 36.170-37.900)	<no-speech>	<no-speech>
+<46>	(Outline, 36.500-37.315)	oo .	yes .
+<47>	(Outline, 37.315-40.930)	tapos nilagay sa vulcanizing <no-speech> tapos biglang niluto .	then was put in the vulcanizing then suddenly cooked .
+<48>	(Inline, 37.900-38.430)	wala .	nothing .
+<49>	(Inline, 38.430-39.590)	<no-speech>	<no-speech>
+<50>	(Inline, 39.590-40.100)	(()) .	(()) .
+<51>	(Inline, 40.100-43.560)	<no-speech>	<no-speech>
+<52>	(Outline, 40.930-61.310)	dapat hindi naman niluluto nasunog 'yung gulong pagsindi pag-ihip pa 'nong sa compressor sumabog 'yung gulo- -- 'yung interior nag- -- na lumutong <no-speech> matagal na kung bumili pa ng bagong interiors 'yung ano 'yung vulcanizing .	should not have been cooked the tires were burnt when the compressor ignited and blew the tires exploded -- the interior went -- crisp I had bought the new interiors long time ago the vulcanizing .
+<53>	(Inline, 43.560-44.060)	oh .	oh .
+<54>	(Inline, 44.060-45.570)	<no-speech>	<no-speech>
+<55>	(Inline, 45.570-48.920)	<no-speech>	<no-speech>
+<56>	(Inline, 48.920-56.080)	<no-speech>	<no-speech>
+<57>	(Inline, 56.080-58.080)	oo 'di pinabayaran mo sa -- sa kanila .	yes so you asked them to pay .
+<58>	(Inline, 58.080-59.080)	<no-speech>	<no-speech>
+<59>	(Inline, 59.080-59.440)	<no-speech>	<no-speech>
+<60>	(Inline, 59.440-61.030)	<no-speech>	<no-speech>
+<61>	(Inline, 61.030-63.007)	nagamit sila sa sa kanila 'yon .	they are used those are theirs .
+<62>	(Outline, 61.310-63.000)	<no-speech>	<no-speech>
+<63>	(Outline, 63.000-63.660)	hmm .	hmmm .
+<64>	(Inline, 63.007-65.480)	kasalanan nila 'yon .	it is their fault .
+<65>	(Outline, 63.660-65.480)	<no-speech>	<no-speech>

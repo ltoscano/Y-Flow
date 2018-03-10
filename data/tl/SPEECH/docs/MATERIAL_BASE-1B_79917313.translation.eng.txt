@@ -1,0 +1,97 @@
+<1>	(0.000-1.546)	pero okay naman ?	but is it okay ?
+<2>	(1.546-1.911)	oo .	yes .
+<3>	(1.911-3.998)	so ano ba itong lulutuin natin ngayong <hes> %incomplete	so what are we going to cook this %incomplete
+<4>	(3.998-4.835)	simple lang ito .	this is just simple .
+<5>	(4.835-5.330)	umaga ?	morning ?
+<6>	(5.330-7.729)	okay kangkong espesyal ito .	okay this is a special river spinach .
+<7>	(7.729-8.370)	ooh .	ooh .
+<8>	(8.370-8.884)	oo .	yes .
+<9>	(8.884-11.116)	alam mo sa bahay namin paboritong-paborito 'yang kangkong .	you know in our house that river spinach is the most favorite .
+<10>	(11.116-18.142)	wala akong problema diyan sa gulay na iyan dahil yung mga anak ko talagang gustong-gusto nila <overlap> kilala nilang gulay eh .	I do not have a problem with that vegetable because my children really like it because they know the vegetable .
+<11>	(18.142-20.318)	<overlap> sa atin nga yes tita ?	for us yes aunt ?
+<12>	(20.318-22.474)	naiibang luto yung gagawin natin .	a unique dish that's what we are going to do .
+<13>	(22.474-24.248)	hmm kaya naman excited <overlap> na rin ako .	hmm that's why I am already excited .
+<14>	(24.248-26.600)	so ano bang ingredients <overlap> natin ?	so what are our ingredients ?
+<15>	(26.600-30.100)	<hes> siyempre yung cooking oil vegetable oil .	of course the cooking oil vegetable oil .
+<16>	(30.100-35.880)	oyster sauce soy sauce konting butter lang ang gagamitin natin so sugar .	oyster sauce soy sauce we are just using a little bit of butter so sugar .
+<17>	(35.880-40.190)	<hes> garlic eto sliced chili yung pang sigang .	garlic here sliced chili the one for sour stew .
+<18>	(40.190-41.310)	so oo %incomplete	so yes %incomplete
+<19>	(41.310-44.555)	yung berde malalaki <overlap> hiniwa-hiwa natin inalis yung buto .	the green larger we cut it removed the seeds .
+<20>	(44.555-45.808)	so yung kangkong .	so the river spinach .
+<21>	(45.808-46.201)	hmm .	hmm .
+<22>	(46.201-49.207)	and for our topping itong garlic .	and for our topping this garlic .
+<23>	(49.207-51.634)	eto isasama natin sa pagluto yung chicharon .	this we will include in cooking pork rinds .
+<24>	(51.634-54.710)	<overlap> may chicharon na may garlic chips pa .	there is pork rinds with garlic chips too .
+<25>	(54.710-55.470)	oo .	yes .
+<26>	(55.470-56.986)	puwedeng hipon .	could also be shrimp .
+<27>	(56.986-57.910)	hmm <overlap> puwedeng baboy .	hmm could also be pork .
+<28>	(57.910-65.940)	pero ako chicharon pinili ko <overlap> so uunahin ko as usual magtitimpla tayo no'ng ating sauce .	but I chose pork rinds so I will first as usual we will be mixing our sauce .
+<29>	(65.940-71.576)	<overlap> dito niya gagawin hindi sa -- hindi -- sa kaldero tita ?	this is where he is making it not in -- not -- in a cauldron auntie ?
+<30>	(71.576-74.610)	oo para ma-adjust yung flavor .	yes so the flavor can be adjusted .
+<31>	(74.610-79.735)	so toyo yung una oyster sauce yung toyo mga dalawang kutsara lang and you put some sugar .	so soy sauce will go first oyster sauce the soy sauce around two tablespoons only and you put some sugar .
+<32>	(79.735-83.360)	so dapat yung ma-achieve na lasa dito yung parang matamis .	so the flavor that should be achieved here is like sweet .
+<33>	(83.360-87.580)	<no-speech>	<no-speech>
+<34>	(87.580-93.273)	so hindi ito maaaring gagawi sa kaldero ha <overlap> <int> .	so it could not be done in a cauldron okay .
+<35>	(93.273-95.900)	tapos medyo titikman-tikman ninyo <overlap> oo .	then you slightly taste it yes .
+<36>	(95.900-100.457)	puwede ring lagay n'yo ng konting kunyari medyo gusto mong maanghang ng kaunti para kay mister .	you can also put in a little bit like you slightly want it a little spicy for the mister .
+<37>	(100.457-102.490)	oo hindi may sili na tayo .	yes no we have chili .
+<38>	(102.490-106.714)	pero kung <overlap> walang sili puwede rin ?	but if there is no chili is it also possible ?
+<39>	(106.714-109.291)	yes <overlap> maanghang pa talaga mas maraming sili .	yes spicier the more chili .
+<40>	(109.291-111.290)	<no-speech>	<no-speech>
+<41>	(111.290-112.623)	okay na 'yan .	that's okay already .
+<42>	(112.623-114.880)	hmm okay masarap .	hmm okay delicious .
+<43>	(114.880-120.730)	so iinit na natin maglagay ng <overlap> para matunaw mabuti yung sugar .	so we warm it up put so dissolved properly is the sugar .
+<44>	(120.730-127.210)	<no-speech>	<no-speech>
+<45>	(127.210-133.140)	tapos <overlap> piniritong pla-pla yung mga ganoon di ba ?	then fried tilapia like those right ?
+<46>	(133.140-136.970)	pritong tilapia nga lang masarap din .	fried tilapia is already delicious too .
+<47>	(136.970-139.970)	<no-speech>	<no-speech>
+<48>	(139.970-153.510)	natutunan ko 'yan kay Chef Reymar na kailangan pala 'pag nag-ano ka ng butter may konting <overlap> para <overlap> yung butter kasi pag nasusunog yung butter pumapait ba <overlap> nawawala yung ano niya humihiwalay .	I learned that from chef Reymar that apparently you need if you what butter there is a little so that the butter because if the butter is burning it becomes bitter loses the what it separates .
+<49>	(153.510-154.103)	oo .	yes .
+<50>	(154.103-157.181)	oo yung <int> gisa lang natin .	yes only our stir fry .
+<51>	(157.181-159.880)	so bawang muna .	so garlic first .
+<52>	(159.880-163.480)	isusunod agad natin yung kangkong at sili .	we will immediately follow with the water spinach and chili .
+<53>	(163.480-168.880)	medyo brown lang ng kaunti .	slightly brown only a little .
+<54>	(168.880-170.742)	<no-speech>	<no-speech>
+<55>	(170.742-181.792)	actually ano 'to eh puwedeng pulutan <overlap> <laugh> <overlap> tapos kung nama- -- siguro din tita kung na master na nila ang sauce nito puwedeng palitan na lang yung kangkong .	actually this is uh could be appetizer taken with alcohol then if -- maybe auntie if they mastered this sauce they only have to change the water spinach .
+<56>	(181.792-183.900)	ako kasi minsan yung ginagawa ko yung button mushroom ?	because sometimes what I do is I make button mushroom ?
+<57>	(183.900-184.890)	puwede -- sa lata ?	allowed -- in can ?
+<58>	(184.890-188.330)	<overlap> spinach ?	spinach ?
+<59>	(188.330-189.755)	spinach puwede rin .	spinach possible too .
+<60>	(189.755-192.350)	o yung Baguio beans .	or those Baguio beans .
+<61>	(192.350-213.573)	kasi gano'n eh minsan natututo nga ako pagka yung isang sauce kumbaga umokey kunyari let's say sa chicken aah puwede the same recipe palitan ko lang <overlap> <overlap> sauce puwede naman 'yan kahit <overlap> kasi minsan nga sa isang linggo 'yan ang problema natin mga nanay yung pag-iisip ng putahe sa isang buong linggo .	because like that so sometimes I actually learned that if one sauce turns out okay example let's say with chicken aah it is possible for the same recipe I will only alter the sauce that's allowed because sometimes even in a week that is our problem as mothers thinking what dish for the whole week .
+<62>	(213.573-216.560)	<no-speech>	<no-speech>
+<63>	(216.560-217.620)	para kang may exam .	it's like you have an exam .
+<64>	(217.620-218.784)	ako lagi gano'n eh .	because I am always like that .
+<65>	(218.784-219.732)	mahirap talaga .	it is really hard .
+<66>	(219.732-221.440)	ngayon maglagay na tayo nito .	now we will put this .
+<67>	(221.440-222.563)	so yung atin sauce .	so our sauce .
+<68>	(222.563-223.182)	sauce .	sauce .
+<69>	(223.182-224.737)	haluin po tita .	mix auntie .
+<70>	(224.737-225.690)	hmm .	hmm .
+<71>	(225.690-227.251)	<no-speech>	<no-speech>
+<72>	(227.251-229.177)	mayroon din namang iba ginagawa na ganito .	there are others doing it like this .
+<73>	(229.177-231.967)	di ba minsan sa Chinese restaurant yung spinach with garlic .	like sometimes in Chinese restaurant the spinach with garlic .
+<74>	(231.967-232.709)	oo .	yes .
+<75>	(232.709-233.440)	broccoli with garlic .	broccoli with garlic .
+<76>	(233.440-236.015)	puwede rin 'yon ganito lang wala na yung oyster sauce .	it could also be like this only with the oyster sauce .
+<77>	(236.015-237.500)	oo wala na .	yes no more .
+<78>	(237.500-239.548)	puwede garlic lang and oil .	it could also be just garlic and oil only .
+<79>	(239.548-240.872)	yes ayan tita .	yes that auntie .
+<80>	(240.872-243.600)	ilagay na natin yung <overlap> .	let us put already the .
+<81>	(243.600-246.938)	so itong garlic chips natin <overlap> .	so these garlic chips of ours .
+<82>	(246.938-254.673)	kaya ko nilalagay yung chicharon para para maano ma absorb din no'ng chicharon yung konting oyster sauce .	why I am putting the pork skin crackling here for for the pork skin crackling to absorb a little oyster sauce .
+<83>	(254.673-256.120)	malasa siya .	it is tasty .
+<84>	(256.120-257.709)	<no-speech>	<no-speech>
+<85>	(257.709-258.649)	buti na lang ngayon ano ?	it's good right now ?
+<86>	(258.649-270.960)	sabi ko nga kay <hes> Edu mayroon ng mga oyster sauce mga less sodium <overlap> conscious ka sa alat 'no .	like I told Edu there are already oyster sauces with less sodium you are conscious with saltiness right .
+<87>	(270.960-278.130)	ito 'wag natin overcook yung gulay dahil <overlap> at tsaka masarap kung medyo malutong-lutong ng kaunti yung kangkong .	this let us not overcook the vegetable because and then it's delicious if the river spinach is a little bit crispy .
+<88>	(278.130-281.198)	so gano'n lang kadali .	so it was that easy .
+<89>	(281.198-282.459)	gano'n kadali lang ito .	this is that easy .
+<90>	(282.459-284.970)	<no-speech>	<no-speech>
+<91>	(284.970-293.970)	ibang ulam <overlap> at perfect din 'yang dish na iyian sa mga figure conscious at healthy din ang dish na ito dahil mayroon laman itong one hundred seventy calories .	other dish and perfect also is that dish for figure conscious and healthy too is this dish because it contains one hundred seventy calories .
+<92>	(293.970-299.630)	para mas lesser ang calories niyan maaaring i-substitute naman yung chicharon ng chicken breast .	so it would have less calories chicken breast can be used as a substitute for pork cracklings .
+<93>	(299.630-303.320)	chicken breast puwede isda kung anong gusto n'yo puwede .	chicken breast or fish whatever you want is possible .
+<94>	(303.320-306.806)	at siyempre alam naman natin ang kangkong ay mainam sa crude fiber .	and of course we know that river spinach is good for crude fiber .
+<95>	(306.806-310.748)	mainam ito para maibsan ang ating problemang constipation .	this is good for relieving our problems with constipation .
+<96>	(310.748-321.183)	<overlap> so ito na ang ating napakasarap napakasimple pero masustansiya at talaga namang ubod ng linamnam na kangkong special ni Mommy Lally .	so here is our very delicious very simple but nutritious and very flavorful river spinach special by Mommy Lally .
+<97>	(321.183-321.848)	so tawagin na natin ~ %incomplete	so let us call %incomplete

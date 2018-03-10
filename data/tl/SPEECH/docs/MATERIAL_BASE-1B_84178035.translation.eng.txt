@@ -1,0 +1,101 @@
+<1>	(Outline, 0.000-3.315)	<no-speech>	<no-speech>
+<2>	(Inline, 0.000-4.331)	<no-speech>	<no-speech>
+<3>	(Outline, 3.315-6.275)	<no-speech>	<no-speech>
+<4>	(Inline, 4.331-5.838)	ang lakas ng boses mo .	your voice is loud .
+<5>	(Inline, 5.838-7.430)	'asaan ka ba ?	where are you anyway ?
+<6>	(Outline, 6.275-12.933)	<sta> nandito sa tabi-tabi .	just hanging around .
+<7>	(Inline, 7.430-8.740)	<no-speech>	<no-speech>
+<8>	(Inline, 8.740-10.050)	dito ako sa rooftop .	I'm on the rooftop .
+<9>	(Inline, 10.050-11.940)	<no-speech>	<no-speech>
+<10>	(Inline, 11.940-14.980)	<no-speech>	<no-speech>
+<11>	(Outline, 12.933-14.163)	<no-speech>	<no-speech>
+<12>	(Outline, 14.163-15.574)	nandito sa tabi-tabi .	I'm hanging out .
+<13>	(Inline, 14.980-15.585)	saan ?	where ?
+<14>	(Outline, 15.574-17.755)	<no-speech>	<no-speech>
+<15>	(Inline, 15.585-17.105)	<no-speech>	<no-speech>
+<16>	(Inline, 17.105-17.908)	saan ka ?	where are you ?
+<17>	(Outline, 17.755-18.830)	<no-speech>	<no-speech>
+<18>	(Inline, 17.908-20.590)	<no-speech>	<no-speech>
+<19>	(Outline, 18.830-20.426)	nasa tabi-tabi .	just around .
+<20>	(Outline, 20.426-32.695)	<sta> <sta> ano ?	what ?
+<21>	(Inline, 20.590-21.800)	<no-speech>	<no-speech>
+<22>	(Inline, 21.800-23.004)	<no-speech>	<no-speech>
+<23>	(Inline, 23.004-23.504)	saan ?	where ?
+<24>	(Inline, 23.504-24.980)	<no-speech>	<no-speech>
+<25>	(Inline, 24.980-25.960)	<no-speech>	<no-speech>
+<26>	(Inline, 25.960-27.330)	nga ?	really ?
+<27>	(Inline, 27.330-30.330)	<no-speech>	<no-speech>
+<28>	(Inline, 30.330-31.550)	saan ?	where ?
+<29>	(Inline, 31.550-32.460)	<no-speech>	<no-speech>
+<30>	(Inline, 32.460-35.729)	ang ganda 'yong kausap ko sa kabila (()) .	the one I was speaking with on the other side (()) was pretty .
+<31>	(Outline, 32.695-34.145)	<no-speech>	<no-speech>
+<32>	(Outline, 34.145-35.185)	<no-speech>	<no-speech>
+<33>	(Outline, 35.185-36.955)	nandito sa tabi-tabi .	here hanging out .
+<34>	(Inline, 35.729-37.181)	<no-speech>	<no-speech>
+<35>	(Outline, 36.955-38.145)	<no-speech>	<no-speech>
+<36>	(Inline, 37.181-37.806)	huh ?	what ?
+<37>	(Inline, 37.806-39.190)	o ano ?	what now ?
+<38>	(Outline, 38.145-42.601)	<no-speech>	<no-speech>
+<39>	(Inline, 39.190-42.970)	<no-speech>	<no-speech>
+<40>	(Outline, 42.601-43.275)	oh .	oh .
+<41>	(Inline, 42.970-44.470)	mag-asawa ka na kasi .	just get married .
+<42>	(Outline, 43.275-46.255)	<no-speech>	<no-speech>
+<43>	(Inline, 44.470-46.020)	<no-speech>	<no-speech>
+<44>	(Inline, 46.020-47.510)	mag-asawa ka na .	get married already .
+<45>	(Outline, 46.255-51.321)	<no-speech>	<no-speech>
+<46>	(Inline, 47.510-48.760)	<no-speech>	<no-speech>
+<47>	(Inline, 48.760-49.350)	<no-speech>	<no-speech>
+<48>	(Inline, 49.350-50.670)	<no-speech>	<no-speech>
+<49>	(Inline, 50.670-51.250)	huh ?	what ?
+<50>	(Inline, 51.250-53.650)	<no-speech>	<no-speech>
+<51>	(Outline, 51.321-53.607)	sasama na ako .	I'll join you .
+<52>	(Outline, 53.607-56.715)	<no-speech>	<no-speech>
+<53>	(Inline, 53.650-54.430)	<no-speech>	<no-speech>
+<54>	(Inline, 54.430-56.180)	<no-speech>	<no-speech>
+<55>	(Inline, 56.180-58.503)	ba't ayaw mo pa kasi magka-ano eh %incomplete	why don't you want to have %incomplete
+<56>	(Outline, 56.715-57.775)	<no-speech>	<no-speech>
+<57>	(Outline, 57.775-69.645)	<no-speech>	<no-speech>
+<58>	(Inline, 58.503-60.143)	tagal naman .	it's taking so long .
+<59>	(Inline, 60.143-62.667)	<no-speech>	<no-speech>
+<60>	(Inline, 62.667-63.220)	huh ?	what ?
+<61>	(Inline, 63.220-65.230)	<no-speech>	<no-speech>
+<62>	(Inline, 65.230-67.230)	eto ano guwapo pa rin .	here I am still handsome .
+<63>	(Inline, 67.230-68.380)	<no-speech>	<no-speech>
+<64>	(Inline, 68.380-72.356)	<no-speech>	<no-speech>
+<65>	(Outline, 69.645-70.535)	<no-speech>	<no-speech>
+<66>	(Outline, 70.535-71.615)	<no-speech>	<no-speech>
+<67>	(Outline, 71.615-76.045)	<no-speech>	<no-speech>
+<68>	(Inline, 72.356-72.980)	hello ?	hello ?
+<69>	(Inline, 72.980-75.010)	<no-speech>	<no-speech>
+<70>	(Inline, 75.010-75.763)	oo .	yes .
+<71>	(Inline, 75.763-77.700)	may taping pa ako sa ano .	I have a taping somewhere .
+<72>	(Outline, 76.045-76.888)	hello .	hello .
+<73>	(Outline, 76.888-81.549)	<no-speech>	<no-speech>
+<74>	(Inline, 77.700-79.490)	<no-speech>	<no-speech>
+<75>	(Inline, 79.490-80.042)	oo .	yes .
+<76>	(Inline, 80.042-83.070)	sa G_M_A -- G_M_A .	at G_M_A -- G_M_A .
+<77>	(Outline, 81.549-83.185)	may five finger ba ngayon ?	is there a robbery today ?
+<78>	(Inline, 83.070-84.050)	<no-speech>	<no-speech>
+<79>	(Outline, 83.185-85.280)	sige pumunta ka na sa Soyting mo .	alright go to your shooting .
+<80>	(Inline, 84.050-86.321)	<no-speech>	<no-speech>
+<81>	(Outline, 85.280-92.982)	<no-speech>	<no-speech>
+<82>	(Inline, 86.321-86.850)	saan ?	where ?
+<83>	(Inline, 86.850-88.507)	<no-speech>	<no-speech>
+<84>	(Inline, 88.507-89.420)	sa G_M_A .	at G_M_A .
+<85>	(Inline, 89.420-90.340)	<no-speech>	<no-speech>
+<86>	(Inline, 90.340-92.150)	G_M_A Cavite .	G_M_A Cavite .
+<87>	(Inline, 92.150-93.200)	<no-speech>	<no-speech>
+<88>	(Outline, 92.982-94.465)	ha ?	what ?
+<89>	(Inline, 93.200-93.580)	<no-speech>	<no-speech>
+<90>	(Inline, 93.580-95.380)	<no-speech>	<no-speech>
+<91>	(Outline, 94.465-96.034)	<no-speech>	<no-speech>
+<92>	(Inline, 95.380-96.570)	huh ?	what ?
+<93>	(Outline, 96.034-97.671)	'yon may Cavite ?	the one in Cavite ?
+<94>	(Inline, 96.570-98.520)	<no-speech>	<no-speech>
+<95>	(Outline, 97.671-106.275)	<no-speech>	<no-speech>
+<96>	(Inline, 98.520-99.170)	oo .	yes .
+<97>	(Inline, 99.170-100.890)	<no-speech>	<no-speech>
+<98>	(Inline, 100.890-102.081)	ano -- hindi .	what -- no .
+<99>	(Inline, 102.081-103.266)	ah ten minutes na ba ?	ahh has it been ten minutes ?
+<100>	(Inline, 103.266-104.860)	(()) .	(()) .
+<101>	(Inline, 104.860-106.275)	<no-speech>	<no-speech>

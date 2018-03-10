@@ -1,0 +1,70 @@
+<1>	(Outline, 0.000-0.825)	<no-speech>	<no-speech>
+<2>	(Inline, 0.000-3.190)	eto mamaya pa ako papasok sa trabaho .	here I am going to work later .
+<3>	(Outline, 0.825-2.505)	o kumusta na sila nanay diyan ?	oh how are they and mother there ?
+<4>	(Outline, 2.505-4.805)	<no-speech>	<no-speech>
+<5>	(Inline, 3.190-5.080)	<no-speech>	<no-speech>
+<6>	(Outline, 4.805-5.675)	hello .	hello .
+<7>	(Inline, 5.080-6.470)	okey lang naman .	still okay .
+<8>	(Outline, 5.675-6.575)	<no-speech>	<no-speech>
+<9>	(Inline, 6.470-7.740)	<no-speech>	<no-speech>
+<10>	(Outline, 6.575-7.951)	<no-speech>	<no-speech>
+<11>	(Inline, 7.740-8.671)	hello ?	hello ?
+<12>	(Outline, 7.951-10.155)	o ano kumusta may trabaho ka ba ?	oh what how are you do you have a job ?
+<13>	(Inline, 8.671-11.360)	okey lang naman sila nanay dito .	they are okay and mother here .
+<14>	(Outline, 10.155-13.875)	<no-speech>	<no-speech>
+<15>	(Inline, 11.360-12.430)	<no-speech>	<no-speech>
+<16>	(Inline, 12.430-13.890)	mayroon na .	already have .
+<17>	(Outline, 13.875-14.644)	<no-speech>	<no-speech>
+<18>	(Inline, 13.890-14.870)	<no-speech>	<no-speech>
+<19>	(Outline, 14.644-15.675)	o ano trabaho mo ?	oh what is your job ?
+<20>	(Inline, 14.870-19.950)	sa ano fastfood ako kumak- -- sa fastfood ako nagtratrabaho ngayon .	in the fast food I am -- I am working in a fast food now .
+<21>	(Outline, 15.675-19.005)	<no-speech>	<no-speech>
+<22>	(Outline, 19.005-19.715)	saan ?	where ?
+<23>	(Outline, 19.715-22.065)	<no-speech>	<no-speech>
+<24>	(Inline, 19.950-20.870)	<no-speech>	<no-speech>
+<25>	(Inline, 20.870-22.010)	<no-speech>	<no-speech>
+<26>	(Inline, 22.010-23.720)	sa mga fastfood .	in fast food .
+<27>	(Outline, 22.065-22.795)	ng ?	of ?
+<28>	(Outline, 22.795-25.165)	<no-speech>	<no-speech>
+<29>	(Inline, 23.720-25.770)	<no-speech>	<no-speech>
+<30>	(Outline, 25.165-25.780)	apat .	four .
+<31>	(Inline, 25.770-26.530)	burger .	burger .
+<32>	(Outline, 25.780-27.366)	buti ka pa may trabaho na .	good for you you already have a job .
+<33>	(Inline, 26.530-28.740)	<no-speech>	<no-speech>
+<34>	(Outline, 27.366-27.986)	<no-speech>	<no-speech>
+<35>	(Outline, 27.986-28.635)	ha ?	ha ?
+<36>	(Outline, 28.635-31.265)	<no-speech>	<no-speech>
+<37>	(Inline, 28.740-29.090)	<no-speech>	<no-speech>
+<38>	(Inline, 29.090-30.210)	<no-speech>	<no-speech>
+<39>	(Inline, 30.210-32.968)	eh ikaw ano ginagawa mo ngayon diyan ?	eh what about you what are you doing there now ?
+<40>	(Outline, 31.265-32.087)	hello ?	hello ?
+<41>	(Outline, 32.087-32.469)	<no-speech>	<no-speech>
+<42>	(Outline, 32.469-33.394)	wala .	nothing .
+<43>	(Inline, 32.968-33.550)	<no-speech>	<no-speech>
+<44>	(Outline, 33.394-33.703)	<no-speech>	<no-speech>
+<45>	(Inline, 33.550-34.430)	<no-speech>	<no-speech>
+<46>	(Outline, 33.703-36.390)	wala pa rin sa bahay tumulong .	nothing yet helping around the house .
+<47>	(Inline, 34.430-35.320)	hello ?	hello ?
+<48>	(Inline, 35.320-39.700)	<no-speech>	<no-speech>
+<49>	(Outline, 36.390-36.625)	<no-speech>	<no-speech>
+<50>	(Outline, 36.625-37.492)	hello .	hello .
+<51>	(Outline, 37.492-38.006)	<no-speech>	<no-speech>
+<52>	(Outline, 38.006-41.545)	dito pa rin sa bahay tumutulong nag-aalaga ng mga pamangkin .	still here in the house helping taking care of my nephews .
+<53>	(Inline, 39.700-42.690)	(()) pinapabayaan mo siya .	(()) you are neglecting him .
+<54>	(Outline, 41.545-44.045)	<no-speech>	<no-speech>
+<55>	(Inline, 42.690-43.810)	<no-speech>	<no-speech>
+<56>	(Inline, 43.810-46.740)	huh ?	huh ?
+<57>	(Outline, 44.045-45.354)	wala nga .	nothing I said .
+<58>	(Outline, 45.354-46.558)	<no-speech>	<no-speech>
+<59>	(Outline, 46.558-48.155)	heto bantay bahay .	here overseeing the house .
+<60>	(Inline, 46.740-47.790)	<no-speech>	<no-speech>
+<61>	(Inline, 47.790-49.030)	<no-speech>	<no-speech>
+<62>	(Outline, 48.155-49.775)	<no-speech>	<no-speech>
+<63>	(Inline, 49.030-51.200)	<no-speech>	<no-speech>
+<64>	(Outline, 49.775-50.614)	<no-speech>	<no-speech>
+<65>	(Outline, 50.614-51.657)	bantay bahay .	overseeing the house .
+<66>	(Inline, 51.200-53.460)	wala ka ngayon kasama diyan ?	don't you have any company there ?
+<67>	(Outline, 51.657-51.689)	<no-speech>	<no-speech>
+<68>	(Outline, 51.689-52.265)	ikaw ?	you ?
+<69>	(Outline, 52.265-54.435)	<no-speech>	<no-speech>
+<70>	(Inline, 53.460-54.435)	<no-speech>	<no-speech>

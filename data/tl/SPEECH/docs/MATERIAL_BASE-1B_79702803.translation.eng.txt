@@ -1,0 +1,65 @@
+<1>	(0.000-1.977)	<no-speech>	<no-speech>
+<2>	(1.977-10.730)	kinondena ni Pope Francis ang mapag-aksayang kultura ng mga tao sa buong mundo sa kaniyang nakaraang pahayag sa Saint Peter's square .	Pope Francis condemns the wasteful culture of people around the world in his previous statement in Saint Peter's Square .
+<3>	(10.730-17.820)	ayon sa Santo Papa ang pagtatapon ng sobrang pagkain ay tila pagnanakaw na rin daw sa mga mahihirap .	according to that Saint Pope the throwing of excess food is the same as robbing the poor .
+<4>	(17.820-21.553)	<sta> pero sa Pilipinas hindi lahat ng tira-tira nasasayang .	but in the Philippines not all leftovers are wasted .
+<5>	(21.553-28.220)	dahil ang pagkaing itinapon sa basurahan pinapagpag at inihahain muli .	because the food thrown in the garbage is dusted off and served again .
+<6>	(28.220-35.341)	nakisalo ang reaksiyon sa mga kapatid nating isinusugal ang kanilang kalusugan at buhay <sta> sa bawat subo .	reactions mixed with our brothers who gambles their health and lives in every bite .
+<7>	(35.341-39.070)	<no-speech>	<no-speech>
+<8>	(39.070-43.504)	<no-speech>	<no-speech>
+<9>	(43.504-50.038)	hapon nagsisimula sa pangangalakal si Eril <sta> kasama ang kaibigang si Lester .	Eril starts checking garbage cans in the afternoon with his friend Lester .
+<10>	(50.038-53.440)	<no-speech>	<no-speech>
+<11>	(53.440-56.953)	sinusuyod nila ang Quirino highway sa Quezon city .	they tread Quirino highway in Quezon city .
+<12>	(56.953-59.024)	<no-speech>	<no-speech>
+<13>	(59.024-67.470)	bawat supot na nakikita kinakapa ng magkaibigan kung may mga bote na plastic o latang maaaring ibenta .	they check every bag that they see if it has plastic bottles or cans that could be sold .
+<14>	(67.470-73.490)	pero ang tunay na pakay nila maghanap ng itinatapong mga pagkain para ipagpag .	but their true motive is to look for thrown food to shake off .
+<15>	(73.490-77.370)	<sta> tatlong taon na sa ganitong sitwasyon si Eril mula Masbate .	Eril is from Masbate and has been in this situation for three years .
+<16>	(77.370-79.525)	nakipagsapalaran daw siya sa Maynila .	he tried his luck in Manila .
+<17>	(79.525-80.556)	<no-speech>	<no-speech>
+<18>	(80.556-83.035)	naranasan ko din hirap talaga sa probinsiya .	I also experience hardships in the province .
+<19>	(83.035-87.173)	nagpunta ako dito sa Maynila para maghanap po ano ng trabaho .	I went here in Manila to look for a job .
+<20>	(87.173-91.783)	magkaroon lang ng ano <sta> stable na trabaho para makapagpadala sa probinsiya .	to have a stable job to send money in the province .
+<21>	(91.783-92.787)	<no-speech>	<no-speech>
+<22>	(92.787-99.570)	ngayon sa mga bulto ng garbage bag niya nahanap ang mailalaman sa kumakalam niyang sikmura .	now in the heaps of garbage bags does he find what will fill his empty stomach .
+<23>	(99.570-103.828)	<sta> tira tirang banana cue at buto-buto ng manok ang magiging hapunan nila .	a leftover banana cue and chicken bones will be their dinner .
+<24>	(103.828-105.237)	anong gagawin n'yo diyan ?	what will you do with that ?
+<25>	(105.237-109.800)	pagkatapos paglaga po kung gustong may gustong magsabaw sasabawan .	after boiling it we could make soup out of it if someone wants to have soup .
+<26>	(109.800-110.994)	gusto nga daw pa-adobo .	they wanted to have adobo .
+<27>	(110.994-113.109)	<no-speech>	<no-speech>
+<28>	(113.109-117.760)	pagdating sa kanilang tinitirhang waiting shed inilaga muna ang manok .	when they arrived the waiting shed where they were living they boiled the chicken first .
+<29>	(117.760-119.099)	saka inalis ang tubig .	and then removed the water .
+<30>	(119.099-125.200)	nilagyan rin nila ito ng suka toyo at vetsin saka muling isinalang sa apoy .	they also put vinegar soy sauce and MSG powder and then cooked it with fire .
+<31>	(125.200-129.131)	ginawa namang pampagana ng magkaibigan ang nakuhang banana cue .	the friends then made the banana cue as appetizers .
+<32>	(129.131-133.390)	diretso kain na po 'to kasi hindi naman sira tapos ano naka-plastic naman siya eh .	directly eat it it's not spoiled and it's even wrapped with a plastic .
+<33>	(133.390-138.938)	<no-speech>	<no-speech>
+<34>	(138.938-147.850)	<sta> nang maluto pinaghatian na nila Eril Lester at isa pang kasama nila sa waiting shed ang inadobong pagpag na manok .	when it was cooked Eril Lester and another companion in the waiting shed then divided the chicken adobo .
+<35>	(147.850-155.934)	kumbaga kailangan ko lang itawid yung sarili ko sa gutom kaya pipilitin kong kumain kahit nasa basurahan na eh .	you might say I just need to get by the hunger that's why I'll force myself to eat even if it's already in the trash .
+<36>	(155.934-156.982)	<no-speech>	<no-speech>
+<37>	(156.982-164.560)	ang patuloy na pagkain nila ng pagpag <sta> dahil na rin sa malaking food waste araw-araw ng iba't ibang establisimiyento .	their continuous eating of dirty food also because of the big food waste of various establishments daily .
+<38>	(164.560-178.391)	ayon sa pag-aaral ng Food and Nutrition Research Institute o F_N_R_I tinatayang isang libo't dalawang daang toneladang pagkain ang nasasayang kada araw at pinakamalaking porsiyento rito ay kanin .	according to the study of Food and Nutrition Research Institute of F_N_R an estimate of one thousand two hundred tons of food are put to waste daily and the biggest percentage is rice .
+<39>	(178.391-179.395)	<no-speech>	<no-speech>
+<40>	(179.395-185.586)	dalawampu't dalawang gramong pagkain naman ang nasasayang ng isang tao sa loob ng isang araw .	more so twenty-two grams of food are wasted by one person in one day .
+<41>	(185.586-201.330)	nakita namin na kung iipunin natin yung halaga na nasasayang dahil sa rice waste waste na ito at ito ay halimbawa ay <hes> ilalagay natin sa mga pangangailangan ng mga bata na street children .	we discovered that if you save the amount of waste because of the rice waste this waste and this is an example of we'll allot it for the needs of the street children .
+<42>	(201.330-215.286)	lalabas na makakapagbigay tayo ng mga around sixty four to sixty five pesos per street child na malaking halaga 'yon para matugunan yung mga pangangailangan ng mga bata .	it will turn out that we can give around sixty-four to sixty-five pesos per street child which is a big amount to meet the needs of the children .
+<43>	(215.286-216.479)	<no-speech>	<no-speech>
+<44>	(216.479-221.810)	ayon kay Eril minsan na raw sumakit ang kaniyang tiyan dahil sa pagkain ng pagpag .	according to Eli his stomach has sometimes ached as a result of eating dirty food .
+<45>	(221.810-226.150)	dahil do'n sa pagpag yung mga tira tirang manok kinain ko na 'yon gabi 'yon eh .	because of those dirty food the leftover chicken I already ate that last night .
+<46>	(226.150-232.414)	mga alas siyete siguro pagdating ng alas mga nuwebe naramdaman ko na parang sumasakit na yung tiyan ko eh .	maybe around seven and around nine I already felt that my stomach was aching .
+<47>	(232.414-235.371)	hindi ito yung sakit lang na ano eh do'n talaga 'to sa kinain ko .	this is not just the pain this was really from what I ate .
+<48>	(235.371-240.270)	pagdating ng alas diyes hindi naman tuloy-tuloy yung pagsakit niya medyo nawala rin .	around ten the pain was not constant it was slightly gone .
+<49>	(240.270-250.250)	<sta> dahil sa pagkonsumo niya ng maruming pagkain posibleng tamaan siya ng matinding diarrhea o poisoning .	because of his consumption of dirty food it's possible that he can get severe diarrhea or poisoning .
+<50>	(250.250-253.588)	ayon kay doktor Gerald Abergos isang sociologist .	according to Doctor Gerald Abergos a sociologist .
+<51>	(253.588-261.046)	pananagutan raw ng mga establisimiyento ang mga basurang napapakinabangan ng mga mangangalakal tulad na lang nila Eril .	the trash that was taken advantage by beggars like Eli is the establishments' responsibility .
+<52>	(261.046-279.161)	nakakalungkot na ang pagkaing tapos na kinain na waste na nga sa ibang tao ay nagagamit at ginagamit ng ibang tao para ito ay maging laman tiyan at nourishment din 'yan sa kaniyang pang araw-araw na buhay .	it's sad that leftover food which is considered waste by some people can be used and is still being used by other people so it could fill an empty stomach and also as nourishment in his daily life .
+<53>	(279.161-286.147)	hindi normal na ang pagkain na itinapon na ay sasabihing ito pupuwede pa .	it is not normal for food that has been thrown away to be considered edible .
+<54>	(286.147-300.820)	sana maisip ng mga restaurants at ng mga fastfood chains na it's in their social responsibility na ang food waste na ito ay maitapon sa tamang paraan na hindi na mapag- -- iinteresan ng mga tao .	hopefully restaurants and fast food chains would think that it's in their social responsibility for this food waste to be disposed in a proper manner wherein people won't -- take interest in it anymore .
+<55>	(300.820-309.728)	of all industries sila ang may alam na ang mga pagkaing hinalo-halo at itinapon na ay masama sa kalusugan .	of all the industries they are the ones who know that food that has been mixed and thrown away is bad for the health .
+<56>	(309.728-310.710)	<no-speech>	<no-speech>
+<57>	(310.710-317.690)	<sta> bilang aksiyon ng gobyerno ipinatupad ang presidential decree number eight five six o code on sanitation .	as the government's action presidential decree number eight five six or the code on sanitation was implemented .
+<58>	(317.690-319.037)	<no-speech>	<no-speech>
+<59>	(319.037-326.780)	kung saan ang mahuhuling kumukuha ng pagpag ay maaaring makulong ng anim buwan at magmulta ng isang libong piso .	wherein those who are caught gathering a leftover food can be imprisoned for six months and pay a fine of one thousand pesos .
+<60>	(326.780-330.210)	takot man makulong kailangan raw kumain ni Eril .	even if he's scared of going to jail Eril said he needed to eat .
+<61>	(330.210-334.370)	kahit sabihin nila na marumi hindi ka naman gumagawa ng masama .	even if they say that it's filthy you're not doing anything wrong anyway .
+<62>	(334.370-339.137)	nakakahiya man pero yung sa isip ko hindi masama yung ginagawa ko .	it might be embarrassing but in my mind I know that what I'm doing is not wrong .
+<63>	(339.137-344.680)	<sta> kaya't habang may mga aksayado sa pagkain hindi raw magugutom si Eril .	which is why as long as there are people who are wasteful with food Eril will not go hungry .
+<64>	(344.680-348.114)	isang mapait na realidad na pilit niyang lulunukin .	a bitter reality that he will forcefully accept .
+<65>	(348.114-350.193)	ako po si Renz Ongkiko .	I am Renz Ongkiko .

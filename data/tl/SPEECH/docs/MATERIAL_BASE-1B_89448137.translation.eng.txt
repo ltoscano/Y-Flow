@@ -1,0 +1,173 @@
+<1>	(Outline, 0.000-0.850)	<no-speech>	<no-speech>
+<2>	(Inline, 0.000-1.582)	<sta> one-fif- -- one fifty .	one -- one fifty .
+<3>	(Outline, 0.850-3.712)	<sta> oo -- oo .	yes -- yes .
+<4>	(Inline, 1.582-2.790)	<no-speech> one fifty .	one fifty .
+<5>	(Inline, 2.790-7.020)	<no-speech>	<no-speech>
+<6>	(Outline, 3.712-5.531)	saan tayo mag-a-outing ?	where we'll have an outing ?
+<7>	(Outline, 5.531-7.192)	<no-speech>	<no-speech>
+<8>	(Inline, 7.020-7.730)	kailan ba n'yo .	where will you %incomplete
+<9>	(Outline, 7.192-8.979)	oo ha ?	yes okay ?
+<10>	(Inline, 7.730-8.940)	<no-speech>	<no-speech>
+<11>	(Inline, 8.940-11.842)	sa ano -- <sta> sa sa munti .	in where -- in Muntinlupa .
+<12>	(Outline, 8.979-11.920)	<no-speech>	<no-speech>
+<13>	(Inline, 11.842-12.730)	<no-speech> munti .	Muntinlupa .
+<14>	(Outline, 11.920-12.950)	<no-speech>	<no-speech>
+<15>	(Inline, 12.730-16.980)	<no-speech>	<no-speech>
+<16>	(Outline, 12.950-13.760)	<sta> hindi ?	no ?
+<17>	(Outline, 13.760-15.473)	<no-speech>	<no-speech>
+<18>	(Outline, 15.473-15.998)	sa'n ?	where ?
+<19>	(Outline, 15.998-18.543)	<no-speech>	<no-speech>
+<20>	(Inline, 16.980-17.620)	oo .	yes .
+<21>	(Inline, 17.620-18.560)	<no-speech>	<no-speech>
+<22>	(Outline, 18.543-19.547)	saan ba kayo ?	where are you ?
+<23>	(Inline, 18.560-19.960)	<int> sa munti .	in Muntinlupa .
+<24>	(Outline, 19.547-20.940)	hindi .	no .
+<25>	(Inline, 19.960-22.550)	<no-speech>	<no-speech>
+<26>	(Outline, 20.940-23.740)	<no-speech>	<no-speech>
+<27>	(Inline, 22.550-23.824)	Muntinlupa .	Muntinlupa .
+<28>	(Outline, 23.740-24.653)	anong gagawin n'yo do'n ?	what are you going to do there ?
+<29>	(Inline, 23.824-25.020)	<int> Muntinlupa .	Muntinlupa .
+<30>	(Outline, 24.653-25.476)	<no-speech>	<no-speech>
+<31>	(Inline, 25.020-29.330)	<no-speech>	<no-speech>
+<32>	(Outline, 25.476-26.389)	anong gawin n'yo ?	what are you going to do ?
+<33>	(Outline, 26.389-28.831)	<no-speech>	<no-speech>
+<34>	(Outline, 28.831-29.603)	oo .	yes .
+<35>	(Inline, 29.330-30.320)	papakulong <int> .	will get imprisoned .
+<36>	(Outline, 29.603-31.107)	<no-speech>	<no-speech>
+<37>	(Inline, 30.320-35.030)	<no-speech>	<no-speech>
+<38>	(Outline, 31.107-32.740)	Apollo ?	Apollo ?
+<39>	(Outline, 32.740-33.940)	<no-speech>	<no-speech>
+<40>	(Outline, 33.940-34.720)	<sta> 'di nga ?	no way ?
+<41>	(Outline, 34.720-36.490)	<no-speech>	<no-speech>
+<42>	(Inline, 35.030-35.670)	oo .	yes .
+<43>	(Inline, 35.670-37.960)	<no-speech>	<no-speech>
+<44>	(Outline, 36.490-37.788)	<no-speech>	<no-speech>
+<45>	(Outline, 37.788-40.440)	akala ko mag-ti-twin- -- 'kala -- akala ko mag-a-outing kayo ?	I thought -- I thought you are going to an outing ?
+<46>	(Inline, 37.960-38.670)	<int> oo nga .	yes really .
+<47>	(Inline, 38.670-44.060)	<no-speech>	<no-speech>
+<48>	(Outline, 40.440-42.910)	<no-speech>	<no-speech>
+<49>	(Outline, 42.910-43.560)	oo .	yes .
+<50>	(Outline, 43.560-44.500)	<no-speech>	<no-speech>
+<51>	(Inline, 44.060-45.071)	<sta> hindi .	no .
+<52>	(Outline, 44.500-45.834)	<no-speech>	<no-speech>
+<53>	(Inline, 45.071-47.563)	<no-speech>	<no-speech>
+<54>	(Outline, 45.834-46.941)	akala ko mag-outing kayo ?	I thought you are going to an outing ?
+<55>	(Outline, 46.941-48.190)	<no-speech>	<no-speech>
+<56>	(Inline, 47.563-49.045)	oo .	yes .
+<57>	(Outline, 48.190-49.490)	<no-speech>	<no-speech>
+<58>	(Inline, 49.045-50.056)	<no-speech>	<no-speech>
+<59>	(Outline, 49.490-50.820)	sabi mag-a-outing kayo ?	said you are going for an outing ?
+<60>	(Inline, 50.056-51.210)	oo nga .	yes really .
+<61>	(Outline, 50.820-51.880)	<no-speech>	<no-speech>
+<62>	(Inline, 51.210-53.770)	<no-speech>	<no-speech>
+<63>	(Outline, 51.880-52.613)	<sta> sa munti .	in Muntinlupa .
+<64>	(Outline, 52.613-54.130)	<no-speech>	<no-speech>
+<65>	(Inline, 53.770-54.550)	<int> oo nga .	yes really .
+<66>	(Outline, 54.130-55.050)	<no-speech>	<no-speech>
+<67>	(Inline, 54.550-55.870)	<no-speech>	<no-speech>
+<68>	(Outline, 55.050-56.630)	<no-speech>	<no-speech>
+<69>	(Inline, 55.870-56.530)	<int> oo .	yes .
+<70>	(Inline, 56.530-58.570)	<no-speech>	<no-speech>
+<71>	(Outline, 56.630-57.350)	guhi ?	guhi ?
+<72>	(Outline, 57.350-58.210)	<no-speech>	<no-speech>
+<73>	(Outline, 58.210-58.650)	<no-speech>	<no-speech>
+<74>	(Inline, 58.570-59.680)	maganda raw do'n <hes> .	it is beautiful there .
+<75>	(Outline, 58.650-59.660)	<no-speech>	<no-speech>
+<76>	(Outline, 59.660-61.704)	<sta> kailangang maihabol sa <breath> Batangas .	needs to catch up in Batangas .
+<77>	(Inline, 59.680-62.810)	<no-speech>	<no-speech>
+<78>	(Outline, 61.704-62.890)	<no-speech>	<no-speech>
+<79>	(Inline, 62.810-63.163)	kailan- %incomplete	when %incomplete
+<80>	(Outline, 62.890-63.700)	<no-speech>	<no-speech>
+<81>	(Inline, 63.163-66.590)	<no-speech> <int> mag- -- sasama ako sa inyo ha .	-- I am going with you okay .
+<82>	(Outline, 63.700-64.106)	<sta> oo .	yes .
+<83>	(Outline, 64.106-65.270)	<no-speech>	<no-speech>
+<84>	(Outline, 65.270-66.500)	<no-speech>	<no-speech>
+<85>	(Outline, 66.500-70.940)	<no-speech>	<no-speech>
+<86>	(Inline, 66.590-68.800)	<no-speech>	<no-speech>
+<87>	(Inline, 68.800-70.131)	sama ako sa inyo .	I am going with you .
+<88>	(Inline, 70.131-71.590)	<no-speech>	<no-speech>
+<89>	(Outline, 70.940-72.680)	<no-speech>	<no-speech>
+<90>	(Inline, 71.590-73.140)	<no-speech>	<no-speech>
+<91>	(Outline, 72.680-73.430)	<sta> ha ?	what ?
+<92>	(Inline, 73.140-76.262)	<no-speech>	<no-speech>
+<93>	(Outline, 73.430-74.910)	<no-speech>	<no-speech>
+<94>	(Outline, 74.910-76.450)	<no-speech>	<no-speech>
+<95>	(Inline, 76.262-77.780)	sasama ako sa inyo .	I am going with you .
+<96>	(Outline, 76.450-77.560)	<no-speech>	<no-speech>
+<97>	(Outline, 77.560-78.506)	<sta> sige .	sure .
+<98>	(Inline, 77.780-79.180)	<no-speech>	<no-speech>
+<99>	(Outline, 78.506-80.257)	ilibre na kita .	I will treat you .
+<100>	(Inline, 79.180-80.120)	<no-speech>	<no-speech>
+<101>	(Inline, 80.120-81.570)	<no-speech>	<no-speech>
+<102>	(Outline, 80.257-81.890)	<no-speech>	<no-speech>
+<103>	(Inline, 81.570-83.163)	<no-speech>	<no-speech>
+<104>	(Outline, 81.890-82.810)	<no-speech>	<no-speech>
+<105>	(Outline, 82.810-84.771)	<sta> Mar libre ka na .	Mar treat us .
+<106>	(Inline, 83.163-84.010)	'ge .	sure .
+<107>	(Inline, 84.010-86.990)	<no-speech>	<no-speech>
+<108>	(Outline, 84.771-86.970)	(()) do'n dalawa .	(()) there two .
+<109>	(Outline, 86.970-87.940)	<no-speech>	<no-speech>
+<110>	(Inline, 86.990-87.988)	<no-speech>	<no-speech>
+<111>	(Outline, 87.940-89.870)	<sta> ihulat ka kain .	wait for you to eat .
+<112>	(Inline, 87.988-88.710)	oo .	yes .
+<113>	(Inline, 88.710-89.990)	<no-speech>	<no-speech>
+<114>	(Outline, 89.870-91.530)	<no-speech>	<no-speech>
+<115>	(Inline, 89.990-91.620)	<sta> pati pagkain ha .	including food okay .
+<116>	(Outline, 91.530-92.560)	<sta> oo .	yes .
+<117>	(Inline, 91.620-93.020)	<no-speech>	<no-speech>
+<118>	(Outline, 92.560-93.910)	hulat .	wait .
+<119>	(Inline, 93.020-93.660)	sige .	sure .
+<120>	(Inline, 93.660-94.630)	<no-speech>	<no-speech>
+<121>	(Outline, 93.910-97.630)	<no-speech>	<no-speech>
+<122>	(Inline, 94.630-94.990)	<no-speech>	<no-speech>
+<123>	(Inline, 94.990-95.870)	<no-speech>	<no-speech>
+<124>	(Inline, 95.870-98.300)	ikaw 'di 'di ka kakain ?	you aren't you going to eat ?
+<125>	(Outline, 97.630-99.065)	hindi sa 'yo lang .	no only for you .
+<126>	(Inline, 98.300-102.040)	<no-speech>	<no-speech>
+<127>	(Outline, 99.065-100.274)	<no-speech>	<no-speech>
+<128>	(Outline, 100.274-101.896)	dalawa kayo ng kiss .	two kisses each of you .
+<129>	(Outline, 101.896-102.849)	<no-speech>	<no-speech>
+<130>	(Inline, 102.040-102.774)	oo .	yes .
+<131>	(Inline, 102.774-103.412)	<no-speech>	<no-speech>
+<132>	(Outline, 102.849-104.510)	'di joke lang hati tayo do'n .	just joking let us divide that between us .
+<133>	(Inline, 103.412-103.950)	sige .	sure .
+<134>	(Inline, 103.950-104.790)	<no-speech>	<no-speech>
+<135>	(Outline, 104.510-105.850)	<no-speech>	<no-speech>
+<136>	(Inline, 104.790-105.920)	sige salamat <int> .	sure thank you .
+<137>	(Outline, 105.850-106.945)	<sta> oo .	yes .
+<138>	(Inline, 105.920-107.530)	<no-speech>	<no-speech>
+<139>	(Outline, 106.945-111.267)	<no-speech>	<no-speech>
+<140>	(Inline, 107.530-108.880)	sige hati tayo do'n .	sure let's divide it .
+<141>	(Inline, 108.880-111.460)	<no-speech>	<no-speech>
+<142>	(Outline, 111.267-111.840)	ano ?	what ?
+<143>	(Inline, 111.460-113.250)	ano Chooks To Go <int> ?	what Chooks to Go ?
+<144>	(Outline, 111.840-112.900)	<no-speech>	<no-speech>
+<145>	(Outline, 112.900-113.560)	<sta> ano ?	what ?
+<146>	(Inline, 113.250-114.920)	<no-speech>	<no-speech>
+<147>	(Outline, 113.560-115.930)	<no-speech>	<no-speech>
+<148>	(Inline, 114.920-116.010)	<sta> Chooks To Go ?	Chooks to Go ?
+<149>	(Outline, 115.930-117.123)	<sta> ano -- Nono ?	what -- Nono ?
+<150>	(Inline, 116.010-116.810)	<no-speech>	<no-speech>
+<151>	(Inline, 116.810-117.320)	<sta> balak .	intention .
+<152>	(Outline, 117.123-119.290)	<no-speech>	<no-speech>
+<153>	(Inline, 117.320-119.240)	<no-speech>	<no-speech>
+<154>	(Inline, 119.240-120.076)	<no-speech>	<no-speech>
+<155>	(Outline, 119.290-120.437)	'di ko marinig .	I cannot hear .
+<156>	(Inline, 120.076-120.880)	manok ?	chicken ?
+<157>	(Outline, 120.437-122.163)	<no-speech>	<no-speech>
+<158>	(Inline, 120.880-123.410)	<no-speech>	<no-speech>
+<159>	(Outline, 122.163-124.040)	magulo 'di ko marining magulo .	trouble I cannot hear trouble .
+<160>	(Inline, 123.410-124.790)	<int> bingi .	deaf .
+<161>	(Outline, 124.040-125.210)	<no-speech>	<no-speech>
+<162>	(Inline, 124.790-126.610)	<no-speech>	<no-speech>
+<163>	(Outline, 125.210-126.425)	hindi magulo .	no trouble .
+<164>	(Outline, 126.425-128.043)	<no-speech>	<no-speech>
+<165>	(Inline, 126.610-127.180)	manok .	chicken .
+<166>	(Inline, 127.180-129.610)	<no-speech>	<no-speech>
+<167>	(Outline, 128.043-129.011)	'yong sa likod .	the one at the back .
+<168>	(Outline, 129.011-131.503)	<no-speech>	<no-speech>
+<169>	(Inline, 129.610-130.270)	bakit ?	why ?
+<170>	(Inline, 130.270-132.230)	<no-speech>	<no-speech>
+<171>	(Outline, 131.503-132.420)	putol-putol <hes> .	intermittent .
+<172>	(Inline, 132.230-132.690)	<no-speech>	<no-speech>
+<173>	(Outline, 132.420-132.690)	<no-speech>	<no-speech>

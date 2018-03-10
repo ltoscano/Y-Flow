@@ -95,8 +95,8 @@ with open(params.query) as f:
         line = re.sub('[(){},;:"?]','',line)
         tokens = re.findall("[A-Z]{2,}(?![a-z])|[A-Z][a-z]+(?=[A-Z])|[\'\w\-]+",line.rstrip())
         qid = tokens[0]
-        did = tokens[-1]
-        words = tokens[1:len(tokens)-1]
+        #did = tokens[-1]
+        words = tokens[1:len(tokens)]
         print(qid,did,words)
         #input('here') 
         out.write("<query>\n")

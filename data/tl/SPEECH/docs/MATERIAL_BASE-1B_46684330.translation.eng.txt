@@ -1,0 +1,25 @@
+<1>	(0.000-5.780)	nakahanda na ang isusuot ng mag-anak ni president-elect Duterte sa inagurasyon .	the clothes to be worn by the family of president-elect Duterte for the inauguration are already prepared .
+<2>	(5.780-15.900)	ang barong naman na isusuot ng susunod na pangulo Mindanao-inspired pero iniakma pa rin ang panloob sa astig na porma ni Digong .	the barong to be worn by the next president is Mindanao-inspired by the undershirt is still fit to the masculinity of Digong .
+<3>	(15.900-17.895)	may report si J_P Soriano .	JP Soriano has a report .
+<4>	(17.895-21.170)	<no-speech>	<no-speech>
+<5>	(21.170-31.270)	simple pero elegante ang short-sleeved serpentine satin gown na isusuot bukas ng common law wife ni president-elect Rodrigo Duterte na si Honeylet Avancena .	the short-sleeved serpentine gown to be worn tomorrow by Honeylet Avancena the common-law wife of president-elect Rodrigo Duterte is simple but elegant .
+<6>	(31.270-37.130)	kulay green at teternohan din ng bag na yari sa Paua shells at beads na may embroidery accent .	it colored green and will be matched by a bag made of Paua shells and beads with embroidered accent .
+<7>	(37.130-44.680)	ang bunsong anak naman ni Duterte na si Kitty isang champagne colored pencil cut cocktail dress na may back slit ang isusuot bukas .	the youngest daughter of Duterte Kitty will wear a champagne-colored pencil-cut cocktail dress with a back slit tomorrow .
+<8>	(44.680-50.810)	disenyo ng Chardin Davao ang damit ng mag-ina na dati nang gumagawa ng mga barong at pantalon ni Duterte .	Chardin Davao who makes the barong and pants of Duterte before designed the clothes of the mother and daughter .
+<9>	(50.810-57.095)	lagi niyang sinasabi sa akin (()) I want it simple even if <no-speech> mag-attend lang siya ng wedding like that .	she would always tell me (()) I want it simple even if she would attend a wedding like that .
+<10>	(57.095-61.327)	so ngayon na mag-o-oath take na si president .	so now the president will have his oath-taking .
+<11>	(61.327-63.970)	same -- same pa rin ang sabi niya simple lang .	same -- still the same what she said was only simple .
+<12>	(63.970-71.220)	naisukat na raw kagabi ng mag-inang Honeylet at Kitty ang mga damit at kanina'y inilagay na sa kahon para dalhin sa Manila ngayong araw .	the clothes were fitted last night by the mother and daughter Honeylet and Kitty and they were already placed in their boxes a while ago to bring to Manila today .
+<13>	(71.220-75.307)	kasabay ng pitong barong para sa president-elect na dinisenyo rin ng Chardin .	together with the seven barongs for the president-elect which were designed also by Chardin .
+<14>	(75.307-84.120)	Mindanao-inspired ang barong close neck ang disenyo pero iniakma pa rin ang panloob sa astig na istilo ng pagporma ni Digong .	the barong is Mindanao-inspired the design is close neck but the inner garment is still coordinated with Digong's masculine form in his style .
+<15>	(84.120-88.529)	we provide 'yung a shirt inside 'yung inner shirt niya na v-neck siya .	we provided the shirt inside his inner shirt is v-neck .
+<16>	(88.529-93.700)	hindi siya round neck na if you have to open the first button (()) hindi siya makikita .	it is not round neck that if you have to open the first button (()) it cannot be seen .
+<17>	(93.700-98.470)	royal blue Filipiniana-inspired gown naman ang isusuot ni Davao City mayor Inday Sara .	Davao City Mayor Inday Sara will wear a royal blue Filipiniana-inspired gown .
+<18>	(98.470-102.190)	she sticks with something very simple ever since .	she sticks with something very simple ever since .
+<19>	(102.190-103.566)	no thrills .	no thrills .
+<20>	(103.566-117.632)	parang she would live up with the idea na parang <hes> if there's a formal occasion she will dress up for that pero hindi -- hindi talaga 'yung parang the gown speaks na parang look at me na parang siya talaga 'yung center .	it is as if she would live up with the idea like if there's a formal occasion she will dress up for that but not -- not really like the gown speaks like look at me like she is really the center .
+<21>	(117.632-121.587)	si Baste simpleng barong na yari sa Mindanao silk ang isusuot .	Baste will wear a simple barong made of Mindanao silk .
+<22>	(121.587-124.790)	may burda na halaw sa mga disenyo ng Mindanaoan tribe .	with embroidery based on Mindanaoan tribe designs .
+<23>	(124.790-128.525)	gawa naman sa pinya ang terno na isusuot ng kaniyang kasintahan na si Kate .	the set to be worn by his girlfriend Kate is made of piña .
+<24>	(128.525-132.110)	magbabarong din ang anak nila Kate at Baste .	the child of Kate and Baste will also wear a barong .
+<25>	(132.110-134.016)	J_P Soriano G_M_A .	J_P Soriano G_M_A .

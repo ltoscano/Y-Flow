@@ -1,0 +1,138 @@
+<1>	(Outline, 0.000-0.770)	<no-speech>	<no-speech>
+<2>	(Inline, 0.000-2.090)	<no-speech>	<no-speech>
+<3>	(Outline, 0.770-2.208)	<sta> nandito .	in here .
+<4>	(Inline, 2.090-3.300)	<no-speech>	<no-speech>
+<5>	(Outline, 2.208-4.412)	<no-speech> 'pag <hes> pumunta ka na lang dito .	when just go here .
+<6>	(Inline, 3.300-6.280)	<no-speech>	<no-speech>
+<7>	(Outline, 4.412-6.590)	<no-speech>	<no-speech>
+<8>	(Inline, 6.280-7.802)	oo nga .	yes .
+<9>	(Outline, 6.590-7.500)	<no-speech>	<no-speech>
+<10>	(Outline, 7.500-8.620)	<no-speech>	<no-speech>
+<11>	(Inline, 7.802-10.386)	<sta> ah balita ko kailan ba 'yong ano %incomplete	ah I heard when is the thing %incomplete
+<12>	(Outline, 8.620-9.600)	<no-speech>	<no-speech>
+<13>	(Outline, 9.600-11.550)	<no-speech>	<no-speech>
+<14>	(Inline, 10.386-13.430)	<no-speech> nagpabinyag ka na ba sa Bunso mo ?	have you gotten your youngest child baptized ?
+<15>	(Outline, 11.550-12.770)	<no-speech>	<no-speech>
+<16>	(Outline, 12.770-14.023)	<no-speech>	<no-speech>
+<17>	(Inline, 13.430-14.480)	<no-speech>	<no-speech>
+<18>	(Outline, 14.023-18.250)	hindi pa sa <hes> pa <no-speech> sa bir- -- sa June pa .	not yet on on -- on June .
+<19>	(Inline, 14.480-15.244)	<no-speech>	<no-speech>
+<20>	(Inline, 15.244-15.730)	ha ?	huh ?
+<21>	(Inline, 15.730-20.680)	<no-speech>	<no-speech>
+<22>	(Outline, 18.250-19.180)	<no-speech>	<no-speech>
+<23>	(Outline, 19.180-27.665)	<no-speech>	<no-speech>
+<24>	(Inline, 20.680-26.820)	<hes> <sta> ba't sabi ng narinig ko sa asawa mo sa ano 'ata a- -- Araw ng Pagkabuhay ?	from what I heard from your spouse it's probably on -- Easter ?
+<25>	(Inline, 26.820-31.800)	<no-speech>	<no-speech>
+<26>	(Outline, 27.665-29.037)	sa June pa .	on June .
+<27>	(Outline, 29.037-32.050)	<no-speech> <sta> siyempre mag-iipon muna ako .	of course I will save first .
+<28>	(Inline, 31.800-32.830)	<int> parang ang tagal naman .	it seems too long .
+<29>	(Outline, 32.050-34.524)	<no-speech>	<no-speech>
+<30>	(Inline, 32.830-34.300)	<no-speech>	<no-speech>
+<31>	(Inline, 34.300-37.852)	<sta> wow bakit bongga ba ang binyagan ?	wow is it because the baptism is grand ?
+<32>	(Outline, 34.524-36.070)	wala pa akong pambinyag .	I do not have money for baptism yet .
+<33>	(Outline, 36.070-37.250)	<no-speech>	<no-speech>
+<34>	(Outline, 37.250-38.266)	<no-speech>	<no-speech>
+<35>	(Inline, 37.852-38.574)	<no-speech>	<no-speech>
+<36>	(Outline, 38.266-38.916)	ha ?	huh ?
+<37>	(Inline, 38.574-40.110)	bakit bongga ba iyan ?	why is it grand ?
+<38>	(Outline, 38.916-42.464)	<no-speech> hindi naman <no-speech> -- hindi naman simple lang .	not really -- not really it's only simple .
+<39>	(Inline, 40.110-41.220)	<no-speech>	<no-speech>
+<40>	(Inline, 41.220-42.050)	okey ba ?	is it okay ?
+<41>	(Inline, 42.050-43.070)	<no-speech>	<no-speech>
+<42>	(Outline, 42.464-45.162)	<no-speech>	<no-speech>
+<43>	(Inline, 43.070-44.510)	ba't kailangan pag-ipunan <int> ?	why is there a need to save for it ?
+<44>	(Inline, 44.510-45.400)	<no-speech>	<no-speech>
+<45>	(Outline, 45.162-45.845)	ha ?	huh ?
+<46>	(Inline, 45.400-47.074)	ba't kailangan pag-ipunan <sta> ?	why is there a need to save for it ?
+<47>	(Outline, 45.845-48.477)	<no-speech>	<no-speech>
+<48>	(Inline, 47.074-48.059)	<no-speech>	<no-speech>
+<49>	(Inline, 48.059-49.630)	ba't kailangan pag-ipunan ?	why is there a need to save for it ?
+<50>	(Outline, 48.477-51.173)	(()) <sta> wala pa akong pambinyag <hes> .	(()) I don't have money for the baptism yet .
+<51>	(Inline, 49.630-51.060)	<no-speech>	<no-speech>
+<52>	(Inline, 51.060-51.560)	<no-speech>	<no-speech>
+<53>	(Outline, 51.173-55.941)	<no-speech> kukunin kitang ninang .	I will get you as godmother .
+<54>	(Inline, 51.560-53.220)	<no-speech>	<no-speech>
+<55>	(Inline, 53.220-54.620)	kuwan <int> .	that .
+<56>	(Inline, 54.620-55.520)	<no-speech>	<no-speech>
+<57>	(Inline, 55.520-58.104)	kuha ka naman ng ninang ng ninong na ano %incomplete	get a godmother a godfather who are %incomplete
+<58>	(Outline, 55.941-59.540)	<no-speech>	<no-speech>
+<59>	(Inline, 58.104-60.020)	(()) kukunin mo ba ?	will you get (()) ?
+<60>	(Outline, 59.540-60.542)	<no-speech>	<no-speech>
+<61>	(Inline, 60.020-60.860)	<no-speech>	<no-speech>
+<62>	(Outline, 60.542-61.393)	hindi na .	not anymore .
+<63>	(Inline, 60.860-61.500)	<no-speech>	<no-speech>
+<64>	(Outline, 61.393-63.310)	masyado naman akong mayaman .	I am too rich .
+<65>	(Inline, 61.500-62.590)	<no-speech>	<no-speech>
+<66>	(Inline, 62.590-63.671)	<no-speech>	<no-speech>
+<67>	(Outline, 63.310-64.620)	<no-speech>	<no-speech>
+<68>	(Inline, 63.671-64.460)	bakit ?	why ?
+<69>	(Inline, 64.460-65.570)	<no-speech>	<no-speech>
+<70>	(Outline, 64.620-65.663)	<no-speech>	<no-speech>
+<71>	(Inline, 65.570-70.427)	<laugh> bakit pangmayaman lang ba si Stawsu ?	is Stawsu only for the rich ?
+<72>	(Outline, 65.663-68.023)	basta wala akong ipapakain do'n .	I don't have anything to feed him .
+<73>	(Outline, 68.023-72.811)	<no-speech>	<no-speech>
+<74>	(Inline, 70.427-74.860)	bakit sila Kuya Bert Berto noon kinuha si Stawsu 'di ba ?	didn't Brother Bert Berto get Stawsu before right ?
+<75>	(Outline, 72.811-73.426)	ha ?	huh ?
+<76>	(Outline, 73.426-74.863)	<no-speech> ha ?	huh ?
+<77>	(Inline, 74.860-76.840)	<no-speech>	<no-speech>
+<78>	(Outline, 74.863-76.590)	<no-speech>	<no-speech>
+<79>	(Outline, 76.590-81.002)	<no-speech>	<no-speech>
+<80>	(Inline, 76.840-80.430)	ba't sina Kuya Berto doon kinuha si Stawsu ?	why did Brother Berto get Stawsu before ?
+<81>	(Inline, 80.430-86.230)	<no-speech>	<no-speech>
+<82>	(Outline, 81.002-83.937)	<hes> sila mayaman sila <hes> mahirap lang ako .	they they are rich I am only poor .
+<83>	(Outline, 83.937-87.288)	<no-speech>	<no-speech>
+<84>	(Inline, 86.230-87.592)	talaga naman ah .	really huh .
+<85>	(Outline, 87.288-88.200)	oo .	yes .
+<86>	(Inline, 87.592-89.401)	<no-speech>	<no-speech>
+<87>	(Outline, 88.200-90.306)	<sta> wala akong ipapakain do'n <laugh> .	I don't have anything to feed him .
+<88>	(Inline, 89.401-90.340)	ang parte .	the part .
+<89>	(Outline, 90.306-93.233)	<no-speech>	<no-speech>
+<90>	(Inline, 90.340-93.360)	<no-speech>	<no-speech>
+<91>	(Outline, 93.233-94.085)	wala nga <hes> .	really none .
+<92>	(Inline, 93.360-96.888)	kaya nga kukunin mo sila para makalibre ka <hes> .	that is why you should get them so you have it for free .
+<93>	(Outline, 94.085-97.182)	<no-speech>	<no-speech>
+<94>	(Inline, 96.888-98.250)	<no-speech>	<no-speech>
+<95>	(Outline, 97.182-99.040)	wala nga akong ipapakain do'n <hes> .	I really have nothing to feed him .
+<96>	(Inline, 98.250-103.070)	<no-speech>	<no-speech>
+<97>	(Outline, 99.040-101.155)	<sta> sila mayaman .	they are rich .
+<98>	(Outline, 101.155-108.097)	<no-speech>	<no-speech>
+<99>	(Inline, 103.070-103.650)	<no-speech>	<no-speech>
+<100>	(Inline, 103.650-104.780)	<no-speech>	<no-speech>
+<101>	(Inline, 104.780-108.150)	oo nga kukunin mo sila para sila ang magpakain .	right you will get them so they will be the one to feed .
+<102>	(Outline, 108.097-110.980)	kukunin nga kita <hes> ikaw na lang kukunin ko .	I will get you it's only you I'll get .
+<103>	(Inline, 108.150-113.100)	<no-speech>	<no-speech>
+<104>	(Outline, 110.980-112.040)	<no-speech>	<no-speech>
+<105>	(Outline, 112.040-115.273)	<no-speech>	<no-speech>
+<106>	(Inline, 113.100-114.715)	sobra .	excessive .
+<107>	(Inline, 114.715-116.310)	<no-speech>	<no-speech>
+<108>	(Outline, 115.273-117.723)	ikaw na lang kukunin kong ninang ah .	you are the only one I will get as godmother huh .
+<109>	(Inline, 116.310-117.550)	gano'n ?	really ?
+<110>	(Inline, 117.550-119.250)	<no-speech>	<no-speech>
+<111>	(Outline, 117.723-121.075)	<no-speech>	<no-speech>
+<112>	(Inline, 119.250-121.263)	<no-speech>	<no-speech>
+<113>	(Outline, 121.075-123.950)	ikaw na lang kukunin ko .	you are the only one I will get .
+<114>	(Inline, 121.263-122.675)	matagal pa naman <hes> .	it's still far .
+<115>	(Inline, 122.675-125.170)	malay mo may trabaho na ako do'n puwede na <int> .	who knows I may have a job by then so it's possible .
+<116>	(Outline, 123.950-125.908)	<no-speech>	<no-speech>
+<117>	(Inline, 125.170-130.110)	<no-speech>	<no-speech>
+<118>	(Outline, 125.908-129.381)	o sige basta 'pag ikaw <hes> kukunin kitang ninang .	sure as long as it's you I will get you as godmother .
+<119>	(Outline, 129.381-132.969)	<no-speech>	<no-speech>
+<120>	(Inline, 130.110-130.460)	<no-speech>	<no-speech>
+<121>	(Inline, 130.460-131.570)	<no-speech>	<no-speech>
+<122>	(Inline, 131.570-133.700)	<no-speech>	<no-speech>
+<123>	(Outline, 132.969-134.252)	o 'asaan ka ngayon ?	oh where are you now ?
+<124>	(Inline, 133.700-134.520)	<no-speech>	<no-speech>
+<125>	(Outline, 134.252-135.470)	<no-speech>	<no-speech>
+<126>	(Inline, 134.520-137.517)	<no-speech>	<no-speech>
+<127>	(Outline, 135.470-136.612)	<no-speech>	<no-speech>
+<128>	(Outline, 136.612-137.570)	ha ?	huh ?
+<129>	(Inline, 137.517-138.971)	dito na .	already here .
+<130>	(Outline, 137.570-139.905)	<no-speech>	<no-speech>
+<131>	(Inline, 138.971-140.136)	pauwi na .	on the way home .
+<132>	(Outline, 139.905-140.980)	ah .	ah .
+<133>	(Inline, 140.136-141.490)	pauwi na .	on the way home .
+<134>	(Outline, 140.980-143.047)	<no-speech>	<no-speech>
+<135>	(Inline, 141.490-147.230)	<no-speech>	<no-speech>
+<136>	(Outline, 143.047-144.105)	o sige .	oh okay .
+<137>	(Outline, 144.105-145.063)	<no-speech>	<no-speech>
+<138>	(Outline, 145.063-147.230)	ano balita ko .	what's my news .

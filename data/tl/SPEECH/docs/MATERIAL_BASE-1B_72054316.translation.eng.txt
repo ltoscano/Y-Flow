@@ -1,0 +1,140 @@
+<1>	(Inline, 0.000-1.569)	<no-speech>	<no-speech>
+<2>	(Outline, 0.000-2.220)	<no-speech>	<no-speech>
+<3>	(Inline, 1.569-3.804)	John mukhang maraming bumibili sa tindahan mo ah ?	John seems like there are lots who buy from your store ?
+<4>	(Outline, 2.220-3.420)	<no-speech>	<no-speech>
+<5>	(Outline, 3.420-11.960)	<no-speech>	<no-speech>
+<6>	(Inline, 3.804-4.699)	<no-speech>	<no-speech>
+<7>	(Inline, 4.699-5.180)	ha ?	huh ?
+<8>	(Inline, 5.180-6.060)	<no-speech>	<no-speech>
+<9>	(Inline, 6.060-7.700)	sa'n mo nabili 'yong pinagawa mo ?	where did you buy that custom made ?
+<10>	(Inline, 7.700-9.370)	<no-speech>	<no-speech>
+<11>	(Inline, 9.370-10.010)	ha ?	huh ?
+<12>	(Inline, 10.010-11.500)	<no-speech>	<no-speech>
+<13>	(Inline, 11.500-14.530)	<sta> (()) mo ng T_V kung <hes> minsan pagla- -- 'yon ang gawin mo .	(()) your T_V is sometimes -- do that .
+<14>	(Outline, 11.960-13.860)	<no-speech>	<no-speech>
+<15>	(Outline, 13.860-15.100)	<no-speech>	<no-speech>
+<16>	(Inline, 14.530-15.710)	<no-speech>	<no-speech>
+<17>	(Outline, 15.100-16.210)	<no-speech>	<no-speech>
+<18>	(Inline, 15.710-16.178)	ha .	huh .
+<19>	(Inline, 16.178-17.510)	mukhang big- -- time na ngayon ha .	looks like a big -- time now eh .
+<20>	(Outline, 16.210-19.998)	<no-speech>	<no-speech>
+<21>	(Inline, 17.510-20.280)	<no-speech>	<no-speech>
+<22>	(Outline, 19.998-20.995)	bente na lang ?	only twenty ?
+<23>	(Inline, 20.280-20.790)	<sta> ha ?	huh ?
+<24>	(Inline, 20.790-22.400)	<no-speech>	<no-speech>
+<25>	(Outline, 20.995-24.420)	<no-speech>	<no-speech>
+<26>	(Inline, 22.400-23.233)	John .	John .
+<27>	(Inline, 23.233-28.214)	<no-speech> mukhang -- mukhang big- -- time na ha <no-speech> marami ng bumibili -- <no-speech> ay marami ng bumibili diyan .	seems -- seems big -- time already lots of buyers -- lots of buyers there .
+<28>	(Outline, 24.420-26.460)	<no-speech>	<no-speech>
+<29>	(Outline, 26.460-27.030)	<no-speech>	<no-speech>
+<30>	(Outline, 27.030-28.360)	<no-speech>	<no-speech>
+<31>	(Inline, 28.214-29.676)	<no-speech> magandang palakihan .	good to expand .
+<32>	(Outline, 28.360-31.220)	<no-speech>	<no-speech>
+<33>	(Inline, 29.676-30.662)	<no-speech> oo .	yes .
+<34>	(Inline, 30.662-34.300)	<no-speech> nag-aaral sa <no-speech> ay hindi pala mali mali mali .	studying in oh no wrong wrong wrong .
+<35>	(Outline, 31.220-32.130)	<no-speech>	<no-speech>
+<36>	(Outline, 32.130-32.490)	<no-speech>	<no-speech>
+<37>	(Outline, 32.490-33.860)	<no-speech>	<no-speech>
+<38>	(Outline, 33.860-40.209)	<no-speech>	<no-speech>
+<39>	(Inline, 34.300-35.730)	mali mali .	wrong wrong .
+<40>	(Inline, 35.730-35.865)	<no-speech>	<no-speech>
+<41>	(Inline, 35.865-41.020)	iba pala 'yong taga-rito pala sa ano <no-speech> taga-rito pala sa bilihan <no-speech> John .	different the one from the store John .
+<42>	(Outline, 40.209-41.466)	ano maganda ba ?	was it good ?
+<43>	(Inline, 41.020-42.470)	<no-speech>	<no-speech>
+<44>	(Outline, 41.466-42.852)	<no-speech> hello ?	hello ?
+<45>	(Inline, 42.470-43.050)	John .	John .
+<46>	(Outline, 42.852-43.803)	<no-speech> <int> o ?	really ?
+<47>	(Inline, 43.050-44.080)	<no-speech>	<no-speech>
+<48>	(Outline, 43.803-50.009)	<no-speech> akala ko hay naku 'di ko nakita alam mo na busy <hes> pumipila 'yong mga bumibili .	I thought oh my I didn't see you know I was busy there was a line of customers .
+<49>	(Inline, 44.080-44.957)	<sta> oo .	yes .
+<50>	(Inline, 44.957-45.348)	<no-speech>	<no-speech>
+<51>	(Inline, 45.348-49.240)	ba't <laugh> Wil <hes> <hes> ang akala ko'y <no-speech> akala ko'y .	why Wil I thought I thought .
+<52>	(Inline, 49.240-52.500)	<no-speech>	<no-speech>
+<53>	(Outline, 50.009-50.923)	<no-speech>	<no-speech>
+<54>	(Outline, 50.923-53.140)	<hes> ngayon nga wala ng bumibili kaya .	even now there are no more customers .
+<55>	(Inline, 52.500-58.807)	<sta> kaya nga ang akala ko kasi si Brod Willie akala ko 'yon hinihintay pa natin mas maganda 'yong <no-speech> 'yong anak .	that's why I thought bro Willie that's I thought we're waiting the daughter was prettier .
+<56>	(Outline, 53.140-59.490)	<no-speech>	<no-speech>
+<57>	(Inline, 58.807-59.558)	<no-speech>	<no-speech>
+<58>	(Outline, 59.490-60.090)	sino ?	who ?
+<59>	(Inline, 59.558-64.180)	'yong tagabalato <no-speech> (()) sa sa ano doon sa may (()) din niya .	the one who gives tips (()) in in the (()) also .
+<60>	(Outline, 60.090-62.580)	<no-speech>	<no-speech>
+<61>	(Outline, 62.580-64.759)	<no-speech>	<no-speech>
+<62>	(Inline, 64.180-65.100)	<no-speech>	<no-speech>
+<63>	(Outline, 64.759-66.160)	sino do'n si ano ?	who among them is it ?
+<64>	(Inline, 65.100-68.530)	<sta> 'yun maganda 'yong ano do'n <hes> <no-speech> maganda 'yong anak no'n .	that what's pretty there was pretty was her daughter .
+<65>	(Outline, 66.160-67.090)	<no-speech>	<no-speech>
+<66>	(Outline, 67.090-70.276)	<no-speech>	<no-speech>
+<67>	(Inline, 68.530-68.929)	<no-speech>	<no-speech>
+<68>	(Inline, 68.929-70.000)	pre 'yong maputi .	bro the white one .
+<69>	(Inline, 70.000-74.420)	<no-speech>	<no-speech>
+<70>	(Outline, 70.276-71.273)	sinong pangalan ?	who's the name ?
+<71>	(Outline, 71.273-72.895)	<no-speech>	<no-speech>
+<72>	(Outline, 72.895-73.610)	anong pangalan ?	what's the name ?
+<73>	(Outline, 73.610-76.349)	<no-speech>	<no-speech>
+<74>	(Inline, 74.420-76.517)	hindi ko pa nga alam pangalan .	I don't even know her name yet .
+<75>	(Outline, 76.349-77.510)	bumibili ba sa akin 'yon ?	is she buying from me ?
+<76>	(Inline, 76.517-76.962)	<no-speech>	<no-speech>
+<77>	(Inline, 76.962-81.156)	maganda 'yon <no-speech> maganda 'yon <no-speech> pati magkakapatid .	she's pretty she's pretty even her sisters .
+<78>	(Outline, 77.510-78.750)	<no-speech>	<no-speech>
+<79>	(Outline, 78.750-80.390)	<no-speech>	<no-speech>
+<80>	(Outline, 80.390-81.830)	<no-speech>	<no-speech>
+<81>	(Inline, 81.156-81.521)	<no-speech>	<no-speech>
+<82>	(Inline, 81.521-86.103)	akala ko kanina diyan 'yong inano ko <no-speech> akala ko 'yon .	I though earlier the one I that's what I thought .
+<83>	(Outline, 81.830-83.495)	<int> nakatira kay Ate Lon ?	lives with Miss Lon ?
+<84>	(Outline, 83.495-83.974)	maganda ?	good ?
+<85>	(Outline, 83.974-84.716)	nakatira ?	lives ?
+<86>	(Outline, 84.716-85.180)	<no-speech> oo .	yes .
+<87>	(Outline, 85.180-86.400)	<no-speech>	<no-speech>
+<88>	(Inline, 86.103-86.669)	<no-speech>	<no-speech>
+<89>	(Outline, 86.400-93.138)	<no-speech>	<no-speech>
+<90>	(Inline, 86.669-87.400)	akala ko .	I thought .
+<91>	(Inline, 87.400-88.410)	<no-speech>	<no-speech>
+<92>	(Inline, 88.410-94.500)	akala ko 'yon 'yong ano <no-speech> 'yong <no-speech> anak -- <no-speech> anak ni <no-speech> nanay -- nanay ni binibilihan ko .	I thought it was the child -- child of the elder -- elder I was buying from .
+<93>	(Outline, 93.138-93.996)	nino ?	whose ?
+<94>	(Outline, 93.996-96.201)	<no-speech>	<no-speech>
+<95>	(Inline, 94.500-96.560)	<no-speech>	<no-speech>
+<96>	(Outline, 96.201-98.958)	<hes> ano si tina-target mo do'n ?	the one you're targeting there ?
+<97>	(Inline, 96.560-98.506)	si Koko nakakandado si (()) mo a .	Koko is chained to your (()) .
+<98>	(Inline, 98.506-99.170)	<no-speech>	<no-speech>
+<99>	(Outline, 98.958-100.060)	<no-speech>	<no-speech>
+<100>	(Inline, 99.170-103.440)	<no-speech>	<no-speech>
+<101>	(Outline, 100.060-107.840)	wala <no-speech> kasi alam mo naman ako hindi -- hindi ko nakikita ang mga mukha <hes> ah border nila ?	nothing because you know me I don't -- I don't see the faces oh their border ?
+<102>	(Inline, 103.440-104.340)	<no-speech>	<no-speech>
+<103>	(Inline, 104.340-107.520)	<no-speech>	<no-speech>
+<104>	(Inline, 107.520-108.559)	hindi hindi nga .	no I said no .
+<105>	(Outline, 107.840-111.670)	<no-speech>	<no-speech>
+<106>	(Inline, 108.559-111.540)	pero si Bokbok nakaantabay si Bokbok ha .	but Bokbok Bokbok is waiting okay .
+<107>	(Inline, 111.540-112.720)	<no-speech>	<no-speech>
+<108>	(Outline, 111.670-112.889)	<no-speech>	<no-speech>
+<109>	(Inline, 112.720-113.210)	<sta> ha ?	huh ?
+<110>	(Outline, 112.889-113.880)	bumibili ba rito 'yon ?	is he buying here ?
+<111>	(Inline, 113.210-117.265)	mukhang bibirahin bibirahin ka na ng ano na rin nito hintay-hintayin mo bibirahin niya niya kayo .	seems like you'll be pulled by just wait he'll pull you .
+<112>	(Outline, 113.880-115.040)	<no-speech>	<no-speech>
+<113>	(Outline, 115.040-118.070)	<no-speech>	<no-speech>
+<114>	(Inline, 117.265-117.773)	<no-speech>	<no-speech>
+<115>	(Inline, 117.773-118.850)	papasunog ka niyan .	he'll have you burned .
+<116>	(Outline, 118.070-119.103)	Kuya Wil Wellington ?	elder Wil Wellington ?
+<117>	(Inline, 118.850-123.790)	<no-speech>	<no-speech>
+<118>	(Outline, 119.103-120.520)	<no-speech> nakita ko na ba 'yon ?	have I seen her already ?
+<119>	(Outline, 120.520-121.480)	<no-speech>	<no-speech>
+<120>	(Outline, 121.480-123.041)	<int> nakita ko na ba ?	have I seen it ?
+<121>	(Outline, 123.041-124.796)	<no-speech>	<no-speech>
+<122>	(Inline, 123.790-124.689)	<sta> 'yong babae ?	the girl ?
+<123>	(Inline, 124.689-125.587)	<no-speech>	<no-speech>
+<124>	(Outline, 124.796-125.367)	oo .	yes .
+<125>	(Outline, 125.367-126.890)	<no-speech>	<no-speech>
+<126>	(Inline, 125.587-126.707)	ah oo .	oh yes .
+<127>	(Inline, 126.707-127.080)	<no-speech>	<no-speech>
+<128>	(Outline, 126.890-131.250)	<no-speech>	<no-speech>
+<129>	(Inline, 127.080-131.200)	maganda 'yan baka nag-aaral sa ano 'yon sa <no-speech> C_E_S .	she's pretty maybe she's studying in C_E_S .
+<130>	(Inline, 131.200-132.862)	siguradong papasok pa Bong ha ?	she'll surely still come Bong ?
+<131>	(Outline, 131.250-132.470)	o .	yes .
+<132>	(Outline, 132.470-133.540)	<no-speech>	<no-speech>
+<133>	(Inline, 132.862-132.930)	<no-speech>	<no-speech>
+<134>	(Inline, 132.930-135.660)	'wag mong ibigay ha 'wag mong ibigay sa kanila 'yong telepono ha ?	don't give it okay don't give them the phone okay ?
+<135>	(Outline, 133.540-133.854)	<no-speech>	<no-speech>
+<136>	(Outline, 133.854-135.520)	<no-speech>	<no-speech>
+<137>	(Outline, 135.520-136.290)	o sige .	oh sure .
+<138>	(Inline, 135.660-137.130)	o ?	really ?
+<139>	(Outline, 136.290-137.170)	<no-speech>	<no-speech>
+<140>	(Inline, 137.130-137.170)	<no-speech>	<no-speech>

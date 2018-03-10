@@ -1,0 +1,49 @@
+<1>	(0.000-6.730)	<sta> dahil nabawasan ang magagamit na classroom bawas ang oras sa pag-aaral .	because the classrooms that can be used will decrease time for studying will decrease .
+<2>	(6.730-23.433)	<sta> nagkakaro'n ng shortage of classroom at <hes> <sta> <hes> ang inabutan ko nga nagkaro'n ng three shifts yung grade one two at three <hes> classes na <hes> kung saan na-sho-short po ang aming mag-aaral ng dalawang oras araw-araw .	there is a shortage of classroom and what I caught up with is the grades one two and three had three shifts of classes where our students are short of two hours every day .
+<3>	(23.433-26.370)	<no-speech>	<no-speech>
+<4>	(26.370-29.744)	<sta> kung anu-anong solusyon na ang ginawa ng mga guro .	teachers did all sorts of solutions .
+<5>	(29.744-31.861)	okay very good .	okay very good .
+<6>	(31.861-40.169)	okay arms -- <sta> hinati ang ilang silid-aralan para sa dalawang klase .	okay arms -- the classroom was divided for two classes .
+<7>	(40.169-41.074)	<no-speech>	<no-speech>
+<8>	(41.074-45.569)	ay 'yon lang medyo <hes> may problema do'n sa <sta> ingay nga .	ah that somehow there is a problem with noise .
+<9>	(45.569-50.110)	at 'yon ang inirereklamo ng mga teacher na yung ingay sa kabila naririnig din sa kabila .	and that is what the teachers complain the noise from the other side can be heard too on the other side .
+<10>	(50.110-51.500)	<no-speech>	<no-speech>
+<11>	(51.500-56.976)	<sta> nagtayo rin sila ng apat na tent para sa mga estudyante sa grade one .	they also erected four tents for the students in grade one .
+<12>	(56.976-63.370)	may nagkaklase sa entablado .	some have classes on stage .
+<13>	(63.370-70.453)	<sta> ang home economics room conference room at computer laboratory ginawa ring silid-aralan .	the home economics room conference room and computer laboratory were also made into classrooms .
+<14>	(70.453-71.090)	may effect .	there is an effect .
+<15>	(71.090-82.040)	nakakapanghinayang kasi hindi mo puwedeng gawin yung regular activities na ginagawa namin everyday .	regretful because you cannot do the regular activities that we do everyday .
+<16>	(82.040-91.524)	<sta> isa lang din ang gate na puwedeng gamitin <no-speech> kaya naman pahirapan sa pagpasok at paglabas <sta> ang mga estudyante .	there is also just one gate that can be used so entry and exit of the students is a challenge .
+<17>	(91.524-93.813)	<no-speech>	<no-speech>
+<18>	(93.813-95.453)	kaninong bag 'to ?	whose bag is this ?
+<19>	(95.453-99.406)	apektado ang kalidad <sta> ng edukasyon .	the quality of education is affected .
+<20>	(99.406-100.093)	<no-speech>	<no-speech>
+<21>	(100.093-115.650)	July twenty fifteen binisita ng public works ng Manila <sta> ang gusali bas sa kanilang pagsusuri <sta> mahina raw ang pundasyon ng lupang kinatatayuan nito .	it was on July twenty fifteen when the public works of Manila visited the building based on their inspection the foundation of the lot where it was built on was weak .
+<22>	(115.650-122.600)	<sta> ganito rin ang paniwala ng isang eksperto sa ginawang hiwalay na inspeksiyon .	this is also the belief of one expert in a separate inspection that was done .
+<23>	(122.600-126.230)	say for example itong part na 'to ng gusali magse settle siya .	say for example this part of the building would settle .
+<24>	(126.230-134.140)	<sta> mapapansin ninyo kung pag tumabingi 'yan magkakaro'n ng inclination pag- -- maglilinaw yung building o gusali at posible ng magtuloy tuloy 'yan .	you would notice that if it leans sideways there would be an inclination when -- the building or building becomes clear and it could possibly continue .
+<25>	(134.140-137.970)	'pag nagtuloy tuloy 'yan yung worst case puwede ng bumigay itong gusali na ito .	if it continues the worst case is this building might collapse .
+<26>	(137.970-141.420)	<no-speech>	<no-speech>
+<27>	(141.420-146.981)	<sta> kaya naman mas mainam daw na <int> 'wag na munang gamitin ang gusali .	which is why it is better not to use the building in the meantime .
+<28>	(146.981-148.324)	<no-speech>	<no-speech>
+<29>	(148.324-159.070)	<int> ayon kay Engineer Allan Deboso isa sa nangasiwa sa pagpapatayo ng gusali noong twenty ten wala raw problema sa proyekto .	according to Engineer Allan Deboso one of the organizers in constructing the building in twenty ten there is no problem with the project .
+<30>	(159.070-161.533)	(()) temporary (()) <int> niya .	(()) temporary (()) him .
+<31>	(161.533-172.153)	may supply ka pa na (()) styro lang po <hes> cement plasters and yung iba po do'n (()) cement which is hindi po siya part ng structural trading po <int> ng building .	you also have a supply of (()) Styro only cement plasters and some of those are (()) cement which is not part of the building's structural trading .
+<32>	(172.153-182.061)	kaya po kami sa tingin po namin structural stable naman po siya maliban lamang po 'yon sa pagitan po ng <hes> dalawang building na dapat ayusin .	which is why in our opinion it is structurally stable except for the middle of the two buildings that needs to be fixed .
+<33>	(182.061-182.844)	sa lugar ?	in that place ?
+<34>	(182.844-184.003)	<no-speech>	<no-speech>
+<35>	(184.003-184.390)	oo .	yes .
+<36>	(184.390-188.830)	posibleng hindi raw nabantayang <sta> mabuti ang proyekto .	since it is allegedly possible that the project was not overseen properly .
+<37>	(188.830-190.493)	<no-speech>	<no-speech>
+<38>	(190.493-195.970)	aabot daw sa ta tatlumpung milyong piso ang pagpapaayos ng gusali .	the cost of fixing the building would allegedly reach thirty million pesos .
+<39>	(195.970-198.733)	ang nangyari no'n ginawa na 'yan for the Leaning <int> Tower of Piza .	what happened before was that it was already done for the Leaning Tower of Pisa .
+<40>	(198.733-207.360)	hint nila yung <hes> nag inject sila ng lupa do'n sa nag-si-sink in na part or it's a stabilizing agent ganiyan <hes> but it's continuous kasi .	they hinted that they injected soil into the part that was sinking or like it's a stabilizing agent but it's apparently continuous .
+<41>	(207.360-208.443)	<no-speech>	<no-speech>
+<42>	(208.443-221.990)	<sta> nitong Abril <sta> sinampahan ng kasong katiwalian si dating Manila Mayor Alfredo Lim sa ombudsman <sta> kaugnay ng depektibong gusali sa Rosauro Almario Elementary School .	this April former Manila Mayor Alfredo Lim was pressed with charges by the ombudsman regarding the defective building at Rosauro Almario Elementary School .
+<43>	(221.990-239.120)	kasama sa mga sinampahan ng kaso <sta> sina dating city engineer Armando Andres <sta> dating project inspector Allan Deboso <sta> at ang may ari ng New C_C Barcelona Construction Corporation na si Carlos C Barcelona .	among those who were pressed with charges are former city engineer Armando Andres former project inspector Allan Deboso and the former owner of New C_C Barcelona Construction Corporation who is Carlos C Barcelona .
+<44>	(239.120-249.440)	<sta> ayon sa reklamo nagkaro'n ng sabwatan <sta> sa mga opisyal ng city hall para maibigay ang kontrata sa New C_C Barcelona .	according to the complaint there was a connivance among city hall officials so that the contract can be given to New C_C Barcelona .
+<45>	(249.440-257.170)	<sta> sinubukan naming kunin ang panig ni dating Manila Mayor Alfredo Lim pero tumanggi siyang magbigay ng pahayag .	we tried to get the view of former Manila mayor Alfredo Lim but he declined to give a statement .
+<46>	(257.170-261.710)	<sta> minadali rin daw ang pagpapagawa sa gusali .	supposedly the construction of the building was rushed too .
+<47>	(261.710-269.820)	<sta> Enero twenty nine twenty ten ng ibinigay sa New C_C Barcelona ang notice to proceed ng proyekto .	January twenty-nine twenty ten was when New C_C Barcelona was given the notice to proceed with the project .
+<48>	(269.820-275.654)	<sta> tatlong buwan matapos nito nakumpleto ang proyekto .	three months after this the project was completed .
+<49>	(275.654-290.844)	nakakapanghinayang <sta> na naitayo siyang building sa napakagandang layunin para matugunan nga yung kakulangan ng classrooms pero after three years o more than three years na ginagamit ito ay <hes> kaagad ngang ~ %incomplete	it's a shame that the building was erected for a very good cause to respond to the shortage of classrooms but after three years or more than three years of use it quickly %incomplete

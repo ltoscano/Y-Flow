@@ -1,0 +1,165 @@
+<1>	(0.000-8.730)	<sta> pero kumalat sa social media ngayong linggo lang ang litratong ito na sinasabing si John Regala raw .	but this photo said to be of John Regala spread on social media just this week .
+<2>	(8.730-17.410)	<sta> na sa pagkakataong ito tila walang kalaban labang nakahandusay sa labas lang ng isang supermarket sa Cavite .	that this time seems to be helplessly collapsed just outside a supermarket in Cavite .
+<3>	(17.410-20.287)	<sta> namumutla at parang walang malay .	faint and seemingly unconscious .
+<4>	(20.287-24.870)	kawawa naman ang sikat na aktor sana may tumulong sa kaniya .	the famous actor is pitiful hopefully someone helps him .
+<5>	(24.870-27.200)	<sta> si John Regala inatake sa Zapote kanina .	John Regala had an attack in Zapote earlier .
+<6>	(27.200-28.962)	oh my God save him .	oh my God save him .
+<7>	(28.962-31.546)	kawawa naman idol ko 'yan eh totoo ba to ?	how pitiful he's my idol is that true ?
+<8>	(31.546-33.320)	<no-speech>	<no-speech>
+<9>	(33.320-41.730)	<sta> kaya nito lang Biyernes sumadya nag aming team <sta> sa Zapote Bacoor Cavite upang alamin ang katotohanan .	so just this Friday our team went to Zapote Bacoor Cavite to discover the truth .
+<10>	(41.730-47.610)	<sta> at ayon sa mga vendor at barker doon si John Regala daw talaga ang nasa picture .	and according to the vendors and barkers there it was really John Regala in the picture .
+<11>	(47.610-49.565)	<sta> at tambay raw talaga siya rito .	and he really hung out there .
+<12>	(49.565-51.820)	<sta> madalas ding nag-bi-bingo .	often plays bingo .
+<13>	(51.820-56.472)	<sta> halos magdadalawang buwan na rin daw itong naka-check in sa katabing hotel .	he has been checked in in a nearby hotel for almost two months .
+<14>	(56.472-58.757)	si John Regala lagi ho bang nakikita rito ?	can John Regala always be seen here ?
+<15>	(58.757-59.940)	lagi ho .	always .
+<16>	(59.940-61.698)	<overlap> ho nag-bi-bingo .	plays bingo .
+<17>	(61.698-64.070)	hindi nakikita namin siya laging nakaupo .	no we always see him seated .
+<18>	(64.070-70.470)	'nong unang kita ko sa kaniya mataba pa pero 'nong nakaraan inatake siya dati matagal na eh mga two weeks na .	when I first saw him he was still fat but recently he had an attack it was long ago maybe two weeks already .
+<19>	(70.470-71.841)	eh ngayon payat na masyado .	but now he's too thin .
+<20>	(71.841-73.343)	naka-blue jersey siya kahapon .	he had on a blue jersey yesterday .
+<21>	(73.343-77.480)	<sta> minsan po tanghali na pag ano nakaupo po diyan .	sometimes it's already noon when he's seated there .
+<22>	(77.480-82.690)	<sta> nakilala ng aming team ang lalaki sa larawan na tumulong kay John .	our team got to know the man in the photo who helped John .
+<23>	(82.690-84.310)	si Toto .	Toto .
+<24>	(84.310-88.432)	<sta> kuwento niya nangyari ang lahat bandang hapon nito lang Miyerkules .	he shares everything happened around afternoon just this Wednesday .
+<25>	(88.432-92.370)	dito dito nakaupo siya dito .	here here he was sitting here .
+<26>	(92.370-93.580)	<int> nakaganyan siya rito .	he was like that here .
+<27>	(93.580-95.450)	<no-speech>	<no-speech>
+<28>	(95.450-101.570)	<sta> dala ang kaniyang mga panabong napansin niya ang bulto ng mga taong tila may pinagkakaguluhan .	carrying his gambling money he noticed the mass of people who seemed to be crowding over something .
+<29>	(101.570-104.570)	<sta> si John Regala na hinimatay .	John Regala who collapsed .
+<30>	(104.570-108.010)	'nong pinainom namin ng tubig medyo nag-blush 'yung mukha niya namula .	when we let him drink water his face blushed a little it reddened .
+<31>	(108.010-110.680)	biniro ko pa nga eh I do may taping pa tayo huwag kang matutulog .	I even joked idol we sill have a taping don't sleep .
+<32>	(110.680-113.870)	'yun nagsalita siya pero pabulong sabi niya uh uh .	he talked but in whisper and said yes .
+<33>	(113.870-118.400)	<sta> matapos ang halos tatlumpung minuto nagkamalay ang aktor .	after almost thirty minutes the actor gained consciousness .
+<34>	(118.400-125.310)	<sta> may naka-standby na raw noon na ambulansiya pero tumanggi raw si John Regala na magpadala sa ospital .	there was an ambulance already on standby but John Regala declined to be brought to the hospital .
+<35>	(125.310-128.540)	medyo gumanda na 'yung pakiramdam niya sabi ko idol okey ka na ?	he felt better I said idol are you okay now ?
+<36>	(128.540-133.090)	gumaganon na siya sabi ko dalhin na kita sa Saint Dominic ayaw naman niyang magpadala .	he was doing this I said I'll bring you to Saint Dominic he doesn't want to .
+<37>	(133.090-138.110)	<no-speech>	<no-speech>
+<38>	(138.110-139.554)	<no-speech>	<no-speech>
+<39>	(139.554-141.569)	sir good afternoon po .	sir good afternoon .
+<40>	(141.569-142.682)	hi good afternoon .	hi good afternoon .
+<41>	(142.682-144.550)	okey po ba kayong ma-interview ?	is it okay to interview you ?
+<42>	(144.550-145.763)	ay okey lang po .	yes it's okay .
+<43>	(145.763-148.290)	nagpaunlak ng panayam si John .	John accepted the interview .
+<44>	(148.290-151.290)	kinumpirma niya hinimatay nga siya .	he confirmed that he collapsed .
+<45>	(151.290-153.009)	ay .	oh .
+<46>	(153.009-153.967)	kayo po to ?	this is you ?
+<47>	(153.967-155.730)	opo ako 'yan ako 'yan .	yes that's me .
+<48>	(155.730-164.070)	(()) nangyari 'yun 'nong kahapon February fifteen <overlap> bigla nga kayo diyan <overlap> dito <int> 'yan dito 'yan tapos inakyat nila ko dito .	(()) it happened yesterday February fifteen when suddenly you there here here and then they brought me up here .
+<49>	(164.070-164.565)	dito .	here .
+<50>	(164.565-165.866)	ay <overlap> 'yan diyan .	yes there .
+<51>	(165.866-168.100)	hilong-hilo ako diyan .	I was very dizzy there .
+<52>	(168.100-172.440)	umikot ang paningin ko tapos nangatog ang tuhod ko hindi ko maihakbang .	my head was spinning and my knees were shaking I can't move it .
+<53>	(172.440-176.970)	<sta> pabalik na raw sana siya sa hotel noon 'nong bigla siyang nawalan ng malay .	he was supposed to go back to the hotel when he suddenly fainted .
+<54>	(176.970-180.850)	bumaba ako para bumili sa isang convenient store .	I went down to buy from a convenient store .
+<55>	(180.850-181.030)	opo .	yes .
+<56>	(181.030-184.641)	sobrang init 'nong tanghali -- 'nong tanghali na 'yon .	it was very hot that noon -- that noon .
+<57>	(184.641-188.255)	'nong pabalik na kong gano'n biglang umikot ang paningin ko .	when I was about to return my head was suddenly spinning .
+<58>	(188.255-195.220)	so umupo ako sandali din do'n kasi nangangatog 'yung tuhod ko eh biglang nawalan nag pass out talaga ko .	so I sat down for a while also because my knees were shaking suddenly lost I really passed out .
+<59>	(195.220-200.990)	<sta> paglilinaw niya hindi siya inatake sa puso o na-stroke gaya ng mga bali-balita .	he cleared that he didn't have a heart attack or stroke like the hearsays .
+<60>	(200.990-202.500)	<sta> hindi ako na-stroke .	I didn't have a stroke .
+<61>	(202.500-205.203)	<sta> hindi po ako inatake sa puso .	I didn't have a heart attack .
+<62>	(205.203-206.830)	<sta> malakas po ako .	I'm strong .
+<63>	(206.830-212.790)	katunayan eh kaya ko pang- -- ano eh ha di ba ?	well in fact I can still -- well what right ?
+<64>	(212.790-214.371)	eh tayo'y malakas na malakas .	we're very strong .
+<65>	(214.371-216.093)	kaya pa nating lumabas .	we can still go out .
+<66>	(216.093-220.420)	<sta> suspetsa niya bumaba ang kaniyang sugar level .	he suspects his sugar level dropped down .
+<67>	(220.420-222.727)	<sta> dahil sa kaniyang diabetes .	because of his diabetes .
+<68>	(222.727-225.060)	diperensiya natin diabetes 'yun ano .	our difference that's diabetes .
+<69>	(225.060-227.763)	siyempre may mga pangontra namang gamot diyan .	of course there are medicines to prevent it .
+<70>	(227.763-228.941)	<sta> umm tulad <overlap> sakit niya ?	uhm like his disease ?
+<71>	(228.941-234.055)	'yung sa spinal column niya mayro'n ng arthritis oo tapos 'yung <sta> gout .	in his spinal column he has arthritis yes and also gout .
+<72>	(234.055-239.160)	<sta> 'yung mayro'n siyang konting ano dito sa heart pero okey naman nagagamot naman .	he has a small in the heart but that's okay it can be cured .
+<73>	(239.160-243.718)	<sta> ngayon 'nong malaman ko nga 'yun makita ko kinabukasan na 'yun 'nong sinita ko siya .	and now that I learned that when I saw it the next day I reprimanded him .
+<74>	(243.718-252.360)	bakit ka 'ko hindi mo ako tinawagan sana ka 'ko dumiretso ko sa 'yo from- -- mula do'n sa trabahong 'yun eh ayaw niya kasi akong mag-aalala .	why didn't you call me I could have went to you directly from -- from that work but he doesn't want me to worry .
+<75>	(252.360-259.170)	<sta> kasalukuyan daw ni-re-renovate at pinipinturahan ang kaniyang bahay kaya siya naka-check in sa hotel .	at present his house is being renovated and painted that's why he's checked in at a hotel .
+<76>	(259.170-265.480)	bawal na bawal sa akin kasi 'yung init kasi kagagaling ko lang ng ospital no'n no .	heat is extremely not allowed for me because I just came from the hospital that time .
+<77>	(265.480-270.051)	eh kailangan talaga i-rush ko na 'yung pagpapapintura ng bahay .	but I really needed to rush the painting of the house .
+<78>	(270.051-280.290)	<sta> sa dami ng raw ng kaniyang pinagdaanan <sta> sa mala-pelikula niyang buhay wala na raw siyang hindi kakayanin pa .	of the many things he already went through in his movie-like life there's nothing more he can't take .
+<79>	(280.290-288.040)	<sta> ipinanganak September nineteen sixty five <sta> si John Regala o John Paul Guido Boucher Scherrer .	John Regala or John Paul Guido Boucher Scherrer was born in September nineteen sixty-five .
+<80>	(288.040-292.060)	<sta> may lahi raw kasing German at French ang kaniyang mga magulang .	his parents have a blood of German and French .
+<81>	(292.060-294.320)	<sta> nasa dugo ang pag aartista .	being an actor is in his blood .
+<82>	(294.320-299.060)	<sta> unico hijo ng mga dating artista na sina Ruby Regala .	the only son of the former actor and actress Ruby Regala .
+<83>	(299.060-300.482)	<sta> at Mel Francisco .	and Mel Francisco .
+<84>	(300.482-304.880)	matulungin siya kahit mawalan na siya ng sentimo ibibigay niya .	he's very helpful even if he already loses a centavo he'll give it .
+<85>	(304.880-310.750)	'yun lang 'wag mong aapihin ang sinuman sa pamilya niya o kaya siya talagang makikipaglaban siya ng patayan .	just don't abuse any of his family or him because he'll really fight until death .
+<86>	(310.750-318.100)	<sta> dahil kinailangan daw magtrabaho noon ng kaniyang ina sa Visayas naiwan sa Quezon si John .	because his mom needed to work in Visayas John was left at Quezon .
+<87>	(318.100-324.527)	<sta> sa murang edad nakaranas daw siya ng pangmamaltrato o pang- -- aapi ng kaniyang kamag-anak .	at an early age he experienced cruelty or abuse from his relatives .
+<88>	(324.527-326.870)	masalimuot ang aking pagkabata no ?	my childhood was rough right ?
+<89>	(326.870-328.775)	<sta> hindi ako lumaki sa aking ina .	I didn't grow up with my mom .
+<90>	(328.775-330.898)	<sta> hindi ko nagisnan ang aking ama .	I didn't grow up with my dad .
+<91>	(330.898-333.092)	<sta> iniwan ako sa malayong kamag-anak .	I was left with a distant relative .
+<92>	(333.092-334.950)	<no-speech>	<no-speech>
+<93>	(334.950-336.272)	<no-speech>	<no-speech>
+<94>	(336.272-340.770)	<sta> sa maagang stage ng aking buhay nakipaglaban na ako sa mundo .	at an early stage of my life I already fought the world .
+<95>	(340.770-349.136)	'yung kamag-anak naman namin hindi ako itinuring na mabuti na kamag-anak kaya nakaranas tayo ng gano'n pang-aapi .	our relatives didn't treat me as a good relative that's why I experienced abuse .
+<96>	(349.136-351.687)	<no-speech>	<no-speech>
+<97>	(351.687-355.820)	<sta> 'yung hampasin ka ng dos por dos na may pako sa dulo .	to be hit with a two by two that has a nail on the edge .
+<98>	(355.820-360.403)	<sta> sa loob ng tatlong taon dalawang pagkain lang ang natitikman ko .	in three years I only tasted two kinds of food .
+<99>	(360.403-362.660)	<sta> oatmeal 'tsaka lugaw lang .	just oatmeal and porridge .
+<100>	(362.660-368.550)	<sta> umaga tanghali gabi mas gusto pa nilang ipakain 'yung tira nilang pagkain sa pusa at sa aso .	morning noon night they wanted to feed their leftovers more to the cat and dog .
+<101>	(368.550-371.178)	kaysa sa 'kin ang katabi kong matulog aso .	than me I had the dog beside me while sleeping .
+<102>	(371.178-376.490)	<sta> galit ako sa mundo dati dahil lahat eh parang pinagkakaisahan ako .	I was angry at the world before because everything seemed against me .
+<103>	(376.490-380.910)	<sta> naiinggit ako pag nakakakita ko ng buong pamilya ba .	I'm jealous when I see a whole family .
+<104>	(380.910-382.229)	<no-speech>	<no-speech>
+<105>	(382.229-391.523)	<sta> matapos siyang kukunin ng kaniyang ina <sta> nanirahan sila sa Marikina at para makatulong sa gastusin nilang mag-ina naging laking kalye si John .	after his mother took him they lived in Marikina and to help with their expenses John grew up in the streets .
+<106>	(391.523-393.531)	naging madiskarte .	he became strategic .
+<107>	(393.531-397.673)	para may pambaon ako hanggang alas dose nag takatak boys ako .	just to have an allowance I'll be selling in the streets until twelve .
+<108>	(397.673-399.505)	tapos sabi ko pasok na ko .	and then I'll say I'll come in .
+<109>	(399.505-400.810)	<sta> sir yes sir .	sir yes sir .
+<110>	(400.810-406.880)	<sta> pangarap daw talaga niyang maging sundalo kaya pumasok bilang jungle fighter sa Mindanao .	he really dreamed to become a soldier that's why he entered as jungle fighter in Mindanao .
+<111>	(406.880-414.870)	two years akong nag-training in jungle fighter 'nong ipapadala na nila ko sa Mindanao sabi ko walang pera dito eh sabi ko eh mamamatay ako nag AWOL ako .	I trained for two years in jungle fighter when they were about to send me to Mindanao I said there's no money here I said I'll die and I'll be AWOL .
+<112>	(414.870-419.151)	<sta> hanggang naisipan niyang mag extra sa mga pelikula .	until he thought about being an extra in films .
+<113>	(419.151-422.400)	<sta> mas guwapo naman ako rito eh bakit sila eh nasa T_V .	I'm more attractive than this why are they in T_V .
+<114>	(422.400-425.536)	<sta> ba kaya ko rin sa T_V sabi ko susubukan ko .	I can be in T_V I said I'll try it .
+<115>	(425.536-430.763)	apply ako sa Escolta walang-hiya 'andoon lahat ng mga line- -- ay mga producer sa Escolta eh .	I applied in Escolta how shameless all of them are there -- the producers in Escolta .
+<116>	(430.763-431.875)	ah ah ah ah tambay ako do'n .	ah ah ah ah I hung out there .
+<117>	(431.875-437.641)	<sta> nakikiusap ako sa mga director kung kailangan n'yo naman ng extra o lalabas subukan n'yo naman ho ako .	I requested to the directors if you need an extra or a minor actor please try me .
+<118>	(437.641-439.550)	<sta> anak po ako ni Ruby Regala .	I am the child of Ruby Regala sir .
+<119>	(439.550-441.366)	<sta> gano'n ako ka-confident sa sarili ko .	that's how much I had confidence on myself .
+<120>	(441.366-443.587)	gano'n ako ka diretso .	that's how direct I was .
+<121>	(443.587-448.154)	<sta> noong nineteen eighties <sta> naging miyembro ng That's Entertainment .	became a member of That's Entertainment in the nineteen eighties .
+<122>	(448.154-452.940)	okey lang sa 'kin ay 'yung <overlap> magbida ako okey sa akin 'yon .	it was just fine with me if I had a starring role that was fine with me .
+<123>	(452.940-455.923)	pero hindi lahat bida ako dahil malalaos ako dito .	but I didn't star in everything because I will lose popularity here .
+<124>	(455.923-458.420)	ang hirap mag maintain pag nasa peak ka na eh .	well it's hard to maintain when you're in the peak .
+<125>	(458.420-462.974)	<sta> nasa kaniya na raw ang lahat noon kasikatan kayamanan .	according to him he had everything before fame wealth .
+<126>	(462.974-464.867)	<sta> ang dami kong pera noon .	I had a lot of money back then .
+<127>	(464.867-466.254)	<sta> hindi ako nagbabangko eh .	I didn't use a bank .
+<128>	(466.254-468.557)	<sta> nakasalansan lahat ng pera ko sa cabinet .	all my money were filed in the cabinet .
+<129>	(468.557-470.510)	<sta> mukhang kuba ako noon .	I looked like a hunchback back then .
+<130>	(470.510-471.211)	<sta> bakit ka mo ?	why you ask ?
+<131>	(471.211-472.726)	<sta> ang bibigat ng alahas ko .	my jewelry were heavy .
+<132>	(472.726-477.942)	<sta> lahat 'yan eh mayroon eh tapos ang pera ko eh dito sa bulsa ang kakapal lagi .	all that had it and then my money just here in the pocket was always thick .
+<133>	(477.942-480.940)	<sta> nasangkot siya sa ilang mga issue .	he was involved in some issues .
+<134>	(480.940-486.609)	<sta> kaya simula two thousand one hindi na siya nabigyan ng kahit anong proyekto .	so since two thousand one he wasn't given any project anymore .
+<135>	(486.609-491.060)	<sta> doon na raw nagsimulang sumadsad ang kaniyang showbiz career .	that's when his showbiz career started to go down .
+<136>	(491.060-501.549)	<sta> sabi ko pa'no ko makakapaglagari ng maraming pelikula kung hindi ako aano rito <overlap> ah ah so 'yun ang naging ano 'yung drugs the nasabayan pa 'ko ng problema sa father ko <overlap> mhm .	I said how will I be in many films if I won't that's what I the drugs problems with my father even came along mhm .
+<137>	(501.549-505.200)	<sta> lahat daw 'yun pinagsisisihan niya .	he regretted all of that .
+<138>	(505.200-509.391)	<sta> nagdesisyon na raw siyang magbalik-loob sa Panginoon .	he decided to once again have faith in God .
+<139>	(509.391-512.590)	<sta> noong una hindi ko matanggap ang hirap tanggapin .	at first I can't accept it it's hard to accept .
+<140>	(512.590-516.211)	<sta> hanggang sa na-realize ko na wala naman akong magagawa .	until I realized I can't do anything .
+<141>	(516.211-522.063)	<sta> kahit na anong paraan kung hindi naman itutulot ng Diyos <sta> na mangyari wala rin akong magagawa .	whatever way if God won't permit to it to happen still can't do anything .
+<142>	(522.063-528.340)	<sta> so sabi ko tanggapin ko na lang 'yung katotohanan na talagang ganito nangyayari destiny ito .	so I said I'll just accept the truth that this is what happened to my destiny .
+<143>	(528.340-530.959)	<sta> hanggang naabot ko 'yung pinakasadsad ng buhay .	until I reached the rock-bottom of life .
+<144>	(530.959-537.984)	<sta> ultimo kamag-anak ko bago ko pahiramin ng isang daan piso <sta> mura muna ang inaabot ko insulto .	even my relatives before they lend me one hundred pesos I get curse and insults first .
+<145>	(537.984-544.079)	<sta> samantalang noong mayroon ako <sta> eh kung tumulong ako sa mga kamag-anak ko ay gano'n gano'n na lang .	but when I had the means well I helped my relatives just like that .
+<146>	(544.079-549.080)	<sta> sa ngayon abala raw ang aktor sa kaniyang environmental project .	at present the actor is busy with his environmental project .
+<147>	(549.080-554.532)	<sta> ilang negosyo at adbokasya para sa mga magsasaka ng Nueva Ecija .	couple of businesses and advocacy for the farmers of Nueva Ecija .
+<148>	(554.532-557.880)	<sta> ang adbokasya ko doon ay tulungan ang magsasaka .	my advocacy there is to help the farmers .
+<149>	(557.880-560.350)	kasi walang pumapansin sa mga magsasaka .	because no one pays attention to the farmers .
+<150>	(560.350-570.322)	<sta> gusto pa rin daw niyang makabalik ng showbiz at sana raw <sta> magsilbing leksiyon para sa ilan ang kaniyang mga maling nagawa at bisyo .	he still wants to be back in showbiz and hopefully this will serve as a lesson to some the mistakes and vices he did .
+<151>	(570.322-578.769)	<sta> samantala hindi nakalimutan ni John <sta> na magpasalamat sa lalaking tumulong sa kaniya 'nong siya'y nawalan ng malay .	meanwhile John didn't forget to thank the guy who helped him when he fainted .
+<152>	(578.769-581.770)	<sta> pinagtagpo namin sila ni Toto .	we arranged for Toto and him to meet .
+<153>	(581.770-592.190)	ang akala ko wala ng nagmamahal sa akin eh <overlap> hindi marami pa idol marami pa <overlap> <sta> akala ko nakalimutan na ko ng tao eh .	I thought no one loved me anymore no there are still a lot idol there's still a lot I thought people has already forgotten about me .
+<154>	(592.190-595.771)	<sta> kaya minsan na-de-depress ako .	that's why sometimes I get depressed .
+<155>	(595.771-599.950)	<sta> masakit 'yun dahil mahal na mahal ko ang mga tagahanga ko .	that hurt because I truly love my fans .
+<156>	(599.950-606.070)	<sta> ngayon ko napatunayan na hanggang ngayon pala ang pagmamahal ng tao ay nananatili pa sa akin .	now I have proven that until now the love of man is still in me .
+<157>	(606.070-609.444)	<sta> basta naka encounter ako ng gano'n kahit sinong tao talagang tutulungan ko .	whenever I encounter something like that I will really help anybody .
+<158>	(609.444-611.257)	oo tama po <overlap> 'di ba ?	yes is this correct sir right ?
+<159>	(611.257-619.800)	opo sa mga tiga Zapote maraming-maraming salamat sa inyo sa mga pagtulong ninyo sa akin no ho .	yes to those living in Zapote a great many thanks to you for helping me right sir .
+<160>	(619.800-626.750)	<sta> napatunayan ko na mahal na mahal n'yo ko at <hes> nagpapalakas ng loob ko 'yon .	I have proven that you truly love me and that gives me encouragement .
+<161>	(626.750-628.409)	para lumaban ako sa mundo .	for me to fight in the world .
+<162>	(628.409-632.598)	<sta> huwag kayong mag-alala pagbalik ko boom .	don't worry when I return boom .
+<163>	(632.598-634.937)	<sta> ha babalik tayo .	okay we will return .
+<164>	(634.937-636.632)	<sta> mahal na mahal ko kayo ha .	I truly love you okay .
+<165>	(636.632-638.659)	<sta> thank you sige .	thank you all right .

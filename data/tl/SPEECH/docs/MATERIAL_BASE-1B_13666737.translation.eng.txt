@@ -1,0 +1,25 @@
+<1>	(0.000-1.641)	<no-speech>	<no-speech>
+<2>	(1.641-5.623)	<sta> nais n'yo po bang makabili ng mga produktong sariwa at mura ?	do you want to buy products that are fresh and cheap ?
+<3>	(5.623-10.259)	alam n'yo po bang dito sa GenSan ay <sta> tampok ang mga pagkaing healthy na mura pa .	do you know that here in GenSan healthy food that are also affordable are featured .
+<4>	(10.259-16.050)	anu-ano nga ba ang benepisyo sa kalusugan ng pagkain po ng organic o organic food .	what are the health benefits of eating organic or organic food .
+<5>	(16.050-17.670)	<sta> patrol si Rean Hacosta .	Rean Hacosta patrols .
+<6>	(17.670-21.180)	<no-speech>	<no-speech>
+<7>	(21.180-26.170)	dinadagsa tuwing Linggo ng mga health conscious ang Farmer's Market sa Baranggay Lagaw .	every Sunday many health conscious swarms Farmer's Market in Baranggay Lagaw .
+<8>	(26.170-36.120)	paano ba naman kasi dito makakabili ng mga bagong pitas na prutas at sariwang gulay at ilan pang- -- mga pagkain na kung ituring ay organic .	this is because you can buy newly picked fruits and fresh vegetables and other -- food that are considered to be organic here .
+<9>	(36.120-42.750)	ang health conscious na si Mayet nais makasigurong walang kemikal ang kaniyang ipinapakain sa kaniyang pamilya .	health conscious Mayet wants to make sure that there are no chemicals in the food that she prepares for her family .
+<10>	(42.750-49.358)	make sure that what we're cooking what we're preparing for ourselves are are free from chemical .	make sure that what we're cooking what we're preparing for ourselves are are free from chemical .
+<11>	(49.358-56.584)	napansin naman ni Marjorie na mas matagal ring mabulok ang mga gulay at prutas na kaniyang nabibili sa Farmer's Market .	Marjorie also noticed that the fruits and vegetables that she buys from Farmer's Market takes longer to rot .
+<12>	(56.584-59.623)	for one week talaga siya hindi pa siya na-spoil .	it's really for one week it hasn't spoiled yet .
+<13>	(59.623-66.524)	'yung na compare namin sa market -- other market three days pa lang bulok na .	what we've compared with those in the market -- other market only takes three days before it rots .
+<14>	(66.524-74.437)	masaya ang tinderang si <sta> Teresita dahil ang simpleng pag di-display lang nila ng mga organic food <sta> ay naging hit sa GenSan .	storekeeper Teresita is happy because their simple display of organic food became a hit in GenSan .
+<15>	(74.437-79.930)	kaya naman tinitiyak nila na wala silang ginagamit na pesticides sa kanilang produkto .	that is why they make sure that they do not use pesticides in their products .
+<16>	(79.930-81.914)	iba talaga ang natural .	nothing beats the natural .
+<17>	(81.914-93.630)	kapag natural ang kinakain natin so sabing natural kung ano lang ang gawa namin na pang- -- natural na pang- -- i-spray 'yung lang ang amin 'yung turo ng taga D_A sa amin .	when we eat natural so when we say natural it means that it's only what we created for -- a natural spray -- just spray that's the only thing we use that's what the D_A taught us .
+<18>	(93.630-101.049)	<sta> ang organic food ay mga pagkaing tulad ng gulay prutas o karne na hindi ginagamitan ng mga pesticides o nilagyan ng gamot .	organic food are foods like vegetables fruits or meat where no pesticides or chemicals were used .
+<19>	(101.049-111.210)	ito ay mayaman din sa <sta> sustansiya at mainam umanong panlaban sa sakit na cancer na karaniwang nakukuha sa pagkaing may pesticides o ginagamitan ng preservative .	it is rich with nutrients and is a good prevention against cancer that is commonly acquired in foods that have pesticides or with preservatives .
+<20>	(111.210-123.920)	advocacy 'yan ng <hes> hindi lang sa akin kundi lahat ng mga tao na mayroong <hes> loob para doon sa maliliit na mga farmers at 'tsaka home producers .	this is an advocacy by not only by me but to all the people that has hearts for those small farmers and home producers .
+<21>	(123.920-128.070)	para sila magkaroon ng pagkakataon na magka- -- hanap-buhay rin .	for them to have the opportunity to have -- a livelihood too .
+<22>	(128.070-139.034)	bukod sa mura at masustansiyang pagkain tampok sa Farmer's Market ang techno-demo tulad ng paggawa ng tanyag na Maguindanaon delicacy na kilala sa tawag na Tinagtag .	aside from the cheap and healthy food featured in the Farmer's Market is the techno-demo like how to make the famous Maguindanaon delicacy known as Tinagtag .
+<23>	(139.034-144.903)	Tagtag po kasi <hes> recipe ng (()) namin tapos bigas lang 'yan <sta> at 'tsaka asukal .	it's because it was dismissed the recipe of (()) ours and that's only rice and sugar .
+<24>	(144.903-155.211)	para sa mga nais na sumubok na bumili ng mga organic na pagkain maaaring bisitahin ang Farmer's Market tuwing Linggo sa Ramas residence sa Tiongson extension sa Baranggay Lagaw .	for those who want to buy the organic food they can visit the Farmer's Market every Sunday in Ramas residences at Tiongson extension in Baranggay Lagaw .
+<25>	(155.211-156.987)	Rean Hacosta ~ %incomplete	Rean Hacosta %incomplete

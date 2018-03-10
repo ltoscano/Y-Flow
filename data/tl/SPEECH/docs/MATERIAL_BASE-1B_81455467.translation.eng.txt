@@ -1,0 +1,34 @@
+<1>	(0.000-9.400)	<sta> mga pamatid uhaw na paandar subukan ang inumin na may bacon <sta> o 'yung mga inuming kakaiba ang mga lagayan .	gimmicky refreshments try a drink with bacon or drinks in unusual containers .
+<2>	(9.400-10.389)	<sta> narito ang report .	here is the report .
+<3>	(10.389-13.869)	<no-speech>	<no-speech>
+<4>	(13.869-17.360)	<sta> mga paandar na inumin ang ibibida namin sa inyo ngayong umaga .	gimmicky refreshments are what we'll tell you about this morning .
+<5>	(17.360-22.580)	<sta> hatid ng kapehang ito sa Metrowalk ang mas makulay na buhay dahil sa kanilang bagong paandar .	a more colorful life is brought by this cafe in Metrowalk because of their new gimmick .
+<6>	(22.580-25.795)	<sta> ang latte art kasi ng kanilang kape level up .	because their cafe's latte art has leveled up .
+<7>	(25.795-29.840)	talaga namang nakakaaliw ang iba't ibang design ng kanilang rainbow latte art .	the various designs of their rainbow latte art are really amusing .
+<8>	(29.840-33.790)	<sta> kami po ang kauna-unahang nagdala ng rainbow latte sa Pilipinas .	we are the very first to bring rainbow latte in the Philippines .
+<9>	(33.790-40.020)	<sta> a lot of other countries are doing it as well like (()) <sta> Australia like Abu Dhabi Dubai .	a lot of other countries are doing it as well like (()) Australia like Abu Dhabi Dubai .
+<10>	(40.020-46.480)	<sta> Eureka sa cafe rin na ito ma-e-enjoy ang healthy juice drinks na nakalagay sa basong hugis bombilya .	eureka it is also in this cafe that healthy juice drinks in bulb-shaped cups can be enjoyed .
+<11>	(46.480-49.016)	<sta> ang tawag nila dito Cheers Quenchers .	they call it Cheers Quenchers .
+<12>	(49.016-53.722)	<sta> for this we put chia seeds <sta> for a <hes> para maging iba kami .	for this we put chia seeds for a -- so we would be different .
+<13>	(53.722-61.470)	<sta> kasi naging trend before <hes> 'yung mga pearls 'yung mga <sta> Zagu na nilalagay sa drink .	because those pearls those on Zagu which are mixed into a drink became a trend before .
+<14>	(61.470-66.980)	<sta> now we're <hes> adding a different <hes> twist on it that's why we're putting chia seeds .	now we're adding a different twist on it that's why we're putting chia seeds .
+<15>	(66.980-73.630)	<sta> hilig ng magbabarkadang sina Eyo Steph at Yohan ang magpunta sa cafe tuwing kanilang break time .	friends Eyo Steph and Yohan like to go to the cafe during their break time .
+<16>	(73.630-81.630)	<sta> pero ngayong araw susubukan nila ang hindi lang basta pamatid uhaw kundi ang drinks na papawi sa kanilang curiosity .	but today they will try a refreshment that will not just quench their thirst but also satisfy their curiosity .
+<17>	(81.630-86.472)	<sta> sa cafe na ito sa Maginhawa nakalagay sa Erlenmeyer flask ang kanilang mga inumin .	at this cafe in Maginhawa their drinks are placed in Erlenmeyer flasks .
+<18>	(86.472-88.950)	<sta> mayroon po kaming sixteen ounce 'tsaka twenty two ounce .	we have a sixteen-ounce and twenty-two-ounce .
+<19>	(88.950-95.590)	<sta> sa sixteen ounce po <hes> one hundred twenty then 'yung twenty two ounce is one hundred thirty .	the sixteen ounce is one hundred twenty then the twenty-two ounce is one hundred fifty .
+<20>	(95.590-102.463)	<sta> ang Erlenmeyer flask ay isang laboratory equipment na ginawa ng isang German chemist <sta> na si Emil Erlenmeyer noong eighteen sixties .	the Erlenmeyer flask is a laboratory equipment that was made by a German chemist Emil Erlenmeyer in the eighteen sixties .
+<21>	(102.463-110.013)	<sta> ang Erlenmeyer flask ay triangular flask na basically ginagamit siya as <sta> container for .	the Erlenmeyer flask is a triangular flask that is basically used as a container for .
+<22>	(110.013-110.987)	<no-speech>	<no-speech>
+<23>	(110.987-112.860)	liquid solutions .	liquid solutions .
+<24>	(112.860-121.630)	<sta> maaaring -- maaari ring gamitin siya bilang reaction vessel to observe chemical reaction as it happens .	it can be -- it can also be used as a reaction vessel to observe a chemical reaction as it happens .
+<25>	(121.630-126.400)	<sta> ang bacon naman na bida sa almusal hindi na lang ulam ngayon .	meanwhile bacon which is the star at breakfast is not just a viand now .
+<26>	(126.400-131.150)	<sta> dahil sa kainang ito sa Marikina ang kanilang inumin merong totoong bacon ?	because at this restaurant in Marikina their drinks have real bacon ?
+<27>	(131.150-137.410)	tama ang narinig ninyo mga Kapuso pinaghalong tamis at alat ang sarap na malalasap sa paandar na inuming ito .	what you heard is right My Beloved a blend of sweetness and saltiness is savored in this promotional drink .
+<28>	(137.410-142.650)	<sta> since we are a smoke house <sta> we specialize in a smoking meats and barbecue .	since we are a smoke house we specialize in smoking meats and barbecue .
+<29>	(142.650-148.390)	<sta> ang <hes> unang naisip kaagad namin is why not incorporate 'yung <hes> aming specialty sa isa sa aming mga drinks .	the first thing we thought of is why not incorporate our specialty into one of our drinks .
+<30>	(148.390-155.380)	<sta> so we come up with an idea na 'yung aming homemade bacon -- kasi we -- we make our own bacon 'no we smoke our own bacon .	so we came up with an idea that our homemade bacon -- because we -- we make our own bacon no we smoke our own bacon .
+<31>	(155.380-160.680)	<sta> so we -- we blend it with <hes> our homemade ice cream and then topped it up with maple syrup .	so we -- we blend it with our homemade ice cream and then top it up with maple syrup .
+<32>	(160.680-163.513)	<sta> panalo rin ang smores drink na mabibili rito .	the s'mores drink that can be bought here is also a winner .
+<33>	(163.513-166.690)	<sta> hindi flavoring kundi totoong smores ang halo .	not flavoring but mixed with real s'mores .
+<34>	(166.690-175.760)	<sta> ang mga inuming ito hindi lang para mapawi ang pagka-uhaw <sta> idinadagan ng iba't ibang gimik para ang drinking experience mas wow na wow .	these drinks are not just for quenching thirst different gimmicks were done for a drinking experience that really wows .

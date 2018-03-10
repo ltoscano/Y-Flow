@@ -1,0 +1,100 @@
+<1>	(Outline, 0.000-0.775)	<no-speech>	<no-speech>
+<2>	(Inline, 0.000-3.837)	<sta> oo kaya palutuin natin si Pareng Inot total wala naman pasok si Inot <hes> .	yes let's make Pareng Inot cook because Inot has no work .
+<3>	(Outline, 0.775-4.534)	<no-speech>	<no-speech>
+<4>	(Inline, 3.837-4.560)	'di ba ?	right ?
+<5>	(Outline, 4.534-5.918)	mas giyera 'yan giyera .	that's war war .
+<6>	(Inline, 4.560-6.100)	<no-speech>	<no-speech>
+<7>	(Outline, 5.918-9.130)	<no-speech>	<no-speech>
+<8>	(Inline, 6.100-6.450)	<no-speech>	<no-speech>
+<9>	(Inline, 6.450-7.250)	<no-speech>	<no-speech>
+<10>	(Inline, 7.250-9.319)	<sta> hello .	hello .
+<11>	(Outline, 9.130-11.283)	<no-speech>	<no-speech>
+<12>	(Inline, 9.319-11.852)	hello .	hello .
+<13>	(Outline, 11.283-12.735)	hello .	hello .
+<14>	(Inline, 11.852-14.969)	'di ba wala naman pasok si Inot 'di ba ?	Inot doesn't have work right ?
+<15>	(Outline, 12.735-13.065)	<no-speech>	<no-speech>
+<16>	(Outline, 13.065-14.185)	<no-speech>	<no-speech>
+<17>	(Outline, 14.185-14.725)	pero .	but .
+<18>	(Outline, 14.725-16.255)	<no-speech>	<no-speech>
+<19>	(Inline, 14.969-16.780)	mamaya ?	later ?
+<20>	(Outline, 16.255-17.034)	<no-speech>	<no-speech>
+<21>	(Inline, 16.780-17.580)	<no-speech>	<no-speech>
+<22>	(Outline, 17.034-17.723)	oo .	yes .
+<23>	(Inline, 17.580-19.264)	<no-speech>	<no-speech>
+<24>	(Outline, 17.723-18.755)	naririnig kayo niyan .	he hears you .
+<25>	(Outline, 18.755-19.755)	<no-speech>	<no-speech>
+<26>	(Inline, 19.264-25.761)	oo 'yon nga <hes> mamaya yayain nga natin mag-inom palutuin natin siya nang pulutan sabihin mo kay Pay-Pay .	yes that's it later let's ask them to go drinking ask him to cook snacks tell that to Pay-Pay .
+<27>	(Outline, 19.755-20.505)	<no-speech>	<no-speech>
+<28>	(Outline, 20.505-23.465)	<no-speech>	<no-speech>
+<29>	(Outline, 23.465-23.815)	<no-speech>	<no-speech>
+<30>	(Outline, 23.815-27.885)	<no-speech>	<no-speech>
+<31>	(Inline, 25.761-28.700)	<no-speech>	<no-speech>
+<32>	(Outline, 27.885-28.575)	<no-speech>	<no-speech>
+<33>	(Outline, 28.575-29.375)	oo naman .	sure .
+<34>	(Inline, 28.700-29.932)	<no-speech>	<no-speech>
+<35>	(Outline, 29.375-32.105)	<no-speech>	<no-speech>
+<36>	(Inline, 29.932-30.654)	'di ba ?	right ?
+<37>	(Inline, 30.654-31.330)	<no-speech>	<no-speech>
+<38>	(Inline, 31.330-32.650)	<no-speech>	<no-speech>
+<39>	(Outline, 32.105-33.944)	<laugh> mamaya .	later .
+<40>	(Inline, 32.650-33.310)	para .	so .
+<41>	(Inline, 33.310-34.150)	<no-speech>	<no-speech>
+<42>	(Outline, 33.944-35.995)	pagkatapos nila gisingin natin si ilong .	after them let's wake up Ilong .
+<43>	(Inline, 34.150-34.520)	<no-speech>	<no-speech>
+<44>	(Inline, 34.520-35.800)	<no-speech>	<no-speech>
+<45>	(Inline, 35.800-37.988)	<sta> oo .	yes .
+<46>	(Outline, 35.995-36.965)	<no-speech>	<no-speech>
+<47>	(Outline, 36.965-37.325)	<no-speech>	<no-speech>
+<48>	(Outline, 37.325-42.875)	<no-speech>	<no-speech>
+<49>	(Inline, 37.988-42.064)	para maglaro .	in order to play .
+<50>	(Inline, 42.064-46.900)	<hes> palagi na lang inom 'yon <hes> kailangan puro naman laro .	he's always drinking so he needs to play .
+<51>	(Outline, 42.875-43.365)	<no-speech>	<no-speech>
+<52>	(Outline, 43.365-46.525)	<no-speech>	<no-speech>
+<53>	(Outline, 46.525-47.045)	<no-speech>	<no-speech>
+<54>	(Inline, 46.900-47.901)	<no-speech>	<no-speech>
+<55>	(Outline, 47.045-48.935)	<no-speech>	<no-speech>
+<56>	(Inline, 47.901-54.532)	hello .	hello .
+<57>	(Outline, 48.935-49.831)	oo .	yes .
+<58>	(Outline, 49.831-51.318)	<laugh> <hes> oo .	yes .
+<59>	(Outline, 51.318-51.909)	<no-speech>	<no-speech>
+<60>	(Outline, 51.909-62.475)	<breath> 'pag sinabing laro kasi <no-speech> pare pare kahapon pare walang gaanong sigla kahapon <hes> kampi natin ni ano <hes> sigaw .	because when you say play bro bro yesterday bro yesterday wasn't so lively we teamed with uh shout .
+<61>	(Inline, 54.532-57.320)	ha ?	huh ?
+<62>	(Inline, 57.320-58.890)	<no-speech>	<no-speech>
+<63>	(Inline, 58.890-64.010)	<no-speech>	<no-speech>
+<64>	(Outline, 62.475-71.575)	<no-speech>	<no-speech>
+<65>	(Inline, 64.010-64.990)	<no-speech>	<no-speech>
+<66>	(Inline, 64.990-65.410)	<no-speech>	<no-speech>
+<67>	(Inline, 65.410-66.590)	<no-speech>	<no-speech>
+<68>	(Inline, 66.590-76.520)	<no-speech>	<no-speech>
+<69>	(Outline, 71.575-71.925)	<no-speech>	<no-speech>
+<70>	(Outline, 71.925-73.625)	<no-speech>	<no-speech>
+<71>	(Outline, 73.625-74.218)	<no-speech>	<no-speech>
+<72>	(Outline, 74.218-77.022)	alam ba niyang gayahin sa 'kin ba naman niya gawin 'yon .	does he know how to imitate and do that to me .
+<73>	(Inline, 76.520-77.820)	<no-speech>	<no-speech>
+<74>	(Outline, 77.022-81.605)	<int> <breath> alam ko naman 'yon 'yong <laugh> magiging ano 'yon kalaban niya <hes> .	I know that that will be the uh what his enemy .
+<75>	(Inline, 77.820-78.450)	(()) .	(()) .
+<76>	(Inline, 78.450-80.710)	<no-speech>	<no-speech>
+<77>	(Inline, 80.710-83.044)	<no-speech>	<no-speech>
+<78>	(Outline, 81.605-82.865)	<no-speech>	<no-speech>
+<79>	(Outline, 82.865-83.265)	<no-speech>	<no-speech>
+<80>	(Inline, 83.044-84.046)	ano ?	what ?
+<81>	(Outline, 83.265-85.405)	<no-speech>	<no-speech>
+<82>	(Inline, 84.046-85.150)	<no-speech>	<no-speech>
+<83>	(Inline, 85.150-87.000)	<no-speech>	<no-speech>
+<84>	(Outline, 85.405-87.095)	magulang <hes> magulang .	parent parent .
+<85>	(Inline, 87.000-87.555)	<no-speech>	<no-speech>
+<86>	(Outline, 87.095-92.725)	<no-speech>	<no-speech>
+<87>	(Inline, 87.555-89.192)	magulang ba magulang ?	parent right parent ?
+<88>	(Inline, 89.192-90.410)	maraya <hes> 'no .	free right .
+<89>	(Inline, 90.410-91.330)	<no-speech>	<no-speech>
+<90>	(Inline, 91.330-92.486)	<no-speech>	<no-speech>
+<91>	(Inline, 92.486-95.036)	ito oo dami palang native dito kila Bebe <hes> .	yes here there seem to be many natives here with Bebe .
+<92>	(Outline, 92.725-94.136)	oo nga .	yes .
+<93>	(Outline, 94.136-104.345)	<no-speech> ayaw niya siguro 'yong do'n lang itago natin do'n pare <no-speech> tang-ina <no-speech> aba imbes na maganda 'yong laro namin biglang bumaba si kagawad <hes> <no-speech> wala tuloy kaming ano .	he probably doesn't want us to just hide it there bro motherfucker instead of our game becoming a good council member immediately went down so we ended up uh .
+<94>	(Inline, 95.036-96.090)	<no-speech>	<no-speech>
+<95>	(Inline, 96.090-96.920)	<no-speech>	<no-speech>
+<96>	(Inline, 96.920-98.090)	<sta> sabawan na natin .	let's cream them .
+<97>	(Inline, 98.090-98.740)	<no-speech>	<no-speech>
+<98>	(Inline, 98.740-102.220)	<no-speech>	<no-speech>
+<99>	(Inline, 102.220-102.940)	<no-speech>	<no-speech>
+<100>	(Inline, 102.940-104.345)	<no-speech>	<no-speech>

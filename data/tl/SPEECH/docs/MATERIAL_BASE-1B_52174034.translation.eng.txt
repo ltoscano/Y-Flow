@@ -1,0 +1,21 @@
+<1>	(0.000-5.116)	bitbit ang kanilang babies maraming ina ang nagtungo sa mga health center .	carrying their babies more mothers went to health centers .
+<2>	(5.116-8.120)	national immunization day kasi ang Miyerkules .	because it's national immunization day on Wednesday .
+<3>	(8.120-12.410)	marami sa mga pumilang ina ang umaasa na mayroon ng Pentavalent vaccine .	most of the mothers on queue are hoping there's Pentavalent vaccine already .
+<4>	(12.410-18.370)	pero dismayado sila nang malamang hanggang ngayon na wala pa ring Pentavalent vaccine ang mga health center .	but they are dismayed in knowing that until now there is still no Pentavalent vaccine in health centers .
+<5>	(18.370-20.596)	kaya naman nag-aalala si Christy .	so Christy is worrying .
+<6>	(20.596-26.930)	pitong buwan na kasi ang kaniyang baby at hanggang ngayon hindi pa rin ito nababakunahan ng Penta .	her baby is already seven months and until now this is still not vaccinated with Penta .
+<7>	(26.930-41.213)	<foreign> <foreign> wala mang bakuna ng Penta matiyaga pa ring pumila ang mga ina .	<foreign><foreign> there may be no Pentavalent vaccine but patiently waiting in line are the mothers .
+<8>	(41.213-45.980)	imbis na Penta binigyan na lang ang baby nila ng pneumococcal vaccine .	instead of Pentavalent the baby is given pneumococcal vaccine .
+<9>	(45.980-55.380)	<foreign> tapos magbalik rin kami sa pag mayro'n ng Penta .	<foreign> later we will still be back if there is Pentavalent .
+<10>	(55.380-63.710)	paliwanag ng city health office dahil walang Penta maaari naman nilang bigyan na lang muna ng pneumo vaccine ang mga sanggol .	explains the city health office because there is no Pentavalent they can temporarily give Pneumococcal vaccine to the infants .
+<11>	(63.710-67.940)	puwede sila ihiwalay puwede rin sila pagsabayin .	they can be separate they can also be taken together .
+<12>	(67.940-75.890)	meaning if we have sufficient P_C_V thirteen and Pentavalent they can be given sabay .	meaning if we have sufficient P_C_V thirteen and pentavalent they can be given together .
+<13>	(75.890-82.780)	isang daang mga sanggol ang target ng bawat health center na mabakunahan ng Pentavalent vaccine kada Miyerkules .	one hundred infants are the target of every health center to get vaccinated with pentavalent vaccine every Wednesday .
+<14>	(82.780-88.870)	pero dahil kinakapos ang supply hindi umabot sa dalawampu ang nabakunahan noong nakaraang linggo .	but because there is a shortage of supply those who were vaccinated last week did not reach twenty .
+<15>	(88.870-96.800)	ang transition sa national headquarters ng Department of Health ang isa sa mga itinuturong dahilan ng kakulangan ng supply ng Penta vaccine .	the transition at the national headquarters of the department of health is one of the pinpointed reasons why their is a shortage in supply of Pentavalent vaccine .
+<16>	(96.800-104.030)	'wag ho kayong matakot o 'wag ho kayong mabahala na hindi pa po nabibigyan ng Pentavalent ang inyong mga anak .	do not be scared please or do not be worried that your children will not be provided with pentavalent .
+<17>	(104.030-112.250)	basta hinahabol natin hindi pa sila aabot ng eleven months old na hindi pa sila nabibigyan ng vaccine .	definitely we are pursuing that they will not reach eleven months old without being given the vaccine .
+<18>	(112.250-116.640)	meaning they still have -- we have still time na para mahabol po sila .	meaning they still have -- we have still time to pursue them .
+<19>	(116.640-121.255)	ngayong araw dumating na ang supply ng bakuna mula sa D_O_H Manila .	today came the supply of vaccine from D_O_H Manila .
+<20>	(121.255-126.766)	ngayong Biyernes kukuha na ng supply ang city health office sa regional center ng D_O_H .	this Friday the city health office will be taking supplies at the regional center of D_O_H .
+<21>	(126.766-133.849)	kaya sa susunod na linggo tiniyak ng city health na may maibibigay na silang Pentavalent vaccine sa mga sanggol .	that is why next week city health ensures that they can give pentavalent vaccine to infants .

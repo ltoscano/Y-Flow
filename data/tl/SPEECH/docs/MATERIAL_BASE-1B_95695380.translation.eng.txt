@@ -1,0 +1,64 @@
+<1>	(0.000-5.840)	(()) aside from volleyball ano pa ang hilig mong gawin for past time ?	(()) aside from volleyball what do you like doing in your past time ?
+<2>	(5.840-6.806)	kung may past time ka pa .	if you have any past time .
+<3>	(6.806-12.755)	<overlap> in Tagalog sa nakaraang <laugh> oras <overlap> %incomplete	in Tagalog past time %incomplete
+<4>	(12.755-14.700)	ano ba ano hilig mong gawin ?	what do you like to do ?
+<5>	(14.700-16.248)	<hes> nag-bo-blog po ako .	I blog .
+<6>	(16.248-24.681)	<overlap> <int> story short stories yung mga kahit ano <overlap> blog (()) .	story short stories anything blog (()) .
+<7>	(24.681-28.253)	nasa Twitter account ko po yung blog ko .	located in my twitter account is my blog .
+<8>	(28.253-37.687)	tapos ano mahilig po akong manood ng series mga T_V Series like the Revenge Vampire Diaries Gossip Girl Glee mga ganiyan .	and also I like to watch series T_V series like the revenge vampire diaries gossip girl glee those kind .
+<9>	(37.687-39.390)	<no-speech>	<no-speech>
+<10>	(39.390-41.471)	girl na girl ha yung mga ano ha ?	really girlish right those ones okay ?
+<11>	(41.471-44.410)	<laugh> oo girl nga po talaga outside the court .	yes a real girl outside the court .
+<12>	(44.410-49.030)	kasi sa no'n na- -- nasanay po ako sa La Salle na wala kaming T_V doon .	because before -- I was accustomed in La Salle of not having T_V there .
+<13>	(49.030-56.002)	<hes> bawal kasi kailangan talaga <int> makapag- -- makapag-focus ka with your studies and 'yong <overlap> laptop lang .	it is not allowed because you really need -- to focus with your studies and the laptop only .
+<14>	(56.002-58.714)	hindi ba parang presinto 'yang pinasukan <sta> n'yo ?	what you entered isn't that a precinct ?
+<15>	(58.714-61.034)	bawal kang mag-boyfriend walang T_V .	you are not allowed to have a boyfriend no T_V .
+<16>	(61.034-62.569)	parang presinto na yata %incomplete	it's like a prison probably %incomplete
+<17>	(62.569-63.255)	hindi ho .	no sir .
+<18>	(63.255-63.580)	huh ?	huh ?
+<19>	(63.580-67.692)	si okay <laugh> (()) <overlap> .	okay (()) .
+<20>	(67.692-72.000)	okay po sa 'min .	okay with us .
+<21>	(72.000-74.830)	for -- for us talaga okay sa amin na walang <int> T_V .	for -- for us it is really okay having no T_V .
+<22>	(74.830-75.546)	ah .	ah .
+<23>	(75.546-76.731)	talaga kahit %incomplete	indeed even %incomplete
+<24>	(76.731-78.190)	cellphone mayroon naman ?	there's a cellphone right ?
+<25>	(78.190-79.238)	cellphone <overlap> .	cellphone .
+<26>	(79.238-82.065)	mayroon ding pinapatawag lang kayo ng isang tawag kada araw ?	is there also something where you get to call once every day ?
+<27>	(82.065-82.528)	ano ba ang %incomplete	what is the %incomplete
+<28>	(82.528-83.223)	<overlap> wala .	none .
+<29>	(83.223-88.369)	pagka may game kami mayroon lang <overlap> kailangan namin <sta> confiscate yung mga ano phone .	if we have a game there is a need to confiscate those phone .
+<30>	(88.369-91.230)	bakit ano yung philosophy behind yung walang T_V ?	why what is the philosophy behind having no T_V ?
+<31>	(91.230-97.394)	kasi kapag ka may T_V ka tapos may -- may aral hindi ka makakapag-focus sa studies mo .	because if you have T_V and then you have -- you have lessons you cannot focus in your studies .
+<32>	(97.394-104.440)	ngayon pa nga lang po na naglalaway lang kami tapos aral ng aral medyo yung <overlap> mahirap pa i-balance eh .	even now when we are only talking and we kept on studying it is already hard to balance really .
+<33>	(104.440-115.601)	tsaka hindi tataas yung level mo sa Candy Crush kung ano <overlap> <laugh> at tsaka hindi ka makakalaro -- makalayo sa Crossy Road .	and your level in Candy Crush will not increase if and you cannot play -- move away from Crossy Road .
+<34>	(115.601-121.110)	<no-speech>	<no-speech>
+<35>	(121.110-122.980)	<no-speech>	<no-speech>
+<36>	(122.980-127.631)	<overlap> ang tagal no'ng mailman eh .	the mailman seems to be taking long .
+<37>	(127.631-129.090)	'yan -- 'yan na .	that -- that's it .
+<38>	(129.090-138.016)	from Jeff <overlap> <laugh> o .	from Jeff or .
+<39>	(138.016-147.381)	<breath> mahirap 'yan sagutin kasi ano eh hindi tayo puwedeng ma- -- maano eh pumanig eh kasi parehas sila kaibigan ko and teammates ko .	that is hard to answer because well we are not allowed -- to well choose sides well because they are both my friend and my teammates .
+<40>	(147.381-149.613)	parang sisters ko yung <int> dalawa na 'yan .	they are like my sisters those two .
+<41>	(149.613-158.101)	si ate Cha talaga <hes> naging team mate ko siya for <hes> three years sa La Salle so siya yung <hes> isa sa mga seniors na ni-lu-look up ko .	Ate Cha really she became my team mate for three years in La Salle so she is one of the seniors I look up to .
+<42>	(158.101-158.909)	para siyang mentor %incomplete	she is like a mentor %incomplete
+<43>	(158.909-165.376)	<overlap> team captain ko din siya for two years so 'andoon na talaga na-build na yung <hes> sisterhood sa 'min dalawa .	she was also my team captain for two years so it's really there it was built up our the sisterhood for the two of us .
+<44>	(165.376-165.841)	okay .	okay .
+<45>	(165.841-172.498)	so si Phil naman now we're ano we're teammates in Meralco and Petron .	Phil on the other hand we're teammates in Meralco and Petron .
+<46>	(172.498-199.694)	mas nakilala ko siya na <hes> ako yung makakapagpatunay sa mga tao na mali yung sinasabi n'yo sa mga -- sa mga athletes na ganito na mayabang kami na maarte kami na snob kami kasi mismo <hes> ano like yung si Phil 'andoon talaga yung ma- -- mapapatunayan mo na mabait talaga tong tao na 'to at a- -- I'm ha- -- I'm really happy na naging ka-teammate ko siya kasi hindi pa -- hindi lang sa La Salle ikaw makakilala ng mga kaibigan eh .	I knew him better as I can prove the people that what they're saying is wrong what you're saying to -- the athletes that we're arrogant persnickety snob because we like what happened to Phil you can really -- prove that this person is kind I'm really happy that we're teammates because it's not -- not just in La Salle that you'll meet friends .
+<47>	(199.694-206.310)	outside outside La Salle marami ka pang magiging -- makikilalang tao na magiging ka-teammates mo like Phil ganiyan .	outside outside La Salle you'll have -- meet plenty of people that will be your teammates like Phil .
+<48>	(206.310-218.470)	mabait na tao mabait na katrabaho kasama sa court and mabait din -- ah ano mahusay din na atleta para mag-push ka na maging best pa sa kung anong larangan mayroon ka ngayon .	kind person good to work with to play with in the court and -- a good athlete that will push you to be the best in your field .
+<49>	(218.470-221.540)	<overlap> <hes> another question may question pa tayo ?	another question do we more questions ?
+<50>	(221.540-225.934)	okay <overlap> kamusta po si Ara Galang and Camille Cruz ?	okay how is Ara Galang and Camille Cruz ?
+<51>	(225.934-239.792)	ayan <hes> so far si Ara and Camille masasabi ko na strong 'tong dalawang 'to na ta- -- dalawang babae na 'to kaya 'wag po kayong mag-alala kasi <hes> palaban <int> sila hindi lang sa loob ng court pati sa real life .	there so far Ara and Camille I can say that these -- two girls are strong hence don't worry because they are fighters not just in court but in real life as well .
+<52>	(239.792-243.831)	kung ano man yung pinagdadaanan nila ngayon <hes> <lipsmack> sobrang nilalabanan nila 'yon .	whatever they're going through now they're really fighting it .
+<53>	(243.831-252.079)	and <hes> mala- -- malaki yung faith nila kay God na <int> <hes> merong tinatrabaho si God na something better for them .	and -- they have big faith on God God is working on something better for them .
+<54>	(252.079-270.820)	and ngayon <hes> I don't know lang kung kailan yung surgery <int> with Camille pero si Ara ang pagkakaalam ko if not this week maybe next week <hes> she'll be undergo -- she'll undergo <hes> sur- -- surgery for her ano <overlap> .	and now I don't know when's Camille's surgery but I know that Ara's is if not this week maybe next week she'll be undergoing -- she'll undergo -- surgery for her uh .
+<55>	(270.820-272.190)	<overlap> si Camille ?	Camille ?
+<56>	(272.190-280.383)	for Camille tatlo din sa right knee niya A_C_L <overlap> ay L_C_L 'ata L_C_L and bone bruise .	for Camille three on the right knee are A_C_L or L_C_L I think and bone bruise .
+<57>	(280.383-284.873)	tsaka I mean bata pa naman sila eh so <hes> mas madali yung healing process eh .	also I mean they're still young healing process is faster .
+<58>	(284.873-294.420)	<int> ako na-A_C_L rin ako noon <overlap> ano lang ako noon nineteen .	I had A_C_L before I was just nineteen then .
+<59>	(294.420-295.476)	nineteen .	nineteen .
+<60>	(295.476-299.021)	pero no'ng panahon na 'yon wala pang Arthroscopic surgery .	but at that time there was no arthroscopic surgery yet .
+<61>	(299.021-299.536)	<overlap> wala pa .	not yet .
+<62>	(299.536-300.453)	<no-speech>	<no-speech>
+<63>	(300.453-301.388)	wala pang doktor ?	no doctors yet ?
+<64>	(301.388-301.530)	<no-speech>	<no-speech>

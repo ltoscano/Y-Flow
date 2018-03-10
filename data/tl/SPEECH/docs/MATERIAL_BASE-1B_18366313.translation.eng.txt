@@ -1,0 +1,185 @@
+<1>	(Outline, 0.000-0.565)	<no-speech>	<no-speech>
+<2>	(Inline, 0.000-2.593)	<sta> kumain ka na ?	have you eaten ?
+<3>	(Outline, 0.565-1.745)	okey na .	it's okay .
+<4>	(Outline, 1.745-2.705)	<no-speech>	<no-speech>
+<5>	(Inline, 2.593-4.740)	ano ulam n'yo ?	what's your viand ?
+<6>	(Outline, 2.705-4.069)	oo .	yes .
+<7>	(Outline, 4.069-4.872)	tapos na .	it's over .
+<8>	(Inline, 4.740-5.700)	<no-speech>	<no-speech>
+<9>	(Outline, 4.872-5.873)	<no-speech>	<no-speech>
+<10>	(Inline, 5.700-6.530)	ano ulam niya ?	what is his dish ?
+<11>	(Outline, 5.873-9.374)	si Nonoy nga nandito ang kulit-kulit .	Nonoy here is very insistent .
+<12>	(Inline, 6.530-7.860)	<no-speech>	<no-speech>
+<13>	(Inline, 7.860-8.580)	kuha n'yo ?	get it ?
+<14>	(Inline, 8.580-9.430)	<no-speech>	<no-speech>
+<15>	(Outline, 9.374-10.390)	<no-speech>	<no-speech>
+<16>	(Inline, 9.430-10.950)	<sta> ha ?	huh ?
+<17>	(Outline, 10.390-12.224)	si Nonoy nandito sa labas .	Nonoy is here outside .
+<18>	(Inline, 10.950-11.961)	<no-speech>	<no-speech>
+<19>	(Inline, 11.961-12.777)	ha ?	huh ?
+<20>	(Outline, 12.224-15.204)	<no-speech> si nene hello .	Nene hello .
+<21>	(Inline, 12.777-15.090)	mhm .	yes .
+<22>	(Inline, 15.090-16.230)	<no-speech>	<no-speech>
+<23>	(Outline, 15.204-16.075)	<no-speech>	<no-speech>
+<24>	(Outline, 16.075-19.065)	natusok ng walis Ting-Ting .	I was pricked by a broom .
+<25>	(Inline, 16.230-16.713)	Mat ?	Mat ?
+<26>	(Inline, 16.713-18.410)	<int> hello .	hello .
+<27>	(Inline, 18.410-19.910)	<no-speech>	<no-speech>
+<28>	(Outline, 19.065-20.055)	<no-speech>	<no-speech>
+<29>	(Inline, 19.910-21.124)	<sta> ha ?	huh ?
+<30>	(Outline, 20.055-20.716)	hello .	hello .
+<31>	(Outline, 20.716-21.816)	hello .	hello .
+<32>	(Inline, 21.124-22.498)	<no-speech>	<no-speech>
+<33>	(Outline, 21.816-22.805)	okey na okey na ?	is it okay is it okay ?
+<34>	(Inline, 22.498-23.068)	hello .	hello .
+<35>	(Outline, 22.805-24.015)	<no-speech>	<no-speech>
+<36>	(Inline, 23.068-23.900)	'yan okey na ?	is it okay now ?
+<37>	(Inline, 23.900-24.780)	<no-speech>	<no-speech>
+<38>	(Outline, 24.015-24.736)	okey na .	it's okay now .
+<39>	(Outline, 24.736-25.512)	ha ?	huh ?
+<40>	(Inline, 24.780-26.142)	okey na okey na .	it's okay now it's okay now .
+<41>	(Outline, 25.512-27.568)	<no-speech>	<no-speech>
+<42>	(Inline, 26.142-26.665)	<sta> oo .	yes .
+<43>	(Inline, 26.665-29.300)	nawawala .	it's getting lost .
+<44>	(Outline, 27.568-29.445)	(()) ako kasi .	because I'm (()) .
+<45>	(Inline, 29.300-30.700)	<no-speech>	<no-speech>
+<46>	(Outline, 29.445-31.505)	<no-speech>	<no-speech>
+<47>	(Inline, 30.700-32.099)	nawawala pa rin .	it's still getting lost .
+<48>	(Outline, 31.505-32.135)	<no-speech>	<no-speech>
+<49>	(Inline, 32.099-34.260)	<no-speech>	<no-speech>
+<50>	(Outline, 32.135-33.455)	<no-speech>	<no-speech>
+<51>	(Outline, 33.455-34.883)	'yan 'yan 'yan 'yan .	there there there there .
+<52>	(Inline, 34.260-37.020)	<no-speech>	<no-speech>
+<53>	(Outline, 34.883-38.125)	saan ba ako pupuwesto hindi ko alam kung saan ako pupuwesto <hes> .	where should I place myself I don't know where I can place myself .
+<54>	(Inline, 37.020-38.329)	wala pa rin .	still nothing .
+<55>	(Outline, 38.125-39.185)	<no-speech>	<no-speech>
+<56>	(Inline, 38.329-41.698)	<sta> wala .	nothing .
+<57>	(Outline, 39.185-39.925)	<no-speech>	<no-speech>
+<58>	(Outline, 39.925-41.055)	<no-speech>	<no-speech>
+<59>	(Outline, 41.055-42.795)	bagsakan kayo diyan 'yong paa ninyo ha .	something might fall onto you there your foot .
+<60>	(Inline, 41.698-43.654)	konting-konting konti .	just very very little .
+<61>	(Outline, 42.795-43.975)	<no-speech>	<no-speech>
+<62>	(Inline, 43.654-46.090)	ayan ang ganda na <hes> .	there it looks good already .
+<63>	(Outline, 43.975-44.945)	'yan .	there .
+<64>	(Outline, 44.945-46.735)	<no-speech>	<no-speech>
+<65>	(Inline, 46.090-47.100)	<no-speech>	<no-speech>
+<66>	(Outline, 46.735-47.315)	ha ?	huh ?
+<67>	(Inline, 47.100-47.698)	'yan .	there .
+<68>	(Outline, 47.315-48.905)	<no-speech>	<no-speech>
+<69>	(Inline, 47.698-50.090)	<int> oo okey na .	yes it's okay now .
+<70>	(Outline, 48.905-49.815)	'yan okey na ?	there is it okay now ?
+<71>	(Outline, 49.815-50.775)	<no-speech>	<no-speech>
+<72>	(Inline, 50.090-51.470)	<no-speech>	<no-speech>
+<73>	(Outline, 50.775-52.744)	o sige mag-usap na tayo .	okay let's talk now .
+<74>	(Inline, 51.470-52.983)	<sta> oo okey na .	yes it's okay now .
+<75>	(Outline, 52.744-55.052)	kasi itong nga .	because this .
+<76>	(Inline, 52.983-53.935)	oo .	yes .
+<77>	(Inline, 53.935-55.388)	okey na .	it's okay now .
+<78>	(Outline, 55.052-57.733)	naipit ako ng upuan kanina .	I was squeezed by a chair earlier .
+<79>	(Inline, 55.388-56.655)	nandiyan pa ?	is it still there ?
+<80>	(Inline, 56.655-57.420)	ha ?	huh ?
+<81>	(Inline, 57.420-58.490)	<no-speech>	<no-speech>
+<82>	(Outline, 57.733-61.263)	naipit ako ng upuan kanina kaya dumugo paa ko .	I was squeezed by a chair earlier so my foot bled .
+<83>	(Inline, 58.490-60.510)	<no-speech>	<no-speech>
+<84>	(Inline, 60.510-63.620)	<no-speech>	<no-speech>
+<85>	(Outline, 61.263-63.565)	'yong karga ko pa .	and then the things I was carrying .
+<86>	(Outline, 63.565-68.055)	(()) .	(()) .
+<87>	(Inline, 63.620-64.528)	ah ikaw ?	ah you ?
+<88>	(Inline, 64.528-65.367)	<no-speech>	<no-speech>
+<89>	(Inline, 65.367-66.151)	<no-speech>	<no-speech>
+<90>	(Inline, 66.151-66.830)	malas .	how unfortunate .
+<91>	(Inline, 66.830-68.110)	<no-speech>	<no-speech>
+<92>	(Outline, 68.055-69.215)	<no-speech>	<no-speech>
+<93>	(Inline, 68.110-68.970)	maalat .	salty .
+<94>	(Inline, 68.970-69.970)	<no-speech>	<no-speech>
+<95>	(Outline, 69.215-70.325)	<no-speech>	<no-speech>
+<96>	(Inline, 69.970-72.950)	<sta> akala ko umalis na si ano Alma .	I thought uhm Alma already left .
+<97>	(Outline, 70.325-71.145)	<no-speech>	<no-speech>
+<98>	(Outline, 71.145-71.810)	Evelyn .	Evelyn .
+<99>	(Outline, 71.810-76.360)	<no-speech>	<no-speech>
+<100>	(Inline, 72.950-77.510)	<no-speech>	<no-speech>
+<101>	(Outline, 76.360-77.076)	ang kukulit .	they're insistent .
+<102>	(Outline, 77.076-79.343)	huwag mong (()) ang bata diyan doon kayo .	do not (()) the children there move to there .
+<103>	(Inline, 77.510-78.140)	hello ?	hello ?
+<104>	(Inline, 78.140-81.900)	<no-speech>	<no-speech>
+<105>	(Outline, 79.343-80.365)	hello .	hello .
+<106>	(Outline, 80.365-84.289)	'yan lakas ng ano ko ng regla ko .	yes my uhm my period is strong .
+<107>	(Inline, 81.900-82.900)	<int> hello .	hello .
+<108>	(Inline, 82.900-84.890)	<no-speech>	<no-speech>
+<109>	(Outline, 84.289-86.180)	<no-speech>	<no-speech>
+<110>	(Inline, 84.890-85.780)	nandiyan si Alma ?	is Alma there ?
+<111>	(Inline, 85.780-86.710)	<no-speech>	<no-speech>
+<112>	(Outline, 86.180-88.095)	lakas ng dalaw ko .	my period is strong .
+<113>	(Inline, 86.710-87.750)	'andiyan pa si Alma <sta> ?	is Alma still there ?
+<114>	(Inline, 87.750-88.900)	<no-speech>	<no-speech>
+<115>	(Outline, 88.095-89.247)	ha ?	huh ?
+<116>	(Inline, 88.900-91.105)	<sta> ha ?	huh ?
+<117>	(Outline, 89.247-90.174)	<no-speech>	<no-speech>
+<118>	(Outline, 90.174-92.715)	apaw-apaw <hes> .	overflowing .
+<119>	(Inline, 91.105-99.190)	(()) naka-loud speak ay wala (()) wala sabi ko ano ginagawa mo ?	(()) on loudspeaker nothing (()) nothing I said what are you doing ?
+<120>	(Outline, 92.715-93.545)	<no-speech>	<no-speech>
+<121>	(Outline, 93.545-94.145)	ha ?	huh ?
+<122>	(Outline, 94.145-95.735)	<no-speech>	<no-speech>
+<123>	(Outline, 95.735-98.475)	<int> (()) .	(()) .
+<124>	(Outline, 98.475-99.295)	<no-speech>	<no-speech>
+<125>	(Inline, 99.190-101.120)	<no-speech>	<no-speech>
+<126>	(Outline, 99.295-102.585)	wala dito lang nagbabantay ng aking anak .	nothing just here babysitting my child .
+<127>	(Inline, 101.120-102.160)	suwerte ka naman .	you are lucky .
+<128>	(Inline, 102.160-104.820)	<no-speech>	<no-speech>
+<129>	(Outline, 102.585-104.364)	nag-aalaga sa anak ko .	taking care of my child .
+<130>	(Outline, 104.364-106.916)	ikaw ?	you ?
+<131>	(Inline, 104.820-105.351)	<int> oo .	yes .
+<132>	(Inline, 105.351-106.480)	kailan kayo uuwi ?	when are you going home ?
+<133>	(Inline, 106.480-107.495)	<no-speech>	<no-speech>
+<134>	(Outline, 106.916-107.302)	<no-speech>	<no-speech>
+<135>	(Outline, 107.302-110.038)	baka sa susunod na linggo .	maybe next week .
+<136>	(Inline, 107.495-109.000)	kailan kayo uuwi ?	when are you going home ?
+<137>	(Inline, 109.000-111.810)	<no-speech>	<no-speech>
+<138>	(Outline, 110.038-112.782)	<no-speech> sa susunod na linggo .	next week .
+<139>	(Inline, 111.810-113.703)	bakit daw ?	why ?
+<140>	(Outline, 112.782-114.195)	<no-speech>	<no-speech>
+<141>	(Inline, 113.703-115.431)	<int> bakit ?	why ?
+<142>	(Outline, 114.195-116.818)	<hes> wala pa pamasahe <hes> .	no money for fare yet .
+<143>	(Inline, 115.431-117.175)	baka nakita mo sa trabaho ?	maybe you saw at work ?
+<144>	(Outline, 116.818-117.601)	<no-speech>	<no-speech>
+<145>	(Inline, 117.175-121.010)	'wag ka na umuwi .	don't go home anymore .
+<146>	(Outline, 117.601-118.384)	ha ?	huh ?
+<147>	(Outline, 118.384-120.615)	ano ?	what ?
+<148>	(Outline, 120.615-122.965)	<no-speech>	<no-speech>
+<149>	(Inline, 121.010-122.540)	'wag ka na magtrabaho .	don't work anymore .
+<150>	(Inline, 122.540-123.330)	uwi na daw siya .	he said he's going home .
+<151>	(Outline, 122.965-124.335)	hindi .	no .
+<152>	(Inline, 123.330-125.527)	ipaalaga mo na lang sa tunay kay mama mo .	just let the real one your mom take care of it .
+<153>	(Outline, 124.335-125.815)	<no-speech>	<no-speech>
+<154>	(Inline, 125.527-134.640)	<int> 'wag maingay . (()) sasampalin kita diyan may kausap ako <laugh> .	don't be loud (()) I'll slap you I'm talking to someone .
+<155>	(Outline, 125.815-128.724)	hindi hindi kami susunduin .	no no we won't be picked up .
+<156>	(Outline, 128.724-131.890)	<no-speech>	<no-speech>
+<157>	(Outline, 131.890-133.098)	ha ?	huh ?
+<158>	(Outline, 133.098-134.025)	<no-speech>	<no-speech>
+<159>	(Outline, 134.025-135.085)	<no-speech>	<no-speech>
+<160>	(Inline, 134.640-136.697)	<sta> sa ano ?	in what ?
+<161>	(Outline, 135.085-136.021)	ano ?	what ?
+<162>	(Outline, 136.021-140.285)	<no-speech>	<no-speech>
+<163>	(Inline, 136.697-138.261)	ang gugulo .	how rowdy .
+<164>	(Inline, 138.261-139.757)	katakot naman .	scary .
+<165>	(Inline, 139.757-146.540)	sabi ko dito ka na lang magtrabaho .	I said you should just work here .
+<166>	(Outline, 140.285-142.445)	<no-speech>	<no-speech>
+<167>	(Outline, 142.445-144.385)	ano ?	what ?
+<168>	(Outline, 144.385-145.345)	<no-speech>	<no-speech>
+<169>	(Outline, 145.345-147.082)	saan ?	where ?
+<170>	(Inline, 146.540-147.303)	'wag ka na umuwi .	don't go home anymore .
+<171>	(Outline, 147.082-148.034)	<no-speech>	<no-speech>
+<172>	(Inline, 147.303-148.320)	<no-speech>	<no-speech>
+<173>	(Outline, 148.034-149.036)	oo .	yes .
+<174>	(Inline, 148.320-149.130)	<no-speech>	<no-speech>
+<175>	(Outline, 149.036-152.994)	<no-speech>	<no-speech>
+<176>	(Inline, 149.130-152.184)	<sta> dito sa ano <no-speech> sa Makati .	here in uhm in Makati .
+<177>	(Inline, 152.184-153.330)	<no-speech>	<no-speech>
+<178>	(Outline, 152.994-155.432)	maingay kasi kaya hindi kita marinig .	it's noisy that's why I can't hear you .
+<179>	(Inline, 153.330-154.860)	<no-speech>	<no-speech>
+<180>	(Inline, 154.860-155.510)	hello ?	hello ?
+<181>	(Outline, 155.432-157.035)	'yan okey na .	it's okay now .
+<182>	(Inline, 155.510-156.410)	<no-speech>	<no-speech>
+<183>	(Inline, 156.410-158.250)	<sta> ha ?	huh ?
+<184>	(Outline, 157.035-158.445)	<no-speech>	<no-speech>
+<185>	(Inline, 158.250-158.445)	<no-speech>	<no-speech>

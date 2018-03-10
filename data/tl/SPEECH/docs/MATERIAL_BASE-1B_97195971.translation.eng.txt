@@ -1,0 +1,115 @@
+<1>	(0.000-3.327)	<sta> madali nang lutuin patok pa sa mga tsikiting .	easy to cook also popular to the kids .
+<2>	(3.327-10.060)	<sta> alamin po ang mga role recipes na sa bawat kagat <sta> lasap ang sarap ng bawat sangkap .	let us know the role recipes where in every bite you can enjoy the taste of every ingredient .
+<3>	(10.060-14.107)	<no-speech>	<no-speech>
+<4>	(14.107-17.780)	<sta> wais ba kayo sa lutuan mga mommies ?	are you smart in cooking mommies ?
+<5>	(17.780-18.515)	<sta> sige na nga .	okay fine .
+<6>	(18.515-24.210)	<sta> kaya n'yo bang hulaan ang mga putaheng mabubuo sa mga sangkap na aming ipakikita ?	can you guess the dish that could be made from the ingredients we are going to show ?
+<7>	(24.210-26.223)	<sta> okey sige nga game .	okay fine game .
+<8>	(26.223-28.039)	<no-speech>	<no-speech>
+<9>	(28.039-30.198)	<sta> ah lumpiang shanghai .	ah spring rolls .
+<10>	(30.198-32.800)	<no-speech>	<no-speech>
+<11>	(32.800-33.737)	<no-speech>	<no-speech>
+<12>	(33.737-34.714)	<sta> eh di turon .	so banana fritters .
+<13>	(34.714-36.800)	<sta> hmpf dali .	hmpf hurry .
+<14>	(36.800-40.496)	<no-speech>	<no-speech>
+<15>	(40.496-42.888)	<sta> Oh ham and cheese roll .	oh ham and cheese roll .
+<16>	(42.888-44.810)	<no-speech>	<no-speech>
+<17>	(44.810-52.850)	<sta> ang mga pagkaing ito tinatawag nating rolls dahil ang lahat ng mga sangkap nito nakapaloob sa kada rolyo .	we call these foods rolls because all of the ingredients are inside each roll .
+<18>	(52.850-54.209)	<no-speech>	<no-speech>
+<19>	(54.209-62.370)	<sta> kung gaano sila kadaling mahulaan <sta> gano'n din sila kadaling gawin at ma-enjoy kainin ng mga tsikiting .	while it is easy to guess it is also easy to make and kids will enjoy eating .
+<20>	(62.370-68.560)	<sta> pero ngayon bibigyan po natin ng bagong twist ang mga pagkaing inirorolyo .	but now we will give rolled foods a new twist .
+<21>	(68.560-72.005)	<sta> ano kaya ang puwedeng mga roll na puwedeng gawin sa mga na 'to ?	what could be rolled that could be done with these ?
+<22>	(72.005-73.776)	<sta> sirit na ba ?	do you give up ?
+<23>	(73.776-76.120)	<sta> okey chef pasok .	okay Chef enter .
+<24>	(76.120-79.241)	hindi kailangang mahirap ang gawin na mga unique roll at food .	the unique roll and food should not be difficult to make .
+<25>	(79.241-82.245)	sa maituturo ko sa inyo ngayon tiyak na magagawa ninyo sa bahay .	what I will teach you today will surely guarantee that you could do this at home .
+<26>	(82.245-83.960)	tara umpisahan natin .	come let us start .
+<27>	(83.960-99.280)	<sta> gatas plus hotdog plus lumang tinapay plus vanilla syrup plus egg yolk plus maple syrup plus butter <sta> plus cinnamon powder equals French toast hotdog roll .	milk plus hot dog plus old bread plus vanilla syrup plus egg yolk plus maple syrup plus butter plus cinnamon powder equals French toast hot dog roll .
+<28>	(99.280-103.042)	<no-speech>	<no-speech>
+<29>	(103.042-105.347)	kunin natin yung stack natin na mga tinapay .	lets get our stock bread .
+<30>	(105.347-107.510)	<sta> trim off natin yung mga edges .	let's trim off the edges .
+<31>	(107.510-111.153)	<no-speech>	<no-speech>
+<32>	(111.153-118.920)	<sta> para mas maging matibay kailangan tupiin ang mga tinapay <sta> gamit ang kamay o rolling pin kung mayroon nito sa bahay .	to become more durable we need to fold the bread with our hands or rolling pin if we have it at home .
+<33>	(118.920-124.250)	<sta> next ingredient which is 'yung ating hotdog .	next ingredient which is our hot dog .
+<34>	(124.250-132.420)	<sta> puwede rin tayong maglagay ng butter kung gusto natin medyo buttery siya pero ako hindi na kasi mamaya gagamitan din natin ng butter 'yung next step natin .	we could also put butter if we want it to become buttery but personally I won't because later we will also use butter in our next step .
+<35>	(132.420-133.787)	<no-speech>	<no-speech>
+<36>	(133.787-140.200)	<sta> sa isang mangkok gagawa tayo ng French toast butter gamit ang fresh milk at egg yolk .	in a bowl we will make a French toast butter using fresh milk and egg yolk .
+<37>	(140.200-144.730)	<sta> alam n'yo ba kung gaano kahalaga ang pula ng itlog sa recipe na 'to ?	do you know how important is the egg yolk in this recipe ?
+<38>	(144.730-148.850)	<sta> it helps bind it parang ito 'yung mag-aano sa kaniya magse seal sa kaniya .	it helps bind it this will be that one that seals it .
+<39>	(148.850-153.997)	<sta> para sa nakatatakam na amoy maglagay ng cinnamon at vanilla syrup .	for the appetizing aroma put some cinnamon and vanilla syrup .
+<40>	(153.997-155.893)	<no-speech>	<no-speech>
+<41>	(155.893-157.550)	<sta> ito na 'yung assembly natin .	this is our assembly .
+<42>	(157.550-162.930)	<no-speech>	<no-speech>
+<43>	(162.930-168.250)	<sta> isawsaw sandali ang mga rolls sa ginawang batter bago lutuin .	let's quickly dip the rolls in the batter what we created before cooking .
+<44>	(168.250-170.744)	<no-speech>	<no-speech>
+<45>	(170.744-177.250)	<sta> pag na achieve na ang golden yellow color puwede na 'tong hanguin .	when a golden yellow color has been achieved it can already be removed .
+<46>	(177.250-185.043)	<sta> ang manamis-namis na breakfast na 'to <sta> magagawa sa budget na one hundred thirty pesos <sta> for three servings .	this sweet breakfast can be made with the budget of one hundred thirty pesos for three servings .
+<47>	(185.043-186.301)	<no-speech>	<no-speech>
+<48>	(186.301-195.490)	<sta> mahuhulaan n'yo ba ang nagagawa sa gatas <sta> plus pancake mix plus itlog plus mantika plus longganisa plus cheese ?	can you guess what we can be made with milk plus pancake plus egg plus oil plus sausage plus cheese ?
+<49>	(195.490-201.320)	<sta> yes to another breakfast recipe na longganisa pancake rolls .	yes to another breakfast recipe which is sausage pancake rolls .
+<50>	(201.320-205.454)	first step is lulutuin na natin ang ating longganisa .	first step we will cook our sausage .
+<51>	(205.454-207.620)	<no-speech>	<no-speech>
+<52>	(207.620-209.133)	<no-speech>	<no-speech>
+<53>	(209.133-216.614)	<sta> uunahin natin siya dito sa step natin because gusto natin mag-render 'yung kaniyang fat para 'yung lasa niya eh ay mapunta sa ating (()) .	we will do this first in this step because we want its fat to be rendered so its taste will go to our (()) .
+<54>	(216.614-218.461)	<no-speech>	<no-speech>
+<55>	(218.461-222.630)	<sta> batihin ang itlog at dagdagan ng masustansiyang gatas .	beat the egg and add nutritious milk .
+<56>	(222.630-224.811)	<sta> 'wag kalimutan ang asin at paminta ah .	don't forget the salt and pepper ah .
+<57>	(224.811-227.121)	<no-speech>	<no-speech>
+<58>	(227.121-233.150)	<sta> iluto ito sa pan <sta> i-set aside muna habang ginagawa ang pancake .	cook this in a pan then set aside for the meantime while making the pancake .
+<59>	(233.150-234.252)	<no-speech>	<no-speech>
+<60>	(234.252-240.640)	<sta> kung bibilhin ang pancake mix itlog at gatas na lang ang kailangang ihalo rito .	if pancake mix will be bought egg and milk are only needed to be added there .
+<61>	(240.640-244.171)	<sta> pour natin 'yung mixture sa ating no'n stick pan .	let us pour the mixture to our non stick pan .
+<62>	(244.171-246.610)	<no-speech>	<no-speech>
+<63>	(246.610-247.957)	<no-speech>	<no-speech>
+<64>	(247.957-252.516)	<sta> okey patapos na natin lutuin ang ating pancake reding ready na for assembly .	okay after we cook out pancake it is ready for assembly .
+<65>	(252.516-260.510)	first step <int> is <sta> 'yung ating scrambled eggs ating longganisa <no-speech> our keso .	first step is our scrambled egg our sausage our cheese .
+<66>	(260.510-261.921)	<sta> para saan naman ang keso ?	what is the cheese for ?
+<67>	(261.921-264.618)	<sta> siyempre for creaminess .	for creaminess of course .
+<68>	(264.618-269.250)	<no-speech>	<no-speech>
+<69>	(269.250-277.320)	<sta> for one hundred ten pesos four servings na ang magagawa sa pancake dish na perfect for kids .	for one hundred ten pesos four servings can already be made in the pancake dish which is perfect for kids .
+<70>	(277.320-280.459)	marami pa tayong mga tira tirang adobo sa chiller natin .	we have plenty of leftover adobo in our chiller .
+<71>	(280.459-283.440)	puwedeng-puwede nating gamitin to sa next recipe natin .	we can definitely use it in our next recipe .
+<72>	(283.440-295.460)	<sta> tortilla wraps plus natirang adobo plus mayonnaise plus lettuce plus tomato equals <sta> C_L_T chicken lettuce tomato wraps .	tortilla wraps plus leftover adobo plus mayonnaise plus lettuce plus tomato equals C_L_T chicken lettuce tomato wraps .
+<73>	(295.460-297.332)	<no-speech>	<no-speech>
+<74>	(297.332-300.825)	<sta> basically assembling lang tong ano natin gagawin natin .	basically assembling is what we are only doing .
+<75>	(300.825-304.940)	kukunin natin 'yung tira nating adobo <sta> spread lang natin siya .	we will just take the leftover adobo we'll just spread it .
+<76>	(304.940-309.660)	<no-speech>	<no-speech>
+<77>	(309.660-315.240)	<no-speech>	<no-speech>
+<78>	(315.240-317.041)	<no-speech>	<no-speech>
+<79>	(317.041-319.500)	<sta> puwede rin itong haluan ng mayonnaise .	we can also mix mayonnaise into it .
+<80>	(319.500-328.500)	<no-speech>	<no-speech>
+<81>	(328.500-334.690)	<sta> dahil nakarolyo hindi na mapapansin ng mga pihikang tsikiting ang gulay .	because it is rolled the vegetables are unnoticeable to picky little kids .
+<82>	(334.690-343.690)	<sta> one hundred twenty five pesos ang kada tatlo hanggang apat na servings nito na puwedeng pambaon o merienda .	one hundred twenty-five pesos per three up to four servings of this that could serve as packed meals or snacks .
+<83>	(343.690-345.191)	<no-speech>	<no-speech>
+<84>	(345.191-358.329)	<sta> panghapunan naman ang drama ng mga sangkap na ground beef <sta> sibuyas mayonnaise lumpia wrapper egg white paminta at asin pickles cheese bawang at tomato paste .	for dinner would be the ingredients ground beef onion mayonnaise lumpia wrapper egg white pepper and salt pickles cheese garlic and tomato paste .
+<85>	(358.329-359.104)	<no-speech>	<no-speech>
+<86>	(359.104-363.449)	put them all together para sa yummy cheeseburger rolls .	put them all together for a yummy cheeseburger rolls .
+<87>	(363.449-366.373)	<sta> kuha tayo ng ating onions .	let's get some onions .
+<88>	(366.373-367.438)	<no-speech>	<no-speech>
+<89>	(367.438-372.637)	i-saute lang natin siya hanggang <sta> maging translucent at aromatic .	let's sauté it until it becomes translucent and aromatic .
+<90>	(372.637-375.203)	<sta> ilagay ang ground beef <sta> sa kawali .	put ground beef in the pan .
+<91>	(375.203-379.663)	<no-speech>	<no-speech>
+<92>	(379.663-382.999)	<sta> timplahan ito ng asin at paminta .	add salt and pepper into the mix .
+<93>	(382.999-385.570)	<no-speech>	<no-speech>
+<94>	(385.570-387.744)	<sta> ilipat sa bowl pagkaluto .	transfer it in a bowl when cooked .
+<95>	(387.744-396.021)	<sta> medyo kailangan natin medyo bilisan ang proseso ng kaunti kasi <sta> habang mainit 'yung meat ilalagay natin ang atin keso quick melt para malusaw at mas ma-incorporate pa (()) .	we need to speed up the process a bit because while the meat is still how we will put the quick melt cheese for it to melt and to incorporate it (()) .
+<96>	(396.021-398.270)	<no-speech>	<no-speech>
+<97>	(398.270-403.840)	<sta> lagyan to ng pickles o 'yung pipinong binabad sa suka para mabalanse ang lasa ng karne .	put some pickles on this or cucumber soaked in vinegar to balance the taste of meat .
+<98>	(403.840-406.481)	<sta> ilagay natin sila sa gitna .	let's put them in the middle .
+<99>	(406.481-411.449)	<no-speech>	<no-speech>
+<100>	(411.449-417.769)	<sta> ang very reliable pandikit ng lumpia wrapper walang iba kundi egg white .	to make the lumpia wrapper stick the most reliable to use is no other than egg white .
+<101>	(417.769-419.529)	<sta> and its cooking time .	and it's cooking time .
+<102>	(419.529-422.620)	ang tips ko sa mga mommies its away .	my tip for the mothers it's away .
+<103>	(422.620-426.194)	lalagyan natin ng ganiyan para 'yung talsik papunta do'n hindi sa atin .	we will put something like this so that the splash will go that way and not towards us .
+<104>	(426.194-431.620)	<no-speech>	<no-speech>
+<105>	(431.620-437.590)	<sta> para sa sauce paghaluin lang ang mayonnaise tomato paste paprika at bawang .	for the sauce simply mix the mayonnaise tomato paste paprika and garlic .
+<106>	(437.590-440.294)	<no-speech>	<no-speech>
+<107>	(440.294-443.060)	<sta> mayroon itong sweet and smokey taste .	it has a sweet and smokey taste .
+<108>	(443.060-447.730)	<no-speech>	<no-speech>
+<109>	(447.730-449.175)	<no-speech>	<no-speech>
+<110>	(449.175-454.219)	<sta> ang nakasanayan nating cheeseburger merienda <sta> puwede nang i-partner sa kanin .	our traditional cheeseburger snack could now be partnered with rice .
+<111>	(454.219-461.150)	<sta> mag-ready lang ng one hundred sixty pesos for three servings .	ready only one hundred sixty pesos for three servings .
+<112>	(461.150-464.838)	<no-speech>	<no-speech>
+<113>	(464.838-469.671)	<sta> sa paghahanda ng meals <sta> hindi magpapahuli ang wais na mommies .	in preparing meals our wise mothers would not be left out .
+<114>	(469.671-475.600)	<sta> panalo na sa new discoveries aprubado pa sa panlasa ng mga tsikiting .	it has won in new discoveries it is was also approved in the taste of kids .
+<115>	(475.600-477.028)	<no-speech>	<no-speech>

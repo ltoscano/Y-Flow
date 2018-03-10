@@ -1,0 +1,14 @@
+<1>	(0.000-2.523)	nakatikim na ba kayo ng pizza in a doughnut ?	have you already tasted pizza in a doughnut ?
+<2>	(2.523-4.540)	o kaya nama'y doughnut ensaymada ?	or doughnut ensaïmada ?
+<3>	(4.540-9.557)	ilan lang ito sa tatlumpung kakaibang flavors ng bilugang tinapay na tampok sa isang doughnut store .	this is just some of the thirty distinct flavors of round breads featured in a doughnut store .
+<4>	(9.557-16.616)	it's a lighter doughnut tapos less sweet siya so mas marami ka talagang ma-ta-try na in one sitting .	it's a lighter doughnut and less sweet hence you'll be able to try plenty in one sitting .
+<5>	(16.616-19.690)	kaya mo talagang kumain ng mas maraming donuts .	you can really eat lots of donuts .
+<6>	(19.690-22.710)	<no-speech>	<no-speech>
+<7>	(22.710-30.880)	dahil galing Indonesia ang mother outlet ng tindahang ito sadyang ibinagay raw ang doughnut nito sa popular Asian flavors tulad ng green tea at avocado .	because the mother outlet of this store is from Indonesia it was intended to give this doughnut to popular Asian flavors like green tea and avocado .
+<8>	(30.880-33.425)	<no-speech>	<no-speech>
+<9>	(33.425-38.460)	mala-polseras o mas kilala sa tawag na -pon de ring naman ang pambato ng doughnut store na ito .	bracelet-like or more known as Pon de ring is the masterpiece of this doughnut store .
+<10>	(38.460-40.292)	<sta> special dough pa raw ang ginagamit .	they even use special dough .
+<11>	(40.292-44.210)	papalamanan ng tsokolate at green tea bago lagyan ng toppings .	filled with chocolate and green tea before putting toppings .
+<12>	(44.210-49.955)	matagal na raw sikat ang ganitong hugis at lasa ng doughnut sa Japan na tila kinagat naman daw ng mga pinoy .	this kind of shape and taste of doughnut has long been popular in Japan that seems to be a hit too with Pinoys .
+<13>	(49.955-54.963)	hindi siya gano'n katamis kasi madaming donuts ngayon sa industry natin medyo sobrang tamis talaga eh .	it is not that sweet because there many donuts now in our industry that is really slightly too sweet .
+<14>	(54.963-57.441)	talagang 'pag kinagat mo pinapawisan ka na .	when you bite you will really already perspire .

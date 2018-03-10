@@ -1,0 +1,47 @@
+<1>	(Outline, 0.000-2.305)	<no-speech>	<no-speech>
+<2>	(Inline, 0.000-2.431)	ay ewan ko sa 'yo maglakad ka na ?	I don't know about you are you going ?
+<3>	(Outline, 2.305-3.455)	sa ano mo <no-speech> walang .	in you no %incomplete
+<4>	(Inline, 2.431-5.446)	<no-speech> umuwi pumunta ka do'n sa may gate n'yo .	has gone home go there near your gate .
+<5>	(Outline, 3.455-5.135)	<no-speech>	<no-speech>
+<6>	(Outline, 5.135-5.825)	dito nga .	yes here .
+<7>	(Inline, 5.446-6.977)	<no-speech>	<no-speech>
+<8>	(Outline, 5.825-8.205)	<no-speech>	<no-speech>
+<9>	(Inline, 6.977-9.077)	punta ka sa gate n'yo .	go there at your gate .
+<10>	(Outline, 8.205-9.066)	ang layo .	too far .
+<11>	(Outline, 9.066-10.874)	<no-speech>	<no-speech>
+<12>	(Inline, 9.077-11.050)	<no-speech> oo maglakad ka na .	yes start walking .
+<13>	(Outline, 10.874-12.963)	ang layo nga ng gate <hes> .	the gate is too far .
+<14>	(Inline, 11.050-13.250)	<no-speech>	<no-speech>
+<15>	(Outline, 12.963-13.515)	<no-speech>	<no-speech>
+<16>	(Inline, 13.250-14.100)	o ano ?	then what ?
+<17>	(Outline, 13.515-14.975)	dito na nga ako sa labas .	I am already here outside .
+<18>	(Inline, 14.100-14.940)	<no-speech>	<no-speech>
+<19>	(Inline, 14.940-17.260)	o mamaya bigyan mo na lang ako ng ulam .	yes later just give me some dish .
+<20>	(Outline, 14.975-15.845)	<no-speech>	<no-speech>
+<21>	(Outline, 15.845-17.380)	<sta> ha ?	what ?
+<22>	(Inline, 17.260-18.200)	<no-speech>	<no-speech>
+<23>	(Outline, 17.380-18.385)	<no-speech>	<no-speech>
+<24>	(Inline, 18.200-20.650)	bigyan mo kami ng ulam wala kaming ulam .	give us a dish we do not have a dish .
+<25>	(Outline, 18.385-19.575)	<no-speech>	<no-speech>
+<26>	(Outline, 19.575-20.198)	oo .	yes .
+<27>	(Outline, 20.198-20.632)	<no-speech>	<no-speech>
+<28>	(Outline, 20.632-24.475)	<sta> ikaw <no-speech> tange ikaw magluto .	you fool you have to cook .
+<29>	(Inline, 20.650-24.470)	<no-speech>	<no-speech>
+<30>	(Inline, 24.470-25.350)	o sige .	oh sure .
+<31>	(Outline, 24.475-26.615)	<no-speech>	<no-speech>
+<32>	(Inline, 25.350-27.607)	(()) oo .	(()) yes .
+<33>	(Outline, 26.615-27.205)	ha ?	what ?
+<34>	(Outline, 27.205-28.005)	<no-speech>	<no-speech>
+<35>	(Inline, 27.607-28.860)	bigyan mo 'ko ng ulam ?	give me a dish ?
+<36>	(Outline, 28.005-29.495)	tapos bigyan mo ako <int> ?	then give me some ?
+<37>	(Inline, 28.860-31.440)	<no-speech>	<no-speech>
+<38>	(Outline, 29.495-31.145)	<no-speech>	<no-speech>
+<39>	(Outline, 31.145-31.729)	oo .	yes .
+<40>	(Inline, 31.440-32.100)	oo .	yes .
+<41>	(Outline, 31.729-39.845)	<no-speech> <sta> dito na nga ako sa tapat nila Nerissa may tugtugan naman maingay <no-speech> kung maririnig <no-speech> hindi ka na nag- -- <no-speech> ha %incomplete	I am right across Nerissa's there is noisy music if it can be heard you are not %incomplete
+<42>	(Inline, 32.100-33.110)	<no-speech>	<no-speech>
+<43>	(Inline, 33.110-34.116)	<no-speech>	<no-speech>
+<44>	(Inline, 34.116-36.630)	o <no-speech> Maya 'andiyan ka oo .	yes later you are there yes .
+<45>	(Inline, 36.630-38.000)	<no-speech>	<no-speech>
+<46>	(Inline, 38.000-38.670)	ha ?	what ?
+<47>	(Inline, 38.670-39.845)	<no-speech>	<no-speech>

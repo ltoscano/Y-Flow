@@ -1,0 +1,91 @@
+<1>	(Inline, 0.000-1.197)	wala pang extra no ?	no extra yet ?
+<2>	(Outline, 0.000-2.040)	<no-speech>	<no-speech>
+<3>	(Inline, 1.197-2.400)	sayang four fifty na <hes> .	it's a shame it's already four fifty .
+<4>	(Outline, 2.040-4.024)	oo sayang .	yes it's a shame .
+<5>	(Inline, 2.400-6.050)	<no-speech>	<no-speech>
+<6>	(Outline, 4.024-5.270)	<no-speech>	<no-speech>
+<7>	(Outline, 5.270-9.520)	<no-speech>	<no-speech>
+<8>	(Inline, 6.050-6.879)	<no-speech>	<no-speech>
+<9>	(Inline, 6.879-8.380)	wala pa extra <hes> .	there are no extras .
+<10>	(Inline, 8.380-12.070)	<no-speech>	<no-speech>
+<11>	(Outline, 9.520-11.760)	'pag may nag-text sa 'kin i-te-text na lang kita .	if someone texts me I'll text you .
+<12>	(Outline, 11.760-13.000)	<no-speech>	<no-speech>
+<13>	(Inline, 12.070-12.620)	hello ?	hello ?
+<14>	(Inline, 12.620-14.370)	<no-speech>	<no-speech>
+<15>	(Outline, 13.000-13.560)	oo .	yes .
+<16>	(Outline, 13.560-15.000)	<no-speech>	<no-speech>
+<17>	(Inline, 14.370-14.930)	ha ?	huh ?
+<18>	(Inline, 14.930-16.510)	<no-speech>	<no-speech>
+<19>	(Outline, 15.000-16.950)	'pag may nag-text sa 'kin te-text .	when someone texts me I'll text .
+<20>	(Inline, 16.510-17.640)	huwag muna i-text sa 'yo .	I won't text it to you first .
+<21>	(Outline, 16.950-18.040)	<no-speech>	<no-speech>
+<22>	(Inline, 17.640-20.370)	<no-speech>	<no-speech>
+<23>	(Outline, 18.040-18.660)	oo .	yes .
+<24>	(Outline, 18.660-21.860)	<no-speech>	<no-speech>
+<25>	(Inline, 20.370-21.128)	sige .	sure .
+<26>	(Inline, 21.128-25.715)	<no-speech> <int> o kamusta ?	how are you ?
+<27>	(Outline, 21.860-24.140)	<sta> ano ?	what ?
+<28>	(Outline, 24.140-29.180)	<no-speech>	<no-speech>
+<29>	(Inline, 25.715-28.090)	ano ba't ayaw mong anuhin 'yong pag-aaral mo ?	why don't you want to uhm your studies ?
+<30>	(Inline, 28.090-31.660)	<no-speech>	<no-speech>
+<31>	(Outline, 29.180-30.760)	ha ?	huh ?
+<32>	(Outline, 30.760-32.530)	<no-speech>	<no-speech>
+<33>	(Inline, 31.660-32.190)	hello ?	hello ?
+<34>	(Inline, 32.190-33.940)	<no-speech>	<no-speech>
+<35>	(Outline, 32.530-33.130)	hello ?	hello ?
+<36>	(Outline, 33.130-38.350)	<no-speech>	<no-speech>
+<37>	(Inline, 33.940-34.632)	o ?	oh ?
+<38>	(Inline, 34.632-34.893)	<no-speech>	<no-speech>
+<39>	(Inline, 34.893-37.260)	mag-aaral -- <no-speech> mag-aaral ka pa ba sa susunod ?	study -- will you study again next time ?
+<40>	(Inline, 37.260-38.630)	<no-speech>	<no-speech>
+<41>	(Outline, 38.350-40.518)	oo .	yes .
+<42>	(Inline, 38.630-38.980)	<no-speech>	<no-speech>
+<43>	(Inline, 38.980-39.780)	<no-speech>	<no-speech>
+<44>	(Inline, 39.780-40.632)	hello ?	hello ?
+<45>	(Outline, 40.518-41.332)	hello ?	hello ?
+<46>	(Inline, 40.632-41.502)	<no-speech>	<no-speech>
+<47>	(Outline, 41.332-43.020)	'di naririnig ko .	no I hear it .
+<48>	(Inline, 41.502-42.350)	ha ?	huh ?
+<49>	(Inline, 42.350-43.250)	<no-speech>	<no-speech>
+<50>	(Outline, 43.020-43.980)	<no-speech>	<no-speech>
+<51>	(Inline, 43.250-43.638)	<no-speech>	<no-speech>
+<52>	(Inline, 43.638-44.400)	hello ?	hello ?
+<53>	(Outline, 43.980-45.279)	oo .	yes .
+<54>	(Inline, 44.400-46.110)	<no-speech>	<no-speech>
+<55>	(Outline, 45.279-46.010)	hello .	hello .
+<56>	(Outline, 46.010-50.430)	<no-speech>	<no-speech>
+<57>	(Inline, 46.110-46.600)	hello ?	hello ?
+<58>	(Inline, 46.600-48.150)	<no-speech>	<no-speech>
+<59>	(Inline, 48.150-49.870)	mag-aaral ka ba sa susunod ?	will you study next time ?
+<60>	(Inline, 49.870-54.470)	<no-speech>	<no-speech>
+<61>	(Outline, 50.430-51.170)	oo .	yes .
+<62>	(Outline, 51.170-51.990)	<no-speech>	<no-speech>
+<63>	(Outline, 51.990-52.380)	<no-speech>	<no-speech>
+<64>	(Outline, 52.380-55.920)	<no-speech>	<no-speech>
+<65>	(Inline, 54.470-55.620)	text na lang tayo .	let's just text each other .
+<66>	(Inline, 55.620-58.410)	<no-speech>	<no-speech>
+<67>	(Outline, 55.920-56.710)	oo .	yes .
+<68>	(Outline, 56.710-60.080)	<no-speech>	<no-speech>
+<69>	(Inline, 58.410-59.880)	text na lang tayo ha ?	let's just text each other okay ?
+<70>	(Inline, 59.880-63.420)	<no-speech>	<no-speech>
+<71>	(Outline, 60.080-60.620)	<no-speech>	<no-speech>
+<72>	(Outline, 60.620-62.740)	<no-speech>	<no-speech>
+<73>	(Outline, 62.740-63.910)	(()) .	(()) .
+<74>	(Inline, 63.420-63.990)	hello ?	hello ?
+<75>	(Outline, 63.910-64.730)	<no-speech>	<no-speech>
+<76>	(Inline, 63.990-66.610)	<no-speech>	<no-speech>
+<77>	(Outline, 64.730-66.227)	hello .	hello .
+<78>	(Outline, 66.227-68.270)	sino (()) .	who (()) .
+<79>	(Inline, 66.610-67.502)	ha ?	huh ?
+<80>	(Inline, 67.502-67.719)	<no-speech>	<no-speech>
+<81>	(Inline, 67.719-68.580)	hello ?	hello ?
+<82>	(Outline, 68.270-69.430)	<no-speech>	<no-speech>
+<83>	(Inline, 68.580-71.190)	<no-speech>	<no-speech>
+<84>	(Outline, 69.430-69.951)	oo .	yes .
+<85>	(Outline, 69.951-70.680)	hello ?	hello ?
+<86>	(Outline, 70.680-73.160)	<no-speech>	<no-speech>
+<87>	(Inline, 71.190-72.080)	nasa munti .	in Munti .
+<88>	(Inline, 72.080-74.020)	<no-speech>	<no-speech>
+<89>	(Outline, 73.160-74.290)	malakas naman ah .	it's loud .
+<90>	(Inline, 74.020-74.490)	hello ?	hello ?
+<91>	(Outline, 74.290-74.490)	<no-speech>	<no-speech>

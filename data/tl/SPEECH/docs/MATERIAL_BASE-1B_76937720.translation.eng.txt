@@ -1,0 +1,20 @@
+<1>	(0.000-11.880)	<sta> sa pagguhit at pagkulay ginugugol ng mga drug dependent ang ilang oras ng kanilang therapy sa rehabilitation facility na ito sa Antipolo City .	in this rehabilitation facility in Antipolo drug dependents are spending part of their time for therapy in drawing and coloring .
+<2>	(11.880-21.470)	<sta> ayon sa isang nonprofit group na katuwang ng rehabilitation facility malaking tulong ang art therapy para mas masusuri ang kondisyon ng mga pasyente .	according to a non profit group a partner of the rehabilitation facility art therapy is a big help for them to diagnose the condition of the patients .
+<3>	(21.470-24.761)	dito rin nailalabas ng mga ito ang kanilang mga saloobin .	this is also where they can share what their feelings .
+<4>	(24.761-30.052)	<int> so ngayon so through art they can express whatever they feel .	so now so through art they can express whatever they feel .
+<5>	(30.052-41.208)	<sta> so do'n sa mga bagay na hindi nila kayang banggitin hindi nila kayang ilagay sa salita <sta> ay kaya nilang ilagay sa pamamagitan ng drawing at ma-e-express nila kung ano man ang nararamdaman nila .	so for those things which they cannot say they cannot put into words they can put it through a drawing and then they can express whatever they feel .
+<6>	(41.208-42.050)	<no-speech>	<no-speech>
+<7>	(42.050-47.480)	<sta> may ilang ginuhit ang kanilang pamilya at may ilan namang broken hearted pa yata .	there are some written by their family and some that still seems brokenhearted .
+<8>	(47.480-53.220)	<sta> pagkatapos mag-drawing ay magtitipon ang mga ito para ipaliwanag ang kanilang mga likha .	after drawing they will meet to explain their creations .
+<9>	(53.220-60.120)	<sta> layon ng grupong Center for Christian Recovery na tulungan ang mga drug dependent na gustong magbagong-buhay .	the group Center for Christian Recovery aims to help drug dependent people who wants to change .
+<10>	(60.120-71.077)	<sta> nais din daw nilang ipakita kay pangulong Rodrigo Duterte <sta> na may pag-asa pa ang mga ito at may iba pang- -- solusyon <sta> para sugpuin ang problema sa ilegal na droga .	they also wanted to show President Rodrigo Duterte that they still have hope and there are other -- solutions to suppress the problem in illegal drugs .
+<11>	(71.077-74.060)	<int> witness ako ng mga taong nagbabago .	I am a witness of the people that changed .
+<12>	(74.060-75.292)	nahihirapan sila .	it's difficult for them .
+<13>	(75.292-78.030)	they really want to recover kaso napakahirap .	they really want to recover but it's really hard .
+<14>	(78.030-84.549)	kung <hes> puputulin natin 'yong buhay nila hindi na natin sila mabibigyan ng tsansa para mas maintindihan pa kung ano ang buhay .	if we will end their lives we will not be able to give them a chance to understand life more .
+<15>	(84.549-91.530)	<int> <sta> bukod sa art therapy <sta> mayroon Ding counseling ng program para sa mga drug dependent .	apart from art therapy there are also counseling programs for the drug dependents .
+<16>	(91.530-100.237)	nananawagan naman sa pangulo ang ilang mga pasyente <sta> na sana'y huwag sila basta patayin dahil may ilan pang gustong <sta> magbagong-buhay .	there were some patients that called and asked for the president to not to kill them because some of them still has the desire to change .
+<17>	(100.237-104.112)	<int> sana naman <hes> aksiyunan rin 'to ng presidente natin .	hopefully our president will take action on this .
+<18>	(104.112-106.270)	may pag-asa pa naman kaming magbago .	we still have a chance to change .
+<19>	(106.270-107.299)	hindi pa huli ang lahat .	it's not too late .
+<20>	(107.299-109.402)	<int> umaaksiyon Gary ~ %incomplete	reporting Gary %incomplete

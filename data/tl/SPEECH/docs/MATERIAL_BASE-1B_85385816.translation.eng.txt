@@ -1,0 +1,45 @@
+<1>	(0.000-1.637)	<no-speech>	<no-speech>
+<2>	(1.637-12.587)	ang naging pangalan at tawag na kaugalian <sta> ng mga pumapasyal dito na mahilig sa mga aklat ay aklatan sa bangketa .	the name and nickname of those who regularly visit here who love books is the library in the sidewalk .
+<3>	(12.587-16.120)	gawa ng nagsimula ito na nasa bangketa lang .	because it started just from the sidewalk .
+<4>	(16.120-22.104)	limampung aklat na mga luma na nakikita n'yo ngayon ay napakarami na .	fifty old books seen now are very many .
+<5>	(22.104-23.920)	<no-speech>	<no-speech>
+<6>	(23.920-26.461)	<no-speech>	<no-speech>
+<7>	(26.461-32.390)	<sta> bukas anumang oras at anumang panahon ang aklatan na ito sa garahe ni mang Nani .	this library in the garage of Mister Nani is open any time and at any weather .
+<8>	(32.390-39.150)	<sta> sampung taong gulang ako na nagsisimula na ako ng ganito ng pahihiram ng mga babasahin no .	I was ten years old when I started like this lending reading materials .
+<9>	(39.150-44.900)	no'ng nag -- sa kolehiyo naman ako nagtrabaho rin ako sa silid-aklatan .	back in -- in college I also worked in the library .
+<10>	(44.900-49.320)	hindi ko rin binigyan ng <no-speech> pagpapahalaga 'yon .	I also did not give importance to that .
+<11>	(49.320-58.920)	no'ng panahon ng edad ko ay singkuwenta wala na akong maisip na programa na maitutulong sa kapwa .	by that time that I was fifty years of age I no longer can think of a program that could help others .
+<12>	(58.920-61.788)	ito na nga nagsimula na nga at ito na .	this was where it started and here it is .
+<13>	(61.788-64.320)	<no-speech>	<no-speech>
+<14>	(64.320-68.560)	<sta> labing-apat na taon na mula nang buksan niya ito sa publiko .	fourteen years have passed since I opened it to the public .
+<15>	(68.560-71.748)	<sta> alay niya raw ito sa mga na payapang magulang .	this was his tribute to his deceased parents .
+<16>	(71.748-75.830)	libre ang mga libro puwedeng hingin at iuwi .	books are free you could ask them for free and take them home .
+<17>	(75.830-80.410)	<sta> so magmula dito lahat 'yan walang bayad 'yan .	so from here all of that has no fee .
+<18>	(80.410-91.810)	kung anong gusto mong magazine para sa iyong project pocketbook para sa iyong research <no-speech> o sa iyong short story thesis report writing .	what magazine do you like for your pocketbook project for your research or for your short story thesis reporting .
+<19>	(91.810-95.970)	medical books <no-speech> maraming medical books sa mga nurses .	medical books there are plenty of medical books for nurses .
+<20>	(95.970-102.240)	para ng sa gano'n mahal ang kanilang aklat dito makakakuha sila ng mga reference book .	so that if their books are expensive here they could get reference books .
+<21>	(102.240-104.070)	<no-speech>	<no-speech>
+<22>	(104.070-111.492)	ito yung mga bata nagsisimula 'yang ng pagbabasa sa pamamagitan ng mga litratong comics .	here the children start reading using comics with pictures .
+<23>	(111.492-113.434)	<no-speech>	<no-speech>
+<24>	(113.434-118.120)	<sta> parang anak ang turing niya sa mga paboritong suki ng aklatan .	he treats those who come often in the library like his children .
+<25>	(118.120-122.500)	nakakapag-aral po kasi ako ng maayos kasi po sa ano libro ni <int> lolo .	I am able to study well because of grandfather's books .
+<26>	(122.500-125.720)	nakakatulong po siya sa ano recitation .	it helps in recitations .
+<27>	(125.720-127.280)	tapos sa lecture .	then in lectures .
+<28>	(127.280-131.739)	nakakatuloy na po yung mga bata dahil sa mga -- sa mga libro .	the children are able to continue because -- of the books .
+<29>	(131.739-139.159)	<sta> ang mga binabasa ko dito ang pambasang pambata kasi po natututo <int> kami sa mga babasahin .	what I read here is the National for Kids because we learn from the books .
+<30>	(139.159-140.338)	<no-speech>	<no-speech>
+<31>	(140.338-143.885)	hindi lang bata ang pumupunta sa library .	not only children goes to the library .
+<32>	(143.885-145.590)	<no-speech>	<no-speech>
+<33>	(145.590-149.780)	<sta> walang pondo ang aklatan hindi rin ito tumatanggap ng pera .	the library has no funds and it also does not accept money .
+<34>	(149.780-155.431)	(()) maraming salamat pandagdag sa (()) mag-sunglass ka para %incomplete	(()) thank you so much for the additional (()) you should sunglasses so that %incomplete
+<35>	(155.431-156.738)	ayan .	there .
+<36>	(156.738-157.996)	uy salamat .	hey thanks .
+<37>	(157.996-163.500)	'yon ang sinasabi ko may lumalabas sampu ang bumabalik .	that's what I am saying some leave ten return .
+<38>	(163.500-165.603)	kaya mas magaling ang lumalabas .	so leaving is better .
+<39>	(165.603-169.292)	tatlong libo isang buwan <no-speech> sampung libo ang bumabalik .	three thousand a month ten thousand return .
+<40>	(169.292-176.420)	<no-speech>	<no-speech>
+<41>	(176.420-179.633)	<sta> kahit mga dayuhan bilib kay mang Nani .	even foreigners are impressed with Mang Nani .
+<42>	(179.633-181.320)	<no-speech>	<no-speech>
+<43>	(181.320-186.830)	<sta> nagbibigay rin ng libro si mang Nani sa mga liblib na lugar sa iba't ibang probinsiya .	Mang Nani also gives books to remote areas in different provinces .
+<44>	(186.830-188.271)	<no-speech>	<no-speech>
+<45>	(188.271-194.835)	<sta> mahalaga ang talino at kaalaman kay mang Nani kaya itinaguyod niya ang aklatan .	intelligence and knowledge are important to Mang Nani which is why he established the library .
