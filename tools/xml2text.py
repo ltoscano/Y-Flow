@@ -20,7 +20,7 @@ def xml2text(filename, output_dir):
             tag = element.tag
             if tag == 'DOCID':
                 doc_id = element.text
-            elif tag == 'TEXT':
+            elif tag in ['TEXT', 'TX']: ## for the annoying inconsistency in CLEF
                 if element.text is not None:
                     text.append(element.text)
         output_doc(text, os.path.join(output_dir, doc_id))
@@ -37,7 +37,9 @@ def add_root_clause(input_file, output_file):
 def main(base_dir, output_dir):
     files = os.listdir(base_dir)
     #files = files[:1]
+    files = [x for x in files if x != 'sda.dtd']
     for filename in files:
+        print(filename)
         input_file = os.path.join(base_dir, filename)
         add_root_clause(input_file, input_file+'.xml')
         xml2text(input_file+'.xml', output_dir)

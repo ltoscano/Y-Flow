@@ -95,12 +95,12 @@ Different text matching formats are considered in this project for unification:
 +	**Corpus File**: records the mapping from each text to a unique identifier called *tid*, along with a sequence of word identifiers contained in that text. Note here each text is truncated or padded to a fixed length customized by users.
 +	**Relation File**: is used to store the relationship between two texts, each line containing a pair of *tids* and the corresponding label.
 +   **Detailed Input Data Format**: a detailed explaination of input data format can be found in Y-Flow/data/example/readme.md.
-+   **Preprocessing for the CLEF data**: The [CLEF](http://catalog.elra.info/en-us/repository/browse/clef-adhoc-news-test-suites-2004-2008-evaluation-package/4bc886f4a9e711e7a093ac9e1701ca02f0ac3dffb8164c3e8ff5f0dcfa7d33dd/) comes with multiple xml files, containing multiple documents. We provide a preprocesser in ``tools/``.
++   **Preprocessing for the CLEF data**: The [CLEF](http://catalog.elra.info/en-us/repository/browse/clef-adhoc-news-test-suites-2004-2008-evaluation-package/4bc886f4a9e711e7a093ac9e1701ca02f0ac3dffb8164c3e8ff5f0dcfa7d33dd/) comes with multiple xml files, containing multiple documents. We provide a preprocessor in ``tools/``.
 +  **Example**: for indexing and also generating training data in document ranking: 
 ```
   - IndriBuildIndex index.param
   - sh generate_ranking_data.sh
-  - python3 tools/xml2text.py data/fr/CLEF-FR/More_French/lemonde95/
+  - python3 tools/xml2text.py data/fr/CLEF-FR/More_French/lemonde95/ data/fr/CLEF-FR/docs
 ```
 Notice that we use python3 to avoid encoding errors.
 
