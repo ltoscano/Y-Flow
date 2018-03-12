@@ -1,0 +1,9 @@
+<parameters>
+    <index>index/</index>
+    <memory>1G</memory>
+    <corpus>
+      <path>docs/</path>
+      <class>txt</class>
+    </corpus>
+    <!--stemmer><name>krovetz</name></stemmer-->
+</parameters>
