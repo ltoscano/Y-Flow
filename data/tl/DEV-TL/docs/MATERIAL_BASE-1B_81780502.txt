@@ -1,0 +1,67 @@
+
+Paano nga ba gamitin ang 'Indirect Fire Support' sa pakikidigma? (Part 2)
+
+Sa part 1 ng aking kwento, nailahad ko ang tinatawag na Indirect Fire System kagaya ng artillery at ng mortar. Sana ay naging malinaw iyon sa inyo pagkatapos ko itong na-simplify.
+
+Naiintindihan ko naman na ang karamihan sa mga sibilyan ay hindi kabisado paano ginagamit ang indirect fire support mula sa Artillery o kaya sa Mortars.
+
+Para magkaliwanagan pa more, mas maiging panoorin nyo muna itong video ng Balikatan exercises na nagpapakita ng kaalaman at kagalingan ng mga sundalo natin na kung tawagin ay 'artilyero'.
+
+Kung inyong susuriin, napakahirap ang trabaho ng mga tao na nagpapaputok ng 105mm artillery. Kinakailangang coordinated ang lahat ng aksyon ng mga personnel nito. Remember the magic word ha: Coordinated!
+
+Ano nga ba ang hitsura sa lugar na pinapapatakan ng artillery rounds? Panoorin ang video sa itaas na kung saan ay makikita ang pag-mark ng target gamit ang White Phosphorus (WP) bago ito ina-adjust at pinasundan ng high-explosive rounds. Naranasan ko na ang nasa posisyon bilang tiga-paputok sa posisyon ng tubo at yong tigatawag ng indirect fire support bilang Forward Observer. Bawal ang palpak mag-isip dito or else wagaaaam!
+
+Ang tanong, masarap kaya ang pakiramdam kung ikaw ang nasa paligid ng impact area? Obvious ba ang sagot? Syempre, hindeeee! Naranasan ko na iyan sa Shariff Aguak, Maguindanao nang pinapatakan namin ng 105mm high explosive (HE) rounds ang mga MILF na umatake sa sa detachment na aking kinalagyan noong mid 1990s. Tanda ko pa ang mga dialogue na naririnig ko sa mga sundalo tuwing humahaging ang bala at lumapag mga 150 metro mula sa aming pwesto. Ito ang mga sampol:
+
+Sabi ng Ilokano: "Apung ku!"
+
+Sabi ng Ilonggo: "Hijo de puta!"
+
+Sabi ng Bisaya: "Gikolira na jud ni, mangamatay ta!"
+
+Nakakatawa ang mga hitsura namin dahil sa takot na mapatakan ng sariling itinawag na fire support. Masakit ata yon no?
+
+By the way, sa mga nagsasabing okay lang daw na magpapatak na lang ng White Phosphorus rounds kahit walang Forward Observer, ang gagaling nyo pre!
+
+Dinig na dinig natin ang mga komentong sabi-sabi ng mga Dota expert na ayos lang daw patakan ang isang patrol ng artillery kahit walang kausap na Forward Observer. Susme!
+
+By the way, ito ang dapat nating tandaan: Ang White Phosphorus (WP) round ay ang bilis mag-sunog ng damit at iba pang highly-combustible materials na nasa paligid. Meron din itong component na nakakalapnos sa balat ng tao dahil instead na shrapnel ang nagliliparan, mga nakakapaso na tila tunaw na bakal ang init ang syang dadapo sa iyo! Gusto nyo i-try?
+
+By the way, tingnan nyo ang hitsura ng tinamaan ng White Phosphorus rounds sa video sa ibaba.
+
+Kung kayo kaya ang magpapatak ng White Phosphorus at malapnos kagaya ng mga biktima? Ano ngayon mga tsong, payag kang hula-hulaan na lang ang sistema sa pagpapatak ng artillery? Pa-tsamba pa more? Matuto naman tayo sa karanasan ng iba! Sisihan pa more?
+
+Call for fire
+
+Paano nga ba ang mga simpleng procedures para makapag-deliver ng artillery fire sa isang heavily engaged unit?
+
+Makinig ka ha. Wag patulog-tulog!
+
+Una, kailangan ng Fire Direction Center (FDC) ang grid coordinates ng requesting element na kung saan ay andon ang Forward Observer. Sino ang magbigay ng grid? Listen carefully ha. Eh di yong Forward Observer mismo!
+
+Ganon? Yes. Ganon talaga. Di pwede i-text ang grid coordinate ha? Itawag mo gamit ang tactical radio. I-read back pa ito ng FDC para ikumpirma na tama ang ibinigay na mga impormasyon kagaya ng grid location, azimuth at distance ng kalaban na gustong mabatukan ng artillery rounds. Naninigurado syempre ang FDC kasi baka naman nagkawatak-watak ang patrol o kaya lumipat na ito ng posisyon habang nakikipagbakbakan. Oisst. Kapag mag-patrol ha, dapat may tactical radio na pwedeng tawagan!
+
+Bakit naman kailangang FO ang kausap ng FDC? Syempre, dapat direktang nag-uusap ang FO at ang FDC dahil nakakamatay iyang pinag-uusapan nilang artillery fire! Remember the magic word: Direktang nag-uusap! Kasi, kung may papalpak at mali ang napatakan, silang dalawa ang unang may kasalanan!
+
+Paano pag walang nakakausap na Forward Observer o Patrol Leader na marunong ng Call for Fire procedures? Eh, di sorry, di ka pwedeng bigyan ng artillery support!
+
+Bakeet di pwede bigyan ng artillery support pag walang FO? Kulit mo rin ano? Syempre, walang 'mata' ang FDC. May bulag bang accurate magpatama ng target? Iyong magician siguro, kayang maka-bullseye kahit may catarata!
+
+Uulitin ko ha. Masakit mabatukan ng 105mm projectile, kahit white phosphorus (WP) o high-explosive (HE) man iyon! Para mas feel mo ang scenario, i-replay mo ang video sa itaas at imagine mo na ikaw iyong nalapnos ang balat.
+
+Sa mga ayaw pa ring maniwala, sabi ng mga pilosopo na mortero at artilyero namin, open sila sa try-out ng mga taong gustong sumubok magpapatak sa kanilang kinalagyang pwesto nang maramdaman ng mga war experts ang epekto nito. Any volunteer?
+
+Mga palaisipan
+
+Marami ang mga bagay na pag-isipan nating lahat tungkol sa usaping indirect fire support.
+
+Ika pa nga sa kasabihan ay: "With great power, comes great responsibility."
+
+Matindi ang training ng mga taong gumagamit ng artillery at mortar assets para sa pakikidigma. Hinahasa parati ang mga kaalaman na ito sa pamamagitan ng sustainment training para maiwasan ang disgrasya at masiguradong asintado ang kasundaluhan sa kanilang ginagawa. Responsibilidad ng mga taong gumagamit nito na hindi makapanakit ng kapwa sundalo at maging mga inosenteng sibilyan. Magic word ha: Responsibilidad.
+
+Sa isang military operation, pinaplanong mabuti ng mga unit commanders ang pag-gamit ng indirect fires at inihahanda nila ang Fire Support Plan bilang parte sa Operations Order (OPORD). Kung hindi mo ito na-plano, nagplano ka na ring pumalpak! Bakit po? Eh, ang 105mm artillery ay hindi kagaya sa iyong M1911A1 Cal 45 pistol na pwedeng i-holster sa tagiliran at bunutin, itutok at iputok na mabilisan kagaya ng isang duwelo! Draw!
+
+Kaya, sa mga experts na nagmumungkahing paputukan ng artillery ang engaged unit na walang nakakausap na Forward Observer, isip-isip pa more!
+
+
+

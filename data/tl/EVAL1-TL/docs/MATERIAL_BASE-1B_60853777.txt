@@ -1,0 +1,7 @@
+OPISYALES NG SMARTMATIC PINAKAKASUHAN SA COMELEC By Tina Mendoza June 7, 2016 Dahil sa alegasyon ng dayaan noong nakaraang eleksyon, isang petisyon ang inihain kahapon sa Korte Suprema na humihiling na atasan ang Commission on Elections (Comelec) na patawan ng parusa ang Smartmatic officials na nasa likod ng pag-tamper sa automated election system.
+Sa petisyon ni Atty. Eduardo Bringas, iginiit nito na may kapangyarihan ang SC para atasan ang Comelec na magpaliwanag sa kung paano nagkaroon ng malaking discrepancy sa boto ng president at vice-president sa pagitan ng mga oras na 7:25 pm; 7:45 pm; 8:05 pm; at 8:25 pm noong Mayo 9.
+Bukod dito, hiniling din ng petitioner na magkaroon ng access sa source codes at hash codes at ma-examine ito ng mga IT experts gayundin ay mabigyan sila ng published updates ng election results at raw data na galing sa transparency server. Naniniwala ang petitioner na kung aatasan ng SC ang Comelec na imbestigahan ang tunay na pangyayari noong nakaraang eleksyon ay matutukoy kung sino ang nagbenepisyo sa dayaan at sino ang dapat managot dito.
+Ang petisyon ay inihain kasabay na rin ng hiwalay na reklamo naman ni Abakada-Guro party-list Rep. Jonathan Dela Cruz sa Manila Prosecutors Office na nag-aakusa sa Smartmatic at Comelec na nagsagawa ng security breach sa AES partikular sa script ng transparency server kaya naman nakumpromiso ang resulta ng bilangan.
+
+
+

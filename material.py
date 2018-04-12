@@ -180,7 +180,7 @@ def main(argv):
     judg_file = config['inputs']['predict']['judg_file']
     result_folder = config['inputs']['predict']['result_folder']
     with open("eval.sh", 'w') as f:
-        f.write("trec_eval -q "+judg_file+" -m map -m P.5,10 predict.test.duet_ranking.txt > eval.test.duet_ranking.txt")
+        f.write("trec_eval -q "+judg_file+" -m map -m P.5,10 -m aqwv predict.test.duet_ranking.txt > eval.test.duet_ranking.txt")
     f.close()
     call(["sh","eval.sh"])
     call(["cp","predict.test.duet_ranking.txt","eval.test.duet_ranking.txt",result_folder])

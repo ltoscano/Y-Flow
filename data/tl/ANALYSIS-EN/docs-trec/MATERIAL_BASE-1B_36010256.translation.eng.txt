@@ -1,0 +1,101 @@
+<DOC>
+<DOCNO> MATERIAL_BASE-1B_36010256.translation.eng </DOCNO>
+<TEXT>
+<no-speech>
+<no-speech>
+did you finish your coffee ?
+<no-speech>
+I did not have a snack .
+why ?
+<no-speech>
+<no-speech>
+yes do they want some ?
+it's because you played basketball first .
+well I finished it before playing .
+<no-speech>
+<no-speech>
+it's because you played basketball first .
+well I haven't played in a long time .
+can play %incomplete
+<no-speech>
+<no-speech>
+you know that you're tired .
+<no-speech>
+<no-speech>
+<no-speech>
+<no-speech>
+<no-speech>
+mhm .
+never mind .
+<no-speech>
+we can rest anyway we are starting early early .
+<no-speech>
+you might not be able to come to work .
+<no-speech>
+<no-speech>
+<no-speech>
+yes I am coming to work .
+<no-speech>
+it's just a little bit .
+what ?
+<no-speech>
+we only had a few drinks .
+<no-speech>
+we only had a few drinks .
+we'll just have Red Horse .
+<no-speech>
+mhm .
+<no-speech>
+yes Red Horse two for each .
+<no-speech>
+what if there are two ?
+<no-speech>
+so what if I joined ?
+<no-speech>
+okay .
+but we're each having two don't join us anymore .
+what ?
+<no-speech>
+wow .
+<no-speech>
+we're already (()) don't join us anymore there are already two here .
+<no-speech>
+<no-speech>
+<no-speech>
+so no I was punched .
+<no-speech>
+costly .
+what ?
+<no-speech>
+<no-speech>
+stupid .
+costly .
+<no-speech>
+you know what ? it might (()) .
+<no-speech>
+<no-speech>
+there might be more .
+<no-speech>
+<no-speech>
+<no-speech>
+we might have more that we can't come to work .
+<no-speech>
+<no-speech>
+stupid .
+<no-speech>
+<no-speech>
+<no-speech>
+<no-speech>
+<no-speech>
+<no-speech>
+yet you are gluttonous -- in eating bar chow .
+<no-speech>
+<no-speech>
+well what else should be -- bought -- what's what ?
+<no-speech>
+what is %incomplete
+what about this instead .
+<no-speech>
+what ?
+</TEXT>
+</DOC>

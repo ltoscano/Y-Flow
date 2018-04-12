@@ -2,10 +2,10 @@
 	<code-build-date>Oct 19 2017</code-build-date>
 	<corpus>
 		<document-base>1</document-base>
-		<frequent-terms>33</frequent-terms>
+		<frequent-terms>31</frequent-terms>
 		<maximum-document>472</maximum-document>
 		<total-documents>471</total-documents>
-		<total-terms>248444</total-terms>
+		<total-terms>241053</total-terms>
 		<unique-terms>12882</unique-terms>
 	</corpus>
 	<fields></fields>

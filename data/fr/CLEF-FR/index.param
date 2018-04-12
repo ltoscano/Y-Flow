@@ -3,7 +3,7 @@
     <memory>1G</memory>
     <corpus>
       <path>docs/</path>
-      <class>txt</class>
+      <class>trectext</class>
     </corpus>
-    <!--stemmer><name>krovetz</name></stemmer-->
+   <!--stemmer><name>krovetz</name></stemmer-->
 </parameters>

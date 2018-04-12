@@ -4,8 +4,7 @@
 <number>query879</number>
 <text>
 #combine(
-cyber
-bully
+#1(cyber bully)
 )
 </text>
 </query>
@@ -14,10 +13,7 @@ bully
 <number>query485</number>
 <text>
 #combine(
-cost
-of
-living
-allowance
+#1(cost of living allowance)
 )
 </text>
 </query>
@@ -26,9 +22,7 @@ allowance
 <number>query1122</number>
 <text>
 #combine(
-as
-cold
-as
+#1(as cold as)
 )
 </text>
 </query>
@@ -37,6 +31,7 @@ as
 <number>query337</number>
 <text>
 #combine(
+#1(oil companies)
 oil
 companies
 )
@@ -56,8 +51,7 @@ Tagalogelection
 <number>query336</number>
 <text>
 #combine(
-electricity
-shortage
+#1(electricity shortage)
 )
 </text>
 </query>
@@ -75,8 +69,7 @@ crab
 <number>query414</number>
 <text>
 #combine(
-terrorist
-group
+#1(terrorist group)
 )
 </text>
 </query>
@@ -95,7 +88,7 @@ rainwind
 <text>
 #combine(
 giggle
-hypto
+to
 laugh
 )
 </text>
@@ -123,9 +116,7 @@ corruptioncontractual
 <number>query1414</number>
 <text>
 #combine(
-their
-own
-nation
+#1(their own nation)
 )
 </text>
 </query>
@@ -158,6 +149,18 @@ airplaneJapanese
 </query>
 <query>
 <type>indri</type>
+<number>query1895</number>
+<text>
+#combine(
+mastermind
+planner
+syndicate
+gang
+)
+</text>
+</query>
+<query>
+<type>indri</type>
 <number>query359</number>
 <text>
 #combine(
@@ -170,8 +173,7 @@ buildings
 <number>query109</number>
 <text>
 #combine(
-drinking
-alcohol
+#1(drinking alcohol)
 )
 </text>
 </query>
@@ -189,10 +191,7 @@ workmanship
 <number>query1263</number>
 <text>
 #combine(
-as
-fast
-as
-lightning
+#1(as fast as lightning)
 )
 </text>
 </query>
@@ -210,9 +209,7 @@ Samarfisherman
 <number>query368</number>
 <text>
 #combine(
-wet
-by
-rain
+#1(wet by rain)
 )
 </text>
 </query>
@@ -221,8 +218,7 @@ rain
 <number>query747</number>
 <text>
 #combine(
-police
-dog
+#1(police dog)
 )
 </text>
 </query>
@@ -232,7 +228,7 @@ dog
 <text>
 #combine(
 bible
-evfreligion
+religion
 story
 )
 </text>
@@ -242,8 +238,7 @@ story
 <number>query461</number>
 <text>
 #combine(
-white
-shirt
+#1(white shirt)
 )
 </text>
 </query>
@@ -252,8 +247,7 @@ shirt
 <number>query1772</number>
 <text>
 #combine(
-capital
-punishment
+#1(capital punishment)
 )
 </text>
 </query>
@@ -271,8 +265,7 @@ Sulu
 <number>query1261</number>
 <text>
 #combine(
-puppet
-state
+#1(puppet state)
 )
 </text>
 </query>
@@ -290,8 +283,7 @@ Chinesegovernor
 <number>query756</number>
 <text>
 #combine(
-native
-language
+#1(native language)
 )
 </text>
 </query>
@@ -300,8 +292,7 @@ language
 <number>query881</number>
 <text>
 #combine(
-broken
-window
+#1(broken window)
 )
 </text>
 </query>
@@ -310,9 +301,7 @@ window
 <number>query830</number>
 <text>
 #combine(
-former
-President's
-birthday
+#1(former President's birthday)
 )
 </text>
 </query>
@@ -321,9 +310,9 @@ birthday
 <number>query1884</number>
 <text>
 #combine(
-provincial
-councilformal
-synofficial
+#1(provincial council)
+formal
+official
 )
 </text>
 </query>
@@ -332,6 +321,7 @@ synofficial
 <number>query3987</number>
 <text>
 #combine(
+#1(ghost projects)
 ghost
 projects
 )
@@ -352,7 +342,7 @@ informationdrug
 <text>
 #combine(
 culture
-evfarts
+arts
 and
 humanities
 student
@@ -364,8 +354,7 @@ student
 <number>query614</number>
 <text>
 #combine(
-their
-income
+#1(their income)
 )
 </text>
 </query>
@@ -374,8 +363,7 @@ income
 <number>query464</number>
 <text>
 #combine(
-election
-results
+#1(election results)
 )
 </text>
 </query>
@@ -402,8 +390,7 @@ moneychurch
 <number>query481</number>
 <text>
 #combine(
-recycle
-trash
+#1(recycle trash)
 )
 </text>
 </query>
@@ -430,8 +417,7 @@ terminology
 <number>query103</number>
 <text>
 #combine(
-Communist
-rebel
+#1(Communist rebel)
 )
 </text>
 </query>
@@ -441,9 +427,9 @@ rebel
 <text>
 #combine(
 vital
-synimportant
+important
 operation
-synfunction
+function
 )
 </text>
 </query>
@@ -452,6 +438,7 @@ synfunction
 <number>query3598</number>
 <text>
 #combine(
+#1(drank coffee)
 drank
 coffee
 )
@@ -471,10 +458,7 @@ systematization
 <number>query933</number>
 <text>
 #combine(
-they
-are
-not
-sadists
+#1(they are not sadists)
 )
 </text>
 </query>
@@ -484,7 +468,7 @@ sadists
 <text>
 #combine(
 transfertitle
-evfproperty
+property
 )
 </text>
 </query>
@@ -493,8 +477,7 @@ evfproperty
 <number>query781</number>
 <text>
 #combine(
-street
-children
+#1(street children)
 )
 </text>
 </query>
@@ -503,8 +486,7 @@ children
 <number>query533</number>
 <text>
 #combine(
-their
-blood
+#1(their blood)
 )
 </text>
 </query>
@@ -513,8 +495,7 @@ blood
 <number>query2207</number>
 <text>
 #combine(
-livelihood
-assistance
+#1(livelihood assistance)
 )
 </text>
 </query>
@@ -533,7 +514,7 @@ Imelda
 <text>
 #combine(
 wall
-evfbarrier
+barrier
 )
 </text>
 </query>
@@ -542,10 +523,7 @@ evfbarrier
 <number>query307</number>
 <text>
 #combine(
-one
-hundred
-thousand
-pesos
+#1(one hundred thousand pesos)
 )
 </text>
 </query>
@@ -554,8 +532,7 @@ pesos
 <number>query137</number>
 <text>
 #combine(
-Maoist
-insurgency
+#1(Maoist insurgency)
 )
 </text>
 </query>
@@ -564,9 +541,7 @@ insurgency
 <number>query1371</number>
 <text>
 #combine(
-books
-for
-children
+#1(books for children)
 )
 </text>
 </query>
@@ -593,8 +568,7 @@ jeepneypassenger
 <number>query363</number>
 <text>
 #combine(
-president's
-spokesperson
+#1(president's spokesperson)
 )
 </text>
 </query>
@@ -612,9 +586,7 @@ Riyadh
 <number>query1523</number>
 <text>
 #combine(
-travel
-to
-America
+#1(travel to America)
 )
 </text>
 </query>
@@ -624,7 +596,7 @@ America
 <text>
 #combine(
 Tago
-hypname
+name
 )
 </text>
 </query>
@@ -633,8 +605,7 @@ hypname
 <number>query338</number>
 <text>
 #combine(
-oil
-supply
+#1(oil supply)
 )
 </text>
 </query>
@@ -652,8 +623,7 @@ electionmachine
 <number>query3968</number>
 <text>
 #combine(
-Eunice
-Samonte
+#1(Eunice Samonte)
 )
 </text>
 </query>
@@ -662,8 +632,7 @@ Samonte
 <number>query528</number>
 <text>
 #combine(
-security
-threat
+#1(security threat)
 )
 </text>
 </query>
@@ -681,8 +650,7 @@ Chinesefisherman
 <number>query471</number>
 <text>
 #combine(
-judicial
-system
+#1(judicial system)
 )
 </text>
 </query>
@@ -691,8 +659,7 @@ system
 <number>query1288</number>
 <text>
 #combine(
-responsible
-individual
+#1(responsible individual)
 )
 </text>
 </query>
@@ -701,8 +668,7 @@ individual
 <number>query1473</number>
 <text>
 #combine(
-pirated
-DVD
+#1(pirated DVD)
 )
 </text>
 </query>
@@ -738,9 +704,7 @@ privatizationwater
 <number>query2559</number>
 <text>
 #combine(
-Department
-of
-Health
+#1(Department of Health)
 vaccinated
 )
 </text>
@@ -750,9 +714,7 @@ vaccinated
 <number>query742</number>
 <text>
 #combine(
-war
-on
-drugs
+#1(war on drugs)
 )
 </text>
 </query>
@@ -761,8 +723,8 @@ drugs
 <number>query1303</number>
 <text>
 #combine(
-social
-securitycontribution
+#1(social security)
+contribution
 )
 </text>
 </query>
@@ -780,8 +742,7 @@ Palawanprogram
 <number>query1109</number>
 <text>
 #combine(
-victim's
-corpse
+#1(victim's corpse)
 )
 </text>
 </query>
@@ -790,8 +751,7 @@ corpse
 <number>query523</number>
 <text>
 #combine(
-until
-Sunday
+#1(until Sunday)
 )
 </text>
 </query>
@@ -801,7 +761,7 @@ Sunday
 <text>
 #combine(
 Pariscave
-syncavern
+cavern
 )
 </text>
 </query>
@@ -819,8 +779,7 @@ deployment
 <number>query673</number>
 <text>
 #combine(
-sufficient
-evidence
+#1(sufficient evidence)
 )
 </text>
 </query>
@@ -829,8 +788,7 @@ evidence
 <number>query435</number>
 <text>
 #combine(
-illegal
-mining
+#1(illegal mining)
 )
 </text>
 </query>
@@ -848,8 +806,7 @@ Ilocanobutterfly
 <number>query1810</number>
 <text>
 #combine(
-land
-reform
+#1(land reform)
 )
 </text>
 </query>
@@ -858,8 +815,7 @@ reform
 <number>query434</number>
 <text>
 #combine(
-tourism
-industry
+#1(tourism industry)
 )
 </text>
 </query>
@@ -877,8 +833,7 @@ advisers
 <number>query1052</number>
 <text>
 #combine(
-childrens'
-rights
+#1(childrens' rights)
 )
 </text>
 </query>
@@ -887,9 +842,8 @@ rights
 <number>query1577</number>
 <text>
 #combine(
-Davao100
-new
-teachers
+#1(100 new teachers)
+Davao
 )
 </text>
 </query>
@@ -899,7 +853,7 @@ teachers
 <text>
 #combine(
 rag
-synwiping
+wiping
 cloth
 )
 </text>
@@ -909,8 +863,8 @@ cloth
 <number>query1237</number>
 <text>
 #combine(
-Laoagsevere
-heat
+#1(severe heat)
+Laoag
 )
 </text>
 </query>
@@ -920,7 +874,7 @@ heat
 <text>
 #combine(
 taxspeech
-synoration
+oration
 )
 </text>
 </query>
@@ -938,8 +892,8 @@ worldcrisis
 <number>query174</number>
 <text>
 #combine(
-I'm
-afraidboycott
+#1(I'm afraid)
+boycott
 )
 </text>
 </query>
@@ -948,9 +902,7 @@ afraidboycott
 <number>query494</number>
 <text>
 #combine(
-martial
-law
-victim
+#1(martial law victim)
 )
 </text>
 </query>
@@ -968,6 +920,7 @@ anomalybridge
 <number>query4373</number>
 <text>
 #combine(
+#1(poorest families)
 poorest
 families
 )
@@ -987,8 +940,7 @@ Dutertefriendship
 <number>query503</number>
 <text>
 #combine(
-many
-reasons
+#1(many reasons)
 )
 </text>
 </query>
@@ -1030,11 +982,447 @@ fireman
 </query>
 <query>
 <type>indri</type>
+<number>query4365</number>
+<text>
+#combine(
+#1(factory fire)
+firecracker
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1476</number>
+<text>
+#combine(
+soldier
+cowardly
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query509</number>
+<text>
+#combine(
+#1(water supply)
+EXAMPLE
+_OFproject
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query825</number>
+<text>
+#combine(
+#1(San Fernando)
+#1(energy supply)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1460</number>
+<text>
+#combine(
+#1(peace talks)
+closure
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query339</number>
+<text>
+#combine(
+oilmining
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1451</number>
+<text>
+#combine(
+Bayombongagriculture
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1240</number>
+<text>
+#combine(
+#1(real estate)
+Mandaluyong
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1940</number>
+<text>
+#combine(
+fireworks
+music
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4322</number>
+<text>
+#combine(
+#1(sea turtle)
+fishing
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1603</number>
+<text>
+#combine(
+scamroyalty
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1459</number>
+<text>
+#combine(
+election
+integrity
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1112</number>
+<text>
+#combine(
+Tuguegarao
+EXAMPLE
+_OFanimal
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1318</number>
+<text>
+#combine(
+Ilocanogunfire
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1428</number>
+<text>
+#combine(
+advertisement
+newspaper
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1594</number>
+<text>
+#combine(
+onionsmuggling
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1274</number>
+<text>
+#combine(
+Tagummurder
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1302</number>
+<text>
+#combine(
+prosecution
+examination
+inquiry
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1155</number>
+<text>
+#combine(
+#1(natural disaster)
+Aklan
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query880</number>
+<text>
+#combine(
+cybercrime
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1108</number>
+<text>
+#combine(
+Viganagriculture
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1430</number>
+<text>
+#combine(
+signature
+correspondent
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1278</number>
+<text>
+#combine(
+#1(El Nido)
+tourism
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1158</number>
+<text>
+#combine(
+Angelesprostitution
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4328</number>
+<text>
+#combine(
+#1(genetic engineering)
+eggplant
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1312</number>
+<text>
+#combine(
+deregularizationeducation
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1105</number>
+<text>
+#combine(
+#1(sex crime)
+Kalibo
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1457</number>
+<text>
+#combine(
+Pepsicorruption
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1106</number>
+<text>
+#combine(
+#1(social media)
+Bacolod
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1311</number>
+<text>
+#combine(
+deregularizationenergy
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4363</number>
+<text>
+#combine(
+EXAMPLE
+_OFaquatic
+mammal
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3821</number>
+<text>
+#combine(
+#1(milking cows)
+dairy
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3221</number>
+<text>
+#combine(
+EXAMPLE
+_OFdairy
+products
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3422</number>
+<text>
+#combine(
+#1(using condoms as balloons)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3895</number>
+<text>
+#combine(
+EXAMPLE
+_OFcamelid
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1050</number>
+<text>
+#combine(
+bootlicker
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3408</number>
+<text>
+#combine(
+#1(cocaine arrest)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3865</number>
+<text>
+#combine(
+#1(polio vaccination)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3354</number>
+<text>
+#combine(
+EXAMPLE
+_OFcrustacean
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3891</number>
+<text>
+#combine(
+EXAMPLE
+_OFnonhuman
+primate
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1579</number>
+<text>
+#combine(
+#1(Spanish occupation)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query585</number>
+<text>
+#combine(
+#1(fake government official)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3356</number>
+<text>
+#combine(
+EXAMPLE
+_OFamphibian
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3753</number>
+<text>
+#combine(
+#1(planting okra)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3613</number>
+<text>
+#combine(
+#1(sardine food production)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
 <number>query1330</number>
 <text>
 #combine(
-catleftover
-food
+#1(leftover food)
+cat
 )
 </text>
 </query>
@@ -1052,8 +1440,7 @@ Youtube
 <number>query990</number>
 <text>
 #combine(
-banana
-leaf
+#1(banana leaf)
 )
 </text>
 </query>
@@ -1080,9 +1467,7 @@ napkin
 <number>query1376</number>
 <text>
 #combine(
-full
-of
-charcoal
+#1(full of charcoal)
 )
 </text>
 </query>
@@ -1092,7 +1477,7 @@ charcoal
 <text>
 #combine(
 canal
-hypwaterway
+waterway
 )
 </text>
 </query>
@@ -1110,9 +1495,8 @@ adobobeef
 <number>query1759</number>
 <text>
 #combine(
-youngest
-sister
-hypfemale
+#1(youngest sister)
+female
 )
 </text>
 </query>
@@ -1121,8 +1505,7 @@ hypfemale
 <number>query3302</number>
 <text>
 #combine(
-salty
-egg
+#1(salty egg)
 )
 </text>
 </query>
@@ -1141,7 +1524,7 @@ salaryteacher
 <text>
 #combine(
 light
-evfweight
+weight
 )
 </text>
 </query>
@@ -1159,8 +1542,7 @@ roof
 <number>query330</number>
 <text>
 #combine(
-uniformed
-police
+#1(uniformed police)
 )
 </text>
 </query>
@@ -1178,8 +1560,7 @@ vinegar
 <number>query1388</number>
 <text>
 #combine(
-stinky
-air
+#1(stinky air)
 )
 </text>
 </query>
@@ -1188,8 +1569,7 @@ air
 <number>query113</number>
 <text>
 #combine(
-water
-buffalo
+#1(water buffalo)
 )
 </text>
 </query>
@@ -1198,10 +1578,7 @@ buffalo
 <number>query1715</number>
 <text>
 #combine(
-can
-you
-go
-now
+#1(can you go now)
 )
 </text>
 </query>
@@ -1219,8 +1596,7 @@ fed
 <number>query573</number>
 <text>
 #combine(
-your
-neighbor
+#1(your neighbor)
 )
 </text>
 </query>
@@ -1239,7 +1615,7 @@ ridiculoussoul
 <text>
 #combine(
 chair
-hypfurniture
+furniture
 book
 )
 </text>
@@ -1267,8 +1643,7 @@ pomelo
 <number>query455</number>
 <text>
 #combine(
-national
-language
+#1(national language)
 )
 </text>
 </query>
@@ -1286,9 +1661,8 @@ adventure
 <number>query117</number>
 <text>
 #combine(
-August
-29
-hypdate
+#1(August 29)
+date
 )
 </text>
 </query>
@@ -1297,6 +1671,7 @@ hypdate
 <number>query357</number>
 <text>
 #combine(
+#1(my classmates)
 my
 classmates
 )
@@ -1307,8 +1682,7 @@ classmates
 <number>query1037</number>
 <text>
 #combine(
-most
-venomous
+#1(most venomous)
 )
 </text>
 </query>
@@ -1317,8 +1691,7 @@ venomous
 <number>query2044</number>
 <text>
 #combine(
-bay
-leaf
+#1(bay leaf)
 )
 </text>
 </query>
@@ -1327,8 +1700,7 @@ leaf
 <number>query961</number>
 <text>
 #combine(
-traffic
-light
+#1(traffic light)
 )
 </text>
 </query>
@@ -1337,9 +1709,7 @@ light
 <number>query834</number>
 <text>
 #combine(
-tall
-or
-short
+#1(tall or short)
 )
 </text>
 </query>
@@ -1349,7 +1719,7 @@ short
 <text>
 #combine(
 agent
-synmiddleman
+middleman
 )
 </text>
 </query>
@@ -1359,7 +1729,7 @@ synmiddleman
 <text>
 #combine(
 sole
-evffoot
+foot
 )
 </text>
 </query>
@@ -1368,8 +1738,7 @@ evffoot
 <number>query332</number>
 <text>
 #combine(
-Barangay
-Mangingisda
+#1(Barangay Mangingisda)
 )
 </text>
 </query>
@@ -1397,7 +1766,7 @@ earring
 <text>
 #combine(
 fork
-hyputensil
+utensil
 )
 </text>
 </query>
@@ -1433,8 +1802,7 @@ peacock
 <number>query1272</number>
 <text>
 #combine(
-clean
-air
+#1(clean air)
 )
 </text>
 </query>
@@ -1443,8 +1811,7 @@ air
 <number>query754</number>
 <text>
 #combine(
-ice
-cream
+#1(ice cream)
 )
 </text>
 </query>
@@ -1462,8 +1829,7 @@ guava
 <number>query559</number>
 <text>
 #combine(
-roast
-chicken
+#1(roast chicken)
 )
 </text>
 </query>
@@ -1473,7 +1839,7 @@ chicken
 <text>
 #combine(
 mirror
-synreflecting
+reflecting
 surface
 )
 </text>
@@ -1492,9 +1858,8 @@ seashore
 <number>query966</number>
 <text>
 #combine(
-Christiandie
-of
-hunger
+#1(die of hunger)
+Christian
 )
 </text>
 </query>
@@ -1530,8 +1895,7 @@ tweet
 <number>query2043</number>
 <text>
 #combine(
-Filipino
-literature
+#1(Filipino literature)
 )
 </text>
 </query>
@@ -1558,8 +1922,7 @@ necktomorrow
 <number>query736</number>
 <text>
 #combine(
-beef
-broth
+#1(beef broth)
 )
 </text>
 </query>
@@ -1577,8 +1940,7 @@ muddyrain
 <number>query960</number>
 <text>
 #combine(
-light
-traffic
+#1(light traffic)
 )
 </text>
 </query>
@@ -1596,8 +1958,7 @@ superstition
 <number>query422</number>
 <text>
 #combine(
-societal
-change
+#1(societal change)
 )
 </text>
 </query>
@@ -1607,7 +1968,7 @@ change
 <text>
 #combine(
 plasticfork
-hyputensil
+utensil
 )
 </text>
 </query>
@@ -1617,7 +1978,7 @@ hyputensil
 <text>
 #combine(
 controversialquestion
-syninquiry
+inquiry
 )
 </text>
 </query>
@@ -1626,8 +1987,7 @@ syninquiry
 <number>query557</number>
 <text>
 #combine(
-crab
-mentality
+#1(crab mentality)
 )
 </text>
 </query>
@@ -1636,10 +1996,7 @@ mentality
 <number>query3818</number>
 <text>
 #combine(
-you're
-like
-a
-frog
+#1(you're like a frog)
 )
 </text>
 </query>
@@ -1648,8 +2005,7 @@ frog
 <number>query3102</number>
 <text>
 #combine(
-Java
-plum
+#1(Java plum)
 )
 </text>
 </query>
@@ -1677,7 +2033,7 @@ Chavacano
 <text>
 #combine(
 guard
-synwatchman
+watchman
 house
 )
 </text>
@@ -1696,8 +2052,8 @@ dutyteacher
 <number>query1742</number>
 <text>
 #combine(
-announcethree
-days
+#1(three days)
+announce
 )
 </text>
 </query>
@@ -1706,10 +2062,7 @@ days
 <number>query1347</number>
 <text>
 #combine(
-ray
-of
-the
-sun
+#1(ray of the sun)
 )
 </text>
 </query>
@@ -1737,7 +2090,7 @@ blanketclothes
 <text>
 #combine(
 four
-hypcardinal
+cardinal
 number
 wheel
 )
@@ -1749,7 +2102,7 @@ wheel
 <text>
 #combine(
 situation
-syncircumstance
+circumstance
 creator
 )
 </text>
@@ -1786,8 +2139,7 @@ toothbrush
 <number>query561</number>
 <text>
 #combine(
-fighting
-cock
+#1(fighting cock)
 )
 </text>
 </query>
@@ -1814,8 +2166,7 @@ lizardceiling
 <number>query1047</number>
 <text>
 #combine(
-Christmas
-Eve
+#1(Christmas Eve)
 )
 </text>
 </query>
@@ -1824,8 +2175,7 @@ Eve
 <number>query1398</number>
 <text>
 #combine(
-sister
-Adela
+#1(sister Adela)
 )
 </text>
 </query>
@@ -1835,7 +2185,7 @@ Adela
 <text>
 #combine(
 monkey
-hypanimal
+animal
 )
 </text>
 </query>
@@ -1880,8 +2230,7 @@ dictionary
 <number>query1035</number>
 <text>
 #combine(
-snake
-design
+#1(snake design)
 )
 </text>
 </query>
@@ -1890,10 +2239,7 @@ design
 <number>query1345</number>
 <text>
 #combine(
-pencil
-with
-an
-eraser
+#1(pencil with an eraser)
 )
 </text>
 </query>
@@ -1922,7 +2268,7 @@ Spanish
 <text>
 #combine(
 foil
-hypsheet
+sheet
 metal
 )
 </text>
@@ -1932,8 +2278,7 @@ metal
 <number>query1636</number>
 <text>
 #combine(
-wheel
-chair
+#1(wheel chair)
 )
 </text>
 </query>
@@ -1943,7 +2288,7 @@ chair
 <text>
 #combine(
 apple
-hypfruit
+fruit
 )
 </text>
 </query>
@@ -1961,10 +2306,7 @@ curtain
 <number>query1686</number>
 <text>
 #combine(
-I
-don't
-understand
-you
+#1(I don't understand you)
 )
 </text>
 </query>
@@ -1973,6 +2315,7 @@ you
 <number>query869</number>
 <text>
 #combine(
+#1(enemy of the rats)
 enemy
 of
 the
@@ -1994,8 +2337,7 @@ dryriver
 <number>query560</number>
 <text>
 #combine(
-chicken
-feet
+#1(chicken feet)
 )
 </text>
 </query>
@@ -2013,8 +2355,7 @@ musicdance
 <number>query789</number>
 <text>
 #combine(
-no
-justice
+#1(no justice)
 )
 </text>
 </query>
@@ -2023,8 +2364,7 @@ justice
 <number>query790</number>
 <text>
 #combine(
-very
-rich
+#1(very rich)
 )
 </text>
 </query>
@@ -2033,8 +2373,7 @@ rich
 <number>query1346</number>
 <text>
 #combine(
-cheapest
-tuition
+#1(cheapest tuition)
 )
 </text>
 </query>
@@ -2043,9 +2382,7 @@ tuition
 <number>query969</number>
 <text>
 #combine(
-cross
-the
-street
+#1(cross the street)
 )
 </text>
 </query>
@@ -2054,9 +2391,442 @@ street
 <number>query1379</number>
 <text>
 #combine(
-my
-piano
-teacher
+#1(my piano teacher)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1574</number>
+<text>
+#combine(
+Koronadalconstruction
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1206</number>
+<text>
+#combine(
+#1(food preparation)
+garlic
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1123</number>
+<text>
+#combine(
+yellow
+color
+parade
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1252</number>
+<text>
+#combine(
+corn
+cereal
+planting
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1329</number>
+<text>
+#combine(
+Tondocelebration
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1242</number>
+<text>
+#combine(
+Nagatransportation
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query410</number>
+<text>
+#combine(
+#1(salary increase)
+EXAMPLE
+_OFmedical
+professional
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1795</number>
+<text>
+#combine(
+Romblonordinance
+decree
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query158</number>
+<text>
+#combine(
+liverdisease
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1431</number>
+<text>
+#combine(
+magazine
+essay
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1077</number>
+<text>
+#combine(
+traffic
+Intramuros
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1113</number>
+<text>
+#combine(
+baptismEXAMPLE_OFvehicle
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1156</number>
+<text>
+#combine(
+#1(warning sign)
+mermaid
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1114</number>
+<text>
+#combine(
+Surigaochurch
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1322</number>
+<text>
+#combine(
+haircutprice
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1154</number>
+<text>
+#combine(
+widow
+widower
+earnings
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1117</number>
+<text>
+#combine(
+#1(black pepper)
+EXAMPLE
+_OFanimal
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1171</number>
+<text>
+#combine(
+smokingdisease
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1292</number>
+<text>
+#combine(
+person
+extraordinary
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1130</number>
+<text>
+#combine(
+shrimpcooking
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1416</number>
+<text>
+#combine(
+fruit
+plants
+oval
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query569</number>
+<text>
+#combine(
+vegetablesplanting
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query168</number>
+<text>
+#combine(
+stormdamage
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1315</number>
+<text>
+#combine(
+Cebugraduation
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1208</number>
+<text>
+#combine(
+Pampangafood
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1314</number>
+<text>
+#combine(
+#1(gun making)
+Cebu
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1217</number>
+<text>
+#combine(
+Tabukirrigation
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1344</number>
+<text>
+#combine(
+Pagsanjanfood
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1205</number>
+<text>
+#combine(
+#1(food preparation)
+ginger
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1213</number>
+<text>
+#combine(
+hair
+head
+clothes
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4335</number>
+<text>
+#combine(
+#1(cooking gelatin)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4330</number>
+<text>
+#combine(
+#1(cooking with asparagus)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1267</number>
+<text>
+#combine(
+#1(first day of class)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2194</number>
+<text>
+#combine(
+#1(electric fan)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query671</number>
+<text>
+#combine(
+sewing
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4332</number>
+<text>
+#combine(
+#1(marketing goats)
+buying
+or
+selling
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query936</number>
+<text>
+#combine(
+EXAMPLE
+_OFparts
+of
+plant
+botany
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2625</number>
+<text>
+#combine(
+#1(snacking at work)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1260</number>
+<text>
+#combine(
+Lent
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2260</number>
+<text>
+#combine(
+leprosy
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4326</number>
+<text>
+#combine(
+#1(planting eggplant)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4347</number>
+<text>
+#combine(
+#1(night swimming)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4119</number>
+<text>
+#combine(
+#1(cooking with pineapple)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4349</number>
+<text>
+#combine(
+#1(sardines with taro)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2704</number>
+<text>
+#combine(
+#1(jogging clothes)
 )
 </text>
 </query>

@@ -1,0 +1,300 @@
+query100	garlic,pepper:Lifestyle
+query1007	vital[syn:important],operation[syn:function]:Government-And-Politics
+query1021	world,crisis:Government-And-Politics
+query103	"Communist rebel":Government-And-Politics
+query1035	"snake design":Lifestyle
+query1037	"most venomous":Lifestyle
+query1047	"Christmas Eve":Lifestyle
+query1050	bootlicker+:Government-And-Politics
+query1052	"childrens' rights":Government-And-Politics
+query1068	jeepney,passenger:Government-And-Politics
+query1077	traffic+,Intramuros:Lifestyle
+query1078	boycott:Government-And-Politics
+query109	"drinking alcohol":Government-And-Politics
+query1105	Kalibo,"sex crime"+:Government-And-Politics
+query1106	Bacolod,"social media"+:Government-And-Politics
+query1108	Vigan,agriculture+:Government-And-Politics
+query1109	"victim's corpse":Government-And-Politics
+query1112	Tuguegarao,EXAMPLE_OF(animal):Government-And-Politics
+query1113	baptism,EXAMPLE_OF(vehicle):Lifestyle
+query1114	Surigao,church+:Lifestyle
+query1117	"black pepper",EXAMPLE_OF(animal):Lifestyle
+query1119	Samar,fisherman:Government-And-Politics
+query1122	"as cold as":Government-And-Politics
+query1123	yellow[evf:color],parade+:Lifestyle
+query1128	anomaly,bridge:Government-And-Politics
+query113	"water buffalo":Lifestyle
+query1130	shrimp,cooking+:Lifestyle
+query114	hospital,Manila:Government-And-Politics
+query1144	bible[evf:religion],story:Government-And-Politics
+query1150	workmanship:Government-And-Politics
+query1154	widow[syn:widower],earnings+:Lifestyle
+query1155	Aklan,"natural disaster"+:Government-And-Politics
+query1156	mermaid,"warning sign"+:Lifestyle
+query1158	Angeles,prostitution+:Government-And-Politics
+query1162	curtain:Lifestyle
+query117	"August 29"[hyp:date]:Lifestyle
+query1171	smoking,disease+:Lifestyle
+query1196	watermelon:Lifestyle
+query1205	ginger,"food preparation"+:Lifestyle
+query1206	garlic,"food preparation"+:Lifestyle
+query1208	Pampanga,food+:Lifestyle
+query1213	hair[evf:head],clothes+:Lifestyle
+query1217	Tabuk,irrigation+:Lifestyle
+query123	tax,speech[syn:oration]:Government-And-Politics
+query1237	Laoag,"severe heat":Government-And-Politics
+query1240	Mandaluyong,"real estate"+:Government-And-Politics
+query1241	terminology:Government-And-Politics
+query1242	Naga,transportation+:Lifestyle
+query1248	ridiculous,soul:Lifestyle
+query1252	corn[hyp:cereal],planting+:Lifestyle
+query1255	anchorage:Government-And-Politics
+query1260	Lent+:Lifestyle
+query1261	"puppet state":Government-And-Politics
+query1263	"as fast as lightning":Government-And-Politics
+query1267	"first day of class"+:Lifestyle
+query1272	"clean air":Lifestyle
+query1273	muddy,rain:Lifestyle
+query1274	Tagum,murder+:Government-And-Politics
+query1276	Butuan,challenge:Lifestyle
+query1278	"El Nido",tourism+:Government-And-Politics
+query1288	"responsible individual":Government-And-Politics
+query1292	person+,extraordinary:Lifestyle
+query1295	trusted,friend:Lifestyle
+query1301	transfer,title[evf:property]:Government-And-Politics
+query1302	prosecution+,examination[syn:inquiry]:Government-And-Politics
+query1303	"social security",contribution:Government-And-Politics
+query1311	deregularization,energy+:Government-And-Politics
+query1312	deregularization,education+:Government-And-Politics
+query1314	Cebu,"gun making"+:Lifestyle
+query1315	Cebu,graduation+:Lifestyle
+query1316	efficient:Government-And-Politics
+query1318	Ilocano,gunfire+:Government-And-Politics
+query1322	haircut,price+:Lifestyle
+query1329	Tondo,celebration+:Lifestyle
+query1330	cat,"leftover food":Lifestyle
+query1344	Pagsanjan,food+:Lifestyle
+query1345	"pencil with an eraser":Lifestyle
+query1346	"cheapest tuition":Lifestyle
+query1347	"ray of the sun":Lifestyle
+query137	"Maoist insurgency":Government-And-Politics
+query1371	"books for children":Government-And-Politics
+query1373	Chinese,governor:Government-And-Politics
+query1376	"full of charcoal":Lifestyle
+query1379	"my piano teacher":Lifestyle
+query1380	plastic,fork[hyp:utensil]:Lifestyle
+query1386	<crabs>:Lifestyle
+query1388	"stinky air":Lifestyle
+query139	Ilocano,butterfly:Government-And-Politics
+query1391	Paris,cave[syn:cavern]:Government-And-Politics
+query1395	playful:Lifestyle
+query1398	"sister Adela":Lifestyle
+query1414	"their own nation":Government-And-Politics
+query1416	fruit+[evf:plants],oval:Lifestyle
+query1428	advertisement+,newspaper:Government-And-Politics
+query1430	signature+,correspondent:Government-And-Politics
+query1431	magazine+,essay:Lifestyle
+query1440	lizard,ceiling:Lifestyle
+query1451	Bayombong,agriculture+:Government-And-Politics
+query1457	Pepsi,corruption+:Government-And-Politics
+query1459	election+,integrity:Government-And-Politics
+query1460	"peace talks"+,closure:Government-And-Politics
+query1463	principle:Lifestyle
+query1473	"pirated DVD":Government-And-Politics
+query1476	soldier+,cowardly:Government-And-Politics
+query1523	"travel to America":Government-And-Politics
+query1567	Youtube:Lifestyle
+query1574	Koronadal,construction+:Lifestyle
+query1577	Davao,"100 new teachers":Government-And-Politics
+query1579	"Spanish occupation"+:Government-And-Politics
+query158	liver,disease+:Lifestyle
+query1580	superstition:Lifestyle
+query1584	tilapia:Lifestyle
+query1591	roof:Lifestyle
+query1594	onion,smuggling+:Government-And-Politics
+query1603	scam,royalty+:Government-And-Politics
+query1618	beer:Lifestyle
+query1623	blanket,clothes:Lifestyle
+query1636	"wheel chair":Lifestyle
+query1661	situation[syn:circumstance],creator:Lifestyle
+query168	storm,damage+:Lifestyle
+query1682	mirror[syn:reflecting surface]:Lifestyle
+query1686	"I don't understand you":Lifestyle
+query1690	guard[syn:watchman],house:Lifestyle
+query1692	agent[syn:middleman]:Lifestyle
+query1715	"can you go now":Lifestyle
+query172	summer:Lifestyle
+query174	"I'm afraid",boycott:Government-And-Politics
+query1742	announce,"three days":Lifestyle
+query1753	Riyadh:Government-And-Politics
+query1757	controversial,question[syn:inquiry]:Lifestyle
+query1758	canal[hyp:waterway]:Lifestyle
+query1759	"youngest sister"[hyp:female]:Lifestyle
+query1772	"capital punishment":Government-And-Politics
+query1795	Romblon,ordinance+[syn:decree]:Lifestyle
+query1810	"land reform":Government-And-Politics
+query1833	seashore:Lifestyle
+query1834	rag[syn:wiping cloth]:Government-And-Politics
+query1839	octopus:Lifestyle
+query188	Chinese,fisherman:Government-And-Politics
+query1884	"provincial council",formal[syn:official]:Government-And-Politics
+query1895	mastermind[syn:planner],syndicate[syn:gang]:Government-And-Politics
+query1902	corruption,contractual:Government-And-Politics
+query1905	adventure:Lifestyle
+query1923	giggle[hyp:to laugh]:Government-And-Politics
+query1938	fork[hyp:utensil]:Lifestyle
+query1940	fireworks+,music:Government-And-Politics
+query1959	dictionary:Lifestyle
+query1963	culture[evf:arts and humanities],student:Government-And-Politics
+query2043	"Filipino literature":Lifestyle
+query2044	"bay leaf":Lifestyle
+query2047	peacock:Lifestyle
+query2049	math:Lifestyle
+query2078	shark:Lifestyle
+query2117	Chavacano:Lifestyle
+query2194	"electric fan"+:Lifestyle
+query2207	"livelihood assistance":Government-And-Politics
+query2216	systematization:Government-And-Politics
+query2260	leprosy+:Lifestyle
+query2292	Imelda:Government-And-Politics
+query2294	guava:Lifestyle
+query2557	<fed>:Lifestyle
+query2559	"Department of Health",<vaccinated>:Government-And-Politics
+query2625	"snacking at work"+:Lifestyle
+query2704	"jogging clothes"+:Lifestyle
+query306	Palawan,program:Government-And-Politics
+query307	"one hundred thousand pesos":Government-And-Politics
+query3102	"Java plum":Lifestyle
+query3107	paranoid:Government-And-Politics
+query312	Tagalog,election:Government-And-Politics
+query313	election,machine:Government-And-Politics
+query3221	EXAMPLE_OF(dairy products):Government-And-Politics
+query330	"uniformed police":Lifestyle
+query3302	"salty egg":Lifestyle
+query3306	napkin:Lifestyle
+query332	"Barangay Mangingisda":Lifestyle
+query3354	EXAMPLE_OF(crustacean):Government-And-Politics
+query3356	EXAMPLE_OF(amphibian):Government-And-Politics
+query336	"electricity shortage":Government-And-Politics
+query337	"oil <companies>":Government-And-Politics
+query338	"oil supply":Government-And-Politics
+query339	oil,mining+:Government-And-Politics
+query3408	"cocaine arrest"+:Government-And-Politics
+query341	rain,wind:Government-And-Politics
+query3422	"using condoms as balloons"+:Government-And-Politics
+query345	infrastructure,program:Government-And-Politics
+query355	crab:Government-And-Politics
+query357	"my <classmates>":Lifestyle
+query359	<buildings>:Government-And-Politics
+query3598	"<drank> coffee":Government-And-Politics
+query3613	"sardine food production"+:Government-And-Politics
+query363	"president's spokesperson":Government-And-Politics
+query366	elitist:Government-And-Politics
+query368	"wet by rain":Government-And-Politics
+query3753	"planting okra"+:Government-And-Politics
+query3818	"you're like a frog":Lifestyle
+query3821	"milking cows"+[evf:dairy]:Government-And-Politics
+query3865	"polio vaccination"+:Government-And-Politics
+query3891	EXAMPLE_OF(nonhuman primate):Government-And-Politics
+query3895	EXAMPLE_OF(camelid):Government-And-Politics
+query392	deployment:Government-And-Politics
+query3968	"Eunice Samonte":Government-And-Politics
+query3987	"ghost <projects>":Government-And-Politics
+query405	airplane,Japanese:Government-And-Politics
+query408	mermaid:Government-And-Politics
+query410	"salary increase",EXAMPLE_OF(medical professional):Lifestyle
+query4119	"cooking with pineapple"+:Lifestyle
+query414	"terrorist group":Government-And-Politics
+query416	salary,teacher:Lifestyle
+query4181	Tago[hyp:name]:Government-And-Politics
+query419	privatization,water:Government-And-Politics
+query422	"societal change":Lifestyle
+query427	music,dance:Lifestyle
+query4273	<advisers>:Government-And-Politics
+query4322	"sea turtle",fishing+:Government-And-Politics
+query4326	"planting eggplant"+:Lifestyle
+query4328	eggplant,"genetic engineering"+:Government-And-Politics
+query433	Cebu,interview:Government-And-Politics
+query4330	"cooking with asparagus"+:Lifestyle
+query4332	"marketing goats"+[evf:buying or selling]:Lifestyle
+query4335	"cooking gelatin"+:Lifestyle
+query434	"tourism industry":Government-And-Politics
+query4347	"night swimming"+:Lifestyle
+query4349	"sardines with taro"+:Lifestyle
+query435	"illegal mining":Government-And-Politics
+query4363	EXAMPLE_OF(aquatic mammal):Government-And-Politics
+query4365	firecracker,"factory fire"+:Government-And-Politics
+query4373	"poorest <families>":Government-And-Politics
+query439	vinegar:Lifestyle
+query441	money,church:Government-And-Politics
+query455	"national language":Lifestyle
+query460	information,drug:Government-And-Politics
+query461	"white shirt":Government-And-Politics
+query464	"election results":Government-And-Politics
+query471	"judicial system":Government-And-Politics
+query481	"recycle trash":Government-And-Politics
+query485	"cost of living allowance":Government-And-Politics
+query494	"martial law victim":Government-And-Politics
+query503	"many reasons":Government-And-Politics
+query509	"water supply",EXAMPLE_OF(project):Government-And-Politics
+query523	"until Sunday":Government-And-Politics
+query525	song:Lifestyle
+query527	Japanese,Spanish:Lifestyle
+query528	"security threat":Government-And-Politics
+query532	tweet:Lifestyle
+query533	"their blood":Government-And-Politics
+query540	Sulu:Government-And-Politics
+query557	"crab mentality":Lifestyle
+query559	"roast chicken":Lifestyle
+query560	"chicken feet":Lifestyle
+query561	"fighting cock":Lifestyle
+query569	vegetables,planting+:Lifestyle
+query573	"your neighbor":Lifestyle
+query585	"fake government official"+:Government-And-Politics
+query606	foil[hyp:sheet metal]:Lifestyle
+query614	"their income":Government-And-Politics
+query620	wall[evf:barrier]:Government-And-Politics
+query661	Duterte,friendship:Government-And-Politics
+query671	sewing+:Lifestyle
+query673	"sufficient evidence":Government-And-Politics
+query717	four[hyp:cardinal number],wheel:Lifestyle
+query736	"beef broth":Lifestyle
+query742	"war on drugs":Government-And-Politics
+query747	"police dog":Government-And-Politics
+query753	light[evf:weight]:Lifestyle
+query754	"ice cream":Lifestyle
+query756	"native language":Government-And-Politics
+query771	pomelo:Lifestyle
+query774	sole[evf:foot]:Lifestyle
+query779	bedbug:Government-And-Politics
+query781	"street children":Government-And-Politics
+query788	duty,teacher:Lifestyle
+query789	"no justice":Lifestyle
+query790	"very rich":Lifestyle
+query813	Lukban:Lifestyle
+query822	apple[hyp:fruit]:Lifestyle
+query825	"San Fernando","energy supply"+:Government-And-Politics
+query830	"former President's birthday":Government-And-Politics
+query834	"tall or short":Lifestyle
+query869	"enemy of the <rats>":Lifestyle
+query879	"cyber bully":Government-And-Politics
+query880	cyber,crime+:Government-And-Politics
+query881	"broken window":Government-And-Politics
+query894	Masbate,election:Government-And-Politics
+query904	fireman:Government-And-Politics
+query922	chair[hyp:furniture],book:Lifestyle
+query930	earring:Lifestyle
+query933	"they are not sadists":Government-And-Politics
+query936	EXAMPLE_OF(parts of plant)[evf:botany]:Lifestyle
+query938	cassava:Lifestyle
+query943	toothbrush:Lifestyle
+query945	monkey[hyp:animal]:Lifestyle
+query948	neck,tomorrow:Lifestyle
+query953	wood,root:Lifestyle
+query960	"light traffic":Lifestyle
+query961	"traffic light":Lifestyle
+query966	Christian,"die of hunger":Lifestyle
+query969	"cross the street":Lifestyle
+query971	dry,river:Lifestyle
+query990	"banana leaf":Lifestyle
+query991	adobo,beef:Lifestyle

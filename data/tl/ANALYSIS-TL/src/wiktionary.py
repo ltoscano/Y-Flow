@@ -79,7 +79,7 @@ with open(params.query) as f:
         qid = tokens[0]
         #did = tokens[-1]
         words = tokens[1:len(tokens)]
-        print(qid,did,words)
+        #print(qid,did,words)
         #input('here') 
         out.write("<query>\n")
         out.write("<type>indri</type>\n")
@@ -91,14 +91,14 @@ with open(params.query) as f:
                 out.write("#syn(\n")
                 r = 1
                 for t in dictionary[word]:
-                    if r> int(params.rank):
+                    if r > int(params.rank):
                         break
                     else:
                         out.write("{0}\n".format(t))
                         r= r+1
                 out.write(")\n")
             else:
-                out.write(word+'\n')
+                out.write(word.lower()+'\n')
         out.write(")\n")
         out.write("</text>\n")
         out.write("</query>\n")

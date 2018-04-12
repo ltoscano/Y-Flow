@@ -2,11 +2,11 @@
 	<code-build-date>Oct 19 2017</code-build-date>
 	<corpus>
 		<document-base>1</document-base>
-		<frequent-terms>25</frequent-terms>
+		<frequent-terms>19</frequent-terms>
 		<maximum-document>463</maximum-document>
 		<total-documents>462</total-documents>
-		<total-terms>273078</total-terms>
-		<unique-terms>26537</unique-terms>
+		<total-terms>209090</total-terms>
+		<unique-terms>21947</unique-terms>
 	</corpus>
 	<fields></fields>
 	<indri-distribution>Indri release 5.11</indri-distribution>

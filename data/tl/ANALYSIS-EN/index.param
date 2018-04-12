@@ -2,7 +2,7 @@
     <index>index/</index>
     <memory>10G</memory>
     <corpus>
-      <path>docs/</path>
-      <class>text</class>
+      <path>docs-trec/</path>
+      <class>trectext</class>
     </corpus>
 </parameters>

@@ -1,10 +1,20 @@
 import re
 
 g = open('./result/result.file','w')
+q=[]
+with open('../judg/rel.judg') as f:
+    for line in f.readlines():
+        tokens = line.rstrip().split(' ')
+        if 'query' not in tokens[0]:
+            continue
+        q.append(tokens[0]) 
+
 with open('./result/result.first') as f:
     for line in f.readlines():
         tokens = line.rstrip().split(' ')
         a =set()
+        if tokens[0] not in q:
+            continue
         if 'query' not in tokens[0]:
             continue
         

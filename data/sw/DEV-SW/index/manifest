@@ -1,0 +1,9 @@
+<parameters>
+	<indexCount>2</indexCount>
+	<indexes>
+		<index>1</index>
+	</indexes>
+	<injectURL>true</injectURL>
+	<normalize>true</normalize>
+</parameters>
+
