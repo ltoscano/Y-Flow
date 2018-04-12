@@ -2,11 +2,11 @@
 	<code-build-date>Mar 25 2018</code-build-date>
 	<corpus>
 		<document-base>1</document-base>
-		<frequent-terms>145</frequent-terms>
-		<maximum-document>949</maximum-document>
-		<total-documents>948</total-documents>
-		<total-terms>1121222</total-terms>
-		<unique-terms>28908</unique-terms>
+		<frequent-terms>23</frequent-terms>
+		<maximum-document>705</maximum-document>
+		<total-documents>704</total-documents>
+		<total-terms>280150</total-terms>
+		<unique-terms>27993</unique-terms>
 	</corpus>
 	<fields></fields>
 	<indri-distribution>Indri development release 2.12</indri-distribution>

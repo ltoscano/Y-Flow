@@ -1,551 +1,585 @@
-# EXCEPTION in query query2049: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+# EXCEPTION in query query879: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
 	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query485: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query1122: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query336: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query414: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query1414: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query109: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query1263: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query368: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query747: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+query1144 Q0 docs/MATERIAL_BASE-1B_83149459.txt 1 -5.96241 indri
+query1144 Q0 docs/MATERIAL_BASE-1B_42471934.txt 2 -6.07184 indri
+query1144 Q0 docs/MATERIAL_BASE-1B_61804613.txt 3 -6.20534 indri
+# EXCEPTION in query query461: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query1772: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+query540 Q0 docs/MATERIAL_BASE-1B_50760130.txt 1 -6.00693 indri
+query540 Q0 docs/MATERIAL_BASE-1B_75654412.txt 2 -7.86038 indri
+query540 Q0 docs/MATERIAL_BASE-1B_47368271.txt 3 -7.86773 indri
+# EXCEPTION in query query1261: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query756: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query881: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query830: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+query1884 Q0 docs/MATERIAL_BASE-1B_13896381.txt 1 -4.0009 indri
+query1963 Q0 docs/MATERIAL_BASE-1B_65458681.txt 1 -4.29381 indri
+query1963 Q0 docs/MATERIAL_BASE-1B_69399087.txt 2 -4.36367 indri
+query1963 Q0 docs/MATERIAL_BASE-1B_43690590.txt 3 -4.40987 indri
+query1963 Q0 docs/MATERIAL_BASE-1B_41766320.txt 4 -4.47602 indri
+query1963 Q0 docs/MATERIAL_BASE-1B_37121941.txt 5 -4.61945 indri
+query1963 Q0 docs/MATERIAL_BASE-1B_10498261.txt 6 -5.08417 indri
+query1963 Q0 docs/MATERIAL_BASE-1B_76246551.txt 7 -5.0863 indri
+query1963 Q0 docs/MATERIAL_BASE-1B_33106986.txt 8 -5.08686 indri
+query1963 Q0 docs/MATERIAL_BASE-1B_95607827.txt 9 -5.08865 indri
+query1963 Q0 docs/MATERIAL_BASE-1B_54358237.txt 10 -5.08889 indri
+query1963 Q0 docs/MATERIAL_BASE-1B_72697499.txt 11 -5.08975 indri
+query1963 Q0 docs/MATERIAL_BASE-1B_40443791.txt 12 -5.08986 indri
+query1963 Q0 docs/MATERIAL_BASE-1B_39055982.txt 13 -5.09039 indri
+query1963 Q0 docs/MATERIAL_BASE-1B_75359372.txt 14 -5.09068 indri
+query1963 Q0 docs/MATERIAL_BASE-1B_85502195.txt 15 -5.09136 indri
+query1963 Q0 docs/MATERIAL_BASE-1B_57726442.txt 16 -5.09164 indri
+query1963 Q0 docs/MATERIAL_BASE-1B_76125796.txt 17 -5.09234 indri
+query1963 Q0 docs/MATERIAL_BASE-1B_70961699.txt 18 -5.09273 indri
+query1963 Q0 docs/MATERIAL_BASE-1B_81314995.txt 19 -5.09338 indri
+query1963 Q0 docs/MATERIAL_BASE-1B_49067898.txt 20 -5.09343 indri
 # EXCEPTION in query query614: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
 	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-# EXCEPTION in query query1463: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+# EXCEPTION in query query464: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
 	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-query1021 Q0 docs/MATERIAL_BASE-1B_77524403.txt 1 -6.10263 indri
-query1021 Q0 docs/MATERIAL_BASE-1B_49265811.txt 2 -6.54612 indri
-query1021 Q0 docs/MATERIAL_BASE-1B_76714606.txt 3 -7.03174 indri
-query1021 Q0 docs/MATERIAL_BASE-1B_46278672.txt 4 -7.14072 indri
-query1021 Q0 docs/MATERIAL_BASE-1B_99028959.txt 5 -7.14183 indri
-query1021 Q0 docs/MATERIAL_BASE-1B_70960951.txt 6 -7.14331 indri
-query1021 Q0 docs/MATERIAL_BASE-1B_84072215.txt 7 -7.15249 indri
-query1021 Q0 docs/MATERIAL_BASE-1B_91082453.txt 8 -7.1663 indri
-query1021 Q0 docs/MATERIAL_BASE-1B_11107674.txt 9 -7.16702 indri
-query1021 Q0 docs/MATERIAL_BASE-1B_16263495.txt 10 -7.1951 indri
-query1021 Q0 docs/MATERIAL_BASE-1B_40664973.txt 11 -7.5708 indri
-query1021 Q0 docs/MATERIAL_BASE-1B_82280442.txt 12 -7.74898 indri
-query1021 Q0 docs/MATERIAL_BASE-1B_45192619.txt 13 -7.75313 indri
-query1021 Q0 docs/MATERIAL_BASE-1B_33227789.txt 14 -7.75426 indri
-query1021 Q0 docs/MATERIAL_BASE-1B_74404874.txt 15 -7.75989 indri
-query1021 Q0 docs/MATERIAL_BASE-1B_86662685.txt 16 -7.76585 indri
-query1021 Q0 docs/MATERIAL_BASE-1B_62252199.txt 17 -7.77474 indri
-query1021 Q0 docs/MATERIAL_BASE-1B_33328363.txt 18 -7.77695 indri
-query1021 Q0 docs/MATERIAL_BASE-1B_23401925.txt 19 -7.77915 indri
-query1021 Q0 docs/MATERIAL_BASE-1B_81326303.txt 20 -7.78171 indri
-# EXCEPTION in query query1591: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+# EXCEPTION in query query481: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
 	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-# EXCEPTION in query query172: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+# EXCEPTION in query query103: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
 	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-# EXCEPTION in query query439: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+query1007 Q0 docs/MATERIAL_BASE-1B_60437561.txt 1 -4.88067 indri
+query1007 Q0 docs/MATERIAL_BASE-1B_61804613.txt 2 -4.95499 indri
+query1007 Q0 docs/MATERIAL_BASE-1B_86283503.txt 3 -4.97211 indri
+query1007 Q0 docs/MATERIAL_BASE-1B_53251682.txt 4 -5.00604 indri
+query1007 Q0 docs/MATERIAL_BASE-1B_80580258.txt 5 -5.13011 indri
+query3598 Q0 docs/MATERIAL_BASE-1B_15011795.txt 1 -3.94122 indri
+# EXCEPTION in query query933: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
 	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-query620 Q0 docs/MATERIAL_BASE-1B_75654412.txt 1 -7.94957 indri
-query620 Q0 docs/MATERIAL_BASE-1B_63672095.txt 2 -8.09206 indri
-query1661 Q0 docs/MATERIAL_BASE-1B_50760130.txt 1 -3.41296 indri
-query1661 Q0 docs/MATERIAL_BASE-1B_50380880.txt 2 -3.97636 indri
-# EXCEPTION in query query1686: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+query1301 Q0 docs/MATERIAL_BASE-1B_26867299.txt 1 -3.96169 indri
+query1301 Q0 docs/MATERIAL_BASE-1B_51675365.txt 2 -4.02938 indri
+query1301 Q0 docs/MATERIAL_BASE-1B_97478014.txt 3 -4.1373 indri
+# EXCEPTION in query query781: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
 	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-query306 Q0 docs/MATERIAL_BASE-1B_44281380.txt 1 -6.11137 indri
-query306 Q0 docs/MATERIAL_BASE-1B_25685968.txt 2 -6.32165 indri
-query306 Q0 docs/MATERIAL_BASE-1B_27787690.txt 3 -6.70491 indri
-query306 Q0 docs/MATERIAL_BASE-1B_73029142.txt 4 -6.78387 indri
-query306 Q0 docs/MATERIAL_BASE-1B_24080215.txt 5 -6.79402 indri
-query306 Q0 docs/MATERIAL_BASE-1B_35463354.txt 6 -6.80442 indri
-query306 Q0 docs/MATERIAL_BASE-1B_71786526.txt 7 -7.16934 indri
-query306 Q0 docs/MATERIAL_BASE-1B_41163080.txt 8 -7.17189 indri
-query306 Q0 docs/MATERIAL_BASE-1B_62086301.txt 9 -7.19708 indri
-query306 Q0 docs/MATERIAL_BASE-1B_73029142.ctm 10 -7.41017 indri
-query306 Q0 docs/MATERIAL_BASE-1B_28234598.txt 11 -7.77306 indri
-query306 Q0 docs/MATERIAL_BASE-1B_26895088.txt 12 -7.78891 indri
-query306 Q0 docs/MATERIAL_BASE-1B_94438294.txt 13 -7.78965 indri
-query306 Q0 docs/MATERIAL_BASE-1B_15011795.txt 14 -7.78965 indri
-query306 Q0 docs/MATERIAL_BASE-1B_69163470.txt 15 -7.80634 indri
-query306 Q0 docs/MATERIAL_BASE-1B_29169210.txt 16 -7.84565 indri
-query306 Q0 docs/MATERIAL_BASE-1B_93612725.txt 17 -7.84847 indri
-query306 Q0 docs/MATERIAL_BASE-1B_61300274.txt 18 -7.8821 indri
-query306 Q0 docs/MATERIAL_BASE-1B_59524621.txt 19 -7.911 indri
-query306 Q0 docs/MATERIAL_BASE-1B_28234598.ctm 20 -8.16962 indri
-query509 Q0 docs/MATERIAL_BASE-1B_76324311.txt 1 -3.39435 indri
-query509 Q0 docs/MATERIAL_BASE-1B_60360715.txt 2 -3.5904 indri
-query509 Q0 docs/MATERIAL_BASE-1B_60360715.ctm 3 -3.82895 indri
-query509 Q0 docs/MATERIAL_BASE-1B_29169210.txt 4 -3.95938 indri
-query509 Q0 docs/MATERIAL_BASE-1B_90471383.txt 5 -3.96307 indri
-query509 Q0 docs/MATERIAL_BASE-1B_98800390.txt 6 -4.10945 indri
-query509 Q0 docs/MATERIAL_BASE-1B_84023202.txt 7 -4.12759 indri
-query509 Q0 docs/MATERIAL_BASE-1B_76586928.txt 8 -4.1913 indri
-query509 Q0 docs/MATERIAL_BASE-1B_84023202.ctm 9 -4.88972 indri
-# EXCEPTION in query query525: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
-	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-query742 Q0 docs/MATERIAL_BASE-1B_86086695.txt 1 -8.70517 indri
-query742 Q0 docs/MATERIAL_BASE-1B_78503581.txt 2 -8.75087 indri
-query742 Q0 docs/MATERIAL_BASE-1B_68775408.txt 3 -8.91414 indri
-query742 Q0 docs/MATERIAL_BASE-1B_62409080.txt 4 -9.39662 indri
-query742 Q0 docs/MATERIAL_BASE-1B_58160195.txt 5 -10.0091 indri
-query742 Q0 docs/MATERIAL_BASE-1B_82471744.txt 6 -10.0245 indri
-query742 Q0 docs/MATERIAL_BASE-1B_62061971.txt 7 -10.0429 indri
-query742 Q0 docs/MATERIAL_BASE-1B_87277933.txt 8 -10.0665 indri
-query742 Q0 docs/MATERIAL_BASE-1B_50380880.txt 9 -10.07 indri
-query742 Q0 docs/MATERIAL_BASE-1B_59831691.txt 10 -10.0712 indri
-query742 Q0 docs/MATERIAL_BASE-1B_86344128.txt 11 -10.1159 indri
-query742 Q0 docs/MATERIAL_BASE-1B_24799287.txt 12 -10.1835 indri
-query742 Q0 docs/MATERIAL_BASE-1B_28875158.txt 13 -10.1871 indri
-query742 Q0 docs/MATERIAL_BASE-1B_89337199.txt 14 -10.2333 indri
-query742 Q0 docs/MATERIAL_BASE-1B_36562597.txt 15 -10.2378 indri
-query742 Q0 docs/MATERIAL_BASE-1B_16353904.txt 16 -10.2927 indri
-query742 Q0 docs/MATERIAL_BASE-1B_98412571.txt 17 -10.2931 indri
-query742 Q0 docs/MATERIAL_BASE-1B_74404874.txt 18 -10.298 indri
-query742 Q0 docs/MATERIAL_BASE-1B_26687000.txt 19 -10.3017 indri
-query742 Q0 docs/MATERIAL_BASE-1B_89625370.txt 20 -10.311 indri
-query1068 Q0 docs/MATERIAL_BASE-1B_64367455.txt 1 -7.26289 indri
-query1068 Q0 docs/MATERIAL_BASE-1B_58715142.txt 2 -7.99885 indri
-query1068 Q0 docs/MATERIAL_BASE-1B_84840037.txt 3 -8.09193 indri
-query1068 Q0 docs/MATERIAL_BASE-1B_20948277.txt 4 -8.09554 indri
-query1068 Q0 docs/MATERIAL_BASE-1B_37171531.txt 5 -8.10183 indri
-query1068 Q0 docs/MATERIAL_BASE-1B_37171531.ctm 6 -9.3486 indri
-query1206 Q0 docs/MATERIAL_BASE-1B_51675365.txt 1 -4.04036 indri
-query1206 Q0 docs/MATERIAL_BASE-1B_83149459.txt 2 -4.04098 indri
-# EXCEPTION in query query1316: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
-	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-query1759 Q0 docs/MATERIAL_BASE-1B_41707850.txt 1 -2.76859 indri
-query1759 Q0 docs/MATERIAL_BASE-1B_15379322.txt 2 -2.81959 indri
-query1759 Q0 docs/MATERIAL_BASE-1B_18665531.txt 3 -2.9913 indri
-query1759 Q0 docs/MATERIAL_BASE-1B_98800390.txt 4 -3.05453 indri
-query1759 Q0 docs/MATERIAL_BASE-1B_11855765.txt 5 -3.1199 indri
-query1759 Q0 docs/MATERIAL_BASE-1B_89337199.txt 6 -3.12873 indri
-query1759 Q0 docs/MATERIAL_BASE-1B_65606642.txt 7 -3.23764 indri
-query1759 Q0 docs/MATERIAL_BASE-1B_35779438.txt 8 -3.24446 indri
-query1759 Q0 docs/MATERIAL_BASE-1B_51675365.txt 9 -3.2921 indri
-query1759 Q0 docs/MATERIAL_BASE-1B_56851750.txt 10 -3.32981 indri
-query1759 Q0 docs/MATERIAL_BASE-1B_32192180.txt 11 -3.34035 indri
-query1759 Q0 docs/MATERIAL_BASE-1B_60437561.txt 12 -3.3556 indri
-query1759 Q0 docs/MATERIAL_BASE-1B_15975421.txt 13 -3.35742 indri
-query1759 Q0 docs/MATERIAL_BASE-1B_95645459.txt 14 -3.38394 indri
-query1759 Q0 docs/MATERIAL_BASE-1B_59566043.txt 15 -3.43961 indri
-query1759 Q0 docs/MATERIAL_BASE-1B_44959561.txt 16 -3.44446 indri
-query1759 Q0 docs/MATERIAL_BASE-1B_67423110.txt 17 -3.49589 indri
-query1759 Q0 docs/MATERIAL_BASE-1B_58160195.txt 18 -3.49608 indri
-query1759 Q0 docs/MATERIAL_BASE-1B_56627276.txt 19 -3.50523 indri
-query1759 Q0 docs/MATERIAL_BASE-1B_53942134.txt 20 -3.50614 indri
-# EXCEPTION in query query1833: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
-	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-query1884 Q0 docs/MATERIAL_BASE-1B_13896381.txt 1 -6.20877 indri
-query1884 Q0 docs/MATERIAL_BASE-1B_27580030.txt 2 -6.77219 indri
-query1884 Q0 docs/MATERIAL_BASE-1B_96449393.txt 3 -6.83512 indri
-query1884 Q0 docs/MATERIAL_BASE-1B_96946862.txt 4 -6.84939 indri
-query1884 Q0 docs/MATERIAL_BASE-1B_57441219.txt 5 -6.84963 indri
-query1884 Q0 docs/MATERIAL_BASE-1B_43871471.txt 6 -6.85416 indri
-query1884 Q0 docs/MATERIAL_BASE-1B_13896381.ctm 7 -6.86002 indri
-query1884 Q0 docs/MATERIAL_BASE-1B_25685968.txt 8 -6.86266 indri
-query1884 Q0 docs/MATERIAL_BASE-1B_33788296.txt 9 -6.86454 indri
-query1884 Q0 docs/MATERIAL_BASE-1B_13187528.txt 10 -7.03268 indri
-query1884 Q0 docs/MATERIAL_BASE-1B_38669720.txt 11 -7.03445 indri
-query1884 Q0 docs/MATERIAL_BASE-1B_70783835.txt 12 -7.04246 indri
-query1884 Q0 docs/MATERIAL_BASE-1B_79509236.txt 13 -7.04246 indri
-query1884 Q0 docs/MATERIAL_BASE-1B_61236815.txt 14 -7.04742 indri
-query1884 Q0 docs/MATERIAL_BASE-1B_24080215.txt 15 -7.0657 indri
-query1884 Q0 docs/MATERIAL_BASE-1B_35463354.txt 16 -7.07264 indri
-query1884 Q0 docs/MATERIAL_BASE-1B_15889837.txt 17 -7.08044 indri
-query1884 Q0 docs/MATERIAL_BASE-1B_35255156.txt 18 -7.08303 indri
-query1884 Q0 docs/MATERIAL_BASE-1B_19843671.txt 19 -7.0849 indri
-query1884 Q0 docs/MATERIAL_BASE-1B_33773809.txt 20 -7.09048 indri
-query1963 Q0 docs/MATERIAL_BASE-1B_65458681.txt 1 -5.78597 indri
-query1963 Q0 docs/MATERIAL_BASE-1B_69399087.txt 2 -5.99892 indri
-query1963 Q0 docs/MATERIAL_BASE-1B_41766320.txt 3 -6.0435 indri
-query1963 Q0 docs/MATERIAL_BASE-1B_43690590.txt 4 -6.0456 indri
-query1963 Q0 docs/MATERIAL_BASE-1B_37121941.txt 5 -6.18448 indri
-query1963 Q0 docs/MATERIAL_BASE-1B_69399087.ctm 6 -6.81276 indri
-query1963 Q0 docs/MATERIAL_BASE-1B_43690590.ctm 7 -7.00734 indri
-query1963 Q0 docs/MATERIAL_BASE-1B_56240280.txt 8 -7.09603 indri
-query1963 Q0 docs/MATERIAL_BASE-1B_91542165.txt 9 -7.09938 indri
-query1963 Q0 docs/MATERIAL_BASE-1B_33788296.txt 10 -7.10573 indri
-query1963 Q0 docs/MATERIAL_BASE-1B_18249204.txt 11 -7.11306 indri
-query1963 Q0 docs/MATERIAL_BASE-1B_89535406.txt 12 -7.11311 indri
-query1963 Q0 docs/MATERIAL_BASE-1B_31019902.txt 13 -7.1142 indri
-query1963 Q0 docs/MATERIAL_BASE-1B_81174356.txt 14 -7.11429 indri
-query1963 Q0 docs/MATERIAL_BASE-1B_43871471.txt 15 -7.11636 indri
-query1963 Q0 docs/MATERIAL_BASE-1B_23577621.txt 16 -7.11657 indri
-query1963 Q0 docs/MATERIAL_BASE-1B_37086983.txt 17 -7.11887 indri
-query1963 Q0 docs/MATERIAL_BASE-1B_31922351.txt 18 -7.12025 indri
-query1963 Q0 docs/MATERIAL_BASE-1B_51730993.txt 19 -7.12359 indri
-query1963 Q0 docs/MATERIAL_BASE-1B_77425728.txt 20 -7.12417 indri
-# EXCEPTION in query query2557: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
-	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-# EXCEPTION in query query359: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
-	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-# EXCEPTION in query query392: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
-	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-# EXCEPTION in query query4273: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
-	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-query4373 Q0 docs/MATERIAL_BASE-1B_56851750.txt 1 -7.90616 indri
-query441 Q0 docs/MATERIAL_BASE-1B_43085716.txt 1 -8.02759 indri
-query441 Q0 docs/MATERIAL_BASE-1B_69171042.txt 2 -8.09814 indri
-# EXCEPTION in query query532: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
-	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-query754 Q0 docs/MATERIAL_BASE-1B_66001079.txt 1 -6.86999 indri
-query754 Q0 docs/MATERIAL_BASE-1B_60809726.txt 2 -7.25059 indri
-query754 Q0 docs/MATERIAL_BASE-1B_12648919.txt 3 -7.89986 indri
-query754 Q0 docs/MATERIAL_BASE-1B_83954674.txt 4 -7.9024 indri
-query754 Q0 docs/MATERIAL_BASE-1B_12648919.ctm 5 -8.5203 indri
-# EXCEPTION in query query904: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
-	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-query991 Q0 docs/MATERIAL_BASE-1B_33741952.txt 1 -8.02856 indri
-query991 Q0 docs/MATERIAL_BASE-1B_33741952.ctm 2 -9.07133 indri
-query1007 Q0 docs/MATERIAL_BASE-1B_60437561.txt 1 -6.97426 indri
-query1007 Q0 docs/MATERIAL_BASE-1B_61804613.txt 2 -7.07336 indri
-query1007 Q0 docs/MATERIAL_BASE-1B_86283503.txt 3 -7.09835 indri
-query1007 Q0 docs/MATERIAL_BASE-1B_53251682.txt 4 -7.14359 indri
-query1007 Q0 docs/MATERIAL_BASE-1B_80580258.txt 5 -7.30902 indri
-query109 Q0 docs/MATERIAL_BASE-1B_98800390.txt 1 -7.14664 indri
-# EXCEPTION in query query1109: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
-	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-query1119 Q0 docs/MATERIAL_BASE-1B_49204943.txt 1 -7.1111 indri
-query1119 Q0 docs/MATERIAL_BASE-1B_20948277.txt 2 -7.40349 indri
-query1119 Q0 docs/MATERIAL_BASE-1B_55336751.txt 3 -7.60337 indri
-query1119 Q0 docs/MATERIAL_BASE-1B_46434233.txt 4 -7.8776 indri
-query1119 Q0 docs/MATERIAL_BASE-1B_91444016.txt 5 -7.91058 indri
-query1119 Q0 docs/MATERIAL_BASE-1B_83204535.txt 6 -7.99334 indri
-query1119 Q0 docs/MATERIAL_BASE-1B_15121523.txt 7 -8.01123 indri
-query1119 Q0 docs/MATERIAL_BASE-1B_46434233.ctm 8 -8.45071 indri
-query1119 Q0 docs/MATERIAL_BASE-1B_71780254.txt 9 -9.37709 indri
-query1158 Q0 docs/MATERIAL_BASE-1B_74883910.txt 1 -6.8227 indri
-query1158 Q0 docs/MATERIAL_BASE-1B_47914291.txt 2 -7.2259 indri
-query1158 Q0 docs/MATERIAL_BASE-1B_26687000.txt 3 -7.86649 indri
-query1158 Q0 docs/MATERIAL_BASE-1B_61366296.txt 4 -7.88641 indri
-query1158 Q0 docs/MATERIAL_BASE-1B_11107674.txt 5 -7.89947 indri
-query1158 Q0 docs/MATERIAL_BASE-1B_98588820.txt 6 -7.90415 indri
-query1158 Q0 docs/MATERIAL_BASE-1B_79422425.txt 7 -7.90666 indri
-query1158 Q0 docs/MATERIAL_BASE-1B_95807426.txt 8 -7.92158 indri
-query1158 Q0 docs/MATERIAL_BASE-1B_97200695.txt 9 -7.93384 indri
-query1158 Q0 docs/MATERIAL_BASE-1B_28613690.txt 10 -7.97178 indri
-query117 Q0 docs/MATERIAL_BASE-1B_88711498.ctm 1 -2.91462 indri
-query117 Q0 docs/MATERIAL_BASE-1B_57083216.ctm 2 -2.93631 indri
-query117 Q0 docs/MATERIAL_BASE-1B_29931423.ctm 3 -2.94924 indri
-query117 Q0 docs/MATERIAL_BASE-1B_52074963.ctm 4 -3.01297 indri
-query117 Q0 docs/MATERIAL_BASE-1B_58098085.ctm 5 -3.01297 indri
-query117 Q0 docs/MATERIAL_BASE-1B_71626988.ctm 6 -3.05332 indri
-query117 Q0 docs/MATERIAL_BASE-1B_50222894.ctm 7 -3.06493 indri
-query117 Q0 docs/MATERIAL_BASE-1B_19968830.ctm 8 -3.07406 indri
-query117 Q0 docs/MATERIAL_BASE-1B_42130002.ctm 9 -3.08334 indri
-query117 Q0 docs/MATERIAL_BASE-1B_30435640.ctm 10 -3.09276 indri
-query117 Q0 docs/MATERIAL_BASE-1B_22174680.ctm 11 -3.10262 indri
-query117 Q0 docs/MATERIAL_BASE-1B_18358631.ctm 12 -3.10323 indri
-query117 Q0 docs/MATERIAL_BASE-1B_84909406.ctm 13 -3.1119 indri
-query117 Q0 docs/MATERIAL_BASE-1B_38604907.ctm 14 -3.11447 indri
-query117 Q0 docs/MATERIAL_BASE-1B_85502195.ctm 15 -3.11528 indri
-query117 Q0 docs/MATERIAL_BASE-1B_34124288.ctm 16 -3.12263 indri
-query117 Q0 docs/MATERIAL_BASE-1B_10534262.ctm 17 -3.12535 indri
-query117 Q0 docs/MATERIAL_BASE-1B_37223970.ctm 18 -3.12578 indri
-query117 Q0 docs/MATERIAL_BASE-1B_83399509.ctm 19 -3.12645 indri
-query117 Q0 docs/MATERIAL_BASE-1B_98517591.ctm 20 -3.1278 indri
-query1208 Q0 docs/MATERIAL_BASE-1B_76802374.txt 1 -6.41139 indri
-query1208 Q0 docs/MATERIAL_BASE-1B_39227060.txt 2 -7.44875 indri
-query1208 Q0 docs/MATERIAL_BASE-1B_76802374.ctm 3 -7.46029 indri
-query1208 Q0 docs/MATERIAL_BASE-1B_16139994.txt 4 -7.80113 indri
-query1208 Q0 docs/MATERIAL_BASE-1B_91677563.txt 5 -7.8688 indri
-query1208 Q0 docs/MATERIAL_BASE-1B_24890601.txt 6 -7.87457 indri
-query1208 Q0 docs/MATERIAL_BASE-1B_30703638.txt 7 -7.89837 indri
-query1208 Q0 docs/MATERIAL_BASE-1B_16139994.ctm 8 -8.07958 indri
-query1208 Q0 docs/MATERIAL_BASE-1B_92064232.txt 9 -8.20103 indri
-query1208 Q0 docs/MATERIAL_BASE-1B_65879136.txt 10 -8.23143 indri
-query1208 Q0 docs/MATERIAL_BASE-1B_55336751.txt 11 -8.25455 indri
-query1208 Q0 docs/MATERIAL_BASE-1B_91677563.ctm 12 -8.53148 indri
-query1208 Q0 docs/MATERIAL_BASE-1B_30703638.ctm 13 -8.68542 indri
-query1208 Q0 docs/MATERIAL_BASE-1B_39227060.ctm 14 -8.80087 indri
-query1208 Q0 docs/MATERIAL_BASE-1B_92064232.ctm 15 -9.68966 indri
-query1208 Q0 docs/MATERIAL_BASE-1B_65879136.ctm 16 -9.75803 indri
-query1213 Q0 docs/MATERIAL_BASE-1B_96946862.txt 1 -3.21619 indri
-query1213 Q0 docs/MATERIAL_BASE-1B_83559767.txt 2 -3.25618 indri
-query1213 Q0 docs/MATERIAL_BASE-1B_87277933.txt 3 -3.35641 indri
-query1213 Q0 docs/MATERIAL_BASE-1B_71921415.txt 4 -3.37357 indri
-query1213 Q0 docs/MATERIAL_BASE-1B_27580030.txt 5 -3.38292 indri
-query1213 Q0 docs/MATERIAL_BASE-1B_76834563.txt 6 -3.41899 indri
-query1213 Q0 docs/MATERIAL_BASE-1B_51153949.txt 7 -3.48934 indri
-query1213 Q0 docs/MATERIAL_BASE-1B_70594306.txt 8 -3.50704 indri
-query1213 Q0 docs/MATERIAL_BASE-1B_24080215.txt 9 -3.50939 indri
-query1213 Q0 docs/MATERIAL_BASE-1B_57441219.txt 10 -3.51191 indri
-query1213 Q0 docs/MATERIAL_BASE-1B_79875535.txt 11 -3.51405 indri
-query1213 Q0 docs/MATERIAL_BASE-1B_28460855.txt 12 -3.51512 indri
-query1213 Q0 docs/MATERIAL_BASE-1B_25272947.txt 13 -3.51566 indri
-query1213 Q0 docs/MATERIAL_BASE-1B_62086301.txt 14 -3.51673 indri
-query1213 Q0 docs/MATERIAL_BASE-1B_97478014.txt 15 -3.52676 indri
-query1213 Q0 docs/MATERIAL_BASE-1B_72931723.txt 16 -3.55155 indri
-query1213 Q0 docs/MATERIAL_BASE-1B_95645459.txt 17 -3.55387 indri
-query1213 Q0 docs/MATERIAL_BASE-1B_33278142.txt 18 -3.55765 indri
-query1213 Q0 docs/MATERIAL_BASE-1B_71736144.txt 19 -3.58256 indri
-query1213 Q0 docs/MATERIAL_BASE-1B_73682791.txt 20 -3.58628 indri
-query1242 Q0 docs/MATERIAL_BASE-1B_76586928.txt 1 -7.71579 indri
-query1274 Q0 docs/MATERIAL_BASE-1B_71294921.txt 1 -6.81447 indri
-query1274 Q0 docs/MATERIAL_BASE-1B_38669720.txt 2 -7.18099 indri
-query1274 Q0 docs/MATERIAL_BASE-1B_19313579.txt 3 -7.90534 indri
-query1276 Q0 docs/MATERIAL_BASE-1B_26075322.txt 1 -6.82782 indri
-query1276 Q0 docs/MATERIAL_BASE-1B_43085716.txt 2 -7.33001 indri
-query1276 Q0 docs/MATERIAL_BASE-1B_58816171.txt 3 -7.94856 indri
-query1276 Q0 docs/MATERIAL_BASE-1B_71780254.txt 4 -8.70363 indri
-query1315 Q0 docs/MATERIAL_BASE-1B_72907927.txt 1 -7.19285 indri
-query1315 Q0 docs/MATERIAL_BASE-1B_50380880.txt 2 -7.24643 indri
-query1315 Q0 docs/MATERIAL_BASE-1B_63817024.txt 3 -7.27928 indri
-query1315 Q0 docs/MATERIAL_BASE-1B_72907927.ctm 4 -7.77655 indri
-query1315 Q0 docs/MATERIAL_BASE-1B_77419265.txt 5 -7.83292 indri
-query1315 Q0 docs/MATERIAL_BASE-1B_32624825.txt 6 -7.85089 indri
-query1315 Q0 docs/MATERIAL_BASE-1B_55950412.txt 7 -7.87474 indri
-query1315 Q0 docs/MATERIAL_BASE-1B_93612725.txt 8 -7.90226 indri
-query1315 Q0 docs/MATERIAL_BASE-1B_47368271.txt 9 -7.91348 indri
-query1315 Q0 docs/MATERIAL_BASE-1B_34049737.txt 10 -7.92974 indri
-query1315 Q0 docs/MATERIAL_BASE-1B_81452917.txt 11 -7.94641 indri
-query1315 Q0 docs/MATERIAL_BASE-1B_96906386.txt 12 -8.00504 indri
-query1315 Q0 docs/MATERIAL_BASE-1B_17151302.txt 13 -8.03513 indri
-query1315 Q0 docs/MATERIAL_BASE-1B_55336751.txt 14 -8.26302 indri
-query1315 Q0 docs/MATERIAL_BASE-1B_32624825.ctm 15 -8.38025 indri
-query1315 Q0 docs/MATERIAL_BASE-1B_55950412.ctm 16 -8.5255 indri
-query1315 Q0 docs/MATERIAL_BASE-1B_34049737.ctm 17 -8.80792 indri
-query1315 Q0 docs/MATERIAL_BASE-1B_17151302.ctm 18 -9.21115 indri
-query1330 Q0 docs/MATERIAL_BASE-1B_78021507.txt 1 -3.97537 indri
-query1345 Q0 docs/MATERIAL_BASE-1B_86307440.txt 1 -3.82623 indri
-query1345 Q0 docs/MATERIAL_BASE-1B_89337199.txt 2 -3.86958 indri
-query1345 Q0 docs/MATERIAL_BASE-1B_71780254.txt 3 -3.96252 indri
-query1345 Q0 docs/MATERIAL_BASE-1B_68775408.txt 4 -3.99415 indri
-query1345 Q0 docs/MATERIAL_BASE-1B_62184528.txt 5 -3.99753 indri
-query1345 Q0 docs/MATERIAL_BASE-1B_65606642.txt 6 -4.00824 indri
-query1345 Q0 docs/MATERIAL_BASE-1B_23401925.txt 7 -4.01556 indri
-query1345 Q0 docs/MATERIAL_BASE-1B_15975421.txt 8 -4.03564 indri
-query1345 Q0 docs/MATERIAL_BASE-1B_98544736.txt 9 -4.08064 indri
-query1345 Q0 docs/MATERIAL_BASE-1B_98465518.txt 10 -4.08828 indri
-query1345 Q0 docs/MATERIAL_BASE-1B_95645459.txt 11 -4.10242 indri
-query1345 Q0 docs/MATERIAL_BASE-1B_31019902.txt 12 -5.06247 indri
-query1345 Q0 docs/MATERIAL_BASE-1B_29995091.txt 13 -5.06562 indri
-query1345 Q0 docs/MATERIAL_BASE-1B_20948277.txt 14 -5.085 indri
-query1345 Q0 docs/MATERIAL_BASE-1B_89535406.txt 15 -5.08798 indri
-query1345 Q0 docs/MATERIAL_BASE-1B_19442477.txt 16 -5.09437 indri
-query1345 Q0 docs/MATERIAL_BASE-1B_36562597.txt 17 -5.09867 indri
-query1345 Q0 docs/MATERIAL_BASE-1B_84840037.txt 18 -5.09881 indri
-query1345 Q0 docs/MATERIAL_BASE-1B_56240280.txt 19 -5.09934 indri
-query1345 Q0 docs/MATERIAL_BASE-1B_23577621.txt 20 -5.10266 indri
-query139 Q0 docs/MATERIAL_BASE-1B_83771555.txt 1 -8.21305 indri
-# EXCEPTION in query query1584: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
-	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-# EXCEPTION in query query1618: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
-	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-query1690 Q0 docs/MATERIAL_BASE-1B_33831595.txt 1 -3.64386 indri
-query1690 Q0 docs/MATERIAL_BASE-1B_55393037.txt 2 -3.92035 indri
-query1690 Q0 docs/MATERIAL_BASE-1B_17151302.txt 3 -4.03487 indri
-query1690 Q0 docs/MATERIAL_BASE-1B_55393037.ctm 4 -4.04962 indri
-query1690 Q0 docs/MATERIAL_BASE-1B_17151302.ctm 5 -4.62287 indri
-query1715 Q0 docs/MATERIAL_BASE-1B_31807249.txt 1 -2.37914 indri
-query1715 Q0 docs/MATERIAL_BASE-1B_79135336.txt 2 -2.38996 indri
-query1715 Q0 docs/MATERIAL_BASE-1B_97073489.txt 3 -2.39373 indri
-query1715 Q0 docs/MATERIAL_BASE-1B_96940192.txt 4 -2.40783 indri
-query1715 Q0 docs/MATERIAL_BASE-1B_95645459.txt 5 -2.42556 indri
-query1715 Q0 docs/MATERIAL_BASE-1B_80580258.txt 6 -2.50684 indri
-query1715 Q0 docs/MATERIAL_BASE-1B_13701212.txt 7 -2.58357 indri
-query1715 Q0 docs/MATERIAL_BASE-1B_88201676.txt 8 -2.59274 indri
-query1715 Q0 docs/MATERIAL_BASE-1B_41143081.txt 9 -2.60463 indri
-query1715 Q0 docs/MATERIAL_BASE-1B_56974062.txt 10 -2.60878 indri
-query1715 Q0 docs/MATERIAL_BASE-1B_28852638.txt 11 -2.61527 indri
-query1715 Q0 docs/MATERIAL_BASE-1B_13241653.txt 12 -2.61551 indri
-query1715 Q0 docs/MATERIAL_BASE-1B_78146903.txt 13 -2.61587 indri
-query1715 Q0 docs/MATERIAL_BASE-1B_96523381.txt 14 -2.6193 indri
-query1715 Q0 docs/MATERIAL_BASE-1B_24356310.txt 15 -2.62385 indri
-query1715 Q0 docs/MATERIAL_BASE-1B_76024314.txt 16 -2.62858 indri
-query1715 Q0 docs/MATERIAL_BASE-1B_41707850.txt 17 -2.62892 indri
-query1715 Q0 docs/MATERIAL_BASE-1B_78503581.txt 18 -2.63063 indri
-query1715 Q0 docs/MATERIAL_BASE-1B_33831595.txt 19 -2.63199 indri
-query1715 Q0 docs/MATERIAL_BASE-1B_81452917.txt 20 -2.63425 indri
-query188 Q0 docs/MATERIAL_BASE-1B_23401925.txt 1 -7.90392 indri
-query188 Q0 docs/MATERIAL_BASE-1B_98465518.txt 2 -7.92246 indri
-query188 Q0 docs/MATERIAL_BASE-1B_55835270.txt 3 -7.93534 indri
-# EXCEPTION in query query1905: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
-	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-query1940 Q0 docs/MATERIAL_BASE-1B_32921177.txt 1 -7.92071 indri
-query1940 Q0 docs/MATERIAL_BASE-1B_91704019.txt 2 -7.94146 indri
-# EXCEPTION in query query2047: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
-	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-# EXCEPTION in query query2294: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
-	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-query307 Q0 docs/MATERIAL_BASE-1B_62061971.txt 1 -2.40715 indri
-query307 Q0 docs/MATERIAL_BASE-1B_86307440.txt 2 -2.41678 indri
-query307 Q0 docs/MATERIAL_BASE-1B_65606642.txt 3 -2.42035 indri
-query307 Q0 docs/MATERIAL_BASE-1B_41707850.txt 4 -2.42104 indri
-query307 Q0 docs/MATERIAL_BASE-1B_46497012.txt 5 -2.46457 indri
-query307 Q0 docs/MATERIAL_BASE-1B_98412571.txt 6 -2.61428 indri
-query307 Q0 docs/MATERIAL_BASE-1B_27725253.txt 7 -2.61603 indri
-query307 Q0 docs/MATERIAL_BASE-1B_58168812.txt 8 -2.62681 indri
-query307 Q0 docs/MATERIAL_BASE-1B_98544736.txt 9 -2.62934 indri
-query307 Q0 docs/MATERIAL_BASE-1B_50380880.txt 10 -2.64006 indri
-query307 Q0 docs/MATERIAL_BASE-1B_12044041.txt 11 -2.64318 indri
-query307 Q0 docs/MATERIAL_BASE-1B_18665531.txt 12 -2.65067 indri
-query307 Q0 docs/MATERIAL_BASE-1B_73682791.txt 13 -2.67928 indri
-query307 Q0 docs/MATERIAL_BASE-1B_89337199.txt 14 -2.69449 indri
-query307 Q0 docs/MATERIAL_BASE-1B_15975421.txt 15 -2.72406 indri
-query312 Q0 docs/MATERIAL_BASE-1B_56959209.txt 1 -7.2812 indri
-query312 Q0 docs/MATERIAL_BASE-1B_27787690.txt 2 -7.4035 indri
-query312 Q0 docs/MATERIAL_BASE-1B_38669720.txt 3 -7.83931 indri
-query312 Q0 docs/MATERIAL_BASE-1B_94438294.txt 4 -7.84984 indri
-query312 Q0 docs/MATERIAL_BASE-1B_98588820.txt 5 -7.89123 indri
-query312 Q0 docs/MATERIAL_BASE-1B_21656279.txt 6 -7.93201 indri
-query312 Q0 docs/MATERIAL_BASE-1B_81452917.txt 7 -7.9528 indri
-query312 Q0 docs/MATERIAL_BASE-1B_34373657.txt 8 -7.97152 indri
-query312 Q0 docs/MATERIAL_BASE-1B_55940285.txt 9 -7.98566 indri
-query312 Q0 docs/MATERIAL_BASE-1B_89337199.txt 10 -8.08562 indri
-query312 Q0 docs/MATERIAL_BASE-1B_68775408.txt 11 -8.10522 indri
-query312 Q0 docs/MATERIAL_BASE-1B_67049535.txt 12 -8.12359 indri
-query312 Q0 docs/MATERIAL_BASE-1B_15975421.txt 13 -8.17433 indri
-query312 Q0 docs/MATERIAL_BASE-1B_92064232.txt 14 -8.21589 indri
-query312 Q0 docs/MATERIAL_BASE-1B_94438294.ctm 15 -8.34423 indri
-query312 Q0 docs/MATERIAL_BASE-1B_67049535.ctm 16 -9.46122 indri
-query312 Q0 docs/MATERIAL_BASE-1B_92064232.ctm 17 -9.70452 indri
-query357 Q0 docs/MATERIAL_BASE-1B_54050026.txt 1 -6.12039 indri
-query357 Q0 docs/MATERIAL_BASE-1B_37334092.txt 2 -6.20089 indri
-query357 Q0 docs/MATERIAL_BASE-1B_86599582.txt 3 -6.27869 indri
-query357 Q0 docs/MATERIAL_BASE-1B_73985977.txt 4 -6.50771 indri
-query357 Q0 docs/MATERIAL_BASE-1B_65606642.txt 5 -6.52573 indri
-query357 Q0 docs/MATERIAL_BASE-1B_68775408.txt 6 -6.69619 indri
-query357 Q0 docs/MATERIAL_BASE-1B_59831691.txt 7 -6.70081 indri
-query357 Q0 docs/MATERIAL_BASE-1B_86662685.txt 8 -6.71393 indri
-query357 Q0 docs/MATERIAL_BASE-1B_20913977.txt 9 -6.759 indri
-query357 Q0 docs/MATERIAL_BASE-1B_60437561.txt 10 -6.77661 indri
-query357 Q0 docs/MATERIAL_BASE-1B_12044041.txt 11 -6.78979 indri
-query357 Q0 docs/MATERIAL_BASE-1B_41707850.txt 12 -6.79495 indri
-query357 Q0 docs/MATERIAL_BASE-1B_31192255.txt 13 -6.81766 indri
-query357 Q0 docs/MATERIAL_BASE-1B_89337199.txt 14 -6.94375 indri
-query357 Q0 docs/MATERIAL_BASE-1B_15975421.txt 15 -7.03246 indri
-query357 Q0 docs/MATERIAL_BASE-1B_56122527.txt 16 -7.0925 indri
-query357 Q0 docs/MATERIAL_BASE-1B_97073489.txt 17 -7.10345 indri
-query357 Q0 docs/MATERIAL_BASE-1B_98544736.txt 18 -7.11392 indri
-query357 Q0 docs/MATERIAL_BASE-1B_62061971.txt 19 -7.11894 indri
-query357 Q0 docs/MATERIAL_BASE-1B_41474047.txt 20 -7.1296 indri
-# EXCEPTION in query query366: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
-	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-query433 Q0 docs/MATERIAL_BASE-1B_72907927.txt 1 -7.19285 indri
-query433 Q0 docs/MATERIAL_BASE-1B_50380880.txt 2 -7.24643 indri
-query433 Q0 docs/MATERIAL_BASE-1B_63817024.txt 3 -7.27928 indri
-query433 Q0 docs/MATERIAL_BASE-1B_72907927.ctm 4 -7.77655 indri
-query433 Q0 docs/MATERIAL_BASE-1B_77419265.txt 5 -7.83292 indri
-query433 Q0 docs/MATERIAL_BASE-1B_32624825.txt 6 -7.85089 indri
-query433 Q0 docs/MATERIAL_BASE-1B_55950412.txt 7 -7.87474 indri
-query433 Q0 docs/MATERIAL_BASE-1B_93612725.txt 8 -7.90226 indri
-query433 Q0 docs/MATERIAL_BASE-1B_47368271.txt 9 -7.91348 indri
-query433 Q0 docs/MATERIAL_BASE-1B_34049737.txt 10 -7.92974 indri
-query433 Q0 docs/MATERIAL_BASE-1B_81452917.txt 11 -7.94641 indri
-query433 Q0 docs/MATERIAL_BASE-1B_96906386.txt 12 -8.00504 indri
-query433 Q0 docs/MATERIAL_BASE-1B_17151302.txt 13 -8.03513 indri
-query433 Q0 docs/MATERIAL_BASE-1B_55336751.txt 14 -8.26302 indri
-query433 Q0 docs/MATERIAL_BASE-1B_32624825.ctm 15 -8.38025 indri
-query433 Q0 docs/MATERIAL_BASE-1B_55950412.ctm 16 -8.5255 indri
-query433 Q0 docs/MATERIAL_BASE-1B_34049737.ctm 17 -8.80792 indri
-query433 Q0 docs/MATERIAL_BASE-1B_17151302.ctm 18 -9.21115 indri
 # EXCEPTION in query query533: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
 	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-# EXCEPTION in query query540: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+# EXCEPTION in query query2207: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
 	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-query559 Q0 docs/MATERIAL_BASE-1B_58816171.txt 1 -6.86318 indri
-query559 Q0 docs/MATERIAL_BASE-1B_86150412.txt 2 -7.21881 indri
-query559 Q0 docs/MATERIAL_BASE-1B_19442477.txt 3 -8.18864 indri
-query661 Q0 docs/MATERIAL_BASE-1B_34373657.txt 1 -5.9107 indri
-query661 Q0 docs/MATERIAL_BASE-1B_48112987.txt 2 -5.91103 indri
-query661 Q0 docs/MATERIAL_BASE-1B_81452917.txt 3 -6.02229 indri
-query661 Q0 docs/MATERIAL_BASE-1B_12963639.txt 4 -6.36059 indri
-query661 Q0 docs/MATERIAL_BASE-1B_56851750.txt 5 -6.47686 indri
-query661 Q0 docs/MATERIAL_BASE-1B_12339906.txt 6 -6.5151 indri
-query661 Q0 docs/MATERIAL_BASE-1B_11219422.txt 7 -6.56547 indri
-query661 Q0 docs/MATERIAL_BASE-1B_51675365.txt 8 -6.65366 indri
-query661 Q0 docs/MATERIAL_BASE-1B_61715608.txt 9 -6.73398 indri
-query661 Q0 docs/MATERIAL_BASE-1B_72338036.txt 10 -6.74327 indri
-query661 Q0 docs/MATERIAL_BASE-1B_86086695.txt 11 -6.77926 indri
-query661 Q0 docs/MATERIAL_BASE-1B_40672876.txt 12 -6.7987 indri
-query661 Q0 docs/MATERIAL_BASE-1B_18665531.txt 13 -6.83717 indri
-query661 Q0 docs/MATERIAL_BASE-1B_25752372.txt 14 -6.9356 indri
-query661 Q0 docs/MATERIAL_BASE-1B_14887493.txt 15 -7.12527 indri
-query661 Q0 docs/MATERIAL_BASE-1B_58168812.txt 16 -7.14243 indri
-query661 Q0 docs/MATERIAL_BASE-1B_60437561.txt 17 -7.17833 indri
-query661 Q0 docs/MATERIAL_BASE-1B_96230435.txt 18 -7.19666 indri
-query661 Q0 docs/MATERIAL_BASE-1B_31192255.txt 19 -7.21937 indri
-query661 Q0 docs/MATERIAL_BASE-1B_51858579.txt 20 -7.70532 indri
-# EXCEPTION in query query771: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+query620 Q0 docs/MATERIAL_BASE-1B_75654412.txt 1 -3.96817 indri
+query620 Q0 docs/MATERIAL_BASE-1B_63672095.txt 2 -4.03941 indri
+# EXCEPTION in query query307: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
 	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-query789 Q0 docs/MATERIAL_BASE-1B_83512127.txt 1 -7.31363 indri
-query789 Q0 docs/MATERIAL_BASE-1B_45251759.txt 2 -7.89107 indri
-query789 Q0 docs/MATERIAL_BASE-1B_73682791.txt 3 -8.06379 indri
-query789 Q0 docs/MATERIAL_BASE-1B_60486133.txt 4 -8.07548 indri
-query789 Q0 docs/MATERIAL_BASE-1B_54230393.txt 5 -8.28334 indri
-query789 Q0 docs/MATERIAL_BASE-1B_60486133.ctm 6 -9.2633 indri
-query789 Q0 docs/MATERIAL_BASE-1B_54230393.ctm 7 -9.83177 indri
-query825 Q0 docs/MATERIAL_BASE-1B_43085716.txt 1 -7.24496 indri
-query825 Q0 docs/MATERIAL_BASE-1B_11219422.txt 2 -7.87316 indri
-query825 Q0 docs/MATERIAL_BASE-1B_70960951.txt 3 -8.28604 indri
-query825 Q0 docs/MATERIAL_BASE-1B_82280442.txt 4 -8.7923 indri
-query825 Q0 docs/MATERIAL_BASE-1B_88090835.txt 5 -8.82767 indri
-query825 Q0 docs/MATERIAL_BASE-1B_89625370.txt 6 -8.8838 indri
-query825 Q0 docs/MATERIAL_BASE-1B_24850922.txt 7 -8.9032 indri
-query825 Q0 docs/MATERIAL_BASE-1B_29990894.txt 8 -9.08346 indri
-query825 Q0 docs/MATERIAL_BASE-1B_58160195.txt 9 -9.27599 indri
-query825 Q0 docs/MATERIAL_BASE-1B_33105379.txt 10 -9.28629 indri
-query825 Q0 docs/MATERIAL_BASE-1B_99028959.txt 11 -9.35001 indri
-query825 Q0 docs/MATERIAL_BASE-1B_36681683.txt 12 -9.35607 indri
-query825 Q0 docs/MATERIAL_BASE-1B_28460855.txt 13 -9.37988 indri
-query825 Q0 docs/MATERIAL_BASE-1B_44357130.txt 14 -9.38134 indri
-query825 Q0 docs/MATERIAL_BASE-1B_51199922.txt 15 -9.38875 indri
-query825 Q0 docs/MATERIAL_BASE-1B_42937121.txt 16 -9.39087 indri
-query825 Q0 docs/MATERIAL_BASE-1B_62385023.txt 17 -9.39474 indri
-query825 Q0 docs/MATERIAL_BASE-1B_88339074.txt 18 -9.39483 indri
-query825 Q0 docs/MATERIAL_BASE-1B_76817051.txt 19 -9.39965 indri
-query825 Q0 docs/MATERIAL_BASE-1B_50380880.txt 20 -9.40453 indri
-# EXCEPTION in query query943: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+# EXCEPTION in query query137: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
 	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-query969 Q0 docs/MATERIAL_BASE-1B_32192180.txt 1 -3.61484 indri
-query969 Q0 docs/MATERIAL_BASE-1B_61236815.txt 2 -3.94349 indri
-query969 Q0 docs/MATERIAL_BASE-1B_71430015.txt 3 -3.95738 indri
-query969 Q0 docs/MATERIAL_BASE-1B_42359514.txt 4 -3.98028 indri
-query969 Q0 docs/MATERIAL_BASE-1B_71780254.txt 5 -4.69619 indri
-query971 Q0 docs/MATERIAL_BASE-1B_33105379.txt 1 -5.9505 indri
-query971 Q0 docs/MATERIAL_BASE-1B_89625370.txt 2 -6.48892 indri
-query971 Q0 docs/MATERIAL_BASE-1B_99719892.txt 3 -6.78065 indri
-query971 Q0 docs/MATERIAL_BASE-1B_96523381.txt 4 -6.8122 indri
-query971 Q0 docs/MATERIAL_BASE-1B_71736144.txt 5 -6.93678 indri
-query971 Q0 docs/MATERIAL_BASE-1B_82280442.txt 6 -7.12987 indri
-query971 Q0 docs/MATERIAL_BASE-1B_82471744.txt 7 -7.16771 indri
-query971 Q0 docs/MATERIAL_BASE-1B_26676955.txt 8 -7.17821 indri
-query971 Q0 docs/MATERIAL_BASE-1B_30703638.txt 9 -7.20417 indri
-query971 Q0 docs/MATERIAL_BASE-1B_52706311.txt 10 -7.25013 indri
-query971 Q0 docs/MATERIAL_BASE-1B_19442477.txt 11 -7.45138 indri
-query971 Q0 docs/MATERIAL_BASE-1B_56464828.txt 12 -7.74964 indri
-query971 Q0 docs/MATERIAL_BASE-1B_29846584.txt 13 -7.77099 indri
-query971 Q0 docs/MATERIAL_BASE-1B_48495909.txt 14 -7.78597 indri
-query971 Q0 docs/MATERIAL_BASE-1B_80156071.txt 15 -7.80766 indri
-query971 Q0 docs/MATERIAL_BASE-1B_56240280.txt 16 -7.81887 indri
-query971 Q0 docs/MATERIAL_BASE-1B_97857078.txt 17 -7.82138 indri
-query971 Q0 docs/MATERIAL_BASE-1B_79032368.txt 18 -7.82246 indri
-query971 Q0 docs/MATERIAL_BASE-1B_42359514.txt 19 -7.86215 indri
-query971 Q0 docs/MATERIAL_BASE-1B_85764206.txt 20 -7.87481 indri
-# EXCEPTION in query query1050: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+# EXCEPTION in query query1371: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
 	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-# EXCEPTION in query query1260: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+# EXCEPTION in query query363: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
 	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-query2704 Q0 docs/MATERIAL_BASE-1B_81668804.txt 1 -7.17032 indri
-query2704 Q0 docs/MATERIAL_BASE-1B_81668804.ctm 2 -7.60019 indri
-query2704 Q0 docs/MATERIAL_BASE-1B_71671612.txt 3 -7.82187 indri
-query2704 Q0 docs/MATERIAL_BASE-1B_88201676.txt 4 -7.83689 indri
-query2704 Q0 docs/MATERIAL_BASE-1B_53942134.txt 5 -7.89009 indri
-query2704 Q0 docs/MATERIAL_BASE-1B_38444113.txt 6 -7.89839 indri
-query2704 Q0 docs/MATERIAL_BASE-1B_20467725.txt 7 -7.9169 indri
-query2704 Q0 docs/MATERIAL_BASE-1B_67981615.txt 8 -7.95429 indri
-query2704 Q0 docs/MATERIAL_BASE-1B_33831595.txt 9 -7.95463 indri
-query2704 Q0 docs/MATERIAL_BASE-1B_71671612.ctm 10 -8.0712 indri
-query2704 Q0 docs/MATERIAL_BASE-1B_88201676.ctm 11 -8.19581 indri
-query2704 Q0 docs/MATERIAL_BASE-1B_11830783.txt 12 -8.26315 indri
-query2704 Q0 docs/MATERIAL_BASE-1B_11830783.ctm 13 -9.8006 indri
-# EXCEPTION in query query3354: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+query1753 Q0 docs/MATERIAL_BASE-1B_89535406.txt 1 -6.63653 indri
+# EXCEPTION in query query1523: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
 	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-# EXCEPTION in query query671: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+query4181 Q0 docs/MATERIAL_BASE-1B_98800390.txt 1 -4.1193 indri
+# EXCEPTION in query query338: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
 	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
-query880 Q0 docs/MATERIAL_BASE-1B_41632202.txt 1 -8.0952 indri
-query936 Q0 docs/MATERIAL_BASE-1B_41707850.txt 1 -4.80862 indri
-query936 Q0 docs/MATERIAL_BASE-1B_98800390.txt 2 -5.07077 indri
-query936 Q0 docs/MATERIAL_BASE-1B_37171531.txt 3 -5.26014 indri
-query936 Q0 docs/MATERIAL_BASE-1B_34709842.txt 4 -5.49259 indri
-query936 Q0 docs/MATERIAL_BASE-1B_61804613.txt 5 -5.59942 indri
-query936 Q0 docs/MATERIAL_BASE-1B_34709842.ctm 6 -6.00338 indri
-query936 Q0 docs/MATERIAL_BASE-1B_25272947.txt 7 -6.00626 indri
-query936 Q0 docs/MATERIAL_BASE-1B_86307440.txt 8 -6.02314 indri
-query936 Q0 docs/MATERIAL_BASE-1B_89337199.txt 9 -6.05252 indri
-query936 Q0 docs/MATERIAL_BASE-1B_65606642.txt 10 -6.07763 indri
-query936 Q0 docs/MATERIAL_BASE-1B_37171531.ctm 11 -6.09132 indri
-query936 Q0 docs/MATERIAL_BASE-1B_58168812.txt 12 -6.09806 indri
-query936 Q0 docs/MATERIAL_BASE-1B_59831691.txt 13 -6.147 indri
-query936 Q0 docs/MATERIAL_BASE-1B_54050026.txt 14 -6.18518 indri
-query936 Q0 docs/MATERIAL_BASE-1B_59472358.txt 15 -6.19723 indri
-query936 Q0 docs/MATERIAL_BASE-1B_33467842.txt 16 -6.20499 indri
-query936 Q0 docs/MATERIAL_BASE-1B_97073489.txt 17 -6.24505 indri
-query936 Q0 docs/MATERIAL_BASE-1B_98544736.txt 18 -6.25204 indri
-query936 Q0 docs/MATERIAL_BASE-1B_49637133.txt 19 -6.25538 indri
-query936 Q0 docs/MATERIAL_BASE-1B_60920859.txt 20 -6.26249 indri
+# EXCEPTION in query query3968: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query528: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query471: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query1288: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query1473: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query742: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+query1303 Q0 docs/MATERIAL_BASE-1B_96140484.txt 1 -7.99023 indri
+query1303 Q0 docs/MATERIAL_BASE-1B_63939769.txt 2 -8.15222 indri
+query1303 Q0 docs/MATERIAL_BASE-1B_41775467.txt 3 -8.33902 indri
+# EXCEPTION in query query1109: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query523: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+query392 Q0 docs/MATERIAL_BASE-1B_19442477.txt 1 -7.08856 indri
+query392 Q0 docs/MATERIAL_BASE-1B_47560768.txt 2 -7.92985 indri
+query392 Q0 docs/MATERIAL_BASE-1B_55940285.txt 3 -7.9835 indri
+# EXCEPTION in query query673: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query435: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query1810: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query434: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query1052: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+query1577 Q0 docs/MATERIAL_BASE-1B_61715608.txt 1 -6.20411 indri
+query1577 Q0 docs/MATERIAL_BASE-1B_19728120.txt 2 -6.64978 indri
+query1577 Q0 docs/MATERIAL_BASE-1B_27465418.txt 3 -6.68922 indri
+query1577 Q0 docs/MATERIAL_BASE-1B_15520125.txt 4 -6.72123 indri
+query1577 Q0 docs/MATERIAL_BASE-1B_50380880.txt 5 -6.73695 indri
+query1577 Q0 docs/MATERIAL_BASE-1B_28875158.txt 6 -6.854 indri
+query1577 Q0 docs/MATERIAL_BASE-1B_50450438.txt 7 -7.07524 indri
+query1577 Q0 docs/MATERIAL_BASE-1B_83204535.txt 8 -7.14208 indri
+query1577 Q0 docs/MATERIAL_BASE-1B_43085716.txt 9 -7.1522 indri
+query1577 Q0 docs/MATERIAL_BASE-1B_52155657.txt 10 -7.23479 indri
+query1577 Q0 docs/MATERIAL_BASE-1B_32624825.txt 11 -7.55484 indri
+query1577 Q0 docs/MATERIAL_BASE-1B_72338036.txt 12 -7.55781 indri
+query1577 Q0 docs/MATERIAL_BASE-1B_33125821.txt 13 -7.56298 indri
+query1577 Q0 docs/MATERIAL_BASE-1B_99830648.txt 14 -7.56665 indri
+query1577 Q0 docs/MATERIAL_BASE-1B_38836829.txt 15 -7.57031 indri
+query1577 Q0 docs/MATERIAL_BASE-1B_71294921.txt 16 -7.5736 indri
+query1577 Q0 docs/MATERIAL_BASE-1B_19313579.txt 17 -7.57469 indri
+query1577 Q0 docs/MATERIAL_BASE-1B_26641776.txt 18 -7.57905 indri
+query1577 Q0 docs/MATERIAL_BASE-1B_23584874.txt 19 -7.58519 indri
+query1577 Q0 docs/MATERIAL_BASE-1B_13241653.txt 20 -7.59415 indri
+query1237 Q0 docs/MATERIAL_BASE-1B_48495909.txt 1 -7.88878 indri
+# EXCEPTION in query query494: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+query4373 Q0 docs/MATERIAL_BASE-1B_56851750.txt 1 -10.2635 indri
+query4373 Q0 docs/MATERIAL_BASE-1B_93619941.txt 2 -10.3313 indri
+# EXCEPTION in query query503: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+query4365 Q0 docs/MATERIAL_BASE-1B_49306901.txt 1 -7.87757 indri
+query509 Q0 docs/MATERIAL_BASE-1B_76817051.txt 1 -3.62624 indri
+query509 Q0 docs/MATERIAL_BASE-1B_37334092.txt 2 -4.00475 indri
+# EXCEPTION in query query825: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+query1240 Q0 docs/MATERIAL_BASE-1B_58699176.txt 1 -7.91345 indri
+query1240 Q0 docs/MATERIAL_BASE-1B_49204943.txt 2 -8.19291 indri
+query1240 Q0 docs/MATERIAL_BASE-1B_41775467.txt 3 -8.33902 indri
+query1940 Q0 docs/MATERIAL_BASE-1B_32921177.txt 1 -3.95373 indri
+query1940 Q0 docs/MATERIAL_BASE-1B_91704019.txt 2 -3.96411 indri
+query4322 Q0 docs/MATERIAL_BASE-1B_74883910.txt 1 -7.22448 indri
+query4322 Q0 docs/MATERIAL_BASE-1B_99028959.txt 2 -7.87644 indri
+query1112 Q0 docs/MATERIAL_BASE-1B_76817051.txt 1 -6.27728 indri
+query1112 Q0 docs/MATERIAL_BASE-1B_86760546.txt 2 -6.43114 indri
+query1112 Q0 docs/MATERIAL_BASE-1B_82280442.txt 3 -6.45162 indri
+query1112 Q0 docs/MATERIAL_BASE-1B_37334092.txt 4 -6.55529 indri
+query1112 Q0 docs/MATERIAL_BASE-1B_72940898.txt 5 -6.77852 indri
+query1302 Q0 docs/MATERIAL_BASE-1B_62061971.txt 1 -9.55827 indri
+query1302 Q0 docs/MATERIAL_BASE-1B_25827682.txt 2 -9.88889 indri
+query1302 Q0 docs/MATERIAL_BASE-1B_23947362.txt 3 -9.93599 indri
+query1302 Q0 docs/MATERIAL_BASE-1B_81571170.txt 4 -9.94369 indri
+query1302 Q0 docs/MATERIAL_BASE-1B_26829194.txt 5 -10.3361 indri
+query1302 Q0 docs/MATERIAL_BASE-1B_78021507.txt 6 -10.4572 indri
+query1302 Q0 docs/MATERIAL_BASE-1B_80580258.txt 7 -10.4853 indri
+query1302 Q0 docs/MATERIAL_BASE-1B_61236815.txt 8 -10.5964 indri
+query1302 Q0 docs/MATERIAL_BASE-1B_23565543.txt 9 -10.607 indri
+query1302 Q0 docs/MATERIAL_BASE-1B_33105379.txt 10 -10.6092 indri
+query1302 Q0 docs/MATERIAL_BASE-1B_89108867.txt 11 -10.6125 indri
+query1302 Q0 docs/MATERIAL_BASE-1B_25601317.txt 12 -10.614 indri
+query1302 Q0 docs/MATERIAL_BASE-1B_45243651.txt 13 -10.618 indri
+query1302 Q0 docs/MATERIAL_BASE-1B_26676955.txt 14 -10.6249 indri
+query1302 Q0 docs/MATERIAL_BASE-1B_11844302.txt 15 -10.6284 indri
+query1302 Q0 docs/MATERIAL_BASE-1B_79422425.txt 16 -10.6313 indri
+query1302 Q0 docs/MATERIAL_BASE-1B_14824446.txt 17 -10.6522 indri
+query1302 Q0 docs/MATERIAL_BASE-1B_85604693.txt 18 -10.654 indri
+query1302 Q0 docs/MATERIAL_BASE-1B_80666294.txt 19 -10.6616 indri
+query1302 Q0 docs/MATERIAL_BASE-1B_14193206.txt 20 -10.6648 indri
+query880 Q0 docs/MATERIAL_BASE-1B_30892237.txt 1 -7.9317 indri
+query1106 Q0 docs/MATERIAL_BASE-1B_41766320.txt 1 -7.8662 indri
+query1106 Q0 docs/MATERIAL_BASE-1B_50380880.txt 2 -7.92016 indri
+query1106 Q0 docs/MATERIAL_BASE-1B_41707850.txt 3 -7.93466 indri
+query1106 Q0 docs/MATERIAL_BASE-1B_83559767.txt 4 -7.9687 indri
+query1106 Q0 docs/MATERIAL_BASE-1B_20408623.txt 5 -8.06977 indri
+query4363 Q0 docs/MATERIAL_BASE-1B_76817051.txt 1 -2.41749 indri
+query4363 Q0 docs/MATERIAL_BASE-1B_37334092.txt 2 -2.66984 indri
+query3221 Q0 docs/MATERIAL_BASE-1B_76817051.txt 1 -6.18138 indri
+query3221 Q0 docs/MATERIAL_BASE-1B_37334092.txt 2 -6.45939 indri
+query3221 Q0 docs/MATERIAL_BASE-1B_49637133.txt 3 -6.48622 indri
+query3221 Q0 docs/MATERIAL_BASE-1B_60809726.txt 4 -6.49686 indri
+query3221 Q0 docs/MATERIAL_BASE-1B_13058832.txt 5 -6.49827 indri
+query3221 Q0 docs/MATERIAL_BASE-1B_83974692.txt 6 -6.64341 indri
+# EXCEPTION in query query3422: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+query3895 Q0 docs/MATERIAL_BASE-1B_76817051.txt 1 -3.62624 indri
+query3895 Q0 docs/MATERIAL_BASE-1B_37334092.txt 2 -4.00475 indri
+# EXCEPTION in query query3408: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query3865: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+query3354 Q0 docs/MATERIAL_BASE-1B_76817051.txt 1 -3.62624 indri
+query3354 Q0 docs/MATERIAL_BASE-1B_37334092.txt 2 -4.00475 indri
+query3891 Q0 docs/MATERIAL_BASE-1B_76817051.txt 1 -2.41749 indri
+query3891 Q0 docs/MATERIAL_BASE-1B_37334092.txt 2 -2.66984 indri
+# EXCEPTION in query query1579: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query585: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+query3356 Q0 docs/MATERIAL_BASE-1B_76817051.txt 1 -3.62624 indri
+query3356 Q0 docs/MATERIAL_BASE-1B_37334092.txt 2 -4.00475 indri
+# EXCEPTION in query query3753: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query3613: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+query1330 Q0 docs/MATERIAL_BASE-1B_78021507.txt 1 -7.94408 indri
+query1567 Q0 docs/MATERIAL_BASE-1B_81571170.txt 1 -7.9353 indri
+query1567 Q0 docs/MATERIAL_BASE-1B_53717956.txt 2 -7.93843 indri
+query1567 Q0 docs/MATERIAL_BASE-1B_49204943.txt 3 -8.19291 indri
+# EXCEPTION in query query990: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+query2049 Q0 docs/MATERIAL_BASE-1B_70783835.txt 1 -7.85775 indri
+query2049 Q0 docs/MATERIAL_BASE-1B_67981615.txt 2 -7.95211 indri
+query2049 Q0 docs/MATERIAL_BASE-1B_47751868.txt 3 -8.18533 indri
+query2049 Q0 docs/MATERIAL_BASE-1B_71780254.txt 4 -9.37059 indri
+query3306 Q0 docs/MATERIAL_BASE-1B_13058832.txt 1 -7.94584 indri
+# EXCEPTION in query query1376: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query3302: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+query1591 Q0 docs/MATERIAL_BASE-1B_86551777.txt 1 -6.86743 indri
+query1591 Q0 docs/MATERIAL_BASE-1B_44357130.txt 2 -7.7597 indri
+query1591 Q0 docs/MATERIAL_BASE-1B_81263678.txt 3 -7.76158 indri
+query1591 Q0 docs/MATERIAL_BASE-1B_14634526.txt 4 -7.78533 indri
+query1591 Q0 docs/MATERIAL_BASE-1B_57441219.txt 5 -7.8071 indri
+query1591 Q0 docs/MATERIAL_BASE-1B_32629832.txt 6 -7.81958 indri
+query1591 Q0 docs/MATERIAL_BASE-1B_29301720.txt 7 -7.82276 indri
+query1591 Q0 docs/MATERIAL_BASE-1B_59472358.txt 8 -7.84787 indri
+query1591 Q0 docs/MATERIAL_BASE-1B_21647581.txt 9 -7.92508 indri
+query1591 Q0 docs/MATERIAL_BASE-1B_44959561.txt 10 -8.01206 indri
+query1591 Q0 docs/MATERIAL_BASE-1B_15520125.txt 11 -8.07959 indri
+query1591 Q0 docs/MATERIAL_BASE-1B_48633880.txt 12 -8.25758 indri
+query1591 Q0 docs/MATERIAL_BASE-1B_71780254.txt 13 -9.28004 indri
+# EXCEPTION in query query330: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query1388: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query113: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query1715: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query573: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query455: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+query357 Q0 docs/MATERIAL_BASE-1B_54050026.txt 1 -3.00099 indri
+query357 Q0 docs/MATERIAL_BASE-1B_37334092.txt 2 -3.04124 indri
+query357 Q0 docs/MATERIAL_BASE-1B_86599582.txt 3 -3.08014 indri
+query357 Q0 docs/MATERIAL_BASE-1B_73985977.txt 4 -3.16912 indri
+query357 Q0 docs/MATERIAL_BASE-1B_65606642.txt 5 -3.17813 indri
+query357 Q0 docs/MATERIAL_BASE-1B_86662685.txt 6 -3.24892 indri
+query357 Q0 docs/MATERIAL_BASE-1B_68775408.txt 7 -3.26336 indri
+query357 Q0 docs/MATERIAL_BASE-1B_59831691.txt 8 -3.26567 indri
+query357 Q0 docs/MATERIAL_BASE-1B_20913977.txt 9 -3.27145 indri
+query357 Q0 docs/MATERIAL_BASE-1B_60437561.txt 10 -3.28026 indri
+query357 Q0 docs/MATERIAL_BASE-1B_12044041.txt 11 -3.28685 indri
+query357 Q0 docs/MATERIAL_BASE-1B_41707850.txt 12 -3.28943 indri
+query357 Q0 docs/MATERIAL_BASE-1B_31192255.txt 13 -3.30078 indri
+query357 Q0 docs/MATERIAL_BASE-1B_89337199.txt 14 -3.36383 indri
+query357 Q0 docs/MATERIAL_BASE-1B_56122527.txt 15 -3.39705 indri
+query357 Q0 docs/MATERIAL_BASE-1B_97073489.txt 16 -3.40252 indri
+query357 Q0 docs/MATERIAL_BASE-1B_98544736.txt 17 -3.40776 indri
+query357 Q0 docs/MATERIAL_BASE-1B_15975421.txt 18 -3.40818 indri
+query357 Q0 docs/MATERIAL_BASE-1B_62061971.txt 19 -3.41027 indri
+query357 Q0 docs/MATERIAL_BASE-1B_41474047.txt 20 -3.4156 indri
+# EXCEPTION in query query1037: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query2044: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query961: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query834: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query332: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+query2078 Q0 docs/MATERIAL_BASE-1B_64962381.txt 1 -6.4863 indri
+query2078 Q0 docs/MATERIAL_BASE-1B_54998657.txt 2 -7.00221 indri
+query2078 Q0 docs/MATERIAL_BASE-1B_70961699.txt 3 -7.00377 indri
+query2078 Q0 docs/MATERIAL_BASE-1B_46434233.txt 4 -7.06023 indri
+query2078 Q0 docs/MATERIAL_BASE-1B_42025516.txt 5 -7.06648 indri
+query2078 Q0 docs/MATERIAL_BASE-1B_85824605.txt 6 -7.06684 indri
+query2078 Q0 docs/MATERIAL_BASE-1B_82123038.txt 7 -7.07305 indri
+query2078 Q0 docs/MATERIAL_BASE-1B_83759795.txt 8 -7.12618 indri
+query2078 Q0 docs/MATERIAL_BASE-1B_72940898.txt 9 -7.52483 indri
+query2078 Q0 docs/MATERIAL_BASE-1B_68251060.txt 10 -7.56401 indri
+query2078 Q0 docs/MATERIAL_BASE-1B_78363446.txt 11 -7.56712 indri
+query2078 Q0 docs/MATERIAL_BASE-1B_88011011.txt 12 -7.57333 indri
+query2078 Q0 docs/MATERIAL_BASE-1B_90914572.txt 13 -7.57564 indri
+query2078 Q0 docs/MATERIAL_BASE-1B_28234598.txt 14 -7.58942 indri
+query2078 Q0 docs/MATERIAL_BASE-1B_89108867.txt 15 -7.63113 indri
+query2078 Q0 docs/MATERIAL_BASE-1B_16515718.txt 16 -7.63622 indri
+query2078 Q0 docs/MATERIAL_BASE-1B_32192180.txt 17 -7.64417 indri
+query2078 Q0 docs/MATERIAL_BASE-1B_82909469.txt 18 -7.6492 indri
+query2078 Q0 docs/MATERIAL_BASE-1B_17490596.txt 19 -7.67919 indri
+query2078 Q0 docs/MATERIAL_BASE-1B_12340299.txt 20 -7.70323 indri
+# EXCEPTION in query query1272: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query754: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+query2294 Q0 docs/MATERIAL_BASE-1B_60360715.txt 1 -6.55251 indri
+query2294 Q0 docs/MATERIAL_BASE-1B_61416634.txt 2 -6.55401 indri
+query2294 Q0 docs/MATERIAL_BASE-1B_32669345.txt 3 -6.59366 indri
+query2294 Q0 docs/MATERIAL_BASE-1B_81318422.txt 4 -6.61291 indri
+query2294 Q0 docs/MATERIAL_BASE-1B_81452917.txt 5 -6.65847 indri
+query2294 Q0 docs/MATERIAL_BASE-1B_16381161.txt 6 -6.73038 indri
+query2294 Q0 docs/MATERIAL_BASE-1B_13463030.txt 7 -6.77939 indri
+query2294 Q0 docs/MATERIAL_BASE-1B_40979366.txt 8 -6.90198 indri
+query2294 Q0 docs/MATERIAL_BASE-1B_71039197.txt 9 -6.92082 indri
+query2294 Q0 docs/MATERIAL_BASE-1B_24466751.txt 10 -6.9561 indri
+query2294 Q0 docs/MATERIAL_BASE-1B_47779448.txt 11 -7.01837 indri
+query2294 Q0 docs/MATERIAL_BASE-1B_69399087.txt 12 -7.01901 indri
+query2294 Q0 docs/MATERIAL_BASE-1B_48017660.txt 13 -7.04204 indri
+query2294 Q0 docs/MATERIAL_BASE-1B_60098414.txt 14 -7.07426 indri
+query2294 Q0 docs/MATERIAL_BASE-1B_67049535.txt 15 -7.13434 indri
+query2294 Q0 docs/MATERIAL_BASE-1B_42130002.txt 16 -7.25979 indri
+query2294 Q0 docs/MATERIAL_BASE-1B_62283739.txt 17 -7.26018 indri
+query2294 Q0 docs/MATERIAL_BASE-1B_93451508.txt 18 -7.26485 indri
+query2294 Q0 docs/MATERIAL_BASE-1B_52137899.txt 19 -7.27143 indri
+query2294 Q0 docs/MATERIAL_BASE-1B_81668804.txt 20 -7.29052 indri
+# EXCEPTION in query query559: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+query1682 Q0 docs/MATERIAL_BASE-1B_52706311.txt 1 -2.29773 indri
+query532 Q0 docs/MATERIAL_BASE-1B_41707850.txt 1 -7.25441 indri
+query532 Q0 docs/MATERIAL_BASE-1B_95645459.txt 2 -7.29275 indri
+query532 Q0 docs/MATERIAL_BASE-1B_25682871.txt 3 -7.89448 indri
+query532 Q0 docs/MATERIAL_BASE-1B_71736144.txt 4 -8.01343 indri
+query532 Q0 docs/MATERIAL_BASE-1B_46497012.txt 5 -8.04833 indri
+# EXCEPTION in query query2043: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query736: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query960: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query422: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+query1757 Q0 docs/MATERIAL_BASE-1B_62061971.txt 1 -3.96389 indri
+# EXCEPTION in query query557: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query3818: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query3102: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+query1690 Q0 docs/MATERIAL_BASE-1B_33831595.txt 1 -5.73689 indri
+query1690 Q0 docs/MATERIAL_BASE-1B_55393037.txt 2 -5.87312 indri
+query1690 Q0 docs/MATERIAL_BASE-1B_17151302.txt 3 -6.0258 indri
+query1690 Q0 docs/MATERIAL_BASE-1B_58160195.txt 4 -6.12545 indri
+query1690 Q0 docs/MATERIAL_BASE-1B_66350023.txt 5 -6.16213 indri
+query1690 Q0 docs/MATERIAL_BASE-1B_25946767.txt 6 -6.30397 indri
+query1690 Q0 docs/MATERIAL_BASE-1B_74404874.txt 7 -6.32731 indri
+query1690 Q0 docs/MATERIAL_BASE-1B_74244784.txt 8 -6.33426 indri
+query1690 Q0 docs/MATERIAL_BASE-1B_23545400.txt 9 -6.33721 indri
+query1690 Q0 docs/MATERIAL_BASE-1B_32192180.txt 10 -6.35275 indri
+query1690 Q0 docs/MATERIAL_BASE-1B_92064232.txt 11 -6.3618 indri
+query1690 Q0 docs/MATERIAL_BASE-1B_46943448.txt 12 -6.3973 indri
+query1690 Q0 docs/MATERIAL_BASE-1B_17139116.txt 13 -6.42112 indri
+query1690 Q0 docs/MATERIAL_BASE-1B_60098414.txt 14 -6.46976 indri
+query1690 Q0 docs/MATERIAL_BASE-1B_89337199.txt 15 -6.4845 indri
+query1690 Q0 docs/MATERIAL_BASE-1B_72940898.txt 16 -6.64694 indri
+# EXCEPTION in query query1347: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+query172 Q0 docs/MATERIAL_BASE-1B_23401925.txt 1 -7.88417 indri
+query172 Q0 docs/MATERIAL_BASE-1B_98465518.txt 2 -7.90271 indri
+query172 Q0 docs/MATERIAL_BASE-1B_55835270.txt 3 -7.91559 indri
+query1661 Q0 docs/MATERIAL_BASE-1B_50760130.txt 1 -2.27254 indri
+query1661 Q0 docs/MATERIAL_BASE-1B_50380880.txt 2 -2.64005 indri
+# EXCEPTION in query query561: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query1047: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query1398: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+query945 Q0 docs/MATERIAL_BASE-1B_14887493.txt 1 -2.90874 indri
+query945 Q0 docs/MATERIAL_BASE-1B_75030076.txt 2 -3.90385 indri
+# EXCEPTION in query query1035: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query1345: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+query606 Q0 docs/MATERIAL_BASE-1B_16353904.txt 1 -2.62573 indri
+# EXCEPTION in query query1636: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+query822 Q0 docs/MATERIAL_BASE-1B_66001079.txt 1 -9.63315 indri
+query822 Q0 docs/MATERIAL_BASE-1B_80666294.txt 2 -10.2948 indri
+query822 Q0 docs/MATERIAL_BASE-1B_26248094.txt 3 -10.5062 indri
+query822 Q0 docs/MATERIAL_BASE-1B_92064232.txt 4 -10.5866 indri
+query822 Q0 docs/MATERIAL_BASE-1B_71780254.txt 5 -10.7878 indri
+# EXCEPTION in query query1686: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+query869 Q0 docs/MATERIAL_BASE-1B_89337199.txt 1 -1.43457 indri
+query869 Q0 docs/MATERIAL_BASE-1B_25272947.txt 2 -1.43852 indri
+query869 Q0 docs/MATERIAL_BASE-1B_86307440.txt 3 -1.44485 indri
+query869 Q0 docs/MATERIAL_BASE-1B_65606642.txt 4 -1.47732 indri
+query869 Q0 docs/MATERIAL_BASE-1B_59831691.txt 5 -1.4913 indri
+query869 Q0 docs/MATERIAL_BASE-1B_58168812.txt 6 -1.49811 indri
+query869 Q0 docs/MATERIAL_BASE-1B_54050026.txt 7 -1.54509 indri
+query869 Q0 docs/MATERIAL_BASE-1B_59472358.txt 8 -1.5496 indri
+query869 Q0 docs/MATERIAL_BASE-1B_41707850.txt 9 -1.55081 indri
+query869 Q0 docs/MATERIAL_BASE-1B_33467842.txt 10 -1.55252 indri
+query869 Q0 docs/MATERIAL_BASE-1B_50760130.txt 11 -1.57084 indri
+query869 Q0 docs/MATERIAL_BASE-1B_97073489.txt 12 -1.58295 indri
+query869 Q0 docs/MATERIAL_BASE-1B_98544736.txt 13 -1.58556 indri
+query869 Q0 docs/MATERIAL_BASE-1B_49637133.txt 14 -1.58682 indri
+query869 Q0 docs/MATERIAL_BASE-1B_60920859.txt 15 -1.58948 indri
+query869 Q0 docs/MATERIAL_BASE-1B_96523381.txt 16 -1.59001 indri
+query869 Q0 docs/MATERIAL_BASE-1B_68775408.txt 17 -1.59291 indri
+query869 Q0 docs/MATERIAL_BASE-1B_76781824.txt 18 -1.60173 indri
+query869 Q0 docs/MATERIAL_BASE-1B_95645459.txt 19 -1.60681 indri
+query869 Q0 docs/MATERIAL_BASE-1B_98412571.txt 20 -1.63132 indri
+# EXCEPTION in query query560: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query789: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query790: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query1346: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query969: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query1379: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+query1123 Q0 docs/MATERIAL_BASE-1B_29846584.txt 1 -6.59413 indri
+query1123 Q0 docs/MATERIAL_BASE-1B_83512127.txt 2 -6.68277 indri
+query410 Q0 docs/MATERIAL_BASE-1B_76817051.txt 1 -5.91107 indri
+query410 Q0 docs/MATERIAL_BASE-1B_37334092.txt 2 -6.18908 indri
+query410 Q0 docs/MATERIAL_BASE-1B_65001072.txt 3 -6.21398 indri
+query410 Q0 docs/MATERIAL_BASE-1B_84840037.txt 4 -6.36758 indri
+query410 Q0 docs/MATERIAL_BASE-1B_35779438.txt 5 -6.50766 indri
+query410 Q0 docs/MATERIAL_BASE-1B_71780254.txt 6 -7.00852 indri
+query1077 Q0 docs/MATERIAL_BASE-1B_54544554.txt 1 -8.44954 indri
+query1077 Q0 docs/MATERIAL_BASE-1B_29609405.txt 2 -9.62097 indri
+query1077 Q0 docs/MATERIAL_BASE-1B_32299771.txt 3 -9.7083 indri
+query1077 Q0 docs/MATERIAL_BASE-1B_65458681.txt 4 -9.73775 indri
+query1077 Q0 docs/MATERIAL_BASE-1B_27580030.txt 5 -9.76867 indri
+query1077 Q0 docs/MATERIAL_BASE-1B_38669720.txt 6 -9.81353 indri
+query1077 Q0 docs/MATERIAL_BASE-1B_31922351.txt 7 -9.83077 indri
+query1077 Q0 docs/MATERIAL_BASE-1B_11219422.txt 8 -9.92972 indri
+query1077 Q0 docs/MATERIAL_BASE-1B_61715608.txt 9 -10.1026 indri
+query1077 Q0 docs/MATERIAL_BASE-1B_22970462.txt 10 -10.103 indri
+query1077 Q0 docs/MATERIAL_BASE-1B_77425728.txt 11 -10.1343 indri
+query1077 Q0 docs/MATERIAL_BASE-1B_96367399.txt 12 -10.1357 indri
+query1077 Q0 docs/MATERIAL_BASE-1B_12339906.txt 13 -10.1568 indri
+query1077 Q0 docs/MATERIAL_BASE-1B_75654412.txt 14 -10.1642 indri
+query1077 Q0 docs/MATERIAL_BASE-1B_25682871.txt 15 -10.1653 indri
+query1077 Q0 docs/MATERIAL_BASE-1B_33788296.txt 16 -10.1653 indri
+query1077 Q0 docs/MATERIAL_BASE-1B_60437561.txt 17 -10.1702 indri
+query1077 Q0 docs/MATERIAL_BASE-1B_81571170.txt 18 -10.1719 indri
+query1077 Q0 docs/MATERIAL_BASE-1B_87237545.txt 19 -10.1796 indri
+query1077 Q0 docs/MATERIAL_BASE-1B_47920919.txt 20 -10.193 indri
+query1117 Q0 docs/MATERIAL_BASE-1B_76817051.txt 1 -3.62624 indri
+query1117 Q0 docs/MATERIAL_BASE-1B_37334092.txt 2 -4.00475 indri
+query1292 Q0 docs/MATERIAL_BASE-1B_23947362.txt 1 -2.9176 indri
+query1292 Q0 docs/MATERIAL_BASE-1B_15975421.txt 2 -3.37614 indri
+query1292 Q0 docs/MATERIAL_BASE-1B_33467842.txt 3 -3.3924 indri
+query1292 Q0 docs/MATERIAL_BASE-1B_11855765.txt 4 -3.54995 indri
+query1292 Q0 docs/MATERIAL_BASE-1B_80008161.txt 5 -3.80936 indri
+query1292 Q0 docs/MATERIAL_BASE-1B_50134757.txt 6 -3.81398 indri
+query1292 Q0 docs/MATERIAL_BASE-1B_71430015.txt 7 -3.82473 indri
+query1292 Q0 docs/MATERIAL_BASE-1B_97857078.txt 8 -3.82725 indri
+query1292 Q0 docs/MATERIAL_BASE-1B_43315093.txt 9 -3.83419 indri
+query1292 Q0 docs/MATERIAL_BASE-1B_34709842.txt 10 -3.8349 indri
+query1292 Q0 docs/MATERIAL_BASE-1B_32299771.txt 11 -3.83719 indri
+query1292 Q0 docs/MATERIAL_BASE-1B_85604693.txt 12 -3.83965 indri
+query1292 Q0 docs/MATERIAL_BASE-1B_37121941.txt 13 -3.84418 indri
+query1292 Q0 docs/MATERIAL_BASE-1B_49200397.txt 14 -3.86088 indri
+query1292 Q0 docs/MATERIAL_BASE-1B_48112987.txt 15 -3.86738 indri
+query1292 Q0 docs/MATERIAL_BASE-1B_96140484.txt 16 -3.86903 indri
+query1292 Q0 docs/MATERIAL_BASE-1B_51675365.txt 17 -3.9033 indri
+query1292 Q0 docs/MATERIAL_BASE-1B_60486133.txt 18 -3.90729 indri
+query1292 Q0 docs/MATERIAL_BASE-1B_61804613.txt 19 -3.91502 indri
+query1292 Q0 docs/MATERIAL_BASE-1B_20267219.txt 20 -3.91772 indri
+query1416 Q0 docs/MATERIAL_BASE-1B_71780254.txt 1 -3.13226 indri
+query1314 Q0 docs/MATERIAL_BASE-1B_72907927.txt 1 -7.14812 indri
+query1314 Q0 docs/MATERIAL_BASE-1B_50380880.txt 2 -7.2017 indri
+query1314 Q0 docs/MATERIAL_BASE-1B_63817024.txt 3 -7.23455 indri
+query1314 Q0 docs/MATERIAL_BASE-1B_77419265.txt 4 -7.74734 indri
+query1314 Q0 docs/MATERIAL_BASE-1B_32624825.txt 5 -7.76532 indri
+query1314 Q0 docs/MATERIAL_BASE-1B_55950412.txt 6 -7.78916 indri
+query1314 Q0 docs/MATERIAL_BASE-1B_93612725.txt 7 -7.81669 indri
+query1314 Q0 docs/MATERIAL_BASE-1B_47368271.txt 8 -7.82791 indri
+query1314 Q0 docs/MATERIAL_BASE-1B_34049737.txt 9 -7.84416 indri
+query1314 Q0 docs/MATERIAL_BASE-1B_81452917.txt 10 -7.86083 indri
+query1314 Q0 docs/MATERIAL_BASE-1B_96906386.txt 11 -7.91947 indri
+query1314 Q0 docs/MATERIAL_BASE-1B_17151302.txt 12 -7.94956 indri
+query1314 Q0 docs/MATERIAL_BASE-1B_55336751.txt 13 -8.17744 indri
+query1205 Q0 docs/MATERIAL_BASE-1B_15063335.txt 1 -7.18684 indri
+query1205 Q0 docs/MATERIAL_BASE-1B_43315093.txt 2 -7.21445 indri
+query1205 Q0 docs/MATERIAL_BASE-1B_49265811.txt 3 -7.23441 indri
+query1205 Q0 docs/MATERIAL_BASE-1B_29301720.txt 4 -7.87113 indri
+query1205 Q0 docs/MATERIAL_BASE-1B_84141712.txt 5 -7.90037 indri
+query1205 Q0 docs/MATERIAL_BASE-1B_83512127.txt 6 -7.93841 indri
+query1213 Q0 docs/MATERIAL_BASE-1B_96946862.txt 1 -2.0658 indri
+query1213 Q0 docs/MATERIAL_BASE-1B_83559767.txt 2 -2.09246 indri
+query1213 Q0 docs/MATERIAL_BASE-1B_87277933.txt 3 -2.13981 indri
+query1213 Q0 docs/MATERIAL_BASE-1B_71921415.txt 4 -2.15125 indri
+query1213 Q0 docs/MATERIAL_BASE-1B_27580030.txt 5 -2.15748 indri
+query1213 Q0 docs/MATERIAL_BASE-1B_76834563.txt 6 -2.18153 indri
+query1213 Q0 docs/MATERIAL_BASE-1B_51153949.txt 7 -2.19591 indri
+query1213 Q0 docs/MATERIAL_BASE-1B_70594306.txt 8 -2.20771 indri
+query1213 Q0 docs/MATERIAL_BASE-1B_24080215.txt 9 -2.20928 indri
+query1213 Q0 docs/MATERIAL_BASE-1B_57441219.txt 10 -2.21096 indri
+query1213 Q0 docs/MATERIAL_BASE-1B_79875535.txt 11 -2.21239 indri
+query1213 Q0 docs/MATERIAL_BASE-1B_28460855.txt 12 -2.2131 indri
+query1213 Q0 docs/MATERIAL_BASE-1B_25272947.txt 13 -2.21346 indri
+query1213 Q0 docs/MATERIAL_BASE-1B_62086301.txt 14 -2.21417 indri
+query1213 Q0 docs/MATERIAL_BASE-1B_72931723.txt 15 -2.23739 indri
+query1213 Q0 docs/MATERIAL_BASE-1B_95645459.txt 16 -2.23893 indri
+query1213 Q0 docs/MATERIAL_BASE-1B_33278142.txt 17 -2.24145 indri
+query1213 Q0 docs/MATERIAL_BASE-1B_97478014.txt 18 -2.25338 indri
+query1213 Q0 docs/MATERIAL_BASE-1B_71736144.txt 19 -2.25806 indri
+query1213 Q0 docs/MATERIAL_BASE-1B_73682791.txt 20 -2.26054 indri
+# EXCEPTION in query query4335: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query4330: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query1267: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query2194: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+query671 Q0 docs/MATERIAL_BASE-1B_42359514.txt 1 -6.83729 indri
+query671 Q0 docs/MATERIAL_BASE-1B_52314442.txt 2 -7.18103 indri
+query671 Q0 docs/MATERIAL_BASE-1B_59831691.txt 3 -7.4018 indri
+query671 Q0 docs/MATERIAL_BASE-1B_12658220.txt 4 -7.52533 indri
+query671 Q0 docs/MATERIAL_BASE-1B_48166027.txt 5 -7.77895 indri
+query671 Q0 docs/MATERIAL_BASE-1B_25612096.txt 6 -7.83011 indri
+query671 Q0 docs/MATERIAL_BASE-1B_15863081.txt 7 -7.86889 indri
+query671 Q0 docs/MATERIAL_BASE-1B_26702299.txt 8 -7.9492 indri
+query4332 Q0 docs/MATERIAL_BASE-1B_24890601.txt 1 -2.64068 indri
+query936 Q0 docs/MATERIAL_BASE-1B_76817051.txt 1 -2.82929 indri
+query936 Q0 docs/MATERIAL_BASE-1B_37334092.txt 2 -3.08064 indri
+query936 Q0 docs/MATERIAL_BASE-1B_25272947.txt 3 -3.46295 indri
+query936 Q0 docs/MATERIAL_BASE-1B_86307440.txt 4 -3.47308 indri
+query936 Q0 docs/MATERIAL_BASE-1B_89337199.txt 5 -3.49716 indri
+query936 Q0 docs/MATERIAL_BASE-1B_65606642.txt 6 -3.50119 indri
+query936 Q0 docs/MATERIAL_BASE-1B_58168812.txt 7 -3.50739 indri
+query936 Q0 docs/MATERIAL_BASE-1B_59831691.txt 8 -3.54739 indri
+query936 Q0 docs/MATERIAL_BASE-1B_54050026.txt 9 -3.55124 indri
+query936 Q0 docs/MATERIAL_BASE-1B_59472358.txt 10 -3.55847 indri
+query936 Q0 docs/MATERIAL_BASE-1B_41707850.txt 11 -3.56039 indri
+query936 Q0 docs/MATERIAL_BASE-1B_33467842.txt 12 -3.56313 indri
+query936 Q0 docs/MATERIAL_BASE-1B_97073489.txt 13 -3.57468 indri
+query936 Q0 docs/MATERIAL_BASE-1B_98544736.txt 14 -3.57886 indri
+query936 Q0 docs/MATERIAL_BASE-1B_49637133.txt 15 -3.58087 indri
+query936 Q0 docs/MATERIAL_BASE-1B_60920859.txt 16 -3.58514 indri
+query936 Q0 docs/MATERIAL_BASE-1B_96523381.txt 17 -3.58598 indri
+query936 Q0 docs/MATERIAL_BASE-1B_76781824.txt 18 -3.60473 indri
+query936 Q0 docs/MATERIAL_BASE-1B_98412571.txt 19 -3.60643 indri
+query936 Q0 docs/MATERIAL_BASE-1B_46278672.txt 20 -3.61255 indri
+# EXCEPTION in query query2625: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query4326: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query4347: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query4119: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query4349: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt
+# EXCEPTION in query query2704: ../src/IndriRunQuery.cpp(351): QueryThread::_runQuery Exception
+	../src/QueryEnvironment.cpp(874): Couldn't understand this query: NoViableAlt

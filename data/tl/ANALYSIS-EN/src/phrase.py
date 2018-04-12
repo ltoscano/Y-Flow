@@ -74,7 +74,6 @@ with open(params.query) as f:
         else:
             phrases = []
         line = re.sub('[(){},;?<>]','',line)
-        print(line)
         line = re.sub('[A-Za-z]+:','',line) ## get rid of hyp, syn etc
         tokens = re.findall("[A-Z]{2,}(?![a-z])|[A-Z][a-z]+(?=[A-Z])|[\'\w\-]+",line)
         if i == 0:
@@ -98,7 +97,6 @@ with open(params.query) as f:
         out.write(")\n")
         out.write("</text>\n")
         out.write("</query>\n")
-        print(i)
         if i == params.n_iters:
             break
         i += 1
