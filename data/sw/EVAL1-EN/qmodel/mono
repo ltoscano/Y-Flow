@@ -380,7 +380,9 @@ tool
 <number>query3998</number>
 <text>
 #combine(
-#1(<made> tired)
+#1(made tired)
+made
+tired
 )
 </text>
 </query>
@@ -2050,7 +2052,12 @@ religion
 <number>query3500</number>
 <text>
 #combine(
-#1(<woke up> in the morning)
+#1(woke up in the morning)
+woke
+up
+in
+the
+morning
 )
 </text>
 </query>

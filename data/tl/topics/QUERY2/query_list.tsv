@@ -1,0 +1,701 @@
+query_id	query_string	domain_id
+query1301	transfer,title[evf:property]	GOV
+query1144	bible[evf:religion],story	GOV
+query1303	"social security",contribution	GOV
+query1263	"as fast as lightning"	GOV
+query1261	"puppet state"	GOV
+query1260	Lent+	LIF
+query1267	"first day of class"+	LIF
+query661	Duterte,friendship	GOV
+query3613	"sardine food production"+	GOV
+query137	"Maoist insurgency"	GOV
+query945	monkey[hyp:animal]	LIF
+query1213	hair[evf:head],clothes+	LIF
+query494	"martial law victim"	GOV
+query139	Ilocano,butterfly	GOV
+query1196	watermelon	LIF
+query1833	seashore	LIF
+query2625	"snacking at work"+	LIF
+query1302	prosecution+,examination[syn:inquiry]	GOV
+query1078	boycott	GOV
+query1772	"capital punishment"	GOV
+query1077	traffic+,Intramuros	LIF
+query1940	fireworks+,music	GOV
+query1839	octopus	LIF
+query1371	"books for children"	GOV
+query345	infrastructure,program	GOV
+query540	Sulu	GOV
+query2078	shark	LIF
+query341	rain,wind	GOV
+query1376	"full of charcoal"	LIF
+query933	"they are not sadists"	GOV
+query930	earring	LIF
+query1379	"my piano teacher"	LIF
+query1460	"peace talks"+,closure	GOV
+query1463	principle	LIF
+query408	mermaid	GOV
+query1316	efficient	GOV
+query1315	Cebu,graduation+	LIF
+query3598	"<drank> coffee"	GOV
+query991	adobo,beef	LIF
+query1158	Angeles,prostitution+	GOV
+query1311	deregularization,energy+	GOV
+query1242	Naga,transportation+	LIF
+query1155	Aklan,"natural disaster"+	GOV
+query1154	widow[syn:widower],earnings+	LIF
+query523	"until Sunday"	GOV
+query4332	"marketing goats"+[evf:buying or selling]	LIF
+query1150	workmanship	GOV
+query1795	Romblon,ordinance+[syn:decree]	LIF
+query673	"sufficient evidence"	GOV
+query1757	controversial,question[syn:inquiry]	LIF
+query123	tax,speech[syn:oration]	GOV
+query330	"uniformed police"	LIF
+query3408	"cocaine arrest"+	GOV
+query2294	guava	LIF
+query1959	dictionary	LIF
+query2260	leprosy+	LIF
+query961	"traffic light"	LIF
+query1068	jeepney,passenger	GOV
+query455	"national language"	LIF
+query2557	<fed>	LIF
+query2559	"Department of Health",<vaccinated>	GOV
+query414	"terrorist group"	GOV
+query416	salary,teacher	LIF
+query527	Japanese,Spanish	LIF
+query533	"their blood"	GOV
+query532	tweet	LIF
+query825	"San Fernando","energy supply"+	GOV
+query922	chair[hyp:furniture],book	LIF
+query1295	trusted,friend	LIF
+query1414	"their own nation"	GOV
+query419	privatization,water	GOV
+query1661	situation[syn:circumstance],creator	LIF
+query822	apple[hyp:fruit]	LIF
+query1128	anomaly,bridge	GOV
+query4328	eggplant,"genetic engineering"+	GOV
+query1314	Cebu,"gun making"+	LIF
+query971	dry,river	LIF
+query3821	"milking cows"+[evf:dairy]	GOV
+query313	election,machine	GOV
+query312	Tagalog,election	GOV
+query1122	"as cold as"	GOV
+query4322	"sea turtle",fishing+	GOV
+query4335	"cooking gelatin"+	LIF
+query4326	"planting eggplant"+	LIF
+query114	hospital,Manila	GOV
+query117	"August 29"[hyp:date]	LIF
+query1923	giggle[hyp:to laugh]	GOV
+query113	"water buffalo"	LIF
+query3306	napkin	LIF
+query771	pomelo	LIF
+query3302	"salty egg"	LIF
+query1347	"ray of the sun"	LIF
+query830	"former President's birthday"	GOV
+query1905	adventure	LIF
+query1715	"can you go now"	LIF
+query790	"very rich"	LIF
+query1318	Ilocano,gunfire+	GOV
+query1345	"pencil with an eraser"	LIF
+query1398	"sister Adela"	LIF
+query525	song	LIF
+query1255	anchorage	GOV
+query1252	corn[hyp:cereal],planting+	LIF
+query368	"wet by rain"	GOV
+query1523	"travel to America"	GOV
+query366	elitist	GOV
+query1388	"stinky air"	LIF
+query1395	playful	LIF
+query422	"societal change"	LIF
+query528	"security threat"	GOV
+query363	"president's spokesperson"	GOV
+query1391	Paris,cave[syn:cavern]	GOV
+query410	"salary increase",EXAMPLE_OF(medical professional)	LIF
+query1237	Laoag,"severe heat"	GOV
+query1742	announce,"three days"	LIF
+query1274	Tagum,murder+	GOV
+query441	money,church	GOV
+query1130	shrimp,cooking+	LIF
+query1330	cat,"leftover food"	LIF
+query306	Palawan,program	GOV
+query307	"one hundred thousand pesos"	GOV
+query1035	"snake design"	LIF
+query109	"drinking alcohol"	GOV
+query1276	Butuan,challenge	LIF
+query103	"Communist rebel"	GOV
+query100	garlic,pepper	LIF
+query1938	fork[hyp:utensil]	LIF
+query1386	<crabs>	LIF
+query960	"light traffic"	LIF
+query2047	peacock	LIF
+query2044	"bay leaf"	LIF
+query781	"street children"	GOV
+query904	fireman	GOV
+query3354	EXAMPLE_OF(crustacean)	GOV
+query3818	"you're like a frog"	LIF
+query1380	plastic,fork[hyp:utensil]	LIF
+query788	duty,teacher	LIF
+query789	"no justice"	LIF
+query2049	math	LIF
+query1241	terminology	GOV
+query1240	Mandaluyong,"real estate"+	GOV
+query1373	Chinese,governor	GOV
+query4119	"cooking with pineapple"+	LIF
+query1108	Vigan,agriculture+	GOV
+query990	"banana leaf"	LIF
+query439	vinegar	LIF
+query1007	vital[syn:important],operation[syn:function]	GOV
+query1248	ridiculous,soul	LIF
+query434	"tourism industry"	GOV
+query435	"illegal mining"	GOV
+query433	Cebu,interview	GOV
+query573	"your neighbor"	LIF
+query936	EXAMPLE_OF(parts of plant)[evf:botany]	LIF
+query1322	haircut,price+	LIF
+query620	wall[evf:barrier]	GOV
+query339	oil,mining+	GOV
+query338	"oil supply"	GOV
+query4181	Tago[hyp:name]	GOV
+query2292	Imelda	GOV
+query337	"oil <companies>"	GOV
+query336	"electricity shortage"	GOV
+query1344	Pagsanjan,food+	LIF
+query742	"war on drugs"	GOV
+query1346	"cheapest tuition"	LIF
+query332	"Barangay Mangingisda"	LIF
+query606	foil[hyp:sheet metal]	LIF
+query2194	"electric fan"+	LIF
+query4349	"sardines with taro"+	LIF
+query4347	"night swimming"+	LIF
+query174	"I'm afraid",boycott	GOV
+query1902	corruption,contractual	GOV
+query172	summer	LIF
+query1682	mirror[syn:reflecting surface]	LIF
+query1162	curtain	LIF
+query1636	"wheel chair"	LIF
+query2207	"livelihood assistance"	GOV
+query1428	advertisement+,newspaper	GOV
+query1580	superstition	LIF
+query405	airplane,Japanese	GOV
+query1584	tilapia	LIF
+query1416	fruit+[evf:plants],oval	LIF
+query938	cassava	LIF
+query671	sewing+	LIF
+query509	"water supply",EXAMPLE_OF(project)	GOV
+query188	Chinese,fisherman	GOV
+query3891	EXAMPLE_OF(nonhuman primate)	GOV
+query503	"many reasons"	GOV
+query561	"fighting cock"	LIF
+query3895	EXAMPLE_OF(camelid)	GOV
+query4273	<advisers>	GOV
+query569	vegetables,planting+	LIF
+query1123	yellow[evf:color],parade+	LIF
+query756	"native language"	GOV
+query754	"ice cream"	LIF
+query560	"chicken feet"	LIF
+query464	"election results"	GOV
+query736	"beef broth"	LIF
+query461	"white shirt"	GOV
+query460	information,drug	GOV
+query1594	onion,smuggling+	GOV
+query1591	roof	LIF
+query4373	"poorest <families>"	GOV
+query3753	"planting okra"+	GOV
+query1273	muddy,rain	LIF
+query2043	"Filipino literature"	LIF
+query1623	blanket,clothes	LIF
+query966	Christian,"die of hunger"	LIF
+query813	Lukban	LIF
+query1021	world,crisis	GOV
+query2216	systematization	GOV
+query392	deployment	GOV
+query1431	magazine+,essay	LIF
+query969	"cross the street"	LIF
+query1037	"most venomous"	LIF
+query1106	Bacolod,"social media"+	GOV
+query1105	Kalibo,"sex crime"+	GOV
+query1759	"youngest sister"[hyp:female]	LIF
+query1451	Bayombong,agriculture+	GOV
+query2117	Chavacano	LIF
+query1459	election+,integrity	GOV
+query3968	"Eunice Samonte"	GOV
+query1109	"victim's corpse"	GOV
+query4365	firecracker,"factory fire"+	GOV
+query753	light[evf:weight]	LIF
+query881	"broken window"	GOV
+query880	cyber,crime+	GOV
+query559	"roast chicken"	LIF
+query1208	Pampanga,food+	LIF
+query4363	EXAMPLE_OF(aquatic mammal)	GOV
+query747	"police dog"	GOV
+query1205	ginger,"food preparation"+	LIF
+query158	liver,disease+	LIF
+query557	"crab mentality"	LIF
+query1206	garlic,"food preparation"+	LIF
+query3865	"polio vaccination"+	GOV
+query943	toothbrush	LIF
+query2704	"jogging clothes"+	LIF
+query1292	person+,extraordinary	LIF
+query1895	mastermind[syn:planner],syndicate[syn:gang]	GOV
+query1312	deregularization,education+	GOV
+query1050	bootlicker+	GOV
+query1052	"childrens' rights"	GOV
+query1810	"land reform"	GOV
+query1618	beer	LIF
+query879	"cyber bully"	GOV
+query953	wood,root	LIF
+query3107	paranoid	GOV
+query1579	"Spanish occupation"+	GOV
+query3102	"Java plum"	LIF
+query1963	culture[evf:arts and humanities],student	GOV
+query717	four[hyp:cardinal number],wheel	LIF
+query1113	baptism,EXAMPLE_OF(vehicle)	LIF
+query1112	Tuguegarao,EXAMPLE_OF(animal)	GOV
+query1692	agent[syn:middleman]	LIF
+query427	music,dance	LIF
+query585	"fake government official"+	GOV
+query1758	canal[hyp:waterway]	LIF
+query1119	Samar,fisherman	GOV
+query1114	Surigao,church+	LIF
+query1753	Riyadh	GOV
+query1567	Youtube	LIF
+query1278	"El Nido",tourism+	GOV
+query774	sole[evf:foot]	LIF
+query1156	mermaid,"warning sign"+	LIF
+query894	Masbate,election	GOV
+query1171	smoking,disease+	LIF
+query1272	"clean air"	LIF
+query1834	rag[syn:wiping cloth]	GOV
+query779	bedbug	GOV
+query614	"their income"	GOV
+query1217	Tabuk,irrigation+	LIF
+query1430	signature+,correspondent	GOV
+query3356	EXAMPLE_OF(amphibian)	GOV
+query4330	"cooking with asparagus"+	LIF
+query1117	"black pepper",EXAMPLE_OF(animal)	LIF
+query485	"cost of living allowance"	GOV
+query1884	"provincial council",formal[syn:official]	GOV
+query481	"recycle trash"	GOV
+query869	"enemy of the <rats>"	LIF
+query1047	"Christmas Eve"	LIF
+query834	"tall or short"	LIF
+query948	neck,tomorrow	LIF
+query1690	guard[syn:watchman],house	LIF
+query3422	"using condoms as balloons"+	GOV
+query1603	scam,royalty+	GOV
+query1457	Pepsi,corruption+	GOV
+query3221	EXAMPLE_OF(dairy products)	GOV
+query1288	"responsible individual"	GOV
+query357	"my <classmates>"	LIF
+query1473	"pirated DVD"	GOV
+query355	crab	GOV
+query471	"judicial system"	GOV
+query1476	soldier+,cowardly	GOV
+query1440	lizard,ceiling	LIF
+query1686	"I don't understand you"	LIF
+query168	storm,damage+	LIF
+query1329	Tondo,celebration+	LIF
+query3987	"ghost <projects>"	GOV
+query1577	Davao,"100 new teachers"	GOV
+query359	<buildings>	GOV
+query1574	Koronadal,construction+	LIF
+query108	drinking,alcohol	GOV
+query365	"Sanlakas group"	GOV
+query870	"enemy of the <farmers>"	GOV
+query912	"black sand"	GOV
+query607	"traffic problem"	GOV
+query448	"price of sugar"	GOV
+query508	"extra income"	GOV
+query4483	<monkeys>	GOV
+query391	work,"Saudi Arabia"	GOV
+query3255	"colonial mentality"	GOV
+query84	foreign,monopoly	GOV
+query364	"beautiful climate"	GOV
+query436	"pushing drugs"	GOV
+query424	"newly opened hospital"	GOV
+query2295	"Mountain Province"	GOV
+query102	anti-Communist	GOV
+query954	wing[evf:bird]	GOV
+query582	"local government",tax	GOV
+query589	oil,poor	GOV
+query512	"air quality"	GOV
+query1372	"new society"	GOV
+query138	"Mangyan word"	GOV
+query2979	"former governor"	GOV
+query1881	palace,session	GOV
+query407	"volcano explosion"	GOV
+query1041	"new map"	GOV
+query106	nephew[syn:niece]	GOV
+query390	embassy,Sunday	GOV
+query426	"new building"	GOV
+query101	sabotage,police	GOV
+query5009	<slaves>	GOV
+query3921	<our pigs>	GOV
+query833	Laos[hyp:country]	GOV
+query1116	Asing	GOV
+query1805	provincial,fund	GOV
+query447	"clean toilet"	GOV
+query349	"cigarette tax"	GOV
+query492	"president term of office"	GOV
+query2048	insurance,company	GOV
+query4370	"largest <companies>"	GOV
+query987	understanding,emotion	GOV
+query4234	<applauded>	GOV
+query1004	investment,incentive	GOV
+query122	"laundry soap"	GOV
+query619	"what happened"	GOV
+query1892	credibility,confirmation[syn:authentication]	GOV
+query1363	"remains of the former president"	GOV
+query1673	secretary,role	GOV
+query320	ARMM,help	GOV
+query93	"Chinese navy"	GOV
+query166	"sixth grade"	GOV
+query1159	Chinese,syndicate	GOV
+query335	"Central Luzon"	GOV
+query99	bread,corn	GOV
+query704	liberalization	GOV
+query421	"red warrior"	GOV
+query4437	<bags>[evf:packaging]	GOV
+query843	Singapore,candy	GOV
+query1045	"cordon sanitaire"	GOV
+query2558	"<vomited> blood"	GOV
+query321	Mindanao,electricity	GOV
+query836	draft[evf:document]	GOV
+query140	butterfly,"political party"	GOV
+query1880	"second term"	GOV
+query1281	Comelec,citizen	GOV
+query465	"traffic law"	GOV
+query543	"red flag"	GOV
+query404	"large <airplanes>"	GOV
+query3601	Eric	GOV
+query3103	Karuhatan	GOV
+query1115	"coup d'etat",EXAMPLE_OF(clothes)	GOV
+query4902	water,EXAMPLE_OF(metal)	GOV
+query1039	Brunei,"territorial dispute"+	GOV
+query120	salary+,tax	GOV
+query1104	Thailand,royalty+	GOV
+query1091	"Makati mayor",clothes+	GOV
+query1560	Ridon,corruption+	GOV
+query4875	Basilan,"soldier death"+	GOV
+query1279	Bayugan,"human rights violation"+	GOV
+query4877	Palawan,"atrocities by American soldiers"+	GOV
+query4880	Lamitan,exodus+	GOV
+query1518	Chinese,"canceled passport"+	GOV
+query1160	garlic,smuggling+	GOV
+query4739	Dubai,contraband+	GOV
+query4783	Korea,"eating dogs[syn:canine]"+	GOV
+query4773	Manila,"papal visit"+	GOV
+query4889	Digong,carnapping+	GOV
+query4874	Jolo,kidnapping+	GOV
+query4878	Mindoro,"soldier rape"+	GOV
+query1107	Bontoc,"labor strike"+	GOV
+query3458	"growing cassava"+	GOV
+query4367	"grass fire"+	GOV
+query4998	"calling Filipinos monkeys"+	GOV
+query5025	"donating blood"+	GOV
+query4888	"kidnapping of tourists"+	GOV
+query1474	piracy+	GOV
+query5021	"carbon mining"+	GOV
+query5047	"claw of EXAMPLE_OF(disease)"	GOV
+query4984	"wearing black"+	GOV
+query3203	EXAMPLE_OF(footwear)	GOV
+query2042	fish[hyp:animal],tasty	LIF
+query541	finger	LIF
+query110	"black cat"	LIF
+query937	taro,lazy	LIF
+query1750	generosity,language	LIF
+query600	river,tree	LIF
+query1593	"weak knee"	LIF
+query1197	"coconut <trees>"	LIF
+query2551	<sang>	LIF
+query835	Superman	LIF
+query331	tree	LIF
+query1761	voluntary,blood	LIF
+query1148	stupendous	LIF
+query783	garlic,tomato	LIF
+query1588	when,twin	LIF
+query609	night,study	LIF
+query522	"key to success"	LIF
+query1286	amazing,grace	LIF
+query75	"banana tree"	LIF
+query1477	"private funeral"	LIF
+query91	cigarette,peanut	LIF
+query353	"other country"	LIF
+query1305	"special occasion"	LIF
+query1741	prayer,president	LIF
+query964	"our cousin"	LIF
+query882	"delicious puto"	LIF
+query776	shoes,expensive	LIF
+query740	pumpkin	LIF
+query2554	"happy <songs>"	LIF
+query1374	"English musician"	LIF
+query4231	<succeeded>	LIF
+query1245	candidate	LIF
+query1450	snore	LIF
+query1297	current[syn:present time],trend	LIF
+query1446	breeze	LIF
+query1317	color,body[evf:anatomy]	LIF
+query1701	"one of the richest"	LIF
+query955	"Chinese new year"	LIF
+query871	"circle of friends"	LIF
+query1313	spicy,"coconut milk"	LIF
+query1912	needle[hyp:sharp object]	LIF
+query862	"simple living"	LIF
+query794	blessing,God	LIF
+query1203	announce,praise	LIF
+query1251	"tomorrow is a mystery"	LIF
+query939	pearl[hyp:gem]	LIF
+query935	"sweet potato"	LIF
+query1453	"I laughed"	LIF
+query446	rooster	LIF
+query1677	governess,spouse	LIF
+query1049	"steering wheel"	LIF
+query763	ginger[hyp:rootcrop]	LIF
+query4233	<defecated>	LIF
+query415	"want to become a teacher"	LIF
+query1382	"I am still single"	LIF
+query1022	sales,commodity	LIF
+query839	"three months"	LIF
+query1585	Lapu-Lapu	LIF
+query1265	"first class"	LIF
+query1438	Kuwait,target	LIF
+query722	release,word	LIF
+query1118	annatto	LIF
+query1364	"indigenous music"	LIF
+query3826	"over three decades"[syn:more than three decades]	LIF
+query911	"buy sand"	LIF
+query901	"their music"	LIF
+query1390	pumpkin,"bottle gourd"	LIF
+query417	"daily wage"	LIF
+query1439	adequate,condition	LIF
+query715	chayote	LIF
+query1215	potato,"stir frying"+	LIF
+query4995	video,"Japanese art"+	LIF
+query104	pinakbet,EXAMPLE_OF(vegetable)	LIF
+query4495	fork,"washing dishes"+	LIF
+query5005	"Middle East","abuse of employees"+	LIF
+query131	hospital,EXAMPLE_OF(digits of the hand)	LIF
+query1026	Tondo,drunkenness+	LIF
+query4996	"cooking with potatoes"+	LIF
+query3453	deboning+	LIF
+query3457	"selling sweet potato tops"+	LIF
+query5002	"buying sheep"+	LIF
+query3830	"yellow apparel"+	LIF
+query4800	"pricked with a broom"+	LIF
+query83	"punishing with salt"+	LIF
+query105	"cooking with ginger"+	LIF
+query2190	"skin whitening"+	LIF
+query2177	"power failure"+	LIF
+query82	"cooking with garlic"+	LIF
+query1221	EXAMPLE_OF(berries)[hyp:fruit]	LIF
+query3889	EXAMPLE_OF(pachyderm)	LIF
+query4892	"Tausug food"+	LIF
+query4753	"urinating in the guava trees"+	LIF
+query4911	"wearing green"+	LIF
+query1703	"monosodium glutamate"+	LIF
+query4906	"not wearing a bra"+	LIF
+query5053	"transplanting flowers"+	LIF
+query5023	"wrapping with banana leaves"+	LIF
+query1615	"striking with a bayonet"+	LIF
+query3455	"boiled bananas"+	LIF
+query5244	"searching with Google"+	LIF
+query766	"blood sugar"	HEA
+query1304	vacation	HEA
+query2914	uniform	HEA
+query1832	"population growth"	HEA
+query2702	niacin	HEA
+query3092	"my head"	HEA
+query2701	"brown rice"	HEA
+query1836	"nutrition program"	HEA
+query849	"cook the meat well"	HEA
+query1735	"teenage pregnancy"	HEA
+query551	"excessive food"	HEA
+query1015	current[syn:present time],issue[syn:problem]	HEA
+query469	fever,sweat	HEA
+query1776	percentage,vase	HEA
+query2688	tumor	HEA
+query1855	compare,meanwhile	HEA
+query1794	inflammation	HEA
+query1456	coffee,antibiotic	HEA
+query1860	chemical	HEA
+query2962	"your favorite"	HEA
+query2126	antibody	HEA
+query1803	pregnant[evf:childbearing],doctor	HEA
+query2894	blister	HEA
+query2697	"uric acid"	HEA
+query2175	"death from pneumonia"	HEA
+query1062	"free[evf:cost] eyeglasses"	HEA
+query350	"anti-smoking campaign"	HEA
+query1127	"easily tired"	HEA
+query1793	tofu	HEA
+query1825	mussel	HEA
+query597	"water container"	HEA
+query3421	"when is your birthday"	HEA
+query367	umbrella	HEA
+query2915	Liberia	HEA
+query1872	automatic	HEA
+query2236	vomit	HEA
+query749	"dog bite"	HEA
+query2913	"night sweats"	HEA
+query3088	Dolphy	HEA
+query3093	hazing	HEA
+query77	"street dog"	HEA
+query393	patient,<nurses>	HEA
+query2882	encephalitis	HEA
+query921	"right time to bathe"	HEA
+query432	"hepatitis B"	HEA
+query3085	"our brain"	HEA
+query2599	"coconut industry"	HEA
+query2088	carrot	HEA
+query2095	"animal hair"	HEA
+query3089	<neurons>	HEA
+query2186	"stinky feet"	HEA
+query1074	follow,step[evf:stairs]	HEA
+query919	"enough sleep"	HEA
+query430	"kidney disease"	HEA
+query3867	"H3N2 virus"	HEA
+query1437	victory,project	HEA
+query2093	bra	HEA
+query2293	infertility[syn:inability to conceive]	HEA
+query4141	"<committed> suicide"	HEA
+query2105	"coconut milk"	HEA
+query570	"new law"	HEA
+query2708	okra	HEA
+query2110	menstruate	HEA
+query3067	spit[syn:sputum]	HEA
+query1952	forget[evf:memory],past[syn:previous]	HEA
+query466	symptom,cough	HEA
+query1200	"remove the lung"	HEA
+query2238	dry,air[syn:wind]	HEA
+query1774	obligation	HEA
+query3091	"neurological disorder"	HEA
+query1133	cat,"population control"+	HEA
+query1234	cigarette+,vice[syn:bad habit]	HEA
+query1121	estrogen,EXAMPLE_OF(beverage)	HEA
+query583	spread[syn:diffuse],EXAMPLE_OF(disease)	HEA
+query3198	blood,EXAMPLE_OF(metal)	HEA
+query1266	eyes+,crimson[hyp:color]	HEA
+query467	growth+,armpit	HEA
+query1420	wall+,demolish	HEA
+query1775	vaccination+,dog	HEA
+query2058	"food warnings"+,shrimp	HEA
+query917	muscle,pain+	HEA
+query1270	campaign+,enthusiastic	HEA
+query1135	lung,"medical test"+	HEA
+query592	perfume+,cold[evf:virus]	HEA
+query2181	colon,sickness+	HEA
+query3199	wife,EXAMPLE_OF(color)	HEA
+query1426	youth+,role	HEA
+query1120	caffeine,EXAMPLE_OF(vegetable)	HEA
+query1400	people+,unity	HEA
+query1132	Ebola,"bodily fluids"+	HEA
+query2812	"milk death"+	HEA
+query1566	hemorrhage+	HEA
+query2185	malaria+	HEA
+query4152	"moringa benefits"+	HEA
+query2671	"poisoning in Zamboanga"+	HEA
+query2183	"animal research"+	HEA
+query2187	"diabetic amputation"+	HEA
+query3204	EXAMPLE_OF(rootcrop)	HEA
+query2699	"calcium deficiency"+	HEA
+query2178	"disease in Thailand"+	HEA
+query406	"Japanese war"	MIL
+query2070	soul	MIL
+query2072	gun,"another country"	MIL
+query2099	Marawi	MIL
+query329	guerilla	MIL
+query2206	"livelihood assistance"	MIL
+query97	<orphaned>	MIL
+query2998	Mamasapano,<admitted>	MIL
+query3094	Abdul	MIL
+query1657	fire[syn:burn],incident	MIL
+query149	Okinawa	MIL
+query1642	discover	MIL
+query635	"native citizen"	MIL
+query1656	billion,police	MIL
+query2169	"our website"	MIL
+query757	"foreign company[syn:firm]"	MIL
+query1841	executioner	MIL
+query983	"coast guard",ship[syn:vessel]	MIL
+query1704	experience	MIL
+query3755	"Romel already <ate>"	MIL
+query129	"picket line"	MIL
+query2211	"AFP spokesperson"	MIL
+query780	candidate,government	MIL
+query1258	twin,warship	MIL
+query2171	deer	MIL
+query4475	city,<territories>	MIL
+query326	"right to vote"	MIL
+query2917	Sahiron	MIL
+query653	"civilian family"	MIL
+query2116	button	MIL
+query1284	virtue	MIL
+query2160	magazine	MIL
+query772	Thailand,demonstrator	MIL
+query1649	beneficiary	MIL
+query985	combat,readiness	MIL
+query2892	"seventy-five billion"[hyp:cardinal number]	MIL
+query1920	camouflage	MIL
+query3130	"Asian talent"	MIL
+query128	"new leader"	MIL
+query4982	<allies>	MIL
+query649	"security threat"	MIL
+query81	"Communist star"	MIL
+query3607	"Red Cross"	MIL
+query1610	economy,lazy	MIL
+query3734	<tourists>	MIL
+query638	"armed citizen"	MIL
+query1575	"where are the police"	MIL
+query2112	"Yellow Sea"	MIL
+query1646	encounter,motorist	MIL
+query1393	"their plan"	MIL
+query731	militant,worker	MIL
+query1005	travel,plan	MIL
+query3499	"Bangsamoro Basic Law"	MIL
+query625	"American soldier"	MIL
+query1191	"died yesterday"	MIL
+query4504	<hostages>[syn:captives]	MIL
+query457	"Abu Sayyaf"	MIL
+query746	"national hero"	MIL
+query2074	"grenade launchers"	MIL
+query1046	Nasugbu,"security guard"	MIL
+query2077	shark	MIL
+query2719	terminology	MIL
+query2703	Estrada	MIL
+query1466	Taiwan,"civil war"	MIL
+query3615	"dead <trees>"	MIL
+query2345	cat[evf:domesticated animal]	MIL
+query1282	patience,compassion	MIL
+query88	"free trade"	MIL
+query1293	"eloquent speaker"	MIL
+query1216	professionalism	MIL
+query1275	Tandag,drunkenness+	MIL
+query1008	Marawi,injury+	MIL
+query1401	"citizen rights"+,discretion	MIL
+query4500	Mindanao,kidnapping+[syn:hostage taking]	MIL
+query681	soldier+[syn:military person],training	MIL
+query4977	Kidapawan,"escaped prisoners"+	MIL
+query2165	"Middle East",employment+	MIL
+query679	project+[syn:plan],fund	MIL
+query1017	Catanduanes,paralysis+	MIL
+query4881	Lamitan,"fleeing for safety"+	MIL
+query1110	Jolo,weapon+	MIL
+query1111	Negros,poverty+	MIL
+query1609	Corazon,evacuation+	MIL
+query1181	policy+,consensus	MIL
+query1277	arrest+[syn:incarcerate],gratuity	MIL
+query1259	puppet,warship+	MIL
+query2635	"finger amputation"+,DNA	MIL
+query3197	Mamasapano,EXAMPLE_OF(metal)	MIL
+query1429	mention+,article	MIL
+query1907	"Philippine government"+,ambassador	MIL
+query3920	"subscribing in Youtube"+	MIL
+query3890	EXAMPLE_OF(nonhuman primate)	MIL
+query3520	"wire tapping"+	MIL
+query3000	"accepting bribes"+	MIL
+query1161	smuggling+	MIL
+query4884	EXAMPLE_OF(suid)[evf:animal]	MIL
+query2204	"fishing vessel"+	MIL
+query3602	"EXAMPLE_OF(body part) hit by shrapnel"	MIL
+query4613	"murder of a nephew"+	MIL
+query2188	"flag burning"+	MIL

@@ -89,7 +89,7 @@ for i in q:
         all_emb.append(0)
     for term in terms:
         term_emb = e[term]
-        print term_emb
+        #print term_emb
         for j in range(0, m):
             all_emb[j] += term_emb[j]
     for j in range(0,m):
@@ -126,11 +126,11 @@ for i in q:
                 break
 
         os.remove("eval.sh")
-    print("##",AQWV_scores)
+    #print("##",AQWV_scores)
     best_cutoff = np.argmax(AQWV_scores)+1
     #best_cutoff = 2
     y.append(best_cutoff)
-    print(i,xi,best_cutoff)
+    #print(i,xi,best_cutoff)
 clf.fit(X, y) # THE ERROR IS COMING FROM HERE (line 149)
 q_test_features=defaultdict(list)
 q_test_docs=defaultdict(list)
@@ -147,6 +147,7 @@ with open(params.input) as f:
 
 out = open(params.input+".optimized",'w')
 for query in q_test_features:
+    print "Query: " + str(query)
     xi=np.zeros(m)
     scores = q_test_features[query]/sum(q_test_features[query])
     for a in range(len(scores)):

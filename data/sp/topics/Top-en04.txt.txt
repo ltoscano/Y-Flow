@@ -1,0 +1,350 @@
+<top>
+<num> C201 </num>
+<EN-title> Domestic Fires </EN-title>
+<EN-desc> What are the main causes of fires in the home? </EN-desc>
+<EN-narr> Relevant documents will mention at least one (probable) cause of fires in private houses in general or with reference to specific instances. </EN-narr>
+</top>
+
+<top>
+<num> C202 </num>
+<EN-title> Nick Leeson's Arrest </EN-title>
+<EN-desc> Find documents on Nick Leeson's arrest and the causes which led him to jail. </EN-desc>
+<EN-narr> Relevant documents must report on the reasons for Nick Leeson's arrest, and subsequent imprisonment. </EN-narr>
+</top>
+
+<top>
+<num> C203 </num>
+<EN-title> East Timor Guerrillas </EN-title>
+<EN-desc> Find documents on the guerrilla activity in East Timor. </EN-desc>
+<EN-narr> Relevant documents should mention concrete political or military activities of the East Timorese guerrilla forces. </EN-narr>
+</top>
+
+<top>
+<num> C204 </num>
+<EN-title> Victims of Avalanches </EN-title>
+<EN-desc> Find information on the numbers of human deaths in avalanches and the origins of the victims. </EN-desc>
+<EN-narr> Relevant documents must give details about numbers of people who die of avalanches and information on where the victims come from. </EN-narr>
+</top>
+
+<top>
+<num> C205 </num>
+<EN-title> Tamil Suicide Attacks </EN-title>
+<EN-desc> Find some information about Tamil Tiger suicide bomb attacks or kamikaze actions in Sri Lanka. </EN-desc>
+<EN-narr> Only documents reporting suicide bombing attacks by Tamil rebels are relevant; other forms of attack are not of interest. </EN-narr>
+</top>
+
+<top>
+<num> C206 </num>
+<EN-title> G7 Summit in Halifax </EN-title>
+<EN-desc> Find documents about discussions on the reform of financial institutions, and in particular the World Bank and the IMF, at the G7 summit that took place in Halifax in 1995 </EN-desc>
+<EN-narr> Relevant documents must give details of economic discussions and must make some mention of proposals for the reform of international financial institutions. </EN-narr>
+</top>
+
+<top>
+<num> C207 </num>
+<EN-title> Fireworks Injuries </EN-title>
+<EN-desc> Find documents reporting on casualties caused by fireworks. </EN-desc>
+<EN-narr> Relevant documents will report on casualties caused by fireworks. Both documents providing statistics on injuries or reports of single incidents are of interest.
+</EN-narr>
+</top>
+
+<top> 
+<num> C208 </num>
+<EN-title> "Sophie's World" </EN-title> 
+<EN-desc> Find documents about the editorial success of the book "Sophie's World" by Jostein Gaarder. </EN-desc>
+<EN-narr> Relevant documents should describe the topic of "Sophie's World", and should mention its sales success. </EN-narr>
+</top>
+
+<top>
+<num> C209 </num>
+<EN-title> Tour de France Winner </EN-title>
+<EN-desc> Who won the Tour de France in 1995? </EN-desc>
+<EN-narr> Relevant documents must state the name of the winner of the Tour de France in 1995. </EN-narr>
+</top>
+
+<top>
+<num> C210 </num>
+<EN-title> Nobel Peace Prize Candidates </EN-title>
+<EN-desc> Find documents discussing the names of any of the candidates for the Nobel Peace Prize in 1995. </EN-desc>
+<EN-narr> Documents should reflect predictions previous to the Nobel Peace Prize announcement concerning possible winners. Documents only mentioning the winner are not relevant. </EN-narr>
+</top>
+
+<top>
+<num> C211 </num>
+<EN-title> Peru-Ecuador Border Conflict </EN-title>
+<EN-desc> Find documents on the border dispute between Peru and Ecuador. </EN-desc>
+<EN-narr> Relevant documents provide any kind of details on the Peru-Ecuador border dispute. </EN-narr>
+</top>
+
+<top>
+<num> C212 </num>
+<EN-title> Sportswomen and Doping </EN-title>
+<EN-desc> Find documents talking about women who have been accused of using drugs to improve their sporting results. </EN-desc>
+<EN-narr> Both documents discussing the general problem of women in sports using drugs to improve performance and those mentioning the names of women accused are relevant. </EN-narr>
+</top>
+
+<top>
+<num> C213 </num>
+<EN-title> Papal Travels </EN-title>
+<EN-desc> Find documents on journeys out of Italy made by Pope John Paul II in 1995. </EN-desc>
+<EN-narr> Relevant documents will mention any of the countries in Europe, Africa or Asia visited by the Pope in 1995. Any mention of trips made in other years is not of interest. </EN-narr>
+</top>
+
+<top>
+<num> C214 </num>
+<EN-title> Multi-billionaires </EN-title>
+<EN-desc> Find documents about the wealth of multi-billionaires anywhere in the world. </EN-desc>
+<EN-narr>Relevant documents should give the names of individual multibillionaires with details on how wealthy they are or should provide general figures about multi-billionaires in the world and how much they are worth. </EN-narr>
+</top>
+
+<top>
+<num> C215 </num>
+<EN-title> Re-election of Peru's President </EN-title>
+<EN-desc> Find documents about the re-election of the Peruvian president in 1995. </EN-desc>
+<EN-narr> Relevant document must mention the re-election of Peru's president, i.e. the second mandate. </EN-narr>
+</top>
+
+<top>
+<num> C216 </num>
+<EN-title> Glue-sniffing Youngsters </EN-title>
+<EN-desc> How popular is glue-sniffing among young children and adolescents? </EN-desc>
+<EN-narr> Documents should report specific incidents or provide general information regarding the habit of glue-sniffing by young children and adolescents. Information on legislation aimed at prohibiting the supply of glue-sniffing kits to children is also relevant. The sniffing of other substances is not of interest. </EN-narr>
+</top>
+
+<top>
+<num> C217 </num>
+<EN-title> AIDS in Africa </EN-title>
+<EN-desc> Find documents discussing the increase of AIDS in Africa. </EN-desc>
+<EN-narr> There has been an explosive increase of AIDS in Africa. Relevant documents will discuss this problem. Of particular interest are documents mentioning humanitarian organisations fighting AIDS in Africa. </EN-narr>
+</top>
+
+<top>
+<num> C218 </num>
+<EN-title> Andreotti and the Mafia </EN-title>
+<EN-desc> Find information about legal actions against the ex -prime minister of Italy, Giulio Andreotti, accusing him of belonging to or associating with the Mafia. </EN-desc>
+<EN-narr> Relevant documents must provide details of legal actions, merely listing the charges without additional information is not sufficient. </EN-narr>
+</top>
+
+<top>
+<num> C219 </num>
+<EN-title> EU Commissioner Candidates </EN-title>
+<EN-desc> What were the reasons given by EU parliamentarians for not giving their full acceptance to four EU commission candidates and what was the nationality of these candidates. </EN-desc>
+<EN-narr> Relevant documents will mention the reasons for objecting to certain candidates and the nationality of such candidates. Single examples are also pertinent. Documents describing the audition of candidates are of interest as well. </EN-narr>
+</top>
+
+<top>
+<num> C220 </num>
+<EN-title> European Cars in Russia </EN-title>
+<EN-desc> Find documents reporting on the export of European cars to Russia. </EN-desc>
+<EN-narr> Relevant documents talk about export of cars to Russia and must make explicit mention of some specific makes. </EN-narr>
+</top>
+
+<top>
+<num> C221 </num>
+<EN-title> 2002 Olympic Winter Games </EN-title>
+<EN-desc> Find documents on the selection of the host city for the 2002 Olympic Winter Games. </EN-desc>
+<EN-narr> Relevant documents should mention the selection process and the names of the candidate cities; documents that mention the chosen city only are not relevant. </EN-narr>
+</top>
+
+<top>
+<num> C222 </num>
+<EN-title> Presidential elections in France </EN-title>
+<EN-desc> Find documents about who won and who lost the final round of the presidential elections in France in 1995. </EN-desc>
+<EN-narr> Relevant document should give the name of the person who won the final round of the presidential elections in May 1995, but also the name of the person who was defeated in the same election. </EN-narr>
+</top>
+
+<top>
+<num> C223 </num>
+<EN-title> Chernobyl Disaster outside ex-USSR </EN-title>
+<EN-desc> Find documents about the effects of the Chernobyl nuclear catastrophe beyond the borders of the former Soviet Union. </EN-desc>
+<EN-narr> Relevant documents should refer to consequences of the Chernobyl accident outside of the ex-Soviet Union countries. </EN-narr>
+</top>
+
+<top>
+<num> C224 </num>
+<EN-title> Woman solos Everest </EN-title>
+<EN-desc> Who was the first woman to climb Everest on her own and without oxygen? </EN-desc>
+<EN-narr> Relevant documents will give the name and/or the nationality of the first woman-climber who conquered the summit of Mount Everest alone and without the help of artificial oxygen. </EN-narr>
+</top>
+
+<top>
+<num> C225 </num>
+<EN-title> Nuclear Power Plant of Sosnovyi Bor </EN-title>
+<EN-desc> Find documents reporting the emergency shut-down of the nuclear power plant of Sosnovyi Bor in 1995. </EN-desc>
+<EN-narr> Relevant documents describe the reasons for the shut-down of the nuclear power plant of Sosnovyi Bor, located near St. Petersburg, in 1995. Of particular interest are documents mentioning problems with the second-unit. </EN-narr>
+</top>
+
+<top>
+<num> C226 </num>
+<EN-title> Sex-change Operations </EN-title>
+<EN-desc> Find documents reporting gender-change operations for transsexuals. </EN-desc>
+<EN-narr> All documents that mention sex-change operations for transsexuals, are relevant. </EN-narr>
+</top>
+
+<top>
+<num> C227 </num>
+<EN-title> Altai Ice Maiden </EN-title>
+<EN-desc> Find documents reporting on the so-called Altai Ice Maiden or Ice Princess, a more than 2000 years old mummified woman. </EN-desc>
+<EN-narr> The mummified body of a woman described as an Ice Maiden was found in the Altai mountains. The body was conserved in the Siberian permafrost ground for over 2000 years. </EN-narr>
+</top>
+
+<top>
+<num> C228 </num>
+<EN-title> Prehistorical Art </EN-title>
+<EN-desc> Find documents on recent findings of pre-historical art </EN-desc>
+<EN-narr> Relevant documents should give information on the location of recent findings of pre-historic art. </EN-narr>
+</top>
+
+<top>
+<num> C229 </num>
+<EN-title> Dam Building </EN-title>
+<EN-desc> Find documents on the construction of dams. </EN-desc>
+ <EN-narr> Relevant documents should provide some details on the construction or the planning of man-made dams Documents simply mentioning a dam by name and/or location are not relevant. </EN-narr>
+</top>
+
+<top>
+<num> C230 </num>
+<EN-title> Atlantis-Mir Docking </EN-title>
+<EN-desc> Find documents reporting the first space shuttle docking between the US shuttle Atlantis and the Mir space station. </EN-desc>
+<EN-narr> Relevant documents must mention the docking between Atlantis and Mir. The number, nationality and/or names of the astronauts are also of interest. </EN-narr>
+</top>
+
+<top>
+<num> C231 </num>
+<EN-title> New Portuguese Prime Minister </EN-title>
+<EN-desc> Find information on the national elections in Portugal in October 1995 and the name of the newly elected prime minister. </EN-desc>
+<EN-narr> Relevant documents must specifically mention the elections in Portugal in 1995 and must also give the name of the new prime minister. </EN-narr>
+</top>
+
+<top>
+<num> C232 </num>
+<EN-title> Pension Schemes in Europe </EN-title>
+<EN-desc> Find documents that describe national pension systems currently adopted in Europe either for single nations or all the countries in the European Union. </EN-desc>
+<EN-narr> Relevant documents will contain information on pension schemes for single European states or also for the European Union as a whole. Information of interest includes minimum and maximum ages for retirement, the way in which the retirement income is calculated, types of pension, percentage of contributions, etc. Plans for future reforms are not relevant. </EN-narr>
+</top>
+
+<top>
+<num> C233 </num>
+<EN-title> Greenhouse Effect </EN-title>
+<EN-desc> Find documents about global climate changes and, in particular, discussions about the existence of the "greenhouse effect". </EN-desc>
+<EN-narr> Relevant documents must mention the greenhouse effect in relation to climate changes and the phenomenon of global warming. Both documents that argue that the greenhouse effect and global warming are the same thing and those that dispute this are relevant. </EN-narr>
+</top>
+
+<top>
+<num> C234 </num>
+<EN-title> Deaf and Society </EN-title>
+<EN-desc> Find information on problems encountered by deaf people in the social community. </EN-desc>
+<EN-narr> Relevant documents should report on any issue that affects the well-being of the deaf in social life. </EN-narr>
+</top>
+
+<top>
+<num> C235 </num>
+<EN-title> Seal-hunting </EN-title>
+<EN-desc> Find documents discussing seal-hunting, and especially opinions of the WWF or other organisations for nature conservation. </EN-desc>
+<EN-narr> Documents describing the opinions of individuals on seal-hunting are also relevant. </EN-narr>
+</top>
+
+<top>
+<num> C236 </num>
+<EN-title> A typhoon in the Philippines </EN-title>
+<EN-desc> What was the name of the hurricane that battered the Philippines in November 1995 taking the lives of hundreds of victims and destroying or damaging thousands of buildings. </EN-desc>
+<EN-narr> Relevant documents must mention the name of the typhoon. Further information is not needed. </EN-narr>
+</top>
+
+<top>
+<num> C237 </num>
+<EN-title> Panchen Lama </EN-title>
+<EN-desc> Find reports on disputes concerning the selection of the new Panchen Lama. </EN-desc>
+<EN-narr> Relevant documents should deal with the rival claims concerning the Panchen Lama's reincarnation made by the Dalai Lama and by the government of the People's Republic of China. Reference must be made to the fact that a dispute surrounded the acceptance of this spiritual leader. </EN-narr>
+</top>
+
+<top>
+<num> C238 </num>
+<EN-title> Lady Diana </EN-title>
+<EN-desc> Relevant documents will give details of statements made by Princess Diana concerning her marriage during her famous BBC interview with Martin Bashir. </EN-desc>
+<EN-narr> Relevant documents must report statements actually made by Diana concerning the difficulties of her marriage and reasons for its failure. </EN-narr>
+</top>
+
+<top>
+<num> C239 </num>
+<EN-title> Mental Health of the Young </EN-title>
+<EN-desc> Find documents describing mental heath problems of children and adolescents and possible treatments for these problems. </EN-desc>
+<EN-narr> All documents that discuss in any way mental health problems of children or adolescents are relevant. </EN-narr>
+</top>
+
+<top>
+<num> C240 </num>
+<EN-title>Sioux Ghost Shirt </EN-title>
+<EN-desc> Should the sacred ghost shirt on display in a Glasgow museum be returned to native American Sioux tribesmen? </EN-desc>
+<EN-narr> Negotiations under way between Glasgow museum officials and a group of native Americans regard the return to the Sioux people of a sacred ghost shirt stolen from a victim of the Wounded Knee massacre. Any information on these talks is relevant. </EN-narr>
+</top>
+
+<top>
+<num> C241 </num>
+<EN-title> New political parties </EN-title>
+<EN-desc> Find documents providing information about the founding of new political parties giving the names of their leaders. </EN-desc>
+<EN-narr> Relevant documents must discuss the founding of new political parties and provide the name of at least some of the leaders. Also of interest is the country or region where the party is active. Documents about the re-founding of previously existing parties are relevant too. </EN-narr>
+</top>
+
+<top>
+<num> C242 </num>
+<EN-title> Record Permanence in Space </EN-title>
+<EN-desc> Find documents on the longest stay of a human being in space, including the cosmonaut's name. </EN-desc>
+<EN-narr> Relevant documents should concern the breaking of the record for the longest time spent in space, mentioning by name the cosmonaut who set the record. </EN-narr>
+</top>
+
+<top>
+<num> C243 </num>
+<EN-title> Films of Kieslowski </EN-title>
+<EN-desc> Find documents about the films of Polish director Krzysztof Kieslowski. </EN-desc>
+<EN-narr> Documents must give some details of Kieslowski's films, just mentioning their names is not sufficient. </EN-narr>
+</top>
+
+<top>
+<num> C244 </num>
+<EN-title> Footballer of the Year 1994 </EN-title>
+<EN-desc> Find documents which report on the selection of the FIFA world football player of the year 1994. </EN-desc>
+<EN-narr> In 1994 the soccer player of the year was chosen by journalists from 100 countries in Lisbon. Relevant documents must mention the name of this player and provide information on the selection process or on the subsequent celebrations in Lisbon or his native country. Documents that just mention the name of the winner without other details are not relevant. The bare mention of the award in other contexts isn't sufficient. </EN-narr>
+</top>
+
+<top>
+<num> C245 </num>
+<EN-title> Christopher Reeve </EN-title>
+ <EN-desc> Find documents on the career of the actor Christopher Reeve and on the accident that paralyzed him. </EN-desc>
+<EN-narr> Relevant documents should deal with the actor, his career, and the accident that paralyzed him. </EN-narr>
+</top>
+
+<top>
+<num> C246 </num>
+ <EN-title> Castro visits UN </EN-title>
+<EN-desc> Find documents reporting Fidel Castro's historic speech to the General Assembly of the United Nations in 1995. </EN-desc>
+<EN-narr> Relevant documents will give some information on the content of the speech made by Fidel Castro at the General Assembly of the United Nations in October 1995. </EN-narr>
+</top>
+
+<top>
+<num> C247 </num>
+<EN-title> Alexander the Great's Tomb </EN-title>
+<EN-desc> Find details about the discovery of the presumed burial site of Alexander the Great. </EN-desc>
+<EN-narr> Relevant documents must report information on the approximate location of the site where archaeologists have found what appears to be the tomb of Alexander the Great. </EN-narr>
+</top>
+
+<top>
+<num> C248 </num>
+<EN-title> Macedonia Name Dispute </EN-title>
+<EN-desc> Find documents on objections by the Greek government regarding the use of the name Macedonia for one of the states of ex-Yugoslavia. </EN-desc>
+<EN-narr> Relevant documents should mention the disagreement on the name Macedonia and provide information on the position of the Greek government and/or opinions of the Greek people. </EN-narr>
+</top>
+
+<top>
+<num> C249 </num>
+<EN-title> Women's Ten Thousand Metres Champion </EN-title>
+<EN-desc> Who won the women's 10,000m in the World Athletics Championship at Gothenburg. </EN-desc>
+<EN-narr> Relevant documents must name the winner of the 10,000m final at the Gothenburg World Athletics Championship. </EN-narr>
+</top>
+
+<top>
+<num> C250 </num>
+<EN-title> Rabies in Humans </EN-title>
+<EN-desc> Find documents reporting incidents of human rabies and discussing methods for prevention of rabies in humans. </EN-desc>
+<EN-narr> Relevant documents should allow the reader to learn about one or more methods used for the prevention of human rabies. However, documents reporting incidents of human rabies are also of interest. </EN-narr>
+</top>

@@ -1,0 +1,348 @@
+<top> 
+<num> C201 </num>
+<SP-title> Incendios Domésticos </SP-title> 
+<SP-desc> ¿Cuáles son las principales causas de los incendios domésticos? </SP-desc> 
+<SP-narr> En los documentos relevantes se mencionará al menos una causa (probable) de los incendios en domicilios particulares en general o con referencia a ejemplos específicos. </SP-narr> 
+</top>
+
+<top> 
+<num> C202 </num>  
+<SP-title> La detención de Nick Leeson </SP-title> 
+<SP-desc> Encontrar documentos sobre la detención de Nick Leeson's y las causas que lo llevaron a la cárcel. </SP-desc> 
+<SP-narr> Los documentos relevantes tienen que informar sobre los motivos de la detención de Nick Leeson y de su posterior encarcelamiento. </SP-narr> 
+</top>
+
+<top> 
+<num> C203 </num>  
+<SP-title> Las Guerrillas en Timor Oriental </SP-title> 
+<SP-desc> Encontrar documentos sobre la actividad de las guerillas en Timor Oriental. </SP-desc> 
+<SP-narr> Los documentos relevantes deberían mencionar las actividades políticas o militares concretas de las fuerzas de la guerrilla de Timor Oriental. </SP-narr> 
+</top> 
+
+<top>
+<num> C204 </num>
+<SP-title> Víctimas de Avalanchas </SP-title>
+<SP-desc> Encontrar información sobre el número de personas muertas a causa de avalanchas y sobre la procedencia de las víctimas. </SP-desc>
+<SP-narr> Los documentos relevantes tienen que proporcionar datos sobre el número de personas que han perdido la vida a causa de avalanchas y la información sobre el lugar de origen de las víctimas. </SP-narr>
+</top>
+
+<top> 
+<num> C205 </num>
+<SP-title> Ataques Suicidas de los Tamiles  </SP-title> 
+<SP-desc> Encontrar información sobre ataques suicidas con bombas o  acciones kamikaze llevadas a cabo por los Tigres Tamiles en  Sri Lanka. </SP-desc> 
+<SP-narr> Sólo serán relevantes los documentos sobre los ataques suicidas con bombas perpetrados por los rebeldes tamiles. Otras formas de ataques no serán de interés.
+</SP-narr> 
+</top> 
+
+<top> 
+<num> C206 </num>
+<SP-title> La Cumbre de los G7 en Halifax </SP-title> 
+<SP-desc> Encontrar documentos en los que se habla de las discusiones sobre la reforma de instituciones financieras y, en particular, del Banco Mundial y del FMI durante la cumbre de los G7 que se celebró en Halifax en 1995 </SP-desc>
+<SP-narr> Los documentos relevantes tienen que ofrecer detalles sobre las discusiones económicas y mencionar de alguna manera las propuestas para la reforma de las instituciones financieras internacionales. </SP-narr>
+</top>
+
+<num> C207 </num>
+<SP-title> Daños por Fuegos Artificiales </SP-title> 
+<SP-desc> Encontrar documentos en los que se habla de heridos causados por fuegos artificales. </SP-desc> 
+<SP-narr> Los documentos relevantes hablarán de heridos causados por fuegos artificales. Serán de interés tanto los documentos que proporcionen estadísticas sobre los daños, como noticias sobre incidentes particulares.
+</SP-narr> 
+</top> 
+
+<top> 
+<num> C208 </num>
+<SP-title> "El Mundo de Sofía" </SP-title> 
+<SP-desc> Encontrar documentos sobre el éxito editorial del libro "El Mundo de Sofía" de Jostein Gaarder. </SP-desc> 
+<SP-narr> Los documentos relevantes deberían describir el tema de "El Mundo de Sofía" y mencionar su éxito de ventas. </SP-narr> </top> 
+
+<top>
+<num> C209 </num>
+<SP-title> El Ganador del Tour de Francia </SP-title>
+<SP-desc> ¿Quién ganó el Tour de Francia en 1995? </SP-desc>
+<SP-narr>Los documentos relevantes tienen que dar el nombre del ganador del Tour de Francia en 1995. </SP-narr>
+</top>
+
+<top> 
+<num> C210 </num>
+<SP-title> Candidatos al Premio Nobel de la Paz </SP-title> 
+<SP-desc> Encontrar documentos en los que se habla de los nombres de algunos candidatos al Premio Nobel de la Paz de 1995. </SP-desc> 
+<SP-narr> Los documentos tienen que reflejar las predicciones sobre los posibles ganadores previas al anuncio de la atribución del Premio Nobel de la Paz. Los documentos en los que solamente se menciona el ganador no son relevantes. </SP-narr> 
+</top> 
+
+<top> 
+<num> C211 </num>
+<SP-title> Conflicto en la Frontera Perú-Ecuador </SP-title> 
+<SP-desc> Encontrar documentos sobre la disputa fronteriza entre Perú y Ecuador. </SP-desc> 
+<SP-narr> Los documentos relevantes proporcionan cualquier tipo de detalles sobre la disputa fronteriza entre Perú y Ecuador. </SP-narr> 
+</top> 
+
+<top>
+<num> C212 </num>
+<SP-title> Mujeres deportistas y el Dopaje </SP-title>
+<SP-desc> Encontrar documentos que hablen de mujeres que han sido acusadas de utilizar drogas para mejorar sus resultados deportivos. </SP-desc>
+<SP-narr> Son relevantes tanto los documentos sobre el problema general de mujeres deportistas que utilizan drogas para mejorar su rendimiento, como aquellos en los que se dan nombres de mujeres acusadas de dopaje. </SP-narr>
+
+<top> 
+<num> C213 </num>
+<SP-title> Viajes Papales </SP-title> 
+<SP-desc> Encontrar documentos sobre los viajes fuera de Italia realizados por el Papa Juan Pablo II en 1995. </SP-desc> 
+<SP-narr> En los documentos relevantes se mencionará cualquiera de los países de Europa, África o Asia visitados por el Papa en 1995. Las noticias sobre los viajes papales de otros años no serán de interés. </SP-narr> 
+</top> 
+
+<top>
+<num> C214 </num>
+<SP-title> Multimillonarios </SP-title>
+<SP-desc> Encontrar documentos sobre la riqueza de multimillonarios en cualquier parte del mundo. </SP-desc>
+<SP-narr>Los documentos relevantes deberían dar nombres de los individuos multimillonarios propocionando detalles sobre el tamaño de su fortuna o dar cifras generales sobre los multimillonarios en el mundo y sobre cuánto poseen. </SP-narr>
+</top>
+
+<top>
+<num> C215 </num>
+<SP-title> Reelección del Presidente de Perú </SP-title>
+<SP-desc> Encontrar documentos sobre la reelección del presidente peruano en 1995. </SP-desc>
+<SP-narr> Los documentos relevantes tienen que hablar de la reelección del presidente de Peru, por ejemplo, el segundo mandato. </SP-narr>
+</top>
+
+<top> 
+<num> C216 </num>  
+<SP-title> Jóvenes que Inhalan Pegamento </SP-title> 
+<SP-desc> ¿Cómo de extendida está la práctica de inhalar pegamento entre niños y adolescentes? </SP-desc> 
+<SP-narr> Los documentos tienen que informar sobre casos particulares o proporcionar datos generales relativos a la práctica de inhalar pegamento entre niños y adolescentes. La información sobre la legislación dirigida a la prohibición de facilitar equipamiento para inhalar pegamento a niños también es relevante. La práctica de esnifar otras sustancias no es de interés. </SP-narr> 
+</top>
+
+<top>
+<num> C217 </num>
+<SP-title> SIDA en África </SP-title>
+<SP-desc> Encontrar documentos que hablan del aumento de casos de SIDA en África. </SP-desc>
+<SP-narr> Se ha producido un aumento explosivo del SIDA en África. Los documentos relevantes tienen que tratar de este problema. Especial interés tienen los documentos en que se habla de organizaciones humanitarias que luchan contra el SIDA en África. </SP-narr>
+</top>
+
+<top>
+<num> C218 </num>
+<SP-title> Andreotti y la Mafia </SP-title>
+<SP-desc> Encontrar información sobre acciones legales contra el ex primer ministro de Italia, Giulio Andreotti, que le acusan de pertenecer o colaborar con la Mafia. </SP-desc>
+<SP-narr> Los documentos relevantes tienen que proporcionar detalles sobre acciones legales. La mera enumeración de los cargos sin información adicional no es suficiente. </SP-narr>
+</top>
+
+<top>
+<num> C219 </num>
+<SP-title> Candidatos a Comisario de la UE </SP-title>
+<SP-desc> ¿Qué razones dieron los parlamentarios de la UE para no apoyar  plenamente a cuatro candidatos a la comisión Europea  y de qué nacionalidad eran esos candidatos? </SP-desc>
+<SP-narr> En los documentos relevantes se hablará de las razones por las que no se aprobaron ciertas candidaturas y se indicará la nacionalidad de esos candidatos. También son relevantes los ejemplos aislados. Los documentos que describen la audición de los candidatos también serán de interés. </SP-narr>
+</top>
+
+<top>
+<num> C220 </num>
+<SP-title> Coches Europeos en Rusia </SP-title>
+<SP-desc> Encontrar documentos que hablan de la exportación de coches europeos a Rusia. </SP-desc>
+<SP-narr> En los documentos relevantes se tiene que tratar de la exportación de coches a Rusia y se tiene que mencionar explícitamente algunas marcas concretas. </SP-narr>
+</top>
+
+<top> 
+<num> C221 </num>
+<SP-title> Juegos Olímpicos de Invierno de 2002 </SP-title> 
+<SP-desc> Encontrar documentos sobre la elección de la ciudad anfitriona para los Juegos Olímpicos de Invierno de 2002. </SP-desc> 
+<SP-narr> En los documentos relevantes se debe hablar del proceso de selección y de los nombres de las ciudades candidatas. Los documentos en que solamente se menciona la ciudad elegida no son relevantes. </SP-narr> 
+</top> 
+
+<top>
+<num> C222 </num>
+<SP-title> Elecciones Presidenciales en Francia </SP-title>
+<SP-desc> Encontrar documentos sobre quién ganó y quién perdió la ronda final de las elecciones presidenciales de Francia en 1995. </SP-desc>
+<SP-narr> Los documentos relevantes tendrían que dar no sólo el nombre de la persona que ganó la ronda final de las elecciones presidenciales en mayo de 1995 sino que también el nombre de la persona derrotada en las mismas elecciones </SP-narr>
+</top>
+
+<top>
+<num> C223 </num>
+<SP-title> La Catástrofe de Chernobyl fuera de la ex URSS </SP-title>
+<SP-desc> Encontrar documentos sobre los efectos de la catástrofe nuclear de Chernobyl fuera de las fronteras de la antigua Unión Soviética. </SP-desc>
+<SP-narr>Los documentos relevantes tienen que referirse a las consecuencias que tuvo el accidente en Chernobyl fuera de los países de la ex Unión Soviética. </SP-narr>
+</top>
+
+<top> 
+<num> C224 </num>
+<SP-title> La Mujer asciende en solitario al Everest </SP-title> 
+<SP-desc> ¿Quién fue la primera mujer que subió al Everest en solitario y sin oxígeno? </SP-desc> 
+<SP-narr> Los documentos relevantes proporcionarán el nombre y/o la nacionalidad de la primera mujer alpinista que conquistó la cumbre de la montaña Everest sola y sin ayuda de oxígeno artificial.
+ </SP-narr> 
+</top> 
+
+<top>
+<num> C225 </num> 
+<SP-title> Central Nuclear de Sosnovyi Bor </SP-title>
+<SP-desc> Encontrar documentos que informan sobre el cierre de emergencia de la central nuclear de Sosnovyi Bor en 1995. </SP-desc>
+<SP-narr> Los documentos relevantes describen los motivos del cierre de la central nuclear de Sosnovyi Bor, situada cerca de San Petersburgo, en 1995. Especial interés tienen los documentos que hacen referencia a los problemas con el segundo bloque. </SP-narr>
+</top>
+
+<top>
+<num> C226 </num>
+<SP-title> Operaciones de Cambio de Sexo </SP-title>
+<SP-desc> Encontrar documentos que informan sobre operaciones de cambio de sexo para transexuales. </SP-desc>
+<SP-narr> Todos los documentos que mencionen operaciones de cambio de sexo para transexuales son relevantes. </SP-narr>
+</top>
+
+<top>
+<num> C227 </num>
+<SP-title> La Doncella de Hielo de los Altai </SP-title>
+<SP-desc> Encontrar documentos que tratan de la llamada Princesa de Hielo de los Altai o Princesa de Hielo, una mujer momificada de más de 2000 años. </SP-desc>
+<SP-narr> El cuerpo momificado de una mujer descrita como una Doncella de Hielo fue hallado en las montañas de Altai. El cuerpo se conservó en el permafrost siberiano durante más de 2000 años. </SP-narr>
+</top>
+
+<top> 
+<num> C228 </num>
+<SP-title> Arte Prehistórico </SP-title> 
+<SP-desc> Encontrar documentos sobre los recientes hallazgos del arte prehistórico </SP-desc> 
+<SP-narr> Los documentos relevantes tienen que proporcionar información sobre la localización de los recientes hallazgos del arte prehistórico. </SP-narr> 
+</top> 
+
+<top> 
+<num> C229 </num> 
+<SP-title> Construcción de Presas </SP-title> 
+<SP-desc> Encontrar documentos sobre la construcción de presas. </SP-desc>
+ <SP-narr> Los documentos relevantes deberían contener detalles relativos a la construcción o el diseño de presas hechas por el hombre. Los documentos en los que simplemente se menciona el nombre de una presa o su localización no son relevantes. </SP-narr> 
+</top> 
+
+<top>
+<num> C230 </num>
+<SP-title> Acoplamiento Atlantis-Mir </SP-title> 
+<SP-desc> Encontrar documentos que hablan del primer acoplamiento entre el transbordador espacial americano Atlantis y la estación espacial Mir. </SP-desc>
+<SP-narr> Los documentos relevantes tienen que mencionar el acoplamiento entre Atlantis y Mir. El número, la nacionalidad y/o los nombres de los astronautas también son de interés. </SP-narr>
+</top>
+
+<top> 
+<num> C231 </num> 
+<SP-title> Nuevo Primer Ministro Portugués </SP-title> 
+<SP-desc> Encontrar información sobre las elecciones generales en Portugal celebradas en octubre de 1995 y el nombre del primer ministro elegido. </SP-desc> 
+<SP-narr> Los documentos relevantes tienen que mencionar expresamente las eleciones en Portugal de 1995 y contener el nombre del nuevo primer ministro. </SP-narr> 
+</top> 
+
+<top> 
+<num> C232 </num> 
+<SP-title> Esquemas de Pensiones en Europa </SP-title> 
+<SP-desc> Encontrar documentos que describen los sistemas nacionales de pensiones actualmente adoptados en Europa, bien por algunos estados, o bien por todos los estados de la Unión Europea. </SP-desc> 
+<SP-narr> Los documentos relevantes deben contener información sobre los esquemas de pensiones de países europeos concretos o de la Unión Europea como un todo. Interesa la información sobre la edad mínima y máxima de jubilación, el modo en que se calcula la pensión, tipos de pensiones, porcentajes de contribuciones, etc. Las noticias sobre planes de futuras reformas no son relevantes. 
+</SP-narr> 
+</top> 
+
+<top>
+<num> C233 </num>
+<SP-title> Efecto Invernadero </SP-title>
+<SP-desc> Encontrar documentos sobre el cambio climático del planeta, en particular, discusiones sobre la existencia del “efecto invernadero”. </SP-desc>
+<SP-narr> Los documentos relevantes tienen que mencionar el efecto invernadero en relación con el cambio climático y el fenómeno de calentamiento del planeta. Son relevantes tanto los documentos en que se defiende que el efecto invernadero y el calentamiento global son lo mismo, como aquellos que lo ponen en duda. </SP-narr>
+</top>
+
+<top>
+<num> C234 </num>
+<SP-title> Los Sordos y la Sociedad </SP-title>
+<SP-desc> Encontrar información sobre los problemas con los que se encuentran las personas sordas en la sociedad. </SP-desc>
+<SP-narr>Los documentos relevantes tendrían que informar sobre alguno de los aspectos que afectan el bienestar de los sordos en la vida social. </SP-narr>
+</top>
+
+<top>
+<num> C235 </num>
+<SP-title> Caza de Focas </SP-title>
+<SP-desc> Encontrar documentos en que se discute la caza de focas, y en especial, que contengan opiniones del WWF u otras organizaciones para la conservación de la naturaleza. </SP-desc>
+<SP-narr> También serán relevantes documentos que presentan opiniones de personas individuales sobre la caza de focas. </SP-narr>
+</top>
+
+<top>
+<num> C236 </num>
+<SP-title> Un Tifón en Filipinas </SP-title>
+<SP-desc> ¿Cómo se llama el huracán que azotó Filipinas en noviembre de 1995 llevándose las vidas de centenares de víctimas y destruyendo o causando destrozos en miles de edificios. </SP-desc>
+<SP-narr> Los documentos relevantes tienen que mencionar el nombre del tifón. No se precisa más información. </SP-narr>
+</top>
+
+<top> 
+<num> C237 </num>
+<SP-title> Panchen Lama </SP-title> 
+<SP-desc> Encontrar noticias sobre la polémica que rodea la elección del nuevo Panchen Lama. </SP-desc> 
+<SP-narr> Los documentos relevantes deberían tratar sobre las reivindicaciones contrarias relacionadas con la reencarnación del Panchen Lama hechas por el Dalai Lama y por el gobierno de la República Popular China. Se tiene que hacer referencia al hecho de que la aceptación de este líder espiritual está rodeada de polémica. </SP-narr> 
+</top>
+
+<top>
+<num> C238 </num>
+<SP-title> Lady Diana </SP-title>
+<SP-desc> Los documentos relevantes ofrecerán detalles de las afirmaciones hechas por la Princesa Diana acerca de su matrimonio durante su famosa entrevista en la BBC con Martin Bashir. </SP-desc>
+<SP-narr>Los documentos relevantes tienen que transmitir las afirmaciones realmente hechas por Diana acerca de las dificultades de su matrimonio y las razones de su fracaso. </SP-narr>
+</top>
+
+<top>
+<num> C239 </num>
+<SP-title> Salud Mental de los Jóvenes </SP-title>
+<SP-desc> Encontrar documentos que describen problemas de salud mental que afectan a niños y adolescentes y el posible tratamiento de estos problemas. </SP-desc>
+<SP-narr> Son relevantes todos los documentos que hablan de uno u otro modo de problemas de salud mental entre niños o adolescentes. </SP-narr>
+</top>
+
+<top> 
+<num> C240 </num>
+<SP-title>Camisa del Espíritu Sioux </SP-title> 
+<SP-desc> ¿Se debería devolver la camisa del espíritu sagrado que se exhibe en un museo de Glasgow a los miembros de la tribu indígena de sioux americanos? </SP-desc> 
+<SP-narr> Están en marcha las negociaciones entre los representantes del museo de Glasgow y un grupo de indígenas americanos sobre la devolución al pueblo sioux de una camisa del espíritu sagrado robada a una víctima de la masacre de Wounded Knee. Cualquier información sobre estas negociaciones es relevante. </SP-narr> 
+</top> 
+
+<top> 
+<num> C241 </num>
+<SP-title> Nuevos Partidos Políticos </SP-title> 
+<SP-desc> Encontrar documentos que proporcionan información sobre la fundación de nuevos partidos políticos dando nombres de sus líderes. </SP-desc> 
+<SP-narr> Los documentos relevantes tienen que tratar de la fundación de nuevos partidos políticos y proporcionar al menos los nombres de algunos líderes. También será de interés el país o la región en que el partido desarrolla su actividad. Los documentos sobre la reconstitución de partidos que habían existido previamente también son relevantes. </SP-narr> </top> 
+
+<top> 
+<num> C242 </num>
+<SP-title> Permanencia Récord en el Espacio </SP-title>
+<SP-desc> Encontrar documentos sobre la estancia más larga de un ser humano en el espacio, incluyendo el nombre del astronauta. </SP-desc> 
+<SP-narr> Los documentos relevantes deberían hablar de la superación del récord de permanencia más larga en el espacio, mencionando el nombre del astronauta que estableció el récord. </SP-narr> 
+</top> 
+
+<top>
+<num> C243 </num>
+<SP-title> Películas de Kieslowski </SP-title>
+<SP-desc> Encontrar documentos sobre las películas del director polaco Krzysztof Kieslowski. </SP-desc>
+<SP-narr> Los documentos tienen que proporcionar algunos detalles sobre las películas de Kieslowski, la sola mención de sus títulos no es suficiente. </SP-narr></top>
+
+<top>
+<num> C244 </num>
+<SP-title> El Futbolista del Año 1994 </SP-title>
+<SP-desc> Encontrar documentos en que se habla de la elección por la FIFA del mejor jugador de fútbol del mundo del año 1994. </SP-desc>
+<SP-narr> En 1994 en Lisboa periodistas de 100 países eligieron al jugador de fútbol del año. Los documentos relevantes tienen que mencionar el nombre de este jugador y proporcionar información sobre el proceso de selección o sobre las posteriores celebraciones que tuvieron lugar en Lisboa o en su país de origen. Los documentos que sólo mencionan el nombre del ganador sin aportar ningún otro detalle no son relevantes. La sola mención del galardón en otros contextos no es suficiente. </SP-narr> 
+</top>
+
+<top> 
+<num> C245 </num>
+<SP-title> Christopher Reeve </SP-title>
+ <SP-desc> Encontrar documentos sobre la carrera del actor Christopher Reeve y el accidente que le dejó paralítico. </SP-desc> 
+<SP-narr> Los documentos relevantes tienen que hablar del actor, su carrera y el accidente que le dejó paralítico. </SP-narr> 
+</top> 
+
+<top>
+<num> C246 </num>
+ <SP-title> Castro visita la ONU </SP-title>
+<SP-desc> Encontrar documentos que informan sobre el histórico discurso de Fidel Castro ante la Asamblea General de las Naciones Unidas en 1995. </SP-desc>
+<SP-narr>Los documentos relevantes proporcionarán alguna información sobre el contenido del discurso pronunciado por Fidel Castro en la Asamblea General de las Naciones Unidas en octubre de 1995. </SP-narr>
+</top>
+
+<top> 
+<num> C247 </num>
+<SP-title> La Tumba de Alejandro Magno </SP-title> 
+<SP-desc> Encontrar detalles sobre el descubrimiento del lugar donde presuntamente está enterrado Alejandro Magno.  </SP-desc> 
+<SP-narr>Los documentos relevantes tienen que contener información sobre la localización aproximada del lugar en que los arqueólogos han encontrado lo que parece ser la tumba de Alejandro Magno. </SP-narr> 
+</top>
+
+<top> 
+<num> C248 </num>
+<SP-title> La Disputa sobre el Nombre de Macedonia </SP-title> 
+<SP-desc> Encontrar documentos sobre las objeciones expresadas por el gobierno griego en relación con el uso del nombre de Macedonia para referirse a uno de los estados de la ex Yugoslavia. </SP-desc> 
+<SP-narr> Los documentos relevantes tendrían que tratar del desacuerdo con respecto al nombre de Macedonia y proporcionar información sobre la postura del gobierno de Grecia y/o las opiniones del pueblo griego. </SP-narr> </top> 
+
+<top> 
+<num> C249 </num>
+<SP-title> La Campeona de los Diez Mil Metros Femeninos </SP-title> 
+<SP-desc> ¿Quién ganó los 10,000m femeninos en el Campeonato Mundial de Atletismo en Göteborg. </SP-desc> 
+<SP-narr> Los documentos relevantes tienen que nombrar a la ganadora de la final de los 10,000m en el  Campeonato Mundial de Atletismo en Göteborg. </SP-narr> 
+</top> 
+
+<top>
+<num> C250 </num>
+<SP-title> La Rabia en Humanos </SP-title>
+<SP-desc> Encontrar documentos que informan sobre casos de rabia humana y hablan de métodos de prevención de la rabia en humanos. </SP-desc>
+<SP-narr> Los documentos relevantes deberían permitir al lector conocer uno o varios métodos utilizados para prevenir la rabia humana. Sin embargo, los documentos que hablan de casos de rabia humana también serán de interés. </SP-narr>
+</top>
+

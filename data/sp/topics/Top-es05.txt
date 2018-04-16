@@ -1,0 +1,354 @@
+<top>
+<num> C251 </num>
+<ES-title> Medicina Alternativa </ES-title>
+<ES-desc> Encontrar documentos que traten sobre algún tipo de tratamiento medico alternativo o naturista, incluyendo terapias concretas como la acupuntura, la homeopatía, la quiropráctica, u otras. </ES-desc>
+<ES-narr> Los documentos relevantes proporcionarán información general o específica sobre el uso de tratamientos o prácticas medicas naturistas o alternativas </ES-narr>
+</top>
+
+<top>
+<num> C252 </num>
+<ES-title> Planes de Pensiones en Europa </ES-title>
+<ES-desc> Encontrar documentos que den información sobre el sistema actual de pensiones y sobre las pensiones de jubilación en alguno de los países europeos. </ES-desc>
+<ES-narr> Los documentos relevantes contendrán información sobre el actual sistema de pensiones y las pensiones de jubilación en cada uno de los estados europeos. La información de interés incluye las edades mínimas y máximas de jubilación y la forma en la que se calculan las pensiones de jubilación. Los planes sobre una futura reforma de las pensiones no son relevantes. </ES-narr>
+</top>
+
+<top>
+<num> C253 </num>
+<ES-title> Países con Pena de Muerte </ES-title>
+<ES-desc> ¿En qué países todavía se practica la pena de muerte o por lo menos se permite en su constitución? </ES-desc>
+<ES-narr> Los documentos que expongan explícitamente que la constitución de un determinado estado permite la pena capital obviamente son relevantes. Los documentos que informan de una condena a muerte concreta también son relevantes siempre y cuando el estado o país implicado sea mencionado de forma clara. </ES-narr>
+</top>
+
+<top>
+<num> C254 </num> 
+<ES-title> Daños por Terremoto </ES-title>
+<ES-desc> Encontrar documentos que describan daños en propiedades o personas debidos a un terremoto y que especifiquen el área que se ha visto afectada. </ES-desc>
+<ES-narr> Los documentos relevantes aportarán detalles sobre los daños en edificios y bienes materiales o sobre lesiones a personas causadas por un terremoto. La situación geográfica afectada por el terremoto (por ejemplo, el país, la región, la ciudad) también tiene que aparecer mencionada. </ES-narr>
+</top>
+
+<top>
+<num> C255 </num>
+<ES-title> Adictos a Internet </ES-title>
+<ES-desc> ¿Puede causar adicción el uso frecuente de Internet? </ES-desc>
+<ES-narr> Los documentos relevantes discuten si usar regularmente Internet crea un hábito y si puede conllevar una dependencia fisiológica o psicológica. </ES-narr>
+</top>
+
+<top>
+<num> C256 </num>
+<ES-title> Enfermedad de Creutzfeldt-Jakob </ES-title>
+<ES-desc> Encontrar documentos que describan los síntomas de alguna de las variantes de la enfermedad de Creutzfeldt-Jakob o que trate sobre informes que vinculen la ECJ con la encefalopatía espongiforme bovina (BSE), también conocida como la enfermedad de las vacas locas. </ES-desc>
+<ES-narr> Los documentos relevantes describirán los individuos sospechosos o diagnosticados como que tienen la enfermedad de Creutzfeldt-Jakob o se centrarán en la relación entre la ECJ y la BSE, también conocida como la enfermedad de las vacas locas. </ES-narr>
+</top>
+
+<top>
+<num> C257 </num>
+<ES-title> Limpieza Étnica en los Balcanes </ES-title>
+<ES-desc> Encontrar documentos que informen sobre incidentes concretos de crímenes contra la humanidad o genocidio en la antigua Yugoslavia o en la zona de los Balcanes. </ES-desc>
+<ES-narr> Los documentos relevantes tienen que describir episodios concretos de limpieza étnica o genocidio en la zona de los Balcanes y en particular, en Bosnia, Kosovo, Croacia y Macedonia. </ES-narr>
+</top>
+
+<top> 
+<num> C258 </num> 
+<ES-title> Impacto de la Fuga de Cerebros </ES-title> 
+<ES-desc> Encontrar documentos sobre los problemas causados por la fuga de cerebros y información sobre los países o regiones más afectadas. </ES-desc> 
+<ES-narr> Los documentos relevantes tienen que citar alguno de los problemas causados por el traslado de personas de gran talento o trabajadores especializados de regiones pobres hacía áreas más prosperas. Los países afectados deben aparecer nombrados. </ES-narr> 
+</top> 
+
+<top> 
+<num> C259 </num> 
+<ES-title> Osos de Oro </ES-title> 
+<ES-desc> ¿Qué películas han sido galardonadas con el Oso de Oro en el Festival de Cine de Berlín? </ES-desc> 
+<ES-narr> Cualquier documento en el que se nombre la película ganadora del Oso de Oro es relevante. </ES-narr> 
+</top> 
+
+<top>
+<num> C260 </num>
+<ES-title> Legislación anti-tabaco </ES-title>
+<ES-desc> Encontrar documentos que describan las leyes o reglamentos que prohíben fumar en lugares públicos. </ES-desc>
+<ES-narr> Los documentos relevantes tienen que dar detalles sobre las leyes anti-tabaco, sobre normas o políticas que estén actualmente vigentes en algún país. Estos documentos también deben especificar las penas para las infracciones. Los documentos sobre propuestas de legislación anti-tabaco no son relevantes. </ES-narr>
+</top>
+
+<top>
+<num> C261 </num>
+<ES-title> Videncia </ES-title>
+<ES-desc> ¿Cómo hacen los videntes para predecir el futuro? </ES-desc>
+<ES-narr> Los documentos relevantes mencionarán algunas de las diferentes técnicas empleadas por los videntes o adivinos para leer el futuro (por ejemplo, astrología, quiromancia, bolas de cristal, tarot). Predicciones sin detalles sobre las técnicas usadas para ser obtenidas no son relevantes. </ES-narr>
+</top>
+
+<top>
+<num> C262 </num>
+<ES-title> Conciertos Benéficos </ES-title>
+<ES-desc> ¿Qué causas o organizaciones benéficas recibieron fondos de conciertos benéficos? </ES-desc>
+<ES-narr> Los documentos relevantes informarán sobre conciertos benéficos concretos y tienen que dar información sobre causas o organizaciones benéficas concretas que hayan sido beneficiarias de fondos recaudados en conciertos. </ES-narr>
+</top>
+
+<top>
+<num> C263 </num>
+<ES-title> Disputas Arbitrales en el Fútbol </ES-title>
+<ES-desc> Encontrar documentos en los que las decisiones de un arbitro durante un partido de fútbol sean criticadas. </ES-desc>
+<ES-narr> Los documentos relevantes informan sobre partidos de fútbol en los que el arbitro tomó alguna decisión discutible o problemática. </ES-narr>
+</top>
+
+<top>
+<num> C264 </num>
+<ES-title> Contrabando de Material Radioactivo </ES-title>
+<ES-desc> Encontrar documentos sobre tráfico ilícito entre países de substancias radioactivas o materiales nucleares. </ES-desc>
+<ES-narr> Cualquier documento que informe de casos de tráfico criminal o contrabando ya sea de material nuclear de uso civil o de uso militar, o de residuos radiactivos a través de fronteras nacionales, es relevante. </ES-narr>
+</top>
+
+<top>
+<num> C265 </num>
+<ES-title> Absorciones por parte del Deutsche Bank </ES-title>
+<ES-desc> Encontrar los nombres de las compañías que han sido compradas total o parcialmente por el Deutsche Bank o que se encuentren en negociaciones para serlo. </ES-desc>
+<ES-narr> Los documentos relevantes contendrán la lista de las compañías que hayan sido compradas o absorbidas por el Deutsche Bank; la información sobre procesos de negociación que se encuentren en marcha también son relevantes. </ES-narr>
+</top>
+
+<top>
+<num> C266 </num>
+<ES-title> Discriminación de Gitanos Europeos </ES-title>
+<ES-desc> Encontrar documentos que informen de casos de acoso, discriminación o violencia contra gitanos en Europa. </ES-desc>
+<ES-narr> Los documentos de interés describen algún tipo de acción o maltrato a los gitanos en Europa en la actualidad. </ES-narr>
+</top>
+
+<top>
+<num> C267 </num>
+<ES-title> Mejor Película de Lengua Extranjera </ES-title>
+<ES-desc> ¿Qué películas estuvieron nominadas para el Oscar en la categoría de mejor película de lengua extranjera? </ES-desc>
+<ES-narr> Los documentos relevantes proporcionarán el titulo y la nacionalidad de las películas nominadas para el Oscar en la categoría de mejor película de lengua extranjera. </ES-narr> 
+</top>
+
+<top>
+<num> C268 </num>
+<ES-title> Clonación Humana y Ética </ES-title>
+<ES-desc> Encontrar documentos en los que se debatan los problemas éticos y morales relacionados con un eventual inicio de la clonación genética humana. </ES-desc>
+<ES-narr> Los documentos relevantes informarán de discusiones sobre los problemas éticos surgidos por la posibilidad de crear clones humanos. Las propuestas de legislación para prohibir la clonación humana por razones éticas también son relevantes. Los informes sobre los límites técnicos o las dificultades de los métodos de clonación aplicados a humanos no son relevantes. </ES-narr>
+</top>
+
+<top> 
+<num> C269 </num> 
+<ES-title> Ratificación de Tratados </ES-title> 
+<ES-desc> Encontrar documentos que mencionen la ratificación oficial de tratados internacionales. </ES-desc> 
+<ES-narr> Los documentos relevantes deben mencionar el tratado y el país o países que lo ratifican. Los documentos en los que simplemente se mencione que un país ha firmado o es parte de un tratado no son relevantes. </ES-narr> 
+</top> 
+
+<top>
+<num> C270 </num>
+<ES-title> Competidores de Microsoft </ES-title>
+<ES-desc> ¿Qué compañías son las actuales o potenciales competidoras o rivales de Microsoft? </ES-desc>
+<ES-narr> Los documentos relevantes tendrán que mencionar los nombres de las empresas que son competidoras de Microsoft. Los nombres de los productos rivales también son relevantes.  </ES-narr>
+</top>
+
+<top>
+<num> C271 </num>
+<ES-title> Matrimonios Homosexuales </ES-title>
+<ES-desc> ¿Debe el estado reconocer las uniones de parejas homosexuales como matrimonios legales? </ES-desc>
+<ES-narr> Los documentos relevantes deben informar sobre discusiones y debates sobre si las uniones de personas del mismo sexo deben ser reconocidas legalmente como matrimonio. Las opiniones y posiciones sobre el tema son relevantes si las han dado autoridades estatales o religiosas, o personas en particular. </ES-narr>
+</top>	
+
+<top>
+<num> C272 </num>
+<ES-title> La Formación del Presidente Checo </ES-title>
+<ES-desc> Encontrar documentos que hagan una mención especifica sobre la formación literaria y humanista del Presidente de la Republica Checa, Vaclav Havel. </ES-desc>
+<ES-narr> Los documentos relevantes tendrán que mencionar la formación literaria y humanista de Havel así como el hecho de que es el Presidente de la República Checa. </ES-narr>
+</top>
+
+<top>
+<num> C273 </num>
+<ES-title> Expansión de la OTAN </ES-title>
+<ES-desc> Buscar discusiones sobre la expansión de la Organización del Tratado del Atlántico Norte para incluir a países que antiguamente formaban parte del bloque comunista de Europa Central y del Este. </ES-desc>
+<ES-narr> Cualquier discusión a favor o en contra de la expansión de la OTAN hacia el este con el fin de incluir a países que antiguamente formaban parte, eran aliados o tenían influencia política de la URSS. </ES-narr>
+</top>
+
+<top>
+<num> C274 </num>
+<ES-title> Bombas de la Segunda Guerra Mundial sin explosionar </ES-title>
+<ES-desc> Encontrar informes sobre el hallazgo de bombas sin explosionar, minas terrestres u otras municiones de la Segunda Guerra Mundial. </ES-desc>
+<ES-narr> Los documentos relevantes tienen que especificar el lugar donde se hayan encontrado bombas sin explosionar u otras municiones de la Segunda Guerra Mundial. Los detalles sobre las medidas para la excavación del área afectada y las acciones de las unidades de desactivación de bombas también son de interés. Los informes sobre depósito de municiones oficiales no son pertinentes. </ES-narr>
+</top>
+
+<top>
+<num> C275 </num>
+<ES-title> Enfermedades Relacionadas con el Tabaco </ES-title>
+<ES-desc> ¿Qué enfermedades o problemas médicos se sospecha que están relacionados con el hecho de ser fumador activo o pasivo? </ES-desc>
+<ES-narr> Los documentos relevantes tienen que aportar información especifica sobre por lo menos una enfermedad que se considere que sea consecuencia directa del consumo de cigarrillos o de la exposición al humo de los cigarrillos. Las discusiones generales sobre los riesgos para la salud que supone fumar no son relevantes. </ES-narr> 
+</top>
+
+<top>
+<num> C276 </num>
+<ES-title> Subsidios Agrarios de la UE </ES-title>
+<ES-desc> Encontrar información sobre las subsidios agrarios dentro de la Unión Europea. </ES-desc>
+<ES-narr> Los documentos relevantes tienen que contener información sobre los subsidios agrarios de la Unión Europea y aquellas políticas que estén relacionadas con estos. Los subsidios a países fuera de la UE no son relevantes. </ES-narr>
+</top> 
+
+<top>
+<num> C277 </num>
+<ES-title> Eutanasia Practicada por Médicos </ES-title>
+<ES-desc> Los documentos relevantes informarán sobre casos concretos de eutanasia declarada o que se sospeche que hayan ocurrido o de crímenes por piedad en un hospital o por miembros de la profesión medica. </ES-desc>
+<ES-narr> Todos los documentos que aporten alguna información sobre casos probables de eutanasia o muertes por piedad, sospechados o probados, realizados por doctores, enfermeras u otros miembros de la profesión medica son relevantes. Las discusiones generales sobre leyes para regular la eutanasia y las declaraciones de líderes religiosos o políticos no son de interés. </ES-narr>
+</top>
+
+<top>
+<num> C278 </num>
+<ES-title> Transportes para Minusválidos </ES-title>
+<ES-desc> ¿Con qué problemas se encuentran los minusválidos físicos al usar el transporte público y qué remedios se han propuesto o adoptado? </ES-desc>
+<ES-narr> Los documentos relevantes describirán las dificultades con las que se enfrentan los disminuidos físicos al usar el transporte público y/o informarán sobre los progresos realizados para eliminar estos problemas. </ES-narr>
+</top>
+
+<top> 
+<num> C279 </num> 
+<ES-title> Referéndums Suizos </ES-title> 
+<ES-desc> Encontrar documentos que describan la realización de referéndums en Suiza. </ES-desc> 
+<ES-narr> Los documentos relevantes deben mencionar la razón por la que se realizó algún referéndum en Suiza o sus resultados. </ES-narr> 
+</top> 
+
+<top>
+<num> C280 </num>
+<ES-title> Crimen en Nueva York </ES-title>
+<ES-desc> Encontrar información sobre hechos delictivos o informes sobre cambios en las tasas de criminalidad de la ciudad de Nueva York. </ES-desc>
+<ES-narr> Los documentos relevantes aportarán información sobre actividades criminales en Nueva York. Las descripciones de episodios concretos de robo, asalto o violencia son de interés ya que informan sobre las estadísticas de crimen y sobre aumentos o descensos de la incidencia del crimen en dicha ciudad. </ES-narr>
+</top>
+
+<top>
+<num> C281 </num>
+<ES-title> Radovan Karadzic </ES-title>
+<ES-desc> Encontrar material sobre el líder étnico de la guerra de Serbia Radovan Karadzic, examinando su historia y proporcionando información sobre su implicación en crímenes de guerra y crímenes contra la humanidad. </ES-desc>
+<ES-narr> Cualquier información sobre crímenes cometidos por Radovan Karadzic es de interés ya que es información sobre la acusación por parte del tribunal para crímenes de guerra de las Naciones Unidas. </ES-narr>
+</top>
+
+<top>
+<num> C282 </num>
+<ES-title> Maltratos Carcelarios </ES-title>
+<ES-desc> Encontrar informes sobre casos concretos de abusos o tortura de prisioneros por guardianes de prisiones, personal militar o policías. </ES-desc>
+<ES-narr> Los documentos relevantes tienen que mencionar incidentes concretos de abusos o torturas y proporcionar detalles sobre el lugar en el que ocurrieron. Las discusiones generales no son pertinentes. </ES-narr>
+</top>
+
+<top>
+<num> C283 </num>
+<ES-title> Películas de James Bond </ES-title>
+<ES-desc> Encontrar documentos que informen sobre los títulos de películas James Bond y/o los nombres de los actores que han desempeñado el papel de James Bond a lo largo de los años. </ES-desc>
+<ES-narr> Los documentos relevantes informan sobre los nombres de las diferentes películas de Bond o sobre los nombres de los actores que han desempeñado el papel protagonista. </ES-narr>
+</top>
+
+<top>
+<num> C284 </num>
+<ES-title> Misiones del Transbordador Espacial </ES-title>
+<ES-desc> Encontrar información sobre las misiones del transbordador espacial en las que haya habido dificultades, retrasos o fallos en los experimentos. </ES-desc>
+<ES-narr> Cualquier documento que informe sobre algún tipo de problema o desviación del horario previsto en una misión del transbordador espacial son relevantes. </ES-narr>
+</top>
+
+<top>
+<num> C285 </num>
+<ES-title> Movimientos Anti-abortistas </ES-title>
+<ES-desc> Encontrar documentos de alguna acción de los miembros de los movimientos anti-abortistas o sobre los esfuerzos para restringir o abolir las leyes que regulan el aborto. </ES-desc>
+<ES-narr> Cualquier acción de los miembros del movimiento anti-abortista, incluyendo manifestaciones y marchas de protesta, pero también son relevantes las acciones concretas contra clínicas abortistas. Las declaraciones de personas a favor de abolir o restringir el aborto legal también son relevantes. </ES-narr>
+</top>
+
+<top>
+<num> C286 </num>
+<ES-title> Lesiones futbolísticas </ES-title>
+<ES-desc> Encontrar documentos que describan lesiones de jugadores de fútbol profesional durante un partido de fútbol o en un partido de pretemporada. </ES-desc>
+<ES-narr> Los documentos relevantes describirán la aparición de cualquier tipo de lesiones relacionadas con el fútbol incluyendo contusiones, esguinces musculares, distensiones musculares y daños en cartílagos, pero también lesiones más graves como roturas de miembros o conmociones cerebrales. </ES-narr>
+</top> 
+
+<top>
+<num> C287 </num> 
+<ES-title> Rehenes / Situaciones de Terrorismo </ES-title>
+<ES-desc> Encontrar documentos en los que se discuta las situaciones en las que grupos terroristas o grupos de militantes hayan tomado rehenes. </ES-desc>
+<ES-narr> Los documentos relevantes describen casos actuales en los que grupos terroristas o de militantes hayan tomado rehenes. Las historias o películas que describen la captura de rehenes deben ser excluidas, ya que hay demandas legales realizadas por quienes han sido rehenes. </ES-narr>
+</top> 
+
+<top>
+<num> C288 </num>
+<ES-title> Importaciones de Coches en EEUU </ES-title>
+<ES-desc> ¿Qué marcas de coche se importan en EEUU? </ES-desc>
+<ES-narr> Los documentos relevantes contendrán información sobre marcas o fabricantes de coches vendidos en EEUU, pero que no se fabrican en dicho país. </ES-narr>
+</top>
+
+<top> 
+<num> C289 </num> 
+<ES-title> Las Islas Falkland </ES-title> 
+<ES-desc> Encontrar documentos que den información sobre las Islas Falkland </ES-desc> 
+<ES-narr> Los documentos relevantes deben ser realmente sobre las Islas Falkland (conocidas también como las Malvinas), no deben ser simplemente mencionadas y se debe proporcionar información histórica, geográfica, económica o social. </ES-narr> 
+</top> 
+
+<top>
+<num> C290 </num>
+<ES-title> Fluctuaciones del Precio del Petróleo </ES-title>
+<ES-desc> ¿Porqué cambia el precio internacional del petróleo? </ES-desc>
+<ES-narr> Los documentos relevantes describen las causas directas de las fluctuaciones en los precios del petróleo (por ejemplo la reducción de recursos, las guerras, el clima). Los documentos en los que se mencionen cambios en los precios internacionales del petróleo sin mencionarse sus causas no son relevantes. </ES-narr>
+</top>
+
+
+<top>
+<num> C291 </num>
+<ES-title> Inmigrantes Ilegales en la UE </ES-title
+<ES-desc> Encontrar documentos relacionados con el fenómenos de la inmigración ilegal en los países de la Unión Europea, incluyendo descripciones de incidentes concretos incluyendo el descubrimiento de actividades de inmigrantes ilegales y declaraciones más generales que discutan el problema. </ES-desc>
+<ES-narr> Los documentos relevantes se referirán sólo a la inmigración ilegal hacia los países de la Unión Europea. Cualquier información es de interés, incluyendo el papel que juegan los grupos criminales a la hora de esconder, transportar y explotar a estas personas.</ES-narr>
+</top> 
+
+<top>
+<num> C292 </num>
+<ES-title> Reconstruyendo Ciudades Alemanas </ES-title>
+<ES-desc> Encontrar descripciones sobre la reconstrucción de edificios importantes y edificios históricos en pueblos o ciudades alemanas que fueron dañados gravemente o destruidos por bombardeos durante la Segunda Guerra Mundial. </ES-desc>
+<ES-narr> Los documentos relevantes describirán las reconstrucción de edificios importantes y edificios históricos en pueblos alemanes que fueron bombardeados duramente durante la Segunda Guerra Mundial. Cualquier ciudad alemana es de interés, pero se espera que la mayoría de los documentos se refieran a Berlín, Dresden o Leipzig. </ES-narr>
+</top>
+
+<top>
+<num> C293 </num>
+<ES-title> Relaciones China-Taiwán </ES-title>
+<ES-desc> Encontrar información sobre las actuales relaciones entre China y Taiwán, incluyendo informes sobre cualquier acción hostil de China contra Taiwán. </ES-desc>
+<ES-narr> Cualquier documento que dé información sobre las difíciles relaciones entre China y Taiwán son relevantes, incluidos los informes sobre los esfuerzos de China para influir en las relaciones de otros países con Taiwán. </ES-narr>
+</top>
+
+<top>
+<num> C294 </num>
+<ES-title> La Fuerza de los Huracanes </ES-title>
+<ES-desc> ¿Qué velocidad alcanza el viento de un huracán? </ES-desc>
+<ES-narr> La fuerza de un huracán se obtiene a través de la velocidad del viento. Los documentos relevantes tienen que proporcionar estadísticas concretas de la fuerza de tormentas huracanadas o de la velocidad del viento. </ES-narr>
+</top>
+
+<top> 
+<num> C295 </num> 
+<ES-title> Blanqueo de Dinero </ES-title> 
+<ES-desc> Encontrar documentos que traten del crimen financiero conocido como blanqueo de dinero, cuál es el proceso a través del cual los criminales ocultan los fondos adquiridos ilegalmente convirtiéndolos en ganados de forma aparentemente legitima. </ES-desc> 
+<ES-narr> Los documentos relevantes proporcionarán cualquier información sobre el blanqueo de dinero realizado por organizaciones criminales - el uso de paraísos fiscales - o pueden describir las medidas internacionales tomadas para combatirlo. </ES-narr> 
+</top> 
+
+<top> 
+<num> C296 </num> 
+<ES-title> Interpretaciones de Liszt con público </ES-title> 
+<ES-desc> Encontrar documentos que mencionen actuaciones públicas de trabajos del compositor húngaro Franz Liszt. </ES-desc> 
+<ES-narr> Los documentos relevantes tendrán que mencionar algún tipo de actuación pública, concierto o recital de piezas de Liszt y tienen que especificar donde tuvieron lugar. Los documentos que solamente mencionen la existencia de obras de Liszt no son relevantes. </ES-narr> 
+</top> 
+
+<top> 
+<num> C297 </num> 
+<ES-title> Expulsiones de Diplomáticos </ES-title> 
+<ES-desc> Encontrar documentos que describan las expulsión de diplomáticos de cualquier país. </ES-desc> 
+<ES-narr> Los documentos relevantes deben mencionar el país de origen de los diplomáticos, y por lo que son expulsados. </ES-narr> 
+</top> 
+
+<top>
+<num> C298 </num>
+<ES-title> Centrales Nucleares </ES-title>
+<ES-desc> Encontrar documentos que informen de accidentes en centrales nucleares o que traten de la posibilidad de un accidente y el riesgo potencial para la población. </ES-desc>
+<ES-narr> Los documentos relevantes deben especificar la situación geográfica o nombre de las centrales nucleares y también dar cualquiera información sobre accidentes o tratar los riesgos potenciales. </ES-narr>
+</top>
+
+<top>
+<num> C299 </num>
+<ES-title> Los Riesgo de la ONU en Procesos de Pacificación </ES-title>
+<ES-desc> Encontrar documentos que informen sobre incidentes concretos en los que fuerzas de pacificación de la ONU hayan sido tomados como rehenes, hayan resultado heridos o asesinados. </ES-desc>
+<ES-narr> Los documentos relevantes tienen que proporcionar detalles sobre los incidentes en los que las vidas de las tropas de pacificación de la ONU hayan estado en peligro. </ES-narr>
+</top>
+
+<top> 
+<num> C300 </num> 
+<ES-title> Ganadores de la Lotería </ES-title> 
+<ES-desc> Encontrar documentos sobre los ganadores de premios de la lotería. </ES-desc> 
+<ES-narr> Sólo los documentos que informen sobre ganadores actuales de premios de la lotería y que proporcionen algún tipo de información sobre los ganadores, como sus nombres, su formación o sus origines, son relevantes. Los documentos es lo que aparezcan simples listas con los premios en juego no son relevantes. </ES-narr> 
+</top>
+
+
+
+

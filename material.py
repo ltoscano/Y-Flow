@@ -13,9 +13,9 @@ import tensorflow
 import codecs
 tensorflow.set_random_seed(49999)
 from tqdm import tqdm
-
 from collections import OrderedDict
 
+os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
 import keras
 import keras.backend as K
 from keras.models import Sequential, Model
@@ -84,79 +84,199 @@ def main(argv):
     parser = argparse.ArgumentParser()
     parser.add_argument('--source','-src', default='en', help='source language [sw,tl,en]')
     parser.add_argument('--target','-tgt', default='none', help='target language [sw,tl,en]')
-    parser.add_argument('--collection','-c', default='en', help='language of documents [sw,tl,en]')
+    parser.add_argument('--collection','-c', default='en', help='language of documents [analysis, dev, eval1,eval2, clef]')
     parser.add_argument('--out','-o', default='en', help='output language [sw,tl,en]')
-    parser.add_argument('--method','-m', default='none', help='method [mt,google,wiktionary,fastext]')
+    parser.add_argument('--method','-method', default='duet+', help='method [qt,dt,duet+]')
+    parser.add_argument('--model','-model', default='duet+', help='method [googl,wiktionary,duet+]')
     parser.add_argument('--query_list', '-q', nargs='*',help='check query result [query Id list]')
     parser.add_argument('--phase', default='train', help='Phase: Can be train or predict, the default value is train.')
 
     args = parser.parse_args()
 
-    if args.source == 'en' and args.target == 'sw' and args.collection == 'en' and args.method == 'mt':
-        for  i in {0.0,0.2,0.4,0.6,0.8}:
-            model_file ="examples/sw/config/duet_ranking_en.config"
-            with open(model_file, 'r') as f:
-                config = json.load(f)
-            crossval(config,i)
-            if args.phase == 'train':
-                call(["python", "yflow/main.py", "--phase", "train" ,"--model_file", model_file, "--fold", str(i)]) # _en,_tl,_sw
-            call(["python", "yflow/main.py" ,"--phase", "predict", "--model_file", model_file, "--fold", str(i)]) # _en, _tl,_sw
-            call(["mv", "predict.test.duet_ranking.txt","predict."+str(i)+".txt"])
-        call("cat predict.0* > predict.test.duet_ranking.txt",shell=True)
-        call("rm predict.0*",shell=True)
-    elif args.source == 'en' and args.target == 'tl' and args.collection == 'en' and args.method == 'mt':
-        for  i in {0.0,0.2,0.4,0.6,0.8}:
-            model_file ="examples/tl/config/duet_ranking_en.config"
-            with open(model_file, 'r') as f:
-                config = json.load(f)
-            crossval(config,i)
-            if args.phase == 'train':
-                call(["python", "yflow/main.py", "--phase", "train" ,"--model_file", model_file, "--fold", str(i)]) # _en,_tl,_sw
-            call(["python", "yflow/main.py" ,"--phase", "predict", "--model_file", model_file, "--fold", str(i)]) # _en, _tl,_sw
-            call(["mv", "predict.test.duet_ranking.txt","predict."+str(i)+".txt"])
-        call("cat predict.0* > predict.test.duet_ranking.txt",shell=True)
-        call("rm predict.0*",shell=True)
-    elif args.source == 'en' and args.target == 'sw' and args.collection == 'sw' and args.method == 'fastext':
-        for  i in tqdm({0.0,0.2,0.4,0.6,0.8}):
-            model_file ="examples/sw/config/duet_ranking_sw.config"
-            with open(model_file, 'r') as f:
-                config = json.load(f)
-            crossval(config,i)
-            if args.phase == 'train':
-                call(["python", "yflow/main.py", "--phase", "train" ,"--model_file",model_file, "--fold", str(i)]) # _en,_tl,_sw
-            call(["python", "yflow/main.py" ,"--phase", "predict", "--model_file",model_file, "--fold", str(i)]) # _en, _tl,_sw
-            call(["mv", "predict.test.duet_ranking.txt","predict."+str(i)+".txt"])
-        call("cat predict.0* > predict.test.duet_ranking.txt",shell=True)
-        call("rm predict.0*",shell=True)
-    elif args.source == 'en' and args.target == 'tl' and args.collection == 'tl' and args.method == 'fastext':
-        for  i in {0.0,0.2,0.4,0.6,0.8}:
-            model_file ="examples/tl/config/duet_ranking_tl.config"
-            with open(model_file, 'r') as f:
-                config = json.load(f)
-            crossval(config,i)
-            if args.phase == 'train':
-                call(["python", "yflow/main.py", "--phase", "train" ,"--model_file", model_file, "--fold", str(i)]) # _en,_tl,_sw
-            call(["python", "yflow/main.py" ,"--phase", "predict", "--model_file", model_file, "--fold", str(i)]) # _en, _tl,_sw
-            call(["mv", "predict.test.duet_ranking.txt","predict."+str(i)+".txt"])
-        call("cat predict.0* > predict.test.duet_ranking.txt",shell=True)
-        call("rm predict.0*",shell=True)
-    elif args.source == 'en' and args.target == 'sw' and args.collection == 'sw' and args.method == 'google':
-        model_file ="examples/sw/config/duet_ranking_google.config"
+    current_dir = os.getcwd()
+    print(current_dir)
+
+    if args.source == 'en' and args.target == 'sw' and args.collection == 'analysis' and args.method == 'dt':
+        model_file ="examples/sw/config/analysis_dt_ranking.config"
+        with open(model_file, 'r') as f:
+            config = json.load(f)
+        phrase_script = config['global']['phrase_script']
+        directory = config['global']['directory']
+        result_folder = config['inputs']['predict']['result_folder']
+        os.chdir(directory)
+        call(["sh",phrase_script,"1000"])
+        call(["cp",result_folder+'result.file',os.path.join(current_dir,'predict.test.duet_ranking.txt')])
+        os.chdir(current_dir)
+    elif args.source == 'en' and args.target == 'sw' and args.collection == 'eval1' and args.method == 'dt':
+        model_file ="examples/sw/config/eval1_dt_ranking.config"
+        with open(model_file, 'r') as f:
+            config = json.load(f)
+        phrase_script = config['global']['phrase_script']
+        directory = config['global']['directory']
+        result_folder = config['inputs']['predict']['result_folder']
+        os.chdir(directory)
+        call(["sh",phrase_script,"1000"])
+        call(["cp",result_folder+'result.file',os.path.join(current_dir,'predict.test.duet_ranking.txt')])
+        os.chdir(current_dir)
+    elif args.source == 'en' and args.target == 'sw' and args.collection == 'eval2' and args.method == 'dt':
+        model_file ="examples/sw/config/eval2_dt_ranking.config"
+        with open(model_file, 'r') as f:
+            config = json.load(f)
+        phrase_script = config['global']['phrase_script']
+        directory = config['global']['directory']
+        result_folder = config['inputs']['predict']['result_folder']
+        os.chdir(directory)
+        call(["sh",phrase_script,"1000"])
+        call(["cp",result_folder+'result.file',os.path.join(current_dir,'predict.test.duet_ranking.txt')])
+        os.chdir(current_dir)
+    elif args.source == 'en' and args.target == 'sw' and args.collection == 'dev' and args.method == 'dt':
+        model_file ="examples/sw/config/dev_dt_ranking.config"
+        with open(model_file, 'r') as f:
+            config = json.load(f)
+        phrase_script = config['global']['phrase_script']
+        directory = config['global']['directory']
+        result_folder = config['inputs']['predict']['result_folder']
+        os.chdir(directory)
+        call(["sh",phrase_script,"1000"])
+        call(["cp",result_folder+'result.file',os.path.join(current_dir,'predict.test.duet_ranking.txt')])
+        os.chdir(current_dir)
+    elif args.source == 'en' and args.target == 'tl' and args.collection == 'analysis' and args.method == 'dt':
+        model_file ="examples/tl/config/analysis_dt_ranking.config"
+        with open(model_file, 'r') as f:
+            config = json.load(f)
+        phrase_script = config['global']['phrase_script']
+        directory = config['global']['directory']
+        result_folder = config['inputs']['predict']['result_folder']
+        os.chdir(directory)
+        call(["sh",phrase_script,"1000"])
+        call(["cp",result_folder+'result.file',os.path.join(current_dir,'predict.test.duet_ranking.txt')])
+        os.chdir(current_dir)
+    elif args.source == 'en' and args.target == 'tl' and args.collection == 'eval1' and args.method == 'dt':
+        model_file ="examples/tl/config/eval1_dt_ranking.config"
+        with open(model_file, 'r') as f:
+            config = json.load(f)
+        phrase_script = config['global']['phrase_script']
+        directory = config['global']['directory']
+        result_folder = config['inputs']['predict']['result_folder']
+        os.chdir(directory)
+        call(["sh",phrase_script,"1000"])
+        call(["cp",result_folder+'result.file',os.path.join(current_dir,'predict.test.duet_ranking.txt')])
+        os.chdir(current_dir)
+    elif args.source == 'en' and args.target == 'tl' and args.collection == 'eval2' and args.method == 'dt':
+        model_file ="examples/tl/config/eval2_dt_ranking.config"
+        with open(model_file, 'r') as f:
+            config = json.load(f)
+        phrase_script = config['global']['phrase_script']
+        directory = config['global']['directory']
+        result_folder = config['inputs']['predict']['result_folder']
+        os.chdir(directory)
+        call(["sh",phrase_script,"1000"])
+        call(["cp",result_folder+'result.file',os.path.join(current_dir,'predict.test.duet_ranking.txt')])
+        os.chdir(current_dir)
+    elif args.source == 'en' and args.target == 'tl' and args.collection == 'dev' and args.method == 'dt':
+        model_file ="examples/tl/config/dev_dt_ranking.config"
+        with open(model_file, 'r') as f:
+            config = json.load(f)
+        phrase_script = config['global']['phrase_script']
+        directory = config['global']['directory']
+        os.chdir(directory)
+        result_folder = config['inputs']['predict']['result_folder']
+        call(["sh",phrase_script,"1000"])
+        call(["cp",result_folder+'result.file',os.path.join(current_dir,'predict.test.duet_ranking.txt')])
+        os.chdir(current_dir)
+    elif args.source == 'en' and args.target == 'sw' and args.collection == 'analysis' and args.method=='qt' and args.model == 'google':
+        model_file ="examples/sw/config/analysis_qt_google_ranking.config"
         with open(model_file, 'r') as f:
             config = json.load(f)
         google_script = config['global']['google_script']
+        directory = config['global']['directory']
+        os.chdir(directory)
         result_folder = config['inputs']['predict']['result_folder']
         call(["sh",google_script])
-        call(["cp",result_folder+'result.file','predict.test.duet_ranking.txt'])
-    elif args.source == 'en' and args.target == 'tl' and args.collection == 'tl' and args.method == 'google':
-        model_file ="examples/tl/config/duet_ranking_google.config"
+        call(["cp",result_folder+'result.file',os.path.join(current_dir,'predict.test.duet_ranking.txt')])
+        os.chdir(current_dir)
+    elif args.source == 'en' and args.target == 'sw' and args.collection == 'eval1' and args.method=='qt' and args.model == 'google':
+        model_file ="examples/sw/config/eval1_qt_google_ranking.config"
         with open(model_file, 'r') as f:
             config = json.load(f)
         google_script = config['global']['google_script']
+        directory = config['global']['directory']
+        os.chdir(directory)
         result_folder = config['inputs']['predict']['result_folder']
         call(["sh",google_script])
-        call(["cp",result_folder+'result.file','predict.test.duet_ranking.txt'])
-    elif args.source == 'en' and args.target == 'sw' and args.collection == 'sw' and args.method == 'wiktionary':
+        call(["cp",result_folder+'result.file',os.path.join(current_dir,'predict.test.duet_ranking.txt')])
+        #call(["cp",result_folder+'result.file','predict.test.duet_ranking.txt'])
+        os.chdir(current_dir)
+    elif args.source == 'en' and args.target == 'sw' and args.collection == 'eval2' and args.method=='qt' and args.model == 'google':
+        model_file ="examples/sw/config/eval2_qt_google_ranking.config"
+        with open(model_file, 'r') as f:
+            config = json.load(f)
+        google_script = config['global']['google_script']
+        directory = config['global']['directory']
+        os.chdir(directory)
+        result_folder = config['inputs']['predict']['result_folder']
+        call(["sh",google_script])
+        call(["cp",result_folder+'result.file',os.path.join(current_dir,'predict.test.duet_ranking.txt')])
+        #call(["cp",result_folder+'result.file','predict.test.duet_ranking.txt'])
+        os.chdir(current_dir)
+    elif args.source == 'en' and args.target == 'sw' and args.collection == 'dev' and args.method=='qt' and args.model == 'google':
+        model_file ="examples/sw/config/dev_qt_google_ranking.config"
+        with open(model_file, 'r') as f:
+            config = json.load(f)
+        google_script = config['global']['google_script']
+        directory = config['global']['directory']
+        os.chdir(directory)
+        result_folder = config['inputs']['predict']['result_folder']
+        call(["sh",google_script])
+        call(["cp",result_folder+'result.file',os.path.join(current_dir,'predict.test.duet_ranking.txt')])
+        #call(["cp",result_folder+'result.file','predict.test.duet_ranking.txt'])
+        os.chdir(current_dir)
+    elif args.source == 'en' and args.target == 'tl' and args.collection == 'analysis' and args.method=='qt' and args.model == 'google':
+        model_file ="examples/tl/config/analysis_qt_google_ranking.config"
+        with open(model_file, 'r') as f:
+            config = json.load(f)
+        google_script = config['global']['google_script']
+        directory = config['global']['directory']
+        os.chdir(directory)
+        result_folder = config['inputs']['predict']['result_folder']
+        call(["sh",google_script])
+        call(["cp",result_folder+'result.file',os.path.join(current_dir,'predict.test.duet_ranking.txt')])
+        #call(["cp",result_folder+'result.file','predict.test.duet_ranking.txt'])
+        os.chdir(current_dir)
+    elif args.source == 'en' and args.target == 'tl' and args.collection == 'eval1' and args.method=='qt' and args.model == 'google':
+        model_file ="examples/tl/config/eval1_qt_google_ranking.config"
+        with open(model_file, 'r') as f:
+            config = json.load(f)
+        google_script = config['global']['google_script']
+        directory = config['global']['directory']
+        os.chdir(directory)
+        result_folder = config['inputs']['predict']['result_folder']
+        call(["sh",google_script])
+        call(["cp",result_folder+'result.file',os.path.join(current_dir,'predict.test.duet_ranking.txt')])
+        os.chdir(current_dir)
+    elif args.source == 'en' and args.target == 'tl' and args.collection == 'eval2' and args.method=='qt' and args.model == 'google':
+        model_file ="examples/tl/config/eval2_qt_google_ranking.config"
+        with open(model_file, 'r') as f:
+            config = json.load(f)
+        google_script = config['global']['google_script']
+        directory = config['global']['directory']
+        os.chdir(directory)
+        result_folder = config['inputs']['predict']['result_folder']
+        call(["sh",google_script])
+        call(["cp",result_folder+'result.file',os.path.join(current_dir,'predict.test.duet_ranking.txt')])
+        os.chdir(current_dir)
+    elif args.source == 'en' and args.target == 'tl' and args.collection == 'dev' and args.method=='qt' and args.model == 'google':
+        model_file ="examples/tl/config/dev_qt_google_ranking.config"
+        with open(model_file, 'r') as f:
+            config = json.load(f)
+        google_script = config['global']['google_script']
+        directory = config['global']['directory']
+        os.chdir(directory)
+        result_folder = config['inputs']['predict']['result_folder']
+        call(["sh",google_script])
+        call(["cp",result_folder+'result.file',os.path.join(current_dir,'predict.test.duet_ranking.txt')])
+        os.chdir(current_dir)
+    elif args.source == 'en' and args.target == 'tl' and args.collection == 'sw' and args.method == 'wiktionary':
         model_file ="examples/sw/config/duet_ranking_wiktionary.config"
         with open(model_file, 'r') as f:
             config = json.load(f)
@@ -182,20 +302,19 @@ def main(argv):
     with open("eval.sh", 'w') as f:
         f.write("trec_eval -q "+judg_file+" -m map -m P.5,10 -m aqwv predict.test.duet_ranking.txt > eval.test.duet_ranking.txt")
     f.close()
-    call(["sh","eval.sh"])
-    call(["cp","predict.test.duet_ranking.txt","eval.test.duet_ranking.txt",result_folder])
-    os.remove("eval.sh")
-    with open("eval.test.duet_ranking.txt", 'r') as f:
-        for line in f.readlines():
-            metric,qid,val  = line.rstrip().split('\t')
-            if qid =='all':
-                print(metric+'='+val)
-    f.close()
+    
+    if args.collection!="eval1" and args.collection!="eval2":
+        call(["sh","eval.sh"])
+        os.remove("eval.sh")
+        with open("eval.test.duet_ranking.txt", 'r') as f:
+            for line in f.readlines():
+                metric,qid,val  = line.rstrip().split('\t')
+                if qid =='all':
+                    print(metric+'='+val)
 
     result_name="results/"+'_'.join(sys.argv[1:])[1:]+'.txt'
     call(["cp","eval.test.duet_ranking.txt",result_name+"_eval"])
     call(["cp","predict.test.duet_ranking.txt",result_name+"_predict"])
-    print('Result txt file saved in',result_name)
     # check result by ID
     if args.query_list:
         call(["python", "single_query_result.py", "-q", ' '.join(args.query_list)])

@@ -1,0 +1,176 @@
+﻿
+<top> 
+<num> C301 </num> 
+<ES-title> Marcas Nestlé </ES-title>
+<ES-desc> ¿Qué marcas son comercializadas por Nestlé a nivel mundial? </ES-desc> 
+<ES-narr> Los documentos relevantes proporcionan el nombre de los productos comercializados a nivel mundial por Nestlé o por compañías que pertenecen al Grupo Nestlé. En cualquier caso, el documento debe hacer clara referencia a la compañía a la empresa matriz. </ES-narr> 
+</top>
+
+<top> 
+<num> C302 </num> 
+<ES-title> Boicots de los consumidores </ES-title> 
+<ES-desc> Encontrar documentos que describan o discutan el impacto de boicots de los consumidores</ES-desc> 
+<ES-narr> Los documentos relevantes proporcionarán información o puntos de vista sobre la eficacia de boicots de los consumidores. También es relevante las razones morales de dichos boicots. Sólo son relevantes los boicots de los consumidores, los boicots políticos deben descartarse. </ES-narr> 
+</top>
+
+<top> 
+<num> C303 </num> 
+<ES-title> Cuadros italianos </ES-title> 
+<ES-desc> Encontrar información sobre lugares que exhiban o expongan al público cuadros o dibujos italianos. </ES-desc> 
+<ES-narr> Los documentos relevantes proporcionarán información sobre lugares de exposiciones temporales o permanentes de cuadros italianos en cualquier lugar del mundo. También será relevante la información sobre cuadros o dibujos concretos de artistas italianos que estén a disposición del público en museos, galerías de arte o similares. La información proporcionada debe ser suficiente para identificar su situación concreta, no basta con el nombre de la ciudad o el país. </ES-narr> 
+</top>
+
+<top> 
+<num> C304 </num> 
+<ES-title> Lugares patrimonio de la humanidad </ES-title>
+<ES-desc> Nombre los nombres y/o situación de lugares que hayan sido designados como patrimonio de la humanidad por la UNESCO por su destacada belleza o importancia. </ES-desc> 
+<ES-narr> Los documentos relevantes deben mencionar el lugar y/o situación geográfica de los monumentos, ciudades o lugares que han sido oficialmente declarados patrimonio universal por la UNESCO por su destacada belleza o importancia. No son relevantes las discusiones sobre los posibles candidatos. En el documento debe estar claro que estos lugares tienen el estatus oficial otorgado por la UNESCO. </ES-narr> 
+</top>
+
+<top> 
+<num> C305 </num> 
+<ES-title> Precio del petróleo </ES-title> 
+<ES-desc> ¿Cuál es el precio actual del petróleo?</ES-desc> 
+<ES-narr> Sólo son relevantes los documentos que aporten el precio actual del petróleo, es decir, el precio cuando fue escrito el documento. Las referencias a los precios en el pasado o las predicciones sobre cambios en el futuro no son relevantes. </ES-narr> 
+</top>
+
+<top> 
+<num> C306 </num> 
+<ES-title> Actividades de ETA en Francia </ES-title> 
+<ES-desc> Encontrar documentos que informen sobre actividades de la banda terrorista vasca ETA en Francia </ES-desc>
+<ES-narr> Sólo son relevantes los documentos que describen las actividades de la banda terrorista vasca ETA en territorio francés, ya sean actividades sobre armas, políticas, financieras u otras. Las actividades de ETA en España no son relevantes. </ES-narr> 
+</top>
+
+<top> 
+<num> C307 </num> 
+<ES-title> Películas ambientadas en Escocia </ES-title> 
+<ES-desc> Encontrar cualquier información sobre películas cuya trama se sitúe en Escocia. </ES-desc> 
+<ES-narr> Los documentos relevantes deben mencionar películas cuya trama se sitúe en Escocia. Las películas rodadas en Escocia pero que estén ambientadas en otro lugar no son relevantes. Obras como «Macbeth» no son relevantes, pero sus versiones cinematográficas sí lo son. También son de interés los documentales que incluyan escenas en Escocia. </ES-narr> 
+</top>
+
+<top> 
+<num> C308 </num> 
+<ES-title> Eclipse solar </ES-title>
+<ES-desc> Encontrar documentos que informen de eclipses totales o parciales de sol. </ES-desc> 
+<ES-narr> Cualquier documento que dé algún tipo de información sobre eclipses solares es relevante. Los documentos sobre eclipses de luna o sobre otros movimientos planetarios no son relevantes. </ES-narr> 
+</top>
+
+<top> 
+<num> C309 </num> 
+<ES-title> Drogas «duras» </ES-title> 
+<ES-desc> ¿Cuáles son los peligros para la salud que causan las drogas «duras» ilegales como la heroína y la cocaína frente a las drogas «blandas»? </ES-desc> 
+<ES-narr> Los documentos relevantes proporcionarán información sobre los riesgos médicos relacionados con el uso ilegal y la dependencia de las drogas duras. La información relacionada con el uso de las drogas «blandas» no es relevante. </ES-narr> 
+</top>
+
+<top> 
+<num> C310 </num> 
+<ES-title> Tratamiento de residuos industriales </ES-title> 
+<ES-desc> Encontrar documentos que describan métodos usados para tratar o almacenar residuos industriales. </ES-desc> 
+<ES-narr> Los documentos deben mencionar no sólo las formas de tratar desperdicios industriales (incineradoras, reciclado de residuos), sino también deben indicar el país, ciudad o región en la que se emplean dichos métodos. </ES-narr> 
+</top>
+
+<top> 
+<num> C311 </num> 
+<ES-title> Desempleo en Europa </ES-title> 
+<ES-desc> Encontrar documentos y datos relacionados con la tasa de desempleo de los países europeos. </ES-desc> 
+<ES-narr> Los documentos relevantes deben tratar el problema del desempleo en uno o más países europeos. Los documentos también deben proporcionar algunos datos que indiquen las tasas de desempleo. </ES-narr> 
+</top>
+
+<top> 
+<num> C312 </num> 
+<ES-title> Ataques de perros </ES-title> 
+<ES-desc> ¿Cuáles son las consecuencias de ataques de perros a personas? </ES-desc> 
+<ES-narr> Los documentos relevantes describen las consecuencias de incidentes en los que una persona ha sido atacada por un perro, p. ej., el tipo de heridas ocasionadas y/o el tipo de sanciones aplicables al propietario del perro. </ES-narr> 
+</top>
+
+<top> 
+<num> C313 </num> 
+<ES-title> Celebraciones centenarias </ES-title> 
+<ES-desc> Encontrar documentos que informen acerca de la celebración del centenario de algún acontecimiento. </ES-desc> 
+<ES-narr> Los documentos relevantes contienen información acerca del centenario del nacimiento o muerte de alguna persona famosa o de algún acontecimiento histórico importante. </ES-narr> 
+</top>
+
+<top> 
+<num> C314 </num> 
+<ES-title> Especies en peligro </ES-title> 
+<ES-desc> ¿Qué medidas se han tomado en Europa para proteger animales o plantas en peligro de extinción? </ES-desc> 
+<ES-narr> Los documentos relevantes hablarán sobre las medidas tomadas para proteger animales o plantas en peligro de extinción. </ES-narr> 
+</top>
+
+<top> 
+<num> C315 </num> 
+<ES-title> El dopaje en el deporte </ES-title> 
+<ES-desc> ¿En qué deportes se utilizan fármacos ilegales? </ES-desc> 
+<ES-narr> Encontrar documentos que informen acerca de casos específicos en los que un deportista profesional haya sido acusado de utilizar fármacos para mejorar su rendimiento. </ES-narr> 
+</top>
+
+<top> 
+<num> C316 </num> 
+<ES-title> Huelgas </ES-title> 
+<ES-desc> ¿Quién está de huelga y por qué? </ES-desc> 
+<ES-narr> Encontrar documentos que informen acerca de casos específicos de huelgas en cualquier parte del mundo. Los documentos deberán proporcionar información específica sobre las causas de la huelga y los objetivos que sus participantes esperan alcanzar con esta acción. Sólo son relevantes los documentos que hablen de huelgas reales; las informaciones sobre posibles huelgas futuras no son pertinentes. </ES-narr> 
+</top>
+
+<top> 
+<num> C317 </num> 
+<ES-title> Medicamentos contra el cáncer </ES-title> 
+<ES-desc> Encontrar información acerca de los efectos clínicos y experimentales de fármacos y otros tratamientos médicos contra el cáncer. </ES-desc> 
+<ES-narr> Encontrar documentos que contengan información acerca de resultados clínicos o experimentales relacionados con el desarrollo o las pruebas de fármacos o tratamientos contra el cáncer, incluyendo terapia de hormonas, quimioterapia e inmunoterapia. </ES-narr> 
+</top>
+
+<top> 
+<num> C318 </num> 
+<ES-title> Educación sexual </ES-title> 
+<ES-desc> ¿Se proporciona educación sexual en las escuelas europeas? </ES-desc> 
+<ES-narr> Encontrar documentos que den alguna información acerca de la educación sexual en las escuelas de Europa. Los documentos relevantes informarán acerca de las razones para incluir este tema en las clases o mencionarán discusiones a favor y en contra de la educación sexual como parte del curriculum escolar. </ES-narr> 
+</top>
+
+<top> 
+<num> C319 </num> 
+<ES-title> Producción de opio en el mundo </ES-title> 
+<ES-desc> Encontrar información acerca del cultivo y/o producción de opio alrededor del mundo. </ES-desc> 
+<ES-narr> Los documentos relevantes darán información acerca del cultivo de la amapola de opio o acerca de la producción de opio y de sus derivados. Es interesante tanto la producción de opio legal como la ilegal. </ES-narr> 
+</top>
+
+<top> 
+<num> C320 </num> 
+<ES-title> Crisis energéticas </ES-title> 
+<ES-desc> Encontrar información sobre cualquier tipo de escasez de energía o de combustible. </ES-desc> 
+<ES-narr> Los documentos relevantes deberán mencionar dónde tuvo lugar la crisis energética y enumerar las causas. </ES-narr> 
+</top>
+
+<top> 
+<num> C321 </num> 
+<ES-title> Los talibanes en Afganistán </ES-title> 
+<ES-desc> Encontrar información sobre las creencias y prácticas del movimiento islámico talibán en Afganistán. </ES-desc> 
+<ES-narr> Los documentos relevantes darán información acerca del movimiento talibán en Afganistán, sus creencias y prácticas. Son especialmente interesantes las informaciones sobre el trato de los talibanes a las mujeres. </ES-narr> 
+</top>
+
+<top> 
+<num> C322 </num> 
+<ES-title> Energía atómica </ES-title> 
+<ES-desc> Encontrar documentos a favor o en contra del empleo de la energía nuclear para fines pacíficos. </ES-desc> 
+<ES-narr> Los documentos relevantes deberán proporcionar argumentos generales a favor y en contra del uso de la energía atómica para fines pacíficos. Las informaciones sobre accidentes concretos o desastres relacionados con la energía atómica no son de interés a menos que también incluyan una discusión general. </ES-narr> 
+</top>
+
+<top>
+<num> C323 </num>
+<ES-title> Endurecimiento de los requisitos para obtener un visado </ES-title> 
+<ES-desc> Encontrar documentos que ofrezcan información sobre el endurecimiento de los requisitos para obtener un visado y las leyes de inmigración. </ES-desc> 
+<ES-narr> Los documentos relevantes deben proporcionar información sobre países que recientemente hayan hecho más restrictivas sus leyes de inmigración y reglamentos de visados. También son de interés los debates acerca de países que actualmente estén considerando la poner en práctica este tipo de restricciones. </ES-narr> 
+</top>
+
+<top> 
+<num> C324 </num> 
+<ES-title> Supermodelos </ES-title> 
+<ES-desc> Encontrar nombres de modelos famosas internacionalmente </ES-desc> 
+<ES-narr> Las supermodelos se definen como modelos que han tenido tal éxito que han alcanzado el grado de celebridad. Los documentos relevantes proporcionarán los nombres de supermodelos famosas. Debe quedar claro en el documento que la persona nombrada es considerada famosa internacionalmente. </ES-narr> 
+</top>
+
+<top> 
+<num> C325 </num> 
+<ES-title> Tasas a estudiantes </ES-title> 
+<ES-desc> Encontrar documentos que debatan la aplicación o el aumento de las tasas a estudiantes. </ES-desc> 
+<ES-narr> Los documentos relevantes deben proporcionar información sobre la aplicación o el aumento de las tasas universitarias. Son de interés los precios de los cursos, tanto de grado como de postgrado. </ES-narr> 
+</top>
+

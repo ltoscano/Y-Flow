@@ -1,7 +1,7 @@
 import re
 
-g = open('./data/sw/ANALYSIS-EN/result/result.file','w')
-with open('./data/sw/ANALYSIS-EN/result/result.first') as f:
+g = open('result/result.file','w')
+with open('result/result.first') as f:
     for line in f.readlines():
         tokens = line.rstrip().split(' ')
         a =set()

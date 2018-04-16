@@ -1,0 +1,351 @@
+﻿
+<top> 
+<num> C301 </num> 
+<ES-title> Marcas Nestlé </ES-title>
+<ES-desc> ¿Qué marcas son comercializadas por Nestlé a nivel mundial? </ES-desc> 
+<ES-narr> Los documentos relevantes proporcionan el nombre de los productos comercializados a nivel mundial por Nestlé o por compañías que pertenecen al Grupo Nestlé. En cualquier caso, el documento debe hacer clara referencia a la compañía a la empresa matriz. </ES-narr> 
+</top>
+
+<top> 
+<num> C302 </num> 
+<ES-title> Boicots de los consumidores </ES-title> 
+<ES-desc> Encontrar documentos que describan o discutan el impacto de boicots de los consumidores</ES-desc> 
+<ES-narr> Los documentos relevantes proporcionarán información o puntos de vista sobre la eficacia de boicots de los consumidores. También es relevante las razones morales de dichos boicots. Sólo son relevantes los boicots de los consumidores, los boicots políticos deben descartarse. </ES-narr> 
+</top>
+
+<top> 
+<num> C303 </num> 
+<ES-title> Cuadros italianos </ES-title> 
+<ES-desc> Encontrar información sobre lugares que exhiban o expongan al público cuadros o dibujos italianos. </ES-desc> 
+<ES-narr> Los documentos relevantes proporcionarán información sobre lugares de exposiciones temporales o permanentes de cuadros italianos en cualquier lugar del mundo. También será relevante la información sobre cuadros o dibujos concretos de artistas italianos que estén a disposición del público en museos, galerías de arte o similares. La información proporcionada debe ser suficiente para identificar su situación concreta, no basta con el nombre de la ciudad o el país. </ES-narr> 
+</top>
+
+<top> 
+<num> C304 </num> 
+<ES-title> Lugares patrimonio de la humanidad </ES-title>
+<ES-desc> Nombre los nombres y/o situación de lugares que hayan sido designados como patrimonio de la humanidad por la UNESCO por su destacada belleza o importancia. </ES-desc> 
+<ES-narr> Los documentos relevantes deben mencionar el lugar y/o situación geográfica de los monumentos, ciudades o lugares que han sido oficialmente declarados patrimonio universal por la UNESCO por su destacada belleza o importancia. No son relevantes las discusiones sobre los posibles candidatos. En el documento debe estar claro que estos lugares tienen el estatus oficial otorgado por la UNESCO. </ES-narr> 
+</top>
+
+<top> 
+<num> C305 </num> 
+<ES-title> Precio del petróleo </ES-title> 
+<ES-desc> ¿Cuál es el precio actual del petróleo?</ES-desc> 
+<ES-narr> Sólo son relevantes los documentos que aporten el precio actual del petróleo, es decir, el precio cuando fue escrito el documento. Las referencias a los precios en el pasado o las predicciones sobre cambios en el futuro no son relevantes. </ES-narr> 
+</top>
+
+<top> 
+<num> C306 </num> 
+<ES-title> Actividades de ETA en Francia </ES-title> 
+<ES-desc> Encontrar documentos que informen sobre actividades de la banda terrorista vasca ETA en Francia </ES-desc>
+<ES-narr> Sólo son relevantes los documentos que describen las actividades de la banda terrorista vasca ETA en territorio francés, ya sean actividades sobre armas, políticas, financieras u otras. Las actividades de ETA en España no son relevantes. </ES-narr> 
+</top>
+
+<top> 
+<num> C307 </num> 
+<ES-title> Películas ambientadas en Escocia </ES-title> 
+<ES-desc> Encontrar cualquier información sobre películas cuya trama se sitúe en Escocia. </ES-desc> 
+<ES-narr> Los documentos relevantes deben mencionar películas cuya trama se sitúe en Escocia. Las películas rodadas en Escocia pero que estén ambientadas en otro lugar no son relevantes. Obras como «Macbeth» no son relevantes, pero sus versiones cinematográficas sí lo son. También son de interés los documentales que incluyan escenas en Escocia. </ES-narr> 
+</top>
+
+<top> 
+<num> C308 </num> 
+<ES-title> Eclipse solar </ES-title>
+<ES-desc> Encontrar documentos que informen de eclipses totales o parciales de sol. </ES-desc> 
+<ES-narr> Cualquier documento que dé algún tipo de información sobre eclipses solares es relevante. Los documentos sobre eclipses de luna o sobre otros movimientos planetarios no son relevantes. </ES-narr> 
+</top>
+
+<top> 
+<num> C309 </num> 
+<ES-title> Drogas «duras» </ES-title> 
+<ES-desc> ¿Cuáles son los peligros para la salud que causan las drogas «duras» ilegales como la heroína y la cocaína frente a las drogas «blandas»? </ES-desc> 
+<ES-narr> Los documentos relevantes proporcionarán información sobre los riesgos médicos relacionados con el uso ilegal y la dependencia de las drogas duras. La información relacionada con el uso de las drogas «blandas» no es relevante. </ES-narr> 
+</top>
+
+<top> 
+<num> C310 </num> 
+<ES-title> Tratamiento de residuos industriales </ES-title> 
+<ES-desc> Encontrar documentos que describan métodos usados para tratar o almacenar residuos industriales. </ES-desc> 
+<ES-narr> Los documentos deben mencionar no sólo las formas de tratar desperdicios industriales (incineradoras, reciclado de residuos), sino también deben indicar el país, ciudad o región en la que se emplean dichos métodos. </ES-narr> 
+</top>
+
+<top> 
+<num> C311 </num> 
+<ES-title> Desempleo en Europa </ES-title> 
+<ES-desc> Encontrar documentos y datos relacionados con la tasa de desempleo de los países europeos. </ES-desc> 
+<ES-narr> Los documentos relevantes deben tratar el problema del desempleo en uno o más países europeos. Los documentos también deben proporcionar algunos datos que indiquen las tasas de desempleo. </ES-narr> 
+</top>
+
+<top> 
+<num> C312 </num> 
+<ES-title> Ataques de perros </ES-title> 
+<ES-desc> ¿Cuáles son las consecuencias de ataques de perros a personas? </ES-desc> 
+<ES-narr> Los documentos relevantes describen las consecuencias de incidentes en los que una persona ha sido atacada por un perro, p. ej., el tipo de heridas ocasionadas y/o el tipo de sanciones aplicables al propietario del perro. </ES-narr> 
+</top>
+
+<top> 
+<num> C313 </num> 
+<ES-title> Celebraciones centenarias </ES-title> 
+<ES-desc> Encontrar documentos que informen acerca de la celebración del centenario de algún acontecimiento. </ES-desc> 
+<ES-narr> Los documentos relevantes contienen información acerca del centenario del nacimiento o muerte de alguna persona famosa o de algún acontecimiento histórico importante. </ES-narr> 
+</top>
+
+<top> 
+<num> C314 </num> 
+<ES-title> Especies en peligro </ES-title> 
+<ES-desc> ¿Qué medidas se han tomado en Europa para proteger animales o plantas en peligro de extinción? </ES-desc> 
+<ES-narr> Los documentos relevantes hablarán sobre las medidas tomadas para proteger animales o plantas en peligro de extinción. </ES-narr> 
+</top>
+
+<top> 
+<num> C315 </num> 
+<ES-title> El dopaje en el deporte </ES-title> 
+<ES-desc> ¿En qué deportes se utilizan fármacos ilegales? </ES-desc> 
+<ES-narr> Encontrar documentos que informen acerca de casos específicos en los que un deportista profesional haya sido acusado de utilizar fármacos para mejorar su rendimiento. </ES-narr> 
+</top>
+
+<top> 
+<num> C316 </num> 
+<ES-title> Huelgas </ES-title> 
+<ES-desc> ¿Quién está de huelga y por qué? </ES-desc> 
+<ES-narr> Encontrar documentos que informen acerca de casos específicos de huelgas en cualquier parte del mundo. Los documentos deberán proporcionar información específica sobre las causas de la huelga y los objetivos que sus participantes esperan alcanzar con esta acción. Sólo son relevantes los documentos que hablen de huelgas reales; las informaciones sobre posibles huelgas futuras no son pertinentes. </ES-narr> 
+</top>
+
+<top> 
+<num> C317 </num> 
+<ES-title> Medicamentos contra el cáncer </ES-title> 
+<ES-desc> Encontrar información acerca de los efectos clínicos y experimentales de fármacos y otros tratamientos médicos contra el cáncer. </ES-desc> 
+<ES-narr> Encontrar documentos que contengan información acerca de resultados clínicos o experimentales relacionados con el desarrollo o las pruebas de fármacos o tratamientos contra el cáncer, incluyendo terapia de hormonas, quimioterapia e inmunoterapia. </ES-narr> 
+</top>
+
+<top> 
+<num> C318 </num> 
+<ES-title> Educación sexual </ES-title> 
+<ES-desc> ¿Se proporciona educación sexual en las escuelas europeas? </ES-desc> 
+<ES-narr> Encontrar documentos que den alguna información acerca de la educación sexual en las escuelas de Europa. Los documentos relevantes informarán acerca de las razones para incluir este tema en las clases o mencionarán discusiones a favor y en contra de la educación sexual como parte del curriculum escolar. </ES-narr> 
+</top>
+
+<top> 
+<num> C319 </num> 
+<ES-title> Producción de opio en el mundo </ES-title> 
+<ES-desc> Encontrar información acerca del cultivo y/o producción de opio alrededor del mundo. </ES-desc> 
+<ES-narr> Los documentos relevantes darán información acerca del cultivo de la amapola de opio o acerca de la producción de opio y de sus derivados. Es interesante tanto la producción de opio legal como la ilegal. </ES-narr> 
+</top>
+
+<top> 
+<num> C320 </num> 
+<ES-title> Crisis energéticas </ES-title> 
+<ES-desc> Encontrar información sobre cualquier tipo de escasez de energía o de combustible. </ES-desc> 
+<ES-narr> Los documentos relevantes deberán mencionar dónde tuvo lugar la crisis energética y enumerar las causas. </ES-narr> 
+</top>
+
+<top> 
+<num> C321 </num> 
+<ES-title> Los talibanes en Afganistán </ES-title> 
+<ES-desc> Encontrar información sobre las creencias y prácticas del movimiento islámico talibán en Afganistán. </ES-desc> 
+<ES-narr> Los documentos relevantes darán información acerca del movimiento talibán en Afganistán, sus creencias y prácticas. Son especialmente interesantes las informaciones sobre el trato de los talibanes a las mujeres. </ES-narr> 
+</top>
+
+<top> 
+<num> C322 </num> 
+<ES-title> Energía atómica </ES-title> 
+<ES-desc> Encontrar documentos a favor o en contra del empleo de la energía nuclear para fines pacíficos. </ES-desc> 
+<ES-narr> Los documentos relevantes deberán proporcionar argumentos generales a favor y en contra del uso de la energía atómica para fines pacíficos. Las informaciones sobre accidentes concretos o desastres relacionados con la energía atómica no son de interés a menos que también incluyan una discusión general. </ES-narr> 
+</top>
+
+<top>
+<num> C323 </num>
+<ES-title> Endurecimiento de los requisitos para obtener un visado </ES-title> 
+<ES-desc> Encontrar documentos que ofrezcan información sobre el endurecimiento de los requisitos para obtener un visado y las leyes de inmigración. </ES-desc> 
+<ES-narr> Los documentos relevantes deben proporcionar información sobre países que recientemente hayan hecho más restrictivas sus leyes de inmigración y reglamentos de visados. También son de interés los debates acerca de países que actualmente estén considerando la poner en práctica este tipo de restricciones. </ES-narr> 
+</top>
+
+<top> 
+<num> C324 </num> 
+<ES-title> Supermodelos </ES-title> 
+<ES-desc> Encontrar nombres de modelos famosas internacionalmente </ES-desc> 
+<ES-narr> Las supermodelos se definen como modelos que han tenido tal éxito que han alcanzado el grado de celebridad. Los documentos relevantes proporcionarán los nombres de supermodelos famosas. Debe quedar claro en el documento que la persona nombrada es considerada famosa internacionalmente. </ES-narr> 
+</top>
+
+<top> 
+<num> C325 </num> 
+<ES-title> Tasas a estudiantes </ES-title> 
+<ES-desc> Encontrar documentos que debatan la aplicación o el aumento de las tasas a estudiantes. </ES-desc> 
+<ES-narr> Los documentos relevantes deben proporcionar información sobre la aplicación o el aumento de las tasas universitarias. Son de interés los precios de los cursos, tanto de grado como de postgrado. </ES-narr> 
+</top>
+
+<top> 
+<num> C326 </num> 
+<ES-title> Premios internacionales Emmy </ES-title> 
+<ES-desc> Encontrar información sobre los ganadores en cualquier categoría de los premios Emmy 1995 para los mejores programas internacionales de televisión. </ES-desc> 
+<ES-narr> Cada año la Academia de Artes y Ciencias Televisivas presenta los Premios Internacionales Emmy al mejor programa de televisión producido fuera de los EEUU. Los documentos relevantes proporcionarán el nombre de los ganadores en cualquiera de las categorías </ES-narr> 
+</top>
+
+<top> 
+<num> C327 </num> 
+<ES-title> Terremotos en Ciudad de México </ES-title> 
+<ES-desc> Encontrar documentos que proporcionen detalles sobre el impacto o el daño causado por terremotos en Ciudad de México en 1995. </ES-desc> 
+<ES-narr> Los documentos relevantes deberían contener datos sobre terremotos en Ciudad de México en 1995, tales como su magnitud, los daños causados, el pánico de los habitantes, etc. Los documentos sobre terremotos en otros lugares de México no son relevantes a menos que el movimiento sísmico se sintiera también en Ciudad de México. </ES-narr> 
+</top>
+
+<top> 
+<num> C328 </num> 
+<ES-title> Kurdos iraquíes y Turquía </ES-title> 
+<ES-desc> Encontrar documentos que proporcionen detalles sobre acciones militares realizadas por el ejército turco en la zona kurda iraquí. </ES-desc> 
+<ES-narr> Los documentos relevantes informarán sobre acciones realizadas por el ejército turco en la zona kurda del norte de Irak. Los documentos que proporcionen información general sobre las relaciones entre los turcos y los kurdos no son relevantes. </ES-narr> 
+</top>
+
+<top> 
+<num> C329 </num> 
+<ES-title> Consecuencias en caso de divorcio entre Carlos y Diana </ES-title> 
+<ES-desc> ¿Tendría consecuencias constitucionales un divorcio entre el Príncipe Carlos y la Princesa Diana de Gales? </ES-desc> 
+<ES-narr> Sólo son relevantes los documentos que debaten las posibles consecuencias constitucionales como resultado de un divorcio entre el Príncipe y la Princesa de Gales. </ES-narr> 
+</top>
+
+<top> 
+<num> C330 </num> 
+<ES-title> Películas con Keanu Reeves </ES-title> 
+<ES-desc> Encontrar el título de películas protagonizadas por Keanu Reeves. </ES-desc> 
+<ES-narr> Los documentos relevantes mencionarán el título de películas en las que ha aparecido Keanu Reeves. Sólo son relevantes las películas que ya han sido estrenadas. No son de interés las películas en que se encuentren en producción. Debe quedar claro que Reeves era actor en la película, y no el productor o el director. </ES-narr> 
+</top>
+
+<top> 
+<num> C331 </num> 
+<ES-title> Las políticas económicas de Zedillo </ES-title> 
+<ES-desc> Encontrar información sobre las políticas económicas del presidente de México, Ernesto Zedillo. </ES-desc> 
+<ES-narr> Los documentos relevantes debatirán las políticas de economía y finanzas del Presidente Ernesto Zedillo. Son especialmente interesantes los documentos que traten la devaluación de la moneda mexicana. No son relevantes los documentos que sólo mencionen a Zedillo como responsable de la crisis financiera de México sin ofrecer detalles sobre sus acciones. </ES-narr> 
+</top>
+
+<top> 
+<num> C332 </num> 
+<ES-title> Tiroteo de Tupac Shakur </ES-title> 
+<ES-desc> Encontrar información sobre el tiroteo del músico de rap Tupac Shakur en noviembre de 1994. </ES-desc> 
+<ES-narr> Los documentos relevantes contendrán información sobre las circunstancias en las cuales Tupac Shakur fue tiroteado y los acontecimientos que desembocaron en el tiroteo a la entrada los estudios de grabación «Quad» en 1994. </ES-narr> 
+</top>
+
+<top> 
+<num> C333 </num> 
+<ES-title> Juicio a Paul Touvier </ES-title> 
+<ES-desc> Encontrar información sobre el juicio al criminal de guerra francés, Paul Touvier. </ES-desc> 
+<ES-narr> Los documentos relevantes proveerán información sobre el juicio a Paul Touvier. Touvier fue juzgado y declarado culpable de crímenes contra la humanidad cometidos durante la Segunda Guerra Mundial. </ES-narr> 
+</top>
+
+<top>
+<num> C334 </num> 
+<ES-title> Elección de George W. Bush </ES-title> 
+<ES-desc> ¿A quién derrotó George W. Bush cuando fue elegido Gobernador de Tejas en 1994? </ES-desc> 
+<ES-narr> Los documentos relevantes darán los resultados de la elecciones a gobernador de Tejas en 1994. Sólo son pertinentes los documentos que proporcionen nombres de los Demócratas que fueron derrotados por Bush. </ES-narr> 
+</top>
+
+<top>
+<num> C335 </num> 
+<ES-title> Laborismo después de John Smith </ES-title> 
+<ES-desc> ¿Cuál fue el efecto de la muerte de John Smith en el Partido Laborista británico? </ES-desc> 
+<ES-narr> Documentos deberán discutir o especular sobre el futuro del Partido Laborista británico tras la muerte de su líder John Smith en 1994. Son especialmente interesantes los detalles de la lucha por el poder entre diversas corrientes en el partido y la batalla entre los candidatos para el liderazgo. </ES-narr> 
+</top>
+
+<top>
+<num> C336 </num> 
+<ES-title> Conflictos laborales en la NBA </ES-title>
+<ES-desc> Encontrar información sobre los conflictos laborales que se extendieron en la NBA durante 1994 y 1995. </ES-desc>
+<ES-narr> Los conflictos laborales relevantes incluyen huelga de árbitros, amenaza de huelga de los jugadores, y el cierre patronal por parte del propietario del equipo. </ES-narr>
+</top>
+
+<top>
+<num> C337 </num> 
+<ES-title> Guerra civil en Yemen </ES-title> 
+<ES-desc> Es interesante cualquier información sobre la guerra civil de Yemen en 1994. </ES-desc> 
+<ES-narr> Los documentos discutirán sobre los intentos de secesión de Yemen del Sur de la República de Yemen y sobre la breve guerra civil en la que éstos desembocaron. </ES-narr> 
+</top>
+
+<top>
+<num> C338 </num> 
+<ES-title> Extradición y juicio de Carlos </ES-title> 
+<ES-desc> Encontrar información de la extradición y juicio del terrorista conocido como «Carlos el Chacal». </ES-desc> 
+<ES-narr> Los documentos deberán informar sobre la extradición del terrorista conocido como "Carlos el Chacal" desde Sudán y su juicio en Francia. La información sobre sus actividades que no mencione ni su extradición ni su juicio no es relevante. </ES-narr> 
+</top>
+
+<top>
+<num> C339 </num> 
+<ES-title> El Sinn Fein y la declaración británico-irlandesa </ES-title> 
+<ES-desc> ¿Cuál fue la reacción del Sinn Fein ante la declaración británico-irlandesa en 1993? </ES-desc> 
+<ES-narr> Los documentos deberán informar sobre la reacción del Sinn Fein ante la declaración conjunta de los gobiernos británico e irlandés en diciembre de 1993, en relación al futuro de Irlanda del Norte. </ES-narr> 
+</top>
+
+<top>
+<num> C340 </num> 
+<ES-title> Nuevo Primer Ministro de Quebec </ES-title> 
+<ES-desc> ¿Quién fue elegido Primer Ministro de Quebec en septiembre de 1994? </ES-desc> 
+<ES-narr> Los documentos relevantes proporcionarán el nombre del nuevo jefe de gobierno de Quebec, elegido en septiembre de 1994. Las especulaciones sobre el posible ganador antes de las elecciones no son importantes </ES-narr> 
+</top>
+
+<top>
+<num> C341 </num> 
+<ES-title> El ladrón de «El Grito» </ES-title> 
+<ES-desc> Encontrar información sobre el robo del cuadro «El Grito» de la Galería Nacional Noruega en Oslo. </ES-desc> 
+<ES-narr> Los documentos deben ser sobre el ladrón del cuadro en Oslo en febrero de 1994. La información general sobre el cuadro o el artista no es interesante. </ES-narr> 
+</top>
+
+<top>
+<num> C342 </num> 
+<ES-title> Cuatro bodas y un funeral </ES-title> 
+<ES-desc> Encontrar información sobre el éxito de la comedia «Cuatro bodas y un funeral». </ES-desc> 
+<ES-narr> Los documentos relevantes deben proporcionar detalles del éxito o popularidad de esta película. Los documentos sobre la trama no son importantes. </ES-narr> 
+</top>
+
+<top>
+<num> C343 </num> 
+<ES-title> Partido Nacional Sudafricano </ES-title> 
+<ES-desc> Buscar información sobre la campaña y resultados del Partido Nacional en las elecciones sudafricanas de 1994. </ES-desc> 
+<ES-narr> Los documentos relevantes deberán tratar sobre la campaña del Partido Nacional, los intentos por conseguir nuevos votantes, y sus resultados en las primeras elecciones multirraciales en Sudáfrica. Los detalles sobre la historia del partido no son importantes. </ES-narr> 
+</top>
+
+<top>
+<num> C344 </num> 
+<ES-title> Brasil contra Suecia en las semifinales de la Copa del Mundo </ES-title> 
+<ES-desc> Encontrar documentos sobre el partido de semifinal entre Brasil y Suecia en la Copa del Mundo de Fútbol de 1994. </ES-desc>
+<ES-narr> Cualquier información sobre este partido es interesante, p. ej. el aumento de la tensión antes del partido, la descripción del partido, información sobre el resultado final. La información sobre partidos entre Brasil y Suecia en rondas anteriores no es importante. </ES-narr> 
+</top>
+
+<top>
+<num> C345 </num> 
+<ES-title> Esquí de fondo en los Juegos Olímpicos </ES-title> 
+<ES-desc> ¿Quién ganó alguna prueba de esquí de fondo en los Juegos Olímpicos de 1994? </ES-desc> 
+<ES-narr> Los documentos deben mencionar el nombre y la nacionalidad de al menos uno de los ganadores de las pruebas de esquí de fondo de los Juegos Olímpicos de 1994. Los documentos que sólo indiquen el nombre de un equipo ganador sin dar los nombres de los esquiadores no serán considerados relevantes. </ES-narr> 
+</top>
+
+<top>
+<num> C346 </num> 
+<ES-title> Ganadores de Grand Slam </ES-title> 
+<ES-desc> ¿Quién ganó un torneo del Grand Slam de tenis en 1995? </ES-desc> 
+<ES-narr> Los documentos relevantes proporcionan información sobre el nombre y la nacionalidad de al menos uno de los ganadores de un torneo perteneciente al Grand Slam de tenis de 1995. </ES-narr> 
+</top>
+
+<top>
+<num> C347 </num> 
+<ES-title> Oscar a la Mejor Fotografía 1994 </ES-title> 
+<ES-desc> ¿Quién ganó el Oscar a la Mejor Fotografía en 1994? </ES-desc> 
+<ES-narr> Los documentos deben informar sobre el nombre del director y el nombre de la película que ganó el premio a la Mejor Fotografía. </ES-narr> 
+</top>
+
+<top>
+<num> C348 </num> 
+<ES-title> Asesinato de Yann Piat </ES-title> 
+<ES-desc> Encontrar documentos que traten sobre el asesinato de la derechista francesa Yann Piat en 1994. </ES-desc>
+<ES-narr> Los documentos relevantes contendrán detalles sobre el asesinato de Yann Piat cerca de su casa en Toulon en 1994. </ES-narr> 
+</top>
+
+<top>
+<num> C349 </num> 
+<ES-title> La muerte de Nixon </ES-title> 
+<ES-desc> Encontrar documentos que informen sobre la enfermedad y el fallecimiento de Richard Nixon en 1994. </ES-desc> 
+<ES-narr> Los documentos relevantes deben discutir las causas de la enfermedad de Nixon y/o informar sobre su muerte. </ES-narr> 
+</top>
+
+<top>
+<num> C350 </num> 
+<ES-title> La muerte de Ayrton Senna </ES-title> 
+<ES-desc> Encontrar documentos que describan el accidente mortal de Ayrton Senna en el circuito de Ímola en 1994. </ES-desc> 
+<ES-narr> Los documentos deben informar sobre las circunstancias de la muerte del piloto de Formula Uno Ayrton Senna en el Circuito de Ímola en 1994. </ES-narr> 
+</top>
+

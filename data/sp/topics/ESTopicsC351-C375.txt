@@ -1,0 +1,177 @@
+﻿
+<top>
+<num> C351 </num>
+<ES-title> Cambios en la Política Agrícola Común </ES-title>
+<ES-desc> Encontrar documentos que den información sobre cómo se espera que afecte la ampliación de la UE hacia el Este a la Política Agrícola Común de la Unión Europea. </ES-desc>
+<ES-narr> Los documentos relevantes proporcionan información sobre las futuras reformas o el retraso de éstas en la Política Agrícola Común de la UE, como resultado de la incorporación de países de la Europa Central y del Este.
+</ES-narr>
+</top>
+
+<top>
+<num> C352 </num>
+<ES-title> Fuerzas de pacificación de Afganistán </ES-title>
+<ES-desc> Encontrar documentos que mencionen países participantes en la misión de paz en Afganistán. </ES-desc>
+<ES-narr> Los documentos relevantes deben mencionar al menos el nombre del país participante y el número de soldados que el país ha enviado o va a enviar a Afganistán como fuerzas de paz en la misión ISAF (Fuerza Internacional de Asistencia a la Seguridad) bajo mandato de la ONU, que opera bajo es auspicio de la OTAN. Los nombres de estas organizaciones internacionales no tienen que ser mencionadas. </ES-narr>
+</top>
+
+<top>
+<num> C353 </num>
+<ES-title> Fabricación del euro </ES-title>
+<ES-desc> Encontrar documentos que discutan sobre la fabricación de euros o el uso de billetes de euro ya emitidos. </ES-desc>
+<ES-narr> Los documentos relevantes deben contener información sobre el origen de la moneda ya emitida o sobre la tecnología usada para acuñar billetes y monedas de euro. </ES-narr>
+</top>
+
+<top>
+<num> C354 </num>
+<ES-title> Nuevas funcionalidades de los teléfonos móviles </ES-title>
+<ES-desc> ¿Qué nuevas funciones o servicios se están ofreciendo en la actualidad a los usuarios de teléfonos móviles? </ES-desc>
+<ES-narr> Los documentos relevantes proporcionan información sobre alguno de los nuevos servicios o funciones ofrecidas a los usuarios de teléfonos móviles. </ES-narr>
+</top>
+
+<top>
+<num> C355 </num>
+<ES-title> Gases del efecto invernadero </ES-title>
+<ES-desc> ¿Qué gases causan el efecto invernadero? </ES-desc>
+<ES-narr> Los documentos relevantes mencionarán al menos un tipo de gas cuya emisión sea causante del efecto invernadero. </ES-narr>
+</top>
+
+<top>
+<num> C356 </num>
+<ES-title> Nuevos cuerpos celestes </ES-title>
+<ES-desc> ¿Qué cuerpos celestes se han descubierto desde 1975? </ES-desc>
+<ES-narr> Los documentos deben informar sobre el descubrimiento de cuerpos celestes, como estrellas, planetas, cometas, etc. </ES-narr>
+</top>
+
+<top>
+<num> C357 </num>
+<ES-title> Impacto del 11 de septiembre </ES-title>
+<ES-desc> Encontrar documentos que traten sobre cómo los ataques del 11 de septiembre han provocado cambios en las leyes europeas y americanas. </ES-desc>
+<ES-narr> Los documentos relevantes deben dar información sobre la introducción de nuevas leyes o cambios en las leyes existentes con el fin de intentar reducir el peligro de futuros ataques terroristas similares a los de el 11 de septiembre. </ES-narr>
+</top>
+
+<top>
+<num> C358 </num>
+<ES-title> Saqueos en tiempo de guerra </ES-title>
+<ES-desc> ¿En qué medida objetos artísticos de valor o joyas robadas durante las guerras mundiales fueron devueltos a sus legítimos propietarios? </ES-desc>
+<ES-narr> Los documentos relevantes proporcionarán información sobre negociaciones relacionadas con la devolución a sus propietarios de piezas de valor artístico o joyas saqueadas durante las guerras mundiales. Son relevantes tanto los documentos que describen posibles devoluciones como los que hablen de objetos devueltos. </ES-narr>
+</top>
+
+<top>
+<num> C359 </num>
+<ES-title> Teatro inglés </ES-title>
+<ES-desc> Popularidad de las obras de teatro escritas por autores británicos </ES-desc>
+<ES-narr> Los documentos relevantes proporcionan información sobre representaciones de teatro fuera del Reino Unido de obras escritas por autores británicos. </ES-narr>
+</top>
+
+<top>
+<num> C360 </num>
+<ES-title> Agua en Marte </ES-title>
+<ES-desc> ¿Hay agua en el planeta Marte? </ES-desc>
+<ES-narr> Los documentos relevantes describen evidencias científicas que sugieran la existencia de agua o hipótesis sobre si hay agua en el planeta Marte.</ES-narr>
+</top>
+
+<top>
+<num> C361 </num>
+<ES-title> Peregrinaciones cristianas </ES-title>
+<ES-desc> Encontrar información sobre peregrinaciones cristianas con origen y/o destino a Europa Central y del Este o visitas del Papa a monasterios de estas regiones. </ES-desc>
+<ES-narr> Encontrar documentos que informen sobre peregrinajes con origen y/o destino a Europa Central y del Este. Los documentos relevantes deben contener información sobre los destinos de la peregrinación. Las visitas del Papa a monasterios en estas regiones son también consideradas como relevantes. </ES-narr>
+</top>
+
+<top>
+<num> C362 </num>
+<ES-title> Tipo de cambio dólar-euro </ES-title>
+<ES-desc> ¿Cuál es el tipo de cambio entre el dólar estadounidense y el euro? </ES-desc>
+<ES-narr> Los documentos relevantes proporcionarán información sobre la evolución del tipo de cambio entre el dólar estadounidense y el euro. </ES-narr>
+</top>
+
+<top>
+<num> C363 </num>
+<ES-title> Medallistas de las Olimpiadas de invierno </ES-title> 
+<ES-desc> Encontrar documentos que den información sobre los medallistas en los juegos olímpicos de invierno en Salt Lake City. </ES-desc>
+<ES-narr> Los documentos relevantes deben mencionar los nombres de los medallistas y de la prueba en la que la medalla ha sido obtenida. </ES-narr>
+</top>
+
+<top>
+<num> C364 </num>
+<ES-title> Candidatos a canciller alemán </ES-title>
+<ES-desc> Encontrar documentos que discutan sobre los candidatos a canciller de Alemania. </ES-desc>
+<ES-narr> Los documentos relevantes deben proporcionar los nombres de los candidatos en las elecciones a canciller de Alemania. </ES-narr>
+</top>
+
+<top>
+<num> C365 </num>
+<ES-title> Recesión económica en EEUU </ES-title>
+<ES-desc> Encontrar documentos sobre la actual recesión de la economía de los Estados Unidos. </ES-desc>
+<ES-narr> Los documentos relevantes deben tratar las causas de la actual recesión económica en EEUU en conjunto o en determinadas áreas económicas o geográficas del país. </ES-narr>
+</top>
+
+<top>
+<num> C366 </num>
+<ES-title> La tragedia del submarino Kursk </ES-title>
+<ES-desc> Encontrar documentos que discutan las razones de la tragedia abordo del submarino nuclear ruso Kursk. </ES-desc>
+<ES-narr> Los documentos relevantes deberán mencionar las posibles causas de la tragedia o deberán proporcionar información acerca de las primeras hipótesis sobre las razones de la tragedia. </ES-narr>
+</top>
+
+<top>
+<num> C367 </num>
+<ES-title> Independencia de Timor Oriental </ES-title>
+<ES-desc> Encontrar documentos que discutan la independencia de Timor Oriental. </ES-desc>
+<ES-narr> Los documentos relevantes deberán proporcionar información relacionada con la proclamación de independencia por parte de la República Democrática de Timor Oriental y las pasos que condujeron a esta proclamación. </ES-narr>
+</top>
+
+<top>
+<num> C368 </num>
+<ES-title> Experimentos farmacéuticos </ES-title>
+<ES-desc> Encontrar información sobre experimentos farmacéuticos en humanos. </ES-desc>
+<ES-narr> Encontrar documentos que informen acerca de casos específicos relacionados con las pruebas de nuevos tipos de medicamentos llevadas a cabo en humanos adultos o niños con su consentimiento. </ES-narr>
+</top>
+
+<top>
+<num> C369 </num>
+<ES-title> Nuevas líneas de metro </ES-title>
+<ES-desc> Encontrar información sobre los planes de construcción o las construcciones en curso de líneas de metro en alguna ciudad. </ES-desc>
+<ES-narr> Los documentos relevantes deberán proporcionar información sobre los planes de construcción de nuevas líneas de metro o sobre las etapas de desarrollo de proyectos que estén en fase avanzada de contrucción. </ES-narr>
+</top>
+
+<top>
+<num> C370 </num>
+<ES-title> El fenómeno Harry Potter </ES-title>
+<ES-desc> Encontrar discusiones acerca de las razones de la gran popularidad de Harry Potter entre los niños de distintos países. </ES-desc>
+<ES-narr> Encontrar documentos que mencionen las posibles causas de por qué los libros de Harry Potter llaman la atención de tantos niños en tantos países. </ES-narr>
+</top>
+
+<top>
+<num> C371 </num>
+<ES-title> Promesas electorales rotas </ES-title>
+<ES-desc> ¿Qué promesas hechas por políticos o partidos durante las campañas electorales no se han cumplido? </ES-desc>
+<ES-narr> Los documentos relevantes deberán hablar sobre promesas que políticos hayan hecho durante una campaña electoral y no hayan cumplido. </ES-narr>
+</top>
+
+<top>
+<num> C372 </num>
+<ES-title> La crisis de Cachemira </ES-title>
+<ES-desc> Encontrar información sobre conflictos armados en la región de Cachemira. </ES-desc>
+<ES-narr> Encontrar documentos que informen acerca de casos concretos relacionados con conflictos armados entre tropas o individuos de Pakistán y la India por el territorio en disputa de Cachemira. Los documentos relevantes deberán contener información sobre víctimas. </ES-narr>
+</top>
+
+<top>
+<num> C373 </num>
+<ES-title> Relaciones húngaro-búlgaras </ES-title>
+<ES-desc> Encontrar información acerca de las relacciones políticas, económicas o culturales entre Bulgaria y Hungría. </ES-desc>
+<ES-narr> Los documentos relevantes contienen informacíon de cualquier tipo de relación entre Bulgaria y Hungría, ya sea de naturaleza política, económica o cultural. </ES-narr>
+</top>
+
+<top>
+<num> C374 </num>
+<ES-title> Cómplices de Bin Laden </ES-title>
+<ES-desc> ¿Qué cómplices de Osama bin Laden fueron arrestados en 2002? </ES-desc>
+<ES-narr> Encontrar documentos que informen sobre los arrestos de cómplices del terrorista Osama bin Laden, líder de Al Qaeda. Los documentos relevantes deberán contener los nombres de los arrestados o las funciones que desempeñaban en la organización terrorista. </ES-narr>
+</top>
+
+<top>
+<num> C375 </num>
+<ES-title> Perpectivas para Kaliningrado </ES-title>
+<ES-desc> ¿Cómo afectará a Kaliningrado el ingreso de Polonia y Lituania en la UE? </ES-desc>
+<ES-narr> Encontrar documentos que informen acerca de las negociaciones del estatus legal del enclave ruso de Kaliningrado después de que sus dos vecinos, Polonia y Lituania, entren en la UE. Los documentos relevantes están relacionados a los requerimientos de visados, regulaciones medioambientales, etc. y deberán mencionar el lugar de las negociaciones y los países participantes. </ES-narr>
+</top>
+
