@@ -88,13 +88,23 @@ def main(argv):
     parser.add_argument('--out','-o', default='en', help='output language [sw,tl,en]')
     parser.add_argument('--method','-method', default='duet+', help='method [qt,dt,duet+]')
     parser.add_argument('--model','-model', default='duet+', help='method [googl,wiktionary,duet+]')
-    parser.add_argument('--query_list', '-q', nargs='*',help='check query result [query Id list]')
+    #parser.add_argument('--query_list', '-q', nargs='*',help='check query result [query Id list]')
+    parser.add_argument('--query', '-q', default=None, help='the arbitrary Json query')
     parser.add_argument('--phase', default='train', help='Phase: Can be train or predict, the default value is train.')
 
     args = parser.parse_args()
 
     current_dir = os.getcwd()
     print(current_dir)
+    if args.query:
+        with open(args.query) as fh:
+            a = json.load(fh)
+            query_string = a['IARPA_query']
+            query_id = a['query_id']
+
+        with open("single_query.tsv", 'w') as f:
+            f.write('query_id\tquery_string\tdomain_id\n')
+            f.write('{}\t{}'.format(query_id,query_string))
 
     if args.source == 'en' and args.target == 'sw' and args.collection == 'analysis' and args.method == 'dt':
         model_file ="examples/sw/config/analysis_dt_ranking.config"
@@ -103,8 +113,13 @@ def main(argv):
         phrase_script = config['global']['phrase_script']
         directory = config['global']['directory']
         result_folder = config['inputs']['predict']['result_folder']
+        
         os.chdir(directory)
-        call(["sh",phrase_script,"1000"])
+        if args.query:
+            call(["sh",phrase_script,"1000",os.path.join(current_dir,"single_query.tsv")])
+        else:
+            call(["sh",phrase_script,"1000"])
+
         call(["cp",result_folder+'result.file',os.path.join(current_dir,'predict.test.duet_ranking.txt')])
         os.chdir(current_dir)
     elif args.source == 'en' and args.target == 'sw' and args.collection == 'eval1' and args.method == 'dt':
@@ -115,7 +130,11 @@ def main(argv):
         directory = config['global']['directory']
         result_folder = config['inputs']['predict']['result_folder']
         os.chdir(directory)
-        call(["sh",phrase_script,"1000"])
+        if args.query:
+            call(["sh",phrase_script,"1000",os.path.join(current_dir,"single_query.tsv")])
+        else:
+            call(["sh",phrase_script,"1000"])
+        #call(["sh",phrase_script,"1000"])
         call(["cp",result_folder+'result.file',os.path.join(current_dir,'predict.test.duet_ranking.txt')])
         os.chdir(current_dir)
     elif args.source == 'en' and args.target == 'sw' and args.collection == 'eval2' and args.method == 'dt':
@@ -126,7 +145,11 @@ def main(argv):
         directory = config['global']['directory']
         result_folder = config['inputs']['predict']['result_folder']
         os.chdir(directory)
-        call(["sh",phrase_script,"1000"])
+        if args.query:
+            call(["sh",phrase_script,"1000",os.path.join(current_dir,"single_query.tsv")])
+        else:
+            call(["sh",phrase_script,"1000"])
+        #call(["sh",phrase_script,"1000"])
         call(["cp",result_folder+'result.file',os.path.join(current_dir,'predict.test.duet_ranking.txt')])
         os.chdir(current_dir)
     elif args.source == 'en' and args.target == 'sw' and args.collection == 'dev' and args.method == 'dt':
@@ -137,7 +160,11 @@ def main(argv):
         directory = config['global']['directory']
         result_folder = config['inputs']['predict']['result_folder']
         os.chdir(directory)
-        call(["sh",phrase_script,"1000"])
+        if args.query:
+            call(["sh",phrase_script,"1000",os.path.join(current_dir,"single_query.tsv")])
+        else:
+            call(["sh",phrase_script,"1000"])
+        #call(["sh",phrase_script,"1000"])H
         call(["cp",result_folder+'result.file',os.path.join(current_dir,'predict.test.duet_ranking.txt')])
         os.chdir(current_dir)
     elif args.source == 'en' and args.target == 'tl' and args.collection == 'analysis' and args.method == 'dt':
@@ -148,7 +175,11 @@ def main(argv):
         directory = config['global']['directory']
         result_folder = config['inputs']['predict']['result_folder']
         os.chdir(directory)
-        call(["sh",phrase_script,"1000"])
+        if args.query:
+            call(["sh",phrase_script,"1000",os.path.join(current_dir,"single_query.tsv")])
+        else:
+            call(["sh",phrase_script,"1000"])
+        #call(["sh",phrase_script,"1000"])
         call(["cp",result_folder+'result.file',os.path.join(current_dir,'predict.test.duet_ranking.txt')])
         os.chdir(current_dir)
     elif args.source == 'en' and args.target == 'tl' and args.collection == 'eval1' and args.method == 'dt':
@@ -159,7 +190,11 @@ def main(argv):
         directory = config['global']['directory']
         result_folder = config['inputs']['predict']['result_folder']
         os.chdir(directory)
-        call(["sh",phrase_script,"1000"])
+        if args.query:
+            call(["sh",phrase_script,"1000",os.path.join(current_dir,"single_query.tsv")])
+        else:
+            call(["sh",phrase_script,"1000"])
+        #call(["sh",phrase_script,"1000"])
         call(["cp",result_folder+'result.file',os.path.join(current_dir,'predict.test.duet_ranking.txt')])
         os.chdir(current_dir)
     elif args.source == 'en' and args.target == 'tl' and args.collection == 'eval2' and args.method == 'dt':
@@ -170,7 +205,11 @@ def main(argv):
         directory = config['global']['directory']
         result_folder = config['inputs']['predict']['result_folder']
         os.chdir(directory)
-        call(["sh",phrase_script,"1000"])
+        if args.query:
+            call(["sh",phrase_script,"1000",os.path.join(current_dir,"single_query.tsv")])
+        else:
+            call(["sh",phrase_script,"1000"])
+        #call(["sh",phrase_script,"1000"])
         call(["cp",result_folder+'result.file',os.path.join(current_dir,'predict.test.duet_ranking.txt')])
         os.chdir(current_dir)
     elif args.source == 'en' and args.target == 'tl' and args.collection == 'dev' and args.method == 'dt':
@@ -180,8 +219,12 @@ def main(argv):
         phrase_script = config['global']['phrase_script']
         directory = config['global']['directory']
         os.chdir(directory)
+        if args.query:
+            call(["sh",phrase_script,"1000",os.path.join(current_dir,"single_query.tsv")])
+        else:
+            call(["sh",phrase_script,"1000"])
         result_folder = config['inputs']['predict']['result_folder']
-        call(["sh",phrase_script,"1000"])
+        #call(["sh",phrase_script,"1000"])
         call(["cp",result_folder+'result.file',os.path.join(current_dir,'predict.test.duet_ranking.txt')])
         os.chdir(current_dir)
     elif args.source == 'en' and args.target == 'sw' and args.collection == 'analysis' and args.method=='qt' and args.model == 'google':
@@ -316,8 +359,8 @@ def main(argv):
     call(["cp","eval.test.duet_ranking.txt",result_name+"_eval"])
     call(["cp","predict.test.duet_ranking.txt",result_name+"_predict"])
     # check result by ID
-    if args.query_list:
-        call(["python", "single_query_result.py", "-q", ' '.join(args.query_list)])
+    #if args.query_list:
+    #    call(["python", "single_query_result.py", "-q", ' '.join(args.query_list)])
     return
 
 if __name__=='__main__':
