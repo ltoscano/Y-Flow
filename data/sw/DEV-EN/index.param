@@ -1,8 +1,9 @@
 <parameters>
-    <index>index/</index>
+    <index>index.umd.nmt/</index>
     <memory>10G</memory>
     <corpus>
-      <path>docs/</path>
+      <path>docs.umd.nmt</path>
       <class>text</class>
     </corpus>
+    <stemmer><name>krovetz</name></stemmer>
 </parameters>

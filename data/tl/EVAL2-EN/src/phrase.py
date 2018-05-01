@@ -29,7 +29,7 @@ parser.add_argument("--tgt_lang", type=str, default='es', help="Target language"
 parser.add_argument("--emb_dim", type=int, default=300, help="Embedding dimension")
 parser.add_argument("--max_vocab", type=int, default=200000, help="Maximum vocabulary size")
 # training refinement
-parser.add_argument("--n_iters", type=int, default=5, help="Number of iterations")
+parser.add_argument("--n_iters", type=int, default=50000, help="Number of iterations")
 # dictionary creation parameters (for refinement)
 parser.add_argument("--dico_train", type=str, default="default", help="Path to training dictionary (default: use identical character strings)")
 parser.add_argument("--dico_method", type=str, default='csls_knn_10', help="Method used for dictionary generation (nn/invsm_beta_30/csls_knn_10)")
@@ -68,14 +68,14 @@ with open(params.query) as f:
         line = line.strip()
         if params.phrase:
             phrases=re.findall(r'\"(.+?)\"', line)
-            phrases = [phrase for phrase in phrases if '[' not in phrase]## only query 3637
+            phrases = [re.sub('[<>]', '', phrase) for phrase in phrases if '[' not in phrase]## only query 3637
             for phrase in phrases:
                 line = line.replace(phrase, '')
         else:
             phrases = []
-        line = re.sub('[(){},;?]','',line)
+        line = re.sub('[(){};?<>]','',line)
+        line = re.sub(',',' ',line)
         line = re.sub('[A-Za-z]+:','',line) ## get rid of hyp, syn etc
-        line = re.sub(':','',line)
         tokens = re.findall("[A-Z]{2,}(?![a-z])|[A-Z][a-z]+(?=[A-Z])|[\'\w\-]+",line)
         if i == 0:
             i = 1
@@ -98,6 +98,9 @@ with open(params.query) as f:
         out.write(")\n")
         out.write("</text>\n")
         out.write("</query>\n")
+        if i == params.n_iters:
+            break
+        i += 1
 
 out.write("</parameters>")
 out.close()

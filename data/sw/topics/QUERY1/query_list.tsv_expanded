@@ -1,0 +1,20 @@
+query_id	query_string	domain_id
+query1236	knee	wrist	hamstring	ankles	tendon	shoulder	ligaments	injury	thigh	ligament	chimes	ringing	bell	carillon	chime	whistles	rung	trumpets	sleigh	belfry	GOV
+query1056	poems	sonnet	stanzas	stanza	poetical	verse	poetry	sonnets	poetic	elegy	GOV
+query1903	snows	snowfall	snowstorm	rain	snowy	winter	frost	snowball	winters	fog	GOV
+query1648	arrows	spear	bow	dagger	tomahawk	axe	daggers	sword	crossbow	dart	GOV
+query1908	cockroaches	insect	termites	termite	fleas	ants	tarantula	wasp	insects	mantis	GOV
+query3814	cheetahs	gazelle	giraffe	rhino	hyena	impala	panthera	gorilla	hyenas	chimpanzee	GOV
+query1635	heaven	dreamland	paradiso	purgatory	eternity	rapture	delights	wonderland	pleasures	dreamers	GOV
+query1954	anthropogenic	rainforests	forests	urbanization	habitat	rainforest	overpopulation	pollution	poaching	ecosystems	GOV
+query1975	cannabis	cocaine	methamphetamine	drug	heroin	drugs	narcotics	legalization	narcotic	alcohol	GOV
+query1096	flashing	goggles	binoculars	lights	lamp	glow	leds	projector	headlights	sunglasses	GOV
+query1086	exports	import	importers	imported	export	exporting	importation	importing	exporters	exported	clays	sand	sandstones	pebble	weald	gravel	gypsum	limestone	pebbles	marl	GOV
+query1537	hillary	obama	barack	reagan	nixon	bush	mccain	cheney	romney	biden	apologized	apologizing	apologise	apologised	apologize	apologies	remark	accusation	statement	reprimand	GOV
+query2032	football	lacrosse	softball	basketball	baseball	nasl	hockey	volleyball	npsl	usl	GOV
+query3215	predecessor	successors	successor	contemporaries	forerunners	unlike	counterparts	differed	forerunner	ascendancy	LIF
+query1501	mouth	mouths	headland	tip	tongue	piss	sand	vomit	shit	breakwater	LIF
+query1989	firework	festivities	celebrations	parades	celebration	parade	celebratory	torches	festive	carnival	LIF
+query3288	bristles	hairs	cavity	combs	teeth	smoothed	needle	protruding	mandibles	tooth	LIF
+query1230	spoons	tray	chisel	pot	scissors	sticks	fingers	scoop	trays	dough	earthenware	cutlery	cloths	ornaments	wares	pots	trays	spoons	foodstuffs	knives	LIF
+query1993	petrol	fuel	propane	kerosene	fuels	lpg	ethanol	diesel	methanol	biodiesel	LIF

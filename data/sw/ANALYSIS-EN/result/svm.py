@@ -1,5 +1,6 @@
 import os
 import json
+import math
 import argparse
 from collections import OrderedDict
 from collections import defaultdict
@@ -9,6 +10,13 @@ import numpy as np
 from sklearn import svm
 from subprocess import call
 import subprocess
+from string import punctuation
+import nltk
+#nltk.download('stopwords')
+#nltk.download()
+from nltk.corpus import stopwords
+from nltk import word_tokenize
+from nltk.corpus import reuters
 VALIDATION_METRIC = 'mean_cosine-csls_knn_10-S2T-10000'
 
 
@@ -63,6 +71,29 @@ with open(params.topic) as f:
             words.append(re.sub('[A-Za-z]+:','',tokens[i]))
         query_to_word[query] = words
 
+#idf implementation (counting size of each word in vocabular): https://nlpforhackers.io/tf-idf/ (resource)
+stop_words = stopwords.words('english') + list(punctuation)
+def tokenize(text):
+    words = word_tokenize(text)
+    words = [w.lower() for w in words]
+    return [w for w in words if w not in stop_words and not w.isdigit()]
+
+word_idf = defaultdict(lambda: 0)
+vocabulary = set()
+for root, dirs, files in os.walk("../docs/"):
+    for filename in files:
+        with open(os.path.join("../docs/", filename)) as f:
+            for line in f.readlines():
+                words = set(tokenize(line))
+                vocabulary.update(words)
+                for word in words:
+                    #print word
+                    word_idf[word] += 1
+                
+vocabulary = list(vocabulary)
+for word in vocabulary:
+    word_idf[word] = math.log(training_size / float(1 + word_idf[word]))
+        
 n=10
 cutoff = [i+1 for i in range(n)]
 
@@ -88,6 +119,7 @@ for i in q:
     all_emb = []
     emb = []
     len_terms = len(terms)
+    idf = 0
     for k in range(0, m):
         all_emb.append(0)
     for term in terms:
@@ -99,6 +131,7 @@ for i in q:
                 all_emb[j] += term_emb[j]
         else:
             len_terms -=1
+        idf += word_idf[term.lower()]
     if (len_terms > 0):
         for j in range(0,m):
             emb.append(all_emb[j] / len_terms)
@@ -107,7 +140,10 @@ for i in q:
         for count in range(n, m+n):
             xi[count] = emb[j]
             j+=1
-        xi[m+n]=training_size
+
+        #add idf
+        idf = idf / len(terms)
+        xi[m+n]=idf
 
         print "Xi: " + str(xi)
         X.append(xi)
@@ -135,8 +171,9 @@ for i in q:
                     break
 
             os.remove("eval.sh")
-        best_cutoff = np.argmax(AQWV_scores)+1
-        y.append(best_cutoff)
+    best_cutoff = np.argmax(AQWV_scores)+1
+    print i, best_cutoff
+    y.append(best_cutoff)
 clf.fit(X, y) # THE ERROR IS COMING FROM HERE
 q_test_features=defaultdict(list)
 q_test_docs=defaultdict(list)
@@ -166,6 +203,8 @@ for query in q_test_features:
     all_emb = []
     emb = []
     len_terms = len(terms)
+    idf = 0
+    idf_count = 0
     for i in range(0, m):
         all_emb.append(0)
     for term in terms:
@@ -175,6 +214,10 @@ for query in q_test_features:
                 all_emb[j] += term_emb[j]
         else:
             len_terms -= 1
+        spec_idf = word_idf[term.lower()]
+        if (spec_idf != 0):
+            idf += spec_idf
+            idf_count += 1
 
     if (len_terms > 0):
         for j in range(0,m):
@@ -183,19 +226,21 @@ for query in q_test_features:
         for count in range(n, m+n):
             xi[count] = emb[j]
             j+=1
-        xi[m+n]=training_size
+        if (idf_count > 0):
+            idf = idf / idf_count
+        xi[m+n]=idf
         
-        best_cutof = clf.predict([xi])
-        print(query,best_cutoff) 
-        r = 0
-        for doc in q_test_docs[query]:
-            if r >= best_cutoff:
-                break
-            out.write(query + " Q0 ")
-            for j in range(len(doc)):
-                out.write(doc[j]+" ")
-            out.write("indri\n")
-            r +=1
-            out.close
+    best_cutof = clf.predict([xi])
+    print(query,best_cutoff) 
+    r = 0
+    for doc in q_test_docs[query]:
+        if r >= best_cutoff:
+            break
+        out.write(query + " Q0 ")
+        for j in range(len(doc)):
+            out.write(doc[j]+" ")
+        out.write("indri\n")
+        r +=1
+        out.close
 
 f.close()

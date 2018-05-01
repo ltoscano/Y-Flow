@@ -2,7 +2,7 @@ import re
 
 g = open('./result/result.file','w')
 q=[]
-with open('../judg/rel.dev') as f:
+with open('../judg/rel.analysis') as f:
     for line in f.readlines():
         tokens = line.rstrip().split(' ')
         if 'query' not in tokens[0]:

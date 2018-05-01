@@ -73,7 +73,8 @@ with open(params.query) as f:
                 line = line.replace(phrase, '')
         else:
             phrases = []
-        line = re.sub('[(){},;?<>]','',line)
+        line = re.sub('[(){};?<>]','',line)
+        line = re.sub(',',' ',line)
         #print(line)
         line = re.sub('[A-Za-z]+:','',line) ## get rid of hyp, syn etc
         tokens = re.findall("[A-Z]{2,}(?![a-z])|[A-Z][a-z]+(?=[A-Z])|[\'\w\-]+",line)
@@ -85,6 +86,7 @@ with open(params.query) as f:
         words = tokens[1:-1] ## skip domain
         #print(qid,did,words)
         #input('here') 
+        print(tokens)
         out.write("<query>\n")
         out.write("<type>indri</type>\n")
         out.write("<number>{0}</number>\n".format(qid))

@@ -1,0 +1,5867 @@
+<parameters>
+<query>
+<type>indri</type>
+<number>query1925</number>
+<text>
+#combine(
+#wsyn(
+0.45 kufunguka
+0.45 unakwisha
+0.45 mwishoni
+0.45 mwisho
+0.44 hajaanza
+0.44 m
+0.43 ulidhoofika
+0.43 haukuendelea
+0.43 baadaya
+0.43 quaggy
+)
+#wsyn(
+0.58 ya
+0.50 км²
+0.50 iiib c
+0.48 zuiderzee
+0.48 pamaoja
+0.47 wa
+0.47 unajumlisha
+0.47 inayojumlisha
+0.47 łódź
+0.47 inajumlisha
+)
+#wsyn(
+0.56 км²
+0.56 ya
+0.54 °s
+0.54 sju
+0.53 kusambaratika
+0.53 zuiderzee
+0.52 c°
+0.52 bewl
+0.52 hivyi
+0.52 pamaoja
+)
+#wsyn(
+0.51 mwezi
+0.50 miezi
+0.47 gym
+0.46 agoos
+0.46 thelathini
+0.46 ncaa
+0.46 qpr
+0.46 mwezini
+0.46 miaka
+0.45 alistaafu
+)
+#wsyn(
+0.63 mtihani
+0.60 mitihani
+0.54 hitimu
+0.53 kuhitimu
+0.53 kcse
+0.53 darasani
+0.52 igcse
+0.51 madarasa
+0.51 darasa
+0.51 mhitimu
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2486</number>
+<text>
+#combine(
+#wsyn(
+0.65 viuawadudu
+0.65 wadudu
+0.62 nematocera
+0.60 accipitridae
+0.60 sciuridae
+0.60 wagugunaji
+0.60 viuadudu
+0.59 lepidoptera
+0.59 cuculidae
+0.59 mizoga
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3530</number>
+<text>
+#combine(
+#wsyn(
+0.70 damu
+0.56 plazma
+0.55 selidamu
+0.55 hemoglobini
+0.55 uvimbegiligili
+0.55 mshipa
+0.54 mg dl
+0.53 mishipa
+0.53 kuvimba
+0.52 mwilini
+)
+#wsyn(
+0.63 shinikizo
+0.60 shinikizi
+0.55 daioksaidi
+0.55 shindikizo
+0.54 kushinikiza
+0.53 c°
+0.52 ≥
+0.52 mg dl
+0.52 mikrowevu
+0.51 mkandamizo
+)
+#wsyn(
+1.00 hypmedical
+)
+#wsyn(
+0.52 usiotibika
+0.51 kutomakinika
+0.51 halihisi
+0.51 kupooza
+0.51 ptsd
+0.50 hali
+0.50 uvimbegiligili
+0.50 vilewevu
+0.50 ugojwa
+0.50 usiotosha
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3637</number>
+<text>
+#combine(
+#wsyn(
+0.55 redio
+0.54 vhs
+0.53 televisheni
+0.51 utangazaji
+0.51 btv
+0.49 mtangazaji
+0.49 telesheni
+0.48 maredio
+0.48 televisa
+0.48 ktn
+)
+#wsyn(
+0.43 oudtshoorn
+0.42 kutumbuiza
+0.42 kufokafoka
+0.41 mixtape
+0.40 nicky
+0.40 kurekodiwa
+0.40 kuuimba
+0.40 kuufanya
+0.39 maalbamu
+0.39 slugs
+)
+#wsyn(
+1.00 synin
+)
+#wsyn(
+0.43 fmr
+0.42 tuliyonayo
+0.41 satyagraha
+0.40 kumwelezea
+0.40 anamwelezea
+0.40 inspekta
+0.40 scooby
+0.40 djs
+0.39 umauti
+0.39 satyajit
+)
+#wsyn(
+0.60 muda
+0.52 łódź
+0.51 mchache
+0.50 ilimalizika
+0.50 masaa
+0.50 ingekuwa
+0.49 kungekuwa
+0.49 asingekuwa
+0.49 uleule
+0.49 humalizika
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3772</number>
+<text>
+#combine(
+#wsyn(
+0.67 mapafu
+0.65 mapafuni
+0.64 uvimbegiligili
+0.63 kuvimba
+0.63 upumuo
+0.62 mafigo
+0.61 pafu
+0.61 upumuaji
+0.60 hemoglobini
+0.60 uvimbe
+)
+#wsyn(
+1.00 hypbody
+)
+#wsyn(
+0.50 sehemu
+0.47 likiitwa
+0.47 inajiunga
+0.46 limegawanywa
+0.46 limegawanyika
+0.46 liligawanywa
+0.45 iliyogawanyika
+0.45 inayorudi
+0.45 quaggy
+0.45 inayochukua
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1236</number>
+<text>
+#combine(
+#wsyn(
+0.59 mguu
+0.58 jeraha
+0.53 jointi
+0.51 mfupa
+0.51 fupa
+0.50 majeraha
+0.48 misuli
+0.48 stethoskopu
+0.47 mguuni
+0.47 kunyoosha
+)
+#wsyn(
+0.45 mapambo
+0.45 mapaja
+0.41 magoti
+0.40 magurudumu
+0.40 masanamu
+0.40 makelele
+0.39 pazzi
+0.39 maputo
+0.39 mapaka
+0.39 magoma
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3011</number>
+<text>
+#combine(
+#wsyn(
+0.45 kumwokoa
+0.45 beowulf
+0.45 kumwita
+0.44 starfire
+0.44 pushkin
+0.44 anajiua
+0.43 anamwelezea
+0.43 kumshambulia
+0.43 anamshawishi
+0.43 kumwoa
+)
+#wsyn(
+1.00 hypperson
+)
+#wsyn(
+0.76 bomu
+0.67 bombomu
+0.64 mabomu
+0.59 mlipuko
+0.57 nyuklia
+0.56 kinyuklia
+0.53 kulipuka
+0.51 omu
+0.49 shambulio
+0.49 baruti
+)
+#wsyn(
+1.00 hypexplosive
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query482</number>
+<text>
+#combine(
+#wsyn(
+0.69 barabara
+0.62 baraba
+0.60 mabarabara
+0.59 barabarani
+0.53 kibarabara
+0.51 lami
+0.48 tazara
+0.48 njiapanda
+0.48 yavuka
+0.47 galway
+)
+#wsyn(
+0.69 ajali
+0.55 hajali
+0.53 alikufa
+0.49 shtuko
+0.48 kiajali
+0.48 majeraha
+0.48 alijeruhiwa
+0.47 mipumuo
+0.47 kujeruhiwa
+0.47 jeraha
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3532</number>
+<text>
+#combine(
+#wsyn(
+0.77 kupunguza
+0.71 kupunguzwa
+0.69 upunguzaji
+0.68 kunapunguza
+0.68 hupunguza
+0.66 kupungukiwa
+0.66 kupungua
+0.65 kupunguka
+0.64 inapunguza
+0.63 kulipunguza
+)
+#wsyn(
+1.00 syncurtail
+)
+#wsyn(
+0.69 ajali
+0.55 hajali
+0.53 alikufa
+0.49 shtuko
+0.48 kiajali
+0.48 majeraha
+0.48 alijeruhiwa
+0.47 mipumuo
+0.47 kujeruhiwa
+0.47 jeraha
+)
+#wsyn(
+1.00 synmishap
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query478</number>
+<text>
+#combine(
+#wsyn(
+1.00 British
+)
+#wsyn(
+0.69 makoloni
+0.62 koloni
+0.60 wakoloni
+0.57 mkoloni
+0.56 kikoloni
+0.52 ukoloni
+0.52 poloni
+0.51 wavisigothi
+0.51 mfecane
+0.51 walowezi
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1997</number>
+<text>
+#combine(
+#wsyn(
+0.64 jiji
+0.61 ‘‘mji
+0.57 ujiji
+0.57 mji
+0.55 iwiji
+0.55 mjii
+0.53 düzce
+0.51 sơn
+0.51 vitongoji
+0.51 elâzığ
+)
+#wsyn(
+0.69 baraza
+0.60 mabaraza
+0.59 wanabaraza
+0.57 halmashauri
+0.53 wenyekiti
+0.53 uenyekiti
+0.52 mwenyekiti
+0.52 madiwani
+0.52 makatibu
+0.51 halmshauri
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1528</number>
+<text>
+#combine(
+#wsyn(
+1.00 Bungomafactory
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1930</number>
+<text>
+#combine(
+#wsyn(
+0.62 kujenga
+0.61 kujengewa
+0.60 kujengea
+0.57 kuujenga
+0.57 kujengwa
+0.56 kujijenga
+0.55 kuijenga
+0.55 kubomoa
+0.53 kuiharibu
+0.52 wakajenga
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1824</number>
+<text>
+#combine(
+#wsyn(
+1.00 sustainabilitymotorcycle
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3993</number>
+<text>
+#combine(
+#wsyn(
+0.57 kumlaumu
+0.55 kuavya
+0.55 kumletea
+0.54 kutotenda
+0.54 kumficha
+0.54 kuhoji
+0.54 kuwashtaki
+0.54 kujizuia
+0.54 kujidai
+0.54 kuahirisha
+)
+#wsyn(
+0.52 kuuawa
+0.47 kuawa
+0.47 kujeruhiwa
+0.46 kujiua
+0.46 yudhishtira
+0.46 alijeruhiwa
+0.46 kuhukumiwa
+0.45 kujeruhi
+0.45 akahukumiwa
+0.45 uhalifu
+)
+#wsyn(
+1.00 synself
+)
+#wsyn(
+0.56 kuuawa
+0.54 uhalifu
+0.52 mhalifu
+0.51 alipokamatwa
+0.51 aliuawa
+0.51 akakamatwa
+0.51 alikamatwa
+0.51 alihukumiwa
+0.50 waliohukumiwa
+0.50 kuawa
+)
+#wsyn(
+0.46 skrubu
+0.46 bombomu
+0.44 risasi
+0.44 modeli
+0.44 silaha
+0.43 skurubu
+0.43 sukurubu
+0.42 mizinga
+0.42 bomu
+0.42 helikopta
+)
+#wsyn(
+1.00 hypweapon
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1637</number>
+<text>
+#combine(
+#wsyn(
+1.00 Al
+)
+#wsyn(
+1.00 Bashirpresident
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1980</number>
+<text>
+#combine(
+#wsyn(
+0.53 fabaceae
+0.53 mboga
+0.51 mnjugu
+0.51 mbogamboga
+0.51 njugu
+0.51 rosaceae
+0.50 faboideae
+0.49 matunguu
+0.49 maharagwe
+0.49 mforosadi
+)
+#wsyn(
+0.65 mafuta
+0.56 petroli
+0.54 petroliamu
+0.51 malighafi
+0.51 mawese
+0.49 gesi
+0.49 fueli
+0.49 uchimbaji
+0.48 ghafi
+0.47 biofueli
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1899</number>
+<text>
+#combine(
+#wsyn(
+0.59 taji
+0.49 malkia
+0.45 sobhuza
+0.44 tajino
+0.43 menelik
+0.43 mtemi
+0.42 dhambarau
+0.42 kifalme
+0.42 kokaku
+0.42 mfalme
+)
+#wsyn(
+1.00 hypheadgear
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1916</number>
+<text>
+#combine(
+#wsyn(
+1.00 garbageladder
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2012</number>
+<text>
+#combine(
+#wsyn(
+0.76 kanisa
+0.69 makanisa
+0.67 vikanisa
+0.66 kikanisa
+0.65 kiorthodoksi
+0.64 kilutheri
+0.64 wanakanisa
+0.64 katoliki
+0.63 orthodoksi
+0.62 waorthodoksi
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1412</number>
+<text>
+#combine(
+#wsyn(
+1.00 publicityprotest
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1904</number>
+<text>
+#combine(
+#wsyn(
+1.00 Red
+)
+#wsyn(
+1.00 Cross
+)
+#wsyn(
+1.00 hypaid
+)
+#wsyn(
+0.62 ushirika
+0.58 mashirika
+0.55 washirika
+0.55 shirika
+0.52 ushirikina
+0.52 kiserikali
+0.52 ushirikisho
+0.51 wanashirika
+0.50 shirikani
+0.50 wdn
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1639</number>
+<text>
+#combine(
+#wsyn(
+1.00 Ugandan
+)
+#wsyn(
+1.00 synperson
+)
+#wsyn(
+0.47 baadaya
+0.42 baadaye
+0.42 wanaowasili
+0.42 oudtshoorn
+0.41 iliyosambaa
+0.41 °s
+0.41 inawezakana
+0.41 alipowasili
+0.41 wanaohamia
+0.41 iliyopelekwa
+)
+#wsyn(
+1.00 Uganda
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1539</number>
+<text>
+#combine(
+#wsyn(
+1.00 Brazilrefugee
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1554</number>
+<text>
+#combine(
+#wsyn(
+1.00 Shimonipolitical
+)
+#wsyn(
+0.72 wakimbizi
+0.64 walikimbilia
+0.62 wahamiaji
+0.62 ukimbizi
+0.62 wairaki
+0.61 waliokimbia
+0.60 wapalestina
+0.59 makambi
+0.59 wahamaji
+0.59 wapagazi
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1056</number>
+<text>
+#combine(
+#wsyn(
+0.69 shairi
+0.66 ushairi
+0.66 mashairi
+0.63 washairi
+0.63 kishairi
+0.63 mshairi
+0.57 ghairi
+0.54 mwanashairi
+0.51 alivyoviandika
+0.50 hadithi
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1820</number>
+<text>
+#combine(
+#wsyn(
+0.50 jioni
+0.48 porsyunkula
+0.47 asubuhi
+0.45 kulala
+0.44 masala
+0.44 stesheni
+0.44 mtaani
+0.44 muhogo
+0.44 vyakula
+0.43 chumbani
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1903</number>
+<text>
+#combine(
+#wsyn(
+0.50 theluji
+0.50 barafu
+0.50 barafuto
+0.49 kunyooka
+0.48 kutelemka
+0.48 kuteremka
+0.48 hukauka
+0.48 huyeyuka
+0.47 kuyeyuka
+0.47 mtelemko
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1634</number>
+<text>
+#combine(
+#wsyn(
+0.66 bandari
+0.59 mabandari
+0.57 bandar
+0.55 bandarini
+0.50 feri
+0.48 mfereji
+0.47 banjul
+0.46 hormuz
+0.46 suez
+0.45 mifereji
+)
+#wsyn(
+1.00 synharbor
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1424</number>
+<text>
+#combine(
+#wsyn(
+0.59 maktaba
+0.48 makumbusho
+0.46 yildiz
+0.44 uppsala
+0.44 lsc
+0.44 kampasi
+0.43 igcse
+0.43 mhasibu
+0.43 prajasakti
+0.43 uhasibu
+)
+#wsyn(
+1.00 evfbooks
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1648</number>
+<text>
+#combine(
+#wsyn(
+0.44 kaangao
+0.43 angavu
+0.43 shoronjano
+0.43 sukurubu
+0.42 mshale
+0.42 ndevu
+0.41 mlia
+0.41 shorobo
+0.41 myeupe
+0.41 domosharubu
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3609</number>
+<text>
+#combine(
+#wsyn(
+0.71 amani
+0.53 kamani
+0.51 jamani
+0.51 kutamani
+0.50 natamani
+0.49 amano
+0.49 samani
+0.48 alitamani
+0.48 misalaba
+0.48 wamisalaba
+)
+#wsyn(
+0.52 mapatano
+0.50 mikataba
+0.50 patano
+0.49 maazimio
+0.48 makubaliano
+0.47 haikukubali
+0.47 usultani
+0.46 mkataba
+0.46 azimio
+0.46 ikatawaliwa
+)
+#wsyn(
+1.00 synpeace
+)
+#wsyn(
+0.63 makubaliano
+0.62 mikataba
+0.58 mkataba
+0.54 maafikiano
+0.54 mapatano
+0.53 ilikubali
+0.52 halikubali
+0.52 kutokubaliana
+0.51 alikubaliana
+0.50 iliwakubali
+)
+#wsyn(
+0.70 sheria
+0.60 kisheria
+0.53 wanasheria
+0.52 theria
+0.52 mwanasheria
+0.49 mahakimu
+0.48 eutheria
+0.48 sheri
+0.48 filosofia
+0.47 kutotii
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1908</number>
+<text>
+#combine(
+#wsyn(
+0.53 nematocera
+0.52 brachycera
+0.52 vidukari
+0.50 chrysochloridae
+0.50 brachydactyla
+0.50 lepidoptera
+0.50 panicoideae
+0.49 viuawadudu
+0.49 phasianidae
+0.49 kalunguyeye
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1053</number>
+<text>
+#combine(
+#wsyn(
+0.58 nampenda
+0.58 kumpenda
+0.58 hatujui
+0.55 nakupenda
+0.55 tunavyowasamehe
+0.55 kukupenda
+0.55 nijue
+0.55 kuogopa
+0.54 ningependa
+0.54 kujipenda
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1617</number>
+<text>
+#combine(
+#wsyn(
+0.50 chupa
+0.50 klorini
+0.49 mmumunyo
+0.49 kunywea
+0.49 kloridi
+0.48 chloride
+0.48 poda
+0.48 kunywewa
+0.48 chokoleti
+0.48 chlorine
+)
+#wsyn(
+1.00 hypcontainer
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query375</number>
+<text>
+#combine(
+#wsyn(
+1.00 newsweather
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query483</number>
+<text>
+#combine(
+#wsyn(
+1.00 by-election
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3485</number>
+<text>
+#combine(
+#wsyn(
+0.38 feleji
+0.38 skrubu
+0.37 gandolfini
+0.36 podolski
+0.36 kuutupa
+0.36 sleji
+0.36 bambaataa
+0.36 saksafoni
+0.35 ngumi
+0.35 mendez
+)
+#wsyn(
+1.00 hyphand
+)
+#wsyn(
+0.61 tumia
+0.57 kuutumia
+0.56 ukitumia
+0.54 kutumia
+0.54 kuvitumia
+0.54 umetumia
+0.54 zisizotumia
+0.53 kuyatumia
+0.53 isiyotumia
+0.53 visivyotumia
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3998</number>
+<text>
+#combine(
+#wsyn(
+0.39 ilitazamwa
+0.39 ilivunjika
+0.39 iliongezwa
+0.38 ilifaa
+0.38 ilivutia
+0.38 imefanywa
+0.38 ilivyoagizwa
+0.38 iligeuzwa
+0.38 ilitengenezwa
+0.38 ilifanywa
+)
+#wsyn(
+0.54 anampenda
+0.53 nampenda
+0.52 anajisikia
+0.52 anasikia
+0.51 mpenda
+0.51 akijisikia
+0.51 kumpenda
+0.51 ningependa
+0.51 anamwomba
+0.51 kumletea
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1408</number>
+<text>
+#combine(
+#wsyn(
+0.52 picha
+0.48 picha
+0.46 inatoka
+0.45 inamchora
+0.44 nili
+0.43 michoro
+0.43 skrini
+0.42 _ll_cool_j
+0.42 picnic
+0.42 nilivyosema
+)
+#wsyn(
+1.00 synphotograph
+)
+#wsyn(
+0.63 hoteli
+0.63 hotelii
+0.59 hotel
+0.59 hoteli
+0.56 mahoteli
+0.54 hotels
+0.52 jumba
+0.49 ghorofa
+0.48 vyumba
+0.48 jeevanjee
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1626</number>
+<text>
+#combine(
+#wsyn(
+0.64 sukari
+0.54 mvinyo
+0.54 pamba
+0.53 chokoleti
+0.52 suka
+0.52 bichi
+0.52 mihogo
+0.52 mahindi
+0.51 chai
+0.51 muhogo
+)
+#wsyn(
+0.52 duka
+0.51 maduka
+0.49 mtengenezaji
+0.49 motokaa
+0.48 utengenezaji
+0.46 mtengeneza
+0.46 injinitreni
+0.46 unatengenezwa
+0.46 vw
+0.46 zatengenezwa
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3539</number>
+<text>
+#combine(
+#wsyn(
+0.53 alikutana
+0.51 alipokutana
+0.50 wakikutana
+0.48 alipojiunga
+0.48 aliposhiriki
+0.47 hajajiunga
+0.47 walikutana
+0.47 aliomba
+0.46 akihudhuria
+0.46 aliwaruhusu
+)
+#wsyn(
+1.00 synrequest
+)
+#wsyn(
+0.55 kuikopesha
+0.54 kusuluhisha
+0.54 kukaribisha
+0.54 kutopendelea
+0.53 kuiwezesha
+0.52 kukopesha
+0.52 kumwezesha
+0.52 kumkaribisha
+0.52 kukusudia
+0.52 kuepusha
+)
+#wsyn(
+0.68 kuhudhuria
+0.64 akihudhuria
+0.63 wakihudhuria
+0.61 alihudhuria
+0.59 wanaohudhuria
+0.59 huhudhuria
+0.57 walihudhuria
+0.54 kusomea
+0.54 kuoa
+0.54 kujisomea
+)
+#wsyn(
+0.47 mihadarati
+0.46 halikubali
+0.46 mihimili
+0.45 kiserikali
+0.45 kufafanua
+0.45 kuifafanua
+0.45 inafafanua
+0.45 alifafanua
+0.44 kidiplomasia
+0.44 maazimio
+)
+#wsyn(
+1.00 synofficial
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2270</number>
+<text>
+#combine(
+#wsyn(
+0.50 nampenda
+0.50 kukupenda
+0.50 kupendana
+0.49 anampenda
+0.48 hapendi
+0.48 kujihisi
+0.48 nakupenda
+0.48 kupenda
+0.48 kumpenda
+0.47 mpenda
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1641</number>
+<text>
+#combine(
+#wsyn(
+0.59 njanokijani
+0.58 machungwa
+0.56 njano
+0.55 shoronjano
+0.53 kahawianyekundu
+0.53 kijanikijivu
+0.52 buluu
+0.52 kijani
+0.52 kahawiachekundu
+0.50 myekundu
+)
+#wsyn(
+1.00 hypfruit
+)
+#wsyn(
+0.61 hekima
+0.57 mafumbo
+0.57 mnyenyekevu
+0.56 unyenyekevu
+0.56 maadilifu
+0.55 nyenyekevu
+0.55 tafakuri
+0.55 umungu
+0.54 mungu
+0.54 δόξα
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4035</number>
+<text>
+#combine(
+#wsyn(
+0.53 eprdf
+0.51 aliwateua
+0.50 aliwakataza
+0.50 fnl
+0.50 kuukataa
+0.49 aliwaacha
+0.49 uraisi
+0.49 cndd
+0.49 ldp
+0.49 fdd
+)
+#wsyn(
+1.00 synhold
+)
+#wsyn(
+0.49 bandia
+0.46 nandini
+0.46 tuliyonayo
+0.46 kuutupa
+0.45 kumpita
+0.45 baadaya
+0.44 atakaporudi
+0.44 iliyopotea
+0.44 iliyopelekwa
+0.44 nerdlucks
+)
+#wsyn(
+0.47 baadaya
+0.42 baadaye
+0.42 wanaowasili
+0.42 oudtshoorn
+0.41 iliyosambaa
+0.41 °s
+0.41 inawezakana
+0.41 alipowasili
+0.41 wanaohamia
+0.41 iliyopelekwa
+)
+#wsyn(
+0.60 usifanye
+0.58 nifanye
+0.57 ifanye
+0.57 kustahili
+0.56 kujifanyia
+0.56 nimefanya
+0.56 haogopi
+0.55 asiyejiandikisha
+0.55 ufanye
+0.55 kusiwe
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1532</number>
+<text>
+#combine(
+#wsyn(
+1.00 Singaporepig
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1901</number>
+<text>
+#combine(
+#wsyn(
+0.72 kandanda
+0.67 wanakandanda
+0.64 mwanakandanda
+0.62 kadanda
+0.60 ameichezea
+0.59 akiichezea
+0.59 anaichezea
+0.58 aliichezea
+0.58 chezea
+0.58 timu
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1443</number>
+<text>
+#combine(
+#wsyn(
+0.69 klabu
+0.62 klabuzavijana
+0.61 fc
+0.61 vilabu
+0.60 klabuyasasa
+0.58 ameichezea
+0.58 akiichezea
+0.57 aliichezea
+0.57 vfl
+0.56 anaichezea
+)
+#wsyn(
+1.00 synassociation
+)
+#wsyn(
+0.72 mechi
+0.61 penalti
+0.58 fainali
+0.55 mchuano
+0.54 michuano
+0.53 bao
+0.53 ligi
+0.52 dfb
+0.52 mabao
+0.52 psl
+)
+#wsyn(
+1.00 evfcompetition
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1057</number>
+<text>
+#combine(
+#wsyn(
+0.74 kuboresha
+0.68 huboresha
+0.68 kuiboresha
+0.66 kuboreka
+0.64 uboreshaji
+0.62 kuboreshwa
+0.62 inaboresha
+0.61 kukuza
+0.60 kupunguza
+0.60 kukopesha
+)
+#wsyn(
+0.62 usafiri
+0.56 usafirishaji
+0.50 miundombinu
+0.49 husafiri
+0.49 safiri
+0.48 usafi
+0.47 kusafiria
+0.47 husafirisha
+0.47 husafirishwa
+0.46 kusafirisha
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2022</number>
+<text>
+#combine(
+#wsyn(
+1.00 bilharzia
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1802</number>
+<text>
+#combine(
+#wsyn(
+1.00 renthouse
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1852</number>
+<text>
+#combine(
+#wsyn(
+0.60 farasi
+0.48 faru
+0.48 walarasi
+0.48 nguruwe
+0.48 mbweha
+0.47 faras
+0.47 mvyauso
+0.47 zebu
+0.46 sleji
+0.46 dimbwi
+)
+#wsyn(
+1.00 hypanimal
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1787</number>
+<text>
+#combine(
+#wsyn(
+0.53 ngao
+0.45 kaangao
+0.43 angavu
+0.43 limevunjika
+0.41 koili
+0.40 pembenyingi
+0.40 skurubu
+0.40 mikuki
+0.40 uangavu
+0.40 mizinga
+)
+#wsyn(
+1.00 hyparmor
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3564</number>
+<text>
+#combine(
+#wsyn(
+0.64 sayari
+0.54 kundinyota
+0.54 nyotamkia
+0.54 fungunyota
+0.53 neptun
+0.52 neptuni
+0.50 nyota
+0.50 neptune
+0.49 galaksi
+0.49 mshtarii
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2985</number>
+<text>
+#combine(
+#wsyn(
+0.46 kukanusha
+0.46 kuukataa
+0.45 kutokubali
+0.45 veto
+0.45 kuupinga
+0.44 ilidhoofisha
+0.44 usoshalisti
+0.44 kuitisha
+0.44 ikikataa
+0.43 kutoridhika
+)
+#wsyn(
+1.00 synboon
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1964</number>
+<text>
+#combine(
+#wsyn(
+0.48 gari
+0.47 baiskeli
+0.47 magari
+0.46 shagari
+0.45 motokaa
+0.45 injini
+0.43 agari
+0.43 baisikeli
+0.42 magarini
+0.42 injinitreni
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3261</number>
+<text>
+#combine(
+#wsyn(
+0.68 bendi
+0.57 mbendi
+0.55 mabendi
+0.53 albamu
+0.52 albam
+0.50 snoop
+0.49 maalbamu
+0.49 albumu
+0.49 jazzy
+0.49 muziki
+)
+#wsyn(
+1.00 evfmusic
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1405</number>
+<text>
+#combine(
+#wsyn(
+0.59 benzodiazepini
+0.58 heroini
+0.57 madawa
+0.57 kulevya
+0.57 viuavijasumu
+0.56 amoxicillin
+0.55 vijasumu
+0.55 nsaids
+0.55 mfadhaiko
+0.55 ciprofloxacin
+)
+#wsyn(
+1.00 hypillicit
+)
+#wsyn(
+0.64 viini
+0.60 pathojeni
+0.59 monoksidi
+0.59 mwilini
+0.59 kemikali
+0.59 hcv
+0.58 imunoglobulini
+0.58 kafeini
+0.58 acetaminophen
+0.58 adrenalini
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3793</number>
+<text>
+#combine(
+#wsyn(
+0.42 hupasuka
+0.42 scooby
+0.41 ghostface
+0.41 epuka
+0.41 fungunyota
+0.41 capon
+0.41 anagundua
+0.41 mgahawa
+0.40 giaboksi
+0.40 cafe
+)
+#wsyn(
+1.00 hypfood
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query480</number>
+<text>
+#combine(
+#wsyn(
+0.46 skrubu
+0.46 bombomu
+0.44 risasi
+0.44 modeli
+0.44 silaha
+0.43 skurubu
+0.43 sukurubu
+0.42 mizinga
+0.42 bomu
+0.42 helikopta
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query468</number>
+<text>
+#combine(
+#wsyn(
+0.56 chai
+0.55 vinywaji
+0.53 chokoleti
+0.53 mvinyo
+0.52 mihogo
+0.52 bichi
+0.52 njugu
+0.51 mbichi
+0.51 viazi
+0.50 kupika
+)
+#wsyn(
+1.00 hypbeverage
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3515</number>
+<text>
+#combine(
+#wsyn(
+0.44 mwogeleaji
+0.41 uogeleaji
+0.40 sligo
+0.40 mtumbuizaji
+0.39 ueleaji
+0.39 jukwaani
+0.38 besiboli
+0.38 reggina
+0.38 filam
+0.38 reggie
+)
+#wsyn(
+1.00 synarena
+)
+#wsyn(
+1.00 South
+)
+#wsyn(
+1.00 Africa
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2015</number>
+<text>
+#combine(
+#wsyn(
+0.43 flynn
+0.42 anamweleza
+0.42 kumwelezea
+0.42 anamwelezea
+0.42 anamwambia
+0.42 bwanaarusi
+0.42 kumweleza
+0.41 mfariji
+0.41 geppetto
+0.41 anamuambia
+)
+#wsyn(
+1.00 synspirit
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3814</number>
+<text>
+#combine(
+#wsyn(
+0.46 mbweha
+0.46 kuwinda
+0.46 simbamangu
+0.45 kunguru
+0.45 bweha
+0.45 savanna
+0.44 ndwindwi
+0.44 spizocorys
+0.44 crassicaudatus
+0.44 grévy
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4344</number>
+<text>
+#combine(
+#wsyn(
+0.55 yai
+0.54 mayai
+0.52 kutaga
+0.52 fenotipu
+0.52 mbegu
+0.52 majipu
+0.51 kuoza
+0.51 majike
+0.51 kuvua
+0.51 ribosomu
+)
+#wsyn(
+1.00 synapply
+)
+#wsyn(
+0.68 virutubisho
+0.64 virutubishi
+0.63 naitrojeni
+0.63 monoksaidi
+0.63 planktoni
+0.63 lipoprotini
+0.63 monoksidi
+0.62 glukokotikoidi
+0.62 himoglobini
+0.62 kabohaidreti
+)
+#wsyn(
+0.64 udongo
+0.61 rutba
+0.59 rutuba
+0.57 unyevunyevu
+0.56 unyevu
+0.54 umwagiliaji
+0.54 ubichi
+0.54 virutubisho
+0.54 mmomonyoko
+0.53 uoto
+)
+#wsyn(
+1.00 synground
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1635</number>
+<text>
+#combine(
+#wsyn(
+0.44 motown
+0.43 bustard
+0.43 bristow
+0.43 jabali
+0.43 gurneyi
+0.43 honey
+0.43 uptown
+0.43 nerdlucks
+0.43 hoodie
+0.43 yokozuna
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1465</number>
+<text>
+#combine(
+#wsyn(
+0.62 umma
+0.46 cdsc
+0.46 kcpe
+0.46 ruzuku
+0.45 lsc
+0.45 maofisi
+0.44 binafsi
+0.44 afya
+0.43 kibinafsi
+0.43 afisi
+)
+#wsyn(
+0.47 tcp
+0.47 vpn
+0.46 kbl
+0.45 raslimali
+0.45 kdn
+0.45 wdn
+0.45 arpanet
+0.45 swot
+0.45 corporate
+0.45 rasilmali
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1792</number>
+<text>
+#combine(
+#wsyn(
+0.48 miporomoko
+0.47 mporomoko
+0.46 bewl
+0.46 maporomoko
+0.46 effra
+0.45 mtomoko
+0.45 bwawa
+0.45 kutiririka
+0.45 mifereji
+0.45 tangi
+)
+#wsyn(
+1.00 syntrench
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1910</number>
+<text>
+#combine(
+#wsyn(
+0.51 magurudumu
+0.51 gurudumu
+0.49 diseli
+0.48 gari
+0.47 pikipiki
+0.47 injinitreni
+0.46 magari
+0.45 baisikeli
+0.45 motokaa
+0.45 breki
+)
+#wsyn(
+1.00 evfcars
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1816</number>
+<text>
+#combine(
+#wsyn(
+0.52 mboga
+0.52 njugu
+0.51 chickpea
+0.51 hypogaea
+0.51 mbogamboga
+0.50 maharage
+0.50 mnjugu
+0.49 maharagwe
+0.49 mvinyo
+0.49 soya
+)
+#wsyn(
+1.00 hypfruit
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1999</number>
+<text>
+#combine(
+#wsyn(
+0.52 munisipali
+0.51 kajiado
+0.51 municipal
+0.50 madiwani
+0.49 manispaa
+0.49 ruyigi
+0.49 kapsowar
+0.49 trøndelag
+0.48 emuhaya
+0.48 umekoozeshwa
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1541</number>
+<text>
+#combine(
+#wsyn(
+1.00 Saharainfant
+)
+#wsyn(
+0.63 ptsd
+0.63 utapiamlo
+0.62 ujauzito
+0.60 unyogovu
+0.60 numokokasi
+0.60 therapi
+0.59 ulemavu
+0.59 ungonjwa
+0.58 endometriosisi
+0.58 streptokokasi
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4030</number>
+<text>
+#combine(
+#wsyn(
+0.69 mechi
+0.56 mabao
+0.56 ligi
+0.56 ameichezea
+0.56 fainali
+0.55 dfb
+0.55 huichezea
+0.55 penalti
+0.55 michuano
+0.55 akiichezea
+)
+#wsyn(
+1.00 hyplighter
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1631</number>
+<text>
+#combine(
+#wsyn(
+0.49 kumpoteza
+0.48 kuuma
+0.48 ubavu
+0.48 ubavuni
+0.47 shingo
+0.47 uziwi
+0.46 kufura
+0.46 kumuona
+0.46 kusukumana
+0.46 kuteseka
+)
+#wsyn(
+1.00 synvisage
+)
+#wsyn(
+0.54 nyotamkia
+0.54 graviti
+0.52 angahewa
+0.52 sayari
+0.52 magimba
+0.51 neptun
+0.51 gimba
+0.51 kundinyota
+0.51 maadamu
+0.51 jua
+)
+#wsyn(
+1.00 synworld
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1444</number>
+<text>
+#combine(
+#wsyn(
+0.51 mabomba
+0.47 majenereta
+0.47 bomba
+0.44 jenereta
+0.44 sleji
+0.43 feleji
+0.43 baruti
+0.43 magma
+0.43 λ
+0.43 volteji
+)
+#wsyn(
+1.00 synwater
+)
+#wsyn(
+0.44 mifereji
+0.43 utiririkaji
+0.43 bomba
+0.43 volteji
+0.42 mwamvuli
+0.42 upokezi
+0.42 utiririshaji
+0.42 mvuvumko
+0.41 kupitishia
+0.41 tezi
+)
+#wsyn(
+0.63 shinikizo
+0.60 shinikizi
+0.55 daioksaidi
+0.55 shindikizo
+0.54 kushinikiza
+0.53 c°
+0.52 ≥
+0.52 mg dl
+0.52 mikrowevu
+0.51 mkandamizo
+)
+#wsyn(
+1.00 hypphysical
+)
+#wsyn(
+0.48 jeshi
+0.47 kijeshi
+0.46 jeshini
+0.43 rejeshi
+0.42 askari
+0.42 hewa
+0.42 shewa
+0.42 majeshi
+0.42 vikosi
+0.42 nguvukazi
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3049</number>
+<text>
+#combine(
+#wsyn(
+0.58 mzizi
+0.46 mizizi
+0.46 kizizi
+0.42 ufizi
+0.41 azizi
+0.40 mzizima
+0.40 δόξα
+0.39 zizi
+0.39 λόγος
+0.38 kv
+)
+#wsyn(
+1.00 synsource
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1954</number>
+<text>
+#combine(
+#wsyn(
+0.61 mmomonyoko
+0.60 misitu
+0.57 uvuwi
+0.57 msitu
+0.57 uvunaji
+0.55 uvukizaji
+0.54 mioto
+0.54 ulimaji
+0.54 uhatarisho
+0.54 miporomoko
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2000</number>
+<text>
+#combine(
+#wsyn(
+0.66 naibu
+0.60 katibu
+0.60 raiswaziri
+0.58 manaibu
+0.57 halmshauri
+0.57 mwenyekiti
+0.57 makamu
+0.57 zenawi
+0.56 mshauri
+0.56 waziri
+)
+#wsyn(
+0.56 meya
+0.56 ruckauf
+0.56 mkapa
+0.53 manaibu
+0.53 naibu
+0.53 mstaafu
+0.52 mhe
+0.52 bw
+0.52 lowassa
+0.52 mh
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2684</number>
+<text>
+#combine(
+#wsyn(
+0.64 taifa
+0.59 kitaifa
+0.56 miakayataifa
+0.55 timuyataifa
+0.52 utaifa
+0.46 src
+0.46 kimataifa
+0.45 ktn
+0.45 jfk
+0.45 acasma
+)
+#wsyn(
+0.57 timu
+0.55 ameichezea
+0.54 dfb
+0.54 aliichezea
+0.54 alichezea
+0.53 mechi
+0.53 amechezea
+0.53 akiichezea
+0.53 psl
+0.53 mabingwa
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3700</number>
+<text>
+#combine(
+#wsyn(
+0.54 rutba
+0.53 mabwawa
+0.53 matope
+0.52 umwagiliaji
+0.51 zege
+0.51 usangi
+0.51 bewl
+0.51 magome
+0.50 bwawa
+0.50 mijengo
+)
+#wsyn(
+0.54 vyakula
+0.53 mboga
+0.51 aiskrimu
+0.51 sabuni
+0.51 jibini
+0.50 kupikwa
+0.50 supu
+0.50 sanasana
+0.50 kupikia
+0.50 siagi
+)
+#wsyn(
+1.00 potwater
+)
+#wsyn(
+1.00 hypliquid
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2908</number>
+<text>
+#combine(
+#wsyn(
+0.52 domomeno
+0.51 domomwiko
+0.50 buibui
+0.49 domo
+0.49 balaenoptera
+0.49 midomo
+0.48 arachnida
+0.48 dendroaspis
+0.48 arithropodi
+0.48 kombamwiko
+)
+#wsyn(
+0.62 mtu
+0.57 anayeabudiwa
+0.56 anayestahili
+0.56 yeyote
+0.55 anayefaa
+0.54 asiyebanwa
+0.54 anayeweza
+0.54 yuleyule
+0.52 anayetaka
+0.52 sikuzote
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2021</number>
+<text>
+#combine(
+#wsyn(
+1.00 elephantiasis
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1644</number>
+<text>
+#combine(
+#wsyn(
+1.00 crisissolution
+)
+#wsyn(
+1.00 synanswer
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1419</number>
+<text>
+#combine(
+#wsyn(
+0.62 dogo
+0.57 kadogo
+0.57 kubwa
+0.57 dogodogo
+0.55 ndogo
+0.54 madogo
+0.51 midogomidogo
+0.50 kidogokidogo
+0.50 ndogondogo
+0.49 kidogo
+)
+#wsyn(
+1.00 groupparty
+)
+#wsyn(
+1.00 evfpolitics
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query472</number>
+<text>
+#combine(
+#wsyn(
+1.00 factorystrike
+)
+#wsyn(
+1.00 evflabor
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3044</number>
+<text>
+#combine(
+#wsyn(
+0.68 utoto
+0.58 ujana
+0.57 utotoni
+0.56 mtoto
+0.55 uzee
+0.53 toto
+0.53 akifundisha
+0.53 akiugua
+0.52 mvulana
+0.52 watoto
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2234</number>
+<text>
+#combine(
+#wsyn(
+0.55 rubani
+0.51 urubani
+0.50 helikopta
+0.47 kurushwa
+0.46 marubani
+0.46 eropleni
+0.45 inayorushwa
+0.44 kupeperushwa
+0.44 hewani
+0.44 hurushwa
+)
+#wsyn(
+1.00 synaviator
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2002</number>
+<text>
+#combine(
+#wsyn(
+0.44 ridder
+0.44 chronicle
+0.44 mchapishaji
+0.43 riddick
+0.42 starwood
+0.42 twitchett
+0.41 bentley
+0.41 kuchapisha
+0.41 b+
+0.41 fyi
+)
+#wsyn(
+1.00 synaccount
+)
+#wsyn(
+0.65 kitabu
+0.62 vitabu
+0.59 kijitabu
+0.56 tabu
+0.54 alivyoviandika
+0.53 alivyoandika
+0.52 yobu
+0.52 yudithi
+0.51 ameandika
+0.51 alichoandika
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1817</number>
+<text>
+#combine(
+#wsyn(
+0.65 sungura
+0.55 panya
+0.54 panyabuku
+0.54 kunguru
+0.53 mgugunaji
+0.53 twiga
+0.53 sungusungu
+0.52 aepyceros
+0.52 kalunguyeye
+0.52 ngurunguru
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query484</number>
+<text>
+#combine(
+#wsyn(
+0.47 dizeli
+0.46 mitsubishi
+0.46 rejareja
+0.45 dmcc
+0.45 benknoti
+0.44 cdsc
+0.43 fwd
+0.43 diageo
+0.43 kbl
+0.43 marupurupu
+)
+#wsyn(
+0.42 bishara
+0.42 stakabadhi
+0.41 wanfanyabiashara
+0.41 dhamana
+0.41 wafanyabiashara
+0.41 pesa
+0.41 kbl
+0.40 wanabiashara
+0.40 mikataba
+0.40 mfanyabishara
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1638</number>
+<text>
+#combine(
+#wsyn(
+0.82 askofu
+0.78 uaskofu
+0.71 maaskofu
+0.66 kiaskofu
+0.64 mkatoliki
+0.61 dayosisi
+0.59 upadri
+0.58 patriarki
+0.58 kardinali
+0.58 shemasi
+)
+#wsyn(
+1.00 hypreligion
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1406</number>
+<text>
+#combine(
+#wsyn(
+0.56 rais
+0.55 naibu
+0.53 mwenyekiti
+0.52 uenyekiti
+0.52 katibu
+0.52 raiswaziri
+0.52 houphouët
+0.51 aliyeteuliwa
+0.51 mtendaji
+0.50 makamu
+)
+#wsyn(
+0.77 rais
+0.68 urais
+0.64 marais
+0.63 raisi
+0.61 gerais
+0.61 raiswaziri
+0.61 uraisi
+0.60 kirais
+0.59 maraisi
+0.58 naibu
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1421</number>
+<text>
+#combine(
+#wsyn(
+0.56 км²
+0.56 ya
+0.54 °s
+0.54 sju
+0.53 kusambaratika
+0.53 zuiderzee
+0.52 c°
+0.52 bewl
+0.52 hivyi
+0.52 pamaoja
+)
+#wsyn(
+0.47 hawahesabiwi
+0.45 iliyosambaa
+0.45 havionekani
+0.45 nyingi
+0.45 waliosambaa
+0.45 zilizonyingi
+0.44 halionekani
+0.44 zimeshapotea
+0.44 inahesabiwa
+0.44 kwasababu
+)
+#wsyn(
+0.65 muhimu
+0.56 umuhimu
+0.56 muhimi
+0.47 umeathiri
+0.47 umekithiri
+0.45 umejikita
+0.45 mgumu
+0.45 iliyoathiri
+0.45 inavyoathiri
+0.45 umetegemea
+)
+#wsyn(
+0.67 sijui
+0.64 ningependa
+0.62 tukitaka
+0.61 ninapenda
+0.60 nimeona
+0.60 hatujui
+0.60 tunataka
+0.60 nijue
+0.59 hajui
+0.59 kwangu
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1645</number>
+<text>
+#combine(
+#wsyn(
+0.56 kisu
+0.48 kisugudi
+0.48 visu
+0.47 bastola
+0.47 baruti
+0.47 shoka
+0.46 silaha
+0.45 bunduki
+0.45 mkeka
+0.45 mbavuni
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1404</number>
+<text>
+#combine(
+#wsyn(
+0.68 samaki
+0.63 mlasamaki
+0.57 wagugunaji
+0.57 uduvi
+0.56 invertebrata
+0.55 mgugunaji
+0.55 nyama
+0.55 hamaki
+0.54 wanyamakombe
+0.54 amfibia
+)
+#wsyn(
+1.00 hypanimal
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1988</number>
+<text>
+#combine(
+#wsyn(
+0.82 askofu
+0.78 uaskofu
+0.71 maaskofu
+0.66 kiaskofu
+0.64 mkatoliki
+0.61 dayosisi
+0.59 upadri
+0.58 patriarki
+0.58 kardinali
+0.58 shemasi
+)
+#wsyn(
+1.00 evfreligion
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1851</number>
+<text>
+#combine(
+#wsyn(
+0.60 mboga
+0.57 nyama
+0.57 mbogamboga
+0.54 mihogo
+0.54 supu
+0.52 vyakula
+0.52 vitamu
+0.51 maharagwe
+0.51 njugu
+0.51 maharage
+)
+#wsyn(
+1.00 hyppig
+)
+#wsyn(
+0.66 nyama
+0.64 mboga
+0.59 mbogamboga
+0.54 nguruwe
+0.54 vitamu
+0.54 maharagwe
+0.53 mihogo
+0.53 mvinyo
+0.53 mkate
+0.53 maharage
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1409</number>
+<text>
+#combine(
+#wsyn(
+1.00 ambassadorcamera
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1975</number>
+<text>
+#combine(
+#wsyn(
+0.55 pombe
+0.49 heroini
+0.49 sigara
+0.48 kulevya
+0.48 benzodiazepini
+0.47 ulevi
+0.47 amoxicillin
+0.47 utapiamlo
+0.47 mlevi
+0.47 wyeth
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2020</number>
+<text>
+#combine(
+#wsyn(
+0.50 vertebrata
+0.47 vetebrata
+0.45 gegereka
+0.44 invertebrata
+0.43 metamofosi
+0.43 matago
+0.43 brachydactyla
+0.43 gegedu
+0.42 planktoni
+0.42 ndubwi
+)
+#wsyn(
+1.00 hypparasite
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3518</number>
+<text>
+#combine(
+#wsyn(
+0.48 kumpokea
+0.48 kumhukumu
+0.47 tujue
+0.47 kumsikiliza
+0.47 kumshuhudia
+0.47 bonifasi
+0.47 maombezi
+0.47 amekosea
+0.46 qutb
+0.46 kumheshimu
+)
+#wsyn(
+1.00 synfelicitation
+)
+#wsyn(
+1.00 USA
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1647</number>
+<text>
+#combine(
+#wsyn(
+0.42 gwaride
+0.42 wanamheshimu
+0.41 shogun
+0.40 wanamsalaba
+0.40 shwari
+0.39 kumheshimu
+0.39 kusherehekea
+0.39 sherehe
+0.39 shoot
+0.39 himmler
+)
+#wsyn(
+1.00 hypformal
+)
+#wsyn(
+0.54 satyagraha
+0.47 kumuonyesha
+0.46 iliyompendeza
+0.46 kumfikiria
+0.45 aonyeshe
+0.45 neno maneno
+0.45 kumnyenyekea
+0.45 kumpendeza
+0.45 ahadi
+0.44 mjanja
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1054</number>
+<text>
+#combine(
+#wsyn(
+0.46 maadui
+0.43 kumletea
+0.43 kumlinda
+0.43 kumtesa
+0.43 kumtisha
+0.43 nebuchadnezzar
+0.43 njama
+0.43 anampenda
+0.43 kumtia
+0.42 kumtetea
+)
+#wsyn(
+0.65 huduma
+0.54 hudumia
+0.51 huhudumia
+0.49 kuhudumia
+0.48 inahudumia
+0.48 hudumu
+0.47 kumhudumia
+0.47 kuhudumiwa
+0.47 hudumisha
+0.47 kdn
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1096</number>
+<text>
+#combine(
+#wsyn(
+0.52 skrubu
+0.51 skurubu
+0.48 sukurubu
+0.48 sumaku
+0.48 giaboksi
+0.47 eksirei
+0.46 sumakuumeme
+0.46 plastiki
+0.46 kubonyeza
+0.46 infraredi
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3360</number>
+<text>
+#combine(
+#wsyn(
+0.55 makumbusho
+0.51 vivutio
+0.50 sanaa
+0.47 makumbi
+0.46 vitivo
+0.46 vitovu
+0.45 vivo
+0.44 maghofu
+0.44 majumba
+0.44 yildiz
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1521</number>
+<text>
+#combine(
+#wsyn(
+0.55 filosofia
+0.54 uhasibu
+0.53 vitivo
+0.53 kitivo
+0.53 stashahada
+0.52 stellenbosch
+0.50 ucla
+0.50 mikutano
+0.50 ukufunzi
+0.49 kufunza
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3524</number>
+<text>
+#combine(
+#wsyn(
+0.61 jeusi
+0.59 kijivucheusi
+0.58 myeusi
+0.57 kijanikijivu
+0.56 jeupe
+0.56 njanokijani
+0.56 shoronjano
+0.55 bluu
+0.54 kijivu
+0.54 kahawiachekundu
+)
+#wsyn(
+1.00 syndark
+)
+#wsyn(
+0.51 njanokijani
+0.50 rangi
+0.46 rangifer
+0.45 pixels
+0.44 bluu
+0.44 shoronjano
+0.44 njano
+0.43 kahawianyekundu
+0.43 rangirangi
+0.43 pixel
+)
+#wsyn(
+1.00 synhue
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1030</number>
+<text>
+#combine(
+#wsyn(
+0.51 chini
+0.44 chinichini
+0.40 kukabidhiwa
+0.40 kérékou
+0.40 uongozi
+0.39 uongozini
+0.39 ilikabidhiwa
+0.39 upingamizi
+0.39 sahini
+0.39 jeshini
+)
+#wsyn(
+0.56 км²
+0.56 ya
+0.54 °s
+0.54 sju
+0.53 kusambaratika
+0.53 zuiderzee
+0.52 c°
+0.52 bewl
+0.52 hivyi
+0.52 pamaoja
+)
+#wsyn(
+0.55 kitanda
+0.53 kitandani
+0.52 kunyooka
+0.51 kitanzi
+0.48 mmumunyo
+0.48 mkeka
+0.47 kuyumba
+0.47 chumbani
+0.47 chumba
+0.47 kunywea
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1721</number>
+<text>
+#combine(
+#wsyn(
+0.64 asubuhi
+0.57 jumatano
+0.56 jioni
+0.56 jumamosi jumapili
+0.55 usiku
+0.55 jumapili
+0.54 jumamosi
+0.54 jumatatu
+0.52 ijumaa
+0.50 masaa
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1495</number>
+<text>
+#combine(
+#wsyn(
+0.62 kumzaa
+0.59 atamzaa
+0.59 mjamzito
+0.59 anapozaliwa
+0.58 mumewe
+0.56 aolewe
+0.56 msichana
+0.56 mvulana
+0.56 mume
+0.56 anazaliwa
+)
+#wsyn(
+1.00 evfchild
+)
+#wsyn(
+0.66 kuzaliwa
+0.60 mahala_pa_kuzaliwa
+0.59 anapozaliwa
+0.59 huzaliwa
+0.57 hajazaliwa
+0.56 anazaliwa
+0.55 zaliwa
+0.55 aliozaliwa
+0.54 kazaliwa
+0.54 alipozaliwa
+)
+#wsyn(
+0.49 aoe
+0.47 mkwe
+0.47 mzao
+0.45 geppetto
+0.45 okonkwo
+0.44 anamchukua
+0.44 akamwita
+0.44 babaye
+0.44 mfariji
+0.44 bintiye
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2933</number>
+<text>
+#combine(
+#wsyn(
+0.73 kuongezeka
+0.71 uongezekaji
+0.70 huongezeka
+0.70 ongezeka
+0.67 umeongezeka
+0.66 uliongezeka
+0.66 ongezeko
+0.66 utaongezeka
+0.66 ikiongezeka
+0.65 yameongezeka
+)
+#wsyn(
+1.00 synbecome
+)
+#wsyn(
+0.49 kubwa
+0.45 kupungukiwa
+0.45 lenye
+0.44 kukubwa
+0.43 potovu
+0.43 uongezaji
+0.42 uendelevu
+0.42 werevu
+0.42 kupunguka
+0.41 uwerevu
+)
+#wsyn(
+0.52 mapato
+0.52 thamana
+0.51 thamani
+0.50 gharama
+0.49 marupurupu
+0.48 rejareja
+0.48 hununua
+0.48 bei
+0.47 kununua
+0.47 ¥
+)
+#wsyn(
+1.00 synmonetary
+)
+#wsyn(
+0.65 thamani
+0.59 thamana
+0.46 ¥
+0.45 wiani
+0.45 faida
+0.45 msawazo
+0.44 hazilingani
+0.44 ppm
+0.44 ithibati
+0.43 i o
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3647</number>
+<text>
+#combine(
+#wsyn(
+0.58 mbogamboga
+0.57 mboga
+0.57 njugu
+0.56 mnjugu
+0.55 maharagwe
+0.53 muhogo
+0.53 mihogo
+0.53 hulimwa
+0.53 korosho
+0.53 sukari
+)
+#wsyn(
+1.00 hypnut
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1865</number>
+<text>
+#combine(
+#wsyn(
+0.52 bioteknolojia
+0.52 kiteknolojia
+0.51 tekinolojia
+0.50 utaaluma
+0.50 uhasibu
+0.50 topolojia
+0.50 swot
+0.50 teknolojia
+0.50 economics
+0.50 usomi
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2017</number>
+<text>
+#combine(
+#wsyn(
+0.75 mwanasheria
+0.66 mwanasiasa
+0.65 mwanasoka
+0.64 mwanahabari
+0.63 mwanaspoti
+0.62 mwanasanaa
+0.62 mwanadiplomasia
+0.62 mwanaharakati
+0.62 mwanawasa
+0.60 mwanakijiji
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query993</number>
+<text>
+#combine(
+#wsyn(
+1.00 speechdeath
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1598</number>
+<text>
+#combine(
+#wsyn(
+0.62 tembo
+0.54 mbweha
+0.53 faru
+0.51 nyati
+0.51 twiga
+0.50 simbamangu
+0.50 wanyamapori
+0.50 nilgai
+0.50 bweha
+0.49 kuwinda
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2725</number>
+<text>
+#combine(
+#wsyn(
+0.76 mwanakemia
+0.70 mwanafizikia
+0.67 mwanabiolojia
+0.67 mwanafiziolojia
+0.64 mwanazuolojia
+0.63 mwanahisabati
+0.62 mwanasayansi
+0.62 mwanajenetiki
+0.62 wanakemia
+0.62 mwanake
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2731</number>
+<text>
+#combine(
+#wsyn(
+0.73 bakteria
+0.66 mycobacteria
+0.65 viumbehai
+0.65 pathojeni
+0.65 kibakteria
+0.63 vidubini
+0.63 alejeni
+0.63 cyanobacteria
+0.63 kolajeni
+0.63 kilabakteria
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2959</number>
+<text>
+#combine(
+#wsyn(
+0.58 ilimzuia
+0.57 baadaya
+0.56 baaada
+0.56 ikapelekea
+0.55 kumpaka
+0.55 alipolazimika
+0.55 hajaanza
+0.54 lakini
+0.54 baada
+0.54 kumzuia
+)
+#wsyn(
+1.00 syneventually
+)
+#wsyn(
+1.00 Bukoba
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1745</number>
+<text>
+#combine(
+#wsyn(
+1.00 Nyanzacountry
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1974</number>
+<text>
+#combine(
+#wsyn(
+0.47 kinyota
+0.46 angavu
+0.46 dirisha
+0.46 anavyoonekana
+0.46 nyoofu
+0.45 ukibofya
+0.45 isiyoonekana
+0.44 galaksi
+0.44 satelaiti
+0.44 unavyoonekana
+)
+#wsyn(
+1.00 synreflector
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query988</number>
+<text>
+#combine(
+#wsyn(
+0.68 polisi
+0.55 mapolisi
+0.55 maafisa
+0.54 maofisa
+0.53 polisakaraidi
+0.52 jwtz
+0.50 maofisi
+0.49 afisa
+0.48 ugaidi
+0.48 maaskari
+)
+#wsyn(
+0.54 taarifa
+0.46 takwimu
+0.44 arifa
+0.42 ripoti
+0.41 depo
+0.39 kuripoti
+0.39 maarifa
+0.37 mapendekezo
+0.37 wakiripoti
+0.37 kitakwimu
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1985</number>
+<text>
+#combine(
+#wsyn(
+0.44 giza
+0.43 wingu
+0.43 pingu
+0.42 bingu
+0.42 mpumbavu
+0.41 mawingu
+0.41 mbingu
+0.41 uangavu
+0.41 upumbavu
+0.41 chiyonofuji
+)
+#wsyn(
+1.00 synshade
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2447</number>
+<text>
+#combine(
+#wsyn(
+0.61 kiutamaduni
+0.55 utamaduni
+0.54 tamaduni
+0.52 kitamaduni
+0.50 yasiyostaarabika
+0.48 kidini
+0.47 kisiasa
+0.47 kijamii
+0.46 ustaarabu
+0.46 kiuchumi
+)
+#wsyn(
+0.47 unesco
+0.44 wahifadhi
+0.43 inakumbusha
+0.41 kiutamaduni
+0.40 maghofu
+0.40 kukumbusha
+0.40 łomża
+0.40 gothic
+0.40 kuwakumbusha
+0.40 makafadhi
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1707</number>
+<text>
+#combine(
+#wsyn(
+1.00 warningcatalog
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3120</number>
+<text>
+#combine(
+#wsyn(
+0.59 mguu
+0.56 kefalotoraksi
+0.53 puani
+0.53 shavu
+0.52 fupa
+0.52 mfupa
+0.51 kamafleji
+0.51 mbavu
+0.51 kifuani
+0.51 mguuni
+)
+#wsyn(
+0.55 kuikopesha
+0.54 kusuluhisha
+0.54 kukaribisha
+0.54 kutopendelea
+0.53 kuiwezesha
+0.52 kukopesha
+0.52 kumwezesha
+0.52 kumkaribisha
+0.52 kukusudia
+0.52 kuepusha
+)
+#wsyn(
+0.59 mguu
+0.56 kefalotoraksi
+0.53 puani
+0.53 shavu
+0.52 fupa
+0.52 mfupa
+0.51 kamafleji
+0.51 mbavu
+0.51 kifuani
+0.51 mguuni
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1960</number>
+<text>
+#combine(
+#wsyn(
+0.46 skrubu
+0.46 bombomu
+0.44 risasi
+0.44 modeli
+0.44 silaha
+0.43 skurubu
+0.43 sukurubu
+0.42 mizinga
+0.42 bomu
+0.42 helikopta
+)
+#wsyn(
+1.00 hypweapon
+)
+#wsyn(
+0.44 kijeshi
+0.42 maasi
+0.42 usalama
+0.42 maadui
+0.41 ukiukaji
+0.41 ushambuliaji
+0.40 ulinzi
+0.40 ujasusi
+0.40 ljajić
+0.40 dhidhi
+)
+#wsyn(
+1.00 synprotection
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3215</number>
+<text>
+#combine(
+#wsyn(
+0.45 yalivyokuwa
+0.44 walipanusha
+0.44 walipanua
+0.43 zilivyokuwa
+0.43 walisisitiza
+0.43 mafarao
+0.43 ofs
+0.43 hawakuridhika
+0.43 alipanua
+0.43 walivyokuwa
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2498</number>
+<text>
+#combine(
+#wsyn(
+0.49 mvuvi
+0.47 wavuvi
+0.46 mfanyabishara
+0.46 hamaki
+0.46 samaki
+0.45 mfanyabiashara
+0.44 mfanyibiashara
+0.44 hodari
+0.44 mwanamasumbwi
+0.44 mlasamaki
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3583</number>
+<text>
+#combine(
+#wsyn(
+0.54 uzuri
+0.52 pazuri
+0.52 zuri
+0.52 nakupenda
+0.50 mizuri
+0.49 nampenda
+0.49 mazuri
+0.47 anampenda
+0.47 aliupenda
+0.47 kupenda
+)
+#wsyn(
+1.00 girlKenya
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2031</number>
+<text>
+#combine(
+#wsyn(
+0.54 umiliki
+0.53 kumiliki
+0.52 kumilikiwa
+0.51 humiliki
+0.51 kuvimiliki
+0.50 hatimiliki
+0.50 umilikaji
+0.48 lilimiliki
+0.48 inamiliki
+0.48 ilimilikiwa
+)
+#wsyn(
+1.00 evfland
+)
+#wsyn(
+0.65 benki
+0.56 mabenki
+0.52 benknoti
+0.51 kibenki
+0.50 benue
+0.48 kcb
+0.48 commerzbank
+0.48 hdfc
+0.47 rbtt
+0.46 volksbank
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3390</number>
+<text>
+#combine(
+#wsyn(
+0.64 njanokijani
+0.64 kijani
+0.58 kijanikijivu
+0.55 kahawianyekundu
+0.52 rangifer
+0.52 myeupe
+0.52 kahawiachekundu
+0.51 myekundu
+0.50 nyeupe
+0.50 njano
+)
+#wsyn(
+1.00 hypcolor
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1868</number>
+<text>
+#combine(
+#wsyn(
+0.48 cppcg
+0.48 ruzuku
+0.48 wyeth
+0.47 hojaji
+0.47 ukiukaji
+0.46 kudhibitishwa
+0.45 kuwadai
+0.45 dhibitisho
+0.45 mihadhara
+0.45 bhrt
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1683</number>
+<text>
+#combine(
+#wsyn(
+0.66 kilomita
+0.59 km³
+0.58 m³
+0.58 km
+0.57 kilometa
+0.56 pikomita
+0.56 nanomita
+0.56 kilometre
+0.56 femtomita
+0.55 mikromita
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1858</number>
+<text>
+#combine(
+#wsyn(
+0.64 taifa
+0.59 kitaifa
+0.56 miakayataifa
+0.55 timuyataifa
+0.52 utaifa
+0.46 src
+0.46 kimataifa
+0.45 ktn
+0.45 jfk
+0.45 acasma
+)
+#wsyn(
+0.52 alama
+0.49 nembo
+0.46 ζ
+0.44 ρ
+0.43 hilali
+0.41 ü
+0.41 λ
+0.41 llama
+0.41 ε
+0.40 kietruski
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2956</number>
+<text>
+#combine(
+#wsyn(
+0.67 mboga
+0.64 mazao
+0.64 mbogamboga
+0.63 maharagwe
+0.62 maboga
+0.61 maharage
+0.61 mihogo
+0.61 njugu
+0.60 muhogo
+0.60 viazi
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3748</number>
+<text>
+#combine(
+#wsyn(
+0.53 mbelewele
+0.52 mbochi
+0.52 fumwele
+0.51 huota
+0.51 buibui
+0.51 hukamata
+0.50 utandotelezi
+0.50 nyigu
+0.50 huiva
+0.50 kefalotoraksi
+)
+#wsyn(
+1.00 synpursue
+)
+#wsyn(
+0.55 kumkamata
+0.53 kumvuta
+0.52 kuogopa
+0.52 kujikuta
+0.52 kujipenyeza
+0.51 kujilinda
+0.51 kumzuia
+0.51 kumficha
+0.51 kumsikia
+0.51 kumlinda
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4183</number>
+<text>
+#combine(
+#wsyn(
+0.46 tumeona
+0.44 iliyopendekezwa
+0.44 nimekuwa
+0.44 kungekuwa
+0.44 tumekuwa
+0.43 reebok
+0.43 sophos
+0.43 iliyopimwa
+0.43 iliyopendwa
+0.43 iliyopita
+)
+#wsyn(
+1.00 synnot
+)
+#wsyn(
+0.50 mifupi
+0.48 fupi
+0.47 fupifupi
+0.46 mfupi
+0.46 ufupi
+0.46 ndefu
+0.45 marefu
+0.43 mafupi
+0.43 madume
+0.43 pedipalpi
+)
+#wsyn(
+0.65 iliyopita
+0.54 yaliyopita
+0.51 unavyopita
+0.50 iliyopimwa
+0.50 miaka
+0.48 iliyopotea
+0.47 zilizopita
+0.47 unapopita
+0.47 iliyokuwepo
+0.46 vilivyopita
+)
+#wsyn(
+0.63 kumtembelea
+0.60 kutembelea
+0.59 kuwatembelea
+0.58 akitembelea
+0.58 kumkuta
+0.57 wakitembelea
+0.57 akatembelea
+0.57 alipotembelea
+0.56 kutembelewa
+0.56 waliomtembelea
+)
+#wsyn(
+1.00 syntrip
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3008</number>
+<text>
+#combine(
+#wsyn(
+1.00 coordinatorcelebration
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1719</number>
+<text>
+#combine(
+#wsyn(
+0.49 bandia
+0.46 nandini
+0.46 tuliyonayo
+0.46 kuutupa
+0.45 kumpita
+0.45 baadaya
+0.44 atakaporudi
+0.44 iliyopotea
+0.44 iliyopelekwa
+0.44 nerdlucks
+)
+#wsyn(
+1.00 evfanatomy
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1491</number>
+<text>
+#combine(
+#wsyn(
+0.51 glavu
+0.50 mnene
+0.50 myembamba
+0.49 vipapasio
+0.49 na au
+0.49 juujuu
+0.48 urujuanimno
+0.48 mgumu
+0.48 aleji
+0.48 vyembamba
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1984</number>
+<text>
+#combine(
+#wsyn(
+0.56 км²
+0.56 ya
+0.54 °s
+0.54 sju
+0.53 kusambaratika
+0.53 zuiderzee
+0.52 c°
+0.52 bewl
+0.52 hivyi
+0.52 pamaoja
+)
+#wsyn(
+1.00 American
+)
+#wsyn(
+0.58 ndoto
+0.50 mpenziwe
+0.49 mpenzi
+0.48 anampenda
+0.48 bwanaarusi
+0.48 upenzi
+0.46 akitumbuiza
+0.46 anayempenda
+0.46 charmbracelet
+0.46 anamwomba
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1036</number>
+<text>
+#combine(
+#wsyn(
+0.65 panya
+0.54 vipanya
+0.53 panyabuku
+0.49 kipanya
+0.49 aepyceros
+0.48 sungura
+0.48 lepilemur
+0.48 lemuri
+0.48 ocyceros
+0.48 twiga
+)
+#wsyn(
+1.00 hypanimal
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query982</number>
+<text>
+#combine(
+#wsyn(
+0.56 hai
+0.53 hawaishi
+0.48 tuishi
+0.47 walioishi
+0.47 waishi
+0.46 ataishi
+0.45 kuishi
+0.45 aishi
+0.45 wanamoishi
+0.45 wanapoishi
+)
+#wsyn(
+0.45 na
+0.44 kwneye
+0.42 mojamoja
+0.42 groggy
+0.42 ikiashiria
+0.42 humalizika
+0.41 wakatambua
+0.41 ambayo
+0.41 pamoja
+0.41 kupulizia
+)
+#wsyn(
+0.64 gonjwa
+0.63 ungonjwa
+0.61 kisukari
+0.61 wagonjwa
+0.61 ugonjwa
+0.60 utapiamlo
+0.60 magonjwa
+0.60 mgonjwa
+0.59 saratani
+0.57 osteoathropathia
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query728</number>
+<text>
+#combine(
+#wsyn(
+0.58 mgeni
+0.50 mwalikwa
+0.50 kutumbuiza
+0.50 akitumbuiza
+0.49 ugeni
+0.49 cbn
+0.48 alitumbuiza
+0.48 kylie
+0.48 rapper
+0.48 yusuph
+)
+#wsyn(
+0.58 ya
+0.50 км²
+0.50 iiib c
+0.48 zuiderzee
+0.48 pamaoja
+0.47 wa
+0.47 unajumlisha
+0.47 inayojumlisha
+0.47 łódź
+0.47 inajumlisha
+)
+#wsyn(
+0.61 heshima
+0.52 kiheshima
+0.50 linamheshimu
+0.50 wanamheshimu
+0.48 kumheshimu
+0.48 álvarez
+0.47 aliheshimu
+0.47 tokushima
+0.46 walimheshimu
+0.46 alvarez
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3736</number>
+<text>
+#combine(
+#wsyn(
+0.58 waliokamatwa
+0.56 waliotoroka
+0.56 wakashambulia
+0.55 walioshambulia
+0.55 walikamatwa
+0.54 waliohiji
+0.54 walikamata
+0.53 walioondoka
+0.53 waliovamia
+0.53 waliovuka
+)
+#wsyn(
+1.00 synperson
+)
+#wsyn(
+0.54 wajeruhiwa
+0.54 kuivamia
+0.53 kujiokoa
+0.53 asirudi
+0.53 kuwashambulia
+0.53 walioondoka
+0.53 kutetemeka
+0.53 kufyatulia
+0.53 walipoondoka
+0.52 kumkamata
+)
+#wsyn(
+0.47 baadaya
+0.42 baadaye
+0.42 wanaowasili
+0.42 oudtshoorn
+0.41 iliyosambaa
+0.41 °s
+0.41 inawezakana
+0.41 alipowasili
+0.41 wanaohamia
+0.41 iliyopelekwa
+)
+#wsyn(
+0.56 км²
+0.56 ya
+0.54 °s
+0.54 sju
+0.53 kusambaratika
+0.53 zuiderzee
+0.52 c°
+0.52 bewl
+0.52 hivyi
+0.52 pamaoja
+)
+#wsyn(
+0.70 sheria
+0.60 kisheria
+0.53 wanasheria
+0.52 theria
+0.52 mwanasheria
+0.49 mahakimu
+0.48 eutheria
+0.48 sheri
+0.48 filosofia
+0.47 kutotii
+)
+#wsyn(
+0.60 au
+0.48 lmwh
+0.48 yanayotofautiana
+0.48 inavyofaa
+0.47 zinazotofautiana
+0.46 ζ
+0.46 inavyohitajika
+0.46 hazitokei
+0.46 hutofautishwa
+0.45 ifaayo
+)
+#wsyn(
+0.49 kumkamata
+0.48 yule
+0.47 anafaulu
+0.47 kumlinda
+0.47 adui
+0.46 kumpigia
+0.46 kuwakamata
+0.46 anampigia
+0.46 anaamua
+0.46 kumtetea
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query984</number>
+<text>
+#combine(
+#wsyn(
+0.64 sukari
+0.54 mvinyo
+0.54 pamba
+0.53 chokoleti
+0.52 suka
+0.52 bichi
+0.52 mihogo
+0.52 mahindi
+0.51 chai
+0.51 muhogo
+)
+#wsyn(
+1.00 hypsweetener
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2003</number>
+<text>
+#combine(
+#wsyn(
+0.60 hemoglobini
+0.60 kabohaidreti
+0.59 lipoprotini
+0.58 kafeini
+0.58 protini
+0.58 himoglobini
+0.58 globulini
+0.57 glukosi
+0.57 acetaminophen
+0.57 igm
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3309</number>
+<text>
+#combine(
+#wsyn(
+0.70 jina
+0.59 majina
+0.50 majina_megine
+0.50 linamtaja
+0.50 jina_rasmi
+0.49 limetoka
+0.49 limetokana
+0.48 likiitwa
+0.48 limepewa
+0.47 linatamkwa
+)
+#wsyn(
+1.00 hypgiven
+)
+#wsyn(
+0.70 jina
+0.59 majina
+0.50 majina_megine
+0.50 linamtaja
+0.50 jina_rasmi
+0.49 limetoka
+0.49 limetokana
+0.48 likiitwa
+0.48 limepewa
+0.47 linatamkwa
+)
+#wsyn(
+0.62 mvulana
+0.60 msichana
+0.56 anampenda
+0.54 anayempenda
+0.53 anamwomba
+0.53 wasichana
+0.53 mwanamasumbwi
+0.52 mwanamama
+0.51 wanamwona
+0.51 anamwelezea
+)
+#wsyn(
+1.00 hypperson
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1713</number>
+<text>
+#combine(
+#wsyn(
+0.67 mkate
+0.57 mboga
+0.57 divai
+0.57 mikate
+0.56 porsyunkula
+0.55 vyakula
+0.55 kupikwa
+0.55 vitamu
+0.54 mvinyo
+0.54 kusagwa
+)
+#wsyn(
+1.00 hypfood
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4040</number>
+<text>
+#combine(
+#wsyn(
+0.53 mboga
+0.53 boga
+0.52 maboga
+0.51 mkate
+0.51 mvinyo
+0.51 njugu
+0.50 mnjugu
+0.49 mbogamboga
+0.48 nafaka
+0.48 supu
+)
+#wsyn(
+1.00 hypdairy
+)
+#wsyn(
+1.00 by-product
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1501</number>
+<text>
+#combine(
+#wsyn(
+0.46 kuifunika
+0.45 kinywani
+0.44 kuutupa
+0.43 bafuni
+0.43 funiko
+0.42 inafunika
+0.42 kuvumwani
+0.42 kifuniko
+0.42 tahanea
+0.42 sufuria
+)
+#wsyn(
+1.00 synexpectorate
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1714</number>
+<text>
+#combine(
+#wsyn(
+0.66 mwili
+0.53 mwilini
+0.52 kiwiliwili
+0.52 uwili
+0.51 uboho
+0.50 mfupa
+0.50 mnyweo
+0.49 uziwi
+0.49 mifupa
+0.49 kefalotoraksi
+)
+#wsyn(
+1.00 evfanatomy
+)
+#wsyn(
+0.55 kuridhisha
+0.55 hatuwezi
+0.54 kutokubali
+0.54 kusisitiza
+0.53 uvumilivu
+0.53 hauwezi
+0.52 husisitiza
+0.52 kutojali
+0.52 asiyekubali
+0.52 kukosoa
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1693</number>
+<text>
+#combine(
+#wsyn(
+0.52 njugu
+0.51 soya
+0.51 hypogaea
+0.51 biva
+0.50 mbogamboga
+0.50 mboga
+0.50 bichi
+0.49 mihogo
+0.49 supu
+0.49 mbichi
+)
+#wsyn(
+1.00 hypfruit
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1853</number>
+<text>
+#combine(
+#wsyn(
+0.52 duka
+0.51 uchongaji
+0.50 matofali
+0.50 vyumba
+0.49 vinatengeneza
+0.49 mavazi
+0.49 viatu
+0.49 maduka
+0.49 vipodozi
+0.49 pambo
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2006</number>
+<text>
+#combine(
+#wsyn(
+0.62 oksidi
+0.62 oksijeni
+0.61 hidroksidi
+0.61 monoksidi
+0.61 nitrojeni
+0.61 hidrokaboni
+0.61 naitrojeni
+0.60 dioksidi
+0.59 haidrojeni
+0.59 isokaboni
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3612</number>
+<text>
+#combine(
+#wsyn(
+0.52 vidole
+0.51 fumwele
+0.49 kidole
+0.48 fupa
+0.48 kefalotoraksi
+0.47 sinkopu
+0.46 konokono
+0.46 mguu
+0.46 sikio
+0.46 myembamba
+)
+#wsyn(
+1.00 evfanatomy
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3590</number>
+<text>
+#combine(
+#wsyn(
+0.56 kugawana
+0.54 kuyatawala
+0.54 kuigawa
+0.52 kujiamulia
+0.52 kuridhisha
+0.52 kuratibu
+0.52 kuitawala
+0.51 kuteua
+0.51 kuwagawa
+0.51 kuwatawala
+)
+#wsyn(
+1.00 synreign
+)
+#wsyn(
+0.65 bendera
+0.52 nembo
+0.49 bender
+0.45 hilali
+0.44 danebrog
+0.44 mandera
+0.43 iliyolindwa
+0.42 ngao
+0.42 svg‎
+0.42 edera
+)
+#wsyn(
+1.00 synbanner
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3366</number>
+<text>
+#combine(
+#wsyn(
+0.50 kuurithi
+0.50 kurithiwa
+0.50 kurithi
+0.48 mrithi
+0.48 alirithi
+0.47 kurithisha
+0.47 kumrithi
+0.46 uliorithiwa
+0.46 alimiliki
+0.46 hurithiwa
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1146</number>
+<text>
+#combine(
+#wsyn(
+0.71 biblia
+0.64 agano
+0.63 kibiblia
+0.60 deuterokanoni
+0.57 tanakh
+0.56 maagano
+0.56 pentateuko
+0.56 septuaginta
+0.56 pentekoste
+0.55 waebrania
+)
+#wsyn(
+1.00 evfreligion
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3500</number>
+<text>
+#combine(
+#wsyn(
+0.52 alijisikia
+0.52 kumsikia
+0.51 akijisikia
+0.51 aliugua
+0.51 akimwomba
+0.50 aliposikia
+0.50 tukai
+0.50 alipokufa
+0.50 alipoulizwa
+0.50 alikuwako
+)
+#wsyn(
+0.42 pambazuko
+0.41 ktn
+0.41 ½
+0.41 kufokafoka
+0.41 kuchipuka
+0.40 kuisikia
+0.40 chipsi
+0.40 kuuzia
+0.40 dimbwi
+0.40 jipcho
+)
+#wsyn(
+0.48 łódź
+0.48 jfk
+0.47 gym
+0.47 beowulf
+0.47 reebok
+0.46 hdfc
+0.46 acasma
+0.46 dmcc
+0.46 emuhaya
+0.45 ktn
+)
+#wsyn(
+0.56 км²
+0.56 ya
+0.54 °s
+0.54 sju
+0.53 kusambaratika
+0.53 zuiderzee
+0.52 c°
+0.52 bewl
+0.52 hivyi
+0.52 pamaoja
+)
+#wsyn(
+0.68 asubuhi
+0.61 jioni
+0.56 jumamosi jumapili
+0.56 jumamosi
+0.55 usiku
+0.55 jumapili
+0.54 jumatano
+0.52 ijumaa
+0.52 jumatatu
+0.48 masaa
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1670</number>
+<text>
+#combine(
+#wsyn(
+0.37 
+0.32 umaalumu
+0.32 xyz
+0.32 水木一郎
+0.32 hafidhi
+0.32 daughters
+0.32 maalumu
+0.32 cmt
+0.32 summers
+0.31 lj
+)
+#wsyn(
+1.00 synheading
+)
+#wsyn(
+0.52 kumwokoa
+0.52 kuwarudishia
+0.52 kumrudishia
+0.52 kumrudisha
+0.52 kuteketeza
+0.52 kumlazimisha
+0.52 kumpita
+0.52 kurudishiwa
+0.51 kuwarudisha
+0.51 kutuokoa
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1951</number>
+<text>
+#combine(
+#wsyn(
+0.53 kuvimba
+0.53 mtukutiko
+0.52 kukohoa
+0.52 jipu
+0.51 mitukutiko
+0.51 tukutiko
+0.51 ghafla
+0.50 kikohozi
+0.50 kifaduro
+0.49 kutapika
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1672</number>
+<text>
+#combine(
+#wsyn(
+0.38 goyt
+0.38 tarragona
+0.37 kyd
+0.37 nutbush
+0.37 jz
+0.37 fwd
+0.37 andromeda
+0.37 binturongi
+0.37 gowee
+0.37 rockaway
+)
+#wsyn(
+1.00 hypperson
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1989</number>
+<text>
+#combine(
+#wsyn(
+0.48 sherehe
+0.46 husherehekewa
+0.46 bubujiko
+0.45 gwaride
+0.45 sikukuu
+0.45 ikipigwa
+0.44 hupigwa
+0.44 hafla
+0.44 cherehani
+0.43 maonyesho
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2958</number>
+<text>
+#combine(
+#wsyn(
+0.48 cercocebus
+0.48 roseicollis
+0.48 fuliginosa
+0.47 neocossyphus
+0.47 alcelaphus
+0.47 pallidus
+0.47 aeruginosa
+0.47 paranthropus
+0.47 rubiginosus
+0.47 dorsalis
+)
+#wsyn(
+1.00 hypperson
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2971</number>
+<text>
+#combine(
+#wsyn(
+0.53 wavutaji
+0.52 wajawazito
+0.51 kubaleghe
+0.51 utapiamlo
+0.50 hsv
+0.50 sigara
+0.50 uvutaji
+0.49 wasiovuta
+0.49 eklampsia
+0.49 walevi
+)
+#wsyn(
+1.00 evftobacco
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1691</number>
+<text>
+#combine(
+#wsyn(
+0.76 mfalme
+0.68 wafalme
+0.64 kifalme
+0.64 falme
+0.63 ufalme
+0.59 mwanamfalme
+0.55 malkia
+0.53 nebukadreza
+0.52 nebukadneza
+0.51 sobhuza
+)
+#wsyn(
+1.00 synmonarch
+)
+#wsyn(
+0.74 wimbo
+0.65 nyimbo
+0.63 ulioimbwa
+0.62 albamu
+0.61 kuimbwa
+0.61 maalbamu
+0.61 kuuimba
+0.60 umeimbwa
+0.60 r&b
+0.60 iliimbwa
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3397</number>
+<text>
+#combine(
+#wsyn(
+0.49 ukahaba
+0.48 umaskini
+0.48 ukatili
+0.47 ulaghai
+0.47 kulevya
+0.47 mashoga
+0.47 ulevi
+0.47 dhuluma
+0.47 ushoga
+0.46 uasherati
+)
+#wsyn(
+1.00 synwhoredom
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4286</number>
+<text>
+#combine(
+#wsyn(
+0.40 kofia
+0.40 shuji
+0.40 glavu
+0.39 λ
+0.38 kamba
+0.38 shoti
+0.38 giaboksi
+0.38 koti
+0.38 kaptura
+0.38 usuli
+)
+#wsyn(
+0.65 nywele
+0.63 unywele
+0.58 vinyweleo
+0.56 fumwele
+0.54 kinyweleo
+0.53 glavu
+0.52 tohozi
+0.52 kahawia
+0.52 ndevu
+0.52 ngozi
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1941</number>
+<text>
+#combine(
+#wsyn(
+0.62 ukuta
+0.48 ukutani
+0.46 mälaren
+0.45 kuta
+0.45 lililofunikwa
+0.44 maghorofa
+0.43 kukuta
+0.43 södertälje
+0.43 khefren
+0.43 kefalotoraksi
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3288</number>
+<text>
+#combine(
+#wsyn(
+0.48 kefalotoraksi
+0.48 fumwele
+0.46 mnyoo
+0.46 buibui
+0.46 nyuzinyuzi
+0.46 jembamba
+0.45 konyeza
+0.45 gegereka
+0.45 vidukari
+0.45 viwele
+)
+#wsyn(
+1.00 hyptoiletry
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2899</number>
+<text>
+#combine(
+#wsyn(
+0.57 wanajeshi
+0.57 wanamgambo
+0.56 vikosi
+0.56 wanamigambo
+0.56 jeshi
+0.55 kijeshi
+0.54 askari
+0.54 majeshi
+0.54 maaskari
+0.53 jwtz
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2976</number>
+<text>
+#combine(
+#wsyn(
+1.00 State
+)
+#wsyn(
+0.58 jumba
+0.54 mumba
+0.52 majumba
+0.52 shumba
+0.51 lipumba
+0.51 kuyumba
+0.50 mayumba
+0.50 nkumba
+0.49 manyumba
+0.49 vyumba
+)
+#wsyn(
+1.00 synpresidential
+)
+#wsyn(
+0.56 makao
+0.54 makaomakuu
+0.53 makavazi
+0.52 makazi
+0.50 mayumba
+0.50 makafadhi
+0.49 ikulu
+0.49 makhlouf
+0.48 polytechnic
+0.48 makaazi
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1023</number>
+<text>
+#combine(
+#wsyn(
+1.00 lettercondolences
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2023</number>
+<text>
+#combine(
+#wsyn(
+0.66 taasisi
+0.62 kitaasisi
+0.56 tasisi
+0.54 muasisi
+0.53 waasisi
+0.52 mwasisi
+0.51 iiib c
+0.51 kitivo
+0.51 shirikani
+0.50 vyuo
+)
+#wsyn(
+1.00 hyporganization
+)
+#wsyn(
+0.55 filosofia
+0.54 uhasibu
+0.53 vitivo
+0.53 kitivo
+0.53 stashahada
+0.52 stellenbosch
+0.50 ucla
+0.50 mikutano
+0.50 ukufunzi
+0.49 kufunza
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3159</number>
+<text>
+#combine(
+#wsyn(
+0.69 klabu
+0.62 klabuzavijana
+0.61 fc
+0.61 vilabu
+0.60 klabuyasasa
+0.58 ameichezea
+0.58 akiichezea
+0.57 aliichezea
+0.57 vfl
+0.56 anaichezea
+)
+#wsyn(
+1.00 synleague
+)
+#wsyn(
+0.51 nickelodeon
+0.48 btv
+0.48 eatv
+0.47 vhs
+0.47 ntv
+0.46 jukwaa
+0.46 dvs
+0.45 disney
+0.45 vh
+0.45 sinema
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1728</number>
+<text>
+#combine(
+#wsyn(
+0.45 kukarabati
+0.42 ukarabati
+0.40 kuachiliwa
+0.40 kuhimili
+0.40 stakabadhi
+0.40 sakafu
+0.40 usioweza
+0.40 liweze
+0.40 uharamia
+0.40 kugharamia
+)
+#wsyn(
+0.62 kazi
+0.52 kufanyakazi
+0.50 utendajikazi
+0.49 kufanyia
+0.49 kuchora
+0.49 aliyoyafanya
+0.48 kutafiti
+0.48 kutosheleza
+0.48 alivyoviandika
+0.48 kushughulika
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3018</number>
+<text>
+#combine(
+#wsyn(
+0.43 tupa
+0.43 kisu
+0.43 pupa
+0.42 ketupa
+0.42 geppetto
+0.42 kuutupa
+0.41 bafuni
+0.41 sakafuni
+0.41 hatutakiwi
+0.41 fupa
+)
+#wsyn(
+1.00 evftool
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1864</number>
+<text>
+#combine(
+#wsyn(
+0.44 mwandikaji
+0.44 alijifunza
+0.43 ufasaha
+0.43 fasaha
+0.43 anayekumbukwa
+0.43 amejifunza
+0.42 alipojifunza
+0.42 mfasiri
+0.42 mwongofu
+0.42 aliyeandika
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1340</number>
+<text>
+#combine(
+#wsyn(
+0.54 mahakimu
+0.52 hakimu
+0.49 akashtakiwa
+0.48 mahakamani
+0.48 mahakama
+0.46 kushtakiwa
+0.45 mshtakiwa
+0.45 mahakam
+0.45 rufaa
+0.45 mashtaki
+)
+#wsyn(
+1.00 evflaw
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1688</number>
+<text>
+#combine(
+#wsyn(
+0.49 chupa
+0.48 mmumunyo
+0.47 sukurubu
+0.46 magurudumu
+0.46 gurudumu
+0.46 geppetto
+0.46 kloridi
+0.46 kunyooka
+0.45 kusukumia
+0.45 chlorine
+)
+#wsyn(
+1.00 hypcontainer
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1866</number>
+<text>
+#combine(
+#wsyn(
+0.68 mhariri
+0.58 uhariri
+0.57 tahariri
+0.56 kuhariri
+0.55 wahariri
+0.54 mchapishaji
+0.52 alihariri
+0.52 msomaji
+0.51 kuihariri
+0.51 mwandikaji
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1519</number>
+<text>
+#combine(
+#wsyn(
+0.50 kama
+0.50 mizuri
+0.50 mablimbali
+0.49 wazuri
+0.49 zilizonyingi
+0.49 mbambali
+0.49 kwahiyo
+0.49 mazuri
+0.49 zinavyofanya
+0.48 vilivyopatikana
+)
+#wsyn(
+1.00 hypwater
+)
+#wsyn(
+0.59 vyanzo
+0.46 chanzo
+0.43 zifaazo
+0.43 rejeo
+0.43 zisizofaa
+0.43 hakitoshi
+0.42 nyenzo
+0.42 sielewi
+0.42 haitoshi
+0.41 sijui
+)
+#wsyn(
+0.71 kijiji
+0.61 ujiji
+0.60 kijijini
+0.57 vijiji
+0.57 wanakijiji
+0.56 iwiji
+0.56 wanavijiji
+0.55 vijijini
+0.53 mwanakijiji
+0.50 majiji
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1871</number>
+<text>
+#combine(
+#wsyn(
+1.00 Chinese
+)
+#wsyn(
+0.72 utamaduni
+0.69 kiutamaduni
+0.69 tamaduni
+0.64 kitamaduni
+0.53 gautama
+0.51 kianthropolojia
+0.49 tamazight
+0.48 ustaarabu
+0.48 wanaanthropolojia
+0.48 sanaa
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1729</number>
+<text>
+#combine(
+#wsyn(
+1.00 e-mail
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3934</number>
+<text>
+#combine(
+#wsyn(
+0.53 utomvi
+0.52 sikio
+0.51 utomvu
+0.51 kafeini
+0.51 kunywea
+0.50 kloridi
+0.50 mbochi
+0.49 siklopsi
+0.49 kunywewa
+0.49 epuka
+)
+#wsyn(
+1.00 synodor
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1885</number>
+<text>
+#combine(
+#wsyn(
+0.56 kipaji
+0.54 mtumbuizaji
+0.50 watangazaji
+0.49 mtangazaji
+0.48 mwogeleaji
+0.48 jukwaani
+0.48 cbn
+0.47 vipaji
+0.47 akitumbuiza
+0.47 utangazaji
+)
+#wsyn(
+1.00 synability
+)
+#wsyn(
+0.78 msanii
+0.70 usanii
+0.66 wasanii
+0.62 kisanii
+0.60 mwanamziki
+0.59 mwanasanaa
+0.57 mwanamuziki
+0.57 mchoraji
+0.56 muimbaji
+0.55 mwimbaji
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1718</number>
+<text>
+#combine(
+#wsyn(
+0.51 kuuimba
+0.48 heartbeat
+0.47 kaimba
+0.46 kuimba
+0.45 afrobeat
+0.45 ooh
+0.45 rumbidzai
+0.45 kuutupa
+0.45 r&b soul
+0.45 dancehall
+)
+#wsyn(
+1.00 synapplaud
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1681</number>
+<text>
+#combine(
+#wsyn(
+0.47 hakimiliki
+0.46 hatimiliki
+0.45 umiliki
+0.43 mmiliki
+0.43 kumiliki
+0.43 zisizohitaji
+0.42 kdn
+0.41 miliki
+0.41 humiliki
+0.41 rununu
+)
+#wsyn(
+1.00 hyppermission
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1230</number>
+<text>
+#combine(
+#wsyn(
+0.47 chloride
+0.44 furukombe
+0.44 kokwa
+0.43 midomo
+0.43 yombeyombe
+0.43 slugs
+0.43 chokoleti
+0.43 shina
+0.42 pod
+0.42 nyuzinyuzi
+)
+#wsyn(
+1.00 hyputensils
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3402</number>
+<text>
+#combine(
+#wsyn(
+0.52 kubo
+0.51 kubomoa
+0.51 kuchorwa
+0.51 kuchora
+0.51 kuvaa
+0.49 kuosha
+0.48 kumchora
+0.48 kupasha
+0.48 kuchonga
+0.48 kupamba
+)
+#wsyn(
+1.00 synbeautify
+)
+#wsyn(
+0.51 saveri
+0.49 bikira
+0.48 mjane
+0.48 teresa
+0.46 margareta
+0.46 sabrina
+0.45 elizabeti
+0.45 maria
+0.45 akamzaa
+0.45 nazareti
+)
+#wsyn(
+1.00 synwoman
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3636</number>
+<text>
+#combine(
+#wsyn(
+0.59 binafsi
+0.53 kibinafsi
+0.52 ubinafsi
+0.48 ruzuku
+0.47 wanaomiliki
+0.47 inayomilikiwa
+0.47 umma
+0.47 inamilikiwa
+0.46 ikimilikiwa
+0.46 maofisi
+)
+#wsyn(
+0.50 sehemu
+0.47 likiitwa
+0.47 inajiunga
+0.46 limegawanywa
+0.46 limegawanyika
+0.46 liligawanywa
+0.45 iliyogawanyika
+0.45 inayorudi
+0.45 quaggy
+0.45 inayochukua
+)
+#wsyn(
+1.00 evfgenitalia
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3113</number>
+<text>
+#combine(
+#wsyn(
+0.50 jioni
+0.48 porsyunkula
+0.47 asubuhi
+0.45 kulala
+0.44 masala
+0.44 stesheni
+0.44 mtaani
+0.44 muhogo
+0.44 vyakula
+0.43 chumbani
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2503</number>
+<text>
+#combine(
+#wsyn(
+0.54 vyumba
+0.49 chumba
+0.48 tumbawe
+0.47 shumba
+0.47 jikoni
+0.47 bafuni
+0.46 fremu
+0.46 mchumba
+0.46 chumbageni
+0.46 manyumba
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3290</number>
+<text>
+#combine(
+#wsyn(
+0.46 komputa
+0.44 vivinjari
+0.44 kompyuta
+0.44 koze
+0.43 bofya
+0.43 kikompyuta
+0.43 voip
+0.43 kivinjari
+0.43 naomba
+0.42 sijui
+)
+#wsyn(
+1.00 hypfurniture
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1993</number>
+<text>
+#combine(
+#wsyn(
+0.65 petroli
+0.59 motokaa
+0.57 petroliamu
+0.57 nikeli
+0.55 injinitreni
+0.55 garimoshi
+0.55 injini
+0.54 gesi
+0.54 dizeli
+0.53 magari
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4047</number>
+<text>
+#combine(
+#wsyn(
+0.62 hisia
+0.56 fikiria
+0.55 kifikira
+0.55 fikira
+0.55 kumfikiria
+0.54 kujifikiria
+0.54 hisi
+0.53 kimwili
+0.53 msisimko
+0.53 kihisia
+)
+#wsyn(
+1.00 synmental
+)
+#wsyn(
+0.43 veto
+0.42 sekretarieti
+0.42 wisconsin
+0.41 arkansas
+0.41 voivodeship
+0.41 michigan
+0.41 nehru
+0.41 kaduna
+0.41 rizavu
+0.40 sju
+)
+#wsyn(
+0.62 kumnyenyekea
+0.62 unyenyekevu
+0.61 unyofu
+0.60 kumuamini
+0.60 mwaminifu
+0.60 kumuabudu
+0.59 kumuadhibu
+0.59 kunyenyekea
+0.59 utiifu
+0.59 amekosea
+)
+#wsyn(
+1.00 synpardon
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3041</number>
+<text>
+#combine(
+#wsyn(
+0.70 rafiki
+0.66 marafiki
+0.64 rafikiye
+0.63 urafiki
+0.62 aliyempenda
+0.62 aliyemzaa
+0.62 anamwomba
+0.61 anampenda
+0.61 mpenziwe
+0.60 anayempenda
+)
+#wsyn(
+1.00 hypperson
+)
+#wsyn(
+0.53 mkulima
+0.51 ukulima
+0.51 kulima
+0.49 shamba
+0.49 mashamba
+0.48 kulimwa
+0.48 rujewa
+0.47 hulima
+0.47 wakulima
+0.47 mashambani
+)
+#wsyn(
+1.00 syncultivated
+)
+#wsyn(
+0.60 ardhi
+0.53 rutba
+0.51 rutuba
+0.49 kulima
+0.46 hekta
+0.46 ukulima
+0.45 wakulima
+0.45 kulimwa
+0.44 vilima
+0.44 aberdares
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query716</number>
+<text>
+#combine(
+#wsyn(
+1.00 strengthenbond
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1785</number>
+<text>
+#combine(
+#wsyn(
+0.56 dirisha
+0.51 dirishani
+0.50 madirisha
+0.45 ukibofya
+0.44 bonyeza
+0.43 baobonye
+0.43 konyeza
+0.43 bofya
+0.43 kubonyeza
+0.42 valvu
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3517</number>
+<text>
+#combine(
+#wsyn(
+0.47 kugombea
+0.47 kumnunua
+0.46 tiketi
+0.45 akagombea
+0.45 aliwashinda
+0.44 mchuano
+0.43 akawashinda
+0.43 kulipia
+0.43 criketi
+0.43 kumpindua
+)
+#wsyn(
+0.62 ajili
+0.55 kwaajili
+0.51 sajili
+0.50 kuwasajili
+0.50 ajipatie
+0.49 kuikopesha
+0.48 djili
+0.48 kusajili
+0.48 kuipatia
+0.47 maridhawa
+)
+#wsyn(
+1.00 syntender
+)
+#wsyn(
+0.62 ajili
+0.55 kwaajili
+0.51 sajili
+0.50 kuwasajili
+0.50 ajipatie
+0.49 kuikopesha
+0.48 djili
+0.48 kusajili
+0.48 kuipatia
+0.47 maridhawa
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1338</number>
+<text>
+#combine(
+#wsyn(
+1.00 debtdebate
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3977</number>
+<text>
+#combine(
+#wsyn(
+0.57 kitovu
+0.50 miundombinu
+0.48 entebbe
+0.48 vitovu
+0.48 yildiz
+0.48 ikeja
+0.48 kcb
+0.46 jfk
+0.46 airtel
+0.45 braamfontein
+)
+#wsyn(
+1.00 synfocal
+)
+#wsyn(
+0.46 °s
+0.43 upitao
+0.42 inayoeleweka
+0.42 ikitaka
+0.42 ikitazama
+0.42 ≤
+0.42 m³
+0.42 tukitazama
+0.42 hatutakiwi
+0.42 hueleweka
+)
+#wsyn(
+0.53 biashara
+0.49 yildiz
+0.48 chumi
+0.48 wanabiashara
+0.47 kibiashara
+0.47 wafanyibiashara
+0.47 raipur
+0.47 teknolijia
+0.47 uchumi
+0.47 uwekezaji
+)
+#wsyn(
+1.00 synbuying
+)
+#wsyn(
+0.57 kama
+0.56 łódź
+0.54 hivyi
+0.53 kazi_yake
+0.53 км²
+0.53 na
+0.53 beowulf
+0.52 yake
+0.52 buprenofini
+0.51 zuiderzee
+)
+#wsyn(
+0.73 kuuza
+0.64 kuuzwa
+0.63 mauzo
+0.63 ikauza
+0.62 iliuza
+0.62 ikiuza
+0.60 kuiuza
+0.60 kuuzia
+0.57 huuza
+0.56 iliyouza
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query701</number>
+<text>
+#combine(
+#wsyn(
+0.61 afya
+0.58 hpc
+0.53 utibabu
+0.52 uuguzi
+0.52 niurosaikolojia
+0.52 mahospitali
+0.52 cbt
+0.52 kliniki
+0.52 matibabu
+0.51 nyurosaikolojia
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4001</number>
+<text>
+#combine(
+#wsyn(
+0.46 wafanyakazi
+0.46 ajira
+0.43 kpu
+0.42 sdp
+0.42 wafanyikazi
+0.42 kutoridhika
+0.42 duhalde
+0.42 urasimimpya
+0.42 mfanyakazi
+0.42 anafanyakazi
+)
+#wsyn(
+0.48 jeshi
+0.47 kijeshi
+0.46 jeshini
+0.43 rejeshi
+0.42 askari
+0.42 hewa
+0.42 shewa
+0.42 majeshi
+0.42 vikosi
+0.42 nguvukazi
+)
+#wsyn(
+1.00 hypemployment
+)
+#wsyn(
+0.52 asilimia
+0.52 aslimia
+0.46 ¥
+0.46 %
+0.46 gdp
+0.45 ≥
+0.45 ikilinganishwa
+0.45 kiwango
+0.44 wakazi_kwa_ujumla
+0.44 idadi_ya_wakazi_kwa_mwaka_wa
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1335</number>
+<text>
+#combine(
+#wsyn(
+0.63 kutuokoa
+0.61 kuwaleta
+0.60 kukabili
+0.60 kuwba
+0.59 kukusaidia
+0.59 kuwaachia
+0.59 kutusaidia
+0.59 kuokoa
+0.59 kuepusha
+0.59 kumtukuza
+)
+#wsyn(
+0.64 kubadilika
+0.64 kutobadilika
+0.61 usiobadilika
+0.61 itabadilika
+0.60 mbadiliko
+0.60 isiyobadilika
+0.60 kubadili
+0.58 zisizobadilika
+0.58 kubadilishana
+0.58 kubadilisha
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2025</number>
+<text>
+#combine(
+#wsyn(
+0.69 kilimo
+0.65 ukulima
+0.61 mazao
+0.59 wakulima
+0.59 umwagiliaji
+0.58 ufugaji
+0.57 kulima
+0.57 rutba
+0.56 kulimwa
+0.55 hulima
+)
+#wsyn(
+0.58 sera
+0.53 mridhiko
+0.53 cppcg
+0.51 urasimimpya
+0.50 ukiukaji
+0.50 ukiukwaji
+0.49 ppm
+0.49 diplomasia
+0.49 kuipinga
+0.49 ietf
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1982</number>
+<text>
+#combine(
+#wsyn(
+0.40 wakazi_kwa_ujumla
+0.40 mrijo
+0.39 mridhiko
+0.38 ð
+0.38 iliyofanyika
+0.38 upigaji
+0.38 å
+0.38 walioishi
+0.37 wapatao
+0.37 muyuni
+)
+#wsyn(
+1.00 syncosmetics
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1725</number>
+<text>
+#combine(
+#wsyn(
+0.58 dada
+0.52 dadake
+0.50 aliyemzalia
+0.49 binti
+0.49 aliyemzaa
+0.49 bintiye
+0.47 elizabeti
+0.47 mamake
+0.46 alimzalia
+0.46 mtoto
+)
+#wsyn(
+1.00 hypsibling
+)
+#wsyn(
+0.68 asubuhi
+0.61 jioni
+0.56 jumamosi jumapili
+0.56 jumamosi
+0.55 usiku
+0.55 jumapili
+0.54 jumatano
+0.52 ijumaa
+0.52 jumatatu
+0.48 masaa
+)
+)
+</text>
+</query>
+</parameters>

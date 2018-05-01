@@ -7,15 +7,13 @@ from collections import defaultdict
 
 parser = ArgumentParser()
 parser.add_argument('judge', help='judgment file')
-#parser.add_argument('result_file', help='result file')
-parser.add_argument('--new', dest='new_result_file', metavar='N', help='new result file', default='result/result-cutoff.file') #parser.add_argument("--hard_cutoff",  help="hard cutoff", action="store_true", default=True)
-parser.add_argument("--hard_k", dest="hard_k", help="rnn architecutre", type = int, default = 1000)
-#parser.add_argument("--beta", dest="beta", help="rnn architecutre", type = float, default = 0.1)
+parser.add_argument('query', help='query file')
+parser.add_argument('--new', dest='new_result_file', metavar='N', help='new result file', default='result/result-cutoff.file')
 opts = parser.parse_args()
 
 def tune_k(opts):
     max_score = -1000
-    for k in xrange(1, 51):
+    for k in range(1, 15):
         score = top_k(opts, k)
         if score > max_score:
             max_score = score
@@ -23,6 +21,10 @@ def tune_k(opts):
     print(max_k, max_score)
 
 def top_k(opts, k):
+    command = 'python src/phrase.py --phrase True --src_lang en --tgt_lang en --query {}  --tquery qmodel/mono --model mono'.format(opts.query)
+    #command = 'python src/wiktionary.py --src_lang en --tgt_lang sw --query ../topics/QUERY1/query_list.tsv --tquery qmodel/wiktionary --dico_train ../../dictionary/en-sw.txt --rank 5'
+    #command = 'python src/mono.py --src_lang en --tgt_lang en --query {} --tquery qmodel/mono --model mono'.format(opts.query)
+    subprocess.check_call(command, shell=True)
     command = 'IndriRunQuery qmodel/mono -index=index/ -count={} -trecFormat=true > result/result.jungo'.format(k)
     subprocess.check_call(command, shell=True)
     trim('result/result.jungo', 'result/result.jungo.eval')

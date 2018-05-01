@@ -15,8 +15,8 @@ with open('./result/result.first') as f:
         a =set()
         if tokens[0] not in q:
             continue
-        if 'query' not in tokens[0]:
-            continue
+        #if 'query' not in tokens[0]:
+        #    continue
         
         tokens[2] = tokens[2].split('/')[-1]
         m = re.search('MATERIAL_BASE(.+?)\.', tokens[2])

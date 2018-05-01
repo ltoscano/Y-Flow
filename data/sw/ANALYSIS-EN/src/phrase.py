@@ -65,7 +65,8 @@ out.write("<parameters>\n")
 with open(params.query) as f:
     i = 0
     for line in f:
-        line = line.strip()
+        line = line.strip().lower()
+        line = line.replace('example_of', '')
         if params.phrase:
             phrases=re.findall(r'\"(.+?)\"', line)
             phrases = [re.sub('[<>]', '', phrase) for phrase in phrases if '[' not in phrase]## only query 3637
@@ -73,7 +74,8 @@ with open(params.query) as f:
                 line = line.replace(phrase, '')
         else:
             phrases = []
-        line = re.sub('[(){},;?<>]','',line)
+        line = re.sub('[(){};?<>]','',line)
+        line = re.sub(',',' ',line)
         #print(line)
         line = re.sub('[A-Za-z]+:','',line) ## get rid of hyp, syn etc
         tokens = re.findall("[A-Z]{2,}(?![a-z])|[A-Z][a-z]+(?=[A-Z])|[\'\w\-]+",line)

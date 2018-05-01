@@ -87,7 +87,8 @@ with open(params.query) as f:
                 line = line.replace(phrase, '')
         else:
             phrases = []
-        line = re.sub('[(){},;?<>]','',line)
+        line = re.sub('[(){};?<>]','',line)
+        line = re.sub(',',' ',line)
         line = re.sub('[A-Za-z]+:','',line) ## get rid of hyp, syn etc
         tokens = re.findall("[A-Z]{2,}(?![a-z])|[A-Z][a-z]+(?=[A-Z])|[\'\w\-]+",line)
         if i == 0:

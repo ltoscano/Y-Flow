@@ -2,7 +2,7 @@ import os
 import json
 import argparse
 from collections import OrderedDict
-import torch
+#import torch
 from fastext import FastVector 
 import re
 from utils import bool_flag, initialize_exp
@@ -11,7 +11,8 @@ from models import build_model
 from trainer import Trainer
 from word_translation import DIC_EVAL_PATH, load_identical_char_dico, load_dictionary
 from gensim.models import KeyedVectors
-
+import numpy as np
+import itertools
 VALIDATION_METRIC = 'mean_cosine-csls_knn_10-S2T-10000'
 
 
@@ -29,7 +30,7 @@ parser.add_argument("--tgt_lang", type=str, default='es', help="Target language"
 parser.add_argument("--emb_dim", type=int, default=300, help="Embedding dimension")
 parser.add_argument("--max_vocab", type=int, default=200000, help="Maximum vocabulary size")
 # training refinement
-parser.add_argument("--n_iters", type=int, default=5, help="Number of iterations")
+parser.add_argument("--n_iters", type=int, default=50000, help="Number of iterations")
 # dictionary creation parameters (for refinement)
 parser.add_argument("--dico_train", type=str, default="default", help="Path to training dictionary (default: use identical character strings)")
 parser.add_argument("--dico_method", type=str, default='csls_knn_10', help="Method used for dictionary generation (nn/invsm_beta_30/csls_knn_10)")
@@ -55,21 +56,24 @@ parser.add_argument("--normalize_embeddings", type=str, default="", help="Normal
 params = parser.parse_args()
 
 # check parameters
-assert not params.cuda or torch.cuda.is_available()
+#assert not params.cuda or torch.cuda.is_available()
 assert params.dico_train in ["identical_char", "default"] or os.path.isfile(params.dico_train)
 assert params.dico_build in ["S2T", "T2S", "S2T|T2S", "S2T&T2S"]
 assert params.dico_max_size == 0 or params.dico_max_size < params.dico_max_rank
 assert params.dico_max_size == 0 or params.dico_max_size > params.dico_min_size
-
+print('generating Indri query format ..')
 
 dictionary = {}
 with open(params.dico_train) as f:
     for line in f:
         word, trans = line.rstrip().split(' ')
         if(word in dictionary):
+            if len(dictionary[word]) > int(params.rank):
+                continue #print(len(dictionary[word]),params.rank)
             dictionary[word].append(trans)
         else:
             dictionary[word] = [trans]
+
 out = open(params.tquery,'w')
 out.write("<parameters>\n")
 with open(params.query) as f:
@@ -83,39 +87,58 @@ with open(params.query) as f:
                 line = line.replace(phrase, '')
         else:
             phrases = []
-        line = re.sub('[(){},;?<>]','',line)
-        #print(line)
+        line = re.sub('[(){};?<>]','',line)
+        line = re.sub(',',' ',line)
         line = re.sub('[A-Za-z]+:','',line) ## get rid of hyp, syn etc
         tokens = re.findall("[A-Z]{2,}(?![a-z])|[A-Z][a-z]+(?=[A-Z])|[\'\w\-]+",line)
         if i == 0:
             i = 1
             continue## query first line unnecessary
         qid = tokens[0]
-        #did = tokens[-1]
         words = tokens[1:-1] ## skip domain
-        #input('here') 
         out.write("<query>\n")
         out.write("<type>indri</type>\n")
         out.write("<number>{0}</number>\n".format(qid))
         out.write("<text>\n")
-        out.write("#combine(\n")
+        out.write("#max(\n")
+        w=[]
+        for phrase in phrases:
+            p=[]
+            phrase_str = ""
+            for word in phrase.split():
+                if word in dictionary:
+                    p.append(dictionary[word])
+            all_phrase_combinations = list(itertools.product(*p)) 
+            z=[]
+            
+            for a in all_phrase_combinations:
+                if len(a):
+                    z.append("#1("+" ".join(a)+")")
+            
+            if z:
+                w.append(z)
+
         for word in words:
             if word in dictionary:
-                out.write("#syn(\n")
-                r = 1
-                for t in dictionary[word]:
-                    if r> int(params.rank):
-                        break
-                    else:
-                        out.write("{0}\n".format(t))
-                        r= r+1
-                out.write(")\n")
-            else:
-                out.write(word+'\n')
-        out.write(")\n")
+                x = " ".join(dictionary[word])
+                x = "#syn("+x+")"
+                w.append([x])
+        
+        all_combinations = list(itertools.product(*w)) 
+        for j in range(len(all_combinations)):
+            a = all_combinations[j]
+            if j > 2:
+                break
+            out.write("#combine(\n")
+            a= " ".join(a)
+            out.write(a)
+            out.write(")\n")
+        out.write(")\n")#max
         out.write("</text>\n")
         out.write("</query>\n")
-        i+=1
+        if i == params.n_iters:
+            break
+        i += 1
 
 out.write("</parameters>")
 out.close()

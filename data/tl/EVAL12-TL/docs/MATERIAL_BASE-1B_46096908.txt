@@ -1,0 +1,8 @@
+Resibo, pinal na! March 17, 2016 Sa botong 12-0 ibinasura ng Korte Suprema ang Motion for Reconsideration na inihain ng Commission on Elections (Comelec), bunga nito walang opsyon ang komisyon kundi iimplementa ang voter verified paper audit trail (VVPAT) feature ng mga counting/voting machine o ang pagbibigay ng voters receipt.
+Sa demonstrasyon na pinangunahan nina Comelec Commissioner Robert Lim at Smartmatic representative Marlon Garcia, ipinaliwanag ni Lim na sa unang VCM, 15 seconds ang kakailanganin para makita ng mga botante ang onscreen verification.
+Sa ikalawang VCM naman, kabuuang 60-segundo o isang minuto ang itatagal ng proseso ng on-screen verification at pag-iimprenta ng resibo. Ang bawat clustered precinct ay mayroon umano hanggang 800 botante kaya mangangahulugan na madaragdag sa proseso ng pag-isyu ng resibo ay kabuuang 13 oras at hindi pa umano kasama rito ang initialization ng makina.
+Pero dahil sa desisyon, walang magagawa ang Comelec kundi sundin ito.
+“Ang malaking problema namin ay ang source code review ngayon lalo na at marami ang kailangang ibalik sa amin,” ani Comelec Chairman Andres Bautista.
+
+
+

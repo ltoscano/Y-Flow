@@ -1,0 +1,25 @@
+IT experts nagkakaisa: May seryosong problema ang ating automated elections
+
+Nagkakaisa ang mga eksperto sa Information Technology (IT) mula sa grupong Automated Election System Watch (AES Watch): Pasikat lang at di naaayon sa batas ang ginawang turnover ng SysTest Labs Inc. (SLI) (Colorado-based) ng election source code (na pag-aari ng Dominion) sa Commission on Elections (Comelec).
+Matapos ito ng press conference ng Comelec na ipinakita ang naturang turnover, matapos ang malawakang panawagan sa IT community at election watchdogs na gawing mas transparent ang automated election system, na siyang sistema ng pagbotong ipapatupad sa botohan sa Mayo 13.
+Wala umano masyadong naging silbi ang naturang turnover dahil marami pa ring di nasasagot na kuwestiyon kaugnay ng automated elections at ng source code na gagamitin sa halalan, ayon sa mga IT experts ng AES Watch.
+Tanong din nila: Bakit ilang araw lang matapos ng pagsampa ng reklamo ng ilang mga mamamayan, kabilang ang tumatakbong senador na si Sen. Richard Gordon, saka nilabas bigla ang source code?
+Duda si Prop. Nelson Celis, tagapagsalita ng AES Watch, na may mapapala ang publiko sa pagpapakita raw ng pinakahuling “PR stunt” na ito ng Comelec.
+“Photo-ops (photo opportunities) lang ba sa midya ang source code? Parehong source code ba ito na nasa firmware ng PCOS (na gagamitin sa botohan)? O ‘chopseuy source code’ ito na mula pa noong 2010 at 2011 (eleksiyon) – na hindi natesting – at gagamitin ngayong 2013? May karapatan ang mga mamamayan na malaman ang terms and conditions ng kasunduang Comelec-Dominion-Smartmatic-SLI at kung anong source code ang nasa CD (na binigay sa turnover),” sabi ni Celis, na hinirang bilang Most Outstanding Electronics Engineer sa IT noong 2012.
+Sinabi pa ni Celis na makatadhana sa batas na dapat maraming beses na irebyu ng mga eksperto itong source code. Dahil di ito nagawa bago ang botohan sa Mayo 13, maaari pa ring managot ang Comelec sa di-pagtupad sa batas.
+Nakasaad sa Sec. 11.5 ng Republic Act 9369, o ang Poll Automation Law, na kailangang masigurong “the certification that the source code reviewed is one and same as that used by the equipment.”
+Hindi rin inilathala ng Comelec ang hash code ng PCOS na naka-escrow sa Bangko Sentral ng Pilipinas, gayundin ang election management system (EMS) at canvassing and consolidation system (CCS), ayon pa kay Celis, na eksperto sa IT na tumulong sa pagbuo ng modernong batas sa halalan noong 2007.
+“Niloko ng Comelec ang mga mamamayan noong 2010 sa usapin ng source code. Ngayon, gusto nila uli tayo lokohin,” ani Celis.
+Sinabi naman ni Ernie del Rosario, dating Comelec IT director, na walang paraan para makumpirma na iyung source code ng PCOS na inilabas ng Comelec ay siyang naka-embed sa mahigit 80,000 PCOS machines na nakadeploy sa iba’t ibang bahagi ng bansa para sa halalan sa Lunes.
+Sinabi naman ni Pablo Manalastas, IT fellow ng Center for People Empowerment in Governance (CenPEG), na “hindi naman masyado kailangan ng utak para makapag-conclude na para pakitang-tao lang ang mga media release na ito (hinggil sa source code). Wala tayong totoong source code na available ngayong 2013. Naisahan na naman tayo.”
+“Nananatili ang mga bug (o problema sa software) ng binary program ng 2010 sa PCOS binary program na gagamitin sa halalan sa Mayo 13, kasama pa ang mga bug sa binary program ng halalan sa ARMM (Autonomous Region of Muslim Mindana) noong 2011 na di natesting at nagamit,” sabi ni Manalastas, na isang guro ng IT sa UP at Ateneo.
+Ipinaliwanag pa ni Manalastas na ang bersiyon na ipinakitang source code ay ang bersiyon ng PCOS computer program ng Domininion na ginamit noon pang 2010. Kasama rin dito, na may kaunting modipikasyon lamang, ang code na ginamit noong 2011 ARMM elections.
+“Pero hindi pa naayos ang mga bug na hiniling ng Comelec sa Smartmatic bilang kondisyon sa pagbili ng PCOS sa ilalim ng OTP provision ng kontratang 2009,” paliwanag pa ni Manalastas.
+Mahigit 40 na bug ang hiniling ng Comelec na ayusin ng Smartmatic. Pero hindi umano naatugunan ng Dominion ang pag-aayos ng mga ito dahil sa legal na sigalot sa pagitan ng Smartmatic at Dominion sa Court of Delaware sa US.
+Sinabi pa ni Manalastas na para matupad ng Comelec ang RA 9369, kailangang makakuha ito ng lisensiya mula sa Dominion para magrebyu ng sinumang pampulitikang partido o grupo ang source code at magpanukala ng pag-aayos ng bugs sa Dominion EMS at Dominion PCOS.
+“Ito lang ang legal na paraan para makapagrebyu ng source code ng Dominion ang mga mamamayang Pilipino, sa pamamagitan ng interesadong mga partido-pulitikal,” sabi pa ni Manalastas.
+Pero ang tanging lisensiyang ginagamit ngayon ng Smartmatic mula sa Dominion ay iyung kasama na sa 2009 license na nagbibigay ng karapatan sa Comelec na gumamit ng binary programs ng Dominion EMS at Dominion PCOS para sa eleksiyong 2010 lang.
+“Naniniwala akong (halos nawala na) ang pag-asa natin para sa isang malinis, matapat, tumpak at seguradong kompiyuterisadong halalan ngayong 2013,” sabi pa ni Manalastas.
+
+
+

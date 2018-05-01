@@ -1,0 +1,37 @@
+Automated elections, binabagabag ng piniratang teknolohiya, atbp. problema
+
+Sa halip na iwasto, inulit lamang, at pinatindi pa, ng Commission on Elections (Comelec) ang mga pagkakamali nito sa pagdaos ng automated elections.
+Posible itong maging dahilan ng failure of elections at malawakang pandaraya, ayon sa AES Watch, isang grupong tagapagbantay sa halalan.
+Sa isang porum noong Enero 18, naglabas ang AES Watch ng isang indipendyenteng assessment sa paghahanda ng Comelec. Dito, bagsak muli ang Comelec.
+Ayon kay dating komisyuner ng Comelec na si Gus Lagman, nakakabahala at posibleng impeachable offenses ang di pagsunod ng Comelec sa Automated Elections Law o Republic Act 9369. Pangunahin dito ang kawalan ng source code verification at paggamit ng piniratang teknolohiya para sa eleksiyon.
+Piniratang teknolohiya
+Parehong mga problema ng rejection at jamming ng mga balota, transmission failure, maling bilang ng mga boto, at kawalan ng digital signatures sa mga Election Return (ER) at Certificate of Canvass (COC) ang bumagabag sa mock elections na dinaos ng House Committee on Suffrage and Electoral Reforms noong Hulyo 24-25 noong nakaraang taon at Pebrero 2 ngayong taon, ayon sa AES Watch.
+Pinabulaanan ng grupo ang sinasabi ng Comelec “minor glitches” lamang ang mga ito. “Malamang na maulit ang mga problemang ito sa halalan at magresulta sa maling bilang ng mga boto at disenfranchisement ng mga botante,” ayon sa grupo
+Higit pa rito, dapat umanong ikabahala ng mga botante ang paggamit ng piniratang teknolohiya. Tinawag ni Dr. Pablo Manalastas, isang eksperto sa Information Technology, na “biggest act of piracy” ang pagdaos ng automated elections. Ito’y dahil nag-expire na noong Mayo 23, 2012 ang License Agreement sa pagitan ng Smartmatic at Dominion Voting Systems, na may-ari ng gagamiting software.
+Smartmatic, isang kompanyang multinasyunal, ang kinontrata ng Comelec para sa pagdaos ng halalan. Nag-subcontract naman ang Smartmatic sa Dominion. Ayon kay Lagman, labag ito sa RA 9369. “Hindi pwedeng i-subcontract ang software o hardware na gagamitin sa halalan dahil masyado itong mahalaga,” aniya.
+
+Kilalang nagtutulak ng mga pagbabago sa sistema ng halalan si Lagman, ngunit sinibak ng Malakanyang matapos lamang ang 10 buwan sa puwesto.
+Kinuwestiyon din nina Lagman at Manalastas ang patuloy na pagtanggi ng Comelec na ibigay ang source code sa mga indipendyente at pulitikal na grupo at partido para maberipika ang magiging resulta ng halalan.
+“Hindi natin pwedeng ipagkatiwala na lang ito sa Comelec at Smartmatic. Hindi dapat tayo pumayag sa ganito,” ani Manalastas.
+Malakanyang, tahimik
+Sa assessment ng AES Watch, lumabas din ang iba pang problema, kabilang ang mga sumusunod:
+
+Ang gagamiting CF Cards ay hindi Write-Once-Read-Many (WORM). Ang mga CF Card na hindi WORM ay maaaring pasukan ng panibagong datos.
+Walang Ultraviolet Ink Detection Mechanism sa mga PCOS (Precinct Count Optical Scan) machine
+Walang Voter-Verified Paper Audit Trail, alinsunod sa RA 9369
+Walang Secured Electronic Transmission. Hindi naipakita ng Comelec sa mock elections ang paggana ng Virtual Private Network na gagamitin sa halalan.
+Kawalan ng inventory ng mga Transmission Facilities sa mga lungsod at munisipalidad
+Problema sa initialization ng mga PCOS machine
+Kawalan ng impormasyon kung papaano ikokondukta ang Random Manual Audit ng mga PCOS machine, alinsunod sa RA 9369
+Hindi naipakita ng Comelec ang digital signing ng mga ER at COC
+Hindi umabot sa 99.995% na accuracy ang bilang ng mga boto
+
+Marami sa mga problemang ito ang dati nang naranasan. Halimbawa, natuklasan na hindi rin digitally signed ng Board of Election Inspectors ang mga ER at COC noong 2010 halalan, kaya walang paraan para maberipika ang mga ito.
+Babala ni Maricar Akol ng Transparentelections.org, ang mga pagkakamali ng Comelec ngayon ay limang beses na mas matindi kaysa noong 2010. “Noong una pagbibigyan mo pa sila dahil sa tinatawag na birth pains. Pero ngayon, alam na ng mga operator ang mga bulnerabilidad ng sistema. At dahil hindi ito inayos ng Comelec, possible ang talamak na pandaraya,” aniya.
+Ayon naman kay Fr. Joe Dizon ng Kontra Daya, “Nakakabahala na wala tayong naririnig mula kay Pangulong Aquino. Malakanyang pa mismo ang nagsabi na okey lang bilhin sa Smartmatic ang mga PCOS machine na inirekomenda ng Comelec Advisory Council na huwag bilhin dahil sa kuwestiyon sa kredibilidad nito. Palagay ko, ayaw kuwestiyunin ng Pangulo ang Comelec dahil kapag ginawa niya ito, makukuwestiyon maging ang pagkapanalo niya noong 2010.”
+Nanawagan si Dizon sa mga mamamayan na maging lalong mapagbantay, at na panagutin ang Comelec at gobyernong Aquino sa paglalagay sa panganib ng integridad ng halalan.
+Para naman kay Anna Leah Escresa ng Workers Electoral Watch, talagang bulnerable ang isang halalan na nasa kamay ng pribadong sektor. “Ang isyu rin dito ay ang soberanya ng ating eleksiyon. Dapat may kakayanan tayong magdaos ng eleksiyon na walang partisipasyon ng isang pribado, at dayuhan, na kompanya,” aniya.
+Ipinunto ni Escresa na napakaraming lokal na eksperto na maaari sanang magpatakbo ng automated elections, ngunit kahit ang partisipasyon nila sa pagbabantay nito ay hinaharang pa mismo ng gobyerno.
+
+
+

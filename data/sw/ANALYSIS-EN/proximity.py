@@ -6,7 +6,7 @@ from nltk.tokenize import word_tokenize
 import re
 import os
 import nltk
-
+from heapq import heappush, heappop
 
 # query is .txt file of query terms
 # text is .txt file of text
@@ -33,18 +33,30 @@ def distance(query, text):
 		lsts[i] = list(np.where(txt == q[i])[0])
 
 	# Initialize score to worst value
-	score = -0.5
+	tot_score = 0
 
 
 	# Calculate score of eligible paths
-	for indices in itertools.product(*lsts):
+        list_= []
+        visited=set()
+        for indices in itertools.product(*lsts):
 		ind = list(indices)
-
-		if(sorted(ind) == ind):
-			if(score > ind[len(ind)-1]-ind[0] or score == -1):
-				score = ind[len(ind)-1]-ind[0]
-
-	return np.log(len(txt)/(1+score))
+                if(sorted(ind) == ind):
+                    heappush(list_,(ind,ind[len(ind)-1]-ind[0]))
+        while list_:
+            ind , score= heappop(list_)
+            is_visited = False
+            for v in ind:
+                if v in visited:
+                    is_visited = True # this node has been involved in a path
+            if is_visited:
+                continue
+            for i in range(len(ind)-1):
+                tot_score += ind[i+1]-ind[i] # total sum of consequtive elements
+            for v in ind:
+                visited.add(v)
+        print(np.log(len(txt)/((0.5+tot_score))))
+        return np.log(len(txt)/(len(q)*(0.5+tot_score)))
 
 #distance('hello world', 'hello this is world.')
 
@@ -105,7 +117,6 @@ with open("../topics/QUERY1/query_list.tsv") as f:
         for phrase in phrases:
             q_text += phrase
         q2text[qid] = q_text
-        print(qid,q_text)
 
 
 		# put queryID into dict if not already there
@@ -131,15 +142,15 @@ except:
 for qid in q2docs2score:
     doc_list = []
     for doc,score in q2docs2score[qid]:
-            #print(qid)
-            #print(q2text[qid])
-            #print(doc)
             proximity = distance(q2text[qid], d2text[doc])
-            new_score = 0.5*score + 0.5*proximity 
+            new_score = 0.95*score + 0.03*proximity 
             doc_list.append((doc,new_score))
-    sorted_doc_list = sorted(doc_list,key=lambda tup: tup[1]) 
+    sorted_doc_list = sorted(doc_list,key=lambda tup: -tup[1]) 
     with open("result/result.proximity", 'a') as f:
         rank = 1
         for doc,score in sorted_doc_list:
-            f.write(qid+" Q0 "+ doc + " "+str(score)+" "+str(rank)+" indri\n")
+            f.write(qid+" Q0 "+ doc + " "+str(rank)+" " + str(score)+ " indri\n")
+            rank +=1
+            if rank > 20:
+                break
 

@@ -64,9 +64,12 @@ assert params.dico_max_size == 0 or params.dico_max_size > params.dico_min_size
 print('generating Indri query format ..')
 
 dictionary = {}
+from nltk import PorterStemmer 
+stemmer = PorterStemmer()
 with open(params.dico_train) as f:
     for line in f:
         word, trans = line.rstrip().split(' ')
+        word = stemmer.stem(word)
         if(word in dictionary):
             if len(dictionary[word]) > int(params.rank):
                 continue #print(len(dictionary[word]),params.rank)
@@ -79,7 +82,7 @@ out.write("<parameters>\n")
 with open(params.query) as f:
     i = 0
     for line in f:
-        line = line.strip()
+        line = line.strip().lower()
         if params.phrase:
             phrases=re.findall(r'\"(.+?)\"', line)
             phrases = [re.sub('[<>]', '', phrase) for phrase in phrases if '[' not in phrase]## only query 3637
@@ -87,7 +90,8 @@ with open(params.query) as f:
                 line = line.replace(phrase, '')
         else:
             phrases = []
-        line = re.sub('[(){},;?<>]','',line)
+        line = re.sub('[(){};?<>]','',line)
+        line = re.sub(',',' ',line)
         line = re.sub('[A-Za-z]+:','',line) ## get rid of hyp, syn etc
         tokens = re.findall("[A-Z]{2,}(?![a-z])|[A-Z][a-z]+(?=[A-Z])|[\'\w\-]+",line)
         if i == 0:
@@ -105,6 +109,7 @@ with open(params.query) as f:
             p=[]
             phrase_str = ""
             for word in phrase.split():
+                word = stemmer.stem(word)
                 if word in dictionary:
                     p.append(dictionary[word])
             all_phrase_combinations = list(itertools.product(*p)) 
@@ -118,6 +123,7 @@ with open(params.query) as f:
                 w.append(z)
 
         for word in words:
+            word = stemmer.stem(word)
             if word in dictionary:
                 x = " ".join(dictionary[word])
                 x = "#syn("+x+")"

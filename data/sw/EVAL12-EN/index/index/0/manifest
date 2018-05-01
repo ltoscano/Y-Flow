@@ -1,0 +1,15 @@
+<parameters>
+	<code-build-date>Mar 25 2018</code-build-date>
+	<corpus>
+		<document-base>1</document-base>
+		<frequent-terms>552</frequent-terms>
+		<maximum-document>9873</maximum-document>
+		<total-documents>9872</total-documents>
+		<total-terms>4307468</total-terms>
+		<unique-terms>19295</unique-terms>
+	</corpus>
+	<fields></fields>
+	<indri-distribution>Indri development release 2.12</indri-distribution>
+	<type>DiskIndex</type>
+</parameters>
+
