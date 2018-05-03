@@ -49,6 +49,7 @@ parser.add_argument("--tgt_align", type=str, default='', help="Reload target ali
 
 parser.add_argument("--normalize_embeddings", type=str, default="", help="Normalize embeddings before training")
 
+parser.add_argument("--stemmer", type=bool, default=False, help="Respect Phrases")
 
 # parse parameters
 params = parser.parse_args()
@@ -61,21 +62,25 @@ assert params.dico_max_size == 0 or params.dico_max_size < params.dico_max_rank
 assert params.dico_max_size == 0 or params.dico_max_size > params.dico_min_size
 print('generating Indri query format ..')
 out = open(params.tquery,'w')
+if params.stemmer:
+    from krovetzstemmer import Stemmer
+    stemmer = Stemmer()
 out.write("<parameters>\n")
 with open(params.query) as f:
     i = 0
     for line in f:
         line = line.strip().lower()
+        line = line.replace('EXAMPLE_OF', '')
         if params.phrase:
             phrases=re.findall(r'\"(.+?)\"', line)
             phrases = [re.sub('[<>]', '', phrase) for phrase in phrases if '[' not in phrase]## only query 3637
             for phrase in phrases:
                 line = line.replace(phrase, '')
         else:
-            line = re.sub('\'','',line)
             phrases = []
         line = re.sub('[(){};?<>]','',line)
         line = re.sub(',',' ',line)
+        #print(line)
         line = re.sub('[A-Za-z]+:','',line) ## get rid of hyp, syn etc
         tokens = re.findall("[A-Z]{2,}(?![a-z])|[A-Z][a-z]+(?=[A-Z])|[\'\w\-]+",line)
         if i == 0:
@@ -86,15 +91,24 @@ with open(params.query) as f:
         words = tokens[1:-1] ## skip domain
         #print(qid,did,words)
         #input('here') 
+        print(tokens)
         out.write("<query>\n")
         out.write("<type>indri</type>\n")
         out.write("<number>{0}</number>\n".format(qid))
         out.write("<text>\n")
         out.write("#combine(\n")
         for phrase in phrases:
+            if params.stemmer:
+                new_phrase = []
+                for word in phrase.split(' '):
+                    word = stemmer.stem(word)
+                    new_phrase.append(word)
+                phrase = ' '.join(new_phrase)
             out.write("#1({})".format(phrase))
             out.write('\n')
         for word in words:
+            if params.stemmer:
+                word = stemmer.stem(word)
             out.write(word+"\n")
         out.write(")\n")
         out.write("</text>\n")

@@ -10,4 +10,4 @@ fi
 IndriRunQuery qmodel/mono -index=index/ -count=$CUTOFF -trecFormat=true > result/result.first
 python param/trim_local_result.py # generate result.file
 rm result/result.first
-trec_eval -c -q -N 471 ../judg/rel.analysis result/result.file -c > phrase.out
+trec_eval -q -N 471 ../judg/rel.analysis result/result.file -c > phrase.out

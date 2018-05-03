@@ -55,7 +55,7 @@
 <text>
 #max(
 #combine(
-#syn(shamba uwanja) #syn(kilimo))
+#syn(shamba uwanja) #syn(officer bwanashamba kilimo))
 )
 </text>
 </query>
@@ -65,7 +65,7 @@
 <text>
 #max(
 #combine(
-#syn(mtoto mchanga watoto wachanga))
+#syn(mtoto mchanga watoto wachanga watoto wachanga))
 )
 </text>
 </query>
@@ -105,7 +105,7 @@
 <text>
 #max(
 #combine(
-#syn(chuo kikuu) #syn(uchaguzi))
+#syn(ulimwengu chuo kikuu) #syn(bai kura uchaguzi uteuzi))
 )
 </text>
 </query>
@@ -115,7 +115,7 @@
 <text>
 #max(
 #combine(
-#syn(kampeni) #syn(darasa))
+#syn(kampeni) #syn(darasa madarasa))
 )
 </text>
 </query>
@@ -135,7 +135,7 @@
 <text>
 #max(
 #combine(
-#syn(azma gharadhi nia) #syn(area kimiani bao keeper golikipa keeper))
+#syn(makusudi azma gharadhi nia) #syn(area kimiani bao keeper golikipa keeper))
 )
 </text>
 </query>
@@ -145,7 +145,7 @@
 <text>
 #max(
 #combine(
-#syn(brow nyusi jicho pencil mkahale pencils) #syn(hatari))
+#syn(brow nyusi jicho pencil mkahale pencils) #syn(hatari hatari))
 )
 </text>
 </query>
@@ -165,7 +165,7 @@
 <text>
 #max(
 #combine(
-#syn(akida) #syn(chelewa marehemu))
+#syn(akida maakida) #syn(chelewa marehemu))
 )
 </text>
 </query>
@@ -195,7 +195,7 @@
 <text>
 #max(
 #combine(
-#syn(mwanasheria wakili))
+#syn(mwanasheria mawakili wanasheria wakili))
 )
 </text>
 </query>
@@ -205,7 +205,7 @@
 <text>
 #max(
 #combine(
-#syn(chama kundi safu))
+#syn(vyama chama kundi safu))
 )
 </text>
 </query>
@@ -215,7 +215,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(kuua))
 )
 </text>
 </query>
@@ -275,7 +275,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(funga))
 )
 </text>
 </query>
@@ -285,7 +285,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(language lugha ya kuundwa))
 )
 </text>
 </query>
@@ -295,7 +295,7 @@
 <text>
 #max(
 #combine(
-#syn(uchaguzi))
+#syn(bai kura uchaguzi uteuzi))
 )
 </text>
 </query>
@@ -305,7 +305,7 @@
 <text>
 #max(
 #combine(
-#syn(himila mimba ujauzito))
+#syn(aviya) #syn(himila mimba ujauzito))
 )
 </text>
 </query>
@@ -315,7 +315,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(hukumu kifungo sentensi vifungo))
 )
 </text>
 </query>
@@ -325,7 +325,7 @@
 <text>
 #max(
 #combine(
-#syn(kipanga) #syn(kinyama mnyama waste kinyesi))
+#syn(kipanga) #syn(kinyama mnyama wanyama waste kinyesi))
 )
 </text>
 </query>
@@ -335,7 +335,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(omba sala sali))
 )
 </text>
 </query>
@@ -355,7 +355,7 @@
 <text>
 #max(
 #combine(
-#syn(attack mshtuko wa moyo mioyo moyo) #syn(ugonjwa))
+#syn(attack mshtuko wa moyo mioyo moyo) #syn(ugonjwa people wagonjwa))
 )
 </text>
 </query>
@@ -365,7 +365,7 @@
 <text>
 #max(
 #combine(
-#syn(mguu sura) #syn(shahidi) #syn(shika))
+#syn(mguu miguu sura) #syn(shahidi) #syn(mtazamo mitazamo shika))
 )
 </text>
 </query>
@@ -375,7 +375,7 @@
 <text>
 #max(
 #combine(
-#syn(mlima))
+#syn(mlima milima))
 )
 </text>
 </query>
@@ -385,7 +385,7 @@
 <text>
 #max(
 #combine(
-#syn(data mtego tega) #syn(daka))
+#syn(data mtego utegaji mitego tega) #syn(daka))
 )
 </text>
 </query>
@@ -395,7 +395,7 @@
 <text>
 #max(
 #combine(
-#syn(goti))
+#syn(goti magoti))
 )
 </text>
 </query>
@@ -425,7 +425,7 @@
 <text>
 #max(
 #combine(
-#syn(kondoo) #syn(kinyama mnyama waste kinyesi))
+#syn(kondoo) #syn(kinyama mnyama wanyama waste kinyesi))
 )
 </text>
 </query>
@@ -445,7 +445,7 @@
 <text>
 #max(
 #combine(
-#syn(pamba plant mpamba plants mipamba))
+#syn(pamba plant mpamba plants mipamba) #syn(mbegu pembejeo tumba uzao))
 )
 </text>
 </query>
@@ -455,7 +455,7 @@
 <text>
 #max(
 #combine(
-#syn(afa janga))
+#syn(gharika mafuriko) #syn(afa janga maafa majanga))
 )
 </text>
 </query>
@@ -465,7 +465,7 @@
 <text>
 #max(
 #combine(
-#syn(kurasa ukurasa) #syn(a age komaa) #syn(karatasi))
+#syn(kurasa makurasa ukurasa) #syn(a age komaa) #syn(karatasi makaratasi))
 )
 </text>
 </query>
@@ -475,7 +475,7 @@
 <text>
 #max(
 #combine(
-#syn(ramani))
+#syn(ramani) #syn(mtetezi watetezi))
 )
 </text>
 </query>
@@ -485,7 +485,7 @@
 <text>
 #max(
 #combine(
-#syn(ugwe uzi) #syn(konda mwembamba thread kimia threads vimia) #syn(kamba utari))
+#syn(nyuzi ugwe uzi) #syn(konda mwembamba thread kimia threads vimia) #syn(kamba utari))
 )
 </text>
 </query>
@@ -495,7 +495,7 @@
 <text>
 #max(
 #combine(
-#syn(sinema))
+#syn(sinema masinema))
 )
 </text>
 </query>
@@ -515,7 +515,7 @@
 <text>
 #max(
 #combine(
-#syn(mlango))
+#syn(mlango milango))
 )
 </text>
 </query>
@@ -535,7 +535,7 @@
 <text>
 #max(
 #combine(
-#syn(bonde))
+#syn(bonde mabonde))
 )
 </text>
 </query>
@@ -555,7 +555,7 @@
 <text>
 #max(
 #combine(
-#syn(in law mamamkwe mama nana) #syn(jike kike slave mjakazi) #syn(mvyele mzazi))
+#syn(distributor mgavi anayejitegemea) #syn(in law mamamkwe mama nana akina) #syn(jike kike slave mjakazi) #syn(mvyele mzazi wavyele wazazi))
 )
 </text>
 </query>
@@ -565,7 +565,7 @@
 <text>
 #max(
 #combine(
-#syn(for environment waziri wa mazingira for) #syn(siasa) #syn(jela kalamu seli zizi) #syn(andiko maandiko maandishi mwandiko))
+#syn(for environment waziri wa mazingira for) #syn(upole leader kiongozi wa siasa leaders) #syn(jela kalamu seli zizi) #syn(andika kuandika andiko maandiko maandishi mwandiko))
 )
 </text>
 </query>
@@ -575,7 +575,7 @@
 <text>
 #max(
 #combine(
-#syn(jimbo mkoa mkoani) #syn(chupa))
+#syn(jimbo mkoa mkoani majimbo mikoa) #syn(chupa))
 )
 </text>
 </query>
@@ -615,7 +615,7 @@
 <text>
 #max(
 #combine(
-#syn(mbweha mbweha mwekundu thalabu) #syn(kinyama mnyama waste kinyesi))
+#syn(mbweha mbweha mwekundu thalabu) #syn(kinyama mnyama wanyama waste kinyesi))
 )
 </text>
 </query>
@@ -635,7 +635,7 @@
 <text>
 #max(
 #combine(
-#syn(announcement habari za tanzia hilaki kifo) #syn(a age komaa) #syn(ai asaiberi ai mwasaiberi corrupt person) #syn(rais) #syn(kichwa man jumbe mkuu office makao) #syn(a age komaa) #syn(dola hali house ikulu jamhuri nchi))
+#syn(announcement habari za tanzia hilaki kifo) #syn(a age komaa) #syn(ai asaiberi ai mwasaiberi corrupt person) #syn(urais rais) #syn(kichwa man jumbe mkuu office makao) #syn(a age komaa) #syn(dola hali house ikulu jamhuri nchi))
 )
 </text>
 </query>
@@ -645,7 +645,7 @@
 <text>
 #max(
 #combine(
-#syn(jopo) #syn(a age komaa) #syn(mahakimu wakuu))
+#syn(jopo) #syn(a age komaa) #syn(hakimu hakimu mkazi hakimu mkuu jaji))
 )
 </text>
 </query>
@@ -675,7 +675,7 @@
 <text>
 #max(
 #combine(
-#syn(magari) #syn(gari))
+#syn(gari motokaa patrol gari la doria) #syn(gari))
 )
 </text>
 </query>
@@ -685,7 +685,7 @@
 <text>
 #max(
 #combine(
-#syn(cup kombe la dunia cups vikombe) #syn(chakula lishe mlo price bei ya) #syn(kipindi programu))
+#syn(cup kombe la dunia cups vikombe) #syn(chakula lishe mlo price bei ya) #syn(kipindi programu vipindi))
 )
 </text>
 </query>
@@ -705,7 +705,7 @@
 <text>
 #max(
 #combine(
-#syn(fungua ufungu ufunguo) #syn(milango))
+#syn(fungua ufungu ufunguo) #syn(mlango milango))
 )
 </text>
 </query>
@@ -725,7 +725,7 @@
 <text>
 #max(
 #combine(
-#syn(nyuki))
+#syn(nyuki) #syn(hifadhi))
 )
 </text>
 </query>
@@ -765,7 +765,7 @@
 <text>
 #max(
 #combine(
-#syn(ant chaki ants machaki blood cell))
+#syn(ant chaki ants machaki blood cell) #syn(gome))
 )
 </text>
 </query>
@@ -795,7 +795,7 @@
 <text>
 #max(
 #combine(
-#syn(mwongozo uongozi utawala) #syn(nyundo) #syn(mitambo vyombo))
+#syn(mwongozo uongozi utawala) #syn(nyundo) #syn(chombo kifaa mtambo mitambo vyombo))
 )
 </text>
 </query>
@@ -805,7 +805,7 @@
 <text>
 #max(
 #combine(
-#syn(chete plan mpango wa soko plans) #syn(kilimo))
+#syn(chete plan mpango wa soko plans) #syn(officer bwanashamba kilimo))
 )
 </text>
 </query>
@@ -825,7 +825,7 @@
 <text>
 #max(
 #combine(
-#syn(mgombezi) #syn(kura))
+#syn(mgombezi wagombezi) #syn(bai kura uchaguzi uteuzi))
 )
 </text>
 </query>
@@ -835,7 +835,7 @@
 <text>
 #max(
 #combine(
-#syn(bingwa championi) #syn(michezo news habari za michezo spoti))
+#syn(bingwa championi mabingwa machampioni) #syn(riadha michezo news habari za michezo))
 )
 </text>
 </query>
@@ -855,7 +855,7 @@
 <text>
 #max(
 #combine(
-#syn(legevu mlegevu utepetevu))
+#syn(uvivu uzembe uzrembe legevu mlegevu utepetevu))
 )
 </text>
 </query>
@@ -865,7 +865,7 @@
 <text>
 #max(
 #combine(
-#syn(kiongozi wa mashtaka) #syn(kanuni sheria) #syn(kesi) #syn(awali kabla mbele) #syn(ai asaiberi ai mwasaiberi corrupt person) #syn(korti kortini kotini mahakama mahakamani order))
+#syn(kiongozi wa mashtaka viongozi wa mashtaka) #syn(halali kanuni sheria) #syn(kesi) #syn(awali kabla mbele) #syn(ai asaiberi ai mwasaiberi corrupt person) #syn(korti kortini kotini mahakama mahakamani order))
 )
 </text>
 </query>
@@ -875,7 +875,7 @@
 <text>
 #max(
 #combine(
-#syn(and orders sera na taratibu sera) #syn(mtindo) #syn(ki- lugha) #syn(mawasiliano mawasiyano))
+#syn(masera and orders sera na taratibu) #syn(mtindo) #syn(ki- lugha) #syn(mawasiliano mawasiyano ukomunisti majumuiya jamaa jamii))
 )
 </text>
 </query>
@@ -885,7 +885,7 @@
 <text>
 #max(
 #combine(
-#syn(enzi kizazi) #syn(hirimu miaka umri))
+#syn(jenerali jumla majenerali majenerali enzi kizazi) #syn(uzee hirimu miaka umri))
 )
 </text>
 </query>
@@ -915,7 +915,7 @@
 <text>
 #max(
 #combine(
-#syn(darasa) #syn(kaumu kikundi kundi makundi) #syn(matajiri nation nchi tajiri tajiri))
+#syn(ujamaa usoshalisti) #syn(darasa) #syn(ujamaa usoshalisti) #syn(kaumu kikundi kundi makundi makundi vikundi) #syn(matajiri nation nchi tajiri tajiri))
 )
 </text>
 </query>
@@ -945,7 +945,7 @@
 <text>
 #max(
 #combine(
-#syn(rekodi) #syn(jina taja))
+#syn(rekodi marekodi) #syn(jina majina taja))
 )
 </text>
 </query>
@@ -955,7 +955,7 @@
 <text>
 #max(
 #combine(
-#syn(dhidi dhidi ya juu ya) #syn(ukimwi))
+#syn(dhidi dhidi ya juu ya) #syn(ukimwi usaidizi))
 )
 </text>
 </query>
@@ -965,7 +965,7 @@
 <text>
 #max(
 #combine(
-#syn(msimu) #syn(mara muda mwia nafasi nyakati saa))
+#syn(msimu misimu) #syn(mara muda mwia nafasi nyakati saa))
 )
 </text>
 </query>
@@ -995,7 +995,7 @@
 <text>
 #max(
 #combine(
-#syn(kikombe kombe) #syn(example kwa mfano kwa kwani))
+#syn(kikombe kombe vikombe) #syn(example kwa mfano kwa kwani) #syn(kinyuaji kinywaji kunywa vinyuaji unywaji))
 )
 </text>
 </query>
@@ -1005,7 +1005,7 @@
 <text>
 #max(
 #combine(
-#syn(mtandao))
+#syn(mtandao) #syn(mdhabiti wadhabiti))
 )
 </text>
 </query>
@@ -1015,7 +1015,7 @@
 <text>
 #max(
 #combine(
-#syn(dalali) #syn(agenti ajenti wakala))
+#syn(dalali mnada nadi) #syn(agenti ajenti maajenti wakala))
 )
 </text>
 </query>
@@ -1025,7 +1025,7 @@
 <text>
 #max(
 #combine(
-#syn(mwajiriwa) #syn(chai chauchau chirimiri honga hongo kiinikizo))
+#syn(mwajiriwa waajiriwa) #syn(chai chauchau chirimiri honga hongo kiinikizo))
 )
 </text>
 </query>
@@ -1035,7 +1035,7 @@
 <text>
 #max(
 #combine(
-#syn(habusu mabusu mfungwa mhabusu))
+#syn(habusu mabusu mfungwa mhabusu mahabusu jela))
 )
 </text>
 </query>
@@ -1045,7 +1045,7 @@
 <text>
 #max(
 #combine(
-#syn(kitabu vitabu) #syn(fasihi))
+#syn(transport usafiri wa umma umma) #syn(kitabu vitabu vitabu) #syn(fasihi))
 )
 </text>
 </query>
@@ -1055,7 +1055,7 @@
 <text>
 #max(
 #combine(
-#syn(badili badiliko badilisha chenji geuko geuzo))
+#syn(badili badiliko badilisha chenji geuko geuzo) #syn(kigeuzi mtambo wa transfoma transfoma))
 )
 </text>
 </query>
@@ -1075,7 +1075,7 @@
 <text>
 #max(
 #combine(
-#syn(ubepari) #syn(uchumi) #syn(raslimali))
+#syn(cities miji mikuu city mji mkuu) #syn(uchumi) #syn(raslimali rasilimali raslimali))
 )
 </text>
 </query>
@@ -1115,7 +1115,7 @@
 <text>
 #max(
 #combine(
-#syn(kitungu saumu kitunguu) #syn(mmea))
+#syn(kitungu saumu kitunguu vitunguu) #syn(upanzi mmea mimea))
 )
 </text>
 </query>
@@ -1145,7 +1145,7 @@
 <text>
 #max(
 #combine(
-#syn(huni kera) #syn(choice chaguo langu name is jina) #syn(ahi kaka ndugu))
+#syn(udhika huni kera) #syn(choice chaguo langu name is jina) #syn(ahi kaka ndugu))
 )
 </text>
 </query>
@@ -1155,7 +1155,7 @@
 <text>
 #max(
 #combine(
-#syn(gazeti magazeti) #syn(mwandishi) #syn(siasa))
+#syn(gazeti magazeti) #syn(mamlaka mwandishi waandishi) #syn(upole leader kiongozi wa siasa leaders))
 )
 </text>
 </query>
@@ -1175,7 +1175,7 @@
 <text>
 #max(
 #combine(
-#syn(bluu buluu monkey kima samawati) #syn(michezo rangi))
+#syn(bluu buluu monkey kima samawati) #syn(ya rangi nyingi michezo rangi))
 )
 </text>
 </query>
@@ -1185,7 +1185,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(language lugha ya kuundwa))
 )
 </text>
 </query>
@@ -1195,7 +1195,7 @@
 <text>
 #max(
 #combine(
-#syn(sherehe tafrija) #syn(kandili mshumaa) #syn(bulb balbu mwanga mwangaza nuru sahali))
+#syn(sherehe tafrija) #syn(kandili mshumaa makandili mishumaa) #syn(bulb balbu mwanga mwangaza nuru sahali))
 )
 </text>
 </query>
@@ -1205,7 +1205,7 @@
 <text>
 #max(
 #combine(
-#syn(kimbunga tufani) #syn(dhoruba halibari tufani))
+#syn(kimbunga matufani tufani) #syn(dhoruba halibari tufani))
 )
 </text>
 </query>
@@ -1235,7 +1235,7 @@
 <text>
 #max(
 #combine(
-#syn(collector mtoza ushuru ushuru))
+#syn(takriban) #syn(collector mtoza ushuru ushuru))
 )
 </text>
 </query>
@@ -1255,7 +1255,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(taratibu tunza utunzi))
 )
 </text>
 </query>
@@ -1285,7 +1285,7 @@
 <text>
 #max(
 #combine(
-#syn(dari) #syn(chumba))
+#syn(dari) #syn(chumba vyumba))
 )
 </text>
 </query>
@@ -1295,7 +1295,7 @@
 <text>
 #max(
 #combine(
-#syn(makaazi makao mkaazi mkazi mwenyeji) #syn(mwenyeji) #syn(kilimanjaro))
+#syn(makao makaazi makao mkaazi mkazi mwenyeji) #syn(mwenyeji) #syn(kilimanjaro))
 )
 </text>
 </query>
@@ -1315,7 +1315,7 @@
 <text>
 #max(
 #combine(
-#syn(michezo news habari za michezo spoti))
+#syn(riadha michezo news habari za michezo))
 )
 </text>
 </query>
@@ -1325,7 +1325,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(kasino))
 )
 </text>
 </query>
@@ -1335,7 +1335,7 @@
 <text>
 #max(
 #combine(
-#syn(mkia) #syn(kinyama mnyama waste kinyesi) #syn(cells chembechembe za mwili hair laika) #syn(aria gawa sehemu))
+#syn(mkia) #syn(kinyama mnyama wanyama waste kinyesi) #syn(miili viwiliwili cells chembechembe za mwili) #syn(aria gawa sehemu))
 )
 </text>
 </query>
@@ -1345,7 +1345,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(idhinisha))
 )
 </text>
 </query>
@@ -1385,7 +1385,7 @@
 <text>
 #max(
 #combine(
-#syn(methali) #syn(staarabu) #syn(misemo msemo))
+#syn(methali) #syn(staarabu) #syn(misemo msemo misemo))
 )
 </text>
 </query>
@@ -1425,7 +1425,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(kuvaa))
 )
 </text>
 </query>
@@ -1445,7 +1445,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(udhika huni kera))
 )
 </text>
 </query>
@@ -1455,7 +1455,7 @@
 <text>
 #max(
 #combine(
-#syn(ardhi arthi))
+#syn(halali kanuni sheria) #syn(ardhi arthi))
 )
 </text>
 </query>
@@ -1465,7 +1465,7 @@
 <text>
 #max(
 #combine(
-#syn(cassette rediokaseti radio redio))
+#syn(tangazo tangaza) #syn(cassette rediokaseti radio redio maredio))
 )
 </text>
 </query>
@@ -1475,7 +1475,7 @@
 <text>
 #max(
 #combine(
-#syn(pole mlingoti wa umeme poles milingoti) #syn(nguvu))
+#syn(gawanya) #syn(pole mlingoti wa umeme poles milingoti) #syn(nguvu))
 )
 </text>
 </query>
@@ -1485,7 +1485,7 @@
 <text>
 #max(
 #combine(
-#syn(kipindupindu waba) #syn(maradhi ugonjwa))
+#syn(kipindupindu waba) #syn(maradhi magonjwa ugonjwa))
 )
 </text>
 </query>
@@ -1495,7 +1495,7 @@
 <text>
 #max(
 #combine(
-#syn(sili) #syn(stampu))
+#syn(boat ngarawa sili) #syn(stampu))
 )
 </text>
 </query>
@@ -1515,7 +1515,7 @@
 <text>
 #max(
 #combine(
-#syn(istilahi) #syn(elimisha))
+#syn(istilahi) #syn(elimisha elimu))
 )
 </text>
 </query>
@@ -1525,7 +1525,7 @@
 <text>
 #max(
 #combine(
-#syn(birth zaa kupa pea) #syn(almasi uru))
+#syn(birth zaa kupa pea) #syn(almasi uru uru))
 )
 </text>
 </query>
@@ -1545,7 +1545,7 @@
 <text>
 #max(
 #combine(
-#syn(viyo))
+#syn(choo kibakuli cha choo msala paper))
 )
 </text>
 </query>
@@ -1555,7 +1555,7 @@
 <text>
 #max(
 #combine(
-#syn(kuwinda) #syn(kimbiza) #syn(example kwa mfano kwa kwani) #syn(ayari laghai mhuni mlaghai mshari ya) #syn(missing finger or toe buge mtu))
+#syn(uwindaji uwindo kuwinda) #syn(kimbiza) #syn(example kwa mfano kwa kwani) #syn(kuua) #syn(ayari laghai mhuni mlaghai mshari ya) #syn(missing finger or toe buge mtu))
 )
 </text>
 </query>
@@ -1565,7 +1565,7 @@
 <text>
 #max(
 #combine(
-#syn(nyara teka nyara) #syn(gaidi ugaidi))
+#syn(nyara teka nyara) #syn(gaidi magaidi ugaidi))
 )
 </text>
 </query>
@@ -1575,7 +1575,7 @@
 <text>
 #max(
 #combine(
-#syn(fanikiwa faulu) #syn(care linda care of tunza chukua) #syn(ya) #syn(mahail mahala mahali pahali weka) #syn(a age komaa) #syn(kitabu vitabu) #syn(fasihi))
+#syn(fanikiwa faulu) #syn(care linda care of tunza chukua) #syn(ya) #syn(mahail mahala mahali pahali weka) #syn(a age komaa) #syn(kitabu vitabu vitabu) #syn(fasihi))
 )
 </text>
 </query>
@@ -1595,7 +1595,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(teule))
 )
 </text>
 </query>
@@ -1625,7 +1625,7 @@
 <text>
 #max(
 #combine(
-#syn(mgombezi) #syn(uchaguzi) #syn(sherehe tafrija))
+#syn(mgombezi wagombezi) #syn(bai kura uchaguzi uteuzi) #syn(sherehe tafrija))
 )
 </text>
 </query>
@@ -1635,7 +1635,7 @@
 <text>
 #max(
 #combine(
-#syn(mpangishaji) #syn(mmiliki mwenyewe) #syn(and orders sera na taratibu sera) #syn(mtindo))
+#syn(mpangishaji wapangishaji) #syn(mmiliki mwenyewe wamiliki wenyewe) #syn(masera and orders sera na taratibu) #syn(mtindo))
 )
 </text>
 </query>
@@ -1645,7 +1645,7 @@
 <text>
 #max(
 #combine(
-#syn(fleti ghorofa) #syn(jenga jengo) #syn(andika kuandika))
+#syn(fleti ghorofa) #syn(jenga jengo majengo kujenga) #syn(andika kuandika andiko maandiko maandishi mwandiko))
 )
 </text>
 </query>
@@ -1655,7 +1655,7 @@
 <text>
 #max(
 #combine(
-#syn(pikipiki))
+#syn(pikipiki) #syn(chunguza dadisi ukale mchunguzi wachunguzi))
 )
 </text>
 </query>
@@ -1665,7 +1665,7 @@
 <text>
 #max(
 #combine(
-#syn(historia) #syn(yaliyopita) #syn(matukio visa) #syn(virusi))
+#syn(historia) #syn(bandika bandiko yaliyopita) #syn(kisa matukio visa tukio) #syn(virusi))
 )
 </text>
 </query>
@@ -1675,7 +1675,7 @@
 <text>
 #max(
 #combine(
-#syn(intercourse kutomba))
+#syn(intercourse kutomba transmitted disease maradhi ya))
 )
 </text>
 </query>
@@ -1685,7 +1685,7 @@
 <text>
 #max(
 #combine(
-#syn(runinga televisheni) #syn(kipindi programu))
+#syn(runinga televisheni) #syn(kipindi programu vipindi))
 )
 </text>
 </query>
@@ -1695,7 +1695,7 @@
 <text>
 #max(
 #combine(
-#syn(sanamu))
+#syn(sanamu) #syn(kinyagu))
 )
 </text>
 </query>
@@ -1705,7 +1705,7 @@
 <text>
 #max(
 #combine(
-#syn(sindano) #syn(dawa udaktari))
+#syn(sindano) #syn(dawa madawa udaktari))
 )
 </text>
 </query>
@@ -1715,7 +1715,7 @@
 <text>
 #max(
 #combine(
-#syn(shirika))
+#syn(mshirika) #syn(shirika mashirika panga maungo ungo))
 )
 </text>
 </query>
@@ -1735,7 +1735,7 @@
 <text>
 #max(
 #combine(
-#syn(ramani))
+#syn(ramani) #syn(mwanajiografia))
 )
 </text>
 </query>
@@ -1765,7 +1765,7 @@
 <text>
 #max(
 #combine(
-#syn(kuwinda) #syn(keketa) #syn(likizo sikukuu siku kuu) #syn(after tomorrow kesho kutwa before yesterday))
+#syn(uwindaji uwindo kuwinda) #syn(keketa) #syn(likizo sikukuu siku kuu) #syn(after tomorrow kesho kutwa before yesterday))
 )
 </text>
 </query>
@@ -1775,7 +1775,7 @@
 <text>
 #max(
 #combine(
-#syn(kanisa leaders viongozi wa dini))
+#syn(makanisa kanisa leaders viongozi wa dini))
 )
 </text>
 </query>
@@ -1785,7 +1785,7 @@
 <text>
 #max(
 #combine(
-#syn(fisi) #syn(kinyama mnyama waste kinyesi))
+#syn(fisi) #syn(kinyama mnyama wanyama waste kinyesi))
 )
 </text>
 </query>
@@ -1795,7 +1795,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(dahili faida kipato mafao))
 )
 </text>
 </query>
@@ -1805,7 +1805,7 @@
 <text>
 #max(
 #combine(
-#syn(muziki mziki) #syn(burudani))
+#syn(shika) #syn(muziki mziki) #syn(burudani tumbuiza))
 )
 </text>
 </query>
@@ -1815,7 +1815,7 @@
 <text>
 #max(
 #combine(
-#syn(mapakiti))
+#syn(pakiti mapakiti))
 )
 </text>
 </query>
@@ -1825,7 +1825,7 @@
 <text>
 #max(
 #combine(
-#syn(misamiati msamiati) #syn(ki- lugha) #syn(mawasiliano mawasiyano))
+#syn(misamiati misamiati msamiati) #syn(ki- lugha) #syn(mawasiliano mawasiyano ukomunisti majumuiya jamaa jamii))
 )
 </text>
 </query>
@@ -1845,7 +1845,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(bweni))
 )
 </text>
 </query>
@@ -1865,7 +1865,7 @@
 <text>
 #max(
 #combine(
-#syn(leader kiongozi wa siasa leaders viongozi) #syn(geuza mageuzi mapinduzi) #syn(amani salama))
+#syn(upole leader kiongozi wa siasa leaders) #syn(geuza mageuzi mapinduzi) #syn(amani salama))
 )
 </text>
 </query>
@@ -1875,7 +1875,7 @@
 <text>
 #max(
 #combine(
-#syn(mkondo uteremkaji) #syn(mawasiliano mawasiyano))
+#syn(mkondo mikondo uteremkaji) #syn(fanaka) #syn(mawasiliano mawasiyano ukomunisti majumuiya jamaa jamii))
 )
 </text>
 </query>
@@ -1885,7 +1885,7 @@
 <text>
 #max(
 #combine(
-#syn(hatibu msemaji spika))
+#syn(hatibu msemaji maspika spika))
 )
 </text>
 </query>
@@ -1895,7 +1895,7 @@
 <text>
 #max(
 #combine(
-#syn(nadra) #syn(desturi itikadi tabia tamaduni utamaduni) #syn(ada desturi forodha testuri))
+#syn(nadra) #syn(-a kidesturi kienyeji desturi itikadi mila) #syn(ada desturi care mhudumu mteja wateja))
 )
 </text>
 </query>
@@ -1905,7 +1905,7 @@
 <text>
 #max(
 #combine(
-#syn(fagia) #syn(nadhifu safi safisha) #syn(chumba) #syn(aria gawa sehemu) #syn(a age komaa) #syn(ai asaiberi ai mwasaiberi corrupt person) #syn(jenga jengo))
+#syn(fagia) #syn(usafishaji nadhifu safi safisha) #syn(chumba vyumba) #syn(aria gawa sehemu) #syn(a age komaa) #syn(ai asaiberi ai mwasaiberi corrupt person) #syn(jenga jengo majengo kujenga))
 )
 </text>
 </query>
@@ -1915,7 +1915,7 @@
 <text>
 #max(
 #combine(
-#syn(kilimo) #syn(pamba plant mpamba plants mipamba) #syn(language lugha asilia uasili))
+#syn(officer bwanashamba kilimo) #syn(pamba plant mpamba plants mipamba) #syn(language lugha asilia uasili mazingira))
 )
 </text>
 </query>
@@ -1925,7 +1925,7 @@
 <text>
 #max(
 #combine(
-#syn(papa) #syn(kichwa man jumbe mkuu office makao) #syn(a age komaa) #syn(woman mama katoliki) #syn(kanisa leaders viongozi wa dini))
+#syn(papa) #syn(kichwa man jumbe mkuu office makao) #syn(a age komaa) #syn(woman mama katoliki) #syn(makanisa kanisa leaders viongozi wa dini))
 )
 </text>
 </query>
@@ -1935,7 +1935,7 @@
 <text>
 #max(
 #combine(
-#syn(elimu))
+#syn(mkuu) #syn(elimisha elimu))
 )
 </text>
 </query>
@@ -1955,7 +1955,7 @@
 <text>
 #max(
 #combine(
-#syn(enzi kizazi) #syn(hirimu miaka umri) #syn(kaumu kikundi kundi makundi) #syn(transport usafiri wa umma umma) #syn(jamaa jamii jumuia jumuiya))
+#syn(jenerali jumla majenerali majenerali enzi kizazi) #syn(uzee hirimu miaka umri) #syn(kaumu kikundi kundi makundi makundi vikundi) #syn(transport usafiri wa umma umma) #syn(mawasiliano mawasiyano ukomunisti majumuiya jamaa jamii))
 )
 </text>
 </query>
@@ -1965,7 +1965,7 @@
 <text>
 #max(
 #combine(
-#syn(usawa) #syn(lines mstari sambamba) #syn(fursa nafasi) #syn(jinsia) #syn(ngono))
+#syn(usawa lines mstari sambamba) #syn(usawa lines mstari sambamba) #syn(fursa nafasi) #syn(jinsia) #syn(ngono))
 )
 </text>
 </query>
@@ -1975,7 +1975,7 @@
 <text>
 #max(
 #combine(
-#syn(dahili faida kipato mafao) #syn(mkulima) #syn(kilimo))
+#syn(dahili faida kipato mafao) #syn(mkulima) #syn(officer bwanashamba kilimo))
 )
 </text>
 </query>
@@ -1985,7 +1985,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(shabaha))
 )
 </text>
 </query>
@@ -1995,7 +1995,7 @@
 <text>
 #max(
 #combine(
-#syn(ku- lie danganya) #syn(igiza kitendo sehemu tenda tendo utendaji) #syn(ndoa) #syn(husiano uhusiano))
+#syn(ku- lie danganya) #syn(igiza uigaji uigizaji kitendo sehemu vitendo) #syn(ndoa) #syn(husiano uhusiano))
 )
 </text>
 </query>
@@ -2015,7 +2015,7 @@
 <text>
 #max(
 #combine(
-#syn(chombo cha habari house vyombo vya))
+#syn(ujamaa usoshalisti) #syn(chombo cha habari house vyombo vya))
 )
 </text>
 </query>
@@ -2045,7 +2045,7 @@
 <text>
 #max(
 #combine(
-#syn(mdahalo) #syn(majadiliano maneno mazungumzo mjadala) #syn(jumapili))
+#syn(mdahalo midahalo) #syn(majadiliano maneno mazungumzo mjadala) #syn(jumapili))
 )
 </text>
 </query>
@@ -2065,7 +2065,7 @@
 <text>
 #max(
 #combine(
-#syn(muungano shirikisho ushirikiano))
+#syn(muungano shirikisho miungano ushirikiano))
 )
 </text>
 </query>
@@ -2075,7 +2075,7 @@
 <text>
 #max(
 #combine(
-#syn(mwanaisimu))
+#syn(tafsiri ufasiri mkalimani) #syn(isimu mwanaisimu))
 )
 </text>
 </query>
@@ -2105,7 +2105,7 @@
 <text>
 #max(
 #combine(
-#syn(chemua chichimua) #syn(a age komaa) #syn(hawa hewa port kiwanja ndege))
+#syn(chafya chemua chichimua) #syn(a age komaa) #syn(hawa hewa port kiwanja ndege))
 )
 </text>
 </query>
@@ -2125,7 +2125,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(mwanablogu))
 )
 </text>
 </query>
@@ -2135,7 +2135,7 @@
 <text>
 #max(
 #combine(
-#syn(amri amrisha oda) #syn(agizo elezo magizo shauri))
+#syn(kamili) #syn(amri amrisha oda) #syn(agizo elezo magizo shauri maagizo maelezo))
 )
 </text>
 </query>
@@ -2145,7 +2145,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(pipa))
 )
 </text>
 </query>
@@ -2155,7 +2155,7 @@
 <text>
 #max(
 #combine(
-#syn(mweka hazina) #syn(afisa afisaa ofisa))
+#syn(dafina mweka hazina) #syn(afisi ofisi afisa afisaa ofisa maafisa))
 )
 </text>
 </query>
@@ -2165,7 +2165,7 @@
 <text>
 #max(
 #combine(
-#syn(madawati madeski) #syn(chetu meza of contents yaliyomo))
+#syn(dawati deski jarari madawati madeski) #syn(chetu meza of contents yaliyomo))
 )
 </text>
 </query>
@@ -2185,7 +2185,7 @@
 <text>
 #max(
 #combine(
-#syn(ndimi))
+#syn(ndimi ulimi))
 )
 </text>
 </query>
@@ -2195,7 +2195,7 @@
 <text>
 #max(
 #combine(
-#syn(beer tangawizi mtangawizi tangawizi) #syn(mmea) #syn(mzizi))
+#syn(beer tangawizi mtangawizi tangawizi) #syn(upanzi mmea mimea) #syn(mzizi mizizi))
 )
 </text>
 </query>
@@ -2205,7 +2205,7 @@
 <text>
 #max(
 #combine(
-#syn(wapangaji))
+#syn(mpangaji wapangaji))
 )
 </text>
 </query>
@@ -2225,7 +2225,7 @@
 <text>
 #max(
 #combine(
-#syn(wateja))
+#syn(ada desturi care mhudumu mteja wateja) #syn(transport usafiri wa umma umma))
 )
 </text>
 </query>
@@ -2235,7 +2235,7 @@
 <text>
 #max(
 #combine(
-#syn(biganya) #syn(a age komaa) #syn(marekodi))
+#syn(biganya) #syn(a age komaa) #syn(rekodi marekodi))
 )
 </text>
 </query>
@@ -2245,7 +2245,7 @@
 <text>
 #max(
 #combine(
-#syn(mwingilizi) #syn(missing finger or toe buge mtu) #syn(chuo taasisi))
+#syn(mwingilizi) #syn(missing finger or toe buge mtu) #syn(auka) #syn(chuo mataasisi vyuo taasisi))
 )
 </text>
 </query>
@@ -2255,7 +2255,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(bahasha))
 )
 </text>
 </query>
@@ -2265,7 +2265,7 @@
 <text>
 #max(
 #combine(
-#syn(na so forth kadhalika))
+#syn(mtahini) #syn(na so forth kadhalika))
 )
 </text>
 </query>
@@ -2275,7 +2275,7 @@
 <text>
 #max(
 #combine(
-#syn(kinyume) #syn(common shirika front mbele front of) #syn(a age komaa))
+#syn(kinyume upinzani) #syn(common shirika front mbele front of) #syn(a age komaa))
 )
 </text>
 </query>
@@ -2285,7 +2285,7 @@
 <text>
 #max(
 #combine(
-#syn(mgongo of the head kisogo) #syn(barabara njia urchin chokora urchins machokora))
+#syn(mgongo of the head kisogo migongo) #syn(barabara njia urchin chokora urchins machokora))
 )
 </text>
 </query>
@@ -2305,7 +2305,7 @@
 <text>
 #max(
 #combine(
-#syn(elimu))
+#syn(elimisha elimu))
 )
 </text>
 </query>
@@ -2315,7 +2315,7 @@
 <text>
 #max(
 #combine(
-#syn(care mhudumu mteja wateja))
+#syn(ada desturi care mhudumu mteja wateja))
 )
 </text>
 </query>
@@ -2325,7 +2325,7 @@
 <text>
 #max(
 #combine(
-#syn(raia somo))
+#syn(yaliyomo) #syn(raia masomo somo) #syn(sanaa))
 )
 </text>
 </query>
@@ -2345,7 +2345,7 @@
 <text>
 #max(
 #combine(
-#syn(kondakta taniboi utingo) #syn(mwajiriwa))
+#syn(kondakta makondakta taniboi utingo) #syn(mwajiriwa waajiriwa))
 )
 </text>
 </query>
@@ -2365,7 +2365,7 @@
 <text>
 #max(
 #combine(
-#syn(jadi kizazi uzao) #syn(sultani) #syn(chenezo masharti))
+#syn(jadi kizazi uzao) #syn(sultani) #syn(chenezo masharti vyenezo))
 )
 </text>
 </query>
@@ -2395,7 +2395,7 @@
 <text>
 #max(
 #combine(
-#syn(ufisadi))
+#syn(ufisadi paramidi))
 )
 </text>
 </query>
@@ -2415,7 +2415,7 @@
 <text>
 #max(
 #combine(
-#syn(mabadiliko mageuko mageuzo) #syn(mazingara mazingira) #syn(change mabadiliko ya anga tabianchi))
+#syn(badili badiliko badilisha chenji geuko geuzo) #syn(mazingara mazingira) #syn(change mabadiliko ya anga tabianchi))
 )
 </text>
 </query>
@@ -2435,7 +2435,7 @@
 <text>
 #max(
 #combine(
-#syn(silaha vilaha))
+#syn(chusa head kigumba mkuki) #syn(silaha silaha vilaha vilaha))
 )
 </text>
 </query>
@@ -2445,7 +2445,7 @@
 <text>
 #max(
 #combine(
-#syn(mshukiwa washukiwa) #syn(mshtakiwa washtakiwa) #syn(a age komaa))
+#syn(mshukiwa washukiwa) #syn(madai mashitaka mshtakiwa washtakiwa mshtaki washtaki) #syn(a age komaa))
 )
 </text>
 </query>
@@ -2455,7 +2455,7 @@
 <text>
 #max(
 #combine(
-#syn(kifaransa))
+#syn(kifaransa) #syn(kaanga))
 )
 </text>
 </query>
@@ -2465,7 +2465,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(kutoweka))
 )
 </text>
 </query>
@@ -2515,7 +2515,7 @@
 <text>
 #max(
 #combine(
-#syn(piga simu simu))
+#syn(utengaji utengano) #syn(fleti ghorofa) #syn(piga simu simu))
 )
 </text>
 </query>
@@ -2525,7 +2525,7 @@
 <text>
 #max(
 #combine(
-#syn(kuwa responsible wajibika surfeited kinai troubled))
+#syn(matendo) #syn(mean ubanifu respectful adhimu respectful akrama))
 )
 </text>
 </query>
@@ -2535,7 +2535,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(chinja) #syn(mchinjaji))
 )
 </text>
 </query>
@@ -2555,7 +2555,7 @@
 <text>
 #max(
 #combine(
-#syn(kionjo) #syn(kileo pombe kali))
+#syn(kionjo vionjo) #syn(kileo pombe kali))
 )
 </text>
 </query>
@@ -2585,7 +2585,7 @@
 <text>
 #max(
 #combine(
-#syn(jina taja) #syn(kashfa) #syn(transport usafiri wa umma umma))
+#syn(jina majina taja) #syn(kashfa) #syn(transport usafiri wa umma umma))
 )
 </text>
 </query>
@@ -2605,7 +2605,7 @@
 <text>
 #max(
 #combine(
-#syn(kiitikio) #syn(mmenyuko) #syn(piga simu simu) #syn(mawasiliano mawasiyano))
+#syn(kiitikio viitikio majukumu daraka jukumu madaraka) #syn(mmenyuko) #syn(piga simu simu) #syn(mawasiliano mawasiyano ukomunisti majumuiya jamaa jamii))
 )
 </text>
 </query>
@@ -2615,7 +2615,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(kichuguu kishugu))
 )
 </text>
 </query>
@@ -2625,7 +2625,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(usafiri safirisha uchukuzi))
 )
 </text>
 </query>
@@ -2655,7 +2655,7 @@
 <text>
 #max(
 #combine(
-#syn(msimu) #syn(chaka kiangazi kipindi cha kiangazi majira))
+#syn(msimu misimu) #syn(chaka kiangazi kipindi cha kiangazi majira))
 )
 </text>
 </query>
@@ -2665,7 +2665,7 @@
 <text>
 #max(
 #combine(
-#syn(chemichemi kipindi cha demani kisima kosa) #syn(msimu))
+#syn(chemichemi kipindi cha demani kisima kosa) #syn(msimu misimu))
 )
 </text>
 </query>
@@ -2675,7 +2675,7 @@
 <text>
 #max(
 #combine(
-#syn(seas majimakuu) #syn(haraka kasi spidi) #syn(kanuni sheria))
+#syn(seas majimakuu) #syn(haraka kasi spidi) #syn(halali kanuni sheria))
 )
 </text>
 </query>
@@ -2695,7 +2695,7 @@
 <text>
 #max(
 #combine(
-#syn(michezo rangi))
+#syn(ya rangi nyingi michezo rangi))
 )
 </text>
 </query>
@@ -2705,7 +2705,7 @@
 <text>
 #max(
 #combine(
-#syn(kuua) #syn(chance kwa nasibu choice hiari choice) #syn(time to time mara kwa mara) #syn(ai asaiberi ai mwasaiberi corrupt person) #syn(kamba utari) #syn(makazi nyumbani stead boma) #syn(makao))
+#syn(kuua) #syn(chance kwa nasibu choice hiari choice) #syn(time to time mara kwa mara) #syn(ai asaiberi ai mwasaiberi corrupt person) #syn(kamba utari) #syn(makazi nyumbani stead boma) #syn(makao makaazi makao mkaazi mkazi mwenyeji))
 )
 </text>
 </query>
@@ -2715,7 +2715,7 @@
 <text>
 #max(
 #combine(
-#syn(msoto) #syn(miguu) #syn(cells chembechembe za mwili hair laika) #syn(aria gawa sehemu))
+#syn(msoto) #syn(mguu miguu sura) #syn(miili viwiliwili cells chembechembe za mwili) #syn(aria gawa sehemu))
 )
 </text>
 </query>
@@ -2725,7 +2725,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(hema))
 )
 </text>
 </query>
@@ -2735,7 +2735,7 @@
 <text>
 #max(
 #combine(
-#syn(chakula lishe mlo price bei ya) #syn(virutubisho) #syn(sumu))
+#syn(chakula lishe mlo price bei ya) #syn(virutubisho) #syn(food chakula cha sumu sumu))
 )
 </text>
 </query>
@@ -2745,7 +2745,7 @@
 <text>
 #max(
 #combine(
-#syn(michezo news habari za michezo spoti))
+#syn(riadha michezo news habari za michezo))
 )
 </text>
 </query>
@@ -2755,7 +2755,7 @@
 <text>
 #max(
 #combine(
-#syn(company kampuni ya kibinafsi hair mvuzi) #syn(sekta) #syn(uchumi) #syn(maradhi ugonjwa) #syn(ugonjwa))
+#syn(company kampuni ya kibinafsi hair mvuzi) #syn(sekta) #syn(uchumi) #syn(maradhi magonjwa ugonjwa) #syn(- gonjwa ugonjwa))
 )
 </text>
 </query>
@@ -2765,7 +2765,7 @@
 <text>
 #max(
 #combine(
-#syn(kesheshe rabsha) #syn(vamia))
+#syn(kesheshe rabsha) #syn(vamia) #syn(fizikia))
 )
 </text>
 </query>
@@ -2785,7 +2785,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(chanjo))
 )
 </text>
 </query>
@@ -2805,7 +2805,7 @@
 <text>
 #max(
 #combine(
-#syn(amani salama))
+#syn(amani salama) #syn(nena sema zungumza))
 )
 </text>
 </query>
@@ -2815,7 +2815,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(kua kukuza kuza))
 )
 </text>
 </query>
@@ -2825,7 +2825,7 @@
 <text>
 #max(
 #combine(
-#syn(jike kike slave mjakazi) #syn(habusu mabusu mfungwa mhabusu))
+#syn(jike kike slave mjakazi) #syn(habusu mabusu mfungwa mhabusu mahabusu jela))
 )
 </text>
 </query>
@@ -2845,7 +2845,7 @@
 <text>
 #max(
 #combine(
-#syn(ghazi song zumo vita) #syn(jinai uhalifu) #syn(mwongozo uongozi utawala))
+#syn(ghazi mighazi song zumo vita) #syn(jinai uhalifu) #syn(mwongozo uongozi utawala))
 )
 </text>
 </query>
@@ -2865,7 +2865,7 @@
 <text>
 #max(
 #combine(
-#syn(askari chunga linda mlinzi walinzi) #syn(office posta) #syn(jiua))
+#syn(askari chunga linda mlinzi maaskari walinzi) #syn(office posta) #syn(jiua) #syn(muuaji mwangamizi mwuaji waangamizaji wauaji))
 )
 </text>
 </query>
@@ -2875,7 +2875,7 @@
 <text>
 #max(
 #combine(
-#syn(cake kibibi flour bwibwi mchele mpunga) #syn(mapishi pot sufuria stick mwiko))
+#syn(cake kibibi flour bwibwi mchele mpunga) #syn(kaanga) #syn(rice wali mapishi pot sufuria stick))
 )
 </text>
 </query>
@@ -2885,7 +2885,7 @@
 <text>
 #max(
 #combine(
-#syn(mmea))
+#syn(upanzi mmea mimea))
 )
 </text>
 </query>
@@ -2895,7 +2895,7 @@
 <text>
 #max(
 #combine(
-#syn(maelfu of hectors maelfu ya hekari) #syn(khadaa) #syn(alfu elfu))
+#syn(alfu elfu maelfu of hectors maelfu) #syn(khadaa) #syn(alfu elfu maelfu of hectors maelfu) #syn(maandamano))
 )
 </text>
 </query>
@@ -2925,7 +2925,7 @@
 <text>
 #max(
 #combine(
-#syn(maombi ombi) #syn(mvyele mzazi))
+#syn(sihi) #syn(maombi ombi maombi) #syn(mvyele mzazi wavyele wazazi))
 )
 </text>
 </query>
@@ -2935,7 +2935,7 @@
 <text>
 #max(
 #combine(
-#syn(kileo pombe kali) #syn(mara muda mwia nafasi nyakati saa) #syn(awamu majira mda muda nukta zamani) #syn(a age komaa) #syn(after tomorrow kesho kutwa before yesterday))
+#syn(kinyuaji kinywaji kunywa vinyuaji unywaji) #syn(kileo pombe kali) #syn(mara muda mwia nafasi nyakati saa) #syn(awamu majira mda muda nukta zamani) #syn(a age komaa) #syn(after tomorrow kesho kutwa before yesterday))
 )
 </text>
 </query>
@@ -2945,7 +2945,7 @@
 <text>
 #max(
 #combine(
-#syn(garimoshi gari moshi treni) #syn(gari motokaa patrol gari la doria))
+#syn(garimoshi gari moshi magari moshi treni) #syn(gari motokaa patrol gari la doria) #syn(hudumu tumika) #syn(abiria))
 )
 </text>
 </query>
@@ -2955,7 +2955,7 @@
 <text>
 #max(
 #combine(
-#syn(jeshi la wanamaji) #syn(jihami))
+#syn(jeshi la wanamaji) #syn(jihami mkono pit makwapa mikono) #syn(huduma hudumia))
 )
 </text>
 </query>
@@ -2975,7 +2975,7 @@
 <text>
 #max(
 #combine(
-#syn(adhabu))
+#syn(adhibu adhabu))
 )
 </text>
 </query>
@@ -2985,7 +2985,7 @@
 <text>
 #max(
 #combine(
-#syn(bandia) #syn(baindi bandia) #syn(elektroniki))
+#syn(bandia) #syn(baindi bandia) #syn(elektroni ektroniki elektroniki))
 )
 </text>
 </query>
@@ -3005,7 +3005,7 @@
 <text>
 #max(
 #combine(
-#syn(mkanda mshipi) #syn(bendi))
+#syn(mkanda mshipi mikanda mishipi) #syn(utetezi) #syn(bendi))
 )
 </text>
 </query>
@@ -3015,7 +3015,7 @@
 <text>
 #max(
 #combine(
-#syn(helmeti kofia ya chuma) #syn(barabara njia) #syn(usalama))
+#syn(guineafowl chepeo helmeti kofia ya chuma) #syn(barabara njia) #syn(usalama))
 )
 </text>
 </query>
@@ -3025,7 +3025,7 @@
 <text>
 #max(
 #combine(
-#syn(chapa rajamu) #syn(mshikadau))
+#syn(chapa rajamu machapa) #syn(mshikadau washikadau))
 )
 </text>
 </query>
@@ -3035,7 +3035,7 @@
 <text>
 #max(
 #combine(
-#syn(leader kiongozi wa siasa leaders viongozi))
+#syn(upole leader kiongozi wa siasa leaders) #syn(matendo))
 )
 </text>
 </query>
@@ -3045,7 +3045,7 @@
 <text>
 #max(
 #combine(
-#syn(mrija tyubu) #syn(au) #syn(kichaa))
+#syn(mrija mirija tyubu) #syn(fizikia) #syn(au) #syn(kichaa) #syn(kisima))
 )
 </text>
 </query>
@@ -3055,7 +3055,7 @@
 <text>
 #max(
 #combine(
-#syn(mkato) #syn(au) #syn(mamna mbinu njia) #syn(kanuni sheria))
+#syn(mkato) #syn(au) #syn(mamna mbinu njia) #syn(halali kanuni sheria))
 )
 </text>
 </query>
@@ -3065,7 +3065,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(msafiri msafiri wasafiri safari safiri))
 )
 </text>
 </query>
@@ -3105,7 +3105,7 @@
 <text>
 #max(
 #combine(
-#syn(kichefuchefu) #syn(msamaha))
+#syn(kichefuchefu) #syn(msamaha samehe))
 )
 </text>
 </query>
@@ -3115,7 +3115,7 @@
 <text>
 #max(
 #combine(
-#syn(jenerali jumla majenerali) #syn(uchaguzi))
+#syn(jenerali jumla majenerali majenerali enzi kizazi) #syn(bai kura uchaguzi uteuzi))
 )
 </text>
 </query>
@@ -3125,7 +3125,7 @@
 <text>
 #max(
 #combine(
-#syn(mabadiliko mageuko mageuzo) #syn(ya) #syn(being binadamu being mwanadamu beings wanadamu) #syn(cells chembechembe za mwili hair laika))
+#syn(fizikia) #syn(badili badiliko badilisha chenji geuko geuzo) #syn(ya) #syn(being binadamu being mwanadamu beings wanadamu) #syn(miili viwiliwili cells chembechembe za mwili))
 )
 </text>
 </query>
@@ -3135,7 +3135,7 @@
 <text>
 #max(
 #combine(
-#syn(damu money diya) #syn(mchango))
+#syn(damu money diya) #syn(mchango michango))
 )
 </text>
 </query>
@@ -3145,7 +3145,7 @@
 <text>
 #max(
 #combine(
-#syn(kimataifa news taarifa za kimataifa))
+#syn(kimataifa news taarifa za kimataifa) #syn(ukoo))
 )
 </text>
 </query>
@@ -3155,7 +3155,7 @@
 <text>
 #max(
 #combine(
-#syn(bustani kore shamba) #syn(shamba uwanja) #syn(mmea))
+#syn(bustani kore shamba makore) #syn(shamba uwanja) #syn(upanzi mmea mimea) #syn(mboga mmea))
 )
 </text>
 </query>
@@ -3165,7 +3165,7 @@
 <text>
 #max(
 #combine(
-#syn(safari safiri) #syn(safari safiri))
+#syn(msafiri msafiri wasafiri safari safiri) #syn(safari safiri))
 )
 </text>
 </query>
@@ -3175,7 +3175,7 @@
 <text>
 #max(
 #combine(
-#syn(turufu) #syn(leader kiongozi wa siasa leaders viongozi))
+#syn(turufu) #syn(upole leader kiongozi wa siasa leaders))
 )
 </text>
 </query>
@@ -3195,7 +3195,7 @@
 <text>
 #max(
 #combine(
-#syn(miraa mirungi) #syn(biashara) #syn(na so forth kadhalika))
+#syn(miraa mirungi) #syn(biashara) #syn(kununua nunua) #syn(na so forth kadhalika) #syn(uza))
 )
 </text>
 </query>
@@ -3215,7 +3215,7 @@
 <text>
 #max(
 #combine(
-#syn(farm chalo farms machalo))
+#syn(farm chalo farms machalo) #syn(fora umaarufu))
 )
 </text>
 </query>
@@ -3235,7 +3235,7 @@
 <text>
 #max(
 #combine(
-#syn(leader kiongozi wa siasa leaders viongozi) #syn(chama kundi safu) #syn(katiba) #syn(kanuni sheria))
+#syn(upole leader kiongozi wa siasa leaders) #syn(vyama chama kundi safu) #syn(changes mabadiliko ya kikatiba law sheria) #syn(halali kanuni sheria))
 )
 </text>
 </query>
@@ -3245,7 +3245,7 @@
 <text>
 #max(
 #combine(
-#syn(krismasi) #syn(usalama))
+#syn(krismasi) #syn(salamu usalamu usalama))
 )
 </text>
 </query>
@@ -3265,7 +3265,7 @@
 <text>
 #max(
 #combine(
-#syn(kampuni) #syn(malumbano) #syn(a age komaa) #syn(maslahi riba))
+#syn(pole mlingoti wa umeme poles milingoti) #syn(makampuni kampuni) #syn(malumbano) #syn(a age komaa) #syn(maslahi riba))
 )
 </text>
 </query>
@@ -3275,7 +3275,7 @@
 <text>
 #max(
 #combine(
-#syn(jini mzuka) #syn(mfanyakazi) #syn(a age komaa) #syn(chuo taasisi) #syn(bali lakini walakini) #syn(hakuna hapana problem hakuna matata si) #syn(cloth demu kazi kufanya kazi))
+#syn(jini mzuka majini mizuka) #syn(mfanyakazi) #syn(a age komaa) #syn(chuo mataasisi vyuo taasisi) #syn(bali lakini walakini) #syn(hakuna hapana problem hakuna matata si) #syn(cloth demu kazi kufanya kazi))
 )
 </text>
 </query>
@@ -3285,7 +3285,7 @@
 <text>
 #max(
 #combine(
-#syn(msuli))
+#syn(msuli misuli))
 )
 </text>
 </query>
@@ -3295,7 +3295,7 @@
 <text>
 #max(
 #combine(
-#syn(maradhi ugonjwa))
+#syn(maradhi magonjwa ugonjwa))
 )
 </text>
 </query>
@@ -3315,7 +3315,7 @@
 <text>
 #max(
 #combine(
-#syn(time to time mara kwa mara) #syn(nguvu))
+#syn(mwekaji rubuni uwekaji) #syn(time to time mara kwa mara) #syn(nguvu))
 )
 </text>
 </query>
@@ -3335,7 +3335,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(kigeuzi mtambo wa transfoma transfoma))
 )
 </text>
 </query>
@@ -3345,7 +3345,7 @@
 <text>
 #max(
 #combine(
-#syn(historia) #syn(yaliyopita) #syn(matukio visa))
+#syn(historia) #syn(bandika bandiko yaliyopita) #syn(kisa matukio visa tukio))
 )
 </text>
 </query>
@@ -3365,7 +3365,7 @@
 <text>
 #max(
 #combine(
-#syn(khuendelea maendeleo ustawishaji))
+#syn(ujamaa usoshalisti) #syn(khuendelea maendeleo ustawishaji))
 )
 </text>
 </query>
@@ -3395,7 +3395,7 @@
 <text>
 #max(
 #combine(
-#syn(pasaka))
+#syn(pasaka) #syn(sherehe tafrija))
 )
 </text>
 </query>
@@ -3405,7 +3405,7 @@
 <text>
 #max(
 #combine(
-#syn(leader kiongozi wa siasa leaders viongozi) #syn(mwongozo uongozi utawala))
+#syn(upole leader kiongozi wa siasa leaders) #syn(mwongozo uongozi utawala))
 )
 </text>
 </query>
@@ -3425,7 +3425,7 @@
 <text>
 #max(
 #combine(
-#syn(matumizi) #syn(a age komaa) #syn(language lugha asilia uasili) #syn(gesi giant pandikizi la gesi))
+#syn(faida matumizi) #syn(a age komaa) #syn(language lugha asilia uasili mazingira) #syn(gesi giant pandikizi la gesi))
 )
 </text>
 </query>
@@ -3435,7 +3435,7 @@
 <text>
 #max(
 #combine(
-#syn(chuo kikuu) #syn(chuo taasisi))
+#syn(ulimwengu chuo kikuu) #syn(chuo mataasisi vyuo taasisi))
 )
 </text>
 </query>
@@ -3445,7 +3445,7 @@
 <text>
 #max(
 #combine(
-#syn(kadinoli kardinali) #syn(mwelekeo))
+#syn(kadinoli kardinali makadinoli) #syn(mwelekeo mielekeo))
 )
 </text>
 </query>
@@ -3485,7 +3485,7 @@
 <text>
 #max(
 #combine(
-#syn(anthem wimbo wa taifa congresses makongamano) #syn(hopitali hospitali))
+#syn(anthem wimbo wa taifa congresses makongamano) #syn(hopitali hospitali mahospitali))
 )
 </text>
 </query>
@@ -3495,7 +3495,7 @@
 <text>
 #max(
 #combine(
-#syn(animal mfugo animals mifugo) #syn(and orders sera na taratibu sera))
+#syn(animal mfugo animals mifugo) #syn(masera and orders sera na taratibu))
 )
 </text>
 </query>
@@ -3515,7 +3515,7 @@
 <text>
 #max(
 #combine(
-#syn(almasi uru))
+#syn(almasi uru uru) #syn(chimbo mgodi shimo machimbo))
 )
 </text>
 </query>
@@ -3525,7 +3525,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(uchumi))
 )
 </text>
 </query>
@@ -3535,7 +3535,7 @@
 <text>
 #max(
 #combine(
-#syn(kuku louse utitiri nyama ya kuku) #syn(wanyama))
+#syn(kuku louse utitiri nyama ya kuku) #syn(from the dead fufua) #syn(kinyama mnyama wanyama waste kinyesi))
 )
 </text>
 </query>
@@ -3545,7 +3545,7 @@
 <text>
 #max(
 #combine(
-#syn(mbolea) #syn(mbolea mboleya) #syn(kijiji) #syn(changa dogo kidogo lumb of flour) #syn(council baraza la mji mji mjini))
+#syn(rotuba mbolea) #syn(mbolea mboleya) #syn(kijiji mwanakijiji) #syn(changa dogo kidogo lumb of flour) #syn(council baraza la mji mji mjini))
 )
 </text>
 </query>
@@ -3565,7 +3565,7 @@
 <text>
 #max(
 #combine(
-#syn(rasmi) #syn(notisi tangazo) #syn(ajira) #syn(cloth demu kazi kufanya kazi))
+#syn(rasmi) #syn(notisi tangazo) #syn(mwajiri waajiri ajira) #syn(cloth demu kazi kufanya kazi))
 )
 </text>
 </query>
@@ -3575,7 +3575,7 @@
 <text>
 #max(
 #combine(
-#syn(serikali) #syn(usaidizi) #syn(biashara card kadi kazi license leseni))
+#syn(serikali) #syn(ukimwi usaidizi) #syn(biashara card kadi kazi license leseni))
 )
 </text>
 </query>
@@ -3595,7 +3595,7 @@
 <text>
 #max(
 #combine(
-#syn(valley bonde la ufa) #syn(bonde) #syn(upanzi) #syn(kilimo))
+#syn(valley bonde la ufa) #syn(bonde mabonde) #syn(upanzi mmea mimea) #syn(officer bwanashamba kilimo))
 )
 </text>
 </query>
@@ -3615,7 +3615,7 @@
 <text>
 #max(
 #combine(
-#syn(sadaka) #syn(sadaka toleo) #syn(barabara njia) #syn(ai asaiberi ai mwasaiberi corrupt person) #syn(mamna mbinu njia) #syn(example kwa mfano kwa kwani) #syn(safari safiri))
+#syn(sadaka) #syn(sadaka matoleo toleo) #syn(barabara njia) #syn(ai asaiberi ai mwasaiberi corrupt person) #syn(mamna mbinu njia) #syn(example kwa mfano kwa kwani) #syn(msafiri msafiri wasafiri safari safiri))
 )
 </text>
 </query>
@@ -3625,7 +3625,7 @@
 <text>
 #max(
 #combine(
-#syn(biashara card kadi kazi license leseni) #syn(mikopo mkopo) #syn(anthem wimbo wa taifa congresses makongamano) #syn(deni))
+#syn(biashara card kadi kazi license leseni) #syn(mikopo mkopo mikopo) #syn(anthem wimbo wa taifa congresses makongamano) #syn(deni))
 )
 </text>
 </query>
@@ -3635,7 +3635,7 @@
 <text>
 #max(
 #combine(
-#syn(kisa tukio))
+#syn(shirika mashirika panga maungo ungo) #syn(kisa matukio visa tukio) #syn(jiri matukiyo tokea tukia tukiyo))
 )
 </text>
 </query>
@@ -3645,7 +3645,7 @@
 <text>
 #max(
 #combine(
-#syn(misheni) #syn(kanisa leaders viongozi wa dini) #syn(hopitali hospitali))
+#syn(misheni) #syn(makanisa kanisa leaders viongozi wa dini) #syn(hopitali hospitali mahospitali))
 )
 </text>
 </query>
@@ -3655,7 +3655,7 @@
 <text>
 #max(
 #combine(
-#syn(sindano))
+#syn(dunga) #syn(sindano) #syn(mlanguzi mtumiaji mtumizi))
 )
 </text>
 </query>
@@ -3665,7 +3665,7 @@
 <text>
 #max(
 #combine(
-#syn(chana chozi mraruo))
+#syn(chana chozi mraruo machozi) #syn(kiliyo lia))
 )
 </text>
 </query>
@@ -3685,7 +3685,7 @@
 <text>
 #max(
 #combine(
-#syn(visawe))
+#syn(kisawe sinonimu visawe utata))
 )
 </text>
 </query>
@@ -3695,7 +3695,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(gitaa Gitaa))
 )
 </text>
 </query>
@@ -3705,7 +3705,7 @@
 <text>
 #max(
 #combine(
-#syn(magereji) #syn(behewa chest kasha chests makasha))
+#syn(gereji magereji) #syn(behewa chest kasha chests makasha))
 )
 </text>
 </query>
@@ -3715,7 +3715,7 @@
 <text>
 #max(
 #combine(
-#syn(milingoti))
+#syn(mlingoti) #syn(mlingoti milingoti))
 )
 </text>
 </query>
@@ -3725,7 +3725,7 @@
 <text>
 #max(
 #combine(
-#syn(wadai))
+#syn(mdai mkopeshaji wadai))
 )
 </text>
 </query>
@@ -3735,7 +3735,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(dokeza eleza simua))
 )
 </text>
 </query>
@@ -3805,7 +3805,7 @@
 <text>
 #max(
 #combine(
-#syn(matakwa) #syn(fedha ghawazi ndarama pesa plant chazi))
+#syn(haja hitaji matakwa uhitaji) #syn(fedha ghawazi ndarama pesa plant chazi))
 )
 </text>
 </query>
@@ -3815,7 +3815,7 @@
 <text>
 #max(
 #combine(
-#syn(people mashupavu person shupavu) #syn(aushi maisha sever boats mashuaokozi trend))
+#syn(usugu people mashupavu person shupavu) #syn(aushi maisha sever boats mashuaokozi trend))
 )
 </text>
 </query>
@@ -3835,7 +3835,7 @@
 <text>
 #max(
 #combine(
-#syn(jinai uhalifu))
+#syn(jinai uhalifu) #syn(chunguza dadisi ukale mchunguzi wachunguzi))
 )
 </text>
 </query>
@@ -3855,7 +3855,7 @@
 <text>
 #max(
 #combine(
-#syn(bwana mabwana mungu rabi rahimu))
+#syn(muumini waumini) #syn(bwana mabwana mungu rabi rahimu creation))
 )
 </text>
 </query>
@@ -3885,7 +3885,7 @@
 <text>
 #max(
 #combine(
-)
+#syn(daktari dokta madaktari))
 )
 </text>
 </query>
@@ -3895,7 +3895,7 @@
 <text>
 #max(
 #combine(
-#syn(kuwinda) #syn(kinyama mnyama waste kinyesi))
+#syn(uwindaji uwindo kuwinda) #syn(kinyama mnyama wanyama waste kinyesi))
 )
 </text>
 </query>
@@ -3915,7 +3915,7 @@
 <text>
 #max(
 #combine(
-#syn(kitabu vitabu))
+#syn(kitabu vitabu vitabu))
 )
 </text>
 </query>
@@ -3945,7 +3945,7 @@
 <text>
 #max(
 #combine(
-#syn(mamba ngwena) #syn(machozi))
+#syn(mamba ngwena) #syn(chana chozi mraruo machozi) #syn(kiliyo lia))
 )
 </text>
 </query>
@@ -3955,7 +3955,7 @@
 <text>
 #max(
 #combine(
-#syn(people wagonjwa) #syn(kampuni))
+#syn(ugonjwa people wagonjwa) #syn(makampuni kampuni))
 )
 </text>
 </query>
@@ -3965,7 +3965,7 @@
 <text>
 #max(
 #combine(
-#syn(home makaazi ya mtoto wana watoto) #syn(ant siafu jeshi men wanajeshi mwanajeshi))
+#syn(home makaazi ya mtoto wana watoto) #syn(majeshi ant siafu jeshi men wanajeshi))
 )
 </text>
 </query>
@@ -3995,7 +3995,7 @@
 <text>
 #max(
 #combine(
-#syn(hakimu))
+#syn(hakimu mahakimu))
 )
 </text>
 </query>
