@@ -62,7 +62,8 @@ te_calc_aqwv (const EPI *epi, const REL_INFO *rel_info, const RESULTS *results,
 
     double p_miss = (double) (res_rels.num_rel-rel_so_far )/(double)(res_rels.num_rel);
     double p_fa = (double)(res_rels.num_ret-rel_so_far)/(double)(epi->num_docs_in_coll-rel_so_far);
-    double beta = 20.0;
+    double p_r = (double)(rel_so_far)/epi->num_docs_in_coll;
+    double beta = (double)(0.033/1.0*(1/p_r-1));
     /* Average over the rel docs */
     if (rel_so_far) {
 	eval->values[tm->eval_index].value = 1.0 - (p_miss+ beta*p_fa);
