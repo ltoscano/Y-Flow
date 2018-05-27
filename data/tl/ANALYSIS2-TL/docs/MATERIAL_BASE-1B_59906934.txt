@@ -1,0 +1,283 @@
+0.000	outLine	ano ba pag-uusapan natin ?
+0.000	inLine	<no-speech>
+1.210	outLine	<no-speech>
+1.415	inLine	nasa basketball ?
+2.750	outLine	bakit 'yon ?
+3.135	inLine	<no-speech>
+3.502	outLine	ano kumusta <int> ?
+4.355	inLine	hello hello ?
+4.975	inLine	<no-speech>
+5.030	outLine	<no-speech>
+6.615	inLine	ha ?
+7.235	inLine	<no-speech>
+8.475	inLine	si ano si Jeremy Lin sa New York Knicks .
+12.265	inLine	<no-speech>
+12.530	outLine	sino bang paborito mong <int> .
+13.990	outLine	<no-speech>
+14.025	inLine	lupit <hes> no ?
+14.911	inLine	kaya kaya niya 'yong ano .
+16.185	inLine	<no-speech>
+17.185	inLine	hoy si ano si Lebron James pa rin ako kahit sikat si Jeremy Lin .
+21.580	outLine	oo .
+21.762	inLine	kahit Asian .
+22.210	outLine	<no-speech>
+22.615	inLine	<no-speech>
+23.120	outLine	paborito ko rin 'yon .
+23.695	inLine	ikaw ba .
+24.132	outLine	<int> paborito ko rin .
+24.335	inLine	<no-speech>
+25.530	outLine	<no-speech>
+26.155	inLine	ikaw ba sino ba favorite mo ?
+27.695	inLine	<no-speech>
+28.020	outLine	sa N_B_A napakagaling ni <hes> Nowitzki .
+29.045	inLine	ha .
+29.605	inLine	<no-speech>
+30.695	inLine	sino ?
+30.804	outLine	para sa akin si Nowitzki .
+31.335	inLine	<no-speech>
+32.289	outLine	N_B_A .
+33.190	outLine	<no-speech>
+34.655	inLine	ah .
+35.410	outLine	Nowitzki .
+35.535	inLine	<no-speech>
+36.190	outLine	'tsaka si <hes> Nowitzki .
+36.825	inLine	sino ?
+37.385	inLine	<no-speech>
+38.100	outLine	<no-speech>
+40.270	outLine	kilala mo ba 'yon ?
+41.090	outLine	<no-speech>
+41.485	inLine	ha .
+42.257	inLine	ako si Lebron .
+43.245	inLine	<no-speech>
+43.700	outLine	Lebron 'tsaka si Derrick Rose <int> .
+44.305	inLine	hindi <hes> .
+44.977	inLine	Lebron ano %incomplete
+45.740	outLine	<no-speech>
+46.755	inLine	anong team ba 'yon ?
+47.660	outLine	ha ?
+47.715	inLine	<no-speech>
+48.150	outLine	<no-speech>
+48.575	inLine	'yon Derrick Rose .
+49.640	outLine	si Derrick Rose .
+49.957	inLine	sa Chicago .
+50.331	outLine	<no-speech>
+51.077	outLine	oo idol ko 'yon .
+51.395	inLine	<no-speech>
+53.021	outLine	<int> 'di mo ba alam ?
+53.375	inLine	ah oo kaya %incomplete
+53.920	outLine	<no-speech>
+54.107	inLine	ayon malupit din 'yon <hes> .
+55.230	outLine	ha ?
+55.659	inLine	oo .
+55.660	outLine	hindi mo ba alam ng pinaka-modus nila ano .
+56.835	inLine	<no-speech>
+58.245	inLine	si ano Lebron James ako .
+58.810	outLine	<no-speech>
+59.755	inLine	<no-speech>
+59.850	outLine	ha ?
+60.330	outLine	<no-speech>
+61.510	outLine	oo .
+62.009	outLine	magaling din 'yon pero idol ko talaga si Derrick Rose .
+63.395	inLine	ha ?
+63.905	inLine	<no-speech>
+65.150	outLine	<no-speech>
+66.950	outLine	siguro basta P_B_A napakaganda rin .
+68.075	inLine	Derrick Rose .
+68.960	outLine	<no-speech>
+69.009	inLine	nagkabunggo na dati 'yan <hes> .
+70.310	outLine	ha ?
+70.525	inLine	<no-speech>
+70.820	outLine	<no-speech>
+72.335	inLine	<no-speech>
+72.945	inLine	sino sa P_B_A ang team mo ?
+74.775	inLine	<no-speech>
+75.310	outLine	ha <int> ?
+75.800	outLine	<no-speech>
+77.795	inLine	ano team mo sa P_B_A ?
+79.315	inLine	<no-speech>
+79.360	outLine	P_B_A sa akin Talk and text siyempre number one sa akin 'yon .
+82.760	outLine	<no-speech>
+84.110	outLine	'yon na nga nag-champion ngayon taon <hes> Talk N' Text .
+84.495	inLine	o siyempre ayan .
+85.774	inLine	Talk N text din ako .
+86.845	inLine	<no-speech>
+87.276	outLine	idol namin 'yon .
+88.489	outLine	<laugh> idol ko 'yon <hes> .
+88.495	inLine	kaya nga o .
+89.372	inLine	ang galing 'di ba ?
+90.304	inLine	Fonacier .
+91.016	outLine	'di ba noong ano noong final nagka- -- nagkapikunan si Alapag at si ano .
+91.085	inLine	<no-speech>
+91.885	inLine	<no-speech>
+92.465	inLine	<no-speech>
+93.825	inLine	sino idol mo sa Talk N text ?
+95.105	inLine	<no-speech>
+96.245	inLine	ha .
+96.815	inLine	<no-speech>
+97.340	outLine	<no-speech>
+98.300	outLine	'yong isang kalaban nila sa .
+100.320	outLine	<no-speech>
+101.820	outLine	'yu- -- sino ba 'yon kalaban nila 'yon ?
+103.230	outLine	<no-speech>
+104.385	inLine	sa ano ?
+105.525	inLine	<no-speech>
+106.785	inLine	ano Powerade sila Gary David .
+107.500	outLine	Powerade oo .
+108.425	inLine	<no-speech>
+108.590	outLine	sobra tambak <hes> <laugh> .
+111.737	outLine	tambak ang kalaban .
+111.805	inLine	sino nakapikunan ?
+112.666	outLine	ha ?
+113.150	outLine	<no-speech>
+113.245	inLine	sinong nakapikunan niya <int> ?
+115.025	inLine	<no-speech>
+115.070	outLine	nakaano ?
+115.577	outLine	<no-speech>
+115.730	outLine	<no-speech>
+116.035	inLine	sino nakapikunan ni Alapag do'n ?
+117.625	inLine	<no-speech>
+118.050	outLine	'yong <no-speech> 'di ko masyadong ano <hes> .
+118.745	inLine	sino nakapikunan ?
+119.975	inLine	<no-speech>
+121.320	outLine	<no-speech>
+122.180	outLine	'di ko masyadong kilala parang <hes> .
+124.110	outLine	<no-speech>
+124.535	inLine	<no-speech>
+125.345	inLine	<no-speech>
+126.175	inLine	tanga hindi si Gary David ?
+127.755	inLine	<no-speech>
+127.980	outLine	(()) ?
+128.641	outLine	'di naman si Jarisen ?
+129.844	outLine	'yan ang gumagawa sa Poweraid <hes> .
+131.015	inLine	hindi si Gary David .
+132.045	inLine	<no-speech>
+132.673	outLine	si Gary David <hes> .
+132.935	inLine	sundo .
+133.465	inLine	<no-speech>
+133.910	outLine	<no-speech>
+135.545	inLine	oo nga <hes> .
+136.777	inLine	'no granada 'no ?
+137.000	outLine	awa ang desisyon <hes> .
+138.070	outLine	<no-speech>
+138.131	inLine	sa Talk N' Text .
+139.835	inLine	<no-speech>
+140.460	outLine	Talk N' Text .
+140.645	inLine	sino ano mo do'n %incomplete
+141.120	outLine	<no-speech>
+141.731	inLine	sino bet mo ?
+142.645	inLine	<no-speech>
+142.690	outLine	siyempre si -- <hes> wala pa rin sa katulad si Alapag para sa akin sa bilis- -- <no-speech> sa bilis- -- ng pag- -- <int> pagdadala ng bola .
+144.345	inLine	oo .
+144.955	inLine	<no-speech>
+149.055	inLine	Alapag pa rin sa 'yo ?
+149.066	outLine	oo 'tsaka sa pag-da-dunk naman si Aguilar grabe .
+150.265	inLine	<no-speech>
+151.245	inLine	ah .
+151.891	inLine	si Mighty Mouse .
+152.950	outLine	<no-speech>
+153.025	inLine	<no-speech>
+154.810	outLine	si Aguilar ang matindi .
+155.695	inLine	ah oo no .
+155.940	outLine	<no-speech>
+156.870	outLine	oo .
+157.007	inLine	parang wala lang sa kanya 'yon daw .
+157.430	outLine	<no-speech>
+158.530	outLine	ah okey .
+158.782	inLine	<no-speech>
+159.273	outLine	ano ba ang height no'n ?
+159.643	inLine	pero para sa 'kin ang manok ko do'n si Fonacier .
+160.206	outLine	<no-speech>
+161.080	outLine	<no-speech>
+163.010	outLine	ay bonus sir oo 'yon ba ?
+163.045	inLine	<no-speech>
+164.045	inLine	si Fonacier .
+164.413	outLine	'di ba 'yon ang ibibi- %incomplete
+165.075	inLine	<no-speech>
+165.370	outLine	<no-speech>
+166.225	outLine	<no-speech> M_V_P 'yon <hes> .
+166.955	inLine	oo 'di ba (()) .
+167.010	outLine	<no-speech>
+168.080	outLine	<no-speech>
+168.494	inLine	ha ?
+168.995	inLine	<no-speech>
+169.090	outLine	'yon ang pinapanood ko Talk N' Text .
+170.265	inLine	<no-speech>
+170.909	inLine	siya 'yong M_V_P malupit kasi no .
+171.480	outLine	<no-speech>
+172.420	outLine	bakit oo <int> .
+172.715	inLine	<no-speech>
+173.350	outLine	<no-speech>
+174.255	inLine	puwede ngang itapat sa tres 'yon kay Gary David <hes> .
+176.620	outLine	oo .
+176.745	inLine	<no-speech>
+177.103	outLine	puwede .
+177.900	outLine	<no-speech>
+179.060	outLine	highest sponsor <hes> .
+179.465	inLine	etong ano etong cup na ngayon ano <hes> walang import ang ano <hes> walang import ang Talk N text .
+180.050	outLine	<no-speech>
+184.650	outLine	o ?
+185.030	outLine	<no-speech>
+187.940	outLine	wala nga .
+187.945	inLine	<no-speech>
+188.790	outLine	<no-speech>
+188.885	inLine	partida na nila 'yon .
+189.340	outLine	<no-speech>
+190.135	inLine	<no-speech>
+190.360	outLine	oo nga .
+190.890	outLine	ilang .
+191.745	inLine	pero malupit pa rin 'di pa rin nila Unstoppable .
+192.110	outLine	<no-speech>
+194.540	outLine	oo ilang year na kasi 'yon <hes> .
+194.565	inLine	<no-speech>
+196.056	outLine	ilang year ng <hes> champion ang Talk N' Text 'di ba ?
+198.890	outLine	<no-speech>
+198.975	inLine	<no-speech>
+199.475	inLine	<no-speech>
+200.815	inLine	oo .
+202.006	inLine	sa ano naasar ako sa Ginebra .
+204.765	inLine	<no-speech>
+204.790	outLine	Ginebra bakit ?
+205.750	outLine	<no-speech>
+207.375	inLine	parang ano .
+208.235	inLine	<no-speech>
+209.255	inLine	masyadong ano sa mga ano players .
+211.660	outLine	ah oo .
+211.862	inLine	kinukuha halos lahat ng magagaling sa ibang teams .
+212.164	outLine	<no-speech>
+212.320	outLine	<no-speech>
+215.460	inLine	kaya tuloy ayon 'yong iba nababangko .
+217.705	inLine	<no-speech>
+217.730	outLine	oo <int> mababang ko fee .
+218.765	inLine	si Tubid binitawan na nila <hes> .
+219.150	outLine	<no-speech>
+220.370	outLine	binitiwan na ?
+220.495	inLine	<no-speech>
+221.220	outLine	<no-speech>
+222.140	outLine	bumabasbas 'yon <hes> sayang napakaliit <hes> .
+223.335	inLine	tulad nila ano %incomplete
+224.960	outLine	<no-speech>
+224.974	inLine	si Tubid binitawan na nila .
+226.230	outLine	binitawan na ?
+226.585	inLine	<no-speech>
+227.050	outLine	<no-speech>
+227.940	outLine	<int> 'yon ang pantapat kay Alapag <hes> .
+228.045	inLine	<no-speech>
+229.242	inLine	si Caguioa lagi <hes> tumatanda na rin .
+229.740	outLine	<no-speech>
+232.075	inLine	<no-speech>
+232.190	outLine	oo .
+232.647	outLine	<no-speech>
+232.790	outLine	<no-speech>
+232.895	inLine	<no-speech>
+233.545	inLine	<no-speech>
+234.720	outLine	(()) .
+235.065	inLine	<hes> 'yong Talk N text naman kasi ano na <hes> parang all Star na <hes> .
+235.680	outLine	<no-speech>
+238.010	outLine	oo .
+238.095	inLine	<no-speech>
+238.596	outLine	Talk N' Text <int> tindi grabe .
+238.925	inLine	<no-speech>
+239.405	inLine	<no-speech>
+240.300	outLine	<no-speech>
+241.260	outLine	idol ko nga 'yon <hes> .
+242.370

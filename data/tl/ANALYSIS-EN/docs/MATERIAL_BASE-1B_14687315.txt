@@ -1,0 +1,32 @@
+<1>	(0.000-8.088)	<sta> madalas bang manakit ang inyong mga kasu-kasuan sa bukong bukong tuhod <sta> siko at mga daliri sa kamay ?	are your joints in your ankle knee elbow and fingers often painful ?
+<2>	(8.088-11.225)	<sta> baka gout na 'yan o gouty arthritis .	that might be gout or gouty arthritis already .
+<3>	(11.225-18.310)	ang uric siya ang <sta> produkto ng iba't ibang elemento (()) sa katawan 'no .	uric is the product of different elements (()) in the body .
+<4>	(18.310-31.346)	<sta> <hes> usually pagka may mga iba't ibang pangyayari like infection <sta> <hes> dehydration 'yung ating purines na mas ma-de-degrade siya mas dumadami ang degradation ng purine <sta> papunta sa uric acid .	usually when there are different situations like infection dehydration our purines degrades more degradation of purine to uric acid increases .
+<5>	(31.346-35.350)	ang uric acid pinoproseso siya nililinis siya ng kidney natin 'no .	uric acid is processed and cleaned by our kidneys .
+<6>	(35.350-42.490)	so ang <sta> kidney natin siya 'yung pinaka- -- star kumbaga sa ating katawan para mapababa ang uric acid sa dugo <breath> .	our kidney -- is the star you might say of our bodies to lower our uric acid in the blood .
+<7>	(42.490-53.290)	<sta> once na ang uric acid umabot sa six point eight milligrams per deciliter and above <sta> 'yung kidney natin mas nag-do double effort na 'yan para mailabas 'yung uric acid sa dugo .	once the uric acid reaches the six point eight milligrams per deciliter and above our kidney does a double effort to eject the uric acid from the blood .
+<8>	(53.290-70.146)	<sta> pero pag sumobrang taas na beyond six point eight matagal na siyang mataas at nagkaroon ng problema <sta> ang ating kidney hirap na siyang ilabas ang uric acid nagkakaroon ng deposition o nag de-deposit ang uric acid natin sa mga joints <sta> ang siyang nag-ca-cause ng pananakit or -- at gouty arthritis .	but if gets very high and reaches beyond six point eight and if the kidney will have a problem it will have a hard time ejecting the uric aid there will be a deposition or the deposit of uric acid to the joints which causes the ache -- and gouty arthritis .
+<9>	(70.146-75.180)	sinasabing nakakadagdag ng uric acid sa ating katawan ang sobrang pag-inom ng alak .	excessive drinking of alcohol is said to increase uric acid in our bodies .
+<10>	(75.180-79.939)	<sta> imbis kasi na uric acid ang linisin ng kidney mas inuuna nito ang alcohol .	because instead of cleaning the kidneys it prioritizes the alcohol .
+<11>	(79.939-83.900)	tuloy hindi agad nawawala ang uric acid sa dugo .	so the uric acid in the blood has not totally dissipated .
+<12>	(83.900-100.966)	<sta> ngayon may mga pag-aaral recently nilabas 'nong two thousand four <sta> na ang pagkain ng mga beans munggo buto <hes> sitaw okra spinach <breath> mani nuts tofu ngayon ilalabas natin hindi siya nakaka-cause ng gouty arthritis .	now there are studies recently released last two thousand four that eating beans beans seeds string beans okra spinach peanuts nuts tofu now we are going to show that this cannot cause gouty arthritis .
+<13>	(100.966-105.873)	actually nakakatulong siya sa kidney natin para maipababa pa 'yung uric acid sa dugo .	actually it is helping our kidney to lower the uric acid in the blood .
+<14>	(105.873-111.098)	madali siyang na-fa-flush na-pa-process sa dugo natin para mapababa ang uric <int> acid .	it is easier to be flushed processed in our blood to lower the uric acid .
+<15>	(111.098-119.820)	para sa mga nakararanas ng gouty arthritis may ilang paraan daw na maaaring gawin <sta> upang maiwasan ang paglala o muling pag-atake nito .	those who are experiencing gouty arthritis there are few ways that can be done to avoid the worsening or it's attack again .
+<16>	(119.820-122.950)	<sta> unang-una iwasan ang pag inom ng alak .	primarily avoid drinking liquor .
+<17>	(122.950-128.620)	ito ang higit sa lahat libreng libre <int> water therapy siyempre .	most of all really free water therapy of course .
+<18>	(128.620-132.030)	<sta> pangalawa kailangan damihan ang pag-inom ng tubig .	second drinking water should be increased more .
+<19>	(132.030-137.720)	<sta> nakatutulong ito sa ating kidney na mailabas ang uric sa ating dugo .	this has been helping our kidney to excrete the uric from our blood .
+<20>	(137.720-139.567)	umiinom ka ba ng gatas <sta> pag umaga ?	are you drinking milk in the morning ?
+<21>	(139.567-142.603)	ay na 'ko saktong-sakto ka .	oh geez you are right there .
+<22>	(142.603-143.392)	<no-speech>	<no-speech>
+<23>	(143.392-151.000)	pangatlo <sta> damihan ang pag-inom ng gatas dahil maganda raw itong paraan sa pagpapababa ng uric acid .	third drinking milk should be increased because this is a good way of lowering uric acid .
+<24>	(151.000-157.690)	<int> <sta> iwasan ang pagkain ng red meat chicken skin at maging ang mga pagkaing nagtataglay ng fructose .	avoid eating red meat chicken skin and even foods containing fructose .
+<25>	(157.690-158.793)	<no-speech>	<no-speech>
+<26>	(158.793-163.971)	<sta> maaari ring makatulong ang pagkain ng mga prutas na mayaman sa vitamin C tulad ng lemon .	eating fruits rich in vitamin C like lemon can also help .
+<27>	(163.971-167.547)	pipigain mo lang 'yan sa <int> ano <sta> sa inumin mo tuwing umaga .	just squeeze that in your drink every morning .
+<28>	(167.547-169.870)	iinumin mo siya empty stomach .	you are going to drink it empty stomach .
+<29>	(169.870-178.510)	<sta> mainam din ang pag eehersisyo upang ma-boost ang ating immune system at mapaganda ang daloy ng ating dugo .	exercising is also better to boost our immune system and improve the flow of our blood .
+<30>	(178.510-182.069)	<sta> mahirap na kalaban ang pananakit ng mga buto at kasu-kasuan .	bone and joint pains are difficult enemies .
+<31>	(182.069-187.070)	kaya naman para maiwasan ang mga ito tandaan ang ilang tips na aming ibinigay .	so to avoid these remember the few tips we have given .
+<32>	(187.070-188.644)	wow salamat <int> .	wow thank you .

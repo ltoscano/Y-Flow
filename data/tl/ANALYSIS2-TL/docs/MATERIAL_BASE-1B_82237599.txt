@@ -1,0 +1,37 @@
+[0.000]
+<sta> nagsanib puwersa ang naval forces ng Pilipinas at Indonesia para sa naval exercises sa Sarangani Davao del Sur .
+[7.760]
+bahagi raw ito ng taunang pagsasanay para mapaigting ang pagbabantay <sta> at pagpoprotekta sa mga karagatang sakop ng dalawang bansa .
+[15.370]
+<sta> makibalita tayo kay Rose Bernales ng G_M_A Davao .
+[18.841]
+<no-speech>
+[20.860]
+dumating ang hukbo ng Indonesian navy sa naval station Felix Apolinario sa Panacan Davao city sakay ng Indonesian vessel na K_R_I Kilapo eight one two noong Lunes .
+[32.911]
+kasama nila ang mga taga Philippine navy .
+[35.760]
+pakay ng dalawang hukbo ang pagsasagawa ng taunang naval exercise sa pagitan ng dalawang bansa .
+[42.000]
+sa pagsisimula ng exercises kahapon sabay-sabay na tumulak ang grupo papuntang Balut Island sa Sarangani Davao del Sur .
+[49.750]
+isinagawa ang naval exercises gamit ang barko ng Indonesia at dalawa pang Philippine navy vessel na Magat Salamat P_S twenty at Miguel Malvar P_S nineteen .
+[61.510]
+pinayagan ng militar ang G_M_A news Davao na makunan ang pagsasanay .
+[66.610]
+kitang-kita mula sa himpapawid ang pagmamaniobra ng mga barko para makabuo ng iba't ibang naval formation .
+[73.790]
+nag-column sila tapos nag-line and then nag-execute pa sila ng iba't ibang formation nila kanina habang <hes> on the way tayo na <no-speech> .
+[83.242]
+papunta don sa kanila .
+[84.580]
+ayon sa Philippine navy layon ng pagsasanay na mapaigting ang puwersa ng parehong bansa para maprotektahan at mabantayan ng mabuti ang mga karagatang sakop ng mga ito .
+[95.990]
+<hes> photo excession 'yon tawag natin doon <hes> that was related -- also related sa (()) natin with the Indonesian navy na kino-conduct every year .
+[105.530]
+so yung opening this time is nandito sa Davao and then yung closing is sa Manado .
+[111.343]
+ipagpapatuloy raw ang exercises sa Balut Island hanggang sa susunod na buwan .
+[116.222]
+Rose Bernales nagbabalita ~ %incomplete
+[118.483]

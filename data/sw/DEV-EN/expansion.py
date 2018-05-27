@@ -31,7 +31,7 @@ def main(opts):
     #all_output = output_expanded
     with open('result/result.first', 'wt') as fout:
         fout.write(all_output)
-    command = 'python param/trim_local_result.py'
+    command = 'python param/trim_result.py'
     subprocess.check_call(command, shell=True)
     #command = 'rm result/result.first'
     #subprocess.check_call(command, shell=True)

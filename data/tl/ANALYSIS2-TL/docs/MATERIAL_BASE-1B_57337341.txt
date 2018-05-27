@@ -1,0 +1,49 @@
+[0.000]
+<no-speech>
+[0.970]
+<sta> sinabayan ng protesta ng ilang grupo ang pagsisimula ng Balikatan Exercises twenty sixteen .
+[7.150]
+<sta> binuksan sa Camp Aguinaldo ang balikatan na ang mga pagsasanay ay gaganapin sa iba't ibang lugar sa Luzon at Visayas .
+[15.070]
+<sta> makibalita tayo kay Chona Carreon .
+[17.220]
+<no-speech>
+[19.700]
+pagresponde sa oras ng sakuna iyan daw ang sentro ng balikatan <sta> exercises ngayong taon .
+[25.890]
+kaninang umaga nagtipon-tipon ang mga sundalo ng Pilipinas at America <sta> sa Camp Aguinaldo .
+[32.220]
+<sta> para sa opisyal na pagbubukas ng balikatan .
+[35.214]
+sina vice admiral Alexander Lopez ng Armed Forces of the Philippines <sta> at lieutenant general John Toolan ng U_S Marine Forces ang tatayong exercise directors .
+[46.700]
+<sta> sila rin ang magkasama noong isang taon kaya't magandang oportunidad daw ito para mapag-aralan pang muli <sta> ang mga nakitang kakulangan noong isang taon .
+[56.740]
+ilang sundalo mula sa bansang Australia <sta> Japan maging Brunei Canada Malaysia at iba pa ang nakatakdang mag-obserba sa training .
+[66.670]
+<sta> ayon kay vice admiral Lopez itinuturing ang Pilipinas bilang least capable armed forces sa timog silangang Asya kaya't napakalaking tulong daw ng balikatan sa ating bansa .
+[78.590]
+<sta> gaganapin ang iba pang military exercises sa Luzon Palawan at Panay Island .
+[84.390]
+mayroong command post exercise na gagawin sa isang platform malapit sa Palawan .
+[90.000]
+<sta> dito pag-aaralan kung paano reresponde kung sakaling I take over ang isang bansa ang oil at gas plant ng Pilipinas .
+[99.000]
+<sta> may mga susubukan ding high mobility rocket launchers at iba't ibang klase ng radio equipment na makakapaglabas ng maritime pictures sa dagat at sa himpapawid .
+[110.410]
+paglilinaw ng mga namamahala sa balikatan exercises hindi lang nakatuon ang training sa problema ng bansa sa pinag-aagawang teritoryo sa West Philippine Sea kundi pati na sa iba pang mga scenario .
+[124.448]
+the B_K exercise is designed not to address a particular concern but a whole lot in spectrum of warfare .
+[132.083]
+we try to develop how we the armed forces especially would handle it .
+[136.942]
+<sta> tatlumpu't dalawang taon ng isinasagawa ang balikatan exercises .
+[141.510]
+<sta> layon daw nitong pag-igtingin ang pagtutulungan sa pagitan ng militar Pilipinas at America .
+[147.640]
+<sta> tutol naman sa balikatan ang ilang militanteng grupong nagprotesta malapit sa embahada ng America sa Maynila .
+[154.520]
+<sta> ayon sa kanila paraan daw ito ng America para gamitin ang Pilipinas sa pagsulong umano ng pansariling interes sa Asya .
+[163.470]
+Chona Carreon ~ %incomplete
+[165.083]

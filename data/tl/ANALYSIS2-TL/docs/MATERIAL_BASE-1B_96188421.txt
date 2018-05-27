@@ -1,0 +1,87 @@
+0.000	outLine	kailan championship ng (()) ?
+0.000	inLine	<no-speech>
+2.550	outLine	<no-speech>
+2.620	inLine	oo .
+3.350	inLine	<no-speech>
+3.630	outLine	<int> kailan ?
+5.101	outLine	<no-speech>
+5.840	outLine	<no-speech>
+5.930	inLine	ah .
+7.430	inLine	<no-speech>
+7.680	outLine	<no-speech>
+8.324	outLine	kailan championship ?
+9.980	inLine	next week .
+9.980	outLine	<no-speech>
+10.730	inLine	<no-speech>
+11.320	outLine	ha ?
+12.210	outLine	<no-speech>
+12.900	inLine	<int> <hes> -- next week daw sabi nila .
+15.336	inLine	next week daw .
+15.590	outLine	ha ?
+16.475	outLine	next week ?
+16.690	inLine	<no-speech>
+17.319	outLine	'kala ko tapos na ?
+18.360	inLine	<no-speech>
+18.800	outLine	<no-speech>
+20.543	inLine	sabihin mo hindi na .
+21.510	inLine	<no-speech>
+22.010	outLine	ha ?
+22.380	inLine	ah hindi pa ano kasi ganito 'yan eh .
+22.600	outLine	<no-speech>
+24.896	inLine	nag-uumulan daw .
+26.880	inLine	nag-uuulan kaya hindi -- <no-speech> oo -- kaya hindi matuloy <int> .
+27.000	outLine	ah nag-uuulan ?
+28.431	outLine	ha ?
+29.390	outLine	<no-speech>
+33.480	outLine	hindi 'yong five five %incomplete
+33.670	inLine	<no-speech>
+34.700	outLine	ah tapos na .
+36.100	outLine	<no-speech>
+36.340	inLine	hello .
+36.950	inLine	<no-speech>
+36.980	outLine	oh .
+37.791	outLine	<no-speech>
+39.070	inLine	<no-speech>
+39.090	outLine	<no-speech>
+39.900	outLine	<laugh> five five .
+40.584	inLine	ano ?
+40.974	outLine	<no-speech>
+40.980	inLine	<no-speech>
+42.310	outLine	<no-speech>
+42.730	inLine	<int> hello .
+43.869	inLine	<no-speech>
+43.980	outLine	hello ?
+44.690	outLine	<no-speech>
+45.040	inLine	<no-speech>
+46.260	inLine	<cough> five ano ?
+47.677	inLine	oo .
+48.750	outLine	'di ba five five 'tsaka five ten 'yon ?
+48.847	inLine	<no-speech>
+51.430	outLine	<no-speech>
+52.212	inLine	hello ?
+52.660	inLine	<no-speech>
+52.950	outLine	hello (()) ?
+53.780	inLine	ah oo -- oo -- oo -- oo .
+54.440	outLine	<no-speech>
+55.716	inLine	<no-speech>
+55.760	outLine	<no-speech>
+56.310	outLine	<no-speech>
+57.362	inLine	<hes> ah naririnig pero medyo choppy <int> .
+59.580	outLine	<no-speech>
+60.270	outLine	<no-speech>
+61.670	outLine	ah choppy ?
+62.250	inLine	<no-speech>
+62.970	outLine	<no-speech>
+63.060	inLine	<no-speech>
+63.520	inLine	<no-speech>
+64.155	outLine	nood tayo Jo .
+65.100	inLine	hello .
+65.680	inLine	<no-speech>
+66.200	outLine	<no-speech>
+68.750	inLine	<sta> oo sige .
+69.010	outLine	<no-speech>
+70.249	inLine	<no-speech>
+70.520	outLine	<no-speech>
+71.170	outLine	<no-speech>
+72.232	inLine	aanuhin ko muna i-check ko muna kung kailan .
+74.710

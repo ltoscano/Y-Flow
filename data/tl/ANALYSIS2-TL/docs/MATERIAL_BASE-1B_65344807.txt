@@ -1,0 +1,73 @@
+0.000	outLine	<no-speech>
+0.000	inLine	<sta> naglinis ka ng motor ?
+1.415	outLine	<no-speech>
+1.470	inLine	<no-speech>
+2.005	outLine	<no-speech>
+3.275	outLine	hello .
+3.785	outLine	<no-speech>
+4.040	inLine	<sta> hello ?
+4.536	inLine	<no-speech>
+4.635	outLine	oo kanina <sta> .
+5.271	inLine	nagli- -- naglinis ka ng motor ?
+5.865	outLine	<no-speech>
+6.820	inLine	<no-speech>
+6.998	outLine	may paliga kami itong itong summer .
+10.392	outLine	baka gusto mong sumali .
+11.170	inLine	<no-speech>
+11.705	outLine	<no-speech>
+11.885	inLine	oo .
+12.370	inLine	<no-speech>
+12.865	outLine	<no-speech>
+13.735	outLine	<no-speech>
+14.640	inLine	<no-speech>
+15.220	inLine	hello .
+15.285	outLine	paliga ba may paliga dito sa lugar namin <sta> baka gusto mong magpa-line-up .
+15.720	inLine	<no-speech>
+16.940	inLine	<no-speech>
+17.340	inLine	<no-speech>
+18.680	inLine	<no-speech>
+19.995	outLine	<no-speech>
+20.988	inLine	gano'n ba ?
+21.860	inLine	<no-speech>
+23.940	inLine	hello .
+24.075	outLine	hello <sta> .
+24.435	inLine	<no-speech>
+24.567	inLine	na .
+24.599	outLine	<no-speech>
+24.942	outLine	o ikaw gusto mo .
+24.960	inLine	<no-speech>
+26.419	outLine	<no-speech>
+27.070	inLine	puwede .
+27.800	inLine	<no-speech>
+28.007	outLine	'pag Linggo lang naman kada Linggo lang ang laro <hes> .
+29.530	inLine	<no-speech>
+30.085	outLine	<no-speech>
+30.921	inLine	kailan ?
+31.530	inLine	<no-speech>
+32.515	outLine	sige timbrehan kita pare 'pag <hes> 'pag <sta> kulang kami sa player .
+34.280	inLine	<no-speech>
+35.630	inLine	<no-speech>
+36.750	inLine	<no-speech>
+37.232	inLine	oo sige sige .
+37.444	outLine	<no-speech>
+38.028	inLine	<no-speech>
+39.210	inLine	<no-speech>
+40.615	outLine	<no-speech>
+40.780	inLine	<no-speech>
+41.895	outLine	<no-speech>
+42.284	inLine	hello .
+42.750	inLine	<no-speech>
+42.794	outLine	sinong ano diyan nakikita mo ba si pareng <hes> ko Pareng Marlon ko .
+44.270	inLine	(()) .
+45.340	inLine	<no-speech>
+48.965	outLine	<no-speech>
+49.050	inLine	<int> wala dito <hes> .
+50.115	outLine	<no-speech>
+50.280	inLine	<no-speech>
+50.795	outLine	<no-speech>
+51.670	inLine	may pinupuntahan yata may laro yata ngayong gabi <int> .
+52.075	outLine	hello .
+52.552	outLine	<no-speech>
+53.173	outLine	<sta> pero minsan nadadaan diyan sa inyo .
+54.500	inLine	<no-speech>
+55.665

@@ -1,0 +1,15 @@
+[0.000]
+<sta> zote za Hispania .
+[1.566]
+<lipsmack> mwogeleaji Michael Phelps wa Marekani ameshinda hatua <sta> za mwita mia moja ya staili huru <breath> katika mchuano wa taifa wa Marekani <breath> na kuweka muda mzuri wa dunia <sta> katika siku ya kwanza ya michuano hiyo .
+[15.332]
+<breath> Phelps anaishikilia <sta> medali kumi na nane za dhahabu ya michuano ya Olympiki .
+[20.424]
+<breath> ushindi huo umekuja ikiwa ni siku moja imepita <breath> baada ya kushinda hatua ya mwita mia mbili .
+[25.910]
+<sta> mwogeleaji huyo ambaye amejumuishwa kwenye michuano ya dunia <sta> licha ya kupatikana na hatia kuendesha gari huku akiwa amelewa <breath> ameshinda mchezo huo akitumia muda wa sekunde hamsini nukta <breath> nne tano .
+[38.610]
+<sta> Phelps amesema amejitahidi kuogelea kwa kasi ikiwa ni muda mrefu hivyo <sta> katika hatua ya mwita mia mbili <breath> ametumia muda wa dakika moja sekunde hamsini na mbili nukta nne tisa <sta> akifuatiwa na Lazarous Cech wa Hungaria <breath> kwa tofauti ya sekunde sufuri <breath> nukta tano nne .
+[57.382]
+<no-speech>
+[58.791]

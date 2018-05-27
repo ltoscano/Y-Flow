@@ -1,0 +1,6 @@
+<1>	(0.000-8.130)	<sta> todo ensayo na ang Mehikanong boksingerong si Hector Velasquez para sa paghaharap nila ng pinoy na si Michael Farenas sa Biyernes .	Mexican boxer Hector Velasquez is seriously practicing for his face-off with Filipino Michael Farenas on Friday .
+<2>	(8.130-13.813)	<sta> paglalabanan nila ang W_B_C Asian na Boxing Council super featherweight title .	they will compete for the W_B_C Asian Boxing Council super featherweight title .
+<3>	(13.813-22.480)	dati ng tinalo ni Manny Pacquiao si Velasquez <sta> sa W_B_C International Super Featherweight Title fight no'ng twenty oh five .	Manny Pacquiao defeated Velasquez before in the W_B_C International Super Featherweight Title fight back in twenty oh five .
+<4>	(22.480-28.666)	<sta> na knockout naman ni Farenas ang Mehikanong si Jose Rios sa second round <sta> pa lang ng laban nila no'ng Disyembre .	Farenas knocked out Mexican Jose Rios in just the second round of their match back in December .
+<5>	(28.666-33.837)	gaganapin ang laban nila Velasquez at Farenas <sta> sa D'Arena Gym sa San Juan City .	fight of Velasquez and Farenas will be held at D'Arena Gym in San Juan City .
+<6>	(33.837-39.803)	mapapanood ito dito sa G_M_A seven sa susunod na Sabado pagkatapos ng Eat Bulaga .	you can watch it here in G_M_A seven next Saturday after Eat Bulaga .

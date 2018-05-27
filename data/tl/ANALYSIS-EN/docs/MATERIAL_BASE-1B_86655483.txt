@@ -1,0 +1,47 @@
+<1>	(0.000-1.897)	<no-speech>	<no-speech>
+<2>	(1.897-8.000)	<sta> marami sa mga kabataan ngayon panay ang hugot dahil sa mga heartache na kanilang pinagdaraanan .	many of the youth now often draw out because of heartaches they went through .
+<3>	(8.000-9.331)	<no-speech>	<no-speech>
+<4>	(9.331-14.170)	<sta> pero sa kaso ng ilan tila literal ang pagkakaroon nila ng pusong sugatan .	but in the case of some having a wounded heart seems literal .
+<5>	(14.170-15.250)	<no-speech>	<no-speech>
+<6>	(15.250-21.022)	<sta> ayon sa Department of Health heart disease <sta> ang nananatiling number one cause of death sa mga Pilipino .	according to the Department of Health heart disease remains the number one cause of death to Filipinos .
+<7>	(21.022-29.180)	at lingid sa kaalaman ng marami hindi lang may mga edad ang pupuwedeng magkaroon nito <sta> kundi maging ang mga may edad thirty years old pababa .	and unknown to many not only those of age can possibly have this but also those with age thirty years old below .
+<8>	(29.180-31.478)	<sta> the most common one 'yung coronary heart disease .	the most common one is coronary heart disease .
+<9>	(31.478-39.102)	'yung wherein 'yung nagkakaroon ng bara 'yung mga coronary arteries natin is a beginning to be found among the young people now <sta> .	that wherein there becomes a block in our coronary arteries is a beginning to be found among the young people now .
+<10>	(39.102-40.509)	<no-speech>	<no-speech>
+<11>	(40.509-45.040)	ang pagkakaroon ng heart disease sa murang edad maaaring congenital .	having heart disease at a young age is possibly congenital .
+<12>	(45.040-48.579)	<sta> ibig sabihin mayroon na nito pagkapanganak pa lang .	meaning it is already there even upon birth .
+<13>	(48.579-57.550)	pupuwede rin daw acquire at ang pinaka- -- karaniwang sanhi nga ng heart disease sa bata man o matanda ang unhealthy lifestyle .	also possible to acquire and the most common cause of heart disease on children or the old is unhealthy lifestyle .
+<14>	(57.550-65.890)	<sta> ngayon kasi teenager pa lang umiinom na naninigarilyo at madalas sa abala sa social media kaya walang exercise .	because now even teenagers already drink smoke and frequently busy with social media so no exercise .
+<15>	(65.890-70.630)	lahat ng mga ito <sta> risk factor daw sa pagkakaroon ng heart disease sa murang edad .	all of these are risk factors in having heart disease at a young age .
+<16>	(70.630-84.950)	napansin namin 'yung mga ganitong klaseng <hes> sakit sa puso among the young people 'yung mga nasa call center agency wherein are <hes> exposed to a lot of stresses din less immobility do'n lang sila sa isang <hes> lugar .	we noticed in these classes heart disease among the young people those in call center agencies wherein are exposed to a lot of stresses also less immobility they are just there in one place .
+<17>	(84.950-88.510)	<hes> computer lang sila and then they eat a lot <int> .	they only do computer and then they eat a lot .
+<18>	(88.510-91.857)	<sta> isa pang- -- risk factor daw ang labis na katabaan .	one more -- risk factor is obesity .
+<19>	(91.857-97.201)	katunayan pabata rin ng <sta> pabata ang mga pumapasok sa kategorya ng pagiging obese .	in fact those entering the category of being obese is also becoming younger and younger .
+<20>	(97.201-102.683)	madalas kasi kapag sobra sa timbang ang isang tao marami siyang <sta> bad cholesterol sa katawan .	because frequently if a person is over weight he has a lot of bad cholesterol in the body .
+<21>	(102.683-108.070)	bumabara ito sa mga ugat ng puso na siyang mauuwi sa heart attack .	this blocks the veins of the heart that ends up to a heart attack .
+<22>	(108.070-112.874)	ang mga sintomas ng heart disease sa bata hindi naman daw naiiba sa matatanda .	symptoms of heart disease of a child is not different from an adult .
+<23>	(112.874-121.470)	<int> nariyan ang paninikip ng dibdib <no-speech> <sta> madaling mapagod <no-speech> hirap sa paghinga at pagkahilo .	there's chest pain quickly gets tired hard time breathing and nausea .
+<24>	(121.470-123.392)	<no-speech>	<no-speech>
+<25>	(123.392-129.930)	<sta> pero mga kapuso alam n'yo ba na may klase pala ng sakit sa puso na walang ipinapakitang sintoma ?	but Kapuso did you know that there are kinds of heart disease that doesn't show any symptom ?
+<26>	(129.930-133.907)	<sta> at kapag umatake ito kadalasang nauuwi agad sa kamatayan .	and when this attacks it usually leads to death .
+<27>	(133.907-137.662)	kaya nga ang tawag dito sudden arrhythmic death syndrome .	that's why it's called sudden arrhythmic death syndrome .
+<28>	(137.662-139.099)	<no-speech>	<no-speech>
+<29>	(139.099-144.969)	<sta> puwede daw itong mangyari sa kahit na sino <breath> <sta> maski sa mga taong may healthy lifestyle .	it can happen to anyone even to those people who have healthy lifestyles .
+<30>	(144.969-152.330)	ere ang sports <sta> athletes 'yan na tumatakbo lang marathon biglang at the end of the finish line bumagsak namatay .	sports athletes on air they run marathons suddenly at the end of the finish line they collapse and die .
+<31>	(152.330-156.170)	<sta> so this our patients rarely <hes> happening pero it can .	this our patients rarely happen but it can .
+<32>	(156.170-167.272)	<sta> sa kaso ng sudden arrhythmic death syndrome nagkakaproblema raw sa electrical impulses na dumadaloy sa ating puso dahilan para maging irregular ang tibok nito .	in the case of sudden arrhythmic death syndrome they have a problem with the raw electrical impulses that flows in our heart the cause for its beating to be irregular .
+<33>	(167.272-172.380)	ito ang siyang pagmumulan ng mga komplikasyon hanggang sa maging huli na .	this is the cause of complications until it's late .
+<34>	(172.380-179.400)	<sta> number one cause of sudden cardiac death among the young 'yung H_O_C_M 'no hypertrophic cardiomyopathy na tinatawag .	number one cause of sudden cardiac death among the young is H_O_C_M which is called hypertrophic cardiomyopathy .
+<35>	(179.400-182.297)	'yung kaniyang septum <sta> makapal 'no .	the septum is thick right .
+<36>	(182.297-186.170)	<int> itong -- itong kumakapal 'yung loob ng puso 'yung muscle niya .	this -- this thickening is the inside of the heart its muscle .
+<37>	(186.170-188.572)	<sta> so <hes> puwede siyang magkaroon ng mga rhythm problem .	it can have rhythm problem .
+<38>	(188.572-194.180)	biglang tumigil ang heart electrical failure <sta> kaya sila namamatay ventricular fibrillation sudden death <int> .	sudden stop of heart electrical failure that's why they die ventricular fibrillation sudden death .
+<39>	(194.180-206.160)	<sta> kaya may nararamdaman man o wala kung may kaunting <int> budget naman simulan ng maaga ang regular na pagpapatingin sa cardiologist o eksperto sa puso .	that's why whether you feel something or not if you have a small budget start the regular check-up from a cardiologist or heart expert early .
+<40>	(206.160-216.111)	<sta> may mga eksaminasyon sila na pupuwedeng gawin para makumpirma kung ang isang tao ay may heart condition <sta> gaya ng electrocardiograph o E_C_G %incomplete	they have examinations that can be done to confirm if a person has a heart condition like electrocardiograph or E_C_G %incomplete
+<41>	(216.111-220.390)	(()) malalim hingang malalim ha tapos pigil ha .	(()) deep breath deep okay and then stop .
+<42>	(220.390-223.843)	<sta> o maski ang simpleng pakikinig sa heartbeat gamit ang stethoscope .	or even a simple hearing of the heartbeat using a stethoscope .
+<43>	(223.843-224.812)	<no-speech>	<no-speech>
+<44>	(224.812-228.870)	makakabuting simulan din ng maaga ang pagkakaroon ng healthy lifestyle .	it's good to start having a healthy lifestyle early .
+<45>	(228.870-233.441)	<sta> paulit-ulit na po namin itong pinapaalala sa inyo pero hindi kami magsasawa .	we have kept on reminding this to you but we will not be fed up .
+<46>	(233.441-241.254)	kumain ng masusustansiya <no-speech> <sta> regular na mag-ehersisyo <no-speech> <sta> at umiwas sa mga bisyo .	eat nutritious foods exercise regularly and avoid vices .
+<47>	(241.254-245.706)	dahil tandaan mga kapuso napapagod din ang ating puso .	because remember my loves our hearts get tired too .

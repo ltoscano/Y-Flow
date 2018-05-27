@@ -1,0 +1,67 @@
+[0.000]
+<no-speech>
+[1.803]
+waziri wa katiba na sheria daktari Asha-Rose Migiro amewataka wananchi kuwafichua watumishi wa idara ya mahakama wanaokiuka maadili ikiwamo kuomba na kupokea rushwa .
+[13.180]
+ili wachukuliwe hatua za kisheria badala ya kulalamikia kukithiri kwa vitendo hivyo .
+[18.555]
+<no-speech>
+[19.690]
+daktari Migiro ametoa kauli hiyo wakati wa akifungua mkutano mkuu wa mwaka wa majaji nchini unaofanyika jijini Mwanza .
+[26.330]
+na kuwataka watumishi hao kutekeleza majukumu yao kwa uadilifu .
+[31.115]
+shuhuda wetu wa huko na mwandishi Amiku Sibutunga mwenye taarifa hii kutoka Mwanza .
+[35.164]
+<no-speech>
+[37.390]
+-ji nchini wamekutana jijini Mwanza kwenye mkutano wao mkuu wa mwaka unaolenga kutathmini utendaji wao wa kazi katika kipindi cha mwaka moja uliopita ikiwa ni pamoja na kuweka mikakati ya namna ya kuimarisha utendaji wao wa kazi .
+[53.160]
+jaji mkuu Mohammed Chande Othman ametumia fursa hiyo kubainisha baadhi ya changamoto zinazoikabili mahakama <breath> hususan katika swala zima la utoaji wa haki .
+[64.444]
+moja katika <no-speech> funguo ya -- ya kufanikiwa ni kufanya kazi kwa kutumia <no-speech> <hes> mawasiliano <hes> na -- na teknolojia .
+[78.660]
+haiwezekani bado tunaendelea Tanzania kuandika majaji mwenendo wa mashauri bado kwa mkono .
+[86.830]
+eh hu- -- hiyo ni mambo yamepitwa na wakati .
+[89.395]
+lalamiko moja ni nakala za hukumu <hes> lakini kuna mahakama mingi za mwanzo hazina umeme .
+[95.720]
+lakini mahakama inafanya nini katika kupunguza tatizo la ucheleweshaji wa kesi ?
+[100.574]
+muda wa kutoa haki pia tumekubaliana kwamba kesi mahakama kuu muda mrefu sana usizidi miaka miwili .
+[109.227]
+lakini kesi nyingi kwa mfano mahakama ya biashara mahakama kuu kitengo cha biashara kwa sheria ni miezi kumi eh tumesema mahakama za mwanzo kesi isidumu miezi sita .
+[120.413]
+uhai wa kesi .
+[121.560]
+mahakama mwanzo isidumu miezi sita .
+[123.879]
+eh mahakama ya hakimu mkaazi na mahakama ya wilaya isizidi miezi kumi na nane .
+[130.060]
+waziri wa katiba na sheria daktari Asha-Rose Migiro amefungua mkutano huo kwa niaba ya Rais Jakaya Kikwete na kuhimiza uadilifu miongoni mwa watumishi wa mahakama .
+[141.280]
+ni nyi mnafahamu wazi kuwa haki ni eneo muhimu na utawala wa sheria ni eneo linalogusa uhai na ustawi wa jamii na ni eneo linalogusa utulivu na utangamano wa taifa .
+[154.380]
+kama kuna wasiwasi wowote ule wa jinsi haki inavyotolewa hasa kutokana na tuhuma za kukosa uadilifu basi haki haiwezi kuchukuliwa kama kweli imetendeka .
+[165.220]
+wajibu wa mahakamani kufanya yote mawili kutenda haki nakufanya haki ionekane imetendeka .
+[171.604]
+kisha Doctor Migiro akawanyoshea vidole baadhi ya wananchi ambao wamekuwa wakilalamikia mahakama .
+[178.386]
+swala la rushwa swala la ukosefu wa maadili tulizungumza kwa wazi .
+[183.880]
+na bila shaka tunapolizungumza kwa uwazi wengine wanachukulia ni kubwa sana .
+[187.929]
+ni kweli ni kubwa na pale ambapo tunaona kuna kukiukwa kwa maadili je tunatoa taarifa wakati unaohusika na kwa watu wanaohusika .
+[198.272]
+sasa kuna wengine wako tayari kunong'ona kwamba fulani anadai rushwa <sta> lakini hawako tayari kujitokeza kwenye vyombo vinavyo husika kama ni mahakama au kama ni chakupuru au dola <sta> kueleza yale yanayotoke- -- .
+[211.343]
+kaulimbiu ya mkutano mkuu wa mwaka <breath> wa majaji ni kujitathmini katika njia bora ya kuboresha mahakama na utoaji wa haki ambapo unatarajia kufikia tamati siku ya Jumatano .
+[224.996]
+Amiku Sibutunga T_B_C Mwanza .
+[228.225]
+<no-speech>
+[229.042]
+naam kutoka Mwanza tugeuki- %incomplete
+[230.286]

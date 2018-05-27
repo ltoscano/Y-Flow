@@ -1,0 +1,134 @@
+fast+[syn:abstain],Ramadan
+"under the bed"
+rat[hyp:animal]
+slavery+,donkey[hyp:animal]
+education+,"make noise"
+bible[evf:religion]
+poultry+
+"the eye"+
+EXAMPLE_OF(branches of government)
+EXAMPLE_OF(geometric shapes)
+EXAMPLE_OF(rooms of a house)
+"bring change"
+court[evf:law]
+fish[hyp:animal]
+drugs[hyp:illicit substances]
+"vice president"
+picture[syn:photograph],hotel
+"small group",party[evf:politics]
+"the most important thing"
+library[evf:books]
+club[syn:association],match[evf:competition]
+media+,English
+seminar
+Sumbawanga,hospital+
+elephant
+bottle[hyp:container]
+face[syn:visage],earth[syn:world]
+port[syn:harbor]
+"Al Bashir",president
+bishop[hyp:religion]
+Ugandan[syn:person from Uganda]
+crisis,solution[syn:answer]
+knife
+title[syn:heading],return
+license[hyp:permission]
+kilometer
+bucket[hyp:container]
+banana[hyp:fruit]
+bread[hyp:food]
+body[evf:anatomy],respect
+clap[syn:applaud]
+back[evf:anatomy]
+afternoon
+sister[hyp:sibling],morning
+e-mail
+AIDS+[hyp:disease]
+Morogoro,banking+
+Mwanza,fishing+
+poverty+,milk
+rent,house
+flooding+,goat[hyp:animal]
+pork[hyp:pig meat]
+"national symbol"
+interpreter
+editor
+China,manufacturing+[hyp:industry]
+soccer
+"Red Cross"[hyp:aid organization]
+tire[evf:cars]
+Kagera,"natural disaster"+
+albinos+,clinic[syn:hospital]
+wall
+motorcycle
+marijuana
+dermatology+,juice[evf:fruit extract]
+makeup[syn:cosmetics]
+shadow[syn:shade]
+bishop[evf:religion]
+"city council"
+municipal
+"deputy mayor"
+ledger[syn:account book]
+peace+[syn:harmony],Muslim
+church
+ghost[syn:spirit]
+lawyer
+property[evf:land],bank
+"cultural heritage"
+kitchen
+"national team"
+chemist
+increase[syn:become greater],price[syn:monetary value]
+<potatoes>
+<albino>[hyp:person]
+<smokers>[evf:tobacco]
+axe[evf:tool]
+friend[hyp:person],farm[syn:cultivated land]
+childhood
+EXAMPLE_OF(passenger aircraft)
+EXAMPLE_OF(dairy product)
+club[syn:league],entertainment
+EXAMPLE_OF(root vegetable)
+<predecessors>
+EXAMPLE_OF(courts)
+desk[hyp:furniture]
+name[hyp:given name],girl[hyp:person]
+decorate[syn:beautify],lady[syn:woman]
+EXAMPLE_OF(parking facility)
+"bid for"[syn:tender for]
+black[syn:dark],color[syn:hue]
+"blood pressure"[hyp:medical condition]
+reduce[syn:curtail],accident[syn:mishap]
+planet
+"beautiful girl",Kenya
+EXAMPLE_OF(citrus fruit)
+finger[evf:anatomy]
+cashew[hyp:nut]
+orphan,school+
+<fugitives>[syn:person escaping from the law or pursuer]
+news,weather
+flood[syn:inundation],assistance+
+customs[hyp:government agency],merchandise+
+defense,relative+
+smell[syn:odor]
+hub[syn:focal point],commerce[syn:buying and selling]
+"<made> tired"
+"labor force"[hyp:employment],percentage
+business+[syn:commerce],poverty
+Temeke,"living standard"+
+sanitation+[syn:cleanliness]
+"fight for justice"[syn:fight for fairness],legal+
+intersection[syn:crossroads],accident+
+lorry[syn:truck],life+[syn:existence]
+fertilize[syn:apply nutrients],soil[syn:ground]
+egg[hyp:food],nutrition+
+brick[syn:cinder block],construct+[syn:build]
+coffee[hyp:beverage]
+gun
+"road accident"
+transportation+,boat[hyp:vessel]
+EXAMPLE_OF(ocean)
+"guest of honor"
+sugar[hyp:sweetener]
+speech,death

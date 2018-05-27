@@ -1,0 +1,56 @@
+0.000	outLine	<no-speech>
+0.000	inLine	<no-speech>
+0.290	outLine	araw-araw trabaho mo ?
+2.089	inLine	opo ano <hes> eight o'clock .
+2.578	outLine	(()) .
+3.556	outLine	<no-speech>
+5.491	inLine	opo o'clock hanggang five 'tapos five thirty ano overtime na .
+6.570	outLine	<no-speech>
+9.370	outLine	<no-speech>
+11.790	inLine	<no-speech>
+12.322	outLine	ah eh 'yung overtime mo -- may overtime pay din iba 'yon ?
+16.233	outLine	may overtime pay ?
+17.980	outLine	<no-speech>
+19.090	inLine	opo ano minsan dalawang -- opo minsan dalawang oras .
+19.570	outLine	ah .
+20.300	outLine	<no-speech>
+22.010	outLine	<no-speech>
+23.389	outLine	ah mabuti .
+23.730	inLine	<no-speech>
+24.264	outLine	oh kumusta anak %incomplete
+25.072	inLine	thirty five kada isang oras .
+25.270	outLine	<no-speech>
+26.530	outLine	kumusta anak mo ?
+26.820	inLine	<no-speech>
+27.688	outLine	'di -- 'di naman nagkakasakit ?
+27.700	inLine	<no-speech>
+29.590	outLine	<no-speech>
+31.220	inLine	<no-speech>
+32.080	inLine	<no-speech>
+32.990	outLine	hello ?
+33.631	inLine	si ano may kuwan may ubo .
+33.991	outLine	oh oo .
+35.405	inLine	<no-speech>
+37.380	inLine	hello .
+38.172	inLine	<no-speech>
+38.563	outLine	oh -- oh eh 'di okey naman nakita ko 'yan maliit na maliit pa malaki na ngayon ?
+38.986	inLine	may ubo .
+39.890	inLine	<no-speech>
+41.470	inLine	<no-speech>
+43.560	inLine	<no-speech>
+44.670	outLine	<no-speech>
+45.701	outLine	malaki na ngayon Leslie ?
+45.740	inLine	<no-speech>
+47.247	outLine	ah ?
+47.282	inLine	mhm .
+47.915	inLine	makulit .
+48.478	outLine	ah talaga .
+48.580	inLine	<no-speech>
+49.642	outLine	baka nama- -- baka naman -- baka naman mamaya -- oo -- baka naman mamaya eh 'pag nagkita tayo may kasunod na babae .
+49.660	inLine	mhm .
+50.774	inLine	sobra kulit .
+51.539	inLine	opo malaki na .
+53.140	inLine	<no-speech>
+54.220	inLine	<no-speech>
+58.390	outLine	<no-speech>
+58.880

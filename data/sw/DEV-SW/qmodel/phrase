@@ -1,1777 +1,221 @@
 <parameters>
 <query>
 <type>indri</type>
-<number>query1029</number>
+<number>query1925</number>
 <text>
 #max(
 #combine(
-#syn(barabara njia))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1055</number>
-<text>
-#max(
-#combine(
-#syn(chombo cha habari house vyombo vya) #syn(hadhira))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1063</number>
-<text>
-#max(
-#combine(
-#syn(ukabila))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1097</number>
-<text>
-#max(
-#combine(
-#syn(msikiti))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1101</number>
-<text>
-#max(
-#combine(
-#syn(barafu cream aiskrimu) #syn(lily yungiyungi maji melons matikiti melon))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1224</number>
-<text>
-#max(
-#combine(
-#syn(shamba uwanja) #syn(officer bwanashamba kilimo))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1238</number>
-<text>
-#max(
-#combine(
-#syn(mtoto mchanga watoto wachanga watoto wachanga))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1243</number>
-<text>
-#max(
-#combine(
-#syn(dresser msusi nywele unywele))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1333</number>
-<text>
-#max(
-#combine(
-#syn(drive kiendeshi diski kuu gumu ngumu))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1336</number>
-<text>
-#max(
-#combine(
-#syn(profesa) #syn(jiriwa))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1418</number>
-<text>
-#max(
-#combine(
-#syn(ulimwengu chuo kikuu) #syn(bai kura uchaguzi uteuzi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1422</number>
-<text>
-#max(
-#combine(
-#syn(kampeni) #syn(darasa madarasa))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1433</number>
-<text>
-#max(
-#combine(
-)
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1462</number>
-<text>
-#max(
-#combine(
-#syn(makusudi azma gharadhi nia) #syn(area kimiani bao keeper golikipa keeper))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1475</number>
-<text>
-#max(
-#combine(
-#syn(brow nyusi jicho pencil mkahale pencils) #syn(hatari hatari))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1483</number>
-<text>
-#max(
-#combine(
-)
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1494</number>
-<text>
-#max(
-#combine(
-#syn(akida maakida) #syn(chelewa marehemu))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1497</number>
-<text>
-#max(
-#combine(
-)
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1514</number>
-<text>
-#max(
-#combine(
-#syn(kambi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1524</number>
-<text>
-#max(
-#combine(
-#syn(mwanasheria mawakili wanasheria wakili))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1529</number>
-<text>
-#max(
-#combine(
-#syn(vyama chama kundi safu))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1530</number>
-<text>
-#max(
-#combine(
-#syn(kuua))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1531</number>
-<text>
-#max(
-#combine(
-#syn(abiria))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1533</number>
-<text>
-#max(
-#combine(
-#syn(kashfa))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1534</number>
-<text>
-#max(
-#combine(
-#syn(vamia))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1543</number>
-<text>
-#max(
-#combine(
-)
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1549</number>
-<text>
-#max(
-#combine(
-#syn(seas majimakuu) #syn(of leaders shule ya viongozi shule))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1553</number>
-<text>
-#max(
-#combine(
-#syn(funga))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1573</number>
-<text>
-#max(
-#combine(
-#syn(language lugha ya kuundwa))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1606</number>
-<text>
-#max(
-#combine(
-#syn(bai kura uchaguzi uteuzi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1607</number>
-<text>
-#max(
-#combine(
-#syn(aviya) #syn(himila mimba ujauzito))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1608</number>
-<text>
-#max(
-#combine(
-#syn(hukumu kifungo sentensi vifungo))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1619</number>
-<text>
-#max(
-#combine(
-#syn(kipanga) #syn(kinyama mnyama wanyama waste kinyesi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1628</number>
-<text>
-#max(
-#combine(
-#syn(omba sala sali))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1685</number>
-<text>
-#max(
-#combine(
-#syn(kambaa mjeledi) #syn(example kwa mfano kwa kwani))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1696</number>
-<text>
-#max(
-#combine(
-#syn(attack mshtuko wa moyo mioyo moyo) #syn(ugonjwa people wagonjwa))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1698</number>
-<text>
-#max(
-#combine(
-#syn(mguu miguu sura) #syn(shahidi) #syn(mtazamo mitazamo shika))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1712</number>
-<text>
-#max(
-#combine(
-#syn(mlima milima))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1717</number>
-<text>
-#max(
-#combine(
-#syn(data mtego utegaji mitego tega) #syn(daka))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1727</number>
-<text>
-#max(
-#combine(
-#syn(goti magoti))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1783</number>
-<text>
-#max(
-#combine(
-)
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1789</number>
-<text>
-#max(
-#combine(
-#syn(kuzima) #syn(extinguisher kizima moto kupiga risasi moto))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1812</number>
-<text>
-#max(
-#combine(
-#syn(kondoo) #syn(kinyama mnyama wanyama waste kinyesi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1819</number>
-<text>
-#max(
-#combine(
-#syn(chakula cha mchana))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1827</number>
-<text>
-#max(
-#combine(
-#syn(pamba plant mpamba plants mipamba) #syn(mbegu pembejeo tumba uzao))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1830</number>
-<text>
-#max(
-#combine(
-#syn(gharika mafuriko) #syn(afa janga maafa majanga))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1843</number>
-<text>
-#max(
-#combine(
-#syn(kurasa makurasa ukurasa) #syn(a age komaa) #syn(karatasi makaratasi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1845</number>
-<text>
-#max(
-#combine(
-#syn(ramani) #syn(mtetezi watetezi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1848</number>
-<text>
-#max(
-#combine(
-#syn(nyuzi ugwe uzi) #syn(konda mwembamba thread kimia threads vimia) #syn(kamba utari))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1849</number>
-<text>
-#max(
-#combine(
-#syn(sinema masinema))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1854</number>
-<text>
-#max(
-#combine(
-)
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1856</number>
-<text>
-#max(
-#combine(
-#syn(mlango milango))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1862</number>
-<text>
-#max(
-#combine(
-)
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1869</number>
-<text>
-#max(
-#combine(
-#syn(bonde mabonde))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1873</number>
-<text>
-#max(
-#combine(
-#syn(mjukuu))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1877</number>
-<text>
-#max(
-#combine(
-#syn(distributor mgavi anayejitegemea) #syn(in law mamamkwe mama nana akina) #syn(jike kike slave mjakazi) #syn(mvyele mzazi wavyele wazazi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1889</number>
-<text>
-#max(
-#combine(
-#syn(for environment waziri wa mazingira for) #syn(upole leader kiongozi wa siasa leaders) #syn(jela kalamu seli zizi) #syn(andika kuandika andiko maandiko maandishi mwandiko))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1891</number>
-<text>
-#max(
-#combine(
-#syn(jimbo mkoa mkoani majimbo mikoa) #syn(chupa))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1894</number>
-<text>
-#max(
-#combine(
-#syn(mpilipili pilipili pilipili hoho pilipili manga))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1896</number>
-<text>
-#max(
-#combine(
-#syn(akili bongo ubongo))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1917</number>
-<text>
-#max(
-#combine(
-#syn(benbera bendera) #syn(bango))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1919</number>
-<text>
-#max(
-#combine(
-#syn(mbweha mbweha mwekundu thalabu) #syn(kinyama mnyama wanyama waste kinyesi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1934</number>
-<text>
-#max(
-#combine(
-#syn(feri kiperea) #syn(boti chombo dau mashua))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1935</number>
-<text>
-#max(
-#combine(
-#syn(announcement habari za tanzia hilaki kifo) #syn(a age komaa) #syn(ai asaiberi ai mwasaiberi corrupt person) #syn(urais rais) #syn(kichwa man jumbe mkuu office makao) #syn(a age komaa) #syn(dola hali house ikulu jamhuri nchi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1942</number>
-<text>
-#max(
-#combine(
-#syn(jopo) #syn(a age komaa) #syn(hakimu hakimu mkazi hakimu mkuu jaji))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1945</number>
-<text>
-#max(
-#combine(
-#syn(kobe) #syn(dove hua kasa kobe))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1949</number>
-<text>
-#max(
-#combine(
-#syn(friji jokofu mashine ya barafu))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1956</number>
-<text>
-#max(
-#combine(
-#syn(gari motokaa patrol gari la doria) #syn(gari))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1965</number>
-<text>
-#max(
-#combine(
-#syn(cup kombe la dunia cups vikombe) #syn(chakula lishe mlo price bei ya) #syn(kipindi programu vipindi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1972</number>
-<text>
-#max(
-#combine(
-#syn(kutapika tapika utapishi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1979</number>
-<text>
-#max(
-#combine(
-#syn(fungua ufungu ufunguo) #syn(mlango milango))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1991</number>
-<text>
-#max(
-#combine(
-#syn(dhalimu person mkatili) #syn(missing finger or toe buge mtu))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1992</number>
-<text>
-#max(
-#combine(
-#syn(nyuki) #syn(hifadhi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1995</number>
-<text>
-#max(
-#combine(
-)
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query1998</number>
-<text>
-#max(
-#combine(
-#syn(fever homa ya manjano manjano) #syn(harara homa joto))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2005</number>
-<text>
-#max(
-#combine(
-#syn(metali))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2007</number>
-<text>
-#max(
-#combine(
-#syn(ant chaki ants machaki blood cell) #syn(gome))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2016</number>
-<text>
-#max(
-#combine(
-#syn(maabara))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2018</number>
-<text>
-#max(
-#combine(
-)
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2026</number>
-<text>
-#max(
-#combine(
-#syn(mwongozo uongozi utawala) #syn(nyundo) #syn(chombo kifaa mtambo mitambo vyombo))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2028</number>
-<text>
-#max(
-#combine(
-#syn(chete plan mpango wa soko plans) #syn(officer bwanashamba kilimo))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2030</number>
-<text>
-#max(
-#combine(
-#syn(pole mlingoti wa umeme poles milingoti))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2247</number>
-<text>
-#max(
-#combine(
-#syn(mgombezi wagombezi) #syn(bai kura uchaguzi uteuzi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2254</number>
-<text>
-#max(
-#combine(
-#syn(bingwa championi mabingwa machampioni) #syn(riadha michezo news habari za michezo))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2262</number>
-<text>
-#max(
-#combine(
-#syn(vamia))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2267</number>
-<text>
-#max(
-#combine(
-#syn(uvivu uzembe uzrembe legevu mlegevu utepetevu))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2285</number>
-<text>
-#max(
-#combine(
-#syn(kiongozi wa mashtaka viongozi wa mashtaka) #syn(halali kanuni sheria) #syn(kesi) #syn(awali kabla mbele) #syn(ai asaiberi ai mwasaiberi corrupt person) #syn(korti kortini kotini mahakama mahakamani order))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2302</number>
-<text>
-#max(
-#combine(
-#syn(masera and orders sera na taratibu) #syn(mtindo) #syn(ki- lugha) #syn(mawasiliano mawasiyano ukomunisti majumuiya jamaa jamii))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2312</number>
-<text>
-#max(
-#combine(
-#syn(jenerali jumla majenerali majenerali enzi kizazi) #syn(uzee hirimu miaka umri))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2315</number>
-<text>
-#max(
-#combine(
-#syn(shahidi) #syn(vamia))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2330</number>
-<text>
-#max(
-#combine(
-#syn(ibuka))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2342</number>
-<text>
-#max(
-#combine(
-#syn(ujamaa usoshalisti) #syn(darasa) #syn(ujamaa usoshalisti) #syn(kaumu kikundi kundi makundi makundi vikundi) #syn(matajiri nation nchi tajiri tajiri))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2346</number>
-<text>
-#max(
-#combine(
-)
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2379</number>
-<text>
-#max(
-#combine(
-)
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2386</number>
-<text>
-#max(
-#combine(
-#syn(rekodi marekodi) #syn(jina majina taja))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2403</number>
-<text>
-#max(
-#combine(
-#syn(dhidi dhidi ya juu ya) #syn(ukimwi usaidizi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2404</number>
-<text>
-#max(
-#combine(
-#syn(msimu misimu) #syn(mara muda mwia nafasi nyakati saa))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2418</number>
-<text>
-#max(
-#combine(
-#syn(amani salama))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2421</number>
-<text>
-#max(
-#combine(
-#syn(blanketi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2426</number>
-<text>
-#max(
-#combine(
-#syn(kikombe kombe vikombe) #syn(example kwa mfano kwa kwani) #syn(kinyuaji kinywaji kunywa vinyuaji unywaji))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2432</number>
-<text>
-#max(
-#combine(
-#syn(mtandao) #syn(mdhabiti wadhabiti))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2442</number>
-<text>
-#max(
-#combine(
-#syn(dalali mnada nadi) #syn(agenti ajenti maajenti wakala))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2450</number>
-<text>
-#max(
-#combine(
-#syn(mwajiriwa waajiriwa) #syn(chai chauchau chirimiri honga hongo kiinikizo))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2455</number>
-<text>
-#max(
-#combine(
-#syn(habusu mabusu mfungwa mhabusu mahabusu jela))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2466</number>
-<text>
-#max(
-#combine(
-#syn(transport usafiri wa umma umma) #syn(kitabu vitabu vitabu) #syn(fasihi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2472</number>
-<text>
-#max(
-#combine(
-#syn(badili badiliko badilisha chenji geuko geuzo) #syn(kigeuzi mtambo wa transfoma transfoma))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2476</number>
-<text>
-#max(
-#combine(
-#syn(boresha))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2491</number>
-<text>
-#max(
-#combine(
-#syn(cities miji mikuu city mji mkuu) #syn(uchumi) #syn(raslimali rasilimali raslimali))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2550</number>
-<text>
-#max(
-#combine(
-)
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2556</number>
-<text>
-#max(
-#combine(
-#syn(jakamoyo))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2580</number>
-<text>
-#max(
-#combine(
-#syn(fasihi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2667</number>
-<text>
-#max(
-#combine(
-#syn(kitungu saumu kitunguu vitunguu) #syn(upanzi mmea mimea))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2713</number>
-<text>
-#max(
-#combine(
-#syn(falsafa))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2788</number>
-<text>
-#max(
-#combine(
-#syn(biashara card kadi kazi license leseni))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2793</number>
-<text>
-#max(
-#combine(
-#syn(udhika huni kera) #syn(choice chaguo langu name is jina) #syn(ahi kaka ndugu))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2863</number>
-<text>
-#max(
-#combine(
-#syn(gazeti magazeti) #syn(mamlaka mwandishi waandishi) #syn(upole leader kiongozi wa siasa leaders))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2884</number>
-<text>
-#max(
-#combine(
-#syn(nyota) #syn(fadhili mfadhili))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2886</number>
-<text>
-#max(
-#combine(
-#syn(bluu buluu monkey kima samawati) #syn(ya rangi nyingi michezo rangi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2895</number>
-<text>
-#max(
-#combine(
-#syn(language lugha ya kuundwa))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2902</number>
-<text>
-#max(
-#combine(
-#syn(sherehe tafrija) #syn(kandili mshumaa makandili mishumaa) #syn(bulb balbu mwanga mwangaza nuru sahali))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2910</number>
-<text>
-#max(
-#combine(
-#syn(kimbunga matufani tufani) #syn(dhoruba halibari tufani))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2964</number>
-<text>
-#max(
-#combine(
-#syn(mwavuli))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query2965</number>
-<text>
-#max(
-#combine(
-#syn(sigara))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3016</number>
-<text>
-#max(
-#combine(
-#syn(takriban) #syn(collector mtoza ushuru ushuru))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3021</number>
-<text>
-#max(
-#combine(
-#syn(transport usafiri wa umma umma))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3036</number>
-<text>
-#max(
+#uw10(dali a Hague mwaka mtihani))
 #combine(
-#syn(taratibu tunza utunzi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3057</number>
-<text>
-#max(
-#combine(
-#syn(bima))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3080</number>
-<text>
-#max(
-#combine(
-#syn(kiuno let anjali))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3106</number>
-<text>
-#max(
-#combine(
-#syn(dari) #syn(chumba vyumba))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3115</number>
-<text>
-#max(
-#combine(
-#syn(makao makaazi makao mkaazi mkazi mwenyeji) #syn(mwenyeji) #syn(kilimanjaro))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3140</number>
-<text>
-#max(
-#combine(
-)
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3148</number>
-<text>
-#max(
-#combine(
-#syn(riadha michezo news habari za michezo))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3216</number>
-<text>
-#max(
-#combine(
-#syn(kasino))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3226</number>
-<text>
-#max(
-#combine(
-#syn(mkia) #syn(kinyama mnyama wanyama waste kinyesi) #syn(miili viwiliwili cells chembechembe za mwili) #syn(aria gawa sehemu))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3239</number>
-<text>
-#max(
-#combine(
-#syn(idhinisha))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3243</number>
-<text>
-#max(
-#combine(
-#syn(sabuni))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3267</number>
-<text>
-#max(
-#combine(
-)
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3269</number>
-<text>
-#max(
-#combine(
-)
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3271</number>
-<text>
-#max(
-#combine(
-#syn(methali) #syn(staarabu) #syn(misemo msemo misemo))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3274</number>
-<text>
-#max(
-#combine(
-#syn(mswaki))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3280</number>
-<text>
-#max(
-#combine(
-#syn(mwinyi) #syn(animal tovi camel galimu camels magalimu) #syn(arusi ceremonies sherehe za harusi ceremony))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3285</number>
-<text>
-#max(
-#combine(
-#syn(divai mvinyo) #syn(kileo pombe kali))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3293</number>
-<text>
-#max(
-#combine(
-#syn(kuvaa))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3300</number>
-<text>
-#max(
-#combine(
-#syn(nakala))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3311</number>
-<text>
-#max(
-#combine(
-#syn(udhika huni kera))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3313</number>
-<text>
-#max(
-#combine(
-#syn(halali kanuni sheria) #syn(ardhi arthi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3317</number>
-<text>
-#max(
-#combine(
-#syn(tangazo tangaza) #syn(cassette rediokaseti radio redio maredio))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3321</number>
-<text>
-#max(
+#uw10(dali a Hague mwaka mitihani))
 #combine(
-#syn(gawanya) #syn(pole mlingoti wa umeme poles milingoti) #syn(nguvu))
+#uw10(dali a Hague miaka mtihani))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query3326</number>
+<number>query2486</number>
 <text>
 #max(
 #combine(
-#syn(kipindupindu waba) #syn(maradhi magonjwa ugonjwa))
+#syn(mdudu wadudu))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query3337</number>
+<number>query3530</number>
 <text>
 #max(
 #combine(
-#syn(boat ngarawa sili) #syn(stampu))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3340</number>
-<text>
-#max(
+#uw10(damu shinikizo))
 #combine(
-)
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3341</number>
-<text>
-#max(
+#uw10(money shinikizo))
 #combine(
-#syn(istilahi) #syn(elimisha elimu))
+#uw10(diya shinikizo))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query3346</number>
+<number>query3637</number>
 <text>
 #max(
 #combine(
-#syn(birth zaa kupa pea) #syn(almasi uru uru))
+#syn(ishi hai room sebule) #syn(common shirika front mbele front of) #syn(mara muda mwia nafasi nyakati saa))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query3352</number>
+<number>query3772</number>
 <text>
 #max(
 #combine(
-#syn(chupi))
+#syn(buhumu cancer saratani ya mapafu pafu) #syn(miili viwiliwili cells chembechembe za mwili) #syn(aria gawa sehemu))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query3357</number>
+<number>query1236</number>
 <text>
 #max(
 #combine(
-#syn(choo kibakuli cha choo msala paper))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3382</number>
-<text>
-#max(
+#uw10(kidosho))
 #combine(
-#syn(uwindaji uwindo kuwinda) #syn(kimbiza) #syn(example kwa mfano kwa kwani) #syn(kuua) #syn(ayari laghai mhuni mlaghai mshari ya) #syn(missing finger or toe buge mtu))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3384</number>
-<text>
-#max(
+#uw10(kengele))
 #combine(
-#syn(nyara teka nyara) #syn(gaidi magaidi ugaidi))
+#uw10(makengele))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query3389</number>
+<number>query3011</number>
 <text>
 #max(
 #combine(
-#syn(fanikiwa faulu) #syn(care linda care of tunza chukua) #syn(ya) #syn(mahail mahala mahali pahali weka) #syn(a age komaa) #syn(kitabu vitabu vitabu) #syn(fasihi))
+#syn(majasusi mapaparazi jasusi majasusi mpelelezi paparazi) #syn(missing finger or toe buge mtu) #syn(bomu) #syn(mlipuko))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query3392</number>
+<number>query482</number>
 <text>
 #max(
 #combine(
-#syn(ushirikana) #syn(statement zuri))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3393</number>
-<text>
-#max(
+#uw10(barabara ajali))
 #combine(
-#syn(teule))
+#uw10(njia ajali))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query3395</number>
+<number>query3532</number>
 <text>
 #max(
 #combine(
-#syn(pazia))
+#syn(ajali))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query3404</number>
+<number>query478</number>
 <text>
 #max(
 #combine(
-#syn(shinikizo) #syn(kimataifa news taarifa za kimataifa))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3429</number>
-<text>
-#max(
+#uw10(English beberu))
 #combine(
-#syn(mgombezi wagombezi) #syn(bai kura uchaguzi uteuzi) #syn(sherehe tafrija))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3431</number>
-<text>
-#max(
+#uw10(English ukoloni))
 #combine(
-#syn(mpangishaji wapangishaji) #syn(mmiliki mwenyewe wamiliki wenyewe) #syn(masera and orders sera na taratibu) #syn(mtindo))
+#uw10(Kiingereza beberu))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query3432</number>
+<number>query1997</number>
 <text>
 #max(
 #combine(
-#syn(fleti ghorofa) #syn(jenga jengo majengo kujenga) #syn(andika kuandika andiko maandiko maandishi mwandiko))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3436</number>
-<text>
-#max(
+#uw10(majiji baraza))
 #combine(
-#syn(pikipiki) #syn(chunguza dadisi ukale mchunguzi wachunguzi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3440</number>
-<text>
-#max(
+#uw10(majiji kikao))
 #combine(
-#syn(historia) #syn(bandika bandiko yaliyopita) #syn(kisa matukio visa tukio) #syn(virusi))
+#uw10(majiji mabaraza))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query3442</number>
+<number>query1528</number>
 <text>
 #max(
 #combine(
-#syn(intercourse kutomba transmitted disease maradhi ya))
+#syn(karakana))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query3445</number>
+<number>query1930</number>
 <text>
 #max(
 #combine(
-#syn(runinga televisheni) #syn(kipindi programu vipindi))
 )
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3456</number>
-<text>
-#max(
-#combine(
-#syn(sanamu) #syn(kinyagu))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query3459</number>
+<number>query1824</number>
 <text>
 #max(
 #combine(
-#syn(sindano) #syn(dawa madawa udaktari))
+#syn(pikipiki))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query3464</number>
+<number>query3993</number>
 <text>
 #max(
 #combine(
-#syn(mshirika) #syn(shirika mashirika panga maungo ungo))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3467</number>
-<text>
-#max(
+#uw10(jizatiti jiua) #syn(muuaji mwangamizi mwuaji waangamizaji wauaji) #syn(bunduki) #syn(silaha silaha vilaha vilaha))
 #combine(
-#syn(bara Bara))
+#uw10(ziara jiua) #syn(muuaji mwangamizi mwuaji waangamizaji wauaji) #syn(bunduki) #syn(silaha silaha vilaha vilaha))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query3468</number>
+<number>query1637</number>
 <text>
 #max(
 #combine(
-#syn(ramani) #syn(mwanajiografia))
+#syn(urais rais))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query3470</number>
+<number>query1980</number>
 <text>
 #max(
 #combine(
-#syn(kidudu))
+#uw10(alizeti oili))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query3478</number>
+<number>query1899</number>
 <text>
 #max(
 #combine(
-)
+#syn(hornbill kwembe hornbill kwembekwembe kirauni mataji))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query3480</number>
+<number>query1916</number>
 <text>
 #max(
 #combine(
-#syn(uwindaji uwindo kuwinda) #syn(keketa) #syn(likizo sikukuu siku kuu) #syn(after tomorrow kesho kutwa before yesterday))
+#syn(can pipa) #syn(ngazi))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query3487</number>
+<number>query2012</number>
 <text>
 #max(
 #combine(
@@ -1781,1577 +225,513 @@
 </query>
 <query>
 <type>indri</type>
-<number>query3488</number>
+<number>query1412</number>
 <text>
 #max(
 #combine(
-#syn(fisi) #syn(kinyama mnyama wanyama waste kinyesi))
+#syn(transport usafiri wa umma umma) #syn(Mprotestanti maandamano))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query3493</number>
+<number>query1904</number>
 <text>
 #max(
 #combine(
-#syn(dahili faida kipato mafao))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3501</number>
-<text>
-#max(
-#combine(
-#syn(shika) #syn(muziki mziki) #syn(burudani tumbuiza))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3503</number>
-<text>
-#max(
-#combine(
-#syn(pakiti mapakiti))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3506</number>
-<text>
-#max(
-#combine(
-#syn(misamiati misamiati msamiati) #syn(ki- lugha) #syn(mawasiliano mawasiyano ukomunisti majumuiya jamaa jamii))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3507</number>
-<text>
-#max(
-#combine(
-)
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3516</number>
-<text>
-#max(
-#combine(
-#syn(bweni))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3526</number>
-<text>
-#max(
-#combine(
-#syn(binti))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3528</number>
-<text>
-#max(
-#combine(
-#syn(upole leader kiongozi wa siasa leaders) #syn(geuza mageuzi mapinduzi) #syn(amani salama))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3535</number>
-<text>
-#max(
-#combine(
-#syn(mkondo mikondo uteremkaji) #syn(fanaka) #syn(mawasiliano mawasiyano ukomunisti majumuiya jamaa jamii))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3555</number>
-<text>
-#max(
-#combine(
-#syn(hatibu msemaji maspika spika))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3559</number>
-<text>
-#max(
-#combine(
-#syn(nadra) #syn(-a kidesturi kienyeji desturi itikadi mila) #syn(ada desturi care mhudumu mteja wateja))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3561</number>
-<text>
-#max(
-#combine(
-#syn(fagia) #syn(usafishaji nadhifu safi safisha) #syn(chumba vyumba) #syn(aria gawa sehemu) #syn(a age komaa) #syn(ai asaiberi ai mwasaiberi corrupt person) #syn(jenga jengo majengo kujenga))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3566</number>
-<text>
-#max(
-#combine(
-#syn(officer bwanashamba kilimo) #syn(pamba plant mpamba plants mipamba) #syn(language lugha asilia uasili mazingira))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3567</number>
-<text>
-#max(
-#combine(
-#syn(papa) #syn(kichwa man jumbe mkuu office makao) #syn(a age komaa) #syn(woman mama katoliki) #syn(makanisa kanisa leaders viongozi wa dini))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3573</number>
-<text>
-#max(
-#combine(
-#syn(mkuu) #syn(elimisha elimu))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3575</number>
-<text>
-#max(
-#combine(
-#syn(cha hofu kicho ogopa uwoga woga) #syn(jinai uhalifu))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3578</number>
-<text>
-#max(
-#combine(
-#syn(jenerali jumla majenerali majenerali enzi kizazi) #syn(uzee hirimu miaka umri) #syn(kaumu kikundi kundi makundi makundi vikundi) #syn(transport usafiri wa umma umma) #syn(mawasiliano mawasiyano ukomunisti majumuiya jamaa jamii))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3582</number>
-<text>
-#max(
-#combine(
-#syn(usawa lines mstari sambamba) #syn(usawa lines mstari sambamba) #syn(fursa nafasi) #syn(jinsia) #syn(ngono))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3618</number>
-<text>
-#max(
-#combine(
-#syn(dahili faida kipato mafao) #syn(mkulima) #syn(officer bwanashamba kilimo))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3619</number>
-<text>
-#max(
-#combine(
-#syn(shabaha))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3621</number>
-<text>
-#max(
-#combine(
-#syn(ku- lie danganya) #syn(igiza uigaji uigizaji kitendo sehemu vitendo) #syn(ndoa) #syn(husiano uhusiano))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3633</number>
-<text>
-#max(
-#combine(
-#syn(maarufu) #syn(kisima))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3635</number>
-<text>
-#max(
-#combine(
-#syn(ujamaa usoshalisti) #syn(chombo cha habari house vyombo vya))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3638</number>
-<text>
-#max(
-#combine(
-#syn(ubaguzi wa rangi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3642</number>
-<text>
-#max(
-#combine(
-#syn(saikolojia) #syn(taaluma) #syn(a age komaa) #syn(ya))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3649</number>
-<text>
-#max(
-#combine(
-#syn(mdahalo midahalo) #syn(majadiliano maneno mazungumzo mjadala) #syn(jumapili))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3653</number>
-<text>
-#max(
-#combine(
-#syn(karafuu) #syn(achari binzari kiungo viungo))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3656</number>
-<text>
-#max(
-#combine(
-#syn(muungano shirikisho miungano ushirikiano))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3664</number>
-<text>
-#max(
-#combine(
-#syn(tafsiri ufasiri mkalimani) #syn(isimu mwanaisimu))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3669</number>
-<text>
-#max(
-#combine(
-#syn(extinguisher kizima moto kupiga risasi moto) #syn(lori))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3671</number>
-<text>
-#max(
-#combine(
-#syn(matanga maziko mazishi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3674</number>
-<text>
-#max(
-#combine(
-#syn(chafya chemua chichimua) #syn(a age komaa) #syn(hawa hewa port kiwanja ndege))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3675</number>
-<text>
-#max(
-#combine(
-#syn(jeneza kifua))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3676</number>
-<text>
-#max(
-#combine(
-#syn(mwanablogu))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3677</number>
-<text>
-#max(
-#combine(
-#syn(kamili) #syn(amri amrisha oda) #syn(agizo elezo magizo shauri maagizo maelezo))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3679</number>
-<text>
-#max(
-#combine(
-#syn(pipa))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3682</number>
-<text>
-#max(
-#combine(
-#syn(dafina mweka hazina) #syn(afisi ofisi afisa afisaa ofisa maafisa))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3684</number>
-<text>
-#max(
-#combine(
-#syn(dawati deski jarari madawati madeski) #syn(chetu meza of contents yaliyomo))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3686</number>
-<text>
-#max(
-#combine(
-#syn(of leaders shule ya viongozi shule) #syn(kaini))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3688</number>
-<text>
-#max(
-#combine(
-#syn(ndimi ulimi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3694</number>
-<text>
-#max(
-#combine(
-#syn(beer tangawizi mtangawizi tangawizi) #syn(upanzi mmea mimea) #syn(mzizi mizizi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3708</number>
-<text>
-#max(
-#combine(
-#syn(mpangaji wapangaji))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3710</number>
-<text>
-#max(
-#combine(
-#syn(being binadamu being mwanadamu beings wanadamu) #syn(a kuume haki kulia mkono wa) #syn(tayo tukano))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3711</number>
-<text>
-#max(
-#combine(
-#syn(ada desturi care mhudumu mteja wateja) #syn(transport usafiri wa umma umma))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3720</number>
-<text>
-#max(
-#combine(
-#syn(biganya) #syn(a age komaa) #syn(rekodi marekodi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3722</number>
-<text>
-#max(
-#combine(
-#syn(mwingilizi) #syn(missing finger or toe buge mtu) #syn(auka) #syn(chuo mataasisi vyuo taasisi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3723</number>
-<text>
-#max(
-#combine(
-#syn(bahasha))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3725</number>
-<text>
-#max(
-#combine(
-#syn(mtahini) #syn(na so forth kadhalika))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3735</number>
-<text>
-#max(
-#combine(
-#syn(kinyume upinzani) #syn(common shirika front mbele front of) #syn(a age komaa))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3744</number>
-<text>
-#max(
-#combine(
-#syn(mgongo of the head kisogo migongo) #syn(barabara njia urchin chokora urchins machokora))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3751</number>
-<text>
-#max(
-#combine(
-)
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query376</number>
-<text>
-#max(
-#combine(
-#syn(elimisha elimu))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3760</number>
-<text>
-#max(
-#combine(
-#syn(ada desturi care mhudumu mteja wateja))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3776</number>
-<text>
-#max(
-#combine(
-#syn(yaliyomo) #syn(raia masomo somo) #syn(sanaa))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3789</number>
-<text>
-#max(
-#combine(
-#syn(mwamba ugingo) #syn(jiologia jiolojia))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3794</number>
-<text>
-#max(
-#combine(
-#syn(kondakta makondakta taniboi utingo) #syn(mwajiriwa waajiriwa))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3795</number>
-<text>
-#max(
-#combine(
-#syn(thing wanga))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3799</number>
-<text>
-#max(
-#combine(
-#syn(jadi kizazi uzao) #syn(sultani) #syn(chenezo masharti vyenezo))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3803</number>
-<text>
-#max(
-#combine(
-#syn(unga))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3812</number>
-<text>
-#max(
-#combine(
-#syn(khuendelea maendeleo ustawishaji))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3837</number>
-<text>
-#max(
-#combine(
-#syn(ufisadi paramidi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3845</number>
-<text>
-#max(
-#combine(
-#syn(geukia zamu) #syn(common shirika front mbele front of) #syn(duara))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3855</number>
-<text>
-#max(
-#combine(
-#syn(badili badiliko badilisha chenji geuko geuzo) #syn(mazingara mazingira) #syn(change mabadiliko ya anga tabianchi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query386</number>
-<text>
-#max(
-#combine(
-#syn(basha man basha msenge shoga) #syn(ndoa))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3870</number>
-<text>
-#max(
-#combine(
-#syn(chusa head kigumba mkuki) #syn(silaha silaha vilaha vilaha))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3875</number>
-<text>
-#max(
-#combine(
-#syn(mshukiwa washukiwa) #syn(madai mashitaka mshtakiwa washtakiwa mshtaki washtaki) #syn(a age komaa))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3876</number>
-<text>
-#max(
-#combine(
-#syn(kifaransa) #syn(kaanga))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3877</number>
-<text>
-#max(
-#combine(
-#syn(kutoweka))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3879</number>
-<text>
-#max(
-#combine(
-)
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3880</number>
-<text>
-#max(
-#combine(
-#syn(kampeni))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3881</number>
-<text>
-#max(
-#combine(
-)
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3886</number>
-<text>
-#max(
-#combine(
-)
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3892</number>
-<text>
-#max(
-#combine(
-#syn(utengaji utengano) #syn(fleti ghorofa) #syn(piga simu simu))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3896</number>
-<text>
-#max(
-#combine(
-#syn(matendo) #syn(mean ubanifu respectful adhimu respectful akrama))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3897</number>
-<text>
-#max(
-#combine(
-#syn(chinja) #syn(mchinjaji))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3898</number>
-<text>
-#max(
-#combine(
-)
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3943</number>
-<text>
-#max(
-#combine(
-#syn(kionjo vionjo) #syn(kileo pombe kali))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3945</number>
-<text>
-#max(
-#combine(
-)
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3946</number>
-<text>
-#max(
-#combine(
-#syn(hanali kaskazi kaskazini) #syn(uhamisho))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3947</number>
-<text>
-#max(
-#combine(
-#syn(jina majina taja) #syn(kashfa) #syn(transport usafiri wa umma umma))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3962</number>
-<text>
-#max(
-#combine(
-#syn(tarishi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3967</number>
-<text>
-#max(
-#combine(
-#syn(kiitikio viitikio majukumu daraka jukumu madaraka) #syn(mmenyuko) #syn(piga simu simu) #syn(mawasiliano mawasiyano ukomunisti majumuiya jamaa jamii))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3989</number>
-<text>
-#max(
-#combine(
-#syn(kichuguu kishugu))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3991</number>
-<text>
-#max(
-#combine(
-#syn(usafiri safirisha uchukuzi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query3999</number>
-<text>
-#max(
-#combine(
-#syn(bana chuja) #syn(shinikizo))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4002</number>
-<text>
-#max(
-#combine(
-#syn(ai asaiberi ai mwasaiberi corrupt person) #syn(pikipiki))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4025</number>
-<text>
-#max(
-#combine(
-#syn(msimu misimu) #syn(chaka kiangazi kipindi cha kiangazi majira))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4026</number>
-<text>
-#max(
-#combine(
-#syn(chemichemi kipindi cha demani kisima kosa) #syn(msimu misimu))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4033</number>
-<text>
-#max(
-#combine(
-#syn(seas majimakuu) #syn(haraka kasi spidi) #syn(halali kanuni sheria))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4036</number>
-<text>
-#max(
-#combine(
-#syn(amka coming mchaniko ingine juu kubali))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4076</number>
-<text>
-#max(
-#combine(
-#syn(ya rangi nyingi michezo rangi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4079</number>
-<text>
-#max(
-#combine(
-#syn(kuua) #syn(chance kwa nasibu choice hiari choice) #syn(time to time mara kwa mara) #syn(ai asaiberi ai mwasaiberi corrupt person) #syn(kamba utari) #syn(makazi nyumbani stead boma) #syn(makao makaazi makao mkaazi mkazi mwenyeji))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4081</number>
-<text>
-#max(
-#combine(
-#syn(msoto) #syn(mguu miguu sura) #syn(miili viwiliwili cells chembechembe za mwili) #syn(aria gawa sehemu))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4082</number>
-<text>
-#max(
+#uw10(ant misalaba) #syn(ukimwi UKIMWI usaidizi) #syn(shirika mashirika panga maungo ungo))
 #combine(
-#syn(hema))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4092</number>
-<text>
-#max(
+#uw10(ant eye) #syn(ukimwi UKIMWI usaidizi) #syn(shirika mashirika panga maungo ungo))
 #combine(
-#syn(chakula lishe mlo price bei ya) #syn(virutubisho) #syn(food chakula cha sumu sumu))
+#uw10(ant kengeza) #syn(ukimwi UKIMWI usaidizi) #syn(shirika mashirika panga maungo ungo))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4095</number>
+<number>query1639</number>
 <text>
 #max(
 #combine(
-#syn(riadha michezo news habari za michezo))
+#syn(Kiganda Mganda) #syn(missing finger or toe buge mtu) #syn(time to time mara kwa mara) #syn(uganda Uganda))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4121</number>
+<number>query1539</number>
 <text>
 #max(
 #combine(
-#syn(company kampuni ya kibinafsi hair mvuzi) #syn(sekta) #syn(uchumi) #syn(maradhi magonjwa ugonjwa) #syn(- gonjwa ugonjwa))
+#syn(Brazili) #syn(mkimbizi mlowezi))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4129</number>
+<number>query1554</number>
 <text>
 #max(
 #combine(
-#syn(kesheshe rabsha) #syn(vamia) #syn(fizikia))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4135</number>
-<text>
-#max(
+#uw10(upole mkimbizi))
 #combine(
-#syn(afya) #syn(bima))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4138</number>
-<text>
-#max(
+#uw10(upole mlowezi))
 #combine(
-#syn(chanjo))
+#uw10(leader mkimbizi))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4146</number>
+<number>query1056</number>
 <text>
 #max(
 #combine(
-#syn(aushi maisha sever boats mashuaokozi trend) #syn(bima))
+#syn(shairi mashairi ushairi))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4153</number>
+<number>query1820</number>
 <text>
 #max(
 #combine(
-#syn(amani salama) #syn(nena sema zungumza))
+#syn(chakula cha asubuhi chamshakinywa kiamshakinywa kiamsha))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4157</number>
+<number>query1903</number>
 <text>
 #max(
 #combine(
-#syn(kua kukuza kuza))
+#syn(theluji))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4165</number>
+<number>query1634</number>
 <text>
 #max(
 #combine(
-#syn(jike kike slave mjakazi) #syn(habusu mabusu mfungwa mhabusu mahabusu jela))
+#syn(bandari city bandari mabandari mabandari) #syn(bandari))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4175</number>
+<number>query1424</number>
 <text>
 #max(
 #combine(
-#syn(amaharu))
+#syn(maktaba) #syn(kitabu vitabu vitabu))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4178</number>
+<number>query1648</number>
 <text>
 #max(
 #combine(
-#syn(ghazi mighazi song zumo vita) #syn(jinai uhalifu) #syn(mwongozo uongozi utawala))
+#syn(head chembe mshale sign alama ya))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4180</number>
+<number>query3609</number>
 <text>
 #max(
 #combine(
-#syn(bunduki) #syn(pipa))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4189</number>
-<text>
-#max(
+#uw10(amani) #syn(amani salama) #syn(agano maagano makubaliano mkataba maagano) #syn(halali kanuni sheria))
 #combine(
-#syn(askari chunga linda mlinzi maaskari walinzi) #syn(office posta) #syn(jiua) #syn(muuaji mwangamizi mwuaji waangamizaji wauaji))
+#uw10(salama) #syn(amani salama) #syn(agano maagano makubaliano mkataba maagano) #syn(halali kanuni sheria))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4199</number>
+<number>query1908</number>
 <text>
 #max(
 #combine(
-#syn(cake kibibi flour bwibwi mchele mpunga) #syn(kaanga) #syn(rice wali mapishi pot sufuria stick))
+#syn(makombamwiko kombamwiko mende))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4201</number>
+<number>query1053</number>
 <text>
 #max(
 #combine(
-#syn(upanzi mmea mimea))
+#syn(in a game utobwe pite))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4219</number>
+<number>query1617</number>
 <text>
 #max(
 #combine(
-#syn(alfu elfu maelfu of hectors maelfu) #syn(khadaa) #syn(alfu elfu maelfu of hectors maelfu) #syn(maandamano))
+#syn(chupa))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query423</number>
+<number>query375</number>
 <text>
 #max(
 #combine(
-#syn(askari) #syn(mashariki))
+#syn(habari) #syn(forecast utabiri wa hali ya anga))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4264</number>
+<number>query483</number>
 <text>
 #max(
 #combine(
-#syn(hasara))
 )
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4276</number>
-<text>
-#max(
-#combine(
-#syn(sihi) #syn(maombi ombi maombi) #syn(mvyele mzazi wavyele wazazi))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4288</number>
+<number>query3485</number>
 <text>
 #max(
 #combine(
-#syn(kinyuaji kinywaji kunywa vinyuaji unywaji) #syn(kileo pombe kali) #syn(mara muda mwia nafasi nyakati saa) #syn(awamu majira mda muda nukta zamani) #syn(a age komaa) #syn(after tomorrow kesho kutwa before yesterday))
+#syn(nyundo) #syn(in hand andamana of a clock) #syn(chombo kifaa mtambo mitambo vyombo))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4298</number>
+<number>query3998</number>
 <text>
 #max(
 #combine(
-#syn(garimoshi gari moshi magari moshi treni) #syn(gari motokaa patrol gari la doria) #syn(hudumu tumika) #syn(abiria))
 )
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4305</number>
-<text>
-#max(
-#combine(
-#syn(jeshi la wanamaji) #syn(jihami mkono pit makwapa mikono) #syn(huduma hudumia))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4317</number>
+<number>query1408</number>
 <text>
 #max(
 #combine(
-#syn(ahi kaka ndugu))
+#syn(picha mapicha) #syn(mpigapicha) #syn(hoteli))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4343</number>
+<number>query1626</number>
 <text>
 #max(
 #combine(
-#syn(adhibu adhabu))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4362</number>
-<text>
-#max(
+#uw10(apple karakana))
 #combine(
-#syn(bandia) #syn(baindi bandia) #syn(elektroni ektroniki elektroniki))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4364</number>
-<text>
-#max(
+#uw10(mtopetope karakana))
 #combine(
-#syn(jito majito ziwa) #syn(ku- lie danganya))
+#uw10(cane karakana))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4372</number>
+<number>query3539</number>
 <text>
 #max(
 #combine(
-#syn(mkanda mshipi mikanda mishipi) #syn(utetezi) #syn(bendi))
+#syn(mwaliko) #syn(maombi ombi maombi) #syn(ku- lie danganya) #syn(hudhurio) #syn(rasmi))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4376</number>
+<number>query2270</number>
 <text>
 #max(
 #combine(
-#syn(guineafowl chepeo helmeti kofia ya chuma) #syn(barabara njia) #syn(usalama))
 )
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4378</number>
-<text>
-#max(
-#combine(
-#syn(chapa rajamu machapa) #syn(mshikadau washikadau))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4383</number>
+<number>query1641</number>
 <text>
 #max(
 #combine(
-#syn(upole leader kiongozi wa siasa leaders) #syn(matendo))
+#syn(chungwa juice maji ya machungwa machungwa) #syn(matunda shoga matunda tree mti wa) #syn(busara falsafa hekima maarifa mwanafalsafa))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4386</number>
+<number>query4035</number>
 <text>
 #max(
 #combine(
-#syn(mrija mirija tyubu) #syn(fizikia) #syn(au) #syn(kichaa) #syn(kisima))
+#syn(falka of ship falka shika) #syn(mgongo of the head kisogo migongo) #syn(time to time mara kwa mara) #syn(fanya you speak English unasema Kiingereza))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4392</number>
+<number>query1532</number>
 <text>
 #max(
 #combine(
-#syn(mkato) #syn(au) #syn(mamna mbinu njia) #syn(halali kanuni sheria))
+#syn(Singapuri) #syn(nguruwe))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4393</number>
+<number>query1901</number>
 <text>
 #max(
 #combine(
-#syn(msafiri msafiri wasafiri safari safiri))
+#syn(kandanda soka teams timu za kandanda))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4404</number>
+<number>query1443</number>
 <text>
 #max(
 #combine(
-#syn(haramu immigrant mhamiaji haramu immigrants wahamiaji) #syn(biashara))
+#syn(kilabu klabu pau rungu karanga mavi) #syn(mshirika) #syn(michuano kibiriti mashindano mchuano mechi))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4407</number>
+<number>query1057</number>
 <text>
 #max(
 #combine(
-#syn(-a kwanza benefit limbuko benefits malimbuko))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4415</number>
-<text>
-#max(
+#uw10(boresha usafiri))
 #combine(
-#syn(chipukizi kijana ujana vijana) #syn(warsha))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4416</number>
-<text>
-#max(
+#uw10(boresha safirisha))
 #combine(
-#syn(kichefuchefu) #syn(msamaha samehe))
+#uw10(boresha uchukuzi))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4422</number>
+<number>query2022</number>
 <text>
 #max(
 #combine(
-#syn(jenerali jumla majenerali majenerali enzi kizazi) #syn(bai kura uchaguzi uteuzi))
 )
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4427</number>
-<text>
-#max(
-#combine(
-#syn(fizikia) #syn(badili badiliko badilisha chenji geuko geuzo) #syn(ya) #syn(being binadamu being mwanadamu beings wanadamu) #syn(miili viwiliwili cells chembechembe za mwili))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4443</number>
+<number>query1802</number>
 <text>
 #max(
 #combine(
-#syn(damu money diya) #syn(mchango michango))
+#syn(baiti boy boi nyumba mabaiti))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4461</number>
+<number>query1852</number>
 <text>
 #max(
 #combine(
-#syn(kimataifa news taarifa za kimataifa) #syn(ukoo))
+#syn(farasi) #syn(kinyama mnyama wanyama waste kinyesi))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4469</number>
+<number>query1787</number>
 <text>
 #max(
 #combine(
-#syn(bustani kore shamba makore) #syn(shamba uwanja) #syn(upanzi mmea mimea) #syn(mboga mmea))
+#syn(ngao))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4474</number>
+<number>query3564</number>
 <text>
 #max(
 #combine(
-#syn(msafiri msafiri wasafiri safari safiri) #syn(safari safiri))
+#syn(sayare sayari))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4510</number>
+<number>query2985</number>
 <text>
 #max(
 #combine(
-#syn(turufu) #syn(upole leader kiongozi wa siasa leaders))
+#syn(upendeleo))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4516</number>
+<number>query1964</number>
 <text>
 #max(
 #combine(
-)
+#syn(pikipiki))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4553</number>
+<number>query3261</number>
 <text>
 #max(
 #combine(
-#syn(miraa mirungi) #syn(biashara) #syn(kununua nunua) #syn(na so forth kadhalika) #syn(uza))
+#syn(bendi) #syn(muziki mziki))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4561</number>
+<number>query1405</number>
 <text>
 #max(
 #combine(
-#syn(nafaka) #syn(kilo lisha nafaka))
+#syn(virutubisho))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4563</number>
+<number>query3793</number>
 <text>
 #max(
 #combine(
-#syn(farm chalo farms machalo) #syn(fora umaarufu))
+#syn(chakula lishe mlo price bei ya))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4566</number>
+<number>query480</number>
 <text>
 #max(
 #combine(
+#syn(bunduki))
 )
-)
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4568</number>
+<number>query468</number>
 <text>
 #max(
 #combine(
-#syn(upole leader kiongozi wa siasa leaders) #syn(vyama chama kundi safu) #syn(changes mabadiliko ya kikatiba law sheria) #syn(halali kanuni sheria))
+#syn(berry buni kahawa mbuni mkahawa plant) #syn(kinywaji))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4571</number>
+<number>query3515</number>
 <text>
 #max(
 #combine(
-#syn(krismasi) #syn(salamu usalamu usalama))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4572</number>
-<text>
-#max(
+#uw10(Africa afrika) #syn(ukumbi))
 #combine(
-#syn(jam mfungamano wa magari police trafiki) #syn(mazingara mazingira))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4593</number>
-<text>
-#max(
+#uw10(Africa Afrika) #syn(ukumbi))
 #combine(
-#syn(pole mlingoti wa umeme poles milingoti) #syn(makampuni kampuni) #syn(malumbano) #syn(a age komaa) #syn(maslahi riba))
+#uw10(Afrika afrika) #syn(ukumbi))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4599</number>
+<number>query2015</number>
 <text>
 #max(
 #combine(
-#syn(jini mzuka majini mizuka) #syn(mfanyakazi) #syn(a age komaa) #syn(chuo mataasisi vyuo taasisi) #syn(bali lakini walakini) #syn(hakuna hapana problem hakuna matata si) #syn(cloth demu kazi kufanya kazi))
+#syn(jini mzuka majini mizuka) #syn(pepo roho nyoyo zimwi waragi))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4602</number>
+<number>query3814</number>
 <text>
 #max(
 #combine(
-#syn(msuli misuli))
+#syn(duma))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4634</number>
+<number>query4344</number>
 <text>
 #max(
 #combine(
-#syn(maradhi magonjwa ugonjwa))
+#syn(rotuba mbolea) #syn(mchanga udongo))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4637</number>
+<number>query1635</number>
 <text>
 #max(
 #combine(
-#syn(kimataifa news taarifa za kimataifa))
+#syn(pepo))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4638</number>
+<number>query1465</number>
 <text>
 #max(
 #combine(
-#syn(mwekaji rubuni uwekaji) #syn(time to time mara kwa mara) #syn(nguvu))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4650</number>
-<text>
-#max(
+#uw10(transport))
 #combine(
-#syn(ubalozi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4651</number>
-<text>
-#max(
+#uw10(usafiri))
 #combine(
-#syn(kigeuzi mtambo wa transfoma transfoma))
+#uw10(wa))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4654</number>
+<number>query1792</number>
 <text>
 #max(
 #combine(
-#syn(historia) #syn(bandika bandiko yaliyopita) #syn(kisa matukio visa tukio))
+#syn(handaki kuo mtaro))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4657</number>
+<number>query1910</number>
 <text>
 #max(
 #combine(
@@ -3361,97 +741,81 @@
 </query>
 <query>
 <type>indri</type>
-<number>query4661</number>
+<number>query1816</number>
 <text>
 #max(
 #combine(
-#syn(ujamaa usoshalisti) #syn(khuendelea maendeleo ustawishaji))
+#syn(mnanasi nanasi mananasi) #syn(matunda shoga matunda tree mti wa))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4662</number>
+<number>query1999</number>
 <text>
 #max(
 #combine(
-#syn(common shirika front mbele front of))
+#syn(manispaa))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4672</number>
+<number>query1541</number>
 <text>
 #max(
 #combine(
-#syn(amani salama))
+#uw10(mtoto) #syn(Sahara))
+#combine(
+#uw10(mchanga) #syn(Sahara))
+#combine(
+#uw10(watoto) #syn(Sahara))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4674</number>
+<number>query4030</number>
 <text>
 #max(
 #combine(
-#syn(pasaka) #syn(sherehe tafrija))
+#syn(michuano kibiriti mashindano mchuano mechi) #syn(vibiriti vya chuma))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4676</number>
+<number>query1631</number>
 <text>
 #max(
 #combine(
-#syn(upole leader kiongozi wa siasa leaders) #syn(mwongozo uongozi utawala))
+#syn(elekea sura uso wajihi) #syn(alamina arthi dunia dunia duniani nchi) #syn(cup kombe la dunia cups vikombe))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4677</number>
+<number>query1444</number>
 <text>
 #max(
 #combine(
-#syn(field ngao ya nishati kahari kahiri))
+#syn(bomba clay choki digali kiko viko) #syn(lily yungiyungi maji melons matikiti melon) #syn(shinikizo) #syn(fizikia) #syn(field ngao ya nishati kahari kahiri))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4678</number>
+<number>query3049</number>
 <text>
 #max(
 #combine(
-#syn(faida matumizi) #syn(a age komaa) #syn(language lugha asilia uasili mazingira) #syn(gesi giant pandikizi la gesi))
+#syn(mzizi mizizi))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4683</number>
-<text>
-#max(
-#combine(
-#syn(ulimwengu chuo kikuu) #syn(chuo mataasisi vyuo taasisi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4686</number>
-<text>
-#max(
-#combine(
-#syn(kadinoli kardinali makadinoli) #syn(mwelekeo mielekeo))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4692</number>
+<number>query1954</number>
 <text>
 #max(
 #combine(
@@ -3461,407 +825,273 @@
 </query>
 <query>
 <type>indri</type>
-<number>query4693</number>
+<number>query2000</number>
 <text>
 #max(
 #combine(
-#syn(extinguisher kizima moto kupiga risasi moto))
+#uw10(naibu diwani))
+#combine(
+#uw10(naibu meya))
+#combine(
+#uw10(naibu madiwani))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4694</number>
+<number>query2684</number>
 <text>
 #max(
 #combine(
-#syn(dizeli) #syn(bei for blood donation arshi))
+#uw10(anthem timu))
+#combine(
+#uw10(wimbo timu))
+#combine(
+#uw10(wa timu))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4699</number>
+<number>query3700</number>
 <text>
 #max(
 #combine(
-#syn(anthem wimbo wa taifa congresses makongamano) #syn(hopitali hospitali mahospitali))
+#uw10(rice belly) #syn(lily yungiyungi maji melons matikiti melon) #syn(cash taslimu majimaji))
+#combine(
+#uw10(rice kitambi) #syn(lily yungiyungi maji melons matikiti melon) #syn(cash taslimu majimaji))
+#combine(
+#uw10(rice buli) #syn(lily yungiyungi maji melons matikiti melon) #syn(cash taslimu majimaji))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4702</number>
+<number>query2908</number>
 <text>
 #max(
 #combine(
-#syn(animal mfugo animals mifugo) #syn(masera and orders sera na taratibu))
+#uw10(kibogoyo missing))
+#combine(
+#uw10(kibogoyo finger))
+#combine(
+#uw10(kibogoyo or))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4703</number>
+<number>query2021</number>
 <text>
 #max(
 #combine(
-#syn(kansa saratani) #syn(ukuaji))
+#syn(matende of the scrotum busha of))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4705</number>
+<number>query1644</number>
 <text>
 #max(
 #combine(
-#syn(almasi uru uru) #syn(chimbo mgodi shimo machimbo))
+#syn(zahama) #syn(suluhisho suluhu) #syn(jawabu jibu majawabu majibu))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4706</number>
+<number>query1419</number>
 <text>
 #max(
 #combine(
-#syn(uchumi))
+#uw10(changa kaumu) #syn(vyama chama kundi safu) #syn(upole leader kiongozi wa siasa leaders))
+#combine(
+#uw10(changa kikundi) #syn(vyama chama kundi safu) #syn(upole leader kiongozi wa siasa leaders))
+#combine(
+#uw10(changa kundi) #syn(vyama chama kundi safu) #syn(upole leader kiongozi wa siasa leaders))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4727</number>
+<number>query472</number>
 <text>
 #max(
 #combine(
-#syn(kuku louse utitiri nyama ya kuku) #syn(from the dead fufua) #syn(kinyama mnyama wanyama waste kinyesi))
+#syn(karakana) #syn(keta mgomo migomo migomo))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4728</number>
+<number>query3044</number>
 <text>
 #max(
 #combine(
-#syn(rotuba mbolea) #syn(mbolea mboleya) #syn(kijiji mwanakijiji) #syn(changa dogo kidogo lumb of flour) #syn(council baraza la mji mji mjini))
+#syn(uana utoto))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4737</number>
+<number>query2234</number>
 <text>
 #max(
 #combine(
-#syn(elimu ya rubani) #syn(hawa hewa port kiwanja ndege))
+#syn(marubani mwanahewa rubani marubani wanahewa) #syn(elimu ya rubani))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4755</number>
+<number>query2002</number>
 <text>
 #max(
 #combine(
-#syn(rasmi) #syn(notisi tangazo) #syn(mwajiri waajiri ajira) #syn(cloth demu kazi kufanya kazi))
+#syn(leja) #syn(akaunti mhasibu hazina hesabu) #syn(kitabu vitabu vitabu))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4757</number>
+<number>query1817</number>
 <text>
 #max(
 #combine(
-#syn(serikali) #syn(ukimwi usaidizi) #syn(biashara card kadi kazi license leseni))
+#syn(sungura))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4761</number>
+<number>query484</number>
 <text>
 #max(
 #combine(
-#syn(uraia))
+#uw10(ubadilishaji))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4767</number>
+<number>query1638</number>
 <text>
 #max(
 #combine(
-#syn(valley bonde la ufa) #syn(bonde mabonde) #syn(upanzi mmea mimea) #syn(officer bwanashamba kilimo))
+#syn(askofu chekechea) #syn(dini))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4776</number>
+<number>query1406</number>
 <text>
 #max(
 #combine(
-#syn(utamaduni))
+#uw10(jiriwa urais))
+#combine(
+#uw10(jiriwa rais))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4780</number>
+<number>query1421</number>
 <text>
 #max(
 #combine(
-#syn(sadaka) #syn(sadaka matoleo toleo) #syn(barabara njia) #syn(ai asaiberi ai mwasaiberi corrupt person) #syn(mamna mbinu njia) #syn(example kwa mfano kwa kwani) #syn(msafiri msafiri wasafiri safari safiri))
+#uw10(Hague umuhimu kitu))
+#combine(
+#uw10(Hague umuhimu vitu))
+#combine(
+#uw10(Hague umuhimu vitu))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4795</number>
+<number>query1645</number>
 <text>
 #max(
 #combine(
-#syn(biashara card kadi kazi license leseni) #syn(mikopo mkopo mikopo) #syn(anthem wimbo wa taifa congresses makongamano) #syn(deni))
+#syn(kisu makali ya kisu))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4799</number>
+<number>query1404</number>
 <text>
 #max(
 #combine(
-#syn(shirika mashirika panga maungo ungo) #syn(kisa matukio visa tukio) #syn(jiri matukiyo tokea tukia tukiyo))
+#syn(bone kifuu bones vifuu net jarife) #syn(kinyama mnyama wanyama waste kinyesi))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4808</number>
+<number>query1988</number>
 <text>
 #max(
 #combine(
-#syn(misheni) #syn(makanisa kanisa leaders viongozi wa dini) #syn(hopitali hospitali mahospitali))
+#syn(askofu chekechea) #syn(dini))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4862</number>
+<number>query1851</number>
 <text>
 #max(
 #combine(
-#syn(dunga) #syn(sindano) #syn(mlanguzi mtumiaji mtumizi))
+#syn(kitimoto nyama ya nguruwe) #syn(nguruwe) #syn(ball kababu balls makababu nyama))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query487</number>
+<number>query1409</number>
 <text>
 #max(
 #combine(
-#syn(chana chozi mraruo machozi) #syn(kiliyo lia))
+#syn(balozi) #syn(kamera makamera))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query490</number>
+<number>query1975</number>
 <text>
 #max(
 #combine(
-)
+#syn(bangi))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4918</number>
+<number>query2020</number>
 <text>
 #max(
 #combine(
-#syn(kisawe sinonimu visawe utata))
+#syn(minyoo) #syn(kimelea vimelea))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4921</number>
+<number>query3518</number>
 <text>
 #max(
 #combine(
-#syn(gitaa Gitaa))
+#syn(heko hongera))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query4924</number>
-<text>
-#max(
-#combine(
-#syn(gereji magereji) #syn(behewa chest kasha chests makasha))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4926</number>
-<text>
-#max(
-#combine(
-#syn(mlingoti) #syn(mlingoti milingoti))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4935</number>
-<text>
-#max(
-#combine(
-#syn(mdai mkopeshaji wadai))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query4944</number>
-<text>
-#max(
-#combine(
-#syn(dokeza eleza simua))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query514</number>
-<text>
-#max(
-#combine(
-#syn(cancer saratani ya tumbo tumbo utumbo))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query519</number>
-<text>
-#max(
-#combine(
-#syn(chapeo chepeo kofia pama))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query564</number>
-<text>
-#max(
-#combine(
-#syn(interpretation aguzi ndoto ota -ota) #syn(ukuaji))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query594</number>
-<text>
-#max(
-#combine(
-#syn(ndoa) #syn(mwanamuziki mwimbaji))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query622</number>
-<text>
-#max(
-#combine(
-#syn(barabara njia) #syn(ajali))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query623</number>
-<text>
-#max(
-#combine(
-#syn(lori) #syn(gari))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query721</number>
-<text>
-#max(
-#combine(
-#syn(haja hitaji matakwa uhitaji) #syn(fedha ghawazi ndarama pesa plant chazi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query723</number>
-<text>
-#max(
-#combine(
-#syn(usugu people mashupavu person shupavu) #syn(aushi maisha sever boats mashuaokozi trend))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query734</number>
-<text>
-#max(
-#combine(
-#syn(kiangazi ukame))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query741</number>
-<text>
-#max(
-#combine(
-#syn(jinai uhalifu) #syn(chunguza dadisi ukale mchunguzi wachunguzi))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query814</number>
-<text>
-#max(
-#combine(
-#syn(krismasi) #syn(likizo sikukuu siku kuu))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query815</number>
-<text>
-#max(
-#combine(
-#syn(muumini waumini) #syn(bwana mabwana mungu rabi rahimu creation))
-)
-</text>
-</query>
-<query>
-<type>indri</type>
-<number>query816</number>
+<number>query1647</number>
 <text>
 #max(
 #combine(
@@ -3871,117 +1101,2067 @@
 </query>
 <query>
 <type>indri</type>
-<number>query817</number>
+<number>query1054</number>
 <text>
 #max(
 #combine(
-#syn(free achiliwa huru free weka huru) #syn(bure huru of charge bure person))
+#uw10(kunga huduma))
+#combine(
+#uw10(kunga hudumia))
+#combine(
+#uw10(meeting huduma))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query824</number>
+<number>query1096</number>
 <text>
 #max(
 #combine(
-#syn(daktari dokta madaktari))
+#syn(tochi))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query827</number>
+<number>query3360</number>
 <text>
 #max(
 #combine(
-#syn(uwindaji uwindo kuwinda) #syn(kinyama mnyama wanyama waste kinyesi))
+#syn(makumbusho))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query842</number>
+<number>query3835</number>
 <text>
 #max(
 #combine(
-#syn(kamusi))
+#syn(darubini))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query844</number>
+<number>query1924</number>
 <text>
 #max(
 #combine(
-#syn(kitabu vitabu vitabu))
+#syn(albino maalbino zeruzeru) #syn(kliniki) #syn(hopitali hospitali mahospitali))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query851</number>
+<number>query1461</number>
 <text>
 #max(
 #combine(
-#syn(runinga televisheni) #syn(habari) #syn(chombo cha habari house vyombo vya))
+#syn(ukulima shamba))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query854</number>
+<number>query1086</number>
 <text>
 #max(
 #combine(
-#syn(barabara njia) #syn(usalama))
+#syn(umuhimu issues maswala nyeti muhimu) #syn(chaki machaki))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query858</number>
+<number>query3905</number>
 <text>
 #max(
 #combine(
-#syn(mamba ngwena) #syn(chana chozi mraruo machozi) #syn(kiliyo lia))
+#syn(urusi Urusi) #syn(kwazo kwazo))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query865</number>
+<number>query1600</number>
 <text>
 #max(
 #combine(
-#syn(ugonjwa people wagonjwa) #syn(makampuni kampuni))
+#uw10(shajara))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query866</number>
+<number>query4357</number>
 <text>
 #max(
 #combine(
-#syn(home makaazi ya mtoto wana watoto) #syn(majeshi ant siafu jeshi men wanajeshi))
+#uw10(chanikiwiti geuza))
+#combine(
+#uw10(chanikiwiti mageuzi))
+#combine(
+#uw10(chanikiwiti mapinduzi))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query883</number>
+<number>query1850</number>
 <text>
 #max(
 #combine(
-#syn(bei for blood donation arshi) #syn(a age komaa) #syn(lily yungiyungi maji melons matikiti melon))
+#syn(tairi tohara))
 )
 </text>
 </query>
 <query>
 <type>indri</type>
-<number>query981</number>
+<number>query4103</number>
+<text>
+#max(
+#combine(
+#uw10(chana gesi) #uw10(umati))
+#combine(
+#uw10(chana giant) #uw10(umati))
+#combine(
+#uw10(chana pandikizi) #uw10(umati))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1551</number>
+<text>
+#max(
+#combine(
+#uw10(upole kampeni))
+#combine(
+#uw10(leader kampeni))
+#combine(
+#uw10(kiongozi kampeni))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1572</number>
+<text>
+#max(
+#combine(
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1981</number>
+<text>
+#max(
+#combine(
+#syn(Kaa kansa saratani Saratani) #syn(maradhi magonjwa ugonjwa) #syn(cancer saratani ya ngozi gamba ngozi))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1244</number>
+<text>
+#max(
+#combine(
+#syn(chakula cha jioni) #syn(kikombe kombe vikombe))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1797</number>
+<text>
+#max(
+#combine(
+#syn(ufukara umasikini umaskini) #syn(kama maziwa))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4301</number>
+<text>
+#max(
+#combine(
+#syn(ajali))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1933</number>
+<text>
+#max(
+#combine(
+#syn(ndondi sanduku) #syn(riadha michezo news habari za michezo) #syn(kiatu polish dawa ya viatu viatu))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1537</number>
+<text>
+#max(
+#combine(
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1847</number>
+<text>
+#max(
+#combine(
+#syn(maadui adui hasimu maadui) #syn(ball nzi gari kukimbia kuruka kurusha) #syn(mdudu wadudu))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1913</number>
+<text>
+#max(
+#combine(
+#syn(sindano) #syn(dawa madawa udaktari))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query493</number>
+<text>
+#max(
+#combine(
+#syn(usafiri safirisha uchukuzi) #syn(boti chombo dau mashua))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2566</number>
+<text>
+#max(
+#combine(
+#syn(matanga maziko mazishi))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4096</number>
+<text>
+#max(
+#combine(
+#uw10(apple karakana) #syn(zao))
+#combine(
+#uw10(mtopetope karakana) #syn(zao))
+#combine(
+#uw10(cane karakana) #syn(zao))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1943</number>
+<text>
+#max(
+#combine(
+#syn(kuzima) #syn(mamba ngwena))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4406</number>
+<text>
+#max(
+#combine(
+#syn(brackets mabano ya mraba) #syn(language lugha ya kuundwa) #syn(jenga jengo majengo kujenga))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1014</number>
+<text>
+#max(
+#combine(
+#syn(jenga jengo majengo kujenga) #syn(language lugha ya kuundwa))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1083</number>
+<text>
+#max(
+#combine(
+#uw10(up kelele) #syn(elimisha elimu))
+#combine(
+#uw10(up sura) #syn(elimisha elimu))
+#combine(
+#uw10(up ukemi) #syn(elimisha elimu))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2620</number>
+<text>
+#max(
+#combine(
+#syn(Chadi))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1814</number>
+<text>
+#max(
+#combine(
+#syn(gharika mafuriko) #syn(mbuzi) #syn(kinyama mnyama wanyama waste kinyesi))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1927</number>
+<text>
+#max(
+#combine(
+#syn(Hindi India Uhindi) #syn(silaha silaha vilaha vilaha))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3901</number>
+<text>
+#max(
+#combine(
+#uw10(a hospital) #syn(chunguza dadisi ukale mchunguzi wachunguzi))
+#combine(
+#uw10(a hospitali) #syn(chunguza dadisi ukale mchunguzi wachunguzi))
+#combine(
+#uw10(a ya) #syn(chunguza dadisi ukale mchunguzi wachunguzi))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1652</number>
+<text>
+#max(
+#combine(
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1178</number>
+<text>
+#max(
+#combine(
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query498</number>
+<text>
+#max(
+#combine(
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4144</number>
+<text>
+#max(
+#combine(
+#uw10(mishahara))
+#combine(
+#uw10(mshahara))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1214</number>
+<text>
+#max(
+#combine(
+#uw10(Hague brow))
+#combine(
+#uw10(Hague nyusi))
+#combine(
+#uw10(Hague jicho))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4139</number>
+<text>
+#max(
+#combine(
+#uw10(blood libasi))
+#combine(
+#uw10(blood mavazi))
+#combine(
+#uw10(blood nguo))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4000</number>
+<text>
+#max(
+#combine(
+#uw10(mashindano malaria))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1331</number>
+<text>
+#max(
+#combine(
+#syn(maumbo umbo))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3481</number>
+<text>
+#max(
+#combine(
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3217</number>
+<text>
+#max(
+#combine(
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4154</number>
+<text>
+#max(
+#combine(
+#uw10(ajali bima))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4137</number>
+<text>
+#max(
+#combine(
+#uw10(mtoto chanjo))
+#combine(
+#uw10(mwana chanjo))
+#combine(
+#uw10(mzawa chanjo))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2032</number>
+<text>
+#max(
+#combine(
+#uw10(kandanda))
+#combine(
+#uw10(soka))
+#combine(
+#uw10(teams))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3292</number>
+<text>
+#max(
+#combine(
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4148</number>
+<text>
+#max(
+#combine(
+#uw10(uza bakari))
+#combine(
+#uw10(uza dung))
+#combine(
+#uw10(uza mavi))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1521</number>
+<text>
+#max(
+#combine(
+#syn(warsha))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3524</number>
+<text>
+#max(
+#combine(
+#syn(eusi Forest Msitu Mweusi hole shimo) #syn(giza red nyekundu iliyokoza) #syn(ya rangi nyingi michezo rangi))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1030</number>
+<text>
+#max(
+#combine(
+#uw10(Hague kitanda))
+#combine(
+#uw10(Hague vitanda))
+#combine(
+#uw10(Den kitanda))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1721</number>
+<text>
+#max(
+#combine(
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1495</number>
+<text>
+#max(
+#combine(
+#syn(mja mzito wajamzito women waja wazito) #syn(mtoto mwana mzawa out of wedlock) #syn(clothes mikaja cloth mkaja kuzaa zaa))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2933</number>
+<text>
+#max(
+#combine(
+#syn(bei for blood donation arshi) #syn(added tax kodi ya nyongeza dhamana))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3647</number>
+<text>
+#max(
+#combine(
+#syn(mkorosho nut korosho) #syn(nati njugu))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1865</number>
+<text>
+#max(
+#combine(
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2017</number>
+<text>
+#max(
+#combine(
+#syn(mwanasheria mawakili wanasheria wakili))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query993</number>
+<text>
+#max(
+#combine(
+#syn(bayani hotuba hutuba usemi) #syn(announcement habari za tanzia hilaki kifo))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1598</number>
+<text>
+#max(
+#combine(
+#syn(kubwa ndovu seal tembo wa bahari))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2725</number>
+<text>
+#max(
+#combine(
+#syn(mwanakemia))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2731</number>
+<text>
+#max(
+#combine(
+#syn(bakteria))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2959</number>
+<text>
+#max(
+#combine(
+#syn(fainali finali mafainali step aheri))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1745</number>
+<text>
+#max(
+#combine(
+#syn(-a kimashamba currency faranga mashamba mashambani))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1974</number>
+<text>
+#max(
+#combine(
+#syn(kio kioo))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query988</number>
+<text>
+#max(
+#combine(
+#uw10(officer mwanahabari))
+#combine(
+#uw10(officer ripoti))
+#combine(
+#uw10(officer taarifa))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1985</number>
+<text>
+#max(
+#combine(
+#syn(kivuli uvuli))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2447</number>
+<text>
+#max(
+#combine(
+#uw10(utamaduni))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1707</number>
+<text>
+#max(
+#combine(
+#syn(ashiria ilani onyo))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3120</number>
+<text>
+#max(
+#combine(
+#uw10(bega ku- bega))
+#combine(
+#uw10(bega lie bega))
+#combine(
+#uw10(bega danganya bega))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1960</number>
+<text>
+#max(
+#combine(
+#syn(bunduki) #syn(silaha silaha vilaha vilaha) #syn(kinga kukinga linda))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3215</number>
+<text>
+#max(
+#combine(
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2498</number>
+<text>
+#max(
+#combine(
+#syn(mvuvi))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3583</number>
+<text>
+#max(
+#combine(
+#uw10(girl msichana) #syn(Kenya Kenya))
+#combine(
+#uw10(girl mwari) #syn(Kenya Kenya))
+#combine(
+#uw10(girl wasichana) #syn(Kenya Kenya))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2031</number>
+<text>
+#max(
+#combine(
+#syn(ardhi arthi) #syn(account akaunti ya benki benki))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3390</number>
+<text>
+#max(
+#combine(
+#syn(chanikiwiti chanikwiti grams dengu grams plant) #syn(ya rangi nyingi michezo rangi))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1868</number>
+<text>
+#max(
+#combine(
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1683</number>
+<text>
+#max(
+#combine(
+#syn(kilomita))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1858</number>
+<text>
+#max(
+#combine(
+#uw10(anthem mfano))
+#combine(
+#uw10(wimbo mfano))
+#combine(
+#uw10(wa mfano))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2956</number>
+<text>
+#max(
+#combine(
+#syn(viazi kiazi kiazi ulaya))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3748</number>
+<text>
+#max(
+#combine(
+#syn(uti))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4183</number>
+<text>
+#max(
+#combine(
+#syn(karibuni majuzi) #syn(kine zogo si) #syn(ago kale ago zamani rains masika) #syn(ajihi zuru) #syn(utelezi))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3008</number>
+<text>
+#max(
+#combine(
+#syn(sherehe tafrija))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1719</number>
+<text>
+#max(
+#combine(
+#syn(mgongo of the head kisogo migongo))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1491</number>
+<text>
+#max(
+#combine(
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1984</number>
+<text>
+#max(
+#combine(
+#uw10(Hague dollars interpretation))
+#combine(
+#uw10(Hague dollars aguzi))
+#combine(
+#uw10(Hague dollars ndoto))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1036</number>
+<text>
+#max(
+#combine(
+#syn(panya) #syn(kinyama mnyama wanyama waste kinyesi))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query982</number>
+<text>
+#max(
+#combine(
+#uw10(ishi na kisukari))
+#combine(
+#uw10(ishi na mellitus))
+#combine(
+#uw10(ishi na bolisukari))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query728</number>
+<text>
+#max(
+#combine(
+#uw10(mgeni a))
+#combine(
+#uw10(mgeni age))
+#combine(
+#uw10(mgeni komaa))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3736</number>
+<text>
+#max(
+#combine(
+#syn(missing finger or toe buge mtu) #syn(epuka hepa kwepa ponyoka utoro) #syn(time to time mara kwa mara) #syn(Hague Den Haag ya) #syn(halali kanuni sheria) #syn(au))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query984</number>
+<text>
+#max(
+#combine(
+#syn(apple mtopetope cane miwa cane muwa))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2003</number>
+<text>
+#max(
+#combine(
+#syn(vitamini))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3309</number>
+<text>
+#max(
+#combine(
+#syn(jina majina taja) #syn(fulani) #syn(jina majina taja) #syn(msichana mwari wasichana) #syn(missing finger or toe buge mtu))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1713</number>
+<text>
+#max(
+#combine(
+#syn(boflo chapati kipande cha mkate mkate) #syn(chakula lishe mlo price bei ya))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4040</number>
+<text>
+#max(
+#combine(
+#syn(chizi jibini samli) #syn(shajara))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1501</number>
+<text>
+#max(
+#combine(
+#syn(cobra fira cobra swila))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1714</number>
+<text>
+#max(
+#combine(
+#syn(miili viwiliwili cells chembechembe za mwili) #syn(adabu uadhilifu heshima heshimu taadhima tii))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1693</number>
+<text>
+#max(
+#combine(
+#syn(mgomba ndizi plant mgomba plants migomba) #syn(matunda shoga matunda tree mti wa))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1853</number>
+<text>
+#max(
+#combine(
+#syn(fanicha samani))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2006</number>
+<text>
+#max(
+#combine(
+#syn(potasiamu))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3612</number>
+<text>
+#max(
+#combine(
+#syn(dole kidole millet mbege millet mwimbi))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3590</number>
+<text>
+#max(
+#combine(
+#syn(serikali) #syn(benbera bendera) #syn(bango))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3366</number>
+<text>
+#max(
+#combine(
+#syn(mirathi uridhi urithi ridhi))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1146</number>
+<text>
+#max(
+#combine(
+#syn(Biblia Biblia Neno la Mungu) #syn(dini))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3500</number>
+<text>
+#max(
+#combine(
+#uw10(amka common Hague asubuhi) #syn(amka coming mchaniko ingine juu kubali) #syn(common shirika front mbele front of) #syn(Hague Den Haag ya) #syn(asubuhi che glory ipomea greeting sabahi))
+#combine(
+#uw10(amka common Hague che) #syn(amka coming mchaniko ingine juu kubali) #syn(common shirika front mbele front of) #syn(Hague Den Haag ya) #syn(asubuhi che glory ipomea greeting sabahi))
+#combine(
+#uw10(amka common Hague glory) #syn(amka coming mchaniko ingine juu kubali) #syn(common shirika front mbele front of) #syn(Hague Den Haag ya) #syn(asubuhi che glory ipomea greeting sabahi))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1670</number>
+<text>
+#max(
+#combine(
+#syn(deed hatimiliki mada) #syn(kichwa man jumbe mkuu office makao) #syn(rudi rudia))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1951</number>
+<text>
+#max(
+#combine(
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1672</number>
+<text>
+#max(
+#combine(
+#syn(pacha pacha) #syn(missing finger or toe buge mtu))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1989</number>
+<text>
+#max(
+#combine(
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2958</number>
+<text>
+#max(
+#combine(
+#syn(albino maalbino zeruzeru) #syn(missing finger or toe buge mtu))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2971</number>
+<text>
+#max(
+#combine(
+#syn(hamamu mtumbaku pipe kiko gana tumbako))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1691</number>
+<text>
+#max(
+#combine(
+#syn(mfalme mzungu wa nne shehe wafalme) #syn(nyimbo wimbo))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3397</number>
+<text>
+#max(
+#combine(
+#syn(changudoa kahaba kiberenge kibiriti ngoma malaya))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4286</number>
+<text>
+#max(
+#combine(
+#uw10(suka dresser))
+#combine(
+#uw10(suka msusi))
+#combine(
+#uw10(suka nywele))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1941</number>
+<text>
+#max(
+#combine(
+#syn(kiambaza kuta kuta ua ukuta))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3288</number>
+<text>
+#max(
+#combine(
+#syn(kichana kitana))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2899</number>
+<text>
+#max(
+#combine(
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2976</number>
+<text>
+#max(
+#combine(
+#uw10(dola baiti) #syn(makao makaazi makao mkaazi mkazi mwenyeji))
+#combine(
+#uw10(dola boy) #syn(makao makaazi makao mkaazi mkazi mwenyeji))
+#combine(
+#uw10(dola boi) #syn(makao makaazi makao mkaazi mkazi mwenyeji))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1023</number>
+<text>
+#max(
+#combine(
+#syn(barua herufi mabarua saruji waraka) #syn(fariji))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2023</number>
+<text>
+#max(
+#combine(
+#syn(chuo mataasisi vyuo taasisi) #syn(shirika mashirika panga maungo ungo) #syn(warsha))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3159</number>
+<text>
+#max(
+#combine(
+#syn(kilabu klabu pau rungu karanga mavi) #syn(ligi of Nations Shirikisho la Mataifa) #syn(burudani tumbuiza))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1728</number>
+<text>
+#max(
+#combine(
+#uw10(cloth))
+#combine(
+#uw10(demu))
+#combine(
+#uw10(kazi))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3018</number>
+<text>
+#max(
+#combine(
+#syn(shoka) #syn(chombo kifaa mtambo mitambo vyombo))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1864</number>
+<text>
+#max(
+#combine(
+#syn(tafsiri ufasiri mkalimani))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1340</number>
+<text>
+#max(
+#combine(
+#syn(korti kortini kotini mahakama mahakamani order) #syn(halali kanuni sheria))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1688</number>
+<text>
+#max(
+#combine(
+#syn(ndoo zela))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1866</number>
+<text>
+#max(
+#combine(
+#syn(mhariri))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1519</number>
+<text>
+#max(
+#combine(
+#syn(kisima) #syn(lily yungiyungi maji melons matikiti melon) #syn(kijiji mwanakijiji))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1871</number>
+<text>
+#max(
+#combine(
+#uw10(chakula utamaduni))
+#combine(
+#uw10(cha utamaduni))
+#combine(
+#uw10(kichina utamaduni))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1729</number>
+<text>
+#max(
+#combine(
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3934</number>
+<text>
+#max(
+#combine(
+#syn(harufu))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1885</number>
+<text>
+#max(
+#combine(
+#syn(gawio kipaji kipawa magawio vipaji talanta) #syn(uwezo) #syn(mchoraji msanii mwanasanaa wasanii))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1718</number>
+<text>
+#max(
+#combine(
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1681</number>
+<text>
+#max(
+#combine(
+#syn(lenseni malenseni) #syn(halali idhini ruhusa))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1230</number>
+<text>
+#max(
+#combine(
+#syn(kijiko mwiko vijiko))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3402</number>
+<text>
+#max(
+#combine(
+#syn(pambo mapambo) #syn(bibi msichana mwanamwali) #syn(mwanamke))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3636</number>
+<text>
+#max(
+#combine(
+#uw10(company aria))
+#combine(
+#uw10(company gawa))
+#combine(
+#uw10(company sehemu))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3113</number>
+<text>
+#max(
+#combine(
+#syn(chakula cha asubuhi chamshakinywa kiamshakinywa kiamsha))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2503</number>
+<text>
+#max(
+#combine(
+#syn(jiko jikoni meko))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3290</number>
+<text>
+#max(
+#combine(
+#syn(dawati deski jarari madawati madeski) #syn(fanicha samani))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1993</number>
+<text>
+#max(
+#combine(
+#syn(petroli))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4047</number>
+<text>
+#max(
+#combine(
+#syn(simikwa) #syn(kichaa) #syn(dola hali house ikulu jamhuri nchi) #syn(msamaha samehe) #syn(msamaha))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3041</number>
+<text>
+#max(
+#combine(
+#syn(akhi mbasi mwenzi rafiki marafiki mayahe) #syn(missing finger or toe buge mtu) #syn(ukulima shamba) #syn(ardhi arthi))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query716</number>
+<text>
+#max(
+#combine(
+#syn(imarisha) #syn(fungo))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1785</number>
+<text>
+#max(
+#combine(
+#syn(dirisha madirisha))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3517</number>
+<text>
+#max(
+#combine(
+#uw10(example) #syn(example kwa mfano kwa kwani))
+#combine(
+#uw10(kwa) #syn(example kwa mfano kwa kwani))
+#combine(
+#uw10(mfano) #syn(example kwa mfano kwa kwani))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1338</number>
+<text>
+#max(
+#combine(
+#syn(deni) #syn(mdahalo midahalo))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3977</number>
+<text>
+#max(
+#combine(
+#syn(vitovu) #syn(nukta pointi) #syn(biashara) #syn(kununua nunua) #syn(na so forth kadhalika) #syn(uza))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query701</number>
+<text>
+#max(
+#combine(
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4001</number>
+<text>
+#max(
+#combine(
+#uw10(field) #syn(mwajiri waajiri ajira) #syn(asilimia))
+#combine(
+#uw10(ngao) #syn(mwajiri waajiri ajira) #syn(asilimia))
+#combine(
+#uw10(ya) #syn(mwajiri waajiri ajira) #syn(asilimia))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1335</number>
+<text>
+#max(
+#combine(
+#uw10(down badili))
+#combine(
+#uw10(down badiliko))
+#combine(
+#uw10(down badilisha))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2025</number>
+<text>
+#max(
+#combine(
+#uw10(officer masera))
+#combine(
+#uw10(officer and))
+#combine(
+#uw10(officer orders))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1982</number>
+<text>
+#max(
+#combine(
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1725</number>
+<text>
+#max(
+#combine(
+#syn(dada in law wifi kibibi umbu) #syn(ndugu) #syn(asubuhi che glory ipomea greeting sabahi))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1496</number>
+<text>
+#max(
+#combine(
+#syn(chombo cha habari house vyombo vya) #syn(-ingereza kiingereza Kiingereza kimombo kizungu Mwingereza))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1487</number>
+<text>
+#max(
+#combine(
+#syn(fedha ghawazi ndarama pesa plant chazi) #syn(Kikikuyu Mkikuyu))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query409</number>
+<text>
+#max(
+#combine(
+#syn(biashara card kadi kazi license leseni) #syn(biashara) #syn(ufukara umasikini umaskini))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1520</number>
+<text>
+#max(
+#combine(
+#syn(vamia))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1040</number>
+<text>
+#max(
+#combine(
+#syn(utumwa utwana) #syn(punda) #syn(kinyama mnyama wanyama waste kinyesi))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2024</number>
+<text>
+#max(
+#combine(
+#syn(girl kipusa ladies vipusa ladies warembo) #syn(makasi mikasi mkasi))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3747</number>
+<text>
+#max(
+#combine(
+#syn(mbaroni seli maseli) #syn(biolojia elimuviumbe))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3758</number>
+<text>
+#max(
+#combine(
+#syn(gharika mafuriko) #syn(msaidizi naibu manaibu timirya))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1887</number>
+<text>
+#max(
+#combine(
+#syn(uchina) #syn(unda) #syn(kiwanda))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3903</number>
+<text>
+#max(
+#combine(
+#syn(akraba jamaa ndugu wajamaa))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1921</number>
+<text>
+#max(
+#combine(
+#uw10(language afa))
+#combine(
+#uw10(language janga))
+#combine(
+#uw10(language maafa))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4275</number>
+<text>
+#max(
+#combine(
+#uw10(vita example) #syn(vita) #syn(example kwa mfano kwa kwani) #syn(halali))
+#combine(
+#uw10(vita kwa) #syn(vita) #syn(example kwa mfano kwa kwani) #syn(halali))
+#combine(
+#uw10(vita mfano) #syn(vita) #syn(example kwa mfano kwa kwani) #syn(halali))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1018</number>
+<text>
+#max(
+#combine(
+#syn(funga haraka funga saumu mfungo saumu) #syn(Ramadhani))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3784</number>
+<text>
+#max(
+#combine(
+#syn(butter siagi ya karanga karanga njugu) #syn(kumbwe makumbwe))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1918</number>
+<text>
+#max(
+#combine(
+#syn(chimbo mgodi shimo machimbo))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3345</number>
+<text>
+#max(
+#combine(
+#syn(kileo pombe kali) #syn(endesha kuendesha off fukuza) #syn(operesheni opereta maopereta) #syn(bike Pikipiki boat motoboti mota) #syn(gari))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3692</number>
+<text>
+#max(
+#combine(
+#syn(ya rangi nyingi michezo rangi) #syn(bolti) #syn(driver bisbisi parafujo pine mkadi pines))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3737</number>
+<text>
+#max(
+#combine(
+#syn(ng'ambo))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query743</number>
+<text>
+#max(
+#combine(
+#uw10(ujamaa chombo) #uw10(ulimwengu mwanachuo))
+#combine(
+#uw10(ujamaa chombo) #uw10(ulimwengu mwanafunzi))
+#combine(
+#uw10(ujamaa chombo) #uw10(ulimwengu mwanagenzi))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1977</number>
+<text>
+#max(
+#combine(
+#syn(juisi jusi maji maji ya machungwa) #syn(matunda shoga matunda tree mti wa))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1950</number>
+<text>
+#max(
+#combine(
+#syn(kago ndumba uchawi uganga urogi usinga) #syn(mjusi) #syn(kinyama mnyama wanyama waste kinyesi))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3721</number>
+<text>
+#max(
+#combine(
+#syn(mfiwa mtoto yatima mwanamkiwa mayatima wanamkiwa) #syn(of leaders shule ya viongozi shule))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1782</number>
+<text>
+#max(
+#combine(
+#syn(bone kifuu bones vifuu net jarife))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1568</number>
+<text>
+#max(
+#combine(
+#syn(hopitali hospitali mahospitali))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2011</number>
+<text>
+#max(
+#combine(
+#syn(amani salama) #syn(mwiislamu mwiislamu Mwislamu waislamu))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3950</number>
+<text>
+#max(
+#combine(
+#uw10(kiwanda sekta) #uw10(uchumi ila))
+#combine(
+#uw10(kiwanda sekta) #uw10(uchumi kizaazaa))
+#combine(
+#uw10(kiwanda sekta) #uw10(uchumi masaibu))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1779</number>
+<text>
+#max(
+#combine(
+#syn(account akaunti ya benki benki))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4366</number>
+<text>
+#max(
+#combine(
+#syn(mayai yai) #syn(chakula lishe mlo price bei ya))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4131</number>
+<text>
+#max(
+#combine(
+#uw10(ishi sanifu))
+#combine(
+#uw10(hai sanifu))
+#combine(
+#uw10(room sanifu))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3805</number>
+<text>
+#max(
+#combine(
+#syn(ada desturi care mhudumu mteja wateja) #syn(serikali) #syn(uwakala))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1219</number>
+<text>
+#max(
+#combine(
+#syn(a age komaa) #syn(serikali))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1332</number>
+<text>
+#max(
+#combine(
+#syn(a age komaa) #syn(ai asaiberi ai mwasaiberi corrupt person) #syn(baiti boy boi nyumba mabaiti))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1744</number>
+<text>
+#max(
+#combine(
+#syn(ukimwi UKIMWI usaidizi) #syn(maradhi magonjwa ugonjwa))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3418</number>
+<text>
+#max(
+#combine(
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2630</number>
+<text>
+#max(
+#combine(
+#uw10(bai))
+#combine(
+#uw10(kura))
+#combine(
+#uw10(uchaguzi))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3060</number>
+<text>
+#max(
+#combine(
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4162</number>
+<text>
+#max(
+#combine(
+#syn(usafi))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4160</number>
+<text>
+#max(
+#combine(
+#uw10(cancer))
+#combine(
+#uw10(saratani))
+#combine(
+#uw10(ya))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3201</number>
 <text>
 #max(
 #combine(
@@ -3991,11 +3171,69 @@
 </query>
 <query>
 <type>indri</type>
-<number>query995</number>
+<number>query3054</number>
 <text>
 #max(
 #combine(
-#syn(hakimu mahakimu))
+)
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query3604</number>
+<text>
+#max(
+#combine(
+#syn(matunda shoga matunda tree mti wa))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4177</number>
+<text>
+#max(
+#combine(
+#uw10(clothes mdhabiti))
+#combine(
+#uw10(clothes wadhabiti))
+#combine(
+#uw10(mikaja mdhabiti))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query2622</number>
+<text>
+#max(
+#combine(
+#uw10(Hague changes))
+#combine(
+#uw10(Hague mabadiliko))
+#combine(
+#uw10(Hague ya))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query1967</number>
+<text>
+#max(
+#combine(
+#syn(kemikali) #syn(embe maembe juice maji ya maembe) #syn(matunda shoga matunda tree mti wa))
+)
+</text>
+</query>
+<query>
+<type>indri</type>
+<number>query4309</number>
+<text>
+#max(
+#combine(
+#syn(lori) #syn(lori) #syn(aushi maisha sever boats mashuaokozi trend))
 )
 </text>
 </query>

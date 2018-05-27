@@ -1,0 +1,129 @@
+[0.000]
+<sta> patuloy pa rin ang bakbakan sa ilang lugar dito sa Zamboanga City .
+[4.750]
+<sta> kanina isang opisyal ang napatay ng sniper ng M_N_L_F <sta> habang nagsasagawa ng clearing operations sa dating kuta ng mga rebelde .
+[14.390]
+<sta> live mula pa rin dito sa Zamboanga si Chino Gaston may report .
+[18.453]
+<int> Chino ?
+[19.590]
+<no-speech>
+[21.310]
+Jessica sa pagpasok nga ng ikalabing-isang araw ng kaguluhan dito sa Zamboanga City pansin ang napakalaking epekto ng <hes> sigalot dito sa lungsod mula sa araw-araw na naririnig na mga putukan maging sa araw-araw ding sunog na nangyayari diyan sa mga lugar kung saan pinaniniwalaang nagkukuta pa rin ang grupo ng M_N_L_F dito sa Zamboanga City .
+[43.280]
+<no-speech>
+[47.493]
+<sta> araw-araw halos walang palya ang putukan at mga sunog sa Zamboanga City .
+[51.450]
+<no-speech>
+[54.059]
+<sta> kaya ang dating masiglang komunidad ganito na ang itsura ngayon .
+[58.240]
+<sta> sa pag-ikot ng Philippine Air Force mula sa himpapawid kulay abo ang ilang bahagi ng siyudad .
+[63.570]
+<sta> nangingitim ang mga bubong at pader ng mga bahay tanda ng mga sunog na pinaniniwalaang nilikha ng paksyon ng M_N_L_F .
+[71.790]
+kaninang umaga muling binulabog ng putukan ang Santa Catalina at Santa Barbara .
+[75.703]
+<sta> (()) .
+[78.520]
+mayro'n ding sumiklab na mga sunog sa Santa Barbara at Rio Hondo .
+[82.572]
+<no-speech>
+[84.660]
+maya't maya rin ang putukan at pagsabog sa (()) street kaya't hindi pa masabi kung ligtas na ang lugar .
+[89.957]
+<no-speech>
+[91.120]
+bagamat napasakamay na ng militar ang K_G_K building doon na dating kuta ng mga rebelde kaninang umaga napatay si first lieutenant John Christopher Rama habang nagsasagawa ng clearing operations .
+[102.290]
+siya ang kauna-unahang opisyal ng militar na nasawi sa kasalukuyang sagupaan sa Zamboanga City .
+[107.517]
+bagamat malungkot 'yan ay parte ng aming tungkulin at <hes> hindi 'to <hes> magiging sagabal sa aming <hes> operation at ito pa ay magiging <hes> inspiration sa ating mga kasundaluhan .
+[122.712]
+bahagi si first lieutenant Rama ng Philippine Military Academy class two thousand and eight .
+[127.330]
+siya ang tumayong platoon leader ng first light reaction company .
+[130.810]
+ang kaniyang pagkamatay buong loob na tinanggap ng kaniyang pamilya .
+[134.870]
+(()) pray for us <sta> (()) .
+[141.240]
+<sta> (()) tapos kaninang umaga mga six ten (()) nag-text siya sa akin na good morning at saka nag-greet ng happy birthday <sta> (()) dapat kasi matagal na po pinatigil ang putukan na 'yan eh .
+[153.784]
+<sta> ang dami (()) .
+[156.140]
+bukod kay Rama isang sundalo pa ang napatay sa bakbakan nitong Martes .
+[160.300]
+kagabi sinalubong ng kaniyang kaanak ang labi ni first lieutenant Mark Herson Caranzo .
+[166.000]
+salamat sa mga nakikidalamhati sa asawa ko .
+[169.574]
+pero aanhin ko pa ang pagiging hero niya kung wala na siya .
+[175.000]
+sa Fort Pilar naman nakaengkuwentro ng mga militar ang dalawa umanong mababagsik na tauhan ng M_N_L_F .
+[181.107]
+pero matapos ang sagupaan napatay ang dalawang rebelde .
+[184.828]
+nakuha sa kanila ang matataas na kalibre ng armas .
+[187.730]
+sa isinagawa namang clearing operations nadampot ang ilang piraso ng rocket propel grenades na pumasok sa hall of justice ng lungsod .
+[195.660]
+ang ilan sa mga ito tumusok sa pader ng gusali kaya maingat na kinuha ng mga sundalo .
+[201.569]
+sa kalapit naman na barangay nadatnan ang mga sunog na bahay at sasakyan .
+[206.010]
+tadtad ng tama ng bala ang ilan pang ari-arian .
+[208.587]
+<no-speech>
+[209.123]
+hindi pa man natatapos ang bakbakan .
+[211.150]
+malaki ang kumpiyansa ng militar na lumiit na ang ginagalawan ng grupo nina Ustadz Habier Malik .
+[216.380]
+naniniwala kami nandiyan pa si <hes> kumander Malik at <hes> pilit natin na <hes> -- na tapusin 'to the soonest possible time .
+[226.640]
+at sa gitna ng krisis sa siyudad hindi pa rin nawawala ang bayanihan .
+[230.960]
+may ilang dinalhan ng pagkain ang militar at mga pulis .
+[233.960]
+<sta> (()) 'yan naempake dinala namin dito para tulong na rin diyan sa mga evacuees 'yong mga nasunugan .
+[241.470]
+<no-speech>
+[245.160]
+Jessica dakong alas sais ng <hes> gabi ay umalis tayo do'n sa Rio Hondo kung saan ilang araw na rin tayo nagmamasid at nag-re-report dito sa sigalot nga na nangyayari sa Zamboanga City at <hes> pansin natin na may mga panaka-naka pa ring putukan sa pagitan ng gobyerno at M_N_L_F .
+[260.650]
+bagamat pansin din natin 'yong mga ilaw sa karagatan na palatandaan na 'yong naval blockade ay ipinatutupad pa rin ng Philippine Navy para tiyaking hindi nga makakapuslit 'yong grupo ng M_N_L_F papunta sa karagatan Jessica .
+[273.526]
+<no-speech>
+[275.150]
+okay Chino nakalapit kami kaunti 'no do'n sa may <hes> kanto <hes> bago mag-Lustre street kaninang bandang mga four thirty to five at <hes> bukod do'n sa mga malalakas na sunog na natatanaw mula ro'n eh nakakarinig pa rin tayo ng <hes> putok 'no ?
+[292.099]
+may mga malalakas pa na parang mga bomba tapos mayro'ng mga automatic gunfire at mayro'n pa ring mga sniper shots .
+[299.610]
+ibig sabihin matindi pa rin talaga 'yong <hes> palitan ng putok o 'yong bakbakan ng magkabilang panig .
+[305.530]
+<no-speech>
+[308.770]
+tama ka diyan Jessica kasi isa nga sa mga question ngayon o tinatanong ngayon ng <hes> mga tao sa military maging sa pulis ay bakit ba tila hindi nauubusan 'to ng bala at ammunition at supplies itong M_N_L_F na <hes> eleven days na na nagkukuta at nakikipagbakbakan dito sa puwersa ng gobyerno .
+[326.830]
+so kung <hes> tatanungin daw military naniniwala silang maaaring nagka- -- <hes> -- o nakapag-imbak talaga ng husto ng supplies itong M_N_L_F bago pa sila dumating dito sa Zamboanga City .
+[337.484]
+ang ibig sabihin ay plinano talaga 'to at handa talaga silang makipagbakbakan ng medyo matagal na panahon .
+[344.411]
+<no-speech>
+[346.510]
+so hindi pa masabi ng militar Chino kung hanggang kailan pa itong ganitong sitwasyon kasi bagamat may mga <hes> ilang lugar na dito sa Zamboanga na parang pilit bumabalik na sa normal eh dahil hangga't may putukan eh parang hindi talaga mangyayari 'yon 'di ba ?
+[362.730]
+<no-speech>
+[365.433]
+alam mo Jessica kahit nga tayo na <hes> ilang araw na ring nag-co-cover dito sa <hes> Zamboanga City ay <hes> may mga ilang lugar na tayo na parang itinuturing ng safe 'no ?
+[374.854]
+pagdaan natin do'n alam na natin na medyo ligtas na itong lugar bagamat alam din natin kung saang lugar talaga 'yong medyo naririnig pa 'yong mga putukan .
+[383.120]
+pero nitong mga nagdaang araw akala natin tahimik na pagdaan na naman natin dito isang lugar na dito ay 'yong Fort Pilar kung saan na- -- <hes> -- nakagawian na nga ng media na pumunta do'n ay bigla itong isinara ng <hes> mga tauhan ng militar dahil ito na nga tumitindi na muli 'yong putukan .
+[398.965]
+kung kaya't kung ikaw naman ay sibilyan narito ka o nakatira ka dito sa palibot ng <hes> sinasabing tatlong major na mga barangays dito malapit sa city hall ay <hes> talagang duda ka talaga kung babalik ka pa sa ngayon dahil rinig na rinig pa talaga 'yong mga pagsabog at panakanakang putukan halos araw-araw .
+[417.325]
+<no-speech>
+[419.361]

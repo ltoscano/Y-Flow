@@ -1,0 +1,35 @@
+[0.000]
+<sta> sa ibang balita nakitaan ng sintomas ng matinding depresyon ang ilan sa mga biktima ng bagyong Sendong sa Cagayan De Oro at Iligan .
+[7.620]
+<sta> kaya nais ng madaliin ang pamamahagi ng gamot para sa mga biktima .
+[11.870]
+<sta> 'yan ang umagang balita ni Trini Velasco .
+[14.274]
+<no-speech>
+[16.114]
+palaging wala sa sarili ang ina ni Neneng .
+[18.910]
+matapos ang bagyong Sendong .
+[20.964]
+araw-araw siyang umaalis ng evacuation center para hanapin ang tatlong anak na inagos ng baha .
+[27.520]
+hindi rin siya kumakain .
+[29.206]
+kung hindi ko pilitin hindi siya kakain .
+[32.420]
+siyempre nag-aalala na kami .
+[34.380]
+ilan na ang naitala ng City Health Office ng Iligan na evacuees na may matinding depresyon .
+[40.630]
+ayon sa mga eksperto maaaring mauwi ito sa nervous breakdown o pagkasira ng ulo kung hindi maaagapan .
+[47.755]
+kabilang sa sintomas ng matinding depresyon ang pagiging tulala hindi pagsasalita hirap sa pagtulog kawalan ng ganang kumain at pagpapahiwatig na gustong magpakamatay .
+[59.540]
+giit ng mga psychiatrist kailangan ng pondo ng lokal na pamahalaan para pambili ng gamot para sa mga evacuees na nakararanas ng depresyon .
+[68.860]
+we have no medications to use as of this time for the indigent patients pero with this situation na <no-speech> lahat na sila affected 'no .
+[77.360]
+noong Biyernes lang isa evacuee na ang nagpakamatay sa evacuation center sa Cagayan De Oro city dahil sa matinding depresyon .
+[85.180]
+puspusan din ang pagsasanay ng mga gurong inatasang magbibigay ng stress debriefing para sa mga estudyanteng biktima ng bagyong Sendong .
+[93.738]

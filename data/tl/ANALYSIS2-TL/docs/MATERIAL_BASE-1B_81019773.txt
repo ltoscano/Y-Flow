@@ -1,0 +1,169 @@
+[0.000]
+<sta> Pilipinas nagpapagaling na po sa ngayon ang ilang sundalo na ma- -- mga nasugatan sa nangyaring pagsabog po ito sa Marawi city nitong nakalipas na Martes .
+[10.149]
+ayon po kay corporal Joselito Gallentes isa sa mga sundalong nasugatan diyan sa naturang pagsabog nais na niyang makabalik sa serbisyo .
+[18.313]
+ito'y hindi para gumanti kundi para tiyaking tapos na po ang kaguluhan at takot na binibigay ng mga grupong nagnanais guluhin ang katahimikan ng ating bansa .
+[28.520]
+pakinggan natin ang report na ito mula sa aming kasamang si George Mandola .
+[31.560]
+<no-speech>
+[33.980]
+<sta> nais ni corporal Joselito Gallentes na agad makabalik sa serbisyo .
+[38.390]
+sabi nito kahit saan pa siya i-assign ng Philippine army handa siya hindi upang makaganti kundi para matiyak na matapos na ang pagdadala ng takot ng mga grupong nagnanais guluhin ang katahimikan ng bansa .
+[49.250]
+dalawampu't pitong taong gulang pa lang si Gallentes .
+[51.711]
+wala pang pamilya .
+[52.817]
+anim na taon pa lang sa serbisyo .
+[55.030]
+kaya daw siya nagsundalo para maging tagapamayapa bago pa man lang siya magkapamilya .
+[59.566]
+isa si Gallentes sa labing-isang sundalong nasugatan nang masabugan ng improvised explosive device sa Marawi city noong bisperas ng pagbisita doon ng pangulong Duterte .
+[69.145]
+kuwento ni Gallentes habang binabaybay nila ang highway ng Marawi biglang sumabog ang I_E_D sa kanang bahagi ng kalsada .
+[76.440]
+sa sobrang lakas nito lahat ng labing-isang sakay ng unang sasakyan ay nasugatan .
+[80.740]
+kita naman sa mukha ni Gallentes nang datnan namin ito nagpapagaling sa Polymedic Medical Plaza sa Cagayan de Oro city .
+[87.500]
+nangingilid ang luha nito nang malamang may ibang balita na kumakalat na hindi daw totoo ang pakikipagpalitan nila ng putok sa mga posibleng nagtanim ng bomba .
+[96.420]
+kuwan sir pagputok sir kuwan sir diretso ako kuwan sir .
+[98.937]
+uhm hm akala ko sir patay na ako sir kasi yung marami akong dugo dito nakakuwan sa akin .
+[104.320]
+kasi sa ulo man yung kuwan tama ko tapos nagsa- -- nagsalita pa ako sabi ko sa sarili ko na buhay pa ako kasi nakasalita pa ako sir .
+[112.646]
+tapos gusto ko magkuwan sir mag (()) sir kasi sabi nila sir ambush man .
+[116.353]
+hindi kuno ang ambush sabay ambush .
+[118.350]
+hindi ko na ma- -- ma-kuwan na yung binti ko sir kasi akala ko natamaan din ang binti ko sir .
+[124.630]
+tapos hindi ako naka-respond doon sir .
+[127.103]
+(()) tama sa 'yo (()) sa ulo lang ?
+[129.740]
+oo sir .
+[130.450]
+ano yung tumama sa 'yo ?
+[131.814]
+sir ?
+[132.608]
+ano yung tumama sa 'yo ?
+[133.934]
+yung maliit lang splinters .
+[135.422]
+splinter noong I_E_D ?
+[137.134]
+yes sir .
+[137.816]
+ah okay .
+[139.130]
+afternoon nakaganti pa kayo ?
+[141.059]
+yung kuwan sir yung sa hulihan sir .
+[142.945]
+uhm hm .
+[143.490]
+kasi doon na first vehicle sir wala na kami nakaganti doon kasi kuwan kami doon pin down kami lahat doon sa -- doon sa %incomplete
+[149.531]
+first vehicle yung kasama mo yung mga P_S_G ?
+[152.348]
+yes sir .
+[153.100]
+yung official sir oo <overlap> si captain Smores .
+[155.483]
+<no-speech>
+[156.590]
+<hes> hindi n'yo -- noong papunta kayo doon talagang smooth lang hindi n'yo alam na may mga itinanim na I_E_D sa paligid ?
+[163.153]
+wala sir kasi palagi naman kami nagdaan doon -- doon sir .
+[165.970]
+uhm hm .
+[166.666]
+yung -- una noon kinuha namin sir yung taga kuwan S R C 'yon S R third S R C sir .
+[172.919]
+uhm hm .
+[173.950]
+noon pagkabukas P_S_G na naman kasi lahat nang araw may lakad kami kasi yung papel namin doon sa kuwan <no-speech> sa brigade escort .
+[183.283]
+escort lang yung kuwan namin .
+[185.280]
+ang sina- -- ang sinasabi mo sir is parang nagkaroon ng engkuwentro after na pumutok yung I_E_D .
+[190.116]
+yes sir .
+[190.646]
+afternoon .
+[191.270]
+<overlap> narinig ko roon sir .
+[192.092]
+oo .
+[192.560]
+kasi gusto ko -- gusto ko din na magganti sir kasi -- pero hindi ko na hindi ko na ma-kuwan yung katawan ko sir kasi <no-speech> kita ko yung lakas ng nag-agos ng dugo ko sir tapos yung katawan ko sir parang hindi na ma kuwan sir .
+[205.962]
+<no-speech>
+[207.036]
+parang luma- -- pinalalabas nila na ambush n'yo raw yung nangyari sa inyo .
+[211.404]
+anong masasabi mo doon ?
+[213.990]
+ah hindi 'yon totoo sir .
+[215.387]
+ang <no-speech> nandoon sa -- kami daw -- kami dapat ang kuwan %incomplete
+[219.939]
+nalulungkot ka ba na sa kabila ng mga nangyari sa inyo e (()) .
+[229.630]
+hindi namin alam .
+[231.400]
+nalungkot talaga sir .
+[232.666]
+<no-speech>
+[233.753]
+(()) kahit lalo pa kay (()) sir <no-speech> ganito ko ayoko sir .
+[239.327]
+<no-speech>
+[240.891]
+wala sa inyo ?
+[241.876]
+wala sir .
+[243.000]
+yung kuwan sir %incomplete
+[243.926]
+<hes> na- -- now ano ?
+[246.034]
+yes sir .
+[246.460]
+kasi sa utak -- <hes> sa ulo man yung tama ko sir tapos <no-speech> pag hindi ako naka-helmet sir patay na talaga ako sir .
+[253.330]
+anong iniisip mo ?
+[254.461]
+pag- -- pag naka-deploy ka uli ano iniisip mo ?
+[257.390]
+gusto mo pa bang bumalik sa lugar na iyon ?
+[259.343]
+<no-speech>
+[260.315]
+<hes> <no-speech> gusto pa rin sir kasi trabaho naman talaga sir .
+[264.060]
+kabilang sa mga sugatan ang pitong sundalo na naka-detail sa presidential security group na sina captain Reynaldo Zamora corporal Vincent Paniza corporal Rodel Genova corporal Edward De Leon private first class James Gonzales staff sergeant Remy Damaso at sergeant Jesus Garcia .
+[282.970]
+gayon rin ang apat na sundalong naka-detail din sa Marawi presidential visit na sina corporal Joselito Gallentes private first class Fernando Corpuz staff sergeant Deofrosinio Payumo at sergeant Eric Ubalde .
+[296.090]
+tinangka din naming kunan ng pahayag naman ang isa pang sugatan na nagpapagaling sa Camp Evangelista Station Hospital sa Cagayan de Oro na si staff sergeant Remy Damaso .
+[304.950]
+nakausap ng inyong lingkod si Damaso na may nakatanim pang shrapnel sa kaniyang kanang torso .
+[309.815]
+subalit tumanggi na itong humarap pa sa camera .
+[313.000]
+maliban sa dalawa discharged na rin ang iba pang nasugatan sa insidente ng pag-atake sa mga miyembro ng presidential security group .
+[320.170]
+kuwento ng dalawa nagpaputok din sila upang mapigilan ang mga hindi nakikitang kaaway na sugurin sila mula sa naunang pag-atake .
+[328.920]
+para sa P_T_V news George Bandola .
+[331.462]
+<no-speech>
+[332.900]

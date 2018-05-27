@@ -1,0 +1,95 @@
+[0.000]
+<misc> day nine na nga po ng bakbakan sa Zamboanga City at kontrolado na ngayon ng puwersa ng gobyerno ang pitumpung porsiyento ng mga lugar na kinubkob ng M_N_L_F Misuari Faction ayon po 'yan sa A_F_P or Armed Forces of the Philippines .
+[13.070]
+nasa mahigit labing-anim na libong pamilya pa ang nanatili ngayon sa mga evacuation center at hindi pa tiyak kung kasama riyan ang mga pinalikas na residente sa barangay Mampang kasunod po ng balitang may mga rebelde umano sa lugar .
+[26.780]
+live mula sa Zamboanga City may report si Chino Gaston <misc> Chino .
+[30.889]
+<no-speech>
+[33.580]
+Iya nabalot muli ng tensiyon itong barangay Mampang at barangay uh arena Blanco dito sa Zamboanga City matapos magkasagupaan muli ang M_N_L_F at mga tropa ng militar .
+[44.900]
+at gaya g dati <int> libo-libong mga residente ang napilitang lumikas .
+[49.508]
+<no-speech>
+[50.295]
+(()) .
+[52.690]
+(()) .
+[59.070]
+<sta> magkahalong takot at tensiyon ang bumalot sa bahaging ito ng barangay Mampang sa Zamboanga City .
+[65.080]
+ang mga pinalikas na residente nagmamadali sa pagtakbo .
+[68.741]
+ang ilang <sta> bata sinakay ng kanilang mga magulang sa truck na ito .
+[72.472]
+<no-speech>
+[73.320]
+sa pagnanais nilang mapunta sa ligtas na lugar <sta> ang ilan nag-panic at kinakaladkad ang kanilang mga umiiyak na anak .
+[80.557]
+<no-speech>
+[81.400]
+isang sugatang sibilyan ang inilabas din mula <sta> Mampang at agarang ginamot ng red cross .
+[87.518]
+<no-speech>
+[88.287]
+sa gitna ng <int> kaguluhan maririnig ang mga umaalingawngaw na putukan .
+[92.310]
+<no-speech>
+[95.360]
+<sta> libo ang bilang ng mga residenteng pinalikas ng mga awtoridad doon .
+[99.970]
+<sta> ang ugat ng takot nila ang balitang may miyembro <int> ng M_N_L_F Misuari Faction <sta> na namataan sa nasabing barangay ngayong ikasiyam na araw ng krisis sa siyudad .
+[109.847]
+<no-speech>
+[111.330]
+bago ito pinaigting ang naval block maid sa <sta> Rio Ondo at marikit para tiyaking hindi makakatakas a karagatan ang mga rebelde .
+[119.460]
+kapansin pansin ang pag-ikot sa dagat ng mga patrol boat <sta> speedboat at mga navy ships .
+[124.741]
+<no-speech>
+[125.346]
+kaninang umaga nagkaroon din ng pagkakataon umalis ang ilang residenteng gustong lumayo sa kaguluhan sa lungsod .
+[131.710]
+<sta> ang barkong ito punong-puno ng magulang at kanilang mga anak na nais makaiwas sa putukan .
+[138.450]
+<sta> ayon sa Arm Force of the Philippines kontrolado na ng puwersa ng gobyerno ang seventy percent ng mga lugar sa Zamboanga City <sta> na kinupkop ng Misuari faction ng M_N_L_F .
+[148.332]
+<no-speech>
+[148.858]
+sa ngayon patuloy pa rin ang kanilang calibrated response <sta> o tantiyadong kalkuladong kilos para maibalik na ang katahimikan sa lungsod .
+[157.276]
+<no-speech>
+[160.530]
+<no-speech>
+[164.120]
+alam mo Pia kumpara sa mga nakaraang uh araw nitong mga uh nagdaang linggo ay tahimik itong uh Santa Barbara Santa Catalina Rio Ondo at Mariqui at mula ngayong araw at uh maging kahapon ay uh pansin yung uh hindi na masyadong matunog o minsan nga wala talagang naririnig na putok mula dito sa hanay ng M_N_L_F kaya't uh bagamat sinasabi ngayon ng uh A_F_P na hindi puwedeng masabing one hundred percent sure sila na wala na nga dito yung uh grupo ng M_N_L_F sa Zamboanga City ang malaking katanungan ngayon ay nasa'n si <hes> Commander (()) na namuno nga dito sa mga M_N_L_F na umukupa sa ilang barangay dito sa Zamboanga City Pia .
+[204.710]
+pero Chino ito nga kung sinasabi nga ng uh A_F_P na seventy percent no <sta> hawak nila mayroon ba silang mga inilalatag na timeline na halimbawa e by uh the end of this week e kailangan e talagang masabi na nila for sure na wala na nga ang uh mga puwersa ng M_N_L_F <sta> sa Zamboanga City .
+[221.338]
+oo .
+[222.094]
+<no-speech>
+[224.785]
+alam mo mahirap uh basahin ngayon yung uh nilalabas na mga pahayag ng uh militar dahil uh sa ngayon patuloy pa rin ang confirmation nila kung saan nga ito nga si Commander Malik .
+[236.723]
+kung nakatakas na ba ito napatay na ba ito <sta> at kung nasaan talaga yung bulto ng grupo ng uh M_N_L_F na sinasabi pa may natitira pang around one hundred daw sa kanila batay na rin ito sa mga impormasyong ating natatanggap .
+[249.381]
+at yung nga engkuwentro nga dito sa Mangpang at sa <hes> -- sa Arena Blanco kung saan na na nakuha nga siya Colonel uh Malayo ng uh Zamboanga City Police ay isa sa indikasyon na mayroon pang M_N_L_F na natitira dito bagamat yung uh hindi bababa sa dalawampu na sumuko kasama ni uh na nabitbit nga niya Colonel Malayo o nakumbinsing uh sumuko ay ilan lamang ito sa sinasabing uh puwersa talaga ng M_N_L_F na <hes> sinasabi o pinaniniwalaang nag-survive dito sa <hes> nagdaang araw na putukan .
+[284.268]
+kung kaya't malaking tanong pa 'yan kung seventy percent nga ba talaga ang uh sinasabing hawak ng militar o wala na talaga dito sa lugar yung M_N_L_F .
+[293.330]
+pero Chino itong lugar na kinatatayuan mo e habang nag-re-report ka may mga sasakyan na dumadaan sa iyong likuran .
+[298.510]
+ito ba'y mga sibilyan na talagang ipinagpapatuloy ang kanilang mga aktibidad ?
+[303.017]
+<no-speech>
+[306.040]
+well pansin na yung uh pagbalik talaga sa normal nitong uh malaking bahagi ng Zamboanga City Pia .
+[311.871]
+bagamat (()) siguro natin masisisi na <hes> may iba pang mga establisimiyento na bagamat malayo do'n sa <hes> tatlong barangay kung saan naganap ang pinakamatinding putukan <int> (()) o ibinabalik sa normal yung takbo ng kanilang mga establisimiyento .
+[327.300]
+ang uh kinatatayuan natin ngayon ay malapit lamang sa airport isa lang indikasyon ito Pia na hanggang sa mga sandaling ito nga ay uh sarado pa itong uh Zamboanga City International Airport .
+[338.287]
+maraming salamat ~ %incomplete
+[339.629]

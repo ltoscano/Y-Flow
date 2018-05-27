@@ -1,0 +1,85 @@
+<1>	(Outline, 0.000-0.005)	<no-speech>	<no-speech>
+<2>	(Inline, 0.000-2.330)	<no-speech>	<no-speech>
+<3>	(Outline, 0.005-1.086)	bukas ng umaga .	tomorrow morning .
+<4>	(Outline, 1.086-2.185)	'di ba puwede ngayon ?	can't it be today ?
+<5>	(Outline, 2.185-5.065)	<no-speech>	<no-speech>
+<6>	(Inline, 2.330-3.380)	eh subukan ko .	I'll try .
+<7>	(Inline, 3.380-4.190)	<no-speech>	<no-speech>
+<8>	(Inline, 4.190-6.700)	subukan ko 'pag ano -- 'pag .	I'll try when -- when .
+<9>	(Outline, 5.065-5.839)	ah .	ah .
+<10>	(Outline, 5.839-6.657)	<no-speech>	<no-speech>
+<11>	(Outline, 6.657-9.435)	eh pa'no ay sino pala nanalo 'yun sa P_B_A ?	how hey who won in the P_B_A ?
+<12>	(Inline, 6.700-9.620)	<no-speech>	<no-speech>
+<13>	(Outline, 9.435-10.395)	<no-speech>	<no-speech>
+<14>	(Inline, 9.620-11.620)	<int> kung sa P_B_A ?	if in the P_B_A ?
+<15>	(Outline, 10.395-11.155)	o sige .	oh okay .
+<16>	(Outline, 11.155-12.355)	<no-speech>	<no-speech>
+<17>	(Inline, 11.620-13.830)	<no-speech>	<no-speech>
+<18>	(Outline, 12.355-14.113)	o .	oh .
+<19>	(Inline, 13.830-16.026)	eh hindi ko napanood 'yong laro eh .	oh I wasn't able to watch the game .
+<20>	(Outline, 14.113-15.239)	hello ?	hello ?
+<21>	(Outline, 15.239-16.453)	hello ?	hello ?
+<22>	(Inline, 16.026-16.720)	<no-speech>	<no-speech>
+<23>	(Outline, 16.453-17.505)	oo .	yes .
+<24>	(Inline, 16.720-17.650)	<no-speech>	<no-speech>
+<25>	(Outline, 17.505-20.935)	<no-speech>	<no-speech>
+<26>	(Inline, 17.650-20.670)	'di ko nga napanood 'yong laro pero 'yong nag-champion Miami .	I wasn't able to watch the game but Miami was champion .
+<27>	(Inline, 20.670-22.930)	<no-speech>	<no-speech>
+<28>	(Outline, 20.935-23.035)	eh 'di ba 'yung galing ni ano .	right isn't he great .
+<29>	(Inline, 22.930-24.929)	<no-speech>	<no-speech>
+<30>	(Outline, 23.035-25.555)	<no-speech>	<no-speech>
+<31>	(Inline, 24.929-25.460)	si ?	who ?
+<32>	(Inline, 25.460-26.320)	<no-speech>	<no-speech>
+<33>	(Outline, 25.555-26.518)	ay maya .	later .
+<34>	(Inline, 26.320-28.831)	<no-speech>	<no-speech>
+<35>	(Outline, 26.518-28.723)	maya may laban Alaska .	later Alaska has a game .
+<36>	(Outline, 28.723-29.376)	ay .	oh .
+<37>	(Inline, 28.831-29.854)	sino 'to ?	who is this ?
+<38>	(Outline, 29.376-30.617)	<no-speech>	<no-speech>
+<39>	(Inline, 29.854-30.660)	<no-speech>	<no-speech>
+<40>	(Outline, 30.617-34.209)	'yun si ano -- si Kobe Cortez 'yung naglamang .	uhm him -- Kobe Cortez had the lead .
+<41>	(Inline, 30.660-31.620)	<no-speech>	<no-speech>
+<42>	(Inline, 31.620-33.850)	(()) .	(()) .
+<43>	(Inline, 33.850-34.670)	<no-speech>	<no-speech>
+<44>	(Outline, 34.209-43.055)	<no-speech> si Kobe Co si Kobe Cortez <laugh> si ano si Lebron James Yap 'yung M_V_P .	Kobe Co Kobe Cortez is him is Lebron James Yap was the M_V_P .
+<45>	(Inline, 34.670-37.160)	<no-speech>	<no-speech>
+<46>	(Inline, 37.160-38.700)	<no-speech>	<no-speech>
+<47>	(Inline, 38.700-39.722)	oo nga eh .	yes .
+<48>	(Inline, 39.722-42.283)	<no-speech>	<no-speech>
+<49>	(Inline, 42.283-44.926)	oo nga eh pero ang lupit ni Durant 'no ?	yes but isn't Durant savage right ?
+<50>	(Outline, 43.055-44.045)	<no-speech>	<no-speech>
+<51>	(Outline, 44.045-44.451)	ah .	ah .
+<52>	(Outline, 44.451-45.445)	<no-speech>	<no-speech>
+<53>	(Inline, 44.926-46.353)	<no-speech>	<no-speech>
+<54>	(Outline, 45.445-46.005)	'di ba ?	right ?
+<55>	(Outline, 46.005-48.935)	<no-speech>	<no-speech>
+<56>	(Inline, 46.353-50.050)	pero ang lupit ni Durant nadala niya 'yong ano 'yong Oklahoma sa .	but Durant was savage he brought uhm Oklahoma to .
+<57>	(Outline, 48.935-53.135)	oo may kendeng Durant .	yes there's a Durant move .
+<58>	(Inline, 50.050-51.696)	<no-speech>	<no-speech>
+<59>	(Inline, 51.696-55.410)	oo nadala niya sa championship game 'di ba ?	yes he brought it to the championship game right ?
+<60>	(Outline, 53.135-53.965)	<no-speech>	<no-speech>
+<61>	(Outline, 53.965-54.345)	<no-speech>	<no-speech>
+<62>	(Outline, 54.345-55.445)	<no-speech>	<no-speech>
+<63>	(Inline, 55.410-60.770)	<no-speech>	<no-speech>
+<64>	(Outline, 55.445-56.370)	ayun nga eh .	that's it .
+<65>	(Outline, 56.370-56.421)	<no-speech>	<no-speech>
+<66>	(Outline, 56.421-62.187)	galing nga ni kendeng Durant kaso <laugh> hindi naka-shoot sumablay .	Durant's move is great but he couldn't shoot he failed .
+<67>	(Inline, 60.770-61.588)	oh ?	really ?
+<68>	(Inline, 61.588-62.598)	oo nga eh .	really .
+<69>	(Outline, 62.187-64.435)	<no-speech>	<no-speech>
+<70>	(Inline, 62.598-63.780)	sayang din 'yon eh .	that's a waste .
+<71>	(Inline, 63.780-65.390)	sayang nga din 'yon .	that's a shame too .
+<72>	(Outline, 64.435-68.355)	<no-speech>	<no-speech>
+<73>	(Inline, 65.390-66.640)	<no-speech>	<no-speech>
+<74>	(Inline, 66.640-68.443)	oo sayang din 'yon eh .	that's a shame too .
+<75>	(Outline, 68.355-69.181)	ayan nga eh .	so that's it .
+<76>	(Inline, 68.443-69.220)	<no-speech>	<no-speech>
+<77>	(Outline, 69.181-70.257)	<no-speech>	<no-speech>
+<78>	(Inline, 69.220-74.100)	eh 'di sana nagkaro'n ng game seven man lang o kung 'di three four four one .	so there should've been a game seven or if not a three four four one .
+<79>	(Outline, 70.257-70.825)	mhm .	yes .
+<80>	(Outline, 70.825-72.965)	<no-speech>	<no-speech>
+<81>	(Outline, 72.965-75.175)	<laugh> pa'nong talaga ?	how really ?
+<82>	(Inline, 74.100-75.097)	<no-speech>	<no-speech>
+<83>	(Inline, 75.097-76.900)	oo talagang-talaga .	yes really really .
+<84>	(Outline, 75.175-76.175)	<no-speech>	<no-speech>
+<85>	(Outline, 76.175-76.900)	<no-speech>	<no-speech>

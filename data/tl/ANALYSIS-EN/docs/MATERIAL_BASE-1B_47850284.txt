@@ -1,0 +1,7 @@
+<1>	(0.000-1.465)	<no-speech>	<no-speech>
+<2>	(1.465-6.660)	nabigo ang North Korea sa tangka nitong paglulunsad ng missile ngayong araw .	North Korea has failed in its attempt of launching a missile today .
+<3>	(6.660-21.090)	nangyari ito isang araw matapos na idinaos ang military parade ng hilagang Korea bilang pagdiriwang sa anibersaryo ng kapanganakan ng kanilang founder na si Kim Il-Sung kung saan ipinarada dito ang mga makabago nilang ballistic missile .	it happened one day after the military parade of north Korea was held as celebration of the birth anniversary of their founder Kim Il-Sun where there modern ballistic missiles were also paraded .
+<4>	(21.090-36.974)	batay sa ulat ng U_S at South Korean defense official nangyari sa missile test sa bahagi ng Simpo port city sa Silangang bahagi ng NoKor na siyang lugar din kung saan pinakawalan ang unang ballistic missile test na bumagsak sa karagatang sakop ng Japan .	according to the report of the U_S and South Korean defense official the missile test happened in the part of Simpo port city at the Southern part of NoKor which is also the place where the first ballistic missile test was released which fell on the ocean occupied by Japan .
+<5>	(36.974-43.486)	inaalam pa ng South Korea at U_S intelligence officials ang klase ng missile na ginamit ng NoKor .	the South Korea and U_S intelligence officials are still trying to find out the kind of missile that NoKor used .
+<6>	(43.486-44.656)	<no-speech>	<no-speech>
+<7>	(44.656-45.444)	samantala .	meanwhile .

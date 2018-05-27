@@ -1,0 +1,233 @@
+[0.000]
+<no-speech>
+[1.807]
+<sta> dito sa psychiatric department ng Armed Forces of the Philippines Medical Center sa Quezon <sta> city ginagamot ang mga sundalong nagkaroon ng problema ng pag-iisip bunsod ng trauma sa bakbakan .
+[12.740]
+<sta> ngunit hindi lahat ng naaapektuhan sa giyera nakakulong sa apat na sulok ng mga silid na ito .
+[18.320]
+<no-speech>
+[19.776]
+<sta> ang iba dala-dala pa rin ang pait ng nakalipas maging sa pang-araw-araw nilang buhay sa kasalukuyan .
+[26.220]
+<sta> isa na dito si Nestor Buico isang scout ranger mula Iloilo .
+[31.230]
+<no-speech>
+[32.649]
+mahigit dalawampung taon na ang nakalipas mula <sta> noong siya'y madestino sa Basilan para makipagbakbakan laban sa M_I_L_F o Moro Islamic Liberation Front .
+[41.680]
+<no-speech>
+[44.669]
+dito raw niya naranasan ang sunod-sunod na bangungot sa kaniyang buhay .
+[48.630]
+<sta> (()) .
+[53.413]
+sa kalagitnaan ng kanilang pakikipaglaban <sta> nasaksihan daw niya mismo kung paano dinakip at nilapastangan ang kaniyang kasamahan .
+[60.443]
+<no-speech>
+[61.253]
+binanatan sila .
+[62.525]
+pinadapa muna <sta> bago <hes> binira at 'tsaka pinugutan ng ulo .
+[66.893]
+<no-speech>
+[68.564]
+hindi lang impiyerno ang tingin kasi nila ng tao parang <hes> baboy na eh .
+[72.820]
+<sta> 'pag pumatay <no-speech> walang kaluluwa .
+[76.520]
+<no-speech>
+[77.538]
+<sta> ngunit tila hindi rito nagtapos ang kaniyang malalagim na karanasan .
+[81.335]
+<int> kaya may kasama kaming nagpakamatay .
+[84.180]
+<int> <sta> binaril 'yong kasama namin dahil sa <hes> tagal nila hong mag- -- mag-ano na rin .
+[89.540]
+<sta> bale dalawa bago nagpakamatay siya .
+[91.347]
+<no-speech>
+[92.167]
+dahil hindi na raw niya kinaya ang lahat ng kaniyang pinagdadaanan mas pinili na lamang niyang talikuran <sta> na ang serbisyo militar <no-speech> .
+[99.211]
+siyempre ang dami ka ng iniisip eh .
+[101.004]
+ang tingin mo sa kasama mo na kalaban na .
+[102.918]
+<no-speech>
+[104.190]
+<sta> (()) no'ng nagkaroon ako ng sabi n'yo na na-war shock .
+[108.688]
+oo kaya no'ng kuwan pinalitan nila ako .
+[111.080]
+<no-speech>
+[113.238]
+<sta> bukod sa mental na aspeto ang pisikal na pangangatawan ng ating mga sundalo ang madalas na naaapektuhan sa <sta> pagtupad sa kanilang sinumpaang tungkulin .
+[121.942]
+<no-speech>
+[124.990]
+<sta> gumanti sir .
+[125.699]
+gumanti 'yong kalaban .
+[126.852]
+sa bawat bakbakan tila kakambal na nila ang kapahamakan .
+[131.201]
+<no-speech>
+[133.400]
+<sta> naiwasan man si kamatayan hindi nakaligtas ang ilan sa kanila sa bala at iba pang- -- armas ng kalaban .
+[139.840]
+<sta> WIA o wounded in action ang tawag sa mga sundalong umuuwing sugatan .
+[144.450]
+<no-speech>
+[150.410]
+<sta> ito ang heroes' ward ng A_F_P Medical Center .
+[153.610]
+dito ginagamot ang <sta> mga sundalong nasusugatan sa bakbakan .
+[156.732]
+sa ngayon mayro'n itong apatnapung pasyente at ang ilan sa kanila ay <int> magdadalawang taon na rito .
+[162.180]
+<no-speech>
+[163.796]
+<sta> iba-iba ang kaso rito .
+[165.500]
+mayro'ng mga tinamaan ng bala <no-speech> pati mga nasabugan ng bomba .
+[169.822]
+<no-speech>
+[170.950]
+<sta> gaya na lamang ni lieutenant Leemuel Manicdo ng army .
+[174.220]
+<int> <sta> nadurog ang kaniyang tuhod at mga buto sa paa matapos masabugan ang sasakyan nila sa Maguindanao .
+[180.450]
+<sta> biglang may sumabog .
+[182.064]
+<no-speech>
+[182.718]
+so initially ang akala ko ano eh parang <hes> inambush kami .
+[186.465]
+okay .
+[187.300]
+so <hes> -- so kaya no'ng pagkatapos no'ng incident ang inexpect namin na <int> ano na <hes> magkakaroon ng firefight .
+[193.950]
+traumatic talaga din 'yong pangyayari kung tutuusin mo eh .
+[196.365]
+<int> kumbaga nasabugan kayo ng gano'n ano tapos namatayan ka pa ng kasama mo .
+[201.097]
+kumbaga masakit rin para sa 'yo ma'am eh .
+[202.620]
+(()) .
+[207.797]
+<sta> apat na buwan na siyang ginagamot dito sa heroes' ward .
+[211.290]
+<sta> despite what happened to you are you still willing to go back to the service ?
+[214.896]
+well unang-una siyempre ano <hes> nanghihinayang ka din kahit papaano <sta> pero siguro may mga bagay kasi sa mga buhay natin na ano eh .
+[223.360]
+<sta> kumbaga dahil hindi natin alam 'yong future .
+[226.044]
+'di ba Diyos lang naman ang mas nakakaalam niyan kung anong plano niya para sa atin ?
+[230.000]
+<sta> kumbaga (()) tamang perspective lang sa buhay kung papa'no mo tatanggapin 'yong mga bagong circumstances sa buhay mo .
+[235.642]
+<no-speech>
+[238.280]
+<sta> ngunit tila mapalad pang- -- maituturing si Leemuel sapagkat ang kasama naman niya sa heroes' ward na si Renan isang private first class ng A_F_P <sta> naputulan naman ng paa at durog ang mga buto sa kanang paa .
+[249.500]
+<no-speech>
+[250.841]
+<int> nasabugan kasi siya at ilan pang- -- kasamahan ng land mine habang tinutugis nila ang mga <sta> kalaban sa Surigao del Sur .
+[257.310]
+masakit din sa kalooban namin ma'am pero <no-speech> tinanggap na lang namin kasi <no-speech> ito 'pag kapalaran talaga siguro pagsubok lang ng panginoon .
+[267.750]
+eh tanggap na lang ma'am kasi masuwerte pa rin kami kasi buhay <no-speech> 'di gaya ng iba na namatay talaga .
+[274.580]
+<sta> matapos ang mahigit isang taon patuloy na nakikipaglaban si officer Villarino .
+[280.130]
+<sta> hanggang ngayon kasi iniinda pa rin niya ang sakit mula sa mga tinamong sugat .
+[284.450]
+<sta> ngayon ba natanggap mo na 'yong nangyari sa 'yo ?
+[286.857]
+pangarap ko lang talagang maging sundalo ma'am kaya 'di ko na pinagsisihan 'yong anong nangyari sa akin .
+[292.194]
+<no-speech>
+[292.960]
+<sta> eh kahit saan naman siguro ako magtrabaho ma'am kung ganito lang talaga ang kapalaran ko talaga ito na talaga .
+[298.672]
+di mas mabuti na 'to kasi nangyari sa akin ito eh nasa -- no'ng service ako ng kuwan para sa bayan .
+[306.739]
+<no-speech>
+[308.800]
+<no-speech>
+[311.333]
+<sta> maituturing man ngayon may kapansanan na si officer Villarino nananatili siyang matatag .
+[316.750]
+<sta> (()) gustong-gusto ko talaga bumalik din sa serbisyo kasi pa'no na lang kung wala na akong trabaho ma'am ?
+[323.589]
+wala na akong ibubuhay sa <sta> sarili ko .
+[326.129]
+'di na ako makatulong sa pamilya ko .
+[329.111]
+kaya <sta> kung mawalan ako ng trabaho'y <no-speech> parang maging pabigat na rin ako sa pamilya ko ma'am <int> .
+[336.310]
+<no-speech>
+[337.480]
+<sta> pero aminado siya na sa ngayon <sta> higit sa pisikal niyang kalagayan natatakot siyang baka bigla na lang siyang tanggalin sa serbisyo dahil sa kaniyang kapansanan .
+[345.597]
+sana hindi kami bitawan <sta> ng A_F_P ma'am ba .
+[349.803]
+sana patuloy pa rin kami na bigyan ng kahit <no-speech> paano ang mga trabaho lang na kaya namin ma'am .
+[356.290]
+<sta> kasi 'yon naman talaga 'yong pangarap namin na magkatrabaho makatulong sa pamilya namin .
+[361.621]
+ayon sa section two ng republic act seventy six ninety six <sta> ang mga beteranong <int> nasugatan habang nasa serbisyo ay maaaring makakuha hanggang one thousand seven hundred pesos kada buwan <sta> depende kung gaano kalala ang kanilang pinsala .
+[374.517]
+ngunit para sa dating sundalo at ngayo'y senador Antonio Trillanes the fourth tila kulang ang mga benepisyong ito .
+[380.900]
+<sta> kulang ang <hes> ganyang benepisyo kasi pagka naputulan ka ng mga ganiyan mga limbs kabuhayan eh for a lifetime .
+[387.916]
+hindi ka na makakapag- -- <hes> -- <sta> makakapagtrabaho o very limited na lang 'yong opening n'yo .
+[393.194]
+kailangan ma- -- <hes> bigyan siya ng compensation na as if productive pa <sta> rin siya na citizen .
+[399.635]
+kaya nga <hes> ito tinutulak natin ni-lo-lobby natin na <hes> madagdagan <sta> pa ng madagdagan 'yong mga benepisyo ng ating mga sundalo mga mga beterano <sta> at mga <hes> retirees .
+[410.960]
+<sta> talagang hindi <hes> -- hindi maganda ano ?
+[413.203]
+isang segment ng ating lipunan 'no na <hes> nagbubuwis ng buhay para magkaroon tayo ng <hes> ganito ng peaceful <hes> living sa iba't ibang lugar sa ating bansa .
+[423.761]
+<no-speech>
+[424.880]
+<sta> sa kasalukuyan ang mga sundalo na wounded in action ay ginagawaran ng honorable dismissal <sta> ayon na rin sa mga alituntunin at pamantayan ng Armed Forces of the Philippines <int> .
+[435.720]
+<sta> ang mga sundalong mapatunayan na wala ng sapat na kakayanan na magsilbi dahil na rin sa kanilang natamong kapansanan ay makatatanggap na lang <sta> ng pension buwan-buwan na nagkakahalaga ng mula one thousand hanggang one thousand seven hundred pesos .
+[449.520]
+<no-speech>
+[451.541]
+<sta> samantala bilang bahagi na rin ng hakbang sa debriefing ng mga sundalong sumabak <int> sa giyera sinamahan <sta> namin ang scout ranger na si sargeant Estor sa isang psychologist .
+[460.018]
+mayro'n ka lang isang karanasan na <sta> 'di makalimutan %incomplete
+[463.609]
+hindi makalimutan sa sobrang tindi %incomplete
+[466.363]
+matindi nga .
+[466.796]
+bayolente gano'n na <hes> <sta> kahit wala na 'yong <hes> <int> sitwasyon na 'yon <sta> naaalala mo pa rin siya kahit hindi ma- -- automatic <sta> recollection .
+[476.826]
+basically he's on the right track kasi inaalagaan niya 'yong sarili niya eh .
+[481.231]
+pangalawa ang maganda sa kaniya <sta> he really speaks out <no-speech> 'no .
+[485.477]
+so nasasabi niya nasasambit niya 'yong <hes> pinagmulan ng trauma niya .
+[490.180]
+<sta> ang kailangan niya is to put himself in a different place na hindi niya maaalala 'yong <hes> <sta> nangyari sa kaniya -- sa kanila .
+[498.873]
+<no-speech>
+[501.466]
+iba-iba man ang pinsalang natamo sa isip man o sa katawan <sta> tila walang bahid ng pagsisisi ang mga nakilala naming sundalo <no-speech> <sta> at lahat handa pa ring sumabak sa bakbakan sa ngalan ng kapayapaan .
+[514.890]
+<no-speech>
+[517.350]
+<sta> mapa-mental man o pisikal hindi biro ang pinagdadaanan at iniinda ng ating mga sundalong nakikipaglaban para sa bayan .
+[525.230]
+<sta> bagamat sa ngayon natutugunan ng pamahalaan ang kanilang pangangailangan hiling pa rin nila na sana'y hindi naman sila pabayaan hanggang sa huli nilang laban .
+[533.880]
+patuloy na magbabantay sa mga ~ %incomplete
+[535.762]

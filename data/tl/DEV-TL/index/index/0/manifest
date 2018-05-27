@@ -1,5 +1,5 @@
 <parameters>
-	<code-build-date>Mar 25 2018</code-build-date>
+	<code-build-date>May 15 2018</code-build-date>
 	<corpus>
 		<document-base>1</document-base>
 		<frequent-terms>23</frequent-terms>
@@ -9,7 +9,7 @@
 		<unique-terms>27993</unique-terms>
 	</corpus>
 	<fields></fields>
-	<indri-distribution>Indri development release 2.12</indri-distribution>
+	<indri-distribution>Indri development release 5.7</indri-distribution>
 	<type>DiskIndex</type>
 </parameters>
 

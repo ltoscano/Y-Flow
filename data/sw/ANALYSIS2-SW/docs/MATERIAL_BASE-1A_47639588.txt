@@ -1,0 +1,83 @@
+[0.000]
+<no-speech>
+[2.057]
+tunaona huwa kuna grants mbalimbali huwa zinatolewa kwa wajasiriamali ambazo zina- -- zinaweza zikamkuza mjasiriamali kutoka pale alipo .
+[9.983]
+<no-speech>
+[10.980]
+na tukipata hizo -- hizo fursa na hata sehemu ya MKURABITA ikitusimamia nakuona ya kwamba tunaweza tukawezeshwaje basi hiyo inaweza ikatusaidia <int> sana .
+[23.759]
+<no-speech>
+[24.850]
+tuna changamoto ya packaging <no-speech> tuna changamoto hata ya kutoka nje ya nchi .
+[33.830]
+<breath> lakini mimi kwa <int> mpaka sasa nimeshaweza kupata bar codes .
+[38.400]
+<sta> tatizo kubwa ambalo (()) mataasisi za fedha wanataka <sta> dhamana .
+[43.283]
+sasa zile dhamana ambazo sisi tunaweza kuwa nazo za kuweka kwa ajiri ya kupata hiyo mikopo <sta> inaweza kuwa shida .
+[48.136]
+mara nyingi <breath> wanataka title deed .
+[50.374]
+hasa kama unavyo jua sisi hapa ni watu wengi huwezi mtu wewe ukachukua title yako nyumbani wewe kwa ajiri ya kikundi .
+[55.684]
+na hata hivyo wan- -- sisi hapa ni wanawake wachungu .
+[58.346]
+wanawake tulio wengi sisi hatuna <sta> mi nipe title yako nikakope mkopo wangu wa ujasiriamali (()) kwa hiyo bado tuna baada ya hizo hilo tatizo kwa kweli hatujawahi pata mikopo mkubwa mahali popote .
+[74.686]
+kwa mimi kwa kupata hiyo ati %incomplete
+[78.410]
+mimi na familia yangu najua kabisa itakuja kuwa na vielelezo vizuri na hilo shamba halitakuja kunyang'anywa na mtu mwingine kwa sababu linda- -- litakuwa linakuwa na picha .
+[86.471]
+kwangu mimi <sta> sign na jina la kwangu na sign ya kwangu <breath> kwa hivyo mtu mwingine <breath> hawezi kujulikana kwa shamba lile .
+[93.760]
+<misc>
+[98.850]
+naam mtazamaji <breath> tumeanza namna hiyo .
+[101.996]
+<breath> kipindi hiki siku ya leo .
+[104.170]
+sauti hizo ni za wafanyabiashara toka mikoa ya Mbeya na Morogoro wakielezea changamoto za kibiashara .
+[111.780]
+kufuatia changamoto hizo wafanyabiashara hapa tunakutana na mpango wa kulazimisha raslimali na biashara kwa wanyonge Tanzania MKURABITA .
+[122.890]
+MKURABITA kupitia utaratibu wa kuzijengea uwezo mamlaka <breath> za serikali za mitaa <breath> umekuwa ukitoa mafunzo kwa wananchi juu ya urasimishaji wa viwanja mashamba <breath> pamoja na biashara <breath> ili kutambulika serikalini .
+[139.240]
+<lipsmack> baadhi ya wajasiriamali pamoja na wafanyabiashara wamekuwa <breath> wakirasimisha biashara zao ili kuweza kutambulika na serikali <breath> kwa lengo la kulipa kodi .
+[150.575]
+<breath> lakini pia baadhi ya wakulima wamepata fursa <breath> ya kurasimisha mashamba yao na kupewa ati ambazo zinatumika <breath> kuongezea kipato kwa kuzitumia kama dhamana <breath> ya kukopa katika taasisi mbalimbali za kifedha <breath> na hivyo kujikwamua kiuchumi .
+[167.822]
+<no-speech>
+[168.950]
+mtazamaji <breath> MKURABITA <breath> kwa kushirikiana na halmashauri <breath> na manispaa mbalimbali tayari <breath> imerasimisha biashara halmashauri za majiji na manispaa tisa ambazo zimefikiwa <breath> na wajasiriamali zaidi ya elfu tano .
+[185.023]
+<no-speech>
+[186.040]
+<no-speech>
+[187.046]
+<breath> wafanyabiashara hawa wamepata mafunzo na kurasimisha biashara zao kusajili majina ya biashara na leseni za biashara <breath> kwa kupitia utaratibu wa kituo kimoja <breath> yaani One Stop Centre .
+[200.070]
+<int> baadhi yao wamefanikiwa kufungua akaunti benki pamoja na kujiunga na mifuko ya jamii <breath> nakupata fursa ya kukopa katika taasisi mbalimbali za kifedha .
+[209.392]
+<sta> wengi wakiwa waoga wa kudhubutu kufanya .
+[212.960]
+<sta> wanaogopa je mimi kweli nitaweza kuendesha biashara ikaweza kuwa na mafanikio ?
+[219.280]
+<sta> na changamoto nyingine ni kwamba wengi wanaogopa kwe- -- kwenda kwa taasisi za fedha kama C_R_D_B .
+[225.890]
+<sta> wanaona watu wanaostahili kwenda kule ni wale wenye mitaji mikubwa tu sio tu hawa wadogo wadogo .
+[232.230]
+na nyingine ni kwamba <no-speech> hawa watu <sta> wengi sana baada ya ku- -- zoezi kumalizika walikuwa wanatusumbua sana kuuliza habari za usajili wa majina ya biashara .
+[243.970]
+<sta> wengi sana walivutiwa na usajili wa jina la biashara .
+[247.479]
+sasa kwa sababu <sta> wahusika walikuwa wameshaondoka na zoezi lilikuwa limeshapita ilikuwa ni vigumu kupitia .
+[253.980]
+lakini <sta> mikakati tuliyochukua ni kwamba tumeendelea kutoa elimu kwa wale ambao walikuja kuhitaji kupata elimu <sta> ile tuliyotoa mwanzo kuhusu urasimishaji wa biashara .
+[266.300]
+<sta> pia tunajaribu kuunganisha na taasisi zingine ili waendelee wananchi wetu kupata elimu ya ku- -- kurasimisha biashara zao ili waziendeshe kirasmi .
+[277.094]
+isiwe kama vile walivyozoea kuziendesha kiholela .
+[280.990]
+pia wanao- %incomplete
+[282.242]

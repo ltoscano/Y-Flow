@@ -1,0 +1,46 @@
+<1>	(Outline, 0.000-0.040)	<no-speech>	<no-speech>
+<2>	(Inline, 0.000-0.864)	oo nga .	yes really .
+<3>	(Outline, 0.040-0.890)	<no-speech>	<no-speech>
+<4>	(Inline, 0.864-2.332)	nagsisigarilyo ka pa ba ?	do you still smoke ?
+<5>	(Outline, 0.890-4.242)	mga bawal -- ang dami na naman 'yang bawal -- bawal .	prohibitions -- there are again many prohibitions -- prohibited .
+<6>	(Inline, 2.332-3.580)	<no-speech>	<no-speech>
+<7>	(Inline, 3.580-4.510)	<no-speech>	<no-speech>
+<8>	(Outline, 4.242-5.630)	<no-speech>	<no-speech>
+<9>	(Inline, 4.510-6.624)	Atoy nagsisigarilyo ka pa ba ?	Atoy do you still smoke cigarettes ?
+<10>	(Outline, 5.630-9.070)	<no-speech>	<no-speech>
+<11>	(Inline, 6.624-8.110)	<no-speech>	<no-speech>
+<12>	(Inline, 8.110-8.980)	<no-speech>	<no-speech>
+<13>	(Inline, 8.980-12.267)	<no-speech>	<no-speech>
+<14>	(Outline, 9.070-9.694)	oo .	yes .
+<15>	(Outline, 9.694-16.505)	'wag mo iano sa sigarilyo baka masampal kita 'wag mong ibunton sa sigarilyo 'yun .	don't blame it on the cigarette I might slap you don't blame it on the cigarettes .
+<16>	(Inline, 12.267-14.695)	<hes> naku hindi nga ate prom- %incomplete	geez really not big sister %incomplete
+<17>	(Inline, 14.695-16.010)	gano'n ?	like that ?
+<18>	(Inline, 16.010-17.180)	<no-speech>	<no-speech>
+<19>	(Outline, 16.505-18.780)	hindi dahil sa sigarilyo .	not because of the cigarette .
+<20>	(Inline, 17.180-19.490)	<hes> mas magandang wala na .	none is better .
+<21>	(Outline, 18.780-21.040)	<no-speech>	<no-speech>
+<22>	(Inline, 19.490-22.600)	<no-speech>	<no-speech>
+<23>	(Outline, 21.040-22.604)	<no-speech>	<no-speech>
+<24>	(Inline, 22.600-25.710)	<breath> <hes> okey .	okay .
+<25>	(Outline, 22.604-26.665)	pagka nag-quit smoking ako baka daw ako atakihin hindi ah .	if I quit smoking I might get a heart attack no .
+<26>	(Inline, 25.710-26.510)	<no-speech>	<no-speech>
+<27>	(Inline, 26.510-36.660)	<laugh> (()) <hes> 'yan <hes> sige na ate basta mabuti ka na ngayon .	(()) there alright Ate as long as you are better now .
+<28>	(Outline, 26.665-27.697)	<no-speech>	<no-speech>
+<29>	(Outline, 27.697-32.690)	hindi kalokohan 'yan Martina 'wag M akong buwisitin .	that's not foolishness Martina don't annoy me .
+<30>	(Outline, 32.690-34.040)	<no-speech>	<no-speech>
+<31>	(Outline, 34.040-35.570)	nang dahil sa sigarilyo .	because of cigarettes .
+<32>	(Outline, 35.570-37.940)	<no-speech>	<no-speech>
+<33>	(Inline, 36.660-37.350)	<no-speech>	<no-speech>
+<34>	(Inline, 37.350-38.682)	<hes> sige bye-bye .	alright bye-bye .
+<35>	(Outline, 37.940-38.310)	<no-speech>	<no-speech>
+<36>	(Outline, 38.310-40.610)	<no-speech>	<no-speech>
+<37>	(Inline, 38.682-40.696)	magpahi- -- magpahinga ka na lang bye-bye .	-- you just rest bye-bye .
+<38>	(Outline, 40.610-42.185)	o sige na okey .	oh alright okay .
+<39>	(Inline, 40.696-41.179)	<no-speech>	<no-speech>
+<40>	(Inline, 41.179-42.210)	okey bye-bye .	okay bye-bye .
+<41>	(Outline, 42.185-42.957)	<no-speech>	<no-speech>
+<42>	(Inline, 42.210-43.200)	<no-speech>	<no-speech>
+<43>	(Outline, 42.957-43.380)	oo .	yes .
+<44>	(Inline, 43.200-43.690)	sige .	alright .
+<45>	(Outline, 43.380-44.450)	<no-speech>	<no-speech>
+<46>	(Inline, 43.690-44.450)	<no-speech>	<no-speech>

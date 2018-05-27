@@ -1,0 +1,79 @@
+[0.000]
+<no-speech>
+[1.829]
+<sta> heshima ya dola inapungua ujangili uki- -- ukipanda <sta> sasa ndiyo tumekutana hapa dola yetu iendelee kuwa na heshima .
+[11.700]
+<sta> sisi twendelee kuwa na heshima <breath> sheria zetu ziendelee kuwa na heshima <sta> kwa kudhibiti ujangili .
+[17.562]
+<no-speech>
+[19.887]
+ujangili unaundermine <sta> integrity of the state .
+[25.053]
+<no-speech>
+[26.101]
+kila mmoja aguswe .
+[27.215]
+<no-speech>
+[28.400]
+<sta> dola yetu ikidhalilika kwa sababu ya ujangili sisi tunadhalilika zaidi .
+[32.793]
+<no-speech>
+[33.730]
+<sta> tujitahidi kwenye hilo .
+[34.878]
+<no-speech>
+[38.720]
+<sta> tafiti za kawaida zinaonyesha kuwa vijana ndiyo hutumika zaidi kufanikisha ujangili .
+[44.240]
+<sta> ikiwa ni kuwinda au hata kutumika kubeba nyama <laugh> na nyara mbalimbali <sta> kutoka hifadhini .
+[50.116]
+ili kuwaokoa na kuwapa elimu ya madhara ya ujangili mradi wa SPANEST umekuwa ukitumia <breath> michezo kuwafikia <sta> kupitia kampeni maalum maarufu kama SPANEST cup <sta> yenye kaulimbiu ya Piga mpira Ujangili Piga mpira Okoa Tembo <sta> kwa vijana kutoka vijiji ishiri na moja vinavyopakana na hifadhi ya Ruaha <sta> ambapo wakati wa michezo hiyo wahifadhi na viongozi wa ngazi mbalimbali wa serikali wamekuwa wakipata nafasi ya kutoa ujumbe na wito kwa vijana <sta> na jamii kushiriki katika kupiga vita ujangili .
+[81.660]
+<no-speech> (()) kuona kwamba kwa kupitia <sta> SPANEST tumeweza kutoa mwitikio mkubwa kwa ajili ya kupambana na hali ya ujangili <int> .
+[92.381]
+nami mi siku zote nimekuwa <int> nikiamini kwamba <sta> kama tutaruhusu jamii iendelee tembo ataisha <sta> halafu baadaye ng'ombe zitakuja kuchinjwa nyumbani mwetu kuku na hata watu pia .
+[106.029]
+kwa sababu ni uhalifu kama uhalifu mwingine .
+[108.900]
+<sta> lakini pale tutakapoamua kuwa watu wa amani haki na tutakuwa salama .
+[113.670]
+na wanyama wetu wanapoendelea kuwepo basi na Utalii utakuwa .
+[117.900]
+<sta> na ninawaambieni kupitia michezo hii hata timu ambazo ziko Iringa kama Lipuli <int> itapata vijana wazuri <sta> na hadithi ile ya kule Tukuyu itajirudia .
+[128.387]
+siku moja twaaga <sta> mnaweza mkawa <int> mabingwa wa taifa kwa (()) ile ambayo inaendelea ambayo T_F_F inasimamia .
+[136.062]
+kwa hivyo tunaomba vijana <sta> mchangamkieni hii fursa kwa sababu kuna nafasi kubwa mbeleni .
+[141.116]
+ahsanteni sana .
+[143.160]
+<sta> mashindano haya yamedhaminiwa na mradi wa SPANEST wakishikana n (()) hususan hifadhi ya taifa ya Ruaha .
+[149.310]
+<sta> na wadau wengine kwa lengo la kuwashirikisha <int> vijana wanaoishi katika <sta> vijiji ishirini na moja ambavyo vipo katika tarafa za Idoli na Paraka .
+[158.857]
+lengo kubwa <sta> ni kuweza kuwapa ujumbe .
+[162.476]
+ujumbe unaohusiana na nafasi ya vijana katika swala zima la kutokomeza vitendo vya <int> ujangili .
+[167.360]
+<sta> kwa kutambua kwamba vijana ni nguvukazi vijana wana nafasi ya kushawishi .
+[172.850]
+<sta> wakiamua swala hili la ujangili liishe wanaweza .
+[177.460]
+<no-speech>
+[178.670]
+<sta> mashindano haya yamebuniwa kwa kutambua pia kwamba <sta> vijana wengi ndiyo (()) vitendo vya <int> ujangili .
+[186.667]
+kutokana na takwimu ambazo zimekuwepo <sta> wengine wamekuwa wanakamatwa wengine wanafungwa na kadhalika .
+[192.985]
+sasa tuliona tuwafikishie ujumbe kwa kuwa <sta> njia nyingine nyingi za kuwashikisha vijana kwa karibu kabisa <sta> kuwaguza vijana .
+[200.461]
+isingewezekana sasa tunajua -- tumetambua kwamba michezo ina nguvu sana ya kuwavuta vijana kwa sababu tunajua vijana wanapenda michezo .
+[206.690]
+<sta> kwanza wana nguvu ya kushiriki kwenye michezo lakini wanapenda michezo tuliona tutumie fursa hii ya michezo .
+[212.750]
+<sta> kwa kweli inakuwa na mafanikio makubwa vijana wengi na wananchi wengi katika tarafa hizi mbili za Inori na Palaga wameweza kushiriki .
+[220.590]
+<sta> tunazungumzia zaidi ya -- takriban zaidi ya wananchi <sta> <hes> laki moja na nusu wameweza kushiriki katika michezo hiyo ukijumuisha -- ukikadiria watu ambao wameshiriki katika kila mechi .
+[230.906]
+<no-speech>
+[232.519]

@@ -1,0 +1,51 @@
+<1>	(0.000-1.866)	<no-speech>	<no-speech>
+<2>	(1.866-7.100)	<sta> ganito ang simula ng pagsasanay para mapabilang sa hanay ng Philippine Marines .	this is the start of the training to be part in the ranks of the Philippine Marines .
+<3>	(7.100-18.369)	<sta> noong taong two thousand thirteen tatlong daang recruit ang napili para maging bahagi ng bagong batch ng candidate soldier <sta> lahat mula edad disiotso hanggang bente-tres .	last year two thousand thirteen three hundred recruit are selected to become part of the new batch of candidate soldier all from age eighteen to twenty-three .
+<4>	(18.369-24.218)	<sta> simula ng maitatag ang Philippine Marine Corps <sta> pawang kalalakihan lamang ang kanilang tinatanggap .	since the Philippine Marine Corps was founded they are only accepting men .
+<5>	(24.218-30.742)	<sta> ngunit taong two thousand nine <sta> nagsimulang tumanggap ng babaeng recruits ang P_M_C .	but on the year two thousand nine the P_M_C started to accept women recruits .
+<6>	(30.742-32.940)	ang mabagal gulungan n'yo na .	those slow roll over them .
+<7>	(32.940-39.180)	we have to bake him or her in order to -- to build him into what you want him to be 'di ba ?	we have to bake him or her in order to -- to build him into what you want him to be right ?
+<8>	(39.180-42.280)	tanggalin mo 'yong civilian antics <no-speech> 'no .	you remove those civilian antics all right .
+<9>	(42.280-55.080)	of course I -- I'm not saying there's something wrong with ci- -- being civilian but you know we need -- we need <hes> we need tough men and women 'no to be <hes> your protector .	of course I -- I'm not saying there's something wrong with -- being civilian but you know we need -- we need we need tough men and women right to be your protector .
+<10>	(55.080-58.690)	<sta> (()) .	(()) .
+<11>	(58.690-61.225)	<sta> (()) gamitin mo parang gusto mo ng umiyak .	(()) use that like you want to cry .
+<12>	(61.225-62.679)	uwi ka na lang <overlap> sir uwi ka na .	just go home sir go home now .
+<13>	(62.679-65.329)	ayaw mong (()) 'di ko marinig .	you do not want to (()) I can't hear .
+<14>	(65.329-66.071)	no ma'am .	no ma'am .
+<15>	(66.071-67.071)	gusto mong umuwi ?	do you want to go home ?
+<16>	(67.071-67.711)	(()) no ma'am .	(()) no ma'am .
+<17>	(67.711-71.000)	(()) pupunta (()) alignment (()) .	(()) will go (()) alignment (()) .
+<18>	(71.000-74.568)	<sta> bagamat ang idinidikta ng isip ay ituloy ang laban .	although the mind dictates is to continue the fight .
+<19>	(74.568-79.468)	<sta> sadyang may mga pagkakataon <sta> na tila susuko na ang katawan .	it's just that there are circumstances when the body seems to give up .
+<20>	(79.468-80.902)	<sta> ayaw mo na -- (()) huh ?	you do not want -- (()) huh ?
+<21>	(80.902-81.636)	<sta> tumayo ka na diyan .	you stand there .
+<22>	(81.636-82.574)	<sta> kunin mo na 'yong gamit mo do'n .	take your things from there .
+<23>	(82.574-83.286)	<sta> bilisan mo .	you move fast .
+<24>	(83.286-84.440)	<sta> bilisan mo .	you move fast .
+<25>	(84.440-92.450)	<sta> (()) bilisan .	(()) move fast .
+<26>	(92.450-94.637)	<sta> (()) bilis bilis .	(()) fast fast .
+<27>	(94.637-102.689)	<sta> sinasabing ang pagsasanay sa Philippine Marine Corps ang isa sa pinakamahirap na training <sta> sa buong puwersa ng Armed Forces of the Philippines .	it is said that the training at Philippine marine corps is one of the hardest training in the whole force of the armed forces of the Philippines .
+<28>	(102.689-105.345)	<sta> do'n ilagay sa plastic sa lagayan ng boots .	put it there in plastic at the boots storage .
+<29>	(105.345-108.860)	<sta> napakabagal mo (()) .	you are too slow (()) .
+<30>	(108.860-111.483)	<sta> (()) bilisan mo 'yan .	(()) you do it fast .
+<31>	(111.483-113.110)	<sta> (()) .	(()) .
+<32>	(113.110-119.080)	<no-speech>	<no-speech>
+<33>	(119.080-122.859)	<no-speech>	<no-speech>
+<34>	(122.859-132.150)	<sta> dito pinatotohanan ang katagang <sta> matira matibay kaya naman binansagan ang mga marines na the few and the proud .	proven true here is the phrase survival of the fittest which is why the marines are labelled as the few and the proud .
+<35>	(132.150-139.840)	<sta> (()) .	(()) .
+<36>	(139.840-147.411)	<sta> sa hirap ng training iisipin mong bokasyon ang nagtulak sa mga recruit na ito <sta> para sumali at kayanin ang training .	with the difficulty of the training you will think that it was vocation that pushed the recruits to join and endure the training .
+<37>	(147.411-149.696)	<sta> (()) .	(()) .
+<38>	(149.696-151.500)	<no-speech>	<no-speech>
+<39>	(151.500-160.923)	<sta> pero ang totoo karamihan sa kanila permanenteng trabaho ang dahilan sa pagpasok sa marine corps <sta> (()) .	but in reality majority of them a permanent job is their reason for entering the marine corps (()) .
+<40>	(160.923-165.450)	<sta> maraming time na tumu- -- na tutulo talaga 'yong luha mo .	plenty of time when -- when your tears really fall .
+<41>	(165.450-170.741)	<sta> dahil unang-una 'yong mga pamilya mo nga maiisip mo .	because firstly your family is what you will think of .
+<42>	(170.741-181.858)	<sta> once na <sta> papasok ka talaga sa marines kailangan ihanda mo na 'yong sarili mo na mabuhay na kailangan kaya mo mabuhay mag-isa .	once you really enter the marines you need to prepare yourself to live that you need to live alone .
+<43>	(181.858-192.140)	naglalakad tumatakbo na nakapikit ang mata kasi -- kasi talagang <hes> antok ka talaga (()) labanan mo kahit antok ka sige ginagawa mo 'yong exercise .	walking running with your eyes closed because -- because really you are sleepy (()) you will fight even if you are sleepy yes you are doing the exercise .
+<44>	(192.140-196.020)	<no-speech>	<no-speech>
+<45>	(196.020-204.720)	<sta> (()) .	(()) .
+<46>	(204.720-208.134)	<no-speech>	<no-speech>
+<47>	(208.134-212.990)	<sta> pagkatapos ng training agad isinabak ang mga bagong sundalo sa Mindanao .	after the training immediately deployed are the new soldiers to Mindanao .
+<48>	(212.990-216.083)	<sta> ang itinuturing na balwarte ng mga marines .	considered as the fort of marines .
+<49>	(216.083-221.130)	<sta> (()) isa sa pinakadelikadong lugar nagsisimula ang kanilang tungkulin .	(()) one of the most dangerous place is the start of their duty .
+<50>	(221.130-224.655)	<sta> tungkulin na magsilbi kahit kaunti ang kapalit .	duty to serve even with little returns .
+<51>	(224.655-226.881)	<sta> mababa 'yong (()) itaas n'yo .	is low (()) you raise .

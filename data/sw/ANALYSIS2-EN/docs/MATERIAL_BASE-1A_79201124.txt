@@ -1,0 +1,506 @@
+<1>	(Inline, 0.000-1.585)	<no-speech>	<no-speech>
+<2>	(Outline, 0.000-8.077)	<no-speech>	<no-speech>
+<3>	(Inline, 1.585-3.835)	<no-speech>	<no-speech>
+<4>	(Inline, 3.835-5.505)	<no-speech>	<no-speech>
+<5>	(Inline, 5.505-10.075)	<no-speech>	<no-speech>
+<6>	(Outline, 8.077-19.038)	<no-speech>	<no-speech>
+<7>	(Inline, 10.075-11.335)	(()) .	(()) .
+<8>	(Inline, 11.335-12.185)	<no-speech>	<no-speech>
+<9>	(Inline, 12.185-24.065)	<no-speech>	<no-speech>
+<10>	(Outline, 19.038-30.000)	<no-speech>	<no-speech>
+<11>	(Inline, 24.065-24.855)	<no-speech>	<no-speech>
+<12>	(Inline, 24.855-26.335)	<no-speech>	<no-speech>
+<13>	(Inline, 26.335-30.195)	<no-speech>	<no-speech>
+<14>	(Outline, 30.000-30.370)	<no-speech>	<no-speech>
+<15>	(Inline, 30.195-32.805)	<no-speech>	<no-speech>
+<16>	(Outline, 30.370-39.003)	<no-speech>	<no-speech>
+<17>	(Inline, 32.805-36.515)	<no-speech>	<no-speech>
+<18>	(Inline, 36.515-37.465)	<no-speech>	<no-speech>
+<19>	(Inline, 37.465-37.845)	<no-speech>	<no-speech>
+<20>	(Inline, 37.845-38.785)	<no-speech>	<no-speech>
+<21>	(Inline, 38.785-40.025)	<no-speech>	<no-speech>
+<22>	(Outline, 39.003-47.637)	<no-speech>	<no-speech>
+<23>	(Inline, 40.025-42.725)	<no-speech>	<no-speech>
+<24>	(Inline, 42.725-54.095)	<no-speech>	<no-speech>
+<25>	(Outline, 47.637-56.270)	<no-speech>	<no-speech>
+<26>	(Inline, 54.095-55.515)	<no-speech>	<no-speech>
+<27>	(Inline, 55.515-56.393)	<sta> halo .	hello .
+<28>	(Outline, 56.270-56.880)	halo .	hello .
+<29>	(Inline, 56.393-57.635)	<no-speech>	<no-speech>
+<30>	(Outline, 56.880-62.650)	<no-speech>	<no-speech>
+<31>	(Inline, 57.635-58.435)	<no-speech>	<no-speech>
+<32>	(Inline, 58.435-58.875)	<no-speech>	<no-speech>
+<33>	(Inline, 58.875-61.805)	<no-speech>	<no-speech>
+<34>	(Inline, 61.805-62.078)	ahh .	ahh .
+<35>	(Inline, 62.078-62.695)	sema haga .	say bums .
+<36>	(Outline, 62.650-68.670)	we -- sasa we umeambiwa u- -- utumie lugha ya- -- ya mtaa .	you -- now you have been told -- to use street language .
+<37>	(Inline, 62.695-63.815)	<no-speech>	<no-speech>
+<38>	(Inline, 63.815-64.835)	<no-speech>	<no-speech>
+<39>	(Inline, 64.835-66.955)	<no-speech>	<no-speech>
+<40>	(Inline, 66.955-68.215)	<no-speech>	<no-speech>
+<41>	(Inline, 68.215-68.891)	<sta> ehhe .	mm .
+<42>	(Outline, 68.670-71.610)	<no-speech>	<no-speech>
+<43>	(Inline, 68.891-69.135)	sa %incomplete	his %incomplete
+<44>	(Inline, 69.135-70.646)	<no-speech>	<no-speech>
+<45>	(Inline, 70.646-70.855)	ehhe .	mm .
+<46>	(Inline, 70.855-71.695)	unasemaje ?	what are you saying ?
+<47>	(Outline, 71.610-76.352)	nakwambia <no-speech> umeambiwa <no-speech> kwanza usitumie lugha ya mtaa .	I'm telling you you have been told first not to use street language .
+<48>	(Inline, 71.695-73.435)	<no-speech>	<no-speech>
+<49>	(Inline, 73.435-73.765)	ehhe ?	mm ?
+<50>	(Inline, 73.765-77.169)	<no-speech>	<no-speech>
+<51>	(Outline, 76.352-76.880)	<no-speech> mmhm ?	mmhm ?
+<52>	(Outline, 76.880-78.650)	<no-speech>	<no-speech>
+<53>	(Inline, 77.169-77.965)	ehhe .	mm .
+<54>	(Inline, 77.965-81.645)	<no-speech>	<no-speech>
+<55>	(Outline, 78.650-80.370)	pia (()) .	also (()) .
+<56>	(Outline, 80.370-82.300)	<no-speech>	<no-speech>
+<57>	(Inline, 81.645-83.712)	<no-speech>	<no-speech>
+<58>	(Outline, 82.300-83.590)	<no-speech>	<no-speech>
+<59>	(Outline, 83.590-87.290)	<no-speech>	<no-speech>
+<60>	(Inline, 83.712-86.435)	wacha nikwambie umesikia -- umesikia sauti ya huyo dame vyenye smarter ?	let me tell you have you heard -- have you heard how smart that lady's voice is ?
+<61>	(Inline, 86.435-89.915)	<no-speech>	<no-speech>
+<62>	(Outline, 87.290-88.490)	halo .	hello .
+<63>	(Outline, 88.490-89.670)	<no-speech>	<no-speech>
+<64>	(Outline, 89.670-90.620)	halo .	hello .
+<65>	(Inline, 89.915-90.425)	ehhe ?	mm ?
+<66>	(Inline, 90.425-91.275)	<no-speech>	<no-speech>
+<67>	(Outline, 90.620-91.700)	<no-speech>	<no-speech>
+<68>	(Inline, 91.275-92.533)	<no-speech>	<no-speech>
+<69>	(Outline, 91.700-92.720)	nakwambia %incomplete	I'm telling you %incomplete
+<70>	(Inline, 92.533-94.617)	umesikia sauti ya huyo dame vyenye smarter ?	have you heard how smart that lady's voice is ?
+<71>	(Outline, 92.720-94.620)	<no-speech>	<no-speech>
+<72>	(Inline, 94.617-96.659)	halo nakusikia .	hello I can hear you .
+<73>	(Outline, 94.620-95.500)	huyu hapeleki ?	isn't he taking it ?
+<74>	(Outline, 95.500-96.330)	<no-speech>	<no-speech>
+<75>	(Outline, 96.330-101.240)	mi siku- -- yaani nakwambia <no-speech> umeambiwa -- umeambiwa utumie lugha ya mtaa .	I didn't -- I mean I am saying you have been told to use street language .
+<76>	(Inline, 96.659-97.319)	<no-speech>	<no-speech>
+<77>	(Inline, 97.319-97.567)	ehhe .	mm .
+<78>	(Inline, 97.567-98.495)	<no-speech>	<no-speech>
+<79>	(Inline, 98.495-100.955)	<no-speech>	<no-speech>
+<80>	(Inline, 100.955-101.425)	ehhe ?	mm ?
+<81>	(Outline, 101.240-102.040)	<no-speech>	<no-speech>
+<82>	(Inline, 101.425-102.925)	<no-speech>	<no-speech>
+<83>	(Outline, 102.040-103.811)	aai we <no-speech> kwani uko wapi ?	really where are you ?
+<84>	(Inline, 102.925-103.425)	ehhe .	mm .
+<85>	(Inline, 103.425-106.455)	<no-speech>	<no-speech>
+<86>	(Outline, 103.811-104.480)	uko juu ya mti ?	are you on top of a tree ?
+<87>	(Outline, 104.480-108.390)	<no-speech>	<no-speech>
+<88>	(Inline, 106.455-108.265)	<no-speech>	<no-speech>
+<89>	(Inline, 108.265-109.085)	<no-speech>	<no-speech>
+<90>	(Outline, 108.390-110.370)	(()) .	(()) .
+<91>	(Inline, 109.085-111.871)	<sta> hapana siko Kiambu ama nini .	no I'm not in Kiambu or the other .
+<92>	(Outline, 110.370-112.850)	<no-speech>	<no-speech>
+<93>	(Inline, 111.871-112.835)	si niko tu mtaani .	I am just in the hood .
+<94>	(Inline, 112.835-114.885)	<no-speech>	<no-speech>
+<95>	(Outline, 112.850-116.570)	enyewe kuongea ukweli mi sikusikii mi nasikia tu (()) -- mi nasikia kaupepo tu .	frankly speaking I can't hear you I can just hear (()) -- I just hear some wind .
+<96>	(Inline, 114.885-115.835)	<no-speech> ehhe ?	mm ?
+<97>	(Inline, 115.835-121.345)	<no-speech>	<no-speech>
+<98>	(Outline, 116.570-118.790)	<no-speech>	<no-speech>
+<99>	(Outline, 118.790-119.603)	sasa %incomplete	now %incomplete
+<100>	(Outline, 119.603-119.990)	mmhm ?	mmhm ?
+<101>	(Outline, 119.990-125.860)	<no-speech>	<no-speech>
+<102>	(Inline, 121.345-126.025)	<laugh> unajuana nakusikia ukikatika kati- -- nasikia ukikatika katika .	you know I can just here you getting disconnected -- I can hear you getting disconnected .
+<103>	(Outline, 125.860-127.390)	si pia mi nasikia hivyo hivyo .	I am likewise hearing the same .
+<104>	(Inline, 126.025-126.925)	<no-speech>	<no-speech>
+<105>	(Inline, 126.925-130.321)	<no-speech>	<no-speech>
+<106>	(Outline, 127.390-129.590)	<no-speech>	<no-speech>
+<107>	(Outline, 129.590-132.110)	ehhe <no-speech> uko na ye -- uko kwa barabara ?	mm are you -- are you on the road ?
+<108>	(Inline, 130.321-131.095)	unanisikia ?	can you hear me ?
+<109>	(Inline, 131.095-132.121)	<no-speech>	<no-speech>
+<110>	(Outline, 132.110-133.470)	<no-speech>	<no-speech>
+<111>	(Inline, 132.121-133.455)	unasikia tu hivyo hivyo ?	are you still feeling funny ?
+<112>	(Inline, 133.455-136.515)	<no-speech>	<no-speech>
+<113>	(Outline, 133.470-133.960)	ehhe ?	mm ?
+<114>	(Outline, 133.960-135.800)	<no-speech>	<no-speech>
+<115>	(Outline, 135.800-137.200)	mi sisikii (()) .	I can't hear (()) .
+<116>	(Inline, 136.515-145.175)	ahh una- -- una- -- unajua wanase- -- u- -- unajua wana- -- wanado research na wana- -- <hes> -- wana- -- wanado research na wanasema inadai inadubiwa majuu .	ahh you -- you -- you know they are -- you know they are -- they are doing a research and they are -- they are -- they are doing a research and the say it is claiming it's being recorded abroad .
+<117>	(Outline, 137.200-144.890)	<no-speech>	<no-speech>
+<118>	(Outline, 144.890-145.903)	<no-speech>	<no-speech>
+<119>	(Inline, 145.175-146.285)	<no-speech>	<no-speech>
+<120>	(Outline, 145.903-146.300)	ehhe .	mm .
+<121>	(Inline, 146.285-147.505)	halafu ndiyo itufikie .	before it gets to us .
+<122>	(Outline, 146.300-147.680)	<no-speech>	<no-speech>
+<123>	(Inline, 147.505-151.515)	<no-speech>	<no-speech>
+<124>	(Outline, 147.680-148.911)	mi sisikii kitu .	I can't hear anything .
+<125>	(Outline, 148.911-150.172)	we unaongea aje we <int> ?	how are you speaking ?
+<126>	(Outline, 150.172-151.330)	kwani haujakula lunch ?	haven't you had lunch ?
+<127>	(Outline, 151.330-152.860)	<no-speech>	<no-speech>
+<128>	(Inline, 151.515-152.045)	ehhe .	mm .
+<129>	(Inline, 152.045-152.825)	<foreign> .	<foreign> .
+<130>	(Inline, 152.825-156.495)	<no-speech>	<no-speech>
+<131>	(Outline, 152.860-153.380)	ehhe ?	mm ?
+<132>	(Outline, 153.380-160.200)	<no-speech>	<no-speech>
+<133>	(Inline, 156.495-157.287)	ehhe poa .	mm fine .
+<134>	(Inline, 157.287-158.745)	<no-speech>	<no-speech>
+<135>	(Inline, 158.745-159.940)	si nimekushow ?	haven't I told you ?
+<136>	(Inline, 159.940-160.895)	nini we ?	what's wrong with you ?
+<137>	(Outline, 160.200-167.020)	<no-speech>	<no-speech>
+<138>	(Inline, 160.895-163.835)	<no-speech>	<no-speech>
+<139>	(Inline, 163.835-164.198)	ehhe ?	mm ?
+<140>	(Inline, 164.198-165.023)	<no-speech>	<no-speech>
+<141>	(Inline, 165.023-165.805)	unanisikia ?	can you hear me ?
+<142>	(Inline, 165.805-169.235)	<no-speech>	<no-speech>
+<143>	(Outline, 167.020-167.930)	halo <breath> .	hello .
+<144>	(Outline, 167.930-171.650)	<no-speech>	<no-speech>
+<145>	(Inline, 169.235-170.075)	<sta> halo .	hello .
+<146>	(Inline, 170.075-172.555)	<no-speech>	<no-speech>
+<147>	(Outline, 171.650-172.820)	mi sikusikii .	I can't hear you .
+<148>	(Inline, 172.555-176.255)	ehhe usikate we ngoja ijikate tu pekee yake hata ka hunisikii .	mm don't disconnect even if you can't hear me just let it disconnect .
+<149>	(Outline, 172.820-174.180)	<no-speech>	<no-speech>
+<150>	(Outline, 174.180-174.860)	tulikuwa %incomplete	we were %incomplete
+<151>	(Outline, 174.860-176.110)	<no-speech>	<no-speech>
+<152>	(Outline, 176.110-177.260)	nisikate si ndiyo ?	I shouldn't disconnect isn't that so ?
+<153>	(Inline, 176.255-177.745)	<no-speech>	<no-speech>
+<154>	(Outline, 177.260-179.330)	<no-speech>	<no-speech>
+<155>	(Inline, 177.745-181.230)	ati hausikii na we -- na we <no-speech> -- we ngo- -- we %incomplete	you can't hear and you -- and you -- you %incomplete
+<156>	(Outline, 179.330-179.930)	ati ?	pardon ?
+<157>	(Outline, 179.930-191.720)	<no-speech>	<no-speech>
+<158>	(Inline, 181.230-182.152)	(()) ehhe .	(()) mm .
+<159>	(Inline, 182.152-185.152)	we tu ongea kitu yoyote hata ka ni fake .	just say anything even if it's fake .
+<160>	(Inline, 185.152-189.475)	bora -- bora ikuwe imejikata juu ukikata ka ten minutes haijaisha i- %incomplete	as long as -- as long as it should disconnect on its own because if you do so before ten minutes are over %incomplete
+<161>	(Inline, 189.475-189.989)	yeah .	yeah .
+<162>	(Inline, 189.989-191.905)	itakuwa process haijaisha .	the process would not be complete .
+<163>	(Outline, 191.720-194.790)	sasa <no-speech> sasa basi tuongee nikupee story ehhe ?	so now let's talk should I tell you a story mm ?
+<164>	(Inline, 191.905-199.335)	<no-speech>	<no-speech>
+<165>	(Outline, 194.790-195.880)	<no-speech>	<no-speech>
+<166>	(Outline, 195.880-199.339)	sasa huyo msichana mko na ye hapo <no-speech> tusaidiane %incomplete	the lady you are with there let's help each other %incomplete
+<167>	(Inline, 199.335-199.845)	ehhe .	mm .
+<168>	(Outline, 199.339-201.048)	<no-speech>	<no-speech>
+<169>	(Inline, 199.845-201.085)	lakini sasa si unaona ni %incomplete	but now can't you see it's %incomplete
+<170>	(Outline, 201.048-201.550)	ehhe ?	mm ?
+<171>	(Inline, 201.085-202.275)	<no-speech>	<no-speech>
+<172>	(Outline, 201.550-202.620)	<no-speech>	<no-speech>
+<173>	(Inline, 202.275-203.725)	ehhe ehhe .	mm mm .
+<174>	(Outline, 202.620-205.083)	kiasi -- kiasi tusaidiane kama mandugu .	to a level -- to a level let's help each other like brothers .
+<175>	(Inline, 203.725-205.055)	<no-speech>	<no-speech>
+<176>	(Inline, 205.055-207.897)	amesema -- amesema ni manzi wa K_U .	she has said -- she has said she's from K_U .
+<177>	(Outline, 205.083-205.410)	mmhm ?	mmhm ?
+<178>	(Outline, 205.410-208.860)	<no-speech>	<no-speech>
+<179>	(Inline, 207.897-209.525)	(()) <no-speech> .	(()) .
+<180>	(Outline, 208.860-210.040)	<no-speech>	<no-speech>
+<181>	(Inline, 209.525-211.575)	<sta> amesema ni manzi wa K_U .	she has said she's a lady from K_U .
+<182>	(Outline, 210.040-211.420)	<no-speech>	<no-speech>
+<183>	(Outline, 211.420-212.820)	anakaa -- anakaa aje ?	how does she -- how does she look like ?
+<184>	(Inline, 211.575-213.025)	<no-speech>	<no-speech>
+<185>	(Outline, 212.820-216.050)	<no-speech>	<no-speech>
+<186>	(Inline, 213.025-214.145)	<no-speech>	<no-speech>
+<187>	(Inline, 214.145-215.685)	<no-speech> (()) .	(()) .
+<188>	(Inline, 215.685-216.088)	u- %incomplete	%incomplete
+<189>	(Outline, 216.050-218.670)	<no-speech> lakini -- (()) anakaa aje ?	but (()) how does she look ?
+<190>	(Inline, 216.088-217.429)	<no-speech>	<no-speech>
+<191>	(Inline, 217.429-218.355)	ehhe ?	mm ?
+<192>	(Inline, 218.355-219.735)	<no-speech>	<no-speech>
+<193>	(Outline, 218.670-222.540)	<no-speech>	<no-speech>
+<194>	(Inline, 219.735-222.879)	ni kitu -- ni kitu -- ni kitu -- ni kitu iko sawa -- iko sawa sana .	it's something -- it's something -- it's something -- it's something that is good -- it's very good .
+<195>	(Outline, 222.540-223.140)	ehhe ?	mm ?
+<196>	(Inline, 222.879-226.635)	figure nane hivi kawaida si unajua ?	figure eight as usual you know that ?
+<197>	(Outline, 223.140-226.770)	<no-speech>	<no-speech>
+<198>	(Inline, 226.635-227.675)	<no-speech>	<no-speech>
+<199>	(Outline, 226.770-227.760)	kwani mko Umo ?	are you in Umo ?
+<200>	(Inline, 227.675-228.866)	<sta> yuko sawa .	she's fine .
+<201>	(Outline, 227.760-228.660)	<no-speech>	<no-speech>
+<202>	(Outline, 228.660-229.430)	mko Umo ?	are you in Umo ?
+<203>	(Inline, 228.866-231.465)	<no-speech>	<no-speech>
+<204>	(Outline, 229.430-231.520)	<no-speech>	<no-speech>
+<205>	(Inline, 231.465-232.665)	<no-speech>	<no-speech>
+<206>	(Outline, 231.520-231.865)	ehhe ?	mm ?
+<207>	(Outline, 231.865-232.842)	<no-speech>	<no-speech>
+<208>	(Inline, 232.665-233.137)	ehhe ?	mm ?
+<209>	(Outline, 232.842-234.090)	mko <no-speech> mko Umo ?	are you in Umo ?
+<210>	(Inline, 233.137-233.616)	ati ?	pardon ?
+<211>	(Inline, 233.616-234.663)	<no-speech> ehhe .	mm .
+<212>	(Outline, 234.090-236.030)	<no-speech>	<no-speech>
+<213>	(Inline, 234.663-236.689)	si niko Umo yeah pia ye yuko Umo <int> .	yes I am in Umo and she's also in Umo .
+<214>	(Outline, 236.030-240.410)	sasa ye bana amengojea niende shughuli ndiyo akuje kutembea huko ?	now why did she wait for me to go about business to come visiting ?
+<215>	(Inline, 236.689-237.455)	ehhe .	mm .
+<216>	(Inline, 237.455-238.475)	<no-speech>	<no-speech>
+<217>	(Inline, 238.475-239.255)	ehhe .	mm .
+<218>	(Inline, 239.255-240.885)	<no-speech>	<no-speech>
+<219>	(Outline, 240.410-241.290)	<no-speech>	<no-speech>
+<220>	(Inline, 240.885-241.365)	<no-speech>	<no-speech>
+<221>	(Outline, 241.290-247.630)	<laugh> <breath> aai haka kakiswahili (()) -- haka kakiswahili hakataki mchezo .	really this Swahili (()) -- this Swahili doesn't entertain jokes .
+<222>	(Inline, 241.365-245.355)	<no-speech>	<no-speech>
+<223>	(Inline, 245.355-251.705)	<no-speech>	<no-speech>
+<224>	(Outline, 247.630-249.110)	<no-speech>	<no-speech>
+<225>	(Outline, 249.110-253.646)	<laugh> mmhm <laugh> (()) hakataki nipumzike .	mmhm (()) doesn't want me to rest .
+<226>	(Inline, 251.705-252.525)	<no-speech>	<no-speech>
+<227>	(Inline, 252.525-257.988)	<no-speech>	<no-speech>
+<228>	(Outline, 253.646-254.150)	mmhm ?	mmhm ?
+<229>	(Outline, 254.150-255.230)	<no-speech>	<no-speech>
+<230>	(Outline, 255.230-257.250)	na <no-speech> we sasa %incomplete	and now you %incomplete
+<231>	(Outline, 257.250-259.010)	<no-speech>	<no-speech>
+<232>	(Inline, 257.988-259.106)	si- -- si ndiyo .	of course .
+<233>	(Outline, 259.010-260.030)	<no-speech>	<no-speech>
+<234>	(Inline, 259.106-260.522)	ha- -- hata heri ungekuwa .	you ought to have been here .
+<235>	(Outline, 260.030-260.527)	ati ?	pardon ?
+<236>	(Inline, 260.522-262.349)	heri -- heri ungekuwa hapa .	it would have been better if you were here .
+<237>	(Outline, 260.527-261.712)	<no-speech>	<no-speech>
+<238>	(Outline, 261.712-262.060)	ehhe ?	mm ?
+<239>	(Outline, 262.060-263.220)	<no-speech>	<no-speech>
+<240>	(Inline, 262.349-263.545)	ehhe .	mm .
+<241>	(Outline, 263.220-265.830)	ndiyo nakwambia <no-speech> ako poa ?	that's why I'm saying is she fine ?
+<242>	(Inline, 263.545-264.515)	<no-speech>	<no-speech>
+<243>	(Inline, 264.515-265.401)	ati useme aje ?	for you to say what ?
+<244>	(Inline, 265.401-266.860)	<int> heri ungekuwa hapa .	you ought to have been here .
+<245>	(Outline, 265.830-267.990)	<no-speech>	<no-speech>
+<246>	(Inline, 266.860-269.228)	<no-speech>	<no-speech>
+<247>	(Outline, 267.990-268.470)	<no-speech>	<no-speech>
+<248>	(Outline, 268.470-269.740)	<no-speech>	<no-speech>
+<249>	(Inline, 269.228-270.155)	ehhe ehhe .	mm mm .
+<250>	(Outline, 269.740-271.590)	ahh chuo iko poa .	ahh school is fine .
+<251>	(Inline, 270.155-271.005)	<no-speech>	<no-speech>
+<252>	(Inline, 271.005-272.445)	heri ungekuwa hapa .	you should have been here .
+<253>	(Outline, 271.590-272.500)	<no-speech>	<no-speech>
+<254>	(Inline, 272.445-273.825)	<no-speech>	<no-speech>
+<255>	(Outline, 272.500-273.009)	ehhe ?	mm ?
+<256>	(Outline, 273.009-275.154)	<no-speech>	<no-speech>
+<257>	(Inline, 273.825-275.061)	ungekuwa hapa umwone .	you should have been here to see her .
+<258>	(Inline, 275.061-279.291)	<int> kwanza -- kwa- -- kwanza ni -- nikashtuka jo wallahi .	first -- first I got shocked indeed .
+<259>	(Outline, 275.154-277.010)	ahh nita- -- nitakuja .	ahh I will come .
+<260>	(Outline, 277.010-279.170)	<no-speech>	<no-speech>
+<261>	(Outline, 279.170-281.690)	ahh nakam -- nakam n- -- na %incomplete	ahh %incomplete
+<262>	(Inline, 279.291-281.398)	<no-speech>	<no-speech>
+<263>	(Inline, 281.398-284.915)	haya a- -- ana- -- ana- -- ana- -- anasema ye ni wa K_U .	okay -- she's -- she's -- she's -- she's saying she's from K_U .
+<264>	(Outline, 281.690-284.090)	<no-speech>	<no-speech>
+<265>	(Outline, 284.090-285.010)	halo Akinyi .	hello Akinyi .
+<266>	(Inline, 284.915-286.003)	<no-speech>	<no-speech>
+<267>	(Outline, 285.010-286.550)	<no-speech>	<no-speech>
+<268>	(Inline, 286.003-287.215)	mmhm <int> ehhe .	mmhm mm .
+<269>	(Outline, 286.550-287.539)	<no-speech> ehhe ?	mm ?
+<270>	(Inline, 287.215-288.855)	<no-speech>	<no-speech>
+<271>	(Outline, 287.539-289.204)	<no-speech>	<no-speech>
+<272>	(Inline, 288.855-289.270)	ati ?	pardon ?
+<273>	(Outline, 289.204-290.010)	halo Akinyi ?	hello Akinyi ?
+<274>	(Inline, 289.270-290.415)	<no-speech>	<no-speech>
+<275>	(Outline, 290.010-292.710)	<no-speech>	<no-speech>
+<276>	(Inline, 290.415-291.295)	<no-speech>	<no-speech>
+<277>	(Inline, 291.295-292.635)	sasa unasemaje ?	now what are you saying ?
+<278>	(Inline, 292.635-295.165)	<no-speech>	<no-speech>
+<279>	(Outline, 292.710-297.010)	ehhe si umuulize kama ako K_U ako what year -- ako what year ?	mm can you ask her if she's in K_U which year of study -- which year she's in ?
+<280>	(Inline, 295.165-295.684)	ati ?	pardon ?
+<281>	(Inline, 295.684-299.595)	(()) <no-speech> .	(()) .
+<282>	(Outline, 297.010-297.950)	<no-speech>	<no-speech>
+<283>	(Outline, 297.950-299.300)	<no-speech>	<no-speech>
+<284>	(Outline, 299.300-300.970)	<no-speech>	<no-speech>
+<285>	(Inline, 299.595-300.905)	<int> ehhe .	mm .
+<286>	(Inline, 300.905-302.465)	<no-speech>	<no-speech>
+<287>	(Outline, 300.970-302.487)	<int> ohh .	ohh .
+<288>	(Inline, 302.465-303.545)	ehhe <sta> .	mm .
+<289>	(Outline, 302.487-303.487)	<no-speech>	<no-speech>
+<290>	(Outline, 303.487-304.859)	we sasa (()) ?	now you (()) ?
+<291>	(Inline, 303.545-304.685)	<no-speech>	<no-speech>
+<292>	(Inline, 304.685-307.133)	anasema anaishi Wakairu -- Wakairu .	she says she lives in Wakairu -- Wakairu .
+<293>	(Outline, 304.859-305.913)	<no-speech>	<no-speech>
+<294>	(Outline, 305.913-307.330)	ati <no-speech> -- ati halo ?	pardon -- pardon hello ?
+<295>	(Inline, 307.133-308.065)	unajua huko ?	do you know the place ?
+<296>	(Outline, 307.330-308.280)	<no-speech>	<no-speech>
+<297>	(Inline, 308.065-310.055)	<no-speech>	<no-speech>
+<298>	(Outline, 308.280-309.850)	ahh niki- -- ?	aah if I ?
+<299>	(Outline, 309.850-311.530)	<no-speech>	<no-speech>
+<300>	(Inline, 310.055-311.389)	Wakairu hapo Ruiru .	Wakairu in Ruiru .
+<301>	(Inline, 311.389-314.115)	anaishi -- anaishi Wakairu hapo Ruiru campus .	she lives -- she lives in Wakairu in Ruiru Campus .
+<302>	(Outline, 311.530-312.514)	Olka- -- Ol Keiyo ?	Olka -- Ol Keiyo ?
+<303>	(Outline, 312.514-313.585)	<no-speech>	<no-speech>
+<304>	(Outline, 313.585-314.828)	wacha mchezo ?	stop joking ?
+<305>	(Inline, 314.115-315.455)	<no-speech>	<no-speech>
+<306>	(Outline, 314.828-319.100)	Keiyo ohh huko ni nini <no-speech> -- kwanza Baringo campus ?	Keiyo ohh there in -- in fact Baringo campus ?
+<307>	(Inline, 315.455-315.995)	<no-speech>	<no-speech>
+<308>	(Inline, 315.995-317.155)	<no-speech>	<no-speech>
+<309>	(Inline, 317.155-317.765)	ehhe .	mm .
+<310>	(Inline, 317.765-318.925)	<no-speech>	<no-speech>
+<311>	(Inline, 318.925-322.757)	<laugh> ahh ukweli -- ukweli <int> -- ukweli kwani pia we uko huko ?	ahh is it true -- is it true -- is it true that you're also there ?
+<312>	(Outline, 319.100-320.300)	<no-speech>	<no-speech>
+<313>	(Outline, 320.300-321.670)	mmhm ?	mmhm ?
+<314>	(Outline, 321.670-322.630)	<no-speech>	<no-speech>
+<315>	(Outline, 322.630-332.830)	hapana na huko nje <no-speech> hapo unaweza fanyaje <laugh> -- huko ni kwa mafala <no-speech> ehhe <laugh> .	no and what can you do outside here -- there are fools there mm .
+<316>	(Inline, 322.757-323.914)	<no-speech>	<no-speech>
+<317>	(Inline, 323.914-324.795)	pia we uko huko ?	are you also there ?
+<318>	(Inline, 324.795-326.425)	<no-speech>	<no-speech>
+<319>	(Inline, 326.425-326.915)	ehhe ?	mm ?
+<320>	(Inline, 326.915-328.815)	<no-speech>	<no-speech>
+<321>	(Inline, 328.815-329.175)	<no-speech>	<no-speech>
+<322>	(Inline, 329.175-330.165)	<no-speech>	<no-speech>
+<323>	(Inline, 330.165-335.005)	<laugh> na we u- -- we u- -- we u- -- <laugh> -- we uko pande gani ?	and you -- and you -- and you -- which side are you at ?
+<324>	(Outline, 332.830-334.450)	<no-speech>	<no-speech>
+<325>	(Outline, 334.450-336.130)	mwambie mi niko Kahawa .	tell him I am in Kahawa .
+<326>	(Inline, 335.005-337.915)	<no-speech>	<no-speech>
+<327>	(Outline, 336.130-337.460)	<no-speech>	<no-speech>
+<328>	(Outline, 337.460-339.627)	mi niko sawa .	I am okay .
+<329>	(Inline, 337.915-339.085)	we uko pande gani ?	which side are you at ?
+<330>	(Inline, 339.085-340.565)	<no-speech>	<no-speech>
+<331>	(Outline, 339.627-341.847)	<no-speech>	<no-speech>
+<332>	(Inline, 340.565-344.546)	<no-speech>	<no-speech>
+<333>	(Outline, 341.847-342.318)	mmhm ?	mmhm ?
+<334>	(Outline, 342.318-344.915)	<no-speech>	<no-speech>
+<335>	(Inline, 344.546-345.395)	we uko Kahawa ?	are you are in Kahawa ?
+<336>	(Outline, 344.915-346.880)	ehhe mi niko sawa .	mm I am okay .
+<337>	(Inline, 345.395-346.365)	<no-speech>	<no-speech>
+<338>	(Inline, 346.365-347.290)	<no-speech>	<no-speech>
+<339>	(Outline, 346.880-348.585)	ehhe bana .	mm friend .
+<340>	(Inline, 347.290-348.345)	we uko Kahawa ?	are you in Kahawa ?
+<341>	(Inline, 348.345-349.715)	<no-speech>	<no-speech>
+<342>	(Outline, 348.585-354.029)	<no-speech>	<no-speech>
+<343>	(Inline, 349.715-350.354)	by- -- by- %incomplete	by -- by -- %incomplete
+<344>	(Inline, 350.354-353.087)	<sta> nataka kumwambia awache number yake nim- %incomplete	I want to tell her to leave her number %incomplete
+<345>	(Inline, 353.087-355.675)	nataka kumwambia awache number yake %incomplete	I want to tell her to leave her number %incomplete
+<346>	(Outline, 354.029-354.748)	ati ?	pardon ?
+<347>	(Outline, 354.748-357.830)	<no-speech> ehhe <no-speech> si ndiyo hiyo ako (()) ?	mm isn't it so that she's (()) ?
+<348>	(Inline, 355.675-357.185)	<no-speech>	<no-speech>
+<349>	(Inline, 357.185-358.568)	halafu nikutumie si ndiyo ?	and then send it to you is that so ?
+<350>	(Outline, 357.830-358.880)	<no-speech>	<no-speech>
+<351>	(Inline, 358.568-359.405)	si itakuwa sawa ?	will that be okay ?
+<352>	(Outline, 358.880-359.707)	ako what year ?	which year is she in ?
+<353>	(Inline, 359.405-360.505)	<no-speech>	<no-speech>
+<354>	(Outline, 359.707-360.865)	<no-speech>	<no-speech>
+<355>	(Inline, 360.505-360.975)	ama %incomplete	or %incomplete
+<356>	(Outline, 360.865-361.651)	ehhe ?	mm ?
+<357>	(Inline, 360.975-361.463)	<no-speech>	<no-speech>
+<358>	(Inline, 361.463-362.165)	ehhe ehhe .	mm mm .
+<359>	(Outline, 361.651-362.974)	<no-speech> ako mwaka gani ?	which year is she in ?
+<360>	(Inline, 362.165-363.225)	<no-speech>	<no-speech>
+<361>	(Outline, 362.974-364.091)	<no-speech>	<no-speech>
+<362>	(Inline, 363.225-363.745)	ama ?	or ?
+<363>	(Inline, 363.745-365.395)	<no-speech>	<no-speech>
+<364>	(Outline, 364.091-364.505)	ehhe ?	mm ?
+<365>	(Outline, 364.505-366.007)	<no-speech>	<no-speech>
+<366>	(Inline, 365.395-366.505)	nakwambia %incomplete	I'm telling you %incomplete
+<367>	(Outline, 366.007-366.435)	ehhe .	mm .
+<368>	(Outline, 366.435-368.530)	<no-speech>	<no-speech>
+<369>	(Inline, 366.505-368.265)	<no-speech>	<no-speech>
+<370>	(Inline, 368.265-369.199)	unanisikia kweli ?	can you really hear me ?
+<371>	(Outline, 368.530-369.630)	<no-speech>	<no-speech>
+<372>	(Inline, 369.199-371.335)	kwani unaongea na nani huko kwa hao ya nyuma ?	whom are you talking to from the house behind ?
+<373>	(Outline, 369.630-372.500)	<no-speech>	<no-speech>
+<374>	(Inline, 371.335-375.515)	<no-speech>	<no-speech>
+<375>	(Outline, 372.500-380.610)	nakuuliza <no-speech> -- we nakuuliza <no-speech> ako what year <int> -- mwaka gani bwana ?	I am asking you -- I am asking you which year of study is she in my friend ?
+<376>	(Inline, 375.515-377.955)	<no-speech>	<no-speech>
+<377>	(Inline, 377.955-378.995)	<no-speech>	<no-speech>
+<378>	(Inline, 378.995-380.461)	<no-speech>	<no-speech>
+<379>	(Inline, 380.461-384.292)	wait -- wait unaongea na nani huko nyuma ?	wait -- wait whom are you to behind the house ?
+<380>	(Outline, 380.610-381.620)	<no-speech>	<no-speech>
+<381>	(Outline, 381.620-382.381)	ako mwaka (()) ?	which year is she in (()) ?
+<382>	(Outline, 382.381-383.530)	<no-speech>	<no-speech>
+<383>	(Outline, 383.530-384.745)	naongea na we .	I am talking to you .
+<384>	(Inline, 384.292-387.995)	kwani unaongea nami na at the same time unaongea na mse mwingine ?	are you talking to me and at the same time talking to someone else ?
+<385>	(Outline, 384.745-386.361)	<no-speech>	<no-speech>
+<386>	(Outline, 386.361-388.874)	ahh we wacha mambo mingi <no-speech> ako mwaka gani ?	ahh cut out the many issues which year is she in ?
+<387>	(Inline, 387.995-389.455)	<no-speech>	<no-speech>
+<388>	(Outline, 388.874-390.070)	<no-speech> ehhe ?	mm ?
+<389>	(Inline, 389.455-389.815)	<no-speech>	<no-speech>
+<390>	(Inline, 389.815-392.565)	<no-speech>	<no-speech>
+<391>	(Outline, 390.070-391.110)	<no-speech>	<no-speech>
+<392>	(Outline, 391.110-391.531)	ehhe ?	mm ?
+<393>	(Outline, 391.531-393.000)	<no-speech>	<no-speech>
+<394>	(Inline, 392.565-396.594)	<no-speech>	<no-speech>
+<395>	(Outline, 393.000-394.280)	<no-speech>	<no-speech>
+<396>	(Outline, 394.280-395.240)	<sta> ako mwaka gani ?	which year is she in ?
+<397>	(Outline, 395.240-397.620)	<no-speech>	<no-speech>
+<398>	(Inline, 396.594-396.859)	ehhe .	mm .
+<399>	(Inline, 396.859-398.205)	sasa ndiyo nakwambia %incomplete	that's why I'm telling you %incomplete
+<400>	(Outline, 397.620-398.130)	ehhe .	mm .
+<401>	(Outline, 398.130-400.570)	<no-speech>	<no-speech>
+<402>	(Inline, 398.205-399.355)	<no-speech>	<no-speech>
+<403>	(Inline, 399.355-401.605)	<no-speech> unanisikia <no-speech> ?	can you hear me ?
+<404>	(Outline, 400.570-401.620)	ako mwaka gani ?	which year is she in ?
+<405>	(Inline, 401.605-403.125)	<no-speech>	<no-speech>
+<406>	(Outline, 401.620-405.680)	<no-speech>	<no-speech>
+<407>	(Inline, 403.125-410.585)	ndiyo nakwambia si tuchukue tu hiyo nambari yake -- tuchukue nambari yake halafu nikusambazie halafu sasa m- -- mtaongea .	that's why I am telling you that we should just take her number -- we should take her number and share it with you and then you can talk .
+<408>	(Outline, 405.680-406.050)	<no-speech>	<no-speech>
+<409>	(Outline, 406.050-410.360)	<no-speech>	<no-speech>
+<410>	(Outline, 410.360-411.853)	<no-speech>	<no-speech>
+<411>	(Inline, 410.585-412.215)	<no-speech>	<no-speech>
+<412>	(Outline, 411.853-416.070)	we hujaja ongea Kiswahili we <no-speech> -- we hujaja ongea Kiswahili .	you haven't come to speak in Swahili -- you haven't come to speak in Swahili .
+<413>	(Inline, 412.215-414.139)	<no-speech>	<no-speech>
+<414>	(Inline, 414.139-414.523)	si ndiyo ?	isn't it ?
+<415>	(Inline, 414.523-417.095)	<no-speech>	<no-speech>
+<416>	(Outline, 416.070-417.080)	<no-speech>	<no-speech>
+<417>	(Outline, 417.080-420.230)	wachana na Kiswahili basi <no-speech> itakulemea my friend .	then leave Swahili alone it will challenge you my friend .
+<418>	(Inline, 417.095-418.145)	<no-speech>	<no-speech>
+<419>	(Inline, 418.145-421.250)	<no-speech>	<no-speech>
+<420>	(Outline, 420.230-421.110)	<no-speech>	<no-speech>
+<421>	(Outline, 421.110-421.990)	<no-speech>	<no-speech>
+<422>	(Inline, 421.250-422.696)	si ndiyo uongee Kiswahili .	then talk in Swahili .
+<423>	(Outline, 421.990-422.860)	<no-speech>	<no-speech>
+<424>	(Inline, 422.696-429.645)	unajua umezoea Sheng -- we umezoea Sheng sana bwana -- umezoea Sheng na Kizungu mpaka hata kuongea Kiswahili inakushinda .	you know you're used to slang -- you're used to slang a lot my friend -- you're used to slang and English and even speaking in Swahili is challenging .
+<425>	(Outline, 422.860-424.500)	nakwambia %incomplete	I'm telling you %incomplete
+<426>	(Outline, 424.500-425.870)	<no-speech>	<no-speech>
+<427>	(Outline, 425.870-430.330)	ahh sasa na we -- we -- we ushaanguka mtihani we .	ahh now and you -- you -- you have already failed the exam .
+<428>	(Inline, 429.645-430.605)	<no-speech>	<no-speech>
+<429>	(Outline, 430.330-431.400)	<no-speech>	<no-speech>
+<430>	(Inline, 430.605-430.965)	<no-speech>	<no-speech>
+<431>	(Inline, 430.965-432.445)	<no-speech>	<no-speech>
+<432>	(Outline, 431.400-431.910)	ehhe ?	mm ?
+<433>	(Outline, 431.910-434.270)	<no-speech>	<no-speech>
+<434>	(Inline, 432.445-437.815)	ama K_U i- -- K_U imekuharibu <no-speech> -- K_U imekuharibu <int> -- K_U imekuharibu .	or K_U -- K_U has spoiled you -- K_U has spoiled you -- K_U has spoiled .
+<435>	(Outline, 434.270-435.410)	K_U iko kwa (()) .	K_U is in (()) .
+<436>	(Outline, 435.410-436.260)	<no-speech>	<no-speech>
+<437>	(Outline, 436.260-440.760)	K_U ni karibu buda <no-speech> Ngai ati buda <int> mzee .	K_U is close to a man God you mean an old man .
+<438>	(Inline, 437.815-438.935)	<no-speech>	<no-speech>
+<439>	(Inline, 438.935-439.285)	<no-speech>	<no-speech>
+<440>	(Inline, 439.285-440.685)	<no-speech>	<no-speech>
+<441>	(Inline, 440.685-443.230)	ndiyo nakwa- -- nakuuliza kwani K_U imekuharibu ?	that's why I am asking you did K_U spoil you ?
+<442>	(Outline, 440.760-443.880)	<no-speech>	<no-speech>
+<443>	(Inline, 443.230-444.217)	ehhe ?	mm ?
+<444>	(Outline, 443.880-444.480)	Tony ?	Tony ?
+<445>	(Inline, 444.217-446.425)	<no-speech>	<no-speech>
+<446>	(Outline, 444.480-447.240)	<no-speech>	<no-speech>
+<447>	(Inline, 446.425-447.217)	ati umesema aje ?	what did you say ?
+<448>	(Inline, 447.217-449.424)	<no-speech>	<no-speech>
+<449>	(Outline, 447.240-447.850)	huku ?	here ?
+<450>	(Outline, 447.850-449.180)	<no-speech>	<no-speech>
+<451>	(Outline, 449.180-461.100)	huku kuko haiya kwanza unajua niko -- ni- -- niko nje ya -- ya -- ya room ya beshte yangu naona -- naona madem wakipika jo wameiva yaani wame- -- ni warembo -- ni warembo <laugh> .	this place is I mean in fact you know I am -- I am outside my friend's room and I can see ladies cooking they are ripe I mean they are beautiful .
+<452>	(Inline, 449.424-449.775)	ehhe .	mm .
+<453>	(Inline, 449.775-450.675)	<no-speech>	<no-speech>
+<454>	(Inline, 450.675-451.605)	<no-speech>	<no-speech>
+<455>	(Inline, 451.605-452.455)	<no-speech>	<no-speech>
+<456>	(Inline, 452.455-454.185)	<no-speech>	<no-speech>
+<457>	(Inline, 454.185-455.435)	<no-speech>	<no-speech>
+<458>	(Inline, 455.435-455.945)	manze %incomplete	dude %incomplete
+<459>	(Inline, 455.945-457.775)	<no-speech>	<no-speech>
+<460>	(Inline, 457.775-458.805)	<no-speech>	<no-speech>
+<461>	(Inline, 458.805-459.675)	<no-speech>	<no-speech>
+<462>	(Inline, 459.675-460.175)	ehhe .	mm .
+<463>	(Inline, 460.175-462.855)	<no-speech>	<no-speech>
+<464>	(Outline, 461.100-465.170)	<laugh> ehhe niko hapa .	mm I am here .
+<465>	(Inline, 462.855-463.715)	<no-speech>	<no-speech>
+<466>	(Inline, 463.715-464.565)	<no-speech>	<no-speech>
+<467>	(Inline, 464.565-471.415)	my dear wacha nikuulize ja- -- ja- -- jana kuliendaje -- jana kuliendaje <no-speech> -- jana kuliendaje ?	my dear let me ask you how did yesterday go -- how did yesterday go -- how did yesterday go ?
+<468>	(Outline, 465.170-469.330)	<no-speech>	<no-speech>
+<469>	(Outline, 469.330-474.170)	jana Arse- -- jana Arsenal walichapwa -- mlichapwa kwenda .	yesterday -- yesterday Arsenal was beaten -- you were beaten go away .
+<470>	(Inline, 471.415-477.785)	<no-speech>	<no-speech>
+<471>	(Outline, 474.170-475.200)	<no-speech>	<no-speech>
+<472>	(Outline, 475.200-476.421)	Arsenal walichapwa <int> .	Arsenal was beaten .
+<473>	(Outline, 476.421-477.152)	ehhe ?	mm ?
+<474>	(Outline, 477.152-481.220)	hata mi -- mi -- mi -- we <int> hama Arse- -- we a- -- we hama Arsenal .	even I -- I -- I -- move -- move from Arsenal .
+<475>	(Inline, 477.785-478.565)	ahh u- -- uhuh .	ahh no .
+<476>	(Inline, 478.565-480.801)	wacha wachana na ball .	cut it out leave the ball alone .
+<477>	(Inline, 480.801-483.475)	wachana na hiyo -- hiyo -- hiyo -- naye najua tulishindwa .	leave that -- that -- that -- him alone I know we were beaten .
+<478>	(Outline, 481.220-482.120)	<no-speech>	<no-speech>
+<479>	(Outline, 482.120-483.420)	we hama Arsenal bana .	move from Arsenal my friend .
+<480>	(Outline, 483.420-484.750)	<no-speech>	<no-speech>
+<481>	(Inline, 483.475-484.415)	<no-speech>	<no-speech>
+<482>	(Inline, 484.415-484.871)	hiyo %incomplete	that %incomplete
+<483>	(Outline, 484.750-485.290)	mmhm ?	mmhm ?
+<484>	(Inline, 484.871-485.995)	(()) <no-speech> .	(()) .
+<485>	(Outline, 485.290-487.190)	<no-speech>	<no-speech>
+<486>	(Inline, 485.995-487.338)	hiyo -- hiyo tulishindwa .	that -- we lost that one .
+<487>	(Outline, 487.190-487.970)	ohh jana ?	ooh yesterday ?
+<488>	(Inline, 487.338-491.523)	uhuh hiyo nimekubali -- nimekubali hiyo tulishindwa .	no I have accepted it -- I have accepted that we lost that one .
+<489>	(Outline, 487.970-492.190)	<no-speech>	<no-speech>
+<490>	(Inline, 491.523-493.765)	sasa mi nakuuli- -- nakuuliza %incomplete	now I am asking you %incomplete
+<491>	(Outline, 492.190-493.022)	halo .	hello .
+<492>	(Outline, 493.022-493.710)	ehhe .	mm .
+<493>	(Outline, 493.710-499.100)	<no-speech>	<no-speech>
+<494>	(Inline, 493.765-495.045)	<no-speech>	<no-speech>
+<495>	(Inline, 495.045-503.584)	jana mausiku vyenye uli- -- ulini- -- uli- -- jana usiku vyenye ulinizimia line <laugh> -- ulinizimia simu u- -- uliendaje ?	last night when you -- you -- you -- where did you go last night after switching off the line -- switching off the phone on me ?
+<496>	(Outline, 499.100-499.650)	ehhe .	mm .
+<497>	(Outline, 499.650-501.450)	<no-speech>	<no-speech>
+<498>	(Outline, 501.450-501.810)	<no-speech>	<no-speech>
+<499>	(Outline, 501.810-502.940)	<no-speech>	<no-speech>
+<500>	(Outline, 502.940-504.450)	ahh %incomplete	aah %incomplete
+<501>	(Inline, 503.584-506.107)	we unajuanga we -- we unakuwanga mtu %incomplete	you know you're usually -- you know you're usually a person %incomplete
+<502>	(Outline, 504.450-505.740)	<no-speech>	<no-speech>
+<503>	(Outline, 505.740-507.640)	ahh jana -- jana kulikuwa kuzuri .	ahh yesterday -- yesterday was good .
+<504>	(Inline, 506.107-507.395)	(()) <no-speech> .	(()) .
+<505>	(Inline, 507.395-508.265)	<no-speech>	<no-speech>
+<506>	(Outline, 507.640-508.265)	<no-speech>	<no-speech>

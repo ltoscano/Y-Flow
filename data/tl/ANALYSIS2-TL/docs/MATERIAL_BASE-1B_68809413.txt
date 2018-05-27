@@ -1,0 +1,52 @@
+0.000	outLine	<no-speech>
+0.000	inLine	<no-speech>
+1.595	outLine	<no-speech>
+1.890	inLine	hello .
+1.975	outLine	<no-speech>
+2.480	inLine	<no-speech>
+3.870	inLine	hello .
+4.520	inLine	<no-speech>
+4.885	outLine	<no-speech>
+5.245	outLine	<no-speech>
+6.260	inLine	hello .
+7.000	inLine	<no-speech>
+7.255	outLine	hindi dati doon sa dati sa Laguna siya nagpapa-check-up .
+10.190	inLine	saan nga sinasabi nagpapa-check-up ?
+11.111	outLine	dati sa Laguna siya nagpapa-check .
+11.856	inLine	<no-speech>
+12.849	inLine	saan sila dati nagpapa-check-up ?
+12.933	outLine	ha ?
+13.475	outLine	<no-speech>
+14.430	inLine	<no-speech>
+14.445	outLine	ano ?
+15.105	outLine	<no-speech>
+16.070	inLine	saan sila dati nagpapa-check-up ?
+18.165	outLine	sa Laguna nga .
+18.199	inLine	ha ?
+19.173	inLine	sa Laguna ?
+19.315	outLine	<no-speech>
+20.465	outLine	sa Laguna nga sila nagpapa-check-up .
+20.940	inLine	<no-speech>
+22.515	outLine	<no-speech>
+23.180	inLine	o .
+23.680	inLine	<no-speech>
+24.545	outLine	na vibes sa Laguna .
+25.870	inLine	mhm .
+26.330	inLine	<no-speech>
+26.406	outLine	<no-speech>
+26.728	outLine	Laguna .
+27.130	inLine	oo .
+27.715	outLine	<no-speech>
+27.760	inLine	<no-speech>
+28.725	outLine	<hes> kaso ang problema na (()) may mga (()) .
+35.115	outLine	<no-speech>
+35.660	inLine	(()) .
+36.020	inLine	<no-speech>
+36.255	outLine	kaya ang ano ang inano niya dito daw sa U_S_T para libre .
+41.160	inLine	ang akala ko (()) .
+41.755	outLine	<no-speech>
+42.480	inLine	<no-speech>
+43.395	outLine	hindi ko lang alam kung puwede siya <hes> ang address niya Laguna <hes> .
+47.510	inLine	ah .
+47.995	outLine	<no-speech>
+48.380

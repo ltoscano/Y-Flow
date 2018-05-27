@@ -1,0 +1,109 @@
+0.000	outLine	<no-speech>
+0.000	inLine	<no-speech>
+1.019	outLine	ehhe .
+1.541	outLine	pia sawa lakini nikajuaji katatoa kumi na nane kweli ?
+4.350	outLine	<no-speech>
+4.700	inLine	ehhe -- ehhe si anaweza toa sasa si (()) unajua hiyo <no-speech> -- hiyo shule ni ya Mjaluo mwenzako anaweza ongea na ye mzuri .
+5.980	outLine	<no-speech>
+12.790	inLine	<no-speech>
+14.573	outLine	ehhe .
+14.814	outLine	kwa- %incomplete
+15.161	outLine	ehhe .
+15.490	outLine	kwanza tunaweza muanzia na kumi na nane halafu <sta> labda akiteremka ndiyo inaweza kuja kumi na sita na saba ama tano .
+22.489	outLine	<breath> lakini hata %incomplete
+23.010	inLine	sana sana ni pesa ngapi ?
+24.440	outLine	<no-speech>
+24.980	inLine	<no-speech>
+25.240	outLine	<sta> ehhe .
+26.322	outLine	<no-speech>
+26.680	inLine	sana sana tusimamie pesa ngapi ?
+28.610	inLine	<no-speech>
+30.335	outLine	Kismayu ?
+31.020	outLine	<no-speech>
+31.580	inLine	ehhe kusimamia .
+33.070	inLine	<no-speech>
+33.610	outLine	<no-speech> ehhe .
+34.500	outLine	<no-speech>
+34.840	inLine	nauliza tunaweza simamia pesa ngapi katika ile bei tunaweza lipiza <int> ?
+35.510	outLine	<no-speech>
+37.760	outLine	<no-speech>
+39.180	inLine	<no-speech>
+40.389	outLine	ye ?
+40.960	outLine	<no-speech>
+41.190	inLine	ehhe (()) Ochieng ujue Ochieng anakula .
+42.600	outLine	<no-speech>
+43.060	outLine	<no-speech>
+44.000	outLine	<sta> si %incomplete
+44.254	outLine	<no-speech>
+44.930	inLine	<no-speech>
+45.679	outLine	si ni ten percent ?
+46.910	outLine	<no-speech>
+46.960	inLine	<sta> ndiyo nakwambia <no-speech> ujue Ochieng anakula %incomplete
+48.360	outLine	<sta> ehhe .
+50.046	outLine	<no-speech>
+51.720	inLine	<no-speech>
+52.830	inLine	<sta> ehhe ?
+53.118	outLine	ehhe .
+53.570	outLine	<no-speech>
+53.608	inLine	nasi tunataka kukula .
+54.729	outLine	Och- %incomplete
+55.030	outLine	<no-speech>
+55.250	inLine	<no-speech>
+56.280	outLine	Och- -- Ochieng si atakula ten percent ?
+58.900	outLine	<no-speech>
+59.000	inLine	<sta> ehhe si ni hiyo ni ngiri ?
+60.520	inLine	<no-speech>
+61.720	outLine	ehhe hiyo ni- -- ni ngiri .
+64.600	outLine	<no-speech>
+64.960	inLine	hiyo ni ngiri .
+66.010	inLine	<no-speech>
+67.040	outLine	ehhe .
+67.360	inLine	au kwa hivyo wacha si ndiyo nakuuliza wacha si tusimamie hapo na ndiyo naye si tuweze kukula .
+67.750	outLine	<no-speech>
+71.140	outLine	<no-speech>
+73.040	inLine	<no-speech>
+74.778	outLine	sasa wakitoa -- wakitoa kumi na nane si mi nitachukua fifteen hizo ngiri tatu mtajipanga nayo .
+81.370	inLine	ehhe .
+81.980	inLine	<no-speech>
+82.070	outLine	<no-speech>
+83.346	outLine	ehhe .
+83.567	outLine	hiyo -- hiyo tatu sasa si mta- -- mtakula na Ochieng .
+86.220	outLine	<no-speech>
+86.990	inLine	haya halafu sasa tutanunua nyama si ndiyo ?
+89.390	outLine	<no-speech>
+90.290	inLine	<no-speech>
+90.320	outLine	<no-speech>
+91.549	outLine	ehhe .
+92.190	outLine	<no-speech>
+92.720	inLine	ehhe unune nyama na %incomplete
+93.140	outLine	na -- <no-speech> <int> -- na -- na utoe mpaka homa .
+94.268	inLine	ehhe ?
+95.030	inLine	<no-speech>
+97.183	outLine	<no-speech>
+97.820	inLine	<laugh> ati utoe mpaka homa ?
+98.224	outLine	ehhe .
+98.684	outLine	<no-speech>
+102.230	inLine	<no-speech>
+103.217	outLine	ehhe .
+103.860	outLine	<no-speech>
+104.200	inLine	<laugh> haya we jaribu sana .
+106.580	inLine	<no-speech>
+106.670	outLine	<no-speech>
+107.570	inLine	halafu sasa usimamie kumi na -- usimamie kumi na nane usianguke .
+107.936	outLine	haya sawasawa .
+108.930	outLine	<no-speech>
+111.140	outLine	<no-speech>
+111.390	inLine	<no-speech>
+113.700	inLine	ehhe sawa ?
+114.547	inLine	<no-speech>
+115.428	outLine	ehhe (()) .
+116.337	inLine	e- -- ehhe .
+116.730	outLine	<no-speech>
+117.230	inLine	<no-speech>
+118.220	outLine	(()) <no-speech> .
+118.470	inLine	halafu <int> %incomplete
+119.410	outLine	<no-speech>
+119.840	outLine	<no-speech>
+120.360	inLine	<no-speech>
+121.160	inLine	ehhe .
+121.800

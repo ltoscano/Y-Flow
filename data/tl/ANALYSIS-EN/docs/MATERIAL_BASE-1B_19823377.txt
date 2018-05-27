@@ -1,0 +1,32 @@
+<1>	(0.000-1.864)	<no-speech>	<no-speech>
+<2>	(1.864-4.131)	<sta> balita naman mula sa Lanao del Sur .	report from Lanao del Sur .
+<3>	(4.131-10.630)	nabawi na ng militar ang control sa barangay Puktan matapos nitong kubkubin ng mga terorista .	military has reclaimed control in Barangay Puktan after it was surrounded by terrorists .
+<4>	(10.630-14.006)	bakas naman sa lugar ang iniwang pinsala ng bakbakan .	the disaster brought by the battle is obvious in the community .
+<5>	(14.006-16.128)	<sta> umaaksiyon si Erel Cabatbat .	in action Erel Cabatbat .
+<6>	(16.128-17.770)	<no-speech>	<no-speech>
+<7>	(17.770-20.611)	<no-speech>	<no-speech>
+<8>	(20.611-28.750)	muling naitaas ang watawat ng Pilipinas sa barangay Puktan Butig Lanao del Sur sampung araw matapos sumalakay ang isang lokal na teroristang grupo .	the flag of the Philippines was once again raised in Barangay Puktan Butig Lanao del Sur ten days after a local terrorist group has attacked .
+<9>	(28.750-35.840)	pinamunuan sila ng magkapatid na Omar at Abdullah Maute pero hindi naging madali ang pagpasok ng militar sa kampo ng mga terorista .	led by the brothers Omar and Abdullah Maute but it wasn't easy for the military to enter the camp of terrorists .
+<10>	(35.840-39.270)	sa unang araw pa lang ng opensa apat na sundalo agad ang nasawi .	on the first day of harassment four soldiers were already killed .
+<11>	(39.270-45.350)	bago kasi makarating sa Puktan kailangang dumaan ang army sa barangay Ragayan kung saan nakabantay ang mga terorista .	before reaching Puktan the army have to pass by Barangay Ragayan where terrorists were guarding .
+<12>	(45.350-49.442)	nagsilbing watchtower at sniper nest nila ang gusali na gawa sa semento .	buildings made of cement served as their watchtower and sniper nest .
+<13>	(49.442-52.090)	matapos ang bakbakan puro butas na ito .	after the battle it already had holes .
+<14>	(52.090-54.638)	maraming bahay din ang tinamaan ng mga bala at bomba .	many houses were also hit by bullets and bombs .
+<15>	(54.638-59.880)	sa lakas ng bombang binagsak ng air force nagkaroon ng malaking hukay sa lupang ito .	because of the strong bomb dropped by the air force the ground had a huge pit .
+<16>	(59.880-64.400)	wasak din ang bahay ng magkapatid na Maute na kanila raw pinagtaguan .	the house of the Maute brothers that was their hideout was also destroyed .
+<17>	(64.400-67.754)	halos magkatabi lamang ang bahay nina Omar at Abdullah Maute .	the houses of Omar and Abdullah Maute were almost just beside each other .
+<18>	(67.754-71.830)	ang dalawang leader na tinuturo ang nanguna sa panggugulo dito sa bayan ng Butig .	the two leaders that are being pointed at led the disturbance here in the area of Butig .
+<19>	(71.830-77.510)	kung makita ninyo sa likod ko halos walang natira sa bahay dahil sa tindi ng mga bombang ibinagsak ng militar dito .	if you can see behind me almost nothing is left of the houses because of the severity of the bombs dropped by the military here .
+<20>	(77.510-80.770)	binomba rin ang isa pang kubol ng mga terorista sa tabi ng ilog .	another terrorist shelter beside the river was also bombed .
+<21>	(80.770-83.484)	limang sundalo at higit animnapung bandido ang nasawi .	five soldiers and more than sixty outlaws were killed .
+<22>	(83.484-86.657)	kinokompirma pa ng militar ang ulat na kasama rito si Omar .	the military is still confirming the statement that Omar is involved in this .
+<23>	(86.657-89.690)	pati na ang report na nakatakas ang kaniyang kapatid na si Abdullah .	and also the report that says his brother Abdullah escaped .
+<24>	(89.690-94.805)	sabi ng militar maging babala sana ang engkuwentro sa nagbabalak na manggulo sa lugar .	the military says that hopefully the encounter will serve as a warning for those who plan to disturb the area .
+<25>	(94.805-113.930)	sa lahat man na gustong mag-attempt na subukan ang kakayahan ng inyong Armed Forces of the Philippines dahil hindi kami mag-atubiling gamitin ang buong lakas ng aming organization so that we could immediately resolve the crisis at the fastest possible time .	to all those who want to attempt to try the abilities of your Armed Forces of the Philippines because we will not hesitate to use the full strength of our organization so that we could immediately resolve the crisis at the fastest possible time .
+<26>	(113.930-120.204)	kasabay nito hinimok ng mga awtoridad ang mahigit apatnapu't isang libong residenteng lumikas na bumalik na sa kanilang mga tahanan .	with this authorities are urging more than forty thousand evacuated residents to return to their homes .
+<27>	(120.204-124.174)	dapat hindi muna kuwan .	it must not be you know .
+<28>	(124.174-125.349)	<no-speech>	<no-speech>
+<29>	(125.349-127.740)	ma- -- umalis dito ang military .	-- the military leaves here .
+<30>	(127.740-129.439)	kasi baka bumalik ang mga terorista .	because the terrorists might return .
+<31>	(129.439-131.090)	paano makalaban ang mga L_G_U .	how will the L_G_U fight .
+<32>	(131.090-133.297)	umaaksiyon Erel Cabatbat .	taking action Erel Cabatbat .

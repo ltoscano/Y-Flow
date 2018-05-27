@@ -1,0 +1,33 @@
+<1>	(Inline, 0.000-2.965)	<no-speech>	<no-speech>
+<2>	(Outline, 0.000-3.934)	kinukuwento lang kay Ana na 'yon na nga lang daw matitira sa kanya .	Ana was being told that that will be the only one left to her .
+<3>	(Inline, 2.965-3.685)	nakapag .	when .
+<4>	(Inline, 3.685-7.223)	<no-speech>	<no-speech>
+<5>	(Outline, 3.934-6.800)	<sta> nuwebe na lang daw .	on the ninth only .
+<6>	(Outline, 6.800-9.200)	<no-speech>	<no-speech>
+<7>	(Inline, 7.223-8.925)	<no-speech> nakapagpa-checkup na daw ba siya ?	has she gone for a checkup already ?
+<8>	(Inline, 8.925-11.405)	<no-speech>	<no-speech>
+<9>	(Outline, 9.200-11.280)	hindi iyon hindi ko pa naitanong .	not that I wasn't able to ask that yet .
+<10>	(Outline, 11.280-12.590)	<no-speech>	<no-speech>
+<11>	(Inline, 11.405-13.005)	nakapagpa-checkup na daw ba siya ?	has she gone for a checkup already ?
+<12>	(Outline, 12.590-14.334)	<int> hindi ko lang alam .	I just don't know .
+<13>	(Inline, 13.005-14.125)	<no-speech>	<no-speech>
+<14>	(Inline, 14.125-16.916)	<int> kasi alam ko (()) na dapat sana .	because I know it was supposedly (()) .
+<15>	(Outline, 14.334-17.262)	<no-speech> (()) .	(()) .
+<16>	(Inline, 16.916-17.825)	<no-speech>	<no-speech>
+<17>	(Outline, 17.262-21.461)	ah kailangan talagang ma-check-up siya eh para maano kaagad 'to .	oh she really needs to get a checkup so that this will be uhm already .
+<18>	(Inline, 17.825-23.615)	<no-speech>	<no-speech>
+<19>	(Outline, 21.461-23.136)	<no-speech>	<no-speech>
+<20>	(Outline, 23.136-32.332)	(()) ibibili pa rin daw ng gatas kulang pa rin daw 'yong ano niya <no-speech> -- 'yong <no-speech> -- maano 'yong pera .	(()) will be bought milk because her uhm is not enough -- that -- that money is uhm .
+<21>	(Inline, 23.615-24.105)	<no-speech>	<no-speech>
+<22>	(Inline, 24.105-26.765)	<no-speech>	<no-speech>
+<23>	(Inline, 26.765-27.475)	<no-speech>	<no-speech>
+<24>	(Inline, 27.475-29.365)	<no-speech>	<no-speech>
+<25>	(Inline, 29.365-30.355)	<no-speech>	<no-speech>
+<26>	(Inline, 30.355-35.405)	<no-speech>	<no-speech>
+<27>	(Outline, 32.332-33.340)	<no-speech>	<no-speech>
+<28>	(Outline, 33.340-35.830)	eh ang sabi ko hayaan mo na at least may pambili ka .	I said let it be at least you have money to buy it .
+<29>	(Inline, 35.405-37.335)	hindi naman yata siya makaalis (()) eh .	she probably is not able to leave (()) .
+<30>	(Outline, 35.830-36.770)	<no-speech>	<no-speech>
+<31>	(Outline, 36.770-37.150)	<no-speech>	<no-speech>
+<32>	(Outline, 37.150-38.450)	<no-speech>	<no-speech>
+<33>	(Inline, 37.335-38.450)	<no-speech>	<no-speech>

@@ -1,0 +1,47 @@
+0.000	outLine	hamna mazuri ?
+0.000	inLine	<no-speech>
+1.140	outLine	<no-speech>
+1.180	inLine	ehhe .
+1.772	inLine	we endelea kuongea niambie story zingine .
+3.883	inLine	<no-speech>
+5.080	outLine	<laugh> sawa basi sina shughuli niko tu .
+5.090	inLine	<no-speech>
+6.280	inLine	ehhe ?
+6.660	inLine	<no-speech>
+8.380	outLine	<no-speech>
+8.813	inLine	ehhe .
+9.585	inLine	na job ?
+10.180	outLine	ehhe sasa ni %incomplete
+10.310	inLine	<no-speech>
+11.184	outLine	ehhe ?
+11.760	outLine	<no-speech>
+11.900	inLine	na job ?
+12.660	inLine	<no-speech>
+14.020	outLine	<sta> job saa hizi nimetoka tu shambani nilikuwa napalilia nyasi <no-speech> sa ndiyo nimeji- -- nimejiwekelea mahali si unaelewa kazi yangu <laugh> ?
+17.260	inLine	ehhe .
+17.678	inLine	<no-speech>
+20.960	inLine	<no-speech>
+22.560	inLine	ehhe .
+23.082	inLine	<no-speech>
+24.300	outLine	sa nimejiwekelea tu mahali hivi (()) .
+24.354	inLine	i- -- imagine %incomplete
+24.980	inLine	<no-speech>
+26.900	outLine	<no-speech>
+26.930	inLine	jana tumekuwa na nani -- tumekuwa na <laugh> mtu wako .
+31.040	outLine	Dinah Dinah <int> ?
+31.309	inLine	<laugh> <breath> ehhe .
+33.415	inLine	tumekuwa na mtu wako mpaka late .
+33.980	outLine	<no-speech>
+35.078	inLine	<laugh> karibu saa nne na nusu usiku .
+36.220	outLine	ehhe heh ehhe kumbe ulikuwa ushaamua <laugh> ?
+37.600	inLine	<no-speech>
+39.420	inLine	<int> ehhe ?
+40.290	inLine	<no-speech>
+40.300	outLine	<no-speech>
+41.230	outLine	kumbe ulikuwa ushaamua na sikuwa najua <laugh> ?
+41.790	inLine	<no-speech>
+43.400	inLine	ahh .
+44.415	inLine	si- -- si ati ni hivo alikuwa amekuja training ingine hapa hivi Nairobi .
+44.900	outLine	<no-speech>
+48.440	inLine	<no-speech>
+49.270

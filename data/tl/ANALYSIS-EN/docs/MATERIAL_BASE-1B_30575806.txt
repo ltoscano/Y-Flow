@@ -1,0 +1,45 @@
+<1>	(Inline, 0.000-0.485)	<no-speech>	<no-speech>
+<2>	(Outline, 0.000-2.120)	kaya nga 'yon ang kapatid .	that's why that's the sibling .
+<3>	(Inline, 0.485-3.498)	<sta> ano raw na- -- sabi nga ang kuwento ?	what was supposedly -- said in the story ?
+<4>	(Outline, 2.120-11.090)	<no-speech>	<no-speech>
+<5>	(Inline, 3.498-4.498)	<no-speech>	<no-speech>
+<6>	(Inline, 4.498-9.235)	ang kuwento raw ni ano -- ang kuwento raw ni no'ng -- ni lola Lita .	what uh narrated -- what godfather narrated -- of Lola Lita .
+<7>	(Inline, 9.235-10.305)	<no-speech>	<no-speech>
+<8>	(Inline, 10.305-14.642)	nakakita raw si ate Eta doon sa pintuan nila ng lalaking walang mukha .	Sister Eta supposedly saw a man with no face on their doorway .
+<9>	(Outline, 11.090-20.060)	<no-speech>	<no-speech>
+<10>	(Inline, 14.642-24.066)	<no-speech> tapos 'pag tinatakpan niya raw 'yong mata niya <no-speech> tapos parang pinipilit daw na tanggalin 'yong kamay niya sa mata tapos dumilat .	then when she covered her eyes it was as if her hands on her eyes were forcibly being removed and then was forced to open her eyes .
+<11>	(Outline, 20.060-21.250)	<no-speech>	<no-speech>
+<12>	(Outline, 21.250-23.400)	<no-speech>	<no-speech>
+<13>	(Outline, 23.400-26.960)	<no-speech>	<no-speech>
+<14>	(Inline, 24.066-27.712)	<no-speech> para dumilat daw siya tapos pagtingin niya 'yon pa rin daw 'yong nakikita niya .	in order for her to open her eyes then when she looked that is what she still saw .
+<15>	(Outline, 26.960-29.940)	<no-speech>	<no-speech>
+<16>	(Inline, 27.712-28.715)	<no-speech> gano'n daw .	supposedly like that .
+<17>	(Inline, 28.715-30.805)	<no-speech>	<no-speech>
+<18>	(Outline, 29.940-31.564)	<int> ano ba 'yon ?	what was that ?
+<19>	(Inline, 30.805-31.535)	<no-speech>	<no-speech>
+<20>	(Inline, 31.535-35.605)	<no-speech>	<no-speech>
+<21>	(Outline, 31.564-32.810)	nakakakilabot .	chilling .
+<22>	(Outline, 32.810-37.080)	<no-speech>	<no-speech>
+<23>	(Inline, 35.605-36.601)	mhm .	yes .
+<24>	(Inline, 36.601-37.616)	<no-speech>	<no-speech>
+<25>	(Outline, 37.080-39.990)	<no-speech>	<no-speech>
+<26>	(Inline, 37.616-41.217)	ano nga parang gusto ngang i-ano si si Claire eh .	uh like they want Claire to be uh .
+<27>	(Outline, 39.990-41.430)	<no-speech>	<no-speech>
+<28>	(Inline, 41.217-42.645)	alam mo 'yong inuwi ko si Claire .	you know when I brought home Claire .
+<29>	(Outline, 41.430-42.699)	<no-speech>	<no-speech>
+<30>	(Inline, 42.645-44.665)	<no-speech>	<no-speech>
+<31>	(Outline, 42.699-43.677)	oo .	yes .
+<32>	(Outline, 43.677-44.984)	<no-speech>	<no-speech>
+<33>	(Inline, 44.665-45.195)	huh ?	huh ?
+<34>	(Outline, 44.984-46.084)	huh ?	huh ?
+<35>	(Inline, 45.195-46.885)	<no-speech>	<no-speech>
+<36>	(Outline, 46.084-46.780)	<no-speech>	<no-speech>
+<37>	(Outline, 46.780-55.600)	<no-speech>	<no-speech>
+<38>	(Inline, 46.885-47.758)	inuwi ko si Claire .	I brought home Claire .
+<39>	(Inline, 47.758-50.789)	hindi namin -- hindi -- hindi namin nakita si ate Eta .	we didn't -- didn't -- we didn't see Sister Eta .
+<40>	(Inline, 50.789-52.921)	<no-speech> 'yon pala nasa hospital na pala siya noon .	turns out she was already in the hospital back then .
+<41>	(Inline, 52.921-55.615)	kaya pala hindi namin makita noon sa bahay nila .	that's why we didn't see her there in their home .
+<42>	(Outline, 55.600-60.010)	ah ka- -- 'kala ko naman na ano na <no-speech> kay Tanya .	oh -- I thought of something else with Tanya .
+<43>	(Inline, 55.615-59.975)	<no-speech>	<no-speech>
+<44>	(Inline, 59.975-61.295)	hinahanap ni ano eh na %incomplete	uh was finding her already %incomplete
+<45>	(Outline, 60.010-61.295)	<no-speech>	<no-speech>

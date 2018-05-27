@@ -1,0 +1,27 @@
+0.000	outLine	ano nabuntis niya ?
+0.000	inLine	<no-speech>
+1.530	outLine	<no-speech>
+2.640	inLine	<sta> kami .
+3.200	inLine	<no-speech>
+4.130	inLine	buntis <no-speech> 'yong matanda ?
+5.020	outLine	oo .
+6.036	outLine	<no-speech> oo nabuntis niya 'yon 'yon matanda na 'yon .
+6.370	inLine	<no-speech>
+8.987	outLine	<breath> sabi kasi sa kanya <breath> ano <hes> -- <no-speech> sabi sa kanya okey lang kahit na diyan ka- -- sumama basta ano lang -- ano buntisin mo lang ako iyon lang ang sinabi .
+11.200	inLine	<sta> oo .
+11.763	inLine	<no-speech> ako .
+12.500	inLine	<no-speech>
+21.478	outLine	<breath> kasi gusto niya nga magkaanak dahil nga hindi nga siya kagandahan .
+22.870	inLine	anong nawala ?
+24.000	inLine	<no-speech>
+25.577	outLine	<breath> pineperahan lang talaga ni Kuya Jessie iyon .
+27.970	outLine	<no-speech>
+28.300	inLine	'yong babae .
+28.970	outLine	oo natatakot siya kasi matanda na nga siya 'di ba baka 'di na siya magkaanak .
+29.420	inLine	<no-speech>
+32.902	outLine	so iyon ang nangyari <breath> .
+35.146	outLine	tapos <hes> ito naman Shunga-Shunga naman itong ni Kuya Jessie hello hindi ba maghahabol iyon siyempre timer lang iyon 'di ba ?
+40.950	inLine	pumayag .
+41.900	inLine	<no-speech>
+42.220	outLine	oo pumayag siya .
+43.930

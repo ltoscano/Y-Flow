@@ -1,0 +1,68 @@
+0.000	inLine	<no-speech>
+0.000	outLine	<sta> ni kwa sababu sitaki kujimwagia <no-speech> mmhm maji matamu ya mananasi .
+3.120	inLine	<no-speech>
+3.470	inLine	<no-speech>
+6.010	outLine	<no-speech>
+6.960	inLine	ohh sawasawa .
+8.530	inLine	<no-speech>
+8.580	outLine	mmhm .
+9.210	outLine	<no-speech>
+10.010	outLine	<no-speech>
+10.520	outLine	<no-speech>
+12.840	outLine	<no-speech>
+13.190	outLine	<no-speech>
+16.590	inLine	na huku Nairobi saa hii usalama <no-speech> <breath> -- usalama unatuishia .
+19.210	outLine	<no-speech>
+19.580	outLine	<no-speech>
+21.090	inLine	<no-speech>
+21.170	outLine	naelewa lakini sa unajua hatuwezi ka hatufanyi milele .
+22.880	inLine	<no-speech>
+24.230	outLine	<no-speech>
+24.270	inLine	<no-speech>
+25.300	inLine	hatuwezi kaa nyumbani milele mmhm .
+26.960	outLine	ehhe <sta> .
+27.186	inLine	<no-speech>
+28.064	inLine	so uhakikishe urudi haraka .
+28.330	outLine	<no-speech>
+29.600	inLine	<no-speech>
+29.640	outLine	mmhm <sta> nitarudi haraka .
+31.170	outLine	<no-speech>
+31.890	inLine	kwanza kuna sherehe on Friday .
+33.730	inLine	ulisikia ?
+33.790	outLine	sherehe gani hiyo ?
+35.070	inLine	<no-speech>
+35.146	outLine	mmhm <no-speech> <sta> nimesikia .
+36.540	inLine	sherehe <sta> ile nikikuelezea .
+37.030	outLine	<no-speech>
+38.388	inLine	<no-speech>
+39.070	outLine	ohh .
+39.397	inLine	inaanza saa kumi %incomplete
+39.730	outLine	<no-speech>
+40.882	inLine	<no-speech>
+41.570	outLine	yeah <sta> nikipata pesa nitakuja sherehe nasikia Esther Wairigwi ana- -- ana- -- ana- -- anashiriki katika shindano hilo .
+42.190	inLine	<no-speech>
+43.480	inLine	<no-speech>
+45.560	inLine	ehhe .
+46.140	inLine	<no-speech>
+52.040	inLine	<no-speech>
+52.430	inLine	<no-speech>
+53.410	outLine	<no-speech>
+54.090	inLine	ehhe anashiriki .
+55.280	inLine	ukuje na rafiki mmoja au wawili .
+55.470	outLine	ehhe .
+56.030	outLine	<no-speech>
+57.320	inLine	<no-speech>
+58.300	outLine	sawasawa .
+59.216	outLine	<no-speech> <sta> nitahakikisha nimekuja na marafiki <no-speech> kumi <int> .
+60.010	inLine	haya .
+60.670	inLine	<no-speech>
+61.490	inLine	<no-speech>
+62.550	inLine	<no-speech>
+63.530	outLine	<no-speech>
+64.320	inLine	haya .
+64.390	outLine	<sta> ndiyo waongeze (()) hizo .
+65.090	inLine	<no-speech>
+65.954	outLine	<no-speech>
+67.090	inLine	ahh na una pesa ?
+67.140	outLine	<no-speech>
+68.290

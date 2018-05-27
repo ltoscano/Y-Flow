@@ -1,0 +1,60 @@
+0.000	outLine	na picha za C_C_T_V hazikuchukua mtu yeyote .
+0.000	inLine	<no-speech>
+3.100	outLine	<no-speech>
+4.890	inLine	ehhe wa- -- wezi -- wezi unafikiria mtu mwizi anakuwanga na akili ndogo kweli ?
+4.990	outLine	(()) .
+5.400	outLine	<no-speech>
+8.990	inLine	<no-speech>
+10.150	inLine	mwizi si ana- -- ana- -- ananini mwizi ana- -- anatamper .
+10.250	outLine	ahh labda wali %incomplete
+11.230	outLine	<no-speech>
+12.550	outLine	alimshoot ?
+13.510	outLine	<no-speech>
+14.981	inLine	<sta> <breath> anaharibu -- anaharibu nini <int> -- hiyo nini ya C_C_T_V .
+21.127	inLine	anaharibu %incomplete
+21.810	inLine	<no-speech>
+22.110	outLine	ohh .
+22.894	outLine	labda waliharibu .
+23.220	inLine	si unaharibu kwanza kabla u- -- u- -- u- -- u- -- upore .
+23.556	outLine	<no-speech>
+28.120	inLine	<no-speech>
+28.640	outLine	ehhe .
+28.998	outLine	by the way ni %incomplete
+29.590	inLine	wengi wao hufunika hata sio lazima uharibu .
+29.721	outLine	(()) .
+30.730	outLine	<no-speech>
+31.952	inLine	si wengi wao wanafunika tu .
+33.294	inLine	<no-speech>
+34.191	inLine	si unaweza funika na sellotape .
+35.690	inLine	<no-speech>
+36.710	outLine	ehhe .
+37.061	outLine	by the way inaweza funikwa isitoe .
+38.810	outLine	<no-speech>
+39.920	inLine	mmhm .
+40.560	inLine	<no-speech>
+40.590	outLine	ehhe .
+40.859	outLine	lakini wamewafanyia vibaya .
+42.442	outLine	mpaka nimeona mma- -- mother amecomplain sijui vipuli zenye anai- -- anatoa nchi za nje halafu analeta ndiyo anauza %incomplete
+48.540	inLine	<no-speech>
+51.060	outLine	wameiba .
+52.018	outLine	mpaka hizo walivunja glass zika- -- wakaiba .
+54.980	outLine	<no-speech>
+56.520	inLine	hao waliiba vitu mingi sana .
+58.845	inLine	waliiba %incomplete
+59.458	inLine	wengine hata kuna wenye -- wenye wengine walionyeshwa leo mchana ati waliiba nguo .
+63.520	inLine	<no-speech>
+64.270	outLine	eish .
+64.700	inLine	ehhe .
+64.834	outLine	(()) .
+65.451	inLine	hizi shanga shanga pete %incomplete
+67.130	outLine	<no-speech>
+68.652	inLine	unajua kuna hizi kuna pete za %incomplete
+71.030	inLine	<no-speech>
+72.390	inLine	pete za harusi hivi .
+72.410	outLine	ohh .
+73.080	outLine	<no-speech>
+73.950	inLine	<no-speech>
+74.750	inLine	ehhe .
+75.308	inLine	karibu pete moja %incomplete
+76.686	inLine	uliona kama ile ya wale %incomplete
+78.400

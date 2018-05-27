@@ -1,0 +1,119 @@
+0.000	inLine	<no-speech>
+0.000	outLine	<no-speech>
+0.250	inLine	ehhe na nikuulize ?
+1.710	inLine	<no-speech>
+2.350	outLine	sema .
+3.030	outLine	<no-speech>
+3.040	inLine	hapo awali maisha ilikuwa inakuendea mrama hivi ?
+6.580	inLine	<no-speech>
+7.710	outLine	ahh si unaelewa wakati ule sikuwa na kibarua ?
+10.310	outLine	sasa saa hii -- saa hizi -- saa hizi imenisaidia kidogo .
+14.140	outLine	<no-speech>
+14.320	inLine	ohh lile ombi ulikuwa unaomba kazi katika ile kampuni ya ulinzi ulifaulu ?
+21.670	inLine	<no-speech>
+22.180	outLine	nilifaulu -- nilifaulu .
+23.820	outLine	<no-speech>
+24.850	inLine	<sta> ohh sasa %incomplete
+25.340	outLine	<sta> sasa .
+25.843	inLine	<int> ehhe .
+26.180	outLine	<no-speech>
+26.770	inLine	<no-speech>
+27.640	outLine	<hes> kuna *vile* *viatu* nilikwambia uniletee pale -- pale ulileta ?
+33.350	outLine	<no-speech>
+34.340	inLine	zile viatu bado ndizo na ehhe -- ndizo niko nashughulika nazo %incomplete
+35.300	outLine	ile -- i- -- <int> -- ile biashara yetu .
+37.860	outLine	<no-speech>
+40.450	inLine	<no-speech>
+40.940	outLine	ehhe <int> .
+41.570	outLine	<no-speech>
+41.900	inLine	nikifaulu tu <int> hivi uta- -- utazipata .
+44.180	inLine	<no-speech>
+44.840	outLine	nitazipata ?
+45.790	outLine	<no-speech>
+45.990	inLine	ehhe utazipata .
+46.920	outLine	ulisema kuna aina mingi naweza chagua ile ninaipenda ?
+46.980	inLine	<no-speech>
+50.520	outLine	<no-speech>
+50.670	inLine	ehhe kuna aina nyingi %incomplete
+52.370	inLine	<no-speech>
+52.950	outLine	ehhe .
+53.560	outLine	<no-speech>
+54.080	inLine	unaweza %incomplete
+54.480	outLine	<no-speech>
+55.047	inLine	unachagua ile unataka cause nini sababu %incomplete
+57.970	inLine	<no-speech>
+58.889	outLine	uhuh .
+59.450	outLine	<no-speech>
+59.830	inLine	sababu %incomplete
+60.340	outLine	<no-speech>
+61.280	inLine	<no-speech>
+62.170	inLine	sijui unapenda kiatu ga- -- kiatu kipi yaani .
+64.760	inLine	<no-speech>
+66.281	outLine	<no-speech> <sta> haya sawasawa nitakuja niangalie tuone ile -- ile nzuri kabisa naweza chukua .
+68.890	inLine	ehhe .
+69.420	inLine	<no-speech>
+73.640	inLine	na nikuulize ?
+73.930	outLine	<no-speech>
+74.800	inLine	<no-speech>
+75.210	outLine	sema <int> .
+76.200	outLine	<no-speech>
+76.320	inLine	ile- -- ile biashara yako ulikuwa unataka kuanza %incomplete
+79.850	inLine	<no-speech>
+81.650	outLine	bado -- bado pesa naendelea kujaza %incomplete
+84.250	outLine	<no-speech>
+84.390	inLine	ehhe .
+84.950	inLine	<no-speech>
+85.280	outLine	ndiyo niweze kupata fedha nzuri ya kuanzisha hiyo biashara unajua inahitaji pesa mingi bwana ?
+90.200	outLine	<no-speech>
+90.430	inLine	kiasi gani ?
+91.260	inLine	<no-speech>
+92.360	outLine	nasi kama elfu -- elfu thelathini hivi ?
+96.820	inLine	ehhe .
+96.898	outLine	saa hizi niko na elfu ishirini .
+97.440	inLine	<no-speech>
+98.980	inLine	<no-speech>
+99.400	inLine	<no-speech>
+100.590	outLine	<no-speech>
+100.740	inLine	<int> ehhe .
+101.370	inLine	<no-speech>
+101.790	outLine	sijui kama utaweza nijazia hiyo elfu kumi imebaki ama itakuwaje ?
+105.680	outLine	<no-speech>
+106.110	inLine	na nikuulize ?
+107.300	inLine	<no-speech>
+107.830	outLine	ehhe ?
+108.410	outLine	<no-speech>
+108.520	inLine	kwani kibanda kile unataka kuweka hiyo biashara %incomplete
+111.920	inLine	<no-speech>
+112.790	outLine	ehhe .
+113.470	inLine	kinagharimu pesa ngapi ?
+113.470	outLine	<no-speech>
+114.730	inLine	<no-speech>
+116.200	outLine	kipande chenyewe kinagharimu shilingi elfu tano %incomplete
+119.120	outLine	<no-speech>
+119.450	inLine	ehhe .
+119.970	inLine	<no-speech>
+120.320	outLine	<hes> lazima ujue -- lazima uweke be- -- pesa mbeleni -- pesa mbele -- karibu miezi mitatu mbele .
+123.320	inLine	<no-speech>
+124.140	inLine	<no-speech>
+125.580	inLine	ehhe .
+126.040	inLine	<no-speech>
+127.010	outLine	<no-speech>
+127.420	inLine	ehhe .
+128.050	inLine	<no-speech>
+128.710	outLine	ehhe ili mwenye hiyo *kibanda* .
+130.690	outLine	<no-speech>
+130.920	inLine	ehhe .
+131.450	inLine	<no-speech>
+131.560	outLine	akuwe na uhakika ati utaendelea na hiyo biashara huko .
+134.660	inLine	<int> sasa nakuhakikishia %incomplete
+134.800	outLine	<no-speech>
+136.980	inLine	<no-speech>
+137.420	outLine	ehhe .
+137.990	outLine	<no-speech>
+138.190	inLine	tutasaidiana tuone vile itakuwa <int> .
+140.320	inLine	<no-speech>
+141.120	outLine	ahh nitashukuru mzee -- nitashukuru mtu wangu .
+142.540	inLine	<no-speech>
+142.910	inLine	<no-speech>
+143.670	outLine	<no-speech>
+143.820

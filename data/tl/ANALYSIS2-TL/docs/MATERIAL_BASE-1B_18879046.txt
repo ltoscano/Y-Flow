@@ -1,0 +1,9 @@
+[0.000]
+bukod sa lung cancer emphysema heart at <int> pulmonary diseases na posibleng makuha po dahil sa pagyoyosi dinagdag na rin po sa listahan ng American Medical Association ang cancer sa pantog o blad- -- bladder cancer .
+[13.280]
+base po sa pag-aaral lumabas na apat na beses sa peligrong madali <int> ng bladder cancer ang chain smoker habang <hes> mahigit doble naman ang tiyansang <int> mag-develop ng <hes> nasabing sakit ang mga dating smoker na huminto lamang sa kanilang paninigarilyo .
+[27.830]
+mas malimit din na madali nito ang mga <hes> lalaki kumpara sa mga babae .
+[32.664]
+isa sa mga unang sintomas po ng cancer sa pantog ang pagkakaroon ng dugo sa inyong ihi .
+[38.629]

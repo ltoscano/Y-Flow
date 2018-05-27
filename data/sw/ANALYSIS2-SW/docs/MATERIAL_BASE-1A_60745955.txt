@@ -1,0 +1,62 @@
+0.000	inLine	halo sasa .
+0.000	outLine	<no-speech>
+1.290	inLine	<no-speech>
+1.670	outLine	fit sana habari yako ?
+3.230	inLine	ehhe .
+3.690	outLine	<no-speech>
+3.859	inLine	mi niko sawa labda yako .
+6.310	inLine	<no-speech>
+6.520	outLine	mnaendeleaje ?
+7.880	outLine	<no-speech>
+8.470	inLine	mi niko poa labda we .
+10.790	inLine	<no-speech>
+11.130	outLine	mbona siku hizi umenyamaza hivyo ?
+13.320	outLine	<no-speech>
+13.930	inLine	mi sijanyamaza ni vile pesa haipatikani siku hizi .
+17.890	inLine	<no-speech>
+18.060	outLine	mmhm .
+18.740	outLine	<no-speech>
+19.200	inLine	ni njaa ndiyo mingi .
+20.930	inLine	<no-speech>
+20.960	outLine	mmhm .
+21.780	outLine	<no-speech>
+22.630	inLine	ehhe .
+23.201	inLine	ndiyo sababu nimenyamaza .
+25.270	inLine	<no-speech>
+25.520	outLine	pole sana .
+26.590	outLine	usijali lazima maisha yaendelee .
+27.390	inLine	hah .
+27.769	inLine	asante nishapoa .
+29.330	inLine	<no-speech>
+30.480	outLine	<no-speech>
+31.260	inLine	hii maisha ni ngumu rafiki yangu .
+33.840	inLine	<no-speech>
+34.010	outLine	mmhm .
+34.940	outLine	<no-speech>
+35.720	inLine	natafuta pesa hata sioni shida ni mingi .
+39.060	outLine	<laugh> mmhm .
+39.370	inLine	<no-speech>
+41.580	outLine	<no-speech>
+41.710	inLine	ehhe natafuta mtu mwenye atanipatia kazi yenye nakaa chini najua mwisho wa mwezi nitapata mshahara yangu .
+46.680	outLine	<no-speech>
+47.140	outLine	<no-speech>
+48.690	inLine	<no-speech>
+49.510	outLine	hiyo ni poa .
+50.844	outLine	jaribu utapata kazi ziko mingi sana .
+51.920	inLine	ehhe .
+52.403	inLine	hii kazi %incomplete
+53.020	inLine	<no-speech>
+54.824	outLine	<no-speech>
+55.480	inLine	mtu wa kuniunganisha rafiki yangu ndiye hayuko .
+55.851	outLine	tia bidii .
+56.920	outLine	<no-speech>
+59.200	inLine	<no-speech>
+59.380	outLine	tia bidii tu usi- -- usi- -- usi- -- usikate tamaa .
+64.180	outLine	<no-speech>
+64.760	inLine	nitajaribu jaribu .
+66.004	inLine	pia we ukisikia mahali wanataka mtu mwenye -- mtu kama mi tu unaniita .
+67.780	outLine	mmhm .
+68.260	outLine	<no-speech>
+71.920	inLine	<no-speech>
+72.640	outLine	nitakwambia lazima nikwambie nikisikia .
+75.530

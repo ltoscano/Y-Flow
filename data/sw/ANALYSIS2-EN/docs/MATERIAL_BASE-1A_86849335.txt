@@ -1,0 +1,67 @@
+<1>	(Inline, 0.000-3.120)	<no-speech>	<no-speech>
+<2>	(Outline, 0.000-6.010)	<sta> ni kwa sababu sitaki kujimwagia <no-speech> mmhm maji matamu ya mananasi .	it is because I don't want to pour on myself mmhm the sweet pineapple juice .
+<3>	(Inline, 3.120-3.470)	<no-speech>	<no-speech>
+<4>	(Inline, 3.470-6.960)	<no-speech>	<no-speech>
+<5>	(Outline, 6.010-8.580)	<no-speech>	<no-speech>
+<6>	(Inline, 6.960-8.530)	ohh sawasawa .	ohh okay .
+<7>	(Inline, 8.530-16.590)	<no-speech>	<no-speech>
+<8>	(Outline, 8.580-9.210)	mmhm .	mmhm .
+<9>	(Outline, 9.210-10.010)	<no-speech>	<no-speech>
+<10>	(Outline, 10.010-10.520)	<no-speech>	<no-speech>
+<11>	(Outline, 10.520-12.840)	<no-speech>	<no-speech>
+<12>	(Outline, 12.840-13.190)	<no-speech>	<no-speech>
+<13>	(Outline, 13.190-19.210)	<no-speech>	<no-speech>
+<14>	(Inline, 16.590-21.090)	na huku Nairobi saa hii usalama <no-speech> <breath> -- usalama unatuishia .	and here in Nairobi at the moment security -- security is deteriorating .
+<15>	(Outline, 19.210-19.580)	<no-speech>	<no-speech>
+<16>	(Outline, 19.580-21.170)	<no-speech>	<no-speech>
+<17>	(Inline, 21.090-22.880)	<no-speech>	<no-speech>
+<18>	(Outline, 21.170-24.230)	naelewa lakini sa unajua hatuwezi ka hatufanyi milele .	I understand but now you know we cannot manage if we never do it .
+<19>	(Inline, 22.880-24.270)	<no-speech>	<no-speech>
+<20>	(Outline, 24.230-26.960)	<no-speech>	<no-speech>
+<21>	(Inline, 24.270-25.300)	<no-speech>	<no-speech>
+<22>	(Inline, 25.300-27.186)	hatuwezi kaa nyumbani milele mmhm .	we cannot stay at home forever mmhm .
+<23>	(Outline, 26.960-28.330)	ehhe <sta> .	mm .
+<24>	(Inline, 27.186-28.064)	<no-speech>	<no-speech>
+<25>	(Inline, 28.064-29.600)	so uhakikishe urudi haraka .	so ensure you come back immediately .
+<26>	(Outline, 28.330-29.640)	<no-speech>	<no-speech>
+<27>	(Inline, 29.600-31.890)	<no-speech>	<no-speech>
+<28>	(Outline, 29.640-31.170)	mmhm <sta> nitarudi haraka .	mmhm I will come back immediately .
+<29>	(Outline, 31.170-33.790)	<no-speech>	<no-speech>
+<30>	(Inline, 31.890-33.730)	kwanza kuna sherehe on Friday .	in fact there is a ceremony on Friday .
+<31>	(Inline, 33.730-35.070)	ulisikia ?	you've heard it ?
+<32>	(Outline, 33.790-35.146)	sherehe gani hiyo ?	which ceremony ?
+<33>	(Inline, 35.070-36.540)	<no-speech>	<no-speech>
+<34>	(Outline, 35.146-37.030)	mmhm <no-speech> <sta> nimesikia .	mmhm I've heard of it .
+<35>	(Inline, 36.540-38.388)	sherehe <sta> ile nikikuelezea .	that ceremony I was explaining to you .
+<36>	(Outline, 37.030-39.070)	<no-speech>	<no-speech>
+<37>	(Inline, 38.388-39.397)	<no-speech>	<no-speech>
+<38>	(Outline, 39.070-39.730)	ohh .	ohh .
+<39>	(Inline, 39.397-40.882)	inaanza saa kumi %incomplete	it starts at ten %incomplete
+<40>	(Outline, 39.730-41.570)	<no-speech>	<no-speech>
+<41>	(Inline, 40.882-42.190)	<no-speech>	<no-speech>
+<42>	(Outline, 41.570-53.410)	yeah <sta> nikipata pesa nitakuja sherehe nasikia Esther Wairigwi ana- -- ana- -- ana- -- anashiriki katika shindano hilo .	yeah when I get cash I will come for the event I've heard Esther Wairigwi -- is participating in that competition .
+<43>	(Inline, 42.190-43.480)	<no-speech>	<no-speech>
+<44>	(Inline, 43.480-45.560)	<no-speech>	<no-speech>
+<45>	(Inline, 45.560-46.140)	ehhe .	mm .
+<46>	(Inline, 46.140-52.040)	<no-speech>	<no-speech>
+<47>	(Inline, 52.040-52.430)	<no-speech>	<no-speech>
+<48>	(Inline, 52.430-54.090)	<no-speech>	<no-speech>
+<49>	(Outline, 53.410-55.470)	<no-speech>	<no-speech>
+<50>	(Inline, 54.090-55.280)	ehhe anashiriki .	mm she is participating .
+<51>	(Inline, 55.280-57.320)	ukuje na rafiki mmoja au wawili .	come with a friend or two .
+<52>	(Outline, 55.470-56.030)	ehhe .	mm .
+<53>	(Outline, 56.030-58.300)	<no-speech>	<no-speech>
+<54>	(Inline, 57.320-60.010)	<no-speech>	<no-speech>
+<55>	(Outline, 58.300-59.216)	sawasawa .	okay .
+<56>	(Outline, 59.216-63.530)	<no-speech> <sta> nitahakikisha nimekuja na marafiki <no-speech> kumi <int> .	I will ensure I have come with ten friends .
+<57>	(Inline, 60.010-60.670)	haya .	alright .
+<58>	(Inline, 60.670-61.490)	<no-speech>	<no-speech>
+<59>	(Inline, 61.490-62.550)	<no-speech>	<no-speech>
+<60>	(Inline, 62.550-64.320)	<no-speech>	<no-speech>
+<61>	(Outline, 63.530-64.390)	<no-speech>	<no-speech>
+<62>	(Inline, 64.320-65.090)	haya .	alright .
+<63>	(Outline, 64.390-65.954)	<sta> ndiyo waongeze (()) hizo .	before they add (()) those ones .
+<64>	(Inline, 65.090-67.090)	<no-speech>	<no-speech>
+<65>	(Outline, 65.954-67.140)	<no-speech>	<no-speech>
+<66>	(Inline, 67.090-68.290)	ahh na una pesa ?	ahh and do you have cash ?
+<67>	(Outline, 67.140-68.290)	<no-speech>	<no-speech>

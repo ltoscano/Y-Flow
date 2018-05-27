@@ -1,0 +1,101 @@
+[0.000]
+uwe mwenyekiti au mwenye ki stool li .
+[1.913]
+sisi tumeanza kuchangia mwaka gani kwa soko hili mpaka kufikia hatuelewi tunatoa shilingi elfu nane kwa mwezi .
+[6.487]
+<no-speech>
+[7.463]
+jibu ni kwamba swala la kuchangia ushuru au kutoa ushuru si swala la siku moja .
+[12.830]
+hata kama umeanza mwaka elfu mbili na <int> (()) ishirini na tano sasa lakini hili ni swala endelevu .
+[17.669]
+sasa kwa hiyo kama ulilipa siku za nyuma ni kwamba unaendelea kulipa ushuru <sta> kwa sababu bado upo na unashughulika .
+[23.888]
+sisi tunalipa tunacho sema sasa hela inakwenda wapi wakati (()) sasa ngoja -- ngoja kidogo .
+[30.048]
+<sta> huyu -- huyu -- huyu ni mwenyekiti ni mwenyekiti ya soko au ni mwenyekiti wa wazoa takataka ?
+[35.840]
+<int> yaani huyu mwenyekiti wa walio- -- yaani wa soko mchanganyiko kwa sababu soko ndilo linalo- <overlap> ahh (()) nalipa kule .
+[41.761]
+<overlap> ninalipa ushuru kule .
+[42.868]
+(()) wao ndiyo wenye majukumu ya kuchukua gari ya kubeba usafi eh ya kubeba takataka <overlap> <sta> na cha ajabu <int> utakuta magari yataka hayo .
+[49.874]
+<overlap> na kifupi ni kwamba hao wanataka kuleta (()) .
+[54.104]
+unafikiri (()) umesikia kitu kimoja huyu <int> mama anasema niliwahi mi kumtongoza .
+[57.841]
+<breath> ni jambo ambalo sio la kweli .
+[59.313]
+<breath> unajua unapokuwa kiongozi lazima ukutane na vipingamizi na mambo ya -- ya mengi tu makubwa ya kutaka kuchafua heshima yako .
+[65.738]
+lakini napenda niseme kitu kimoja kwamba shughuli kama hii <breath> inategemea ushuru ili iweze kufanyika <breath> .
+[72.107]
+hata hawa wanaozoa takataka hapa wanahitaji kulipwa .
+[74.700]
+je tutajiendeshaje kama wao wanakuwa <overlap> <sta> hapo mwenyekiti <overlap> kama afisa unajua naona kama umenipotezea muda kunileta .
+[85.314]
+<no-speech>
+[88.770]
+kama <sta> wafanyi- -- tuna -- tunatoa maelezo kwamba kama wafanyabiashara ni elfu moja wa soko hili tu dogo si ndiyo ?
+[97.064]
+ndiyo .
+[97.730]
+sasa kama wao ni elfu moja ukichukua shilingi elfu tisini na sita kwa mwaka <sta> unakuta ni hela nyingi .
+[104.222]
+hiyo hela mnafanyia nini kama <overlap> kama watu wa- -- wa soko ?
+[108.391]
+swali la msingi .
+[109.789]
+pesa tunazokusanya hapa mimi nafikiri <int> wewe hukukuja hapa kwa ajili ya kutaka kujua tunakusanya shilingi ngapi .
+[116.230]
+nilichokuitia wewe ni kuhakikisha kwamba una pressurize au unatia msukumo watu wakubali kulipa hela ya ushuru .
+[122.930]
+sasa mambo ya kusema kwamba hii pesa inakusanywa ni shilingi milioni mia ngapi nafikiri hilo sio swala langu mimi ni mwenyekiti tu hapa .
+[129.464]
+<sta> labda uende kwa mhasibu .
+[130.780]
+lakini baba subiri <overlap> nami niseme jamani ijapokuwa hata kama <overlap> .
+[135.238]
+ngoja nikuambie baba yangu .
+[136.312]
+ehhe .
+[136.860]
+hili jalala <sta> linatelekezwa kwa muda mrefu <int> .
+[140.765]
+ndani ya kutekle- -- kule- -- telekezwa kwa muda mrefu lingekuwa linazolewa kwa wakati .
+[144.760]
+<sta> lisingekuwa tunafikia hali kwamba mpaka watu wanachukua miili <breath> ya marehemu wanakuja wanatupwa hapa .
+[149.326]
+what -- ina maana ya- -- yes .
+[150.544]
+sijakuelewa una say ?
+[151.739]
+unaambiwa hivi jalala hili halitolewi yaani halizolewi kwa muda unaotakiwa .
+[156.740]
+ina maana linaachanishwa kwa muda mrefu mpaka inafikia kiwango watu wanaua watu ina maana wanakuja kuwaweka hapa kwa sababu <breath> hakuna mtu anayekuja kufanya uangalizi kuangalia <overlap> huyu mama ni mwongo .
+[166.100]
+huyu mama ni mwongo <overlap> (()) gari zinakuja kusomba hapa kila siku na sisi ndiyo viongozi wa soko .
+[171.879]
+mwenyekiti mwenyekiti tafadhali swala ya marehemu ili kwamba analozungumza ni la msingi .
+[175.821]
+yaani kama ingekuwa inazolewa taka kwa wakati <sta> marehemu asingefikia tu <overlap> (()) .
+[180.414]
+sasa mwenyekiti nimeelewa .
+[181.738]
+wacha mimi niongee na hawa na <int> nitatoa tamko .
+[184.802]
+sisi kama jeshi la polisi hatutaki kuvunja amani ya -- ya watu .
+[187.876]
+<overlap> (()) ukisimamia maendeleo unaonekana mbaya twendeni mama tukaongee ofisini .
+[196.389]
+kweli baba .
+[197.098]
+<sta> mwenyekiti naomba -- naomba utakuja ofisini pale tuzungumze .
+[201.205]
+sisi tuna ubaya gani wakati sisi ndiyo tulimchagua kwamba akae hapa .
+[204.596]
+tulijua atatoa matatizo haya yaende sawa .
+[206.814]
+<breath> leo anaona sisi viti- %incomplete
+[207.975]

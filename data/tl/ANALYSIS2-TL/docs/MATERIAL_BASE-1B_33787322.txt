@@ -1,0 +1,55 @@
+[0.000]
+<sta> sa iba pang balita sa unang pagkakataon mga dating batang kalye nabigyan ng tsansa na makasakay ng mga barkong pandigma at eroplano .
+[8.980]
+<sta> ito'y upang ipakita sa mga kabataan na ang mga ginagawa ng mga marinong <sta> ng sa gayon sa murang edad ay mahubog na ang kanilang kaisipan kung ano ang kanilang maging sa hinaharap ito ang handog ng Philippine Navy bilang bahagi ng kanilang anibersaryo sa susunod na linggo ang ulat mula naman sa aming kasama si Waywaya Macalma live via phone patch .
+[32.050]
+<no-speech>
+[34.747]
+<int> Princess apatnapung dating batang kalye ang binigyang pagkakataon ng Philippine Navy na makasakay sa kanilang barko tangke at eroplano bilang panimula ng selebrasyon ng kanilang anibersaryo ngayong buwan .
+[49.360]
+kaninang umaga ay sinimulan ang (()) ng mga bata .
+[52.902]
+ito ay uh isang bihirang pagkakataon para sa mga bata na maranasan din ito .
+[58.120]
+sa unang pagkakataon tama ka Princess na ngayon lang ginawa ng Hukbong Dagat ng Pilipinas ang ganitong programa kanilang <hes> binanggit na experience the navy dream .
+[69.048]
+kaninang umaga ay sinimulan nila ang pag- <hes> tour ng buong kampo .
+[73.264]
+ito ay sa Marine Barracks Rudiardo Brown Fort Bonifacio Taguig City at saka pinasakay sa mga tangke at amphibious vehicles na lubos namang ikinatuwa ng mga bata .
+[85.660]
+ang mga batang kalye ay mula sa bahay ampunan ng De San Vicente de Paul Orphanage .
+[92.280]
+misyon dito ng Navy ay para sa murang edad at murang isipan pa lamang ng mga bata ay mahubog na ang kanilang kaisipan upang makapag-isip na kung ano ang kanilang gagawin pagkatapos nilang mag-aral .
+[104.530]
+upang maipakita sa kanila din ng navy <hes> sa mga bata ang importansiya ng isang sundalo at kung ano ang kanilang ginagawa sa pang-araw-araw bilang tagapagtanggol ng bayan .
+[117.280]
+pagkatapos ng paglilibot sa kampo sa Philippine Navy ay nagtungo sila patungo ng uh Ternate Cavite kung saan dito sila makakasakay ng eroplano at uh makikita ang ibang air assets ng Philippine Navy .
+[131.560]
+at ang pinakahuling aktibidad ng mga bata ay ang uh pag tour sa barko at ang uh pinakaaabangan nila ay ang boat cruise .
+[140.234]
+mula sa Summit Point ay uh sasakay sila sa sa barko mula Summit Point patungo naman ng headquarters ng Philippine Navy sa Maynila .
+[149.770]
+at ito'y aabutin lamang ng halos isang oras .
+[152.901]
+bukod pa rito ay nagsagawa rin ang Philippine Navy ng painting competition na highlight ang mga marino ng Pilipinas .
+[160.639]
+Princess sa May twenty five ang one hundred seventeenth ng Philippine Navy na kung saan mga matataas na opisyal ng Department of National Defense at Armed Forces of the Philippines ang dadalo sa naturang okasyon .
+[174.050]
+samantala isang kampo naman Princess ng Abu Sayyaf ang nakubkob ng militar kahapon ng umaga sa Sitio Project Baranggay Tuburan Proper Hadji Mohammad Ajul Basilan .
+[187.150]
+bukod dito ay nakaengkuwentro ng A_F_P Task Force Zambasulta ang grupo na aabot sa dalawampu't limang miyembro na pinangungunahan naman ito ni Ustad Abbas Ahlam kasama ang isang Malaysian Jehaddist na si Mohammad o alyas Abu Anas .
+[203.549]
+ayon kay Rear Admiral Reynaldo Yoma ang commander ng A_F_P joint task force Zambasulta tumindi ang naging bakbakan ng dalawang panig na nagresulta ito sa kanilang tinatawag na running gun battle dahil nga ayaw sumuko ng mga miyembro ng Abu Sayyaf sa awtoridad .
+[220.434]
+tumagal ang naging intensibong bakbakan ng apat na oras na nagresulta sa tatlong teroristang Abu Sayyaf na nasawi ngunit isang bangkay lang ang kanilang natagpuan sa mismong encounter site .
+[232.850]
+habang sa panig ng gobyerno ay isa ang nasawi at pito naman ang nagtamo ng sugat .
+[239.100]
+nakatakas naman ang ilang grupo sa iba't ibang lugar .
+[242.400]
+ang kampong kanilang nakubkob Princess ay isang I_E_D factory o pagawaan ng bomba at isang training camp ng Abu Sayyaf .
+[250.792]
+habang nagsasagawa naman ng inspeksiyon ang militar sa naturang kampo ay labinsiyam naman na bomba ang kanilang na-recover .
+[257.986]
+at 'yan muna ang pinaka-latest mula rito ~ %incomplete
+[259.942]

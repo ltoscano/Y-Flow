@@ -1,0 +1,32 @@
+<1>	(0.000-5.190)	<sta> eh mayroon daw po isang lolo <overlap> inatake sa puso sa loob ng motel .	well there is one grandfather who had a heart attack inside a motel .
+<2>	(5.190-12.740)	<sta> nag-check in daw po ang sixty four years old na si Ruperto Peña kasama ang hindi nakikilalang babae .	the sixty-four years old Ruperto Peña together with an unidentified woman checked-in .
+<3>	(12.740-13.739)	ilang taon 'yung babae ?	how old is the woman ?
+<4>	(13.739-17.920)	<hes> hindi <sta> nabanggit pero batang-bata daw po .	not mentioned but still too young .
+<5>	(17.920-18.221)	ah .	ah .
+<6>	(18.221-20.912)	mukha daw pong good girl with bad habits .	looks like a good girl with bad habits .
+<7>	(20.912-21.961)	<sta> naku <overlap> .	geez .
+<8>	(21.961-26.614)	eh wala daw po nangyaring foul play mhm <sta> at walang nawawalang gamit 'yung biktima .	well no foul play has happened yes the victim has no missing things .
+<9>	(26.614-33.411)	pero mhm ang hinala daw ng pulis namatay po si lolo Peña dahil sa ininom na <sta> sex enhancing pill .	but yes but the suspicion of the police grandpa Peña died because of the sex enhancing pill he took .
+<10>	(33.411-34.428)	naku ayan pa oo .	geez also that yes .
+<11>	(34.428-41.023)	eh ang sabi po ng isang cardiologist posibleng atakihin sa puso ang taong uminom ng Sildenafil %incomplete	well told by a cardiologist the person who has taken Sildenafil could possibly have a heart attack %incomplete
+<12>	(41.023-41.992)	<sta> mhm .	yes .
+<13>	(41.992-43.720)	gumagamit ka ba nito senator ?	are you using this senator ?
+<14>	(43.720-44.640)	<sta> <laugh> hindi .	no .
+<15>	(44.640-48.830)	<no-speech> hindi hindi mo <overlap> bago sa aking pandinig 'yan gano'ng gamot ha .	no you cannot that kind of medicine is new to my ears ha .
+<16>	(48.830-49.385)	<sta> Sil- -- <hes> ano ?	Sil -- what ?
+<17>	(49.385-51.592)	Sil- -- <overlap> Sildenafil .	Sil -- Sildenafil .
+<18>	(51.592-56.920)	<laugh> ito daw po ay gamot sa erectile dysfunction kapag <overlap> itong sakit sa puso .	this is a medicine for erectile dysfunction if this heart disease .
+<19>	(56.920-60.801)	<overlap> inaalam daw po ng pulis kung anong klaseng gamot ang ininom ng biktima .	the police is still investigation what kind of medicine the victim has taken .
+<20>	(60.801-62.890)	o senator ha iwasan mo 'yun ha .	oh senator ha avoid that ha .
+<21>	(62.890-63.682)	<no-speech>	<no-speech>
+<22>	(63.682-65.505)	<laugh> hindi pa hindi pa kailangan .	not yet not yet needed .
+<23>	(65.505-66.373)	oo .	yes .
+<24>	(66.373-67.670)	<no-speech>	<no-speech>
+<25>	(67.670-69.351)	<hes> delikado pala 'yan ano ?	that could be dangerous right ?
+<26>	(69.351-75.023)	delikado talaga <sta> <overlap> si lo -- si lolo <hes> matikas pa talaga siguro ito eh .	really dangerous grandpa -- grandpa perhaps he's still very firm .
+<27>	(75.023-86.996)	<overlap> sigurong <hes> <sta> magkaroon siya ng magandang <overlap> pero <overlap> naman -- marami naman tayo mga kilala kumbatsero kahit lolo <sta> na eh hindi naman <hes> gumagamit ng ganiyan .	maybe he could have a good but geez -- we have known so many band players even if they are grandpas already so but not using something like that .
+<28>	(86.996-88.920)	<overlap> gulay lang kinakain gulay .	vegetable only eating vegetables .
+<29>	(88.920-91.285)	ayan nasa kinakain 'tsaka sa ehersisyo .	there in food being taken and exercise .
+<30>	(91.285-94.046)	<overlap> napakaimportante talaga ng ehersisyo .	exercise is very important .
+<31>	(94.046-95.760)	<overlap> wala (()) si senator Alex .	nothing (()) Senator Alex .
+<32>	(95.760-98.429)	senator ehersisyo <overlap> lang tama si ka Tunying .	senator just exercise Ka Tunying is right .

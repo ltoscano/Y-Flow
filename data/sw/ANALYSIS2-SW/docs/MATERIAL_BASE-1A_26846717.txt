@@ -1,0 +1,68 @@
+0.000	inLine	na yule shemeji yako %incomplete
+0.000	outLine	<no-speech>
+1.970	inLine	<no-speech>
+2.550	outLine	ehhe .
+3.180	outLine	<no-speech>
+4.480	inLine	ule- -- yule shemeji yako %incomplete
+6.690	inLine	(()) <no-speech> .
+8.070	inLine	alipo- -- alipopata ajali na lile gari la %incomplete
+11.370	inLine	<no-speech>
+12.340	inLine	lile -- lile gari lake %incomplete
+12.810	outLine	ohh .
+13.600	outLine	<no-speech>
+13.844	inLine	ehhe .
+14.275	inLine	unakumbuka ?
+14.480	outLine	ehhe .
+15.172	outLine	<no-speech>
+15.550	inLine	<no-speech>
+16.242	outLine	naikumbuka vizuri .
+17.319	outLine	sasa ye %incomplete
+17.500	inLine	hiyo ke- -- hiyo kesi iliendaje ?
+18.690	outLine	<no-speech>
+19.600	inLine	<no-speech>
+21.000	outLine	hiyo kesi ilienda hivi %incomplete
+22.820	outLine	<no-speech>
+23.110	inLine	ehhe .
+23.580	inLine	<no-speech>
+23.780	outLine	mwenye kugonga ye na -- na gari lake %incomplete
+26.930	outLine	<no-speech>
+27.390	inLine	ehhe .
+27.890	inLine	<no-speech>
+27.930	outLine	<sta> ilibidi ali- -- apelekwe kortini halafu akalipia fidia .
+31.400	inLine	ehhe .
+31.900	inLine	<no-speech>
+34.610	outLine	<no-speech>
+35.960	outLine	nayo ka- -- kampuni -- kampuni pia ikalipia ye .
+41.000	outLine	<no-speech>
+41.310	inLine	ehhe .
+41.820	inLine	<no-speech>
+43.060	outLine	lakini amekuwa amekaa bado .
+44.994	outLine	bado hajatembea vizuri .
+46.470	outLine	<no-speech>
+46.970	inLine	ehhe .
+47.310	inLine	na alilipwa ?
+48.430	outLine	<no-speech>
+48.720	inLine	<no-speech>
+48.790	outLine	<no-speech>
+49.910	outLine	alilipwa %incomplete
+51.170	outLine	<no-speech>
+51.290	inLine	ehhe <int> .
+51.820	inLine	<no-speech>
+52.690	outLine	alilipwa na alilipiwa hospitali na mwenye kugonga ye .
+57.010	outLine	<no-speech>
+57.330	inLine	ehhe .
+57.890	inLine	<no-speech>
+58.260	outLine	alilipiwa *pesa* za hospitali na mwenye kugonga ye .
+61.127	outLine	sasa anaendelea pole pole .
+61.480	inLine	na %incomplete
+61.976	inLine	ehhe .
+62.530	inLine	<no-speech>
+63.340	outLine	<no-speech>
+63.610	inLine	ehhe .
+64.110	inLine	<no-speech>
+64.790	outLine	ahh yuko karibu kupona .
+66.340	outLine	<no-speech>
+66.750	inLine	na gari lilishughulikiwa ?
+68.310	inLine	<no-speech>
+69.640	outLine	gari linashughulika lakini bado -- bado si unajua gari kama %incomplete
+73.280

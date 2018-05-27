@@ -1,0 +1,169 @@
+<1>	(Inline, 0.000-0.670)	'asaan ka ba ?	where are you ?
+<2>	(Outline, 0.000-0.720)	<no-speech>	<no-speech>
+<3>	(Inline, 0.670-2.100)	oo .	yes .
+<4>	(Outline, 0.720-1.710)	pauwi ka na ?	are you on your way home ?
+<5>	(Outline, 1.710-4.450)	<no-speech>	<no-speech>
+<6>	(Inline, 2.100-3.402)	<no-speech>	<no-speech>
+<7>	(Inline, 3.402-4.510)	papasok ka ba bukas ?	are you coming tomorrow ?
+<8>	(Outline, 4.450-6.240)	<sta> huh ?	what ?
+<9>	(Inline, 4.510-6.120)	<no-speech>	<no-speech>
+<10>	(Inline, 6.120-7.230)	papasok ka bukas ?	are you coming tomorrow ?
+<11>	(Outline, 6.240-7.570)	<no-speech>	<no-speech>
+<12>	(Inline, 7.230-10.180)	<no-speech>	<no-speech>
+<13>	(Outline, 7.570-8.798)	oo papasok ako .	yes I am going .
+<14>	(Outline, 8.798-10.414)	<no-speech>	<no-speech>
+<15>	(Inline, 10.180-10.502)	nag- %incomplete	%incomplete
+<16>	(Outline, 10.414-10.960)	huh ?	huh ?
+<17>	(Inline, 10.502-12.660)	oo antayin mo na lang ako diyan mga .	yes just wait for me there .
+<18>	(Outline, 10.960-12.840)	<no-speech>	<no-speech>
+<19>	(Inline, 12.660-13.910)	<no-speech>	<no-speech>
+<20>	(Outline, 12.840-13.938)	papasok ako bukas .	I'll come in tomorrow .
+<21>	(Inline, 13.910-15.407)	mga se- -- mga seven .	around -- around seven .
+<22>	(Outline, 13.938-15.220)	<no-speech>	<no-speech>
+<23>	(Outline, 15.220-16.730)	<no-speech>	<no-speech>
+<24>	(Inline, 15.407-16.455)	hintayin mo 'ko .	wait for me .
+<25>	(Inline, 16.455-19.150)	ah ?	ah ?
+<26>	(Outline, 16.730-17.330)	<no-speech>	<no-speech>
+<27>	(Outline, 17.330-19.650)	<no-speech>	<no-speech>
+<28>	(Inline, 19.150-23.170)	<no-speech>	<no-speech>
+<29>	(Outline, 19.650-20.347)	oo .	yes .
+<30>	(Outline, 20.347-20.778)	<no-speech>	<no-speech>
+<31>	(Outline, 20.778-21.589)	a-sais na .	already six .
+<32>	(Outline, 21.589-23.240)	a-sais na tayo ng Marso .	we are on the sixth of March .
+<33>	(Inline, 23.170-23.702)	oo .	yes .
+<34>	(Outline, 23.240-30.710)	<no-speech>	<no-speech>
+<35>	(Inline, 23.702-25.632)	a- -- 'ala sais ?	six o'clock ?
+<36>	(Inline, 25.632-27.600)	masyado namang maaga 'yon .	that is too early .
+<37>	(Inline, 27.600-29.020)	<no-speech>	<no-speech>
+<38>	(Inline, 29.020-30.853)	baka tayo magbukas ng Recto .	we may be the ones to open Recto .
+<39>	(Outline, 30.710-32.842)	<sta> baliw ano ?	crazy right ?
+<40>	(Inline, 30.853-32.120)	<no-speech>	<no-speech>
+<41>	(Inline, 32.120-33.070)	<no-speech>	<no-speech>
+<42>	(Outline, 32.842-33.947)	<no-speech>	<no-speech>
+<43>	(Inline, 33.070-34.096)	ano ?	what ?
+<44>	(Outline, 33.947-34.890)	huh ?	what ?
+<45>	(Inline, 34.096-36.590)	baka tayo magbubukas ng Recto .	we may be the ones opening Recto .
+<46>	(Outline, 34.890-39.240)	<no-speech>	<no-speech>
+<47>	(Inline, 36.590-39.220)	<no-speech>	<no-speech>
+<48>	(Inline, 39.220-39.700)	huh ?	what ?
+<49>	(Outline, 39.240-41.659)	<sta> anong oras ba uwi natin noon ?	what time do we go home before ?
+<50>	(Inline, 39.700-40.570)	<no-speech>	<no-speech>
+<51>	(Inline, 40.570-42.033)	<no-speech>	<no-speech>
+<52>	(Outline, 41.659-43.016)	<no-speech>	<no-speech>
+<53>	(Inline, 42.033-43.321)	mga alas dos lang (()) .	just around two o'clock (()) .
+<54>	(Outline, 43.016-45.330)	anong oras uwi natin ?	what time do we come home ?
+<55>	(Inline, 43.321-46.410)	<no-speech> mga alas dos .	around two o'clock .
+<56>	(Outline, 45.330-46.160)	<no-speech>	<no-speech>
+<57>	(Outline, 46.160-46.570)	<no-speech>	<no-speech>
+<58>	(Inline, 46.410-49.830)	<no-speech>	<no-speech>
+<59>	(Outline, 46.570-49.010)	<no-speech>	<no-speech>
+<60>	(Outline, 49.010-49.900)	<sta> alas diyes ?	ten o'clock ?
+<61>	(Inline, 49.830-50.670)	alas dos .	two o'clock .
+<62>	(Outline, 49.900-51.310)	<no-speech>	<no-speech>
+<63>	(Inline, 50.670-51.840)	<no-speech>	<no-speech>
+<64>	(Outline, 51.310-51.760)	<no-speech>	<no-speech>
+<65>	(Outline, 51.760-53.690)	<no-speech>	<no-speech>
+<66>	(Inline, 51.840-53.330)	alas dos o kaya 'ala una .	two o'clock or maybe one o'clock .
+<67>	(Inline, 53.330-54.250)	<no-speech>	<no-speech>
+<68>	(Outline, 53.690-54.480)	alas dos ?	two o'clock ?
+<69>	(Inline, 54.250-54.831)	oo .	yes .
+<70>	(Outline, 54.480-56.990)	<no-speech>	<no-speech>
+<71>	(Inline, 54.831-57.820)	eh 'di 'pag hinanap ka ni Rose .	eh if Rose looks for you .
+<72>	(Outline, 56.990-59.433)	Fred papal- -- papalabasin pa tayo ano .	Fred -- we will be sent out .
+<73>	(Inline, 57.820-59.340)	<no-speech>	<no-speech>
+<74>	(Inline, 59.340-60.989)	<sta> hindi .	no .
+<75>	(Outline, 59.433-60.788)	<no-speech>	<no-speech>
+<76>	(Outline, 60.788-61.320)	huh ?	what ?
+<77>	(Inline, 60.989-70.230)	eh 'di 'pag hinanap ka ni Rose sabihin mo nag-computer ka lang o kaya naglaro -- naglaro ka ng basketball sa ano -- sa Nazareth .	if Rose looks for you just say that you are on your computer or maybe played -- played basketball at -- at Nazareth .
+<78>	(Outline, 61.320-66.490)	<no-speech>	<no-speech>
+<79>	(Outline, 66.490-67.020)	ano ?	what ?
+<80>	(Outline, 67.020-70.520)	<no-speech>	<no-speech>
+<81>	(Inline, 70.230-73.310)	<no-speech>	<no-speech>
+<82>	(Outline, 70.520-71.271)	<no-speech>	<no-speech>
+<83>	(Outline, 71.271-73.290)	oo 'yon nga 'yon nga i-sa-suggest ko eh .	yes that's what I will suggest .
+<84>	(Outline, 73.290-73.755)	<no-speech>	<no-speech>
+<85>	(Inline, 73.310-75.674)	kanino -- kanina nga dapat pupunta kami (()) %incomplete	to whom -- earlier we should have went to (()) %incomplete
+<86>	(Outline, 73.755-74.300)	huh ?	what ?
+<87>	(Outline, 74.300-75.460)	<no-speech>	<no-speech>
+<88>	(Outline, 75.460-77.220)	anong sasabihin ko naglaba ako ?	what should I say I did laundry ?
+<89>	(Inline, 75.674-77.893)	<no-speech> oo .	yes .
+<90>	(Outline, 77.220-78.940)	<no-speech>	<no-speech>
+<91>	(Inline, 77.893-80.855)	dapat nga maglalaro kami kanina ni Robbie sa Nazareth .	I was supposed to play earlier with Robbie at Nazareth .
+<92>	(Outline, 78.940-79.360)	<no-speech>	<no-speech>
+<93>	(Outline, 79.360-81.060)	<no-speech>	<no-speech>
+<94>	(Inline, 80.855-82.730)	huh ?	huh ?
+<95>	(Outline, 81.060-81.680)	pumasok .	enter .
+<96>	(Outline, 81.680-82.640)	<no-speech>	<no-speech>
+<97>	(Outline, 82.640-83.810)	<no-speech>	<no-speech>
+<98>	(Inline, 82.730-84.320)	<no-speech>	<no-speech>
+<99>	(Outline, 83.810-85.010)	<no-speech>	<no-speech>
+<100>	(Inline, 84.320-84.870)	ano ?	what ?
+<101>	(Inline, 84.870-86.560)	<no-speech>	<no-speech>
+<102>	(Outline, 85.010-86.195)	sila Ronald baliw .	Ronald and them are crazy .
+<103>	(Outline, 86.195-86.850)	<no-speech>	<no-speech>
+<104>	(Inline, 86.560-87.080)	ano ?	what ?
+<105>	(Outline, 86.850-88.060)	<no-speech>	<no-speech>
+<106>	(Inline, 87.080-89.720)	<no-speech>	<no-speech>
+<107>	(Outline, 88.060-89.410)	ba't naglaro na kayo ?	why did you guys play already ?
+<108>	(Outline, 89.410-92.250)	<no-speech>	<no-speech>
+<109>	(Inline, 89.720-90.740)	umulan nga eh .	it rained eh .
+<110>	(Inline, 90.740-96.040)	<no-speech>	<no-speech>
+<111>	(Outline, 92.250-93.730)	ba't naglaro na kayo <int> ?	why did you guys play already ?
+<112>	(Outline, 93.730-94.540)	<no-speech>	<no-speech>
+<113>	(Outline, 94.540-95.770)	ay oo nga pala .	oops yes yeah .
+<114>	(Outline, 95.770-97.220)	<no-speech>	<no-speech>
+<115>	(Inline, 96.040-97.780)	<cough> lakas-lakas ng ulan eh .	well the rain is so strong .
+<116>	(Outline, 97.220-98.070)	<no-speech>	<no-speech>
+<117>	(Inline, 97.780-100.330)	<no-speech>	<no-speech>
+<118>	(Outline, 98.070-99.370)	<no-speech>	<no-speech>
+<119>	(Outline, 99.370-100.290)	bukas sabi .	told you tomorrow .
+<120>	(Outline, 100.290-101.350)	<no-speech>	<no-speech>
+<121>	(Inline, 100.330-101.800)	ikaw kaya maglarong %incomplete .	how about you try playing %incomplete
+<122>	(Outline, 101.350-103.410)	'pag 'di umulan bukas laro tayo .	if it would not rain tomorrow we will play .
+<123>	(Inline, 101.800-103.130)	<no-speech>	<no-speech>
+<124>	(Inline, 103.130-103.780)	oo .	yes .
+<125>	(Outline, 103.410-106.140)	<no-speech>	<no-speech>
+<126>	(Inline, 103.780-105.190)	<no-speech>	<no-speech>
+<127>	(Inline, 105.190-106.439)	laruin mo na lang 'to .	just play this .
+<128>	(Outline, 106.140-108.905)	<int> 'pag 'di umulan laro <sta> tayo .	if it would not rain we will play .
+<129>	(Inline, 106.439-108.620)	<no-speech>	<no-speech>
+<130>	(Inline, 108.620-110.100)	oo .	yes .
+<131>	(Outline, 108.905-111.220)	<no-speech>	<no-speech>
+<132>	(Inline, 110.100-111.420)	<no-speech>	<no-speech>
+<133>	(Outline, 111.220-112.310)	<no-speech>	<no-speech>
+<134>	(Inline, 111.420-111.950)	ah ?	ah ?
+<135>	(Inline, 111.950-113.010)	<no-speech>	<no-speech>
+<136>	(Outline, 112.310-112.740)	<no-speech>	<no-speech>
+<137>	(Outline, 112.740-114.070)	<no-speech>	<no-speech>
+<138>	(Inline, 113.010-114.424)	bu- -- basta bukas %incomplete	-- just tomorrow %incomplete
+<139>	(Outline, 114.070-116.035)	'pag -- 'pag 'di umulan huh ?	if -- if it would not rain huh ?
+<140>	(Inline, 114.424-115.061)	<int> oo .	yes .
+<141>	(Inline, 115.061-116.070)	<no-speech>	<no-speech>
+<142>	(Outline, 116.035-116.930)	<no-speech>	<no-speech>
+<143>	(Inline, 116.070-116.470)	huh ?	what ?
+<144>	(Inline, 116.470-117.890)	<no-speech>	<no-speech>
+<145>	(Outline, 116.930-119.530)	<no-speech>	<no-speech>
+<146>	(Inline, 117.890-119.420)	ano <int> ?	what ?
+<147>	(Inline, 119.420-120.620)	<no-speech>	<no-speech>
+<148>	(Outline, 119.530-121.826)	<sta> 'pag 'di umulan laro tayo .	if it would not rain we will play .
+<149>	(Inline, 120.620-122.030)	<int> oo .	yes .
+<150>	(Outline, 121.826-125.108)	<no-speech> 'pag 'di umulan laro tayo .	if it would not rain we will play .
+<151>	(Inline, 122.030-123.180)	<no-speech>	<no-speech>
+<152>	(Inline, 123.180-124.181)	<no-speech>	<no-speech>
+<153>	(Inline, 124.181-129.380)	oo nga pali- -- pa- -- palulenado sila ano -- sila Jomar .	right -- Joma is at an advantage .
+<154>	(Outline, 125.108-129.390)	<no-speech>	<no-speech>
+<155>	(Inline, 129.380-134.090)	<no-speech>	<no-speech>
+<156>	(Outline, 129.390-130.210)	<no-speech>	<no-speech>
+<157>	(Outline, 130.210-131.570)	<sta> oo .	yes .
+<158>	(Outline, 131.570-132.530)	<no-speech>	<no-speech>
+<159>	(Outline, 132.530-133.156)	<int> oo .	yes .
+<160>	(Outline, 133.156-134.720)	o kaya computer tayo bukas .	or we could do computer tomorrow .
+<161>	(Inline, 134.090-135.080)	oo .	yes .
+<162>	(Outline, 134.720-135.590)	<no-speech>	<no-speech>
+<163>	(Inline, 135.080-136.070)	<no-speech>	<no-speech>
+<164>	(Outline, 135.590-137.170)	<int> huh ?	what ?
+<165>	(Inline, 136.070-141.060)	<no-speech>	<no-speech>
+<166>	(Outline, 137.170-138.580)	<no-speech>	<no-speech>
+<167>	(Outline, 138.580-141.390)	basta gawin nating laro tayo ulit sa Pallina .	we will just do it let us play again at Pallina .
+<168>	(Inline, 141.060-141.830)	oo .	yes .
+<169>	(Outline, 141.390-141.830)	<no-speech>	<no-speech>

@@ -1,0 +1,77 @@
+<1>	(Inline, 0.000-0.430)	<no-speech>	<no-speech>
+<2>	(Outline, 0.000-0.660)	<no-speech>	<no-speech>
+<3>	(Inline, 0.430-1.185)	sige .	okay .
+<4>	(Outline, 0.660-3.600)	<no-speech>	<no-speech>
+<5>	(Inline, 1.185-1.803)	<no-speech>	<no-speech>
+<6>	(Inline, 1.803-2.780)	bilisan mo .	hurry up .
+<7>	(Inline, 2.780-3.980)	<no-speech>	<no-speech>
+<8>	(Outline, 3.600-4.240)	oo .	yes .
+<9>	(Inline, 3.980-4.670)	<no-speech>	<no-speech>
+<10>	(Outline, 4.240-5.500)	<no-speech>	<no-speech>
+<11>	(Inline, 4.670-7.040)	<no-speech>	<no-speech>
+<12>	(Outline, 5.500-6.430)	eto na .	here it is .
+<13>	(Outline, 6.430-11.420)	<no-speech>	<no-speech>
+<14>	(Inline, 7.040-7.710)	<no-speech>	<no-speech>
+<15>	(Inline, 7.710-9.810)	<no-speech>	<no-speech>
+<16>	(Inline, 9.810-11.400)	hello anu-ano na score ?	hello what are the scores ?
+<17>	(Inline, 11.400-16.290)	<no-speech>	<no-speech>
+<18>	(Outline, 11.420-12.660)	patalastas .	announcement .
+<19>	(Outline, 12.660-15.510)	<no-speech>	<no-speech>
+<20>	(Outline, 15.510-16.330)	<no-speech>	<no-speech>
+<21>	(Inline, 16.290-17.450)	ang tagal o .	very long time .
+<22>	(Outline, 16.330-19.560)	<no-speech>	<no-speech>
+<23>	(Inline, 17.450-18.780)	bilisan mo naman .	hurry up .
+<24>	(Inline, 18.780-22.120)	<no-speech>	<no-speech>
+<25>	(Outline, 19.560-21.270)	ba't ako 'yong T_V ?	why am I the T_V ?
+<26>	(Outline, 21.270-25.070)	<no-speech>	<no-speech>
+<27>	(Inline, 22.120-23.123)	maliligo .	will take a bath .
+<28>	(Inline, 23.123-24.119)	<no-speech>	<no-speech>
+<29>	(Inline, 24.119-24.750)	huh ?	huh ?
+<30>	(Inline, 24.750-26.710)	<no-speech>	<no-speech>
+<31>	(Outline, 25.070-26.250)	'yong T_V .	the T_V .
+<32>	(Outline, 26.250-29.230)	<no-speech>	<no-speech>
+<33>	(Inline, 26.710-27.380)	no <int> ?	no ?
+<34>	(Inline, 27.380-28.980)	<no-speech>	<no-speech>
+<35>	(Inline, 28.980-29.670)	ano ?	what ?
+<36>	(Outline, 29.230-30.560)	patalastas pa eh .	announcements still .
+<37>	(Inline, 29.670-34.000)	<no-speech>	<no-speech>
+<38>	(Outline, 30.560-32.460)	<no-speech>	<no-speech>
+<39>	(Outline, 32.460-32.880)	<no-speech>	<no-speech>
+<40>	(Outline, 32.880-36.600)	<no-speech>	<no-speech>
+<41>	(Inline, 34.000-34.961)	sige bilisa- %incomplete	okay %incomplete
+<42>	(Inline, 34.961-35.770)	hintayin mo lang .	just wait .
+<43>	(Inline, 35.770-38.040)	<no-speech>	<no-speech>
+<44>	(Outline, 36.600-37.790)	patayin ko na .	I'll kill it .
+<45>	(Outline, 37.790-42.080)	<no-speech>	<no-speech>
+<46>	(Inline, 38.040-39.710)	nagpagupit ka na <breath> ?	have you had your hair cut ?
+<47>	(Inline, 39.710-40.700)	<no-speech>	<no-speech>
+<48>	(Inline, 40.700-41.790)	nagpagupit ka na ?	have you had your hair cut ?
+<49>	(Inline, 41.790-45.340)	<no-speech>	<no-speech>
+<50>	(Outline, 42.080-42.710)	huh ?	huh ?
+<51>	(Outline, 42.710-47.100)	<no-speech>	<no-speech>
+<52>	(Inline, 45.340-46.440)	nagpagupit ka na ?	have you had your hair cut ?
+<53>	(Inline, 46.440-51.690)	<no-speech>	<no-speech>
+<54>	(Outline, 47.100-48.030)	uh mhm .	uh yes .
+<55>	(Outline, 48.030-49.050)	<no-speech>	<no-speech>
+<56>	(Outline, 49.050-51.110)	<no-speech>	<no-speech>
+<57>	(Outline, 51.110-53.190)	<no-speech>	<no-speech>
+<58>	(Inline, 51.690-52.340)	saan ?	where ?
+<59>	(Inline, 52.340-63.090)	<no-speech>	<no-speech>
+<60>	(Outline, 53.190-58.920)	sa tapat ng ano <no-speech> -- ng ano ba 'to ng San Roque .	in front of the what -- what is it of San Roque .
+<61>	(Outline, 58.920-64.800)	<no-speech>	<no-speech>
+<62>	(Inline, 63.090-64.230)	sino asawa mo ?	who is your spouse ?
+<63>	(Inline, 64.230-68.110)	<no-speech>	<no-speech>
+<64>	(Outline, 64.800-65.500)	huh ?	huh ?
+<65>	(Outline, 65.500-69.220)	<no-speech>	<no-speech>
+<66>	(Inline, 68.110-69.260)	sino asawa mo ?	who is your spouse ?
+<67>	(Outline, 69.220-69.990)	wala .	nothing .
+<68>	(Inline, 69.260-74.190)	<no-speech>	<no-speech>
+<69>	(Outline, 69.990-73.340)	<no-speech>	<no-speech>
+<70>	(Outline, 73.340-73.690)	<no-speech>	<no-speech>
+<71>	(Outline, 73.690-77.280)	<no-speech>	<no-speech>
+<72>	(Inline, 74.190-75.260)	<no-speech>	<no-speech>
+<73>	(Inline, 75.260-76.106)	sige .	okay .
+<74>	(Inline, 76.106-77.210)	ano 'andiyan na ?	what is it there already ?
+<75>	(Inline, 77.210-81.650)	<no-speech>	<no-speech>
+<76>	(Outline, 77.280-78.940)	wala pa .	not yet .
+<77>	(Outline, 78.940-81.650)	<no-speech>	<no-speech>

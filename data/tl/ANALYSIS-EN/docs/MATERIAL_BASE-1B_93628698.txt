@@ -1,0 +1,20 @@
+<1>	HEALTH FRONTIERS: Anemic Ano ang gamot sa anemia?	health frontiers: anemic, what is the medicine for anemia?
+<2>	May oras kasi na nahihilo ako.	there are times when I would get dizzy.
+<3>	­Epekto ba ito ng anemia?	is this an effect of anemia?
+<4>	Maaaring sintomas ng anemia iyan.	it may be a symptom of anemia.
+<5>	Mala­laman ito sa pamamagitan ng CBC o complete blood count.	this can be determined through a CBC or complete blood count.
+<6>	Pagsusuri ito ng red blood cells sa dugo.	this is an examination of the red blood cells in the blood.
+<7>	Mababa ito kapag anemic ang isang tao.	it is low when a person is anemic.
+<8>	Ang gamot na ibibigay ng doktor ay depende sa ­sanhi ng sakit mo.	the medicine the doctor will give depends on the cause of your sickness.
+<9>	Dito sa Pilipinas, iron-deficiency anemia ang pangka­raniwang sakit na galing sa kakulangang ng iron sa kata­wan.	here in the Philippines, iron-deficiency anemia is the common sickness caused by iron deficiency in the body.
+<10>	Pero ang anemia ay puwede ring ­manggaling sa vitamin ­deficiency o mga sakit tulad ng cancer, rheumatoid arthritis o problema sa kidney.	but anemia can also be caused by vitamin deficiency or sicknesses like cancer, rheumatoid arthritis or kidney problems.
+<11>	Ang pagkahilo ay maa­aring sintomas rin ng problema sa tainga, sakit sa puso, migraine o epekto ng gamot sa high blood pressure.	dizziness can also be a symptom of ear problems, heart disease, migraine or effect of the medicines for high blood pressure.
+<12>	Pumunta sa doktor para malaman kung talagang ­anemic ka at kung ano ang dahilan nito.	go to a doctor to know if you are really anemic and what causes it.
+<13>	Ang bato na nakuha sa akin ay gawa sa calcium.	the stone that was extracted from me made of calcium.
+<14>	Ano ang puwedeng kainin?	what can you eat?
+<15>	Calcium oxalate ang kadalasang uri ng bato na bumubuo sa kidney.	calcium oxalate is the common type of stone formed in the kidney.
+<16>	Puwedeng manggaling ito sa sobrang Vitamin D o metabolic disorder.	this can come from too much Vitamin D or from a metabolic disorder.
+<17>	Ituloy mo ang pagkain ng calcium-rich food dahil kailangan ito ng katawan puwera lang kung ipinagbawal ng doktor.	continue to eat calcium-rich food because the body needs it except when it is prohibited by a doctor.
+<18>	Ang dapat bawasan ay ang mga pagkaing mayaman sa ­oxalate tulad ng tsokolate, mani, okra, spinach, sweet ­potatoes, tsaa at soy products.	minimize foods rich in oxalate such as chocolates, peanuts, okra, spinach, sweet potatoes, tea and soy products.
+<19>	Mag-ingat sa paggamit ng ­calcium supplements dahil maaaring magdulot ito ng bato.	be careful in taking calcium supplements because it may cause kidney stones.
+<20>	Kung kinakailangan uminom nito, take it with meals.	if you need to drink it, take it with meals.

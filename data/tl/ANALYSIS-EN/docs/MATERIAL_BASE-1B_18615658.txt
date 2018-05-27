@@ -1,0 +1,86 @@
+<1>	(Inline, 0.000-0.290)	<no-speech>	<no-speech>
+<2>	(Outline, 0.000-0.990)	<no-speech>	<no-speech>
+<3>	(Inline, 0.290-1.349)	ba't niya 'ko (()) ?	why did he (()) me ?
+<4>	(Outline, 0.990-1.989)	'di ba ?	right ?
+<5>	(Inline, 1.349-4.230)	<no-speech> ha ?	huh ?
+<6>	(Outline, 1.989-3.460)	<no-speech>	<no-speech>
+<7>	(Outline, 3.460-4.600)	<no-speech>	<no-speech>
+<8>	(Inline, 4.230-5.190)	<no-speech>	<no-speech>
+<9>	(Outline, 4.600-5.220)	ah ?	ah ?
+<10>	(Inline, 5.190-6.440)	ba't ako hahanapin ?	why look for me ?
+<11>	(Outline, 5.220-8.510)	<no-speech>	<no-speech>
+<12>	(Inline, 6.440-10.530)	<no-speech>	<no-speech>
+<13>	(Outline, 8.510-9.370)	wala lang .	nothing .
+<14>	(Outline, 9.370-10.490)	<no-speech> nasabi ko lang .	I just mentioned it .
+<15>	(Outline, 10.490-12.000)	<no-speech>	<no-speech>
+<16>	(Inline, 10.530-14.426)	<no-speech>	<no-speech>
+<17>	(Outline, 12.000-13.820)	<no-speech>	<no-speech>
+<18>	(Outline, 13.820-15.270)	<no-speech>	<no-speech>
+<19>	(Inline, 14.426-16.015)	nag-reply na si Rhea ?	has Rhea replied ?
+<20>	(Outline, 15.270-16.220)	kumain ka na ?	have you eaten ?
+<21>	(Inline, 16.015-16.296)	<no-speech>	<no-speech>
+<22>	(Outline, 16.220-17.670)	<no-speech>	<no-speech>
+<23>	(Inline, 16.296-17.603)	oo .	yes .
+<24>	(Inline, 17.603-21.678)	<no-speech>	<no-speech>
+<25>	(Outline, 17.670-18.290)	<no-speech>	<no-speech>
+<26>	(Outline, 18.290-21.080)	<no-speech>	<no-speech>
+<27>	(Outline, 21.080-22.072)	<no-speech>	<no-speech>
+<28>	(Inline, 21.678-23.472)	ang ha .	the what .
+<29>	(Outline, 22.072-22.640)	ha ?	huh ?
+<30>	(Outline, 22.640-25.860)	<no-speech>	<no-speech>
+<31>	(Inline, 23.472-25.061)	<no-speech>	<no-speech>
+<32>	(Inline, 25.061-26.317)	ha ?	huh ?
+<33>	(Outline, 25.860-26.930)	sinisipon ako best .	I'm having a cold best .
+<34>	(Inline, 26.317-28.470)	<no-speech>	<no-speech>
+<35>	(Outline, 26.930-27.850)	<no-speech>	<no-speech>
+<36>	(Outline, 27.850-29.848)	<no-speech>	<no-speech>
+<37>	(Inline, 28.470-29.450)	<no-speech>	<no-speech>
+<38>	(Inline, 29.450-31.220)	sabi ba 'yan sabi ko .	said that that's what I said .
+<39>	(Outline, 29.848-30.620)	hello ?	hello ?
+<40>	(Outline, 30.620-31.760)	<no-speech>	<no-speech>
+<41>	(Inline, 31.220-34.950)	<no-speech>	<no-speech>
+<42>	(Outline, 31.760-33.937)	<no-speech>	<no-speech>
+<43>	(Outline, 33.937-35.080)	hello ?	hello ?
+<44>	(Inline, 34.950-35.910)	hello .	hello .
+<45>	(Outline, 35.080-38.710)	<no-speech>	<no-speech>
+<46>	(Inline, 35.910-37.682)	<no-speech>	<no-speech>
+<47>	(Inline, 37.682-39.103)	nag-text na si Dianne ?	has Dianne texted ?
+<48>	(Outline, 38.710-39.260)	<no-speech>	<no-speech>
+<49>	(Inline, 39.103-40.524)	<no-speech>	<no-speech>
+<50>	(Outline, 39.260-40.080)	<no-speech>	<no-speech>
+<51>	(Outline, 40.080-41.028)	hello ?	hello ?
+<52>	(Inline, 40.524-41.410)	hello .	hello .
+<53>	(Outline, 41.028-42.087)	<no-speech>	<no-speech>
+<54>	(Inline, 41.410-44.300)	<no-speech>	<no-speech>
+<55>	(Outline, 42.087-43.960)	sabi ko sinisipon ako .	I said I have a cold .
+<56>	(Outline, 43.960-50.950)	<no-speech>	<no-speech>
+<57>	(Inline, 44.300-45.210)	sinisipon ka ?	do you have a cold ?
+<58>	(Inline, 45.210-46.250)	<no-speech>	<no-speech>
+<59>	(Inline, 46.250-46.620)	<no-speech>	<no-speech>
+<60>	(Inline, 46.620-47.760)	<no-speech>	<no-speech>
+<61>	(Inline, 47.760-50.067)	lagyan mo ng ano .	put some of that .
+<62>	(Inline, 50.067-50.840)	<no-speech>	<no-speech>
+<63>	(Inline, 50.840-52.771)	ng bulak sa ilong para hindi <no-speech> .	of cotton in the nose to avoid %incomplete
+<64>	(Outline, 50.950-51.300)	<no-speech>	<no-speech>
+<65>	(Outline, 51.300-52.170)	<no-speech>	<no-speech>
+<66>	(Outline, 52.170-52.920)	oh ?	really ?
+<67>	(Inline, 52.771-57.860)	<no-speech> 'di mo 'ko naririnig ikaw nga naririnig ko .	you can't hear me well me I can hear you .
+<68>	(Outline, 52.920-54.320)	<no-speech>	<no-speech>
+<69>	(Outline, 54.320-55.770)	'di ko marinig best eh .	because I can't hear best .
+<70>	(Outline, 55.770-59.770)	<no-speech>	<no-speech>
+<71>	(Inline, 57.860-58.840)	<no-speech>	<no-speech>
+<72>	(Inline, 58.840-59.780)	<no-speech>	<no-speech>
+<73>	(Outline, 59.770-60.320)	ha ?	huh ?
+<74>	(Inline, 59.780-61.847)	'di mo ko naririnig ?	you don't hear me ?
+<75>	(Outline, 60.320-64.510)	<no-speech>	<no-speech>
+<76>	(Inline, 61.847-62.770)	<no-speech>	<no-speech>
+<77>	(Inline, 62.770-67.810)	<no-speech>	<no-speech>
+<78>	(Outline, 64.510-65.848)	'di kita marinig eh .	I can't hear you .
+<79>	(Outline, 65.848-68.380)	eto 'ata may diperensiya itong gamit ko .	the one I'm using is probably defective .
+<80>	(Inline, 67.810-68.440)	ha ?	huh ?
+<81>	(Outline, 68.380-70.390)	<no-speech>	<no-speech>
+<82>	(Inline, 68.440-70.350)	<no-speech>	<no-speech>
+<83>	(Inline, 70.350-70.910)	ano ?	what ?
+<84>	(Outline, 70.390-70.750)	<no-speech>	<no-speech>
+<85>	(Outline, 70.750-71.950)	<no-speech>	<no-speech>
+<86>	(Inline, 70.910-71.950)	<no-speech>	<no-speech>

@@ -1,0 +1,345 @@
+[0.000]
+<no-speech>
+[1.230]
+(()) <sta> (()) Mbeya (()) ndiyo maskani <no-speech> <sta> (()) .
+[13.769]
+<no-speech>
+[15.585]
+twaongea tutaenda kwa sababu niko home <sta> na hawa vijana (()) <no-speech> nimewaleta ili waje wafanye mambo kwa niaba ya Tigo .
+[26.805]
+<no-speech>
+[27.740]
+<sta> nina dakika mbili tu za kusema asante (()) <sta> kwa kweli uko ndani tunawaburuza .
+[34.976]
+wakumbuka kuwaburuza tunawaburuza .
+[36.900]
+<no-speech>
+[37.926]
+<sta> patatokea (()) tena wa kutendeka atasema (()) ?
+[45.350]
+<sta> nimekuwa (()) maeneo pekee yangu mkitaka (()) .
+[49.861]
+<no-speech>
+[53.070]
+<no-speech>
+[54.571]
+<sta> maana mnaweza mkaona kama na yeye hachekeshi .
+[57.320]
+<no-speech>
+[59.400]
+<sta> unaweza uka- -- uka- -- ukaongea kama mama (()) ?
+[62.650]
+<sta> (()) ni wacha tu (()) <laugh> ?
+[64.925]
+<no-speech>
+[66.137]
+kwamba wewe ongea wewe si bossy .
+[69.230]
+huwezi kuwa bossy wa Tigo halafu huwezi kutumia Tigo .
+[72.510]
+huwezi kuwa bossy wa Tigo na dunia .
+[74.124]
+huwezi kuwa bossy wa (()) comedy halafu huwezi comedy .
+[77.488]
+ongea kama mama (()) <sta> (()) <sta> (()) hata kazi unanitongoza ndiyo unapata kazi .
+[87.363]
+huwezi pata kazi bila kunitongoza .
+[89.532]
+ndiyo maana nakutongoza .
+[90.940]
+habari yako mama baby ?
+[92.247]
+<no-speech>
+[93.300]
+<no-speech>
+[94.350]
+habari za masomo ?
+[96.440]
+aai mzuri .
+[97.641]
+mzuri tu .
+[98.614]
+we legeza mguu .
+[100.160]
+<sta> sisi wenzako tukifanya hiyo style tunalegea .
+[103.365]
+ukiwa (()) biashara (()) kosa anatoka .
+[107.205]
+regea (()) habari yako ?
+[111.973]
+mzuri .
+[112.780]
+<no-speech>
+[113.868]
+haki huyo treasurer anaweza .
+[115.458]
+asante sana one love .
+[117.745]
+<no-speech>
+[119.530]
+(()) mawio na machweo .
+[123.370]
+niite baba Siwamba Wakuvanga .
+[125.352]
+follow me .
+[126.300]
+<sta> safi eh safi .
+[129.410]
+<sta> inateleza kama mto umetoka Bukoba kunakubalika Iringa .
+[132.194]
+fanya hivi .
+[133.320]
+safi .
+[134.044]
+eh hii inaonyesha <sta> tuko pamoja Tigo inaunganisha watu pamoja au sio ?
+[139.172]
+msisite mikono msishike mikono .
+[141.420]
+<sta> eh neno lisiwe (()) tano eh ?
+[144.280]
+<no-speech>
+[145.299]
+<laugh> eh hivyo hivyo .
+[148.700]
+<sta> hivyo hivyo .
+[149.524]
+eh -- hivyo hivyo .
+[150.816]
+eh -- hivyo hivyo eh heh sadakta .
+[154.750]
+(()) sauti inawika .
+[157.090]
+<sta> nami napiga (()) kwa watu nakubalika .
+[159.898]
+na Tigo imani kwa mashabiki wengi ni (()) zinapochekechea hapo shule za msingi .
+[164.860]
+<sta> jamaa msafi (()) .
+[169.771]
+<no-speech>
+[171.134]
+jina linapokuwa na kesho linashamiri .
+[173.860]
+<sta> (()) ni hekima bado yanipa ujasiri <breath> niendelee kuifunza jamii natumia ubongo wangu -- <sta> ubongo wasoma macho yangu yanaona (()) mi nayoyoma .
+[184.360]
+<misc> Mpoki hapa ukipenda niite nyani mzee tukutane katika sindano na jipu .
+[191.812]
+kumbuka <sta> emcee wa kwenye msiba hapigiwi makofi .
+[195.088]
+<misc> kijana nimekuja kuchukua Facebook yangu ya bure nipatie basi .
+[199.399]
+karibu mzee usijali ipo kwenye simu yako .
+[201.939]
+we vipi wewe ?
+[202.919]
+tushaandamana (()) mjini kila mtu (()) umesema ipo kwa yangu wapi ?
+[207.184]
+ni hivi ipo humu kwenye simu yako .
+[209.110]
+halafu unakwenda hapa .
+[210.414]
+unachotakiwa kufuata ni hatua hizi muhimu .
+[212.168]
+ni hivyo tu rahisi eh heh ?
+[213.682]
+yaani rahisi kweli .
+[215.820]
+(()) ipo kwa Kiswahili .
+[218.029]
+ama ningeweza kufanya hata nyumbani kwangu eh safi sana -- ndiyo Tina Tigo wameamua kuwapa Facebook ya bure <breath> kwa lugha ya Kiswahili .
+[225.030]
+ona <breath> rafiki zako wote wameunganishwa nawe Mapipa Suzie %incomplete
+[228.071]
+hapo nachat na rafiki zangu kwenye Facebook .
+[230.010]
+we wacha kuangalia messages zangu wewe wamenialika nikajivinjari nao .
+[234.008]
+<sta> Tigo pekee inakupa Facebook ya bure kwa Kiswahili .
+[237.910]
+<sta> unganishwa na marafiki zako popote pale uweze kuchat bure kupitia simu yako yenye internet ni poa .
+[244.480]
+<sta> hebu njooni basi karibu nataka picha ya kuweka kwenye ukarasa wangu wa Facebook .
+[247.527]
+(()) kwenye hii picha .
+[249.517]
+smile you are with Tigo .
+[252.060]
+<no-speech>
+[253.080]
+<sta> huyu bwana anaitwa (()) Kipara kwenye Kipara (()) .
+[261.350]
+(()) (()) <no-speech> <sta> (()) hii kwamba ni style ni ngumu sana .
+[279.340]
+<no-speech>
+[280.440]
+<sta> nikamwambia bwana wewe inachotakiwa <no-speech> uhamishwe .
+[285.171]
+<no-speech>
+[286.160]
+<sta> sasa kuna siku <no-speech> nalala kazini <no-speech> <sta> kwanza unawapatia (()) leo hayuko ofisi why ?
+[293.069]
+kwa nini ?
+[294.357]
+yuko wapi ?
+[296.630]
+<sta> ahh akatuma Francisca Mwaipopo .
+[299.373]
+kwanza akamuuliza (()) hukukuja chini ?
+[303.634]
+<no-speech>
+[304.870]
+akaja bwana yule baada ya Francisca Mwaipopo <no-speech> (()) tunakuhitaji jamani .
+[313.113]
+(()) <no-speech>
+[317.890]
+<sta> basi mwanamume ni (()) yangu mpaka (()) zangu .
+[322.904]
+tunaenda (()) <sta> mwanamume tuna show .
+[326.765]
+hiyo mtu -- hiyo (()) <sta> najivuruta naenda mwanamume mwanamume naenda .
+[334.050]
+<no-speech>
+[336.315]
+<sta> kufika sehemu wanaume nikalala chini na wenzangu wamelala .
+[339.932]
+nikachukua (()) tano nikazishindilia .
+[342.810]
+<sta> shikilia -- shikilia nitoke nika- -- mwanamume <sta> nimelala -- unajua ukitaka kulenga shabaha -- uongo askari watajua askari wale watajua .
+[354.863]
+unaogopa tunabana pumzi (()) (()) afande (()) kwani ni lazima ulale ?
+[369.455]
+<no-speech>
+[370.417]
+lazima ulale kwanza .
+[371.876]
+halafu <sta> natandika vizuri nikalala .
+[375.675]
+mwanamume nikalala <no-speech> naanza kuangalia kutoka kwangu namwona (()) hapa ndiyo (()) nawaambia asanteni .
+[386.569]
+<sta> naangalia (()) ya kwangu (()) mwanamume .
+[394.920]
+<sta> hata tukapigwa hatua tuliyopiga <no-speech> <no-speech> mimi nikapigania ahh nikaenda pembeni .
+[404.662]
+<no-speech>
+[406.580]
+<sta> piga ya nne .
+[407.737]
+<no-speech>
+[409.079]
+ikabaki hii moja .
+[410.401]
+watu wanauliza (()) eh afande kapteni .
+[415.381]
+afande (()) ongea na (()) <sta> (()) <no-speech> imeshika kobole yangu afande .
+[429.947]
+<no-speech>
+[430.850]
+<sta> umekosa zote nne <no-speech> umebakisha moja lakini iko humu .
+[435.980]
+<sta> eh afande alibadilika sura ilikuwa kama ni ya mamba .
+[439.525]
+na jua ukimwangalia kwa karibu <sta> sura yake inakuwa (()) na ukizidi kusongea karibu mamba ndiyo huyu hapa .
+[446.280]
+<no-speech>
+[447.350]
+<sta> kama taratibu vilivyo (()) Kipara utaweza kujiua mara moja .
+[452.876]
+nenda nyuma (()) ahh .
+[454.993]
+unajua (()) -- (()) risasi iliyobaki pale moja kwanza ile bunduki <no-speech> tukaikamata .
+[461.910]
+(()) ipo .
+[464.927]
+kazi kwenu kimbelembele naiangalia naiona ipo .
+[469.320]
+wanaume ni wanyonge hivi ?
+[470.602]
+ugh .
+[471.268]
+wale ndugu zangu (()) -- (()) wenzio -- wanalia .
+[476.070]
+<sta> (()) tulikupenda lakini Mungu akakupenda zaidi .
+[481.532]
+Mungu wakati roho mbaya ndiyo amenifanya nijiue .
+[484.900]
+<sta> basi mwanamume nikakamurder <no-speech> naingia zangu nyumba kwa (()) wanasubiria .
+[491.113]
+muda wowote tuitwe tukachukue maiti <sta> baada ya dakika mbili unasikia pu .
+[497.120]
+<sta> weka moja (()) .
+[503.180]
+<sta> vaa rudi .
+[504.772]
+wa- -- wa kwake wananiuliza kuja kuja nini ?
+[507.790]
+(()) si nimekwambia ujiue ?
+[510.060]
+<sta> kwenda huko hapa ni wewe U mzimu .
+[513.270]
+<sta> nikamwambia afande ni nini moyoni .
+[515.718]
+(()) sasa mbona hujajiua <breath> ?
+[518.204]
+hujajipiga risasi ?
+[519.990]
+nikamwambia afande nishakwambia nyinyi ile moja imebaki (()) ukishajipiga nimelikosa sina shabaha .
+[527.657]
+<no-speech>
+[533.590]
+<sta> unaniona sikuoni .
+[534.610]
+unajua nyeti wewe .
+[536.095]
+mimi hapa mwenyewe (()) wa nyeti .
+[538.920]
+<sta> (()) wa nyeti .
+[540.234]
+<no-speech>
+[541.607]
+yakhe salama <no-speech> (()) <sta> (()) <sta> yakhe salama .
+[554.213]
+<no-speech>
+[555.890]
+sadakta (()) tunakwambia (()) .
+[559.990]
+<sta> wanakwambia maanake ya kwamba aliyekula karo ya wateja kukaoza yakhe .
+[566.204]
+<no-speech>
+[568.260]
+<sta> eh maana asiye na lake (()) freshy .
+[571.639]
+<no-speech>
+[572.690]
+<sta> wanawapatia kula unga (()) <sta> ana maana ya kwamba yakhe katika mtu huyo ukimkamata usimpige (()) apeleke polisi yakhe .
+[583.850]
+<sta> huyo askari ametoka hapa <no-speech> yeye (()) toka kuua pia hapa .
+[589.396]
+<no-speech>
+[590.320]
+(()) (()) <no-speech> (()) <no-speech> dada mzigo mzima wewe .
+[606.275]
+<no-speech>
+[607.233]
+wewe mwenyewe askari lakini (()) usiojua wewe <no-speech> yenyewe kuna vitu vingine bwana <sta> welcome (()) unajua kuna vitu (()) <sta> (()) nini (()) <no-speech> (()) ?
+[630.460]
+<no-speech>
+[631.830]
+tuna uvumi jamani ?
+[632.795]
+hapana .
+[633.892]
+tuna uvumi (()) tena ?
+[634.932]
+hapana .
+[635.700]
+(()) <sta> asanteni sana (()) mama yangu .
+[640.198]
+<no-speech>
+[641.822]
+hapo naweka Sogoro pembeni rungu pembeni <sta> (()) tutafanya nini sa hii nywele (()) .
+[648.499]
+<no-speech>
+[649.527]
+umeenda kuweka (()) twendeni tena (()) au sio .
+[652.562]
+<no-speech>
+[654.317]

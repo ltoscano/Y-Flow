@@ -1,0 +1,95 @@
+[0.000]
+<no-speech>
+[1.897]
+<sta> marami sa mga kabataan ngayon panay ang hugot dahil sa mga heartache na kanilang pinagdaraanan .
+[8.000]
+<no-speech>
+[9.331]
+<sta> pero sa kaso ng ilan tila literal ang pagkakaroon nila ng pusong sugatan .
+[14.170]
+<no-speech>
+[15.250]
+<sta> ayon sa Department of Health heart disease <sta> ang nananatiling number one cause of death sa mga Pilipino .
+[21.022]
+at lingid sa kaalaman ng marami hindi lang may mga edad ang pupuwedeng magkaroon nito <sta> kundi maging ang mga may edad thirty years old pababa .
+[29.180]
+<sta> the most common one 'yung coronary heart disease .
+[31.478]
+'yung wherein 'yung nagkakaroon ng bara 'yung mga coronary arteries natin is a beginning to be found among the young people now <sta> .
+[39.102]
+<no-speech>
+[40.509]
+ang pagkakaroon ng heart disease sa murang edad maaaring congenital .
+[45.040]
+<sta> ibig sabihin mayroon na nito pagkapanganak pa lang .
+[48.579]
+pupuwede rin daw acquire at ang pinaka- -- karaniwang sanhi nga ng heart disease sa bata man o matanda ang unhealthy lifestyle .
+[57.550]
+<sta> ngayon kasi teenager pa lang umiinom na naninigarilyo at madalas sa abala sa social media kaya walang exercise .
+[65.890]
+lahat ng mga ito <sta> risk factor daw sa pagkakaroon ng heart disease sa murang edad .
+[70.630]
+napansin namin 'yung mga ganitong klaseng <hes> sakit sa puso among the young people 'yung mga nasa call center agency wherein are <hes> exposed to a lot of stresses din less immobility do'n lang sila sa isang <hes> lugar .
+[84.950]
+<hes> computer lang sila and then they eat a lot <int> .
+[88.510]
+<sta> isa pang- -- risk factor daw ang labis na katabaan .
+[91.857]
+katunayan pabata rin ng <sta> pabata ang mga pumapasok sa kategorya ng pagiging obese .
+[97.201]
+madalas kasi kapag sobra sa timbang ang isang tao marami siyang <sta> bad cholesterol sa katawan .
+[102.683]
+bumabara ito sa mga ugat ng puso na siyang mauuwi sa heart attack .
+[108.070]
+ang mga sintomas ng heart disease sa bata hindi naman daw naiiba sa matatanda .
+[112.874]
+<int> nariyan ang paninikip ng dibdib <no-speech> <sta> madaling mapagod <no-speech> hirap sa paghinga at pagkahilo .
+[121.470]
+<no-speech>
+[123.392]
+<sta> pero mga kapuso alam n'yo ba na may klase pala ng sakit sa puso na walang ipinapakitang sintoma ?
+[129.930]
+<sta> at kapag umatake ito kadalasang nauuwi agad sa kamatayan .
+[133.907]
+kaya nga ang tawag dito sudden arrhythmic death syndrome .
+[137.662]
+<no-speech>
+[139.099]
+<sta> puwede daw itong mangyari sa kahit na sino <breath> <sta> maski sa mga taong may healthy lifestyle .
+[144.969]
+ere ang sports <sta> athletes 'yan na tumatakbo lang marathon biglang at the end of the finish line bumagsak namatay .
+[152.330]
+<sta> so this our patients rarely <hes> happening pero it can .
+[156.170]
+<sta> sa kaso ng sudden arrhythmic death syndrome nagkakaproblema raw sa electrical impulses na dumadaloy sa ating puso dahilan para maging irregular ang tibok nito .
+[167.272]
+ito ang siyang pagmumulan ng mga komplikasyon hanggang sa maging huli na .
+[172.380]
+<sta> number one cause of sudden cardiac death among the young 'yung H_O_C_M 'no hypertrophic cardiomyopathy na tinatawag .
+[179.400]
+'yung kaniyang septum <sta> makapal 'no .
+[182.297]
+<int> itong -- itong kumakapal 'yung loob ng puso 'yung muscle niya .
+[186.170]
+<sta> so <hes> puwede siyang magkaroon ng mga rhythm problem .
+[188.572]
+biglang tumigil ang heart electrical failure <sta> kaya sila namamatay ventricular fibrillation sudden death <int> .
+[194.180]
+<sta> kaya may nararamdaman man o wala kung may kaunting <int> budget naman simulan ng maaga ang regular na pagpapatingin sa cardiologist o eksperto sa puso .
+[206.160]
+<sta> may mga eksaminasyon sila na pupuwedeng gawin para makumpirma kung ang isang tao ay may heart condition <sta> gaya ng electrocardiograph o E_C_G %incomplete
+[216.111]
+(()) malalim hingang malalim ha tapos pigil ha .
+[220.390]
+<sta> o maski ang simpleng pakikinig sa heartbeat gamit ang stethoscope .
+[223.843]
+<no-speech>
+[224.812]
+makakabuting simulan din ng maaga ang pagkakaroon ng healthy lifestyle .
+[228.870]
+<sta> paulit-ulit na po namin itong pinapaalala sa inyo pero hindi kami magsasawa .
+[233.441]
+kumain ng masusustansiya <no-speech> <sta> regular na mag-ehersisyo <no-speech> <sta> at umiwas sa mga bisyo .
+[241.254]
+dahil tandaan mga kapuso napapagod din ang ating puso .
+[245.706]

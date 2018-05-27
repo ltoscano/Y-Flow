@@ -1,0 +1,137 @@
+[0.000]
+<sta> baada ya kutazama kichekesho sasa Mada inaendelea .
+[2.953]
+kwa mfano mimi ukinikosea kama ni barabarani tunamalizana barabarani .
+[6.289]
+unachana live .
+[6.983]
+mimi nakuchana live .
+[8.370]
+<sta> siwezi kusubiri kwamba umenikosea barabarani nikuchane nyumbani .
+[11.497]
+ahh ahh .
+[11.868]
+umenich- -- yaani tumekosana hapa hapa ni hapo hata kama ni kwenye daladala watu wamekaa kimya <sta> tunamalizana hapo kwenye daladala .
+[17.123]
+lengo ni nini ?
+[18.077]
+lengo ni jirekebishe na Watanzania wanasema ujiongeze .
+[21.310]
+<sta> cha msingi ni kwamba ujiongeze hata issue ya (()) haiwezi kuwa hivyo .
+[24.360]
+<sta> kwamba wametajwa hawa watu sijui Namugongo -- sijui kina muhogo .
+[27.495]
+<sta> wametajwa kwamba watu wamefanya nini ?
+[30.560]
+<sta> wame- -- wameaibishwa lengo lake ni kwamba wajirekebishe .
+[33.785]
+mimi naweza kuwa pengine nami mi nimepewa mgao .
+[36.376]
+sasa ule mgao nimeletewa <sta> sijakwenda kuomba kule lakini nimeletewa .
+[40.324]
+je mimi ni mwizi ?
+[41.306]
+wa kwako kwa nini usipeleke wa kwako .
+[43.830]
+wananifahamu mzee unanifahamu .
+[46.030]
+<sta> mzee tumekuletea hizo hapo zitakusaidia . <no-speech> <sta> sasa mimi nindi- -- ni mwizi nini ?
+[50.690]
+<overlap> mwizi shirikishi .
+[52.969]
+kwa nini yule aliyegawa yule asikamatwe ?
+[54.979]
+ni mwizi shirikishi .
+[55.447]
+kwa sababu yule hajafuatwa na issue yoyote .
+[58.030]
+<sta> eh ?
+[58.470]
+yule aliyegawa .
+[59.165]
+lakini wale waliogawiwa wale eh .
+[61.750]
+wameonekana ni wezi .
+[63.203]
+yule aliyegawa vipi ?
+[64.460]
+<sta> kumtaja mtu sio kumwaibisha .
+[66.060]
+nafikiri kumwaibisha <breath> ni mtu pale utakapopelekwa kwenye vyombo vya sheria <breath> apatikane na hatia afungwe ndiyo hapo ameshaaibishwa <sta> tayari .
+[72.781]
+wengine wanasema kuaibisha ni njia ya kuweza kuweza kumrekebisha mtu wengine wanasema kwamba haifai kurekebisha mtu .
+[79.190]
+<sta> sasa tunaona mfumo huu uendelee ama usitishwe katika jamii zetu ?
+[83.950]
+<sta> mama ?
+[84.357]
+huo mfumo uendelee kwa sababu wengine <sta> hawawezi kuwacha tabia mpaka wa- -- waaibishwe .
+[91.540]
+<sta> na kuna mwingine anaweza akajirekebisha tu kwa kuambiwa fanya hivi -- fanya hivi .
+[95.183]
+lakini wengine mpaka waaibishwe .
+[96.854]
+kwa hiyo kuaibishwa kunaweza kubadilisha .
+[99.040]
+<sta> kwa wale ambao hawa- -- hawataki kujirekebisha .
+[101.087]
+ili ujirekebishe inabidi mfumo huo huo uendelee kuaibisha . ukifanya kosa unaaibishwa .
+[107.082]
+ukimkanyanga mtu unatukanwa .
+[108.209]
+kama kawaida .
+[108.964]
+<no-speech>
+[110.111]
+kama kawai- <sta> -- kawaida .
+[111.659]
+wewe huoni watu wanakuwa sugu sasa .
+[113.388]
+<overlap> sio sugu ngoja nikuambie dada yangu sio sugu .
+[115.840]
+<sta> cha msingi tunachotaka sisi watu wafanyaje ?
+[117.996]
+wajirekebishe .
+[118.909]
+<overlap> ukisema kwamba wewe ukinifanyia kosa <sta> tunakuwacha tu .
+[123.212]
+tuangalie tu tukutizame tu tusikuaibishe tukuangalie tu .
+[125.819]
+si unamtonya kipole pole kwamba hapa <sta> kusiwe hapo .
+[128.563]
+ahh ni kutonya kwa sababu ni kutonya haisaidii .
+[130.879]
+kama ingekuwa inasaidia <sta> hivi vitu vingekuwa havipo .
+[133.854]
+<no-speech>
+[134.699]
+kwa sababu <sta> watu wameanza wa -- wameanza ku- -- nani kudhalilishwa au kuaibishwa hadharani muda -- muda mrefu sana lakini kila siku matukio yanatokea <sta> na bado anazidi kuendelea sasa inasaidia nini ?
+[146.763]
+mimi naona haisaidii .
+[147.679]
+mtu kama unataka <sta> hivi vitendo vi- -- yaani vikomeshwe naona tu kuwaelimisha tu .
+[154.520]
+<sta> ni kitu kigumu -- yaani kumuelimisha mtu ni kitu kizuri zaidi kuliko kumuaibisha .
+[158.368]
+watu wanazungumza lakini wanatenganisha wanasema kuna ingine ya kuweka hadharani <sta> kumuaibisha mtu hadharani na kuna ingine ambayo unamwita unamtonya unamwambia kimya kimya .
+[167.281]
+kweli -- kweli kabisa .
+[168.349]
+kwa mfano kama mtu labda jana ni leo amepata amebakisha nguvu ya kumutemea mate <sta> yeye si kusema kwa watu .
+[173.688]
+lakini wakasema mambo ingine ile ya kiserikali unaweka hadharani .
+[177.576]
+mambo ya ndoa -- mambo ya ndoa unaya- <sta> -- ndani -- unayaweka ndani .
+[181.547]
+wamesema hivi .
+[183.035]
+<overlap> sasa wale ambao wanataka kutembelea hii %incomplete
+[186.710]
+<sta> pata hii Mada na wenyewe wachangia wako mbali na television leo hawajaingia kwenye (()) wapate hii fursa .
+[191.853]
+eh ndiyo .
+[192.680]
+<sta> tumbukia kwenye ukurasa yetu ya Facebook pale katika Minibuzz Tanzania unatupata halafu unacomment pale .
+[197.810]
+ni kweli na kwa wale ambayo wangependa kujua .
+[199.763]

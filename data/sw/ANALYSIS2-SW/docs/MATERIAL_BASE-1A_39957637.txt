@@ -1,0 +1,48 @@
+0.000	inLine	<no-speech>
+0.000	outLine	<no-speech>
+0.330	inLine	Westmoor bwana ilikuwa inatunyoa mbele ya kila mtu bwana .
+2.070	outLine	<no-speech>
+2.440	outLine	<no-speech>
+3.580	outLine	<no-speech>
+3.740	inLine	<no-speech>
+4.774	outLine	bwana yaani tulishindwa -- tulishindwa <no-speech> sikujua <no-speech> venye nilisikia kelele ya goal nilidhania watu wa Manchester wameshinda kiti .
+13.040	inLine	<no-speech>
+13.650	outLine	<no-speech>
+14.243	inLine	kumbe ni si tuta %incomplete
+14.470	outLine	cause ilikuwa nje .
+15.339	inLine	<no-speech>
+15.810	outLine	<no-speech>
+16.790	outLine	haya nika- -- nika- -- nika- -- nikabonyeza simu yangu ili niangalie kwa internet kama ni Man_U sababu nilijua ni Man_U nikasema sasa sioni furaha ya kwenda .
+18.440	inLine	<no-speech>
+22.000	inLine	<no-speech>
+22.350	inLine	<no-speech>
+26.532	outLine	<no-speech>
+26.630	inLine	ehhe .
+27.400	inLine	<no-speech>
+28.650	outLine	<sta> <lipsmack> kuangalia kwa simu naona ni kana kwamba si ukweli .
+29.060	inLine	<no-speech>
+29.420	inLine	<no-speech>
+32.250	outLine	<no-speech>
+32.310	inLine	ehhe bwana <laugh> <no-speech> hii kitu bwana %incomplete
+33.610	outLine	<no-speech>
+34.929	outLine	nilishindwa -- nilishindwa .
+35.830	inLine	<no-speech>
+36.920	outLine	<no-speech>
+37.150	inLine	haiya .
+37.890	outLine	kwenda kwa <no-speech> -- kwenda kwa room %incomplete
+38.380	inLine	<no-speech>
+39.810	outLine	<no-speech>
+39.890	inLine	ehhe .
+40.850	outLine	kwenda -- kwenda kwa room nikapata ni hao ndiyo wameongeza na wako wanataka goal ingine .
+41.370	inLine	<no-speech>
+42.890	inLine	<no-speech>
+45.060	inLine	<no-speech>
+45.230	outLine	bado wako serious .
+46.299	outLine	<no-speech>
+46.780	inLine	<no-speech>
+47.980	outLine	<no-speech>
+48.025	inLine	ehhe sasa mahater kama kama akina Willy wana- -- wanasherehekea aje ?
+51.717	inLine	<no-speech>
+53.360	outLine	as in ?
+53.980	inLine	<no-speech>
+54.570

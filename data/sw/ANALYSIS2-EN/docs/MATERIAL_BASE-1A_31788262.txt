@@ -1,0 +1,59 @@
+<1>	(Outline, 0.000-3.100)	na picha za C_C_T_V hazikuchukua mtu yeyote .	and the C_C_T_V footage did not capture anyone .
+<2>	(Inline, 0.000-4.890)	<no-speech>	<no-speech>
+<3>	(Outline, 3.100-4.990)	<no-speech>	<no-speech>
+<4>	(Inline, 4.890-8.990)	ehhe wa- -- wezi -- wezi unafikiria mtu mwizi anakuwanga na akili ndogo kweli ?	mm of -- thieves -- thieves you think a person who is a thief has a small mind really ?
+<5>	(Outline, 4.990-5.400)	(()) .	(()) .
+<6>	(Outline, 5.400-10.250)	<no-speech>	<no-speech>
+<7>	(Inline, 8.990-10.150)	<no-speech>	<no-speech>
+<8>	(Inline, 10.150-14.981)	mwizi si ana- -- ana- -- ananini mwizi ana- -- anatamper .	the thief is -- is -- the thief is -- is tampering .
+<9>	(Outline, 10.250-11.230)	ahh labda wali %incomplete	ahh maybe they %incomplete
+<10>	(Outline, 11.230-12.550)	<no-speech>	<no-speech>
+<11>	(Outline, 12.550-13.510)	alimshoot ?	he shot him ?
+<12>	(Outline, 13.510-22.110)	<no-speech>	<no-speech>
+<13>	(Inline, 14.981-21.127)	<sta> <breath> anaharibu -- anaharibu nini <int> -- hiyo nini ya C_C_T_V .	he is destroying -- he is destroying that -- that thing for the C_C_T_V .
+<14>	(Inline, 21.127-21.810)	anaharibu %incomplete	he destroys %incomplete
+<15>	(Inline, 21.810-23.220)	<no-speech>	<no-speech>
+<16>	(Outline, 22.110-22.894)	ohh .	ohh .
+<17>	(Outline, 22.894-23.556)	labda waliharibu .	maybe they destroyed .
+<18>	(Inline, 23.220-28.120)	si unaharibu kwanza kabla u- -- u- -- u- -- u- -- upore .	first you destroy before -- you plunder .
+<19>	(Outline, 23.556-28.640)	<no-speech>	<no-speech>
+<20>	(Inline, 28.120-29.590)	<no-speech>	<no-speech>
+<21>	(Outline, 28.640-28.998)	ehhe .	mm .
+<22>	(Outline, 28.998-29.721)	by the way ni %incomplete	by the way is %incomplete
+<23>	(Inline, 29.590-31.952)	wengi wao hufunika hata sio lazima uharibu .	many cover them up and it's not even a must for you to destroy them .
+<24>	(Outline, 29.721-30.730)	(()) .	(()) .
+<25>	(Outline, 30.730-36.710)	<no-speech>	<no-speech>
+<26>	(Inline, 31.952-33.294)	si wengi wao wanafunika tu .	not most of them just cover .
+<27>	(Inline, 33.294-34.191)	<no-speech>	<no-speech>
+<28>	(Inline, 34.191-35.690)	si unaweza funika na sellotape .	you can cover with Sellotape .
+<29>	(Inline, 35.690-39.920)	<no-speech>	<no-speech>
+<30>	(Outline, 36.710-37.061)	ehhe .	mm .
+<31>	(Outline, 37.061-38.810)	by the way inaweza funikwa isitoe .	by the way it can be covered it doesn't give .
+<32>	(Outline, 38.810-40.590)	<no-speech>	<no-speech>
+<33>	(Inline, 39.920-40.560)	mmhm .	mmhm .
+<34>	(Inline, 40.560-48.540)	<no-speech>	<no-speech>
+<35>	(Outline, 40.590-40.859)	ehhe .	mm .
+<36>	(Outline, 40.859-42.442)	lakini wamewafanyia vibaya .	but they have done them badly .
+<37>	(Outline, 42.442-51.060)	mpaka nimeona mma- -- mother amecomplain sijui vipuli zenye anai- -- anatoa nchi za nje halafu analeta ndiyo anauza %incomplete	until I have seen -- mother has complained I don't know earrings -- she imports from outside countries and then she brings are the ones she sells %incomplete
+<38>	(Inline, 48.540-56.520)	<no-speech>	<no-speech>
+<39>	(Outline, 51.060-52.018)	wameiba .	they have stolen .
+<40>	(Outline, 52.018-54.980)	mpaka hizo walivunja glass zika- -- wakaiba .	they broke the glass and stole those ones too .
+<41>	(Outline, 54.980-64.270)	<no-speech>	<no-speech>
+<42>	(Inline, 56.520-58.845)	hao waliiba vitu mingi sana .	those ones they stole very many things .
+<43>	(Inline, 58.845-59.458)	waliiba %incomplete	they stole %incomplete
+<44>	(Inline, 59.458-63.520)	wengine hata kuna wenye -- wenye wengine walionyeshwa leo mchana ati waliiba nguo .	there are even others who -- others who were shown today during the day who stole clothes .
+<45>	(Inline, 63.520-64.700)	<no-speech>	<no-speech>
+<46>	(Outline, 64.270-64.834)	eish .	yikes .
+<47>	(Inline, 64.700-65.451)	ehhe .	mm .
+<48>	(Outline, 64.834-67.130)	(()) .	(()) .
+<49>	(Inline, 65.451-68.652)	hizi shanga shanga pete %incomplete	these beads beads ring %incomplete
+<50>	(Outline, 67.130-72.410)	<no-speech>	<no-speech>
+<51>	(Inline, 68.652-71.030)	unajua kuna hizi kuna pete za %incomplete	you know there are these there are rings of %incomplete
+<52>	(Inline, 71.030-72.390)	<no-speech>	<no-speech>
+<53>	(Inline, 72.390-73.950)	pete za harusi hivi .	wedding rings these .
+<54>	(Outline, 72.410-73.080)	ohh .	ohh .
+<55>	(Outline, 73.080-78.400)	<no-speech>	<no-speech>
+<56>	(Inline, 73.950-74.750)	<no-speech>	<no-speech>
+<57>	(Inline, 74.750-75.308)	ehhe .	mm .
+<58>	(Inline, 75.308-76.686)	karibu pete moja %incomplete	nearly one ring %incomplete
+<59>	(Inline, 76.686-78.400)	uliona kama ile ya wale %incomplete	you saw like that one of those %incomplete

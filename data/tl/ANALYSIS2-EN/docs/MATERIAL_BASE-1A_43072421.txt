@@ -1,0 +1,57 @@
+<1>	(0.000-3.610)	<no-speech>	<no-speech>
+<2>	(3.610-6.136)	ndugu katibu mkuu maswala ya uchumi .	brother general secretary economic issues .
+<3>	(6.136-7.340)	<no-speech>	<no-speech>
+<4>	(7.340-14.410)	tulikaa tukafikiria katika mkoa wetu ni mazao gani yanayostahimili hali ya hewa ya mkoa wetu .	we sat and thought in our province which produce withstands the weather condition of our region .
+<5>	(14.410-23.147)	kwa chakula tukasema ni mtama uwele <no-speech> viazi vitamu mhogo maharagwe .	for food we said sorghum millet sweet potatoes cassava beans .
+<6>	(23.147-30.925)	uzalishaji <no-speech> mwaka elfu mbili na tano tuliweza kuzalisha tani <no-speech> elfu themanini na tano .	production the year two thousand and five we were able to produce thirty-five thousand tons .
+<7>	(30.925-31.955)	<no-speech>	<no-speech>
+<8>	(31.955-44.680)	mwaka huu tumezalisha tani laki moja sabini na mbili elfu mia sita tisini na sita <breath> ikiwa ni ongezeko la asilimia mia moja na tatu .	this year we have produced one hundred and seventy-two thousand six hundred and ninety-six tons being an increment of one hundred and three percent .
+<9>	(44.680-46.241)	uwele .	sorghum .
+<10>	(46.241-47.583)	<no-speech>	<no-speech>
+<11>	(47.583-56.880)	tulizalisha tani themanini mwaka huu tumezalisha tani laki moja themanini elfu mia mbili sabini .	we produced thirty thousand tons this year we have produced one hundred and eighty thousand two hundred and seventy tons .
+<12>	(56.880-61.816)	ongezeko la asilimia mia moja ishirini na tano .	an increment of one hundred and twenty-five percent .
+<13>	(61.816-63.140)	<no-speech>	<no-speech>
+<14>	(63.140-64.228)	tulibainisha %incomplete	we ascertained %incomplete
+<15>	(64.228-80.170)	kwa upande wa viazi <no-speech> mwaka huo tulizalisha tani elfu kumi na tano mia tatu arobaini na tatu mwaka huu tumezalisha tani laki moja arobaini na moja elfu mia moja arobaini na nane .	for potatoes that year we produced fifteen thousand five hundred and forty-three tons this year we have produced one hundred and forty one thousand one hundred and forty-eight tons .
+<16>	(80.170-93.963)	muhogo tulizalisha tani elfu moja mia nne sabini na saba <breath> mwaka huu tumezalisha tani la- -- ishirini na sita elfu mia saba sabini na <no-speech> mia saba sabini na nane .	for cassavas we produced one thousand four hundred and seventy-seven tons this year we have produced -- twenty six thousand seven hundred and seventy and -- seven hundred and seventy-eight tons .
+<17>	(93.963-98.111)	ongezeko la asilimia elfu moja mia saba kumi na mbili .	an increment of one thousand seven hundred and twelve percent .
+<18>	(98.111-99.310)	<no-speech>	<no-speech>
+<19>	(99.310-100.815)	mazao ya biashara .	commercial produce .
+<20>	(100.815-104.116)	alizeti ndiyo zao letu kuu la biashara .	sunflower is our main commercial crop .
+<21>	(104.116-105.130)	<no-speech>	<no-speech>
+<22>	(105.130-112.299)	mwaka elfu mbili na tano tuliweza kuzalisha tani elfu ishirini na nane <breath> mia tisa kumi na saba .	the year two thousand and five we were able to produce twenty-eight thousand nine hundred and seventeen .
+<23>	(112.299-113.290)	<no-speech>	<no-speech>
+<24>	(113.290-122.401)	kwa msimu uliopita tulizalisha tani laki mbili elfu mbili <no-speech> mia nane na nane .	for the past season we produced two hundred and two thousand eight hundred and eight tons .
+<25>	(122.401-125.825)	ongezeko la asilimia mia sita na moja .	an increment of six hundred and one percent .
+<26>	(125.825-126.833)	<no-speech>	<no-speech>
+<27>	(126.833-127.659)	pamba .	cotton .
+<28>	(127.659-140.183)	kutoka tani mia mbili hamsini mpaka tani <no-speech> elfu mbili mia saba thelathini na saba ongezeko la asilimia mia tisa <no-speech> tisini na tano .	from two hundred and fifty tons to two thousand seven hundred and thirty-seven tons an increment of nine hundred and ninety five .
+<29>	(140.183-141.184)	<no-speech>	<no-speech>
+<30>	(141.184-144.151)	vitunguu tani elfu nane .	eight thousand tons of onion .
+<31>	(144.151-153.250)	tumezalisha sasa tani laki tatu -- tumezalisha tani elfu thelathini na nane mia tatu tisini na tano .	we are currently producing three hundred thousand tons -- we have produced thirty-eight thousand three hundred and ninety five tons .
+<32>	(153.250-167.287)	<breath> ongezeko la asilimia mia tatu ishirini na nane <no-speech> asali tani elfu ishirini na -- elfu sitini na tano <breath> <no-speech> ambaye ni ongezeko la asilimia ishirini na moja .	an increment of three hundred and twenty-eight percent honey twenty-five thousand -- sixty-five thousand which is an increment of twenty-one percent .
+<33>	(167.287-169.285)	<no-speech>	<no-speech>
+<34>	(169.285-183.250)	ndugu katibu mkuu kwa hali hiyo <no-speech> utaona kwamba tulichagua mazao sahihi kwa chakula na kwa biashara <no-speech> mtu anavuna chakula hapo hapo anavuna fedha .	brother Secretary-General in that situation you will realize that we selected appropriate crops for food and for commercial one harvests their produce the same place they harvest money .
+<35>	(183.250-190.750)	ndiyo hayo mabadiliko uliyoyaona ya nyumba bora tukaanzisha operation ondoa tembe .	those are the changes that you saw of a good house we started the operations to eradicate drugs .
+<36>	(190.750-193.781)	na ndiyo maana tulikataa chakula cha msaada .	and that is why we rejected food aid .
+<37>	(193.781-200.908)	na kwa mwaka huu <no-speech> kwenye kikao cha R_C_C <breath> tulisema hatutakuwa na njaa .	and for this year in a R_C_C's meeting we said we will not have hunger .
+<38>	(200.908-204.220)	<no-speech>	<no-speech>
+<39>	(204.220-217.067)	mheshimiwa <no-speech> ndugu katibu mkuu kutokana na hicho kilimo <no-speech> na uanzishwaji wa migodi wachimbaji wadogo wadogo <no-speech> <breath> pato la mkoa limeongezeka .	honorable brother Secretary-General from the agriculture and the establishment of mines small scale miners the output of the region has increased .
+<40>	(217.067-218.170)	<no-speech>	<no-speech>
+<41>	(218.170-230.445)	mwaka elfu mbili na tano <no-speech> tuliambiwa pato la mkoa <no-speech> ni million mia mbili tisini na mbili <no-speech> laki saba na sabini na nane elfu .	the year two thousand and five we were told the revenue of the province is two hundred and ninety-two million and seven hundred and seventy-eight thousand .
+<42>	(230.445-231.471)	<no-speech>	<no-speech>
+<43>	(231.471-239.464)	hadi mwaka huu <no-speech> pato la mkoa <no-speech> ni mia nane hamsini na nne milioni .	until this year the region's revenue is eight hundred and fifty-four million .
+<44>	(239.464-242.640)	<no-speech>	<no-speech>
+<45>	(242.640-249.770)	<no-speech>	<no-speech>
+<46>	(249.770-277.878)	kwa hivyo pato la wananchi -- la mkoa imeongezeka mpaka million mia nane hamsini na nne <no-speech> <breath> pato la mwananchi wa Singida limeongezeka kwa asilimia mia tatu <breath> (()) kwa asilimia elfu tatu <no-speech> <breath> budget ya mkoa imeongezeka kutoka <no-speech> shilingi billion kumi na nane kufika billion mia moja thelathini .	therefore the output of the population -- of the region has increased to eight hundred and fifty-four million per capita income for Singida has increased by three hundred (()) by three thousand percent the regional budget has increased from eighteen billion to one hundred and thirty billion .
+<47>	(277.878-279.070)	<no-speech>	<no-speech>
+<48>	(279.070-288.220)	mawasiliano imeongezeka barabara ya lami kutoka kilometre sufuri mpaka kilometre mia nne <no-speech> na tatu .	networks have increased tarmac road from zero kilometers to four hundred and three kilometers .
+<49>	(288.220-290.760)	<no-speech>	<no-speech>
+<50>	(290.760-296.073)	mawasiliano imeongezeka hadi kufikia asilimia tisini na nne .	communication has increased to ninety-four percent .
+<51>	(296.073-297.273)	<no-speech>	<no-speech>
+<52>	(297.273-321.041)	mwisho napenda kuchukua nafasi hii tena kuwapongeza viongozi wa chama tawala walivyoisimamia serikali ya mkoa katika utekelezaji wa ila ni ya C_C_M niwapongeze watumishi na viongozi wa serikali wakiongozwa na wakuu wa wilaya na wakurugenzi na wenyeviti wa halmashauri .	lastly I would like to take this opportunity once again to congratulate leaders of the ruling party for standing with the regional government in the implementation of C_C_M's manifesto let me congratulate workers and leaders of the government being led by district commissioners directors and chairmen of councils .
+<53>	(321.041-330.254)	<breath> mwisho ndugu katibu baba wa taifa aliwahi -- aliwahi kusema inawezekana himiza wajibu wako .	lastly brother secretary father of the nation once -- once said it is possible to actualize your responsibility .
+<54>	(330.254-331.370)	<no-speech>	<no-speech>
+<55>	(331.370-342.410)	John F Kennedy aliwahi kusema usiseme nchi yangu itafany- -- itanifanyia nini ila useme nitaifanyia nini nchi yangu ?	John F Kennedy once said don't say what will my country do -- do for me but say what will I do for my country ?
+<56>	(342.410-346.225)	ndivyo walivyosema wananchi wa Singida .	that's what the Singida residents said .
+<57>	(346.225-348.215)	<no-speech>	<no-speech>

@@ -1,0 +1,54 @@
+0.000	outLine	<no-speech>
+0.000	inLine	<no-speech>
+0.350	outLine	tulikuwa tumeenda tu baharini <int> tulienda kule south Coast .
+3.000	inLine	mmhm sehemu gani hiyo ?
+4.520	inLine	<no-speech>
+7.526	outLine	<no-speech>
+8.180	inLine	mmhm .
+8.890	inLine	<no-speech>
+10.157	outLine	<int> ehhe .
+11.060	outLine	tulienda kuogelea %incomplete
+13.300	inLine	mmhm .
+13.400	outLine	<no-speech>
+14.080	inLine	<no-speech>
+14.950	outLine	<int> tukaogelea tu mpaka jioni %incomplete
+15.900	inLine	<no-speech>
+16.300	inLine	<no-speech>
+18.190	outLine	<no-speech>
+19.000	inLine	kwa hivyo mlishindwa kuogelea siku mzima ?
+19.130	outLine	halo .
+19.730	outLine	<no-speech>
+21.290	inLine	<no-speech>
+21.590	outLine	tulishinda kuogelea tuliingia maji <int> majini saa nane .
+26.760	inLine	mmhm .
+26.810	outLine	<no-speech>
+27.480	inLine	<no-speech>
+28.090	outLine	<int> mmhm tukaogelea mpaka saa kumi halafu ndiyo %incomplete
+30.770	outLine	<no-speech>
+31.780	inLine	mmhm .
+31.790	outLine	ikafika saa kumi na -- mpaka saa kumi tukatoka majini tukacool tukazunguka tu kidogo tukiona maji halafu ilipofika saa kumi na mbili ndiyo tukachukua gari tukakuja nyumbani .
+32.400	inLine	<no-speech>
+36.660	inLine	mmhm .
+37.390	inLine	<no-speech>
+42.040	inLine	mmhm .
+42.650	inLine	<no-speech>
+46.770	outLine	<no-speech>
+47.270	inLine	uka- -- ndiyo ukamtarajia nyumbani ?
+48.990	outLine	<sta> ehhe .
+49.160	inLine	<no-speech>
+49.997	outLine	<no-speech>
+50.890	inLine	mmhm na labda unielezee kazi yako kazi yako huwa unafanya kazi aina gani ?
+51.430	outLine	<no-speech>
+55.250	outLine	<int> (()) .
+55.310	inLine	<no-speech>
+56.830	inLine	wajihusisha na nini ?
+57.350	outLine	<no-speech>
+58.270	inLine	<no-speech>
+58.720	outLine	<no-speech>
+60.060	outLine	ehhe <no-speech> mi nafanya kwa wakili .
+63.710	outLine	<no-speech>
+64.220	inLine	mmhm .
+65.020	outLine	ehhe .
+65.020	inLine	<no-speech>
+65.512	outLine	<no-speech>
+66.330

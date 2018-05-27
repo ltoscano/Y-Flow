@@ -1,0 +1,22 @@
+<1>	HEALTH FRONTIERS: Alamin ang dahilan Ano ang dapat gawin kapag may low blood?	health frontiers: know the reasons know what to do when you have low blood?
+<2>	Dapat malaman muna kung ano ang dahilan nito para gamutin ang sakit mo.	you should first know the cause of this to cure your illness.
+<3>	Kadalasan ang low blood pressure o hypotension ay dala ng pagbubuntis, sakit sa puso, problema sa thyroid, low blood sugar (hypogly­cemia) at diabetes.	low blood pressure or hypertension is usually due to pregnancy, heart illness, thyroid problem, low blood sugar (hypoglycemia) and diabetes.
+<4>	Pwede rin makuha ang low blood kung kulang ka sa tubig (dehydration) na maaring magdulot ng pagkapagod, pagkahilo at kahinaan.	low blood could also be acquired if you are lacking in water (dehydration) that could cause tiredness, dizziness and weakness.
+<5>	Ganito rin ang epekto ng lagnat, diarrhea, at sobrang exercise.	this is also the effect of fever, diarrhea, and excessive stress.
+<6>	Kung may malaking sugat o external injury at nawalan ng maraming dugo, low blood din ang bagsak mo.	if you have a large wound or external injury and loss a lot of blood, you will also end up low blood.
+<7>	Ang iba pang dahilan nito ay impeksiyon (septicemia) o severe allergic reaction (anaphylaxis).	other causes are infections (septicemia) or severe allergic reaction (anaphylaxis).
+<8>	Nangyayari ito kapag allergic ka sa isang pagkain, gamot o insekto.	this happens when you are allergic in a certain food, medicine or insect.
+<9>	Ang taong kulang sa vitamins B-12 at folate ay maari rin magka-low blood.	a person who has insufficient b-12 and folate can also have low blood.
+<10>	Ganito rin ang dulot ng ilang gamot tulad ng diuretics (water pills) na furosemide at hydrochlorothiazide; mga alpha blockers tulad ng prazosin at labetalol; beta blockers na atenolol, propranolol at timolol, mga gamot sa Parkinson’s disease na pramipexole o levodopa; mga antidepressants tulad ng doxepin, imipramine, protriptyline at trimipramine; at mga gamot sa erectile dysfunction na sildenafil at tadalafil.	this could also be caused by some medicines like diuretics (water pills) that are furosemide and hydrochlorothiazide; alpha blockers like prazosin and labetalol; beta blockers like atenolol, propranolol at timolol, medicines for Parkinson's disease like pramipexole or levodopa; antidepressants like doxepin, imipramine, protriptyline and trimipramine; medicines for erectile dysfunction like sildenafil and tadalafil.
+<11>	Kapag walang sintomas, hindi na kailangan gamutin ang low blood.	if there are no symptoms, there is no need to cure low blood.
+<12>	Kapag nahihilo, nasusuka, malabo ang paningin, mabilis ang paghinga, maputla, malamig ang kamay.	if you're dizzy, nauseous, blurry vision, quickly gets tired, pale, cold hands.
+<13>	madaling mapagod, at uhaw lagi, pumunta agad sa doktor.	easily gets tired, and always thirsty. immediately go to a doctor.
+<14>	Kung gamot ang dahilan ng low blood, ­maaring palitan o ihinto ito.	if medicine is the cause of low blood, you could replace it or stop taking it.
+<15>	Kung hindi malaman ang dahilan, itataas ng doktor ang blood pressure sa pamamagitan ng sumusunod:Dagdagan ang paggamit ng asin sa pagkain.	if the cause is unknown, the doctor will increase blood pressure by doing the following: increase the usage of salt in food.
+<16>	Uminom ng maraming tubig at bawasan ang alak.	drink plenty of water and avoid liquor.
+<17>	Magsuot ng compression stocking na mabibili sa botika.	wear compression stockings that could be bought in drugstores.
+<18>	Maaring resetahan ka ng fludrocortisone o midodrine para tumaas ang blood pressure.	you could be prescribed with fludrocortisone or midodrine to increase blood pressure.
+<19>	­Kumain ng husto lalo ng whole grains, prutas, gulay, manok at isda.	eat right especially whole grains, fruits, vegetables, chicken and fish.
+<20>	Kumilos ng ­mahinay kapag nagpapalit ng ­posisyon.	gently move when changing positions.
+<21>	Dahan-dahan sa pagtayo at pag-bangon.	slowly stand up or when waking up.
+<22>	Kapag nahihilo ‘pag ­nakatayo, cross your thighs in a ­scissors ­fashion and squeeze para madagdagan ang daloy ng dugo sa puso.	when experiencing dizziness when standing, cross your thighs in a scissor-fashion and squeeze to increase the flow of blood in the heart.

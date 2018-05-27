@@ -1,0 +1,160 @@
+<1>	(Outline, 0.000-3.195)	<no-speech>	<no-speech>
+<2>	(Inline, 0.000-3.520)	<no-speech>	<no-speech>
+<3>	(Outline, 3.195-5.247)	<no-speech>	<no-speech>
+<4>	(Inline, 3.520-3.990)	za ?	of ?
+<5>	(Inline, 3.990-5.210)	<no-speech>	<no-speech>
+<6>	(Inline, 5.210-5.940)	ehhe <int> ?	mm ?
+<7>	(Outline, 5.247-6.582)	sawa niko poa .	alright I am fine .
+<8>	(Inline, 5.940-7.480)	<no-speech>	<no-speech>
+<9>	(Outline, 6.582-11.452)	<no-speech>	<no-speech>
+<10>	(Inline, 7.480-9.890)	ohh unase- -- ehhe saa hii unafanya nini ?	ohh -- mm what are you doing now ?
+<11>	(Inline, 9.890-13.320)	<no-speech>	<no-speech>
+<12>	(Outline, 11.452-12.087)	saa hizi ?	at this time ?
+<13>	(Outline, 12.087-14.595)	<no-speech>	<no-speech>
+<14>	(Inline, 13.320-13.880)	ahh .	ahh .
+<15>	(Inline, 13.880-20.590)	<no-speech>	<no-speech>
+<16>	(Outline, 14.595-19.540)	siku hizi hakuna jobs ninafanya bado ni <no-speech> student tu .	these days there are no jobs I am doing I am just a student .
+<17>	(Outline, 19.540-20.605)	<no-speech>	<no-speech>
+<18>	(Inline, 20.590-28.640)	ahh na mmependa timu gani <no-speech> -- timu gani katika <no-speech> -- katika ligi kuu ya unge- -- Uingereza ?	ahh and which team do you like -- which team in -- in the premier league of -- England ?
+<19>	(Outline, 20.605-21.775)	<no-speech>	<no-speech>
+<20>	(Outline, 21.775-23.445)	<no-speech>	<no-speech>
+<21>	(Outline, 23.445-24.915)	<no-speech>	<no-speech>
+<22>	(Outline, 24.915-26.679)	<no-speech>	<no-speech>
+<23>	(Outline, 26.679-27.185)	ati ?	pardon ?
+<24>	(Outline, 27.185-28.275)	<no-speech>	<no-speech>
+<25>	(Outline, 28.275-30.235)	<no-speech>	<no-speech>
+<26>	(Inline, 28.640-33.540)	<no-speech>	<no-speech>
+<27>	(Outline, 30.235-32.894)	mi huwa ni wa Manchester city .	me I am usually of Manchester City .
+<28>	(Outline, 32.894-40.205)	<no-speech>	<no-speech>
+<29>	(Inline, 33.540-34.670)	(()) .	(()) .
+<30>	(Inline, 34.670-35.880)	<no-speech>	<no-speech>
+<31>	(Inline, 35.880-39.260)	nase- -- taja wachezaji watano kutoka timu hiyo ?	-- mention five players from that team ?
+<32>	(Inline, 39.260-42.590)	<no-speech>	<no-speech>
+<33>	(Outline, 40.205-41.672)	kwa hiyo team ?	from that team ?
+<34>	(Outline, 41.672-44.196)	<no-speech>	<no-speech>
+<35>	(Inline, 42.590-43.150)	ndiyo .	yes .
+<36>	(Inline, 43.150-47.390)	<no-speech>	<no-speech>
+<37>	(Outline, 44.196-50.763)	ohh wa kwanza ni Joe Hart <no-speech> wa pili ni Samir Nasir .	ohh of first is Joe Hart of second is Samir Nasir .
+<38>	(Inline, 47.390-48.010)	ehhe .	mm .
+<39>	(Inline, 48.010-51.650)	<no-speech>	<no-speech>
+<40>	(Outline, 50.763-52.145)	<no-speech>	<no-speech>
+<41>	(Inline, 51.650-52.220)	ehhe .	mm .
+<42>	(Outline, 52.145-54.744)	wa tatu ni David Silva %incomplete	of the third is David Silva %incomplete
+<43>	(Inline, 52.220-55.490)	<no-speech>	<no-speech>
+<44>	(Outline, 54.744-56.867)	<no-speech>	<no-speech>
+<45>	(Inline, 55.490-55.990)	ehhe .	mm .
+<46>	(Inline, 55.990-58.060)	<no-speech>	<no-speech>
+<47>	(Outline, 56.867-57.546)	ehhe ?	mm ?
+<48>	(Outline, 57.546-60.128)	<no-speech>	<no-speech>
+<49>	(Inline, 58.060-59.240)	yeah nasikia .	yeah I hear .
+<50>	(Inline, 59.240-62.320)	<no-speech>	<no-speech>
+<51>	(Outline, 60.128-61.657)	wa- -- wa nne %incomplete	the -- the fourth %incomplete
+<52>	(Outline, 61.657-64.035)	<no-speech>	<no-speech>
+<53>	(Inline, 62.320-62.900)	sasa .	now .
+<54>	(Inline, 62.900-65.850)	<no-speech>	<no-speech>
+<55>	(Outline, 64.035-64.928)	unanisikia ?	do you hear me ?
+<56>	(Outline, 64.928-69.717)	<no-speech>	<no-speech>
+<57>	(Inline, 65.850-68.260)	ahh na sijakusikia vizuri o- -- ongea tu .	ahh and I haven't heard you well -- just talk .
+<58>	(Inline, 68.260-73.050)	<no-speech>	<no-speech>
+<59>	(Outline, 69.717-73.505)	ahh wa nne ni Milner .	the fourth is Milner .
+<60>	(Inline, 73.050-73.940)	ehhe .	mm .
+<61>	(Outline, 73.505-74.906)	<no-speech>	<no-speech>
+<62>	(Inline, 73.940-79.060)	<no-speech>	<no-speech>
+<63>	(Outline, 74.906-78.122)	wa tano ni Aguero .	the fifth is Aguero .
+<64>	(Outline, 78.122-79.205)	<no-speech>	<no-speech>
+<65>	(Inline, 79.060-82.430)	ohh na saa hizi uko katika nambari -- nambari gani ?	ohh and now this time you're on number -- which number ?
+<66>	(Outline, 79.205-82.005)	<no-speech>	<no-speech>
+<67>	(Outline, 82.005-84.129)	<no-speech>	<no-speech>
+<68>	(Inline, 82.430-85.660)	<no-speech>	<no-speech>
+<69>	(Outline, 84.129-88.305)	kwa ligi tuko number four .	on the league we are number four .
+<70>	(Inline, 85.660-86.570)	ehhe .	mm .
+<71>	(Inline, 86.570-88.920)	<no-speech>	<no-speech>
+<72>	(Outline, 88.305-91.005)	<no-speech>	<no-speech>
+<73>	(Inline, 88.920-93.600)	ehhe na kama unaona vizuri una -- unaweza chukua ligi kama ulichukua mwaka jana ?	mm and if you see well -- you can take the league like you took last year ?
+<74>	(Outline, 91.005-94.735)	<no-speech>	<no-speech>
+<75>	(Inline, 93.600-97.070)	<no-speech>	<no-speech>
+<76>	(Outline, 94.735-95.723)	ndiyo tunaweza .	yes we can .
+<77>	(Outline, 95.723-98.685)	<no-speech>	<no-speech>
+<78>	(Inline, 97.070-100.660)	ahh uko na ukweli <hes> wa- -- wa aina -- ya kiwango gani ?	ahh are you sure of -- of kind -- of what level ?
+<79>	(Outline, 98.685-100.195)	<no-speech>	<no-speech>
+<80>	(Outline, 100.195-102.062)	<no-speech>	<no-speech>
+<81>	(Inline, 100.660-101.700)	<no-speech>	<no-speech>
+<82>	(Inline, 101.700-102.160)	<no-speech>	<no-speech>
+<83>	(Outline, 102.062-106.402)	one hundred per- -- one hundred percent -- you are sure sure one hundred percent ?	one hundred per -- one hundred percent -- you are sure sure one hundred percent ?
+<84>	(Inline, 102.160-104.950)	<no-speech>	<no-speech>
+<85>	(Inline, 104.950-106.395)	(()) .	(()) .
+<86>	(Inline, 106.395-107.736)	<no-speech>	<no-speech>
+<87>	(Outline, 106.402-111.365)	<no-speech>	<no-speech>
+<88>	(Inline, 107.736-109.030)	ahh hiyo ni vizuri .	ahh that is good .
+<89>	(Inline, 109.030-110.060)	<no-speech>	<no-speech>
+<90>	(Inline, 110.060-122.130)	ehhe mi ni wa Arsenal <no-speech> <hes> na <int> najua tuta- -- tutapandana na we kabisa hata kama unasema uko wa asilimia mia moja .	mm me I am of Arsenal and I know -- we will climb with you completely even if you say you're at one hundred percent .
+<91>	(Outline, 111.365-112.315)	<no-speech>	<no-speech>
+<92>	(Outline, 112.315-113.534)	ehhe .	mm .
+<93>	(Outline, 113.534-115.755)	<no-speech>	<no-speech>
+<94>	(Outline, 115.755-116.805)	<no-speech>	<no-speech>
+<95>	(Outline, 116.805-117.305)	<no-speech>	<no-speech>
+<96>	(Outline, 117.305-118.405)	<no-speech>	<no-speech>
+<97>	(Outline, 118.405-123.023)	<no-speech>	<no-speech>
+<98>	(Inline, 122.130-123.730)	<no-speech>	<no-speech>
+<99>	(Outline, 123.023-123.865)	ehhe .	mm .
+<100>	(Inline, 123.730-125.430)	lazima tushinde hiyo game .	we must win that game .
+<101>	(Outline, 123.865-124.745)	<no-speech>	<no-speech>
+<102>	(Outline, 124.745-126.799)	<no-speech>	<no-speech>
+<103>	(Inline, 125.430-129.040)	<no-speech>	<no-speech>
+<104>	(Outline, 126.799-127.961)	lakini hamwezi .	but you can't .
+<105>	(Outline, 127.961-131.329)	<no-speech>	<no-speech>
+<106>	(Inline, 129.040-134.000)	<laugh> kwa nini unasema hatuwezi <no-speech> si pia ni wachezaji ka %incomplete	why do you say we can't they are just players like %incomplete
+<107>	(Outline, 131.329-135.315)	<laugh> bado hamwezi juu %incomplete	you still can't because %incomplete
+<108>	(Inline, 134.000-135.330)	<no-speech>	<no-speech>
+<109>	(Outline, 135.315-136.315)	<no-speech>	<no-speech>
+<110>	(Inline, 135.330-135.990)	ehhe .	mm .
+<111>	(Inline, 135.990-142.400)	<no-speech>	<no-speech>
+<112>	(Outline, 136.315-141.584)	okay unitajie maplayers tano kutoka team ya Arsenal .	okay mention for me five players from the Arsenal team .
+<113>	(Outline, 141.584-143.990)	<no-speech>	<no-speech>
+<114>	(Inline, 142.400-143.060)	ehhe .	mm .
+<115>	(Inline, 143.060-145.810)	<no-speech>	<no-speech>
+<116>	(Outline, 143.990-144.820)	wa kwanza ?	the first ?
+<117>	(Outline, 144.820-147.175)	<no-speech>	<no-speech>
+<118>	(Inline, 145.810-146.420)	ehhe .	mm .
+<119>	(Inline, 146.420-149.160)	<no-speech>	<no-speech>
+<120>	(Outline, 147.175-148.037)	wa pili ?	the second ?
+<121>	(Outline, 148.037-150.739)	<no-speech>	<no-speech>
+<122>	(Inline, 149.160-149.770)	ehhe .	mm .
+<123>	(Inline, 149.770-153.180)	<no-speech>	<no-speech>
+<124>	(Outline, 150.739-152.156)	nimesema unitajie ama ?	I have said you mention for me or ?
+<125>	(Outline, 152.156-153.335)	<no-speech>	<no-speech>
+<126>	(Inline, 153.180-155.000)	ehhe si umesema (()) ?	mm did you say (()) ?
+<127>	(Outline, 153.335-154.585)	<no-speech>	<no-speech>
+<128>	(Outline, 154.585-155.697)	<no-speech>	<no-speech>
+<129>	(Inline, 155.000-157.080)	<no-speech>	<no-speech>
+<130>	(Outline, 155.697-156.144)	ehhe .	mm .
+<131>	(Outline, 156.144-157.685)	<no-speech>	<no-speech>
+<132>	(Inline, 157.080-159.300)	ehhe si wa kwanza %incomplete	mm he's not the first %incomplete
+<133>	(Outline, 157.685-158.875)	<no-speech>	<no-speech>
+<134>	(Outline, 158.875-164.083)	<no-speech>	<no-speech>
+<135>	(Inline, 159.300-166.200)	<no-speech>	<no-speech>
+<136>	(Outline, 164.083-164.691)	yes ?	yes ?
+<137>	(Outline, 164.691-166.345)	<no-speech>	<no-speech>
+<138>	(Inline, 166.200-168.090)	ehhe sema u- -- unajua %incomplete	mm say -- you know %incomplete
+<139>	(Outline, 166.345-167.635)	<no-speech>	<no-speech>
+<140>	(Outline, 167.635-168.741)	<no-speech>	<no-speech>
+<141>	(Inline, 168.090-169.840)	<no-speech>	<no-speech>
+<142>	(Outline, 168.741-169.303)	yes ?	yes ?
+<143>	(Outline, 169.303-177.593)	<no-speech>	<no-speech>
+<144>	(Inline, 169.840-177.070)	ehhe sa- -- sasa niko -- niko -- nimeko- -- ni- -- ni- -- nimekuwa kwa hali ya kazi nitakwambia (()) baadaye <no-speech> hiyo .	mm -- now I am -- I have been busy with work I'll tell you (()) later that .
+<145>	(Inline, 177.070-179.100)	<no-speech>	<no-speech>
+<146>	(Outline, 177.593-179.195)	Ramsey ?	Ramsey ?
+<147>	(Inline, 179.100-181.720)	hali -- hali ya hewa huko niaje ?	the condition -- how is the weather condition ?
+<148>	(Outline, 179.195-181.325)	<no-speech>	<no-speech>
+<149>	(Outline, 181.325-183.609)	<no-speech>	<no-speech>
+<150>	(Inline, 181.720-186.080)	<no-speech>	<no-speech>
+<151>	(Outline, 183.609-185.270)	kuna baridi kiasi %incomplete	there is some cold %incomplete
+<152>	(Outline, 185.270-187.618)	<no-speech>	<no-speech>
+<153>	(Inline, 186.080-186.740)	uhuh .	no .
+<154>	(Inline, 186.740-193.830)	<no-speech>	<no-speech>
+<155>	(Outline, 187.618-189.502)	jana ehhe -- ehhe .	yesterday mm mm .
+<156>	(Outline, 189.502-192.505)	<no-speech>	<no-speech>
+<157>	(Outline, 192.505-193.985)	halo ?	hello ?
+<158>	(Inline, 193.830-195.120)	ahh nakusikia .	ahh I hear you .
+<159>	(Outline, 193.985-195.815)	<no-speech>	<no-speech>
+<160>	(Inline, 195.120-195.815)	<no-speech>	<no-speech>

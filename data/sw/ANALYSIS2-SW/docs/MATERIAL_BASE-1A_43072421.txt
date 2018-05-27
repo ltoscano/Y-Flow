@@ -1,0 +1,115 @@
+[0.000]
+<no-speech>
+[3.610]
+ndugu katibu mkuu maswala ya uchumi .
+[6.136]
+<no-speech>
+[7.340]
+tulikaa tukafikiria katika mkoa wetu ni mazao gani yanayostahimili hali ya hewa ya mkoa wetu .
+[14.410]
+kwa chakula tukasema ni mtama uwele <no-speech> viazi vitamu mhogo maharagwe .
+[23.147]
+uzalishaji <no-speech> mwaka elfu mbili na tano tuliweza kuzalisha tani <no-speech> elfu themanini na tano .
+[30.925]
+<no-speech>
+[31.955]
+mwaka huu tumezalisha tani laki moja sabini na mbili elfu mia sita tisini na sita <breath> ikiwa ni ongezeko la asilimia mia moja na tatu .
+[44.680]
+uwele .
+[46.241]
+<no-speech>
+[47.583]
+tulizalisha tani themanini mwaka huu tumezalisha tani laki moja themanini elfu mia mbili sabini .
+[56.880]
+ongezeko la asilimia mia moja ishirini na tano .
+[61.816]
+<no-speech>
+[63.140]
+tulibainisha %incomplete
+[64.228]
+kwa upande wa viazi <no-speech> mwaka huo tulizalisha tani elfu kumi na tano mia tatu arobaini na tatu mwaka huu tumezalisha tani laki moja arobaini na moja elfu mia moja arobaini na nane .
+[80.170]
+muhogo tulizalisha tani elfu moja mia nne sabini na saba <breath> mwaka huu tumezalisha tani la- -- ishirini na sita elfu mia saba sabini na <no-speech> mia saba sabini na nane .
+[93.963]
+ongezeko la asilimia elfu moja mia saba kumi na mbili .
+[98.111]
+<no-speech>
+[99.310]
+mazao ya biashara .
+[100.815]
+alizeti ndiyo zao letu kuu la biashara .
+[104.116]
+<no-speech>
+[105.130]
+mwaka elfu mbili na tano tuliweza kuzalisha tani elfu ishirini na nane <breath> mia tisa kumi na saba .
+[112.299]
+<no-speech>
+[113.290]
+kwa msimu uliopita tulizalisha tani laki mbili elfu mbili <no-speech> mia nane na nane .
+[122.401]
+ongezeko la asilimia mia sita na moja .
+[125.825]
+<no-speech>
+[126.833]
+pamba .
+[127.659]
+kutoka tani mia mbili hamsini mpaka tani <no-speech> elfu mbili mia saba thelathini na saba ongezeko la asilimia mia tisa <no-speech> tisini na tano .
+[140.183]
+<no-speech>
+[141.184]
+vitunguu tani elfu nane .
+[144.151]
+tumezalisha sasa tani laki tatu -- tumezalisha tani elfu thelathini na nane mia tatu tisini na tano .
+[153.250]
+<breath> ongezeko la asilimia mia tatu ishirini na nane <no-speech> asali tani elfu ishirini na -- elfu sitini na tano <breath> <no-speech> ambaye ni ongezeko la asilimia ishirini na moja .
+[167.287]
+<no-speech>
+[169.285]
+ndugu katibu mkuu kwa hali hiyo <no-speech> utaona kwamba tulichagua mazao sahihi kwa chakula na kwa biashara <no-speech> mtu anavuna chakula hapo hapo anavuna fedha .
+[183.250]
+ndiyo hayo mabadiliko uliyoyaona ya nyumba bora tukaanzisha operation ondoa tembe .
+[190.750]
+na ndiyo maana tulikataa chakula cha msaada .
+[193.781]
+na kwa mwaka huu <no-speech> kwenye kikao cha R_C_C <breath> tulisema hatutakuwa na njaa .
+[200.908]
+<no-speech>
+[204.220]
+mheshimiwa <no-speech> ndugu katibu mkuu kutokana na hicho kilimo <no-speech> na uanzishwaji wa migodi wachimbaji wadogo wadogo <no-speech> <breath> pato la mkoa limeongezeka .
+[217.067]
+<no-speech>
+[218.170]
+mwaka elfu mbili na tano <no-speech> tuliambiwa pato la mkoa <no-speech> ni million mia mbili tisini na mbili <no-speech> laki saba na sabini na nane elfu .
+[230.445]
+<no-speech>
+[231.471]
+hadi mwaka huu <no-speech> pato la mkoa <no-speech> ni mia nane hamsini na nne milioni .
+[239.464]
+<no-speech>
+[242.640]
+<no-speech>
+[249.770]
+kwa hivyo pato la wananchi -- la mkoa imeongezeka mpaka million mia nane hamsini na nne <no-speech> <breath> pato la mwananchi wa Singida limeongezeka kwa asilimia mia tatu <breath> (()) kwa asilimia elfu tatu <no-speech> <breath> budget ya mkoa imeongezeka kutoka <no-speech> shilingi billion kumi na nane kufika billion mia moja thelathini .
+[277.878]
+<no-speech>
+[279.070]
+mawasiliano imeongezeka barabara ya lami kutoka kilometre sufuri mpaka kilometre mia nne <no-speech> na tatu .
+[288.220]
+<no-speech>
+[290.760]
+mawasiliano imeongezeka hadi kufikia asilimia tisini na nne .
+[296.073]
+<no-speech>
+[297.273]
+mwisho napenda kuchukua nafasi hii tena kuwapongeza viongozi wa chama tawala walivyoisimamia serikali ya mkoa katika utekelezaji wa ila ni ya C_C_M niwapongeze watumishi na viongozi wa serikali wakiongozwa na wakuu wa wilaya na wakurugenzi na wenyeviti wa halmashauri .
+[321.041]
+<breath> mwisho ndugu katibu baba wa taifa aliwahi -- aliwahi kusema inawezekana himiza wajibu wako .
+[330.254]
+<no-speech>
+[331.370]
+John F Kennedy aliwahi kusema usiseme nchi yangu itafany- -- itanifanyia nini ila useme nitaifanyia nini nchi yangu ?
+[342.410]
+ndivyo walivyosema wananchi wa Singida .
+[346.225]
+<no-speech>
+[348.215]

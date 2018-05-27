@@ -1,0 +1,85 @@
+[0.000]
+<sta> para naman po sa mga nanay na nangangailangan ng o nangangalaga <sta> sa kalusugan ng kanilang mga supling mahalaga rin po ang pangangalaga sa inyong sarili sa pamamagitan 'yan ng wastong pagkain .
+[11.440]
+<sta> importante ito para magkaroon ng sapat na supply ng gatas ang mga ina .
+[15.544]
+<sta> balitang hatid ni Tina Panganiban-Perez .
+[18.090]
+<no-speech>
+[22.190]
+<sta> sa mga hirap magpa breastfeed sa kanilang baby heto ang superfood para kay mommy .
+[26.870]
+<sta> arroz Caldong nilagyan ng malunggay kamote at kalabasa at itong miking may sinabawang gulay .
+[32.122]
+<sta> mura na masustansiya pa <sta> pero para siguradong sapat ang supply ng gatas ng ina siguruhing hindi barado ang daluyan ng breast milk .
+[40.820]
+<sta> ang solusyon ?
+[41.676]
+<sta> lactation massage na tinuturo ng isang breastfeeding advocacy group <sta> sa mga nanay at tatay .
+[47.447]
+<sta> sa lactation massage unti-unting tutunawin ang tumigas na gatas hanggang makadaloy ito ng maayos .
+[53.660]
+'yung nipple nagkakaroon na rin ng bara kaya 'yung baby kapag dumede siya diyan kaunti 'yung nakukuha kaya nagrereklamo .
+[62.050]
+dahil ang butas ng nipple is twenty .
+[65.080]
+eh kung tatlo lang 'yung lumalabas diyan .
+[68.080]
+natutulungan ko siya for the massage .
+[70.718]
+so tinuturo sa amin 'yung massage .
+[72.943]
+<int> masakit siya since barado pero 'nong nakita ko nag-flow 'yung milk parang sumirit .
+[78.326]
+<int> very fulfilling kasi mayroon pala .
+[81.063]
+<sta> batay sa tala ng National Demographic and Health Survey <sta> siyam sa bawat sampung batang Pilipino laki sa gatas ng ina .
+[88.440]
+<sta> gayon pa man mas hirap daw ang mga inang nasa siyudad na makahanap ng panahon para ma breastfeed ang kanilang anak .
+[94.920]
+<sta> ayon sa International Labor Organization dapat labing-apat na linggo ang maternity leave ng mga working mom .
+[101.450]
+<sta> pero sa Pilipinas animnapung araw o mahigit walong linggo lang .
+[105.660]
+<sta> kaya naman critical na may lactation room ang bawat opisina para malayang makakapangolekta ng gatas ang mga ina .
+[112.410]
+<sta> sa Expanded Breastfeeding Proportion Act of two thousand nine <sta> may apatnapung minutong laang oras para makapag- -- breastfeed o makapag- -- kolekta ng gatas sa otso oras na pagtatrabaho .
+[123.360]
+mayroon kami 'nong <hes> lactation period which is 'yung dito sa B_S_P ninety minutes for every eight hours of work .
+[130.778]
+'yung ni-re-require ng law ay forty minutes lang .
+[133.179]
+were given time naman para din mag express so 'yung mga nauuwi kong milk 'yung pa rin ang nagiging milk ni baby .
+[142.305]
+'yung <hes> pagkakaroon ng <hes> very supportive lactation policy ng Bangko Sentral very helpful kasi siya .
+[150.630]
+<sta> pero di lahat ng ina nakakabalik agad sa trabaho pagkatapos manganak .
+[154.655]
+marami sa kanila hirap makahanap ng trabaho .
+[157.910]
+<sta> kaya naman layunin ng grupong ARUGAAN na bigyan trabaho ang ilang kababaihan sa pamamagitan ng wet nursing o 'yung pagpapa-breastfeed sa ibang bata na di nila anak .
+[168.410]
+<hes> responsibilidad namin bilang wet nurse siyempre 'andidiyan 'yung pag-aalaga sa bata .
+[173.925]
+siyempre nabubusog siya 'yun na aalagaan namin sila ng maayos .
+[178.730]
+four thousand hanggang five thousand pesos ang kita sa wet nursing kada buwan .
+[183.340]
+prinsipyo namin we will not provide wet nursing service if you won't breastfeed .
+[190.140]
+because the purpose is to empower both women to breastfeed .
+[195.313]
+<no-speech>
+[197.960]
+<sta> hindi birong responsibilidad ang pagpapasuso ng anak .
+[200.950]
+<sta> dito kasi nakukuha ng bata ang mga pangunahing nutrisyon sa kaniyang paglaki .
+[205.330]
+<sta> kaya naman sa bahay man opisina o pasyalan dapat buo ang suporta sa mga ina .
+[211.120]
+<sta> against all odds during emergencies during crisis stress talagang ang breast milk may hormones 'yan na nag i-stimulate ng relaxation that's why we call it love hormone .
+[223.575]
+na ang gatas ng ina ay puno ng antibodies .
+[226.954]
+Tina Panganiban-Perez G_M ~ %incomplete
+[228.581]

@@ -1,0 +1,8 @@
+<parameters>
+    <index>index/</index>
+    <memory>10G</memory>
+    <corpus>
+      <path>docs/</path>
+      <class>trectext</class>
+    </corpus>
+</parameters>

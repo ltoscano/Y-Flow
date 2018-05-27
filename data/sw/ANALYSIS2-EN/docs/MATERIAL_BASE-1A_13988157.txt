@@ -1,0 +1,118 @@
+<1>	(Inline, 0.000-0.250)	<no-speech>	<no-speech>
+<2>	(Outline, 0.000-2.350)	<no-speech>	<no-speech>
+<3>	(Inline, 0.250-1.710)	ehhe na nikuulize ?	mm and let me ask you ?
+<4>	(Inline, 1.710-3.040)	<no-speech>	<no-speech>
+<5>	(Outline, 2.350-3.030)	sema .	tell me .
+<6>	(Outline, 3.030-7.710)	<no-speech>	<no-speech>
+<7>	(Inline, 3.040-6.580)	hapo awali maisha ilikuwa inakuendea mrama hivi ?	was life going wrong for you in the past like this ?
+<8>	(Inline, 6.580-14.320)	<no-speech>	<no-speech>
+<9>	(Outline, 7.710-10.310)	ahh si unaelewa wakati ule sikuwa na kibarua ?	ahh you do understand the time I had no casual work ?
+<10>	(Outline, 10.310-14.140)	sasa saa hii -- saa hizi -- saa hizi imenisaidia kidogo .	now at the moment -- now -- now it has helped me a bit .
+<11>	(Outline, 14.140-22.180)	<no-speech>	<no-speech>
+<12>	(Inline, 14.320-21.670)	ohh lile ombi ulikuwa unaomba kazi katika ile kampuni ya ulinzi ulifaulu ?	ohh was the application for the job at that security company successful ?
+<13>	(Inline, 21.670-24.850)	<no-speech>	<no-speech>
+<14>	(Outline, 22.180-23.820)	nilifaulu -- nilifaulu .	I succeeded -- I succeeded .
+<15>	(Outline, 23.820-25.340)	<no-speech>	<no-speech>
+<16>	(Inline, 24.850-25.843)	<sta> ohh sasa %incomplete	ohh now %incomplete
+<17>	(Outline, 25.340-26.180)	<sta> sasa .	now .
+<18>	(Inline, 25.843-26.770)	<int> ehhe .	mm .
+<19>	(Outline, 26.180-27.640)	<no-speech>	<no-speech>
+<20>	(Inline, 26.770-34.340)	<no-speech>	<no-speech>
+<21>	(Outline, 27.640-33.350)	<hes> kuna *vile* *viatu* nilikwambia uniletee pale -- pale ulileta ?	did you bring *those* *shoes* I told you to bring for me from that place ?
+<22>	(Outline, 33.350-35.300)	<no-speech>	<no-speech>
+<23>	(Inline, 34.340-40.450)	zile viatu bado ndizo na ehhe -- ndizo niko nashughulika nazo %incomplete	the shoes not yet I am mm I am working on them %incomplete
+<24>	(Outline, 35.300-37.860)	ile -- i- -- <int> -- ile biashara yetu .	that -- our business .
+<25>	(Outline, 37.860-40.940)	<no-speech>	<no-speech>
+<26>	(Inline, 40.450-41.900)	<no-speech>	<no-speech>
+<27>	(Outline, 40.940-41.570)	ehhe <int> .	mm .
+<28>	(Outline, 41.570-44.840)	<no-speech>	<no-speech>
+<29>	(Inline, 41.900-44.180)	nikifaulu tu <int> hivi uta- -- utazipata .	you will get them the moment I succeed .
+<30>	(Inline, 44.180-45.990)	<no-speech>	<no-speech>
+<31>	(Outline, 44.840-45.790)	nitazipata ?	will I get them ?
+<32>	(Outline, 45.790-46.920)	<no-speech>	<no-speech>
+<33>	(Inline, 45.990-46.980)	ehhe utazipata .	mm you will get them .
+<34>	(Outline, 46.920-50.520)	ulisema kuna aina mingi naweza chagua ile ninaipenda ?	did you say there are many types and I can choose the one that I like ?
+<35>	(Inline, 46.980-50.670)	<no-speech>	<no-speech>
+<36>	(Outline, 50.520-52.950)	<no-speech>	<no-speech>
+<37>	(Inline, 50.670-52.370)	ehhe kuna aina nyingi %incomplete	mm there are many types %incomplete
+<38>	(Inline, 52.370-54.080)	<no-speech>	<no-speech>
+<39>	(Outline, 52.950-53.560)	ehhe .	mm .
+<40>	(Outline, 53.560-54.480)	<no-speech>	<no-speech>
+<41>	(Inline, 54.080-55.047)	unaweza %incomplete	you can %incomplete
+<42>	(Outline, 54.480-58.889)	<no-speech>	<no-speech>
+<43>	(Inline, 55.047-57.970)	unachagua ile unataka cause nini sababu %incomplete	you will choose the one you'll like because the reason %incomplete
+<44>	(Inline, 57.970-59.830)	<no-speech>	<no-speech>
+<45>	(Outline, 58.889-59.450)	uhuh .	no .
+<46>	(Outline, 59.450-60.340)	<no-speech>	<no-speech>
+<47>	(Inline, 59.830-61.280)	sababu %incomplete	because %incomplete
+<48>	(Outline, 60.340-66.281)	<no-speech>	<no-speech>
+<49>	(Inline, 61.280-62.170)	<no-speech>	<no-speech>
+<50>	(Inline, 62.170-64.760)	sijui unapenda kiatu ga- -- kiatu kipi yaani .	I don't know the shoe you like -- which shoe I mean .
+<51>	(Inline, 64.760-68.890)	<no-speech>	<no-speech>
+<52>	(Outline, 66.281-73.930)	<no-speech> <sta> haya sawasawa nitakuja niangalie tuone ile -- ile nzuri kabisa naweza chukua .	okay fine I will come and see the best one that I can take .
+<53>	(Inline, 68.890-69.420)	ehhe .	mm .
+<54>	(Inline, 69.420-73.640)	<no-speech>	<no-speech>
+<55>	(Inline, 73.640-74.800)	na nikuulize ?	can I ask you ?
+<56>	(Outline, 73.930-75.210)	<no-speech>	<no-speech>
+<57>	(Inline, 74.800-76.320)	<no-speech>	<no-speech>
+<58>	(Outline, 75.210-76.200)	sema <int> .	tell me .
+<59>	(Outline, 76.200-81.650)	<no-speech>	<no-speech>
+<60>	(Inline, 76.320-79.850)	ile- -- ile biashara yako ulikuwa unataka kuanza %incomplete	the business that you wanted to start %incomplete
+<61>	(Inline, 79.850-84.390)	<no-speech>	<no-speech>
+<62>	(Outline, 81.650-84.250)	bado -- bado pesa naendelea kujaza %incomplete	still -- I'm still saving money %incomplete
+<63>	(Outline, 84.250-85.280)	<no-speech>	<no-speech>
+<64>	(Inline, 84.390-84.950)	ehhe .	mm .
+<65>	(Inline, 84.950-90.430)	<no-speech>	<no-speech>
+<66>	(Outline, 85.280-90.200)	ndiyo niweze kupata fedha nzuri ya kuanzisha hiyo biashara unajua inahitaji pesa mingi bwana ?	so that I can be able to get good money for starting the business do you know it needs a lot of money friend ?
+<67>	(Outline, 90.200-92.360)	<no-speech>	<no-speech>
+<68>	(Inline, 90.430-91.260)	kiasi gani ?	how much ?
+<69>	(Inline, 91.260-96.820)	<no-speech>	<no-speech>
+<70>	(Outline, 92.360-96.898)	nasi kama elfu -- elfu thelathini hivi ?	it's about thirty thousand or so ?
+<71>	(Inline, 96.820-97.440)	ehhe .	mm .
+<72>	(Outline, 96.898-100.590)	saa hizi niko na elfu ishirini .	at the moment I have twenty thousand .
+<73>	(Inline, 97.440-98.980)	<no-speech>	<no-speech>
+<74>	(Inline, 98.980-99.400)	<no-speech>	<no-speech>
+<75>	(Inline, 99.400-100.740)	<no-speech>	<no-speech>
+<76>	(Outline, 100.590-101.790)	<no-speech>	<no-speech>
+<77>	(Inline, 100.740-101.370)	<int> ehhe .	mm .
+<78>	(Inline, 101.370-106.110)	<no-speech>	<no-speech>
+<79>	(Outline, 101.790-105.680)	sijui kama utaweza nijazia hiyo elfu kumi imebaki ama itakuwaje ?	I don't know if you will be able to top up for me the remaining ten thousand or what will happen ?
+<80>	(Outline, 105.680-107.830)	<no-speech>	<no-speech>
+<81>	(Inline, 106.110-107.300)	na nikuulize ?	can I ask you ?
+<82>	(Inline, 107.300-108.520)	<no-speech>	<no-speech>
+<83>	(Outline, 107.830-108.410)	ehhe ?	mm ?
+<84>	(Outline, 108.410-112.790)	<no-speech>	<no-speech>
+<85>	(Inline, 108.520-111.920)	kwani kibanda kile unataka kuweka hiyo biashara %incomplete	you mean the stall where you want to put the business %incomplete
+<86>	(Inline, 111.920-113.470)	<no-speech>	<no-speech>
+<87>	(Outline, 112.790-113.470)	ehhe .	mm .
+<88>	(Inline, 113.470-114.730)	kinagharimu pesa ngapi ?	how much does it cost ?
+<89>	(Outline, 113.470-116.200)	<no-speech>	<no-speech>
+<90>	(Inline, 114.730-119.450)	<no-speech>	<no-speech>
+<91>	(Outline, 116.200-119.120)	kipande chenyewe kinagharimu shilingi elfu tano %incomplete	the piece itself costs five thousand shillings %incomplete
+<92>	(Outline, 119.120-120.320)	<no-speech>	<no-speech>
+<93>	(Inline, 119.450-119.970)	ehhe .	mm .
+<94>	(Inline, 119.970-123.320)	<no-speech>	<no-speech>
+<95>	(Outline, 120.320-127.010)	<hes> lazima ujue -- lazima uweke be- -- pesa mbeleni -- pesa mbele -- karibu miezi mitatu mbele .	you must know -- you must put some money ahead -- money first for about three months ahead .
+<96>	(Inline, 123.320-124.140)	<no-speech>	<no-speech>
+<97>	(Inline, 124.140-125.580)	<no-speech>	<no-speech>
+<98>	(Inline, 125.580-126.040)	ehhe .	mm .
+<99>	(Inline, 126.040-127.420)	<no-speech>	<no-speech>
+<100>	(Outline, 127.010-128.710)	<no-speech>	<no-speech>
+<101>	(Inline, 127.420-128.050)	ehhe .	mm .
+<102>	(Inline, 128.050-130.920)	<no-speech>	<no-speech>
+<103>	(Outline, 128.710-130.690)	ehhe ili mwenye hiyo *kibanda* .	mm so that the owner of the *stall* .
+<104>	(Outline, 130.690-131.560)	<no-speech>	<no-speech>
+<105>	(Inline, 130.920-131.450)	ehhe .	mm .
+<106>	(Inline, 131.450-134.660)	<no-speech>	<no-speech>
+<107>	(Outline, 131.560-134.800)	akuwe na uhakika ati utaendelea na hiyo biashara huko .	for him to be sure that he will continue with the business there .
+<108>	(Inline, 134.660-136.980)	<int> sasa nakuhakikishia %incomplete	and now I assure you %incomplete
+<109>	(Outline, 134.800-137.420)	<no-speech>	<no-speech>
+<110>	(Inline, 136.980-138.190)	<no-speech>	<no-speech>
+<111>	(Outline, 137.420-137.990)	ehhe .	mm .
+<112>	(Outline, 137.990-141.120)	<no-speech>	<no-speech>
+<113>	(Inline, 138.190-140.320)	tutasaidiana tuone vile itakuwa <int> .	we will help each other to see how it will go .
+<114>	(Inline, 140.320-142.540)	<no-speech>	<no-speech>
+<115>	(Outline, 141.120-143.670)	ahh nitashukuru mzee -- nitashukuru mtu wangu .	ahh I will be grateful man -- I will be grateful my guy .
+<116>	(Inline, 142.540-142.910)	<no-speech>	<no-speech>
+<117>	(Inline, 142.910-143.820)	<no-speech>	<no-speech>
+<118>	(Outline, 143.670-143.820)	<no-speech>	<no-speech>

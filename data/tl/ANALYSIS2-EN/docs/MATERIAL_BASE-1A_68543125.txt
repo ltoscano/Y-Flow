@@ -1,0 +1,6 @@
+<1>	(0.000-3.810)	Syria imesema imesikitishwa kutunguliwa kwa ndege ya Uturuki .	Syria has been shocked by the bringing down of a Turkish plane .
+<2>	(3.810-10.410)	Rais wa Syria Bashar al-Assad amesikitishwa na kutunguliwa kwa ndege ya Uturuki kwenye anga ya Syria .	Syrian president Bashar al-Assad has been shocked by the bringing down of a Turkish plane in the Syrian airspace .
+<3>	(10.410-21.680)	katika mahojiano na gazeti moja la Uturuki Rais al-Assad amesema ndege hiyo ilikuwa inaruka kwenye anga ambalo awali lilikuwa linatumiwa na majeshi ya anga ya Israeli .	in an interview with a Turkey newspaper president al-Assad has said the plane was flying in an airspace that was initially used by the Israel air force .
+<4>	(21.680-28.950)	ndege hiyo ya Uturuki iliangushwa kwenye bahari ya Mediterranean mwezi uliopita ambapo marubani wawili waliuwawa .	the Turkey plane was shot down in the Mediterranean sea last month where two pilots were killed .
+<5>	(28.950-34.900)	tukio la kutunguliwa kwa ndege ya Uturuki imeongeza hali ya wasiwasi baina ya nchi hizo mbili .	the act of bringing down the Turkish plane has increased tension between the two countries .
+<6>	(34.900-39.069)	nikiripoti kutoka Dar es Salaam Beatrice Eric Channel_Ten .	reporting from Dar es Salaam Beatrice Eric Channel Ten .

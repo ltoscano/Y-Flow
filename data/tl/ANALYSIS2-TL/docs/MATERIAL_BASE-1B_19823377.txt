@@ -1,0 +1,65 @@
+[0.000]
+<no-speech>
+[1.864]
+<sta> balita naman mula sa Lanao del Sur .
+[4.131]
+nabawi na ng militar ang control sa barangay Puktan matapos nitong kubkubin ng mga terorista .
+[10.630]
+bakas naman sa lugar ang iniwang pinsala ng bakbakan .
+[14.006]
+<sta> umaaksiyon si Erel Cabatbat .
+[16.128]
+<no-speech>
+[17.770]
+<no-speech>
+[20.611]
+muling naitaas ang watawat ng Pilipinas sa barangay Puktan Butig Lanao del Sur sampung araw matapos sumalakay ang isang lokal na teroristang grupo .
+[28.750]
+pinamunuan sila ng magkapatid na Omar at Abdullah Maute pero hindi naging madali ang pagpasok ng militar sa kampo ng mga terorista .
+[35.840]
+sa unang araw pa lang ng opensa apat na sundalo agad ang nasawi .
+[39.270]
+bago kasi makarating sa Puktan kailangang dumaan ang army sa barangay Ragayan kung saan nakabantay ang mga terorista .
+[45.350]
+nagsilbing watchtower at sniper nest nila ang gusali na gawa sa semento .
+[49.442]
+matapos ang bakbakan puro butas na ito .
+[52.090]
+maraming bahay din ang tinamaan ng mga bala at bomba .
+[54.638]
+sa lakas ng bombang binagsak ng air force nagkaroon ng malaking hukay sa lupang ito .
+[59.880]
+wasak din ang bahay ng magkapatid na Maute na kanila raw pinagtaguan .
+[64.400]
+halos magkatabi lamang ang bahay nina Omar at Abdullah Maute .
+[67.754]
+ang dalawang leader na tinuturo ang nanguna sa panggugulo dito sa bayan ng Butig .
+[71.830]
+kung makita ninyo sa likod ko halos walang natira sa bahay dahil sa tindi ng mga bombang ibinagsak ng militar dito .
+[77.510]
+binomba rin ang isa pang kubol ng mga terorista sa tabi ng ilog .
+[80.770]
+limang sundalo at higit animnapung bandido ang nasawi .
+[83.484]
+kinokompirma pa ng militar ang ulat na kasama rito si Omar .
+[86.657]
+pati na ang report na nakatakas ang kaniyang kapatid na si Abdullah .
+[89.690]
+sabi ng militar maging babala sana ang engkuwentro sa nagbabalak na manggulo sa lugar .
+[94.805]
+sa lahat man na gustong mag-attempt na subukan ang kakayahan ng inyong Armed Forces of the Philippines dahil hindi kami mag-atubiling gamitin ang buong lakas ng aming organization so that we could immediately resolve the crisis at the fastest possible time .
+[113.930]
+kasabay nito hinimok ng mga awtoridad ang mahigit apatnapu't isang libong residenteng lumikas na bumalik na sa kanilang mga tahanan .
+[120.204]
+dapat hindi muna kuwan .
+[124.174]
+<no-speech>
+[125.349]
+ma- -- umalis dito ang military .
+[127.740]
+kasi baka bumalik ang mga terorista .
+[129.439]
+paano makalaban ang mga L_G_U .
+[131.090]
+umaaksiyon Erel Cabatbat .
+[133.297]

@@ -1,0 +1,47 @@
+<1>	(Inline, 0.000-0.330)	<no-speech>	<no-speech>
+<2>	(Outline, 0.000-2.070)	<no-speech>	<no-speech>
+<3>	(Inline, 0.330-3.740)	Westmoor bwana ilikuwa inatunyoa mbele ya kila mtu bwana .	Westmoor mister was shaming us in front of everyone .
+<4>	(Outline, 2.070-2.440)	<no-speech>	<no-speech>
+<5>	(Outline, 2.440-3.580)	<no-speech>	<no-speech>
+<6>	(Outline, 3.580-4.774)	<no-speech>	<no-speech>
+<7>	(Inline, 3.740-13.040)	<no-speech>	<no-speech>
+<8>	(Outline, 4.774-13.650)	bwana yaani tulishindwa -- tulishindwa <no-speech> sikujua <no-speech> venye nilisikia kelele ya goal nilidhania watu wa Manchester wameshinda kiti .	mister you that is were defeated -- defeated I didn't know when I heard the noises of a goal I thought that Manchester had won a seat .
+<9>	(Inline, 13.040-14.243)	<no-speech>	<no-speech>
+<10>	(Outline, 13.650-14.470)	<no-speech>	<no-speech>
+<11>	(Inline, 14.243-15.339)	kumbe ni si tuta %incomplete	instead it's us %incomplete
+<12>	(Outline, 14.470-15.810)	cause ilikuwa nje .	cause it was outside .
+<13>	(Inline, 15.339-18.440)	<no-speech>	<no-speech>
+<14>	(Outline, 15.810-16.790)	<no-speech>	<no-speech>
+<15>	(Outline, 16.790-26.532)	haya nika- -- nika- -- nika- -- nikabonyeza simu yangu ili niangalie kwa internet kama ni Man_U sababu nilijua ni Man_U nikasema sasa sioni furaha ya kwenda .	so I dialed my phone to check in the internet if it was Man_U because I knew it was Man_U and I said now I don't see the joy of going .
+<16>	(Inline, 18.440-22.000)	<no-speech>	<no-speech>
+<17>	(Inline, 22.000-22.350)	<no-speech>	<no-speech>
+<18>	(Inline, 22.350-26.630)	<no-speech>	<no-speech>
+<19>	(Outline, 26.532-28.650)	<no-speech>	<no-speech>
+<20>	(Inline, 26.630-27.400)	ehhe .	mm .
+<21>	(Inline, 27.400-29.060)	<no-speech>	<no-speech>
+<22>	(Outline, 28.650-32.250)	<sta> <lipsmack> kuangalia kwa simu naona ni kana kwamba si ukweli .	when I checked on the phone it seemed like it's not true .
+<23>	(Inline, 29.060-29.420)	<no-speech>	<no-speech>
+<24>	(Inline, 29.420-32.310)	<no-speech>	<no-speech>
+<25>	(Outline, 32.250-33.610)	<no-speech>	<no-speech>
+<26>	(Inline, 32.310-35.830)	ehhe bwana <laugh> <no-speech> hii kitu bwana %incomplete	mm mister this thing mister %incomplete
+<27>	(Outline, 33.610-34.929)	<no-speech>	<no-speech>
+<28>	(Outline, 34.929-36.920)	nilishindwa -- nilishindwa .	I was baffled -- I was baffled .
+<29>	(Inline, 35.830-37.150)	<no-speech>	<no-speech>
+<30>	(Outline, 36.920-37.890)	<no-speech>	<no-speech>
+<31>	(Inline, 37.150-38.380)	haiya .	okay .
+<32>	(Outline, 37.890-39.810)	kwenda kwa <no-speech> -- kwenda kwa room %incomplete	going into -- going into the room %incomplete
+<33>	(Inline, 38.380-39.890)	<no-speech>	<no-speech>
+<34>	(Outline, 39.810-40.850)	<no-speech>	<no-speech>
+<35>	(Inline, 39.890-41.370)	ehhe .	mm .
+<36>	(Outline, 40.850-45.230)	kwenda -- kwenda kwa room nikapata ni hao ndiyo wameongeza na wako wanataka goal ingine .	going -- going into the room I got that is them who had added and wanted another goal .
+<37>	(Inline, 41.370-42.890)	<no-speech>	<no-speech>
+<38>	(Inline, 42.890-45.060)	<no-speech>	<no-speech>
+<39>	(Inline, 45.060-46.780)	<no-speech>	<no-speech>
+<40>	(Outline, 45.230-46.299)	bado wako serious .	they are still serious .
+<41>	(Outline, 46.299-47.980)	<no-speech>	<no-speech>
+<42>	(Inline, 46.780-48.025)	<no-speech>	<no-speech>
+<43>	(Outline, 47.980-53.360)	<no-speech>	<no-speech>
+<44>	(Inline, 48.025-51.717)	ehhe sasa mahater kama kama akina Willy wana- -- wanasherehekea aje ?	mm now haters like the likes of Willy -- how are they celebrating ?
+<45>	(Inline, 51.717-53.980)	<no-speech>	<no-speech>
+<46>	(Outline, 53.360-54.570)	as in ?	as in ?
+<47>	(Inline, 53.980-54.570)	<no-speech>	<no-speech>

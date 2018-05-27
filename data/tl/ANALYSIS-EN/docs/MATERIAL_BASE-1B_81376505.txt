@@ -1,0 +1,63 @@
+<1>	(0.000-2.363)	healthy sa buong family natin di ba .	it's healthy to our whole family right .
+<2>	(2.363-5.813)	siyempre pinag-uusapan natin kanina dok ang pangangasim <overlap> oo sikmura .	of course we were talking earlier doctor about the hyper acidity of our stomachs .
+<3>	(5.813-7.550)	oo pangangasim ng sikmura natin .	yes hyper acidity of our stomachs .
+<4>	(7.550-20.206)	napakaimportante ho na alamin natin kung ano nga ba ang nag-ca-cause nito kasi alam n'yo mga kapuso sa pag-aaral ho twenty five percent ng mga pinoy ang nakakaranas ng hyperacidity o yung tinatawag po natin na acid reflux .	it is very important that we know the cause of this because you know according to study twenty five percent of the Filipinos experience hyper acidity or what we call acid reflux .
+<5>	(20.206-25.711)	yung tipo ho bang nakakaramdam ba kayo yung parang bumabalik yung <hes> acid sa inyong <hes> <sta> uh saliva ?	the type that you are experiencing what it seems that your acid goes back to your saliva ?
+<6>	(25.711-27.174)	di ba 'yan ang (()) ?	is that the (()) ?
+<7>	(27.174-28.764)	now maraming sanhi niyan Connie no .	now there are many causes for that Connie .
+<8>	(28.764-33.560)	so well if reflux can we cause by <hes> sobrang timbang .	well if reflux can be caused by being overweight .
+<9>	(33.560-45.377)	oh okey <overlap> kaya or big factor din diyan yung ating mga pagkain yung kalidad ng ating kinakain <sta> for acidic din 'yan <overlap> yes oo or minsan yung mga substances 'lika too much na kape <sta> paninigarilyo .	okay that is why or it's a big factor to also are our foods the quality of what we eat that's for acidic also yes or sometimes the substances like too much coffee smoking .
+<10>	(45.377-45.858)	'yon .	there .
+<11>	(45.858-51.540)	those are factors -- lifestyle factors na nakakapag-contribute o nakakapagpalala ng hyperacidity .	those are lifestyle factors that contributes or makes worse hyper acidity .
+<12>	(51.540-57.950)	so ito ho <sta> para maiwasan natin ang pangangasim ng sikmura narito po ang solusyon natin diyan .	so to avoid hyper acidity of our stomachs here are our solutions for that .
+<13>	(57.950-62.234)	<no-speech>	<no-speech>
+<14>	(62.234-77.710)	kahit pa gustong-gusto ni Jashmer na uminom ng kape <sta> kumain ng paborito niyang pagkaing maaanghang di raw niya magawa <sta> paano naman kasi kaunting tikim lamang ng mga ito siguradong mamimilipit na siya sa sakit ng tiyan .	even though Jashmer wants to drink coffee eat his favorite spicy food he can no longer do it because even a little taste of it will make him writhe due to stomach pain .
+<15>	(77.710-89.510)	para siyang <hes> iniipit na <hes> pinipiga tapos umaakyat siya sa dibdib ko na para siyang heartburn gano'n <int> tapos minsan nasusuka ko .	its like being pressed squeezed then goes up to my chest it's like heartburn and sometimes I feel like vomiting .
+<16>	(89.510-93.497)	kapagka kumakain ako parang ayaw ng tanggapin ng tiyan ko .	whenever I eat it seems like my stomach would not accept it anymore .
+<17>	(93.497-100.340)	<sta> ang hinala ni Jashmer mayroon siyang hyperacidity <sta> o yung matinding pangangasim ng sikmura .	Jashmer suspected that he has hyperacidity or the extreme acidity in the stomach .
+<18>	(100.340-106.980)	<sta> umiinom daw siya ng antacid noon pero madalas pa rin daw bumalik ang paghapdi ng kaniyang sikmura .	he took antacid back then but it still frequently returns the stinging sensation from his stomach .
+<19>	(106.980-113.170)	kadalasan tinutulog ko na lang siya e aah kasi pagkagising ko wala naman na siya .	because most of the time he would just sleep it off uh because when I wake up it is already gone .
+<20>	(113.170-114.197)	<no-speech>	<no-speech>
+<21>	(114.197-118.340)	<sta> kung susuriin natural na may acids ang ating bituka .	if you analyze it is natural to have acids in our intestines .
+<22>	(118.340-130.200)	<sta> tinutunaw ng mga ito ang ating mga kinakain para mas madali nating makuha ang sustansiya mula sa ating mga kinokonsumo pero kung minsan <sta> masyadong tumataas ang antas ng acid sa ating tiyan .	it dissolves the food we eat to hasten our absorption of nutrients from what we consumed but sometimes the level of acid becomes too high in our stomach .
+<23>	(130.200-136.840)	<sta> maaaring ito'y dahil sa stress sa pag-inom ng ilang gamot o dahil sa paninigarilyo .	this maybe because of stress of taking some medicine or because of smoking .
+<24>	(136.840-143.520)	<sta> puwede ring dahil sa pagkain ng maaanghang o kaya naman ng mga mamantikang pagkain .	possibly also caused by eating spicy or maybe oily foods .
+<25>	(143.520-148.300)	<sta> para mas maipaliwanag ng mabuti narito ang ginawa naming experiment .	to explain it better here is an experiment we made .
+<26>	(148.300-152.630)	<sta> halimbawa ang softdrink na ito ay ang acid sa ating tiyan .	example this soft drink is the acid in our stomach .
+<27>	(152.630-158.060)	<sta> ang mga nagpapataas ng level nito ang isang mint candy .	the one raising its level is a mint candy .
+<28>	(158.060-162.890)	<sta> kapag nilagay ang candy sa softdrink nagkakaroon ng reaksiyon ang likido .	when the candy is put into the soft drink there is a reaction in the liquid .
+<29>	(162.890-171.700)	<sta> ganito rin ang nangyayari kapag nakakaranas ng acid dyspepsia <no-speech> o yung kadalasang tinatawag nating hyperacidity .	it is the same thing that happens if you are experiencing acid dyspepsia or what we the frequently call hyperacidity .
+<30>	(171.700-182.821)	<sta> dinala namin C Jashmer kay Doctor Carlo Lazaro isang gastroenterologist o espesyalista sa ating digestive system <sta> upang masuri ang kaniyang kondisyon .	we took C Jashmer to doctor Carlo Lazaro a gastroenterologist or a specialist in our digestive system to examine his condition .
+<31>	(182.821-187.600)	well Jashmer yung uh nararamdaman mo is tama ka hyperacidity no .	well Jashmer what uh you are feeling is you're right hyperacidity .
+<32>	(187.600-194.110)	ang hyperacidity ay symptom nararamdaman ng isang tao pero hindi ito mismo yung sakit na nararamdaman mo .	hyperacidity is a symptom felt by a person but it is not directly the pain that you are feeling .
+<33>	(194.110-200.910)	ang nararamdaman mo ay yung tinatawag nating G_E_R_D or gastroesophageal reflux disease .	what you are feeling is what we call G_E_R_D or gastroesophageal reflux disease .
+<34>	(200.910-208.570)	so ibig sabihin parang bumabalik yung acid from -- sa stomach paakyat ng iyong esophagus <int> .	so this means the acid is like returning from -- the stomach going up to your esophagus .
+<35>	(208.570-214.000)	paliwanag ni Doktor <sta> Lazaro acid dyspepsia ang pangangasim at pagkulo ng tiyan .	explains doctor Lazaro acid dyspepsia is the souring and grumbling of the stomach .
+<36>	(214.000-223.870)	<sta> kung nagdudulot na ito ng pagbalik ng acid mula sa sikmura palabas ng bibig <sta> gaya ng nararamdaman ni Jashmer ito ay ang tinatawag na acid reflux .	if this causes the return of acid from the stomach towards the mouth like what is being felt by Jashmer this is what is called an acid reflux .
+<37>	(223.870-239.610)	<sta> kapag may kasama na itong pananakit ng dibdib kahit na wala namang sakit sa puso heartburn ang tawag dito <sta> at kapag ang isa hanggang sa lahat ng ito ay patuloy na nararamdaman nang mahigit sa dalawang linggo may G_E_R_D na ang isang tao .	if this includes pain in the chest even though there is no heart disease this is called heartburn and if one until all of these are continued to be felt for more than two weeks a person has G_E_R_D .
+<38>	(239.610-245.140)	<sta> ang nangyayari is bumabalik yung acid from the stomach to <int> the esophagus .	what is happening is the acid comes back from the stomach to the esophagus .
+<39>	(245.140-249.940)	usually ang problema diyan is 'yong tinatawag nating lower esophageal sphincter .	usually the problem there is what we call the lower esophageal sphincter .
+<40>	(249.940-257.940)	dapat kasi yung daanan ng pagkain at yung dugtungan no'n sa tiyan mayroon yung parang sphincter or humaharang no .	the passageway of the food and the connection of the stomach should have somewhat like a sphincter or blockage right .
+<41>	(257.940-263.558)	kapagka ito ay lumuwag yung lower esophageal sphincter natin ang nangyayari is reflux .	if our lower esophageal sphincter loosens a reflux happens .
+<42>	(263.558-264.440)	<no-speech>	<no-speech>
+<43>	(264.440-269.030)	<sta> para matukoy kung may GERD mahalagang pumunta sa isang espesyalista <breath> .	to determine if there is GERD it is important to go to a specialist .
+<44>	(269.030-274.016)	<sta> siya ang gagawa ng upper gastrointestinal endoscopy test sa pasyente .	he will be the one who'll do an upper gastrointestinal endoscopy test in the patient .
+<45>	(274.016-277.400)	sa dulo niya merong digital camera .	it has a digital camera at its tip .
+<46>	(277.400-281.130)	mayroon ding uh channel para makakuha tayo ng biopsy .	it also has uh channel for us get a biopsy .
+<47>	(281.130-284.990)	mayroon ding water para hugasan yung view niya .	has a water to wash its view .
+<48>	(284.990-292.110)	<sta> para magawa ang endoscopy test padadain sa bibig ng pasyente ang isang aparato hanggang sa umabot sa sikmura .	to conduct the endoscopy test an apparatus will be put through the patients mouth until it reaches the stomach .
+<49>	(292.110-309.523)	usually merong pinapasok na instrumento galing sa bibig <no-speech> papasok dito sa daanan ng pagkain or esophagus <no-speech> papasok dito sa kaniyang stomach or sa kaniyang tiyan para makita natin kung merong mga ulcers kung merong mga polyps merong bukol <int> or merong inspeksiyon .	usually there is an instrument entered through the mouth it will enter here where the food goes or esophagus will enter in his stomach or in his stomach for us to see if there are ulcers if there are polyps has a lump or has inspection .
+<50>	(309.523-314.860)	umaabot yung ating scoop hanggang dito sa first portion ng ating maliit na bituka 'no .	our scoop reaches until here in the first portion of our small intestines okay .
+<51>	(314.860-319.730)	puwede rin tayong kumuha ng sample <int> kung merong inspeksiyon yung patient no .	we can also get a sample if the patient has an infection okay .
+<52>	(319.730-325.300)	<hes> ahm out patient procedure lang ito at mga ten to fifteen minutes lang tapos na .	ahm this is an out-patient procedure and for just ten to fifteen minutes it's already done .
+<53>	(325.300-330.030)	nagkakahalaga ng five thousand to six thousand pesos ang procedure na ito .	this procedure costs five thousand to six thousand pesos .
+<54>	(330.030-338.170)	<sta> para makaiwas sa GERD at sa mga sintoma nito <sta> 'wag gawin o kainin ang pupuwedeng magpataas ng acid sa sikmura .	to avoid GERD and its symptoms do not do or eat anything that can increase stomach acid .
+<55>	(338.170-343.214)	<sta> 'wag uminom ng kape o kaya naman kumain ng hilaw na sibuyas o kamatis .	do not drink coffee or eat raw onions and tomatoes .
+<56>	(343.214-346.760)	nakapagpapataas kasi ang mga ito ng gastric acid .	because these can increase gastric acid .
+<57>	(346.760-348.986)	<sta> 'wag mahiga pagkatapos kumain .	do not lie down after eating .
+<58>	(348.986-355.050)	mag-ehersisyo upang gumanda ang daloy ng dugo sa katawan at matulog ng sapat .	exercise to improve the flow of blood in the body and get enough sleep .
+<59>	(355.050-362.720)	<sta> bukod sa pag-inom ng antacid mayroon ding mga home remedy na maaaring subukan para di masyadong sumakit ang nangangasim na tiyan .	aside from drinking antacid there are also home remedies that can be tried so the souring stomach won't ache too much .
+<60>	(362.720-367.189)	<sta> uminom ng malamig na gatas o kaya ng tubig na may baking soda .	drink cold milk or else water with baking soda .
+<61>	(367.189-370.720)	puwede ring kumain ng ice cream at ng saging .	can also eat ice cream or banana .
+<62>	(370.720-379.767)	<sta> kapag pinabayaan puwedeng magdulot ng mas malalang sakit sa esophagus ang GERD <sta> kaya 'wag balewalain ang pangangasim at pagkulo ng tiyan .	if neglected GERD can cause a severe disease in the esophagus so do not neglect the souring and boiling of the stomach .
+<63>	(379.767-384.403)	kung lagi na itong nararamdaman magpakonsulta na agad sa doktor <int> .	if this is always experienced consult the doctor immediately .

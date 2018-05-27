@@ -1,0 +1,30 @@
+<1>	(0.000-7.650)	<sta> umakyat na sa dalawampu't isa ang nasawi dahil sa dengue sa probinsiya ng Cavite .	casualties due to dengue in the province of Cavite have reached twenty-one .
+<2>	(7.650-12.999)	<sta> pinag-aaralan na rin kung resulta ang pagdami ng kaso ang panibagong strain ng sakit .	it is also being studied if the increase in cases is the result of a new strain of the disease .
+<3>	(12.999-16.650)	<sta> umaaksiyon si (()) .	reporting is (()) .
+<4>	(16.650-24.940)	halos magkakatabi na ang higaan ng mga pasyenteng tinamaan ng dengue sa General Emilio Aguinaldo Memorial Hospital sa Trece Martires Cavite .	the beds of patients hit by dengue in General Emilio Aguinaldo Memorial Hospital in Trece Martires Cavite are almost beside each other .
+<5>	(24.940-28.640)	puno na ang mga kuwarto kaya ang ibang kama nasa pasilyo na .	the rooms are full so other beds are already in the hallway .
+<6>	(28.640-33.200)	ayon sa pamunuan two hundred eighty five lang ang bed capacity ng ospital .	according to the management the bed capacity of the hospital is only two hundred eighty-five .
+<7>	(33.200-36.467)	higit isang daan dito inilaan na sa mga may dengue .	more than one hundred of these are already allocated to those who have dengue .
+<8>	(36.467-40.103)	<int> kagabi lang tatlumpu't-tatlong ang na-admit sa provincial hospital .	just last night thirty-three were admitted to the provincial hospital .
+<9>	(40.103-43.370)	medyo talagang kukulangin kami ng resources .	we will really be short of resources .
+<10>	(43.370-49.900)	<int> nakakaramdam na rin daw ng pagod ang staff ng ospital dahil sa walang patid na dating ng mga pasyente .	the staff of the hospital are already feeling tired because of the nonstop arrival of patients .
+<11>	(49.900-53.260)	aking mga staff talagang lupaypay na .	my staff really feel haggard already .
+<12>	(53.260-60.350)	ang aking mga nurse talagang <no-speech> bukod sa maliit ang suweldo e talagang over-tawad sa dami ng pasyente .	my nurses are really aside from having a low salary they are really put to the extreme due to the number of patients .
+<13>	(60.350-66.900)	<int> papalo na sa apat na libo at limang daan ang tinamaan ng dengue sa Cavite mula Enero hanggang Setyembre .	those hit with dengue in Cavite from January up to September will reach four thousand five hundred already .
+<14>	(66.900-69.399)	umakyat naman sa dalawampu't isa ang namatay .	the casualties have increased to twenty-one .
+<15>	(69.399-72.200)	kalahati nito mula sa Dasmariñas .	half of these are from Dasmariñas .
+<16>	(72.200-75.351)	inaalam na kung dulot ito ng panibagong strain ng dengue .	whether it is caused by a new strain of dengue is being studied .
+<17>	(75.351-81.380)	ang ilang nasawi raw kasi nakaranas agad ng matinding sintomas ng sakit gaya ng pagdurugo .	because supposedly some of the casualties immediately experienced severe symptoms of the disease like bleeding .
+<18>	(81.380-84.296)	mayroon pong <hes> fever na dalawang araw lang .	there is sir a fever that lasts only for two days .
+<19>	(84.296-94.535)	<int> pinakuhanan namin ng <hes> blood samples to be submitted sa R_I_T_M to zero in if it's really a ca- -- different <hes> b- -- blood <hes> strain .	we get from them blood samples to be submitted to the R_I_T_M to zero in if it's really a -- different -- blood strain .
+<20>	(94.535-99.870)	<int> kanya-kanya namang hinala ang mga kaanak at pasyente kung saan nila nakuha ang sakit .	the relatives and the patients have their own guesses where they got the disease .
+<21>	(99.870-101.863)	<int> baka doon sa bahay .	maybe there at home .
+<22>	(101.863-104.431)	<int> sa school po 'yan siguro .	maybe there at school .
+<23>	(104.431-109.243)	maraming lamok daw doon tapos marami na ring estudyante na nagkaka-dengue doon .	there are many mosquitoes there and many students there have also caught dengue .
+<24>	(109.243-116.162)	<int> muling paalala ng mga awtoridad maiiwasan ang dengue kung pananatilihin nag kalinisan sa paligid .	the authorities again warn that dengue can be prevented if cleanliness of surroundings is maintained .
+<25>	(116.162-120.176)	<int> dapat po ituro ang tamang paglilinis .	proper cleaning should be taught .
+<26>	(120.176-122.412)	hanapin ang dengue breeding sights .	find the dengue breeding sites .
+<27>	(122.412-124.810)	basta po may tubig may kiti-kiti .	as long as there's water there are larvae .
+<28>	(124.810-126.576)	basta po may kiti-kiti malamang may lamok .	as long as there are larvae there will likely be mosquitoes .
+<29>	(126.576-131.998)	at kung may lamok e marami po ang ma- -- masasalanta dahil may dengue po itong kaakibat .	and if there are mosquitoes many will be -- affected because they come with dengue .
+<30>	(131.998-133.926)	<int> umaaksiyon .	reporting .

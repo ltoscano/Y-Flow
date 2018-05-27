@@ -1,0 +1,51 @@
+[0.000]
+<no-speech>
+[1.031]
+<sta> Kapamilya nagkaengkuwentro ang militar at ang Bangsamoro Islamic <sta> Freedom Fighter o B_I_F_F sa bayan ng Datu Unsay sa Maguindanao .
+[9.320]
+<sta> matapos 'tong harangin ng mga elemento ng B_I_F_F ang ilang motorista sa bahagi ng Maguindanao Highway kaninang umaga .
+[16.260]
+<sta> bunsod nito daan-daang motorista ang na-stranded .
+[19.489]
+lumikas din pati ang mga residente sa takot na maikit o maipit sa putukan .
+[25.265]
+narito ang report .
+[26.178]
+<no-speech>
+[31.220]
+<sta> kanya-kanyang hila ng kalabaw at baka ang mga nagsilikas na residente dito sa Baranggay Maitumaig sa Datu Unsay .
+[37.810]
+natakot sila ng may mga armadong pinaghihinalaang B_I_F_F ang nakapasok sa kanilang barangay kaya dito sila sa gilid ng municipal hall ng Datu Saudi-Ampatuan pansamantalang nakisilong .
+[48.080]
+pagdating namin ng bahay gano'n na may magdaan ng mag-evacuate .
+[51.514]
+umalis na kami kay sa sobrang takot kay mahirap na kung maipit na -- maipit tayo sa digmaan ba .
+[60.270]
+<no-speech>
+[62.890]
+umalingawngaw ang sunod-sunod na putok mula sa tangkeng pandigma ng militar .
+[67.140]
+hindi agad <int> pinapasok ang media .
+[68.862]
+<int> nagsasagawa umano ng clearing operations ang tropa ng gobyerno <sta> laban sa mga armadong Bangsamoro Islamic Freedom Fighters o B_I_F_F .
+[75.361]
+<int> hinarang umano ng B_I_F_F ang ilang sasakyan at naglagay pa ng stockpile sa kalsada .
+[81.048]
+ayon sa ilang motorista pinaalis rin umano sila agad ng mga armadong kalalakihan .
+[85.190]
+palaging nakatutok ng forty five sa ulo ko .
+[87.620]
+'yon lang sinasabi nila kung ano daw ako sino ako .
+[90.620]
+kung pulis ba ako or sundalo ba ako o ano .
+[93.526]
+kaya nga parang -- ang mukha ko parang papel na eh .
+[96.431]
+<sta> nakita rin ni S_P_O four Tangunutan ang ginawang panghaharang .
+[99.620]
+<sta> kami sanang u- -- unang sasakyan na mag- -- ma- -- magdaan kaya lang 'yong overtake nag- -- may nag-overtake sa amin ng pick-up .
+[106.840]
+<sta> (()) o 'yon na -- 'yon na nga tsambahan (()) pick-up .
+[109.619]
+sunod-sunod naman ang paggalaw ng mga <int> tangke mula sa detachment patungo sa ground .
+[113.617]

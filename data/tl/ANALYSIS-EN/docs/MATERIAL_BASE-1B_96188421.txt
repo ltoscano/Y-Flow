@@ -1,0 +1,86 @@
+<1>	(Outline, 0.000-2.550)	kailan championship ng (()) ?	when is the championship of (()) ?
+<2>	(Inline, 0.000-2.620)	<no-speech>	<no-speech>
+<3>	(Outline, 2.550-3.630)	<no-speech>	<no-speech>
+<4>	(Inline, 2.620-3.350)	oo .	yes .
+<5>	(Inline, 3.350-5.930)	<no-speech>	<no-speech>
+<6>	(Outline, 3.630-5.101)	<int> kailan ?	when ?
+<7>	(Outline, 5.101-5.840)	<no-speech>	<no-speech>
+<8>	(Outline, 5.840-7.680)	<no-speech>	<no-speech>
+<9>	(Inline, 5.930-7.430)	ah .	ah .
+<10>	(Inline, 7.430-9.980)	<no-speech>	<no-speech>
+<11>	(Outline, 7.680-8.324)	<no-speech>	<no-speech>
+<12>	(Outline, 8.324-9.980)	kailan championship ?	when is the championship ?
+<13>	(Inline, 9.980-10.730)	next week .	next week .
+<14>	(Outline, 9.980-11.320)	<no-speech>	<no-speech>
+<15>	(Inline, 10.730-12.900)	<no-speech>	<no-speech>
+<16>	(Outline, 11.320-12.210)	ha ?	what ?
+<17>	(Outline, 12.210-15.590)	<no-speech>	<no-speech>
+<18>	(Inline, 12.900-15.336)	<int> <hes> -- next week daw sabi nila .	-- next week they said .
+<19>	(Inline, 15.336-16.690)	next week daw .	next week apparently .
+<20>	(Outline, 15.590-16.475)	ha ?	ha ?
+<21>	(Outline, 16.475-17.319)	next week ?	next week ?
+<22>	(Inline, 16.690-18.360)	<no-speech>	<no-speech>
+<23>	(Outline, 17.319-18.800)	'kala ko tapos na ?	I thought it was over ?
+<24>	(Inline, 18.360-20.543)	<no-speech>	<no-speech>
+<25>	(Outline, 18.800-22.010)	<no-speech>	<no-speech>
+<26>	(Inline, 20.543-21.510)	sabihin mo hindi na .	you tell then no .
+<27>	(Inline, 21.510-22.380)	<no-speech>	<no-speech>
+<28>	(Outline, 22.010-22.600)	ha ?	ha ?
+<29>	(Inline, 22.380-24.896)	ah hindi pa ano kasi ganito 'yan eh .	ah not yet because it is like this eh .
+<30>	(Outline, 22.600-27.000)	<no-speech>	<no-speech>
+<31>	(Inline, 24.896-26.880)	nag-uumulan daw .	it was raining they said .
+<32>	(Inline, 26.880-33.670)	nag-uuulan kaya hindi -- <no-speech> oo -- kaya hindi matuloy <int> .	it rained which is why -- yes -- why it was cancelled .
+<33>	(Outline, 27.000-28.431)	ah nag-uuulan ?	ah it rained ?
+<34>	(Outline, 28.431-29.390)	ha ?	ha ?
+<35>	(Outline, 29.390-33.480)	<no-speech>	<no-speech>
+<36>	(Outline, 33.480-34.700)	hindi 'yong five five %incomplete	not the five five %incomplete
+<37>	(Inline, 33.670-36.340)	<no-speech>	<no-speech>
+<38>	(Outline, 34.700-36.100)	ah tapos na .	ah it is done .
+<39>	(Outline, 36.100-36.980)	<no-speech>	<no-speech>
+<40>	(Inline, 36.340-36.950)	hello .	hello .
+<41>	(Inline, 36.950-39.070)	<no-speech>	<no-speech>
+<42>	(Outline, 36.980-37.791)	oh .	oh .
+<43>	(Outline, 37.791-39.090)	<no-speech>	<no-speech>
+<44>	(Inline, 39.070-40.584)	<no-speech>	<no-speech>
+<45>	(Outline, 39.090-39.900)	<no-speech>	<no-speech>
+<46>	(Outline, 39.900-40.974)	<laugh> five five .	five five .
+<47>	(Inline, 40.584-40.980)	ano ?	what ?
+<48>	(Outline, 40.974-42.310)	<no-speech>	<no-speech>
+<49>	(Inline, 40.980-42.730)	<no-speech>	<no-speech>
+<50>	(Outline, 42.310-43.980)	<no-speech>	<no-speech>
+<51>	(Inline, 42.730-43.869)	<int> hello .	hello .
+<52>	(Inline, 43.869-45.040)	<no-speech>	<no-speech>
+<53>	(Outline, 43.980-44.690)	hello ?	hello ?
+<54>	(Outline, 44.690-48.750)	<no-speech>	<no-speech>
+<55>	(Inline, 45.040-46.260)	<no-speech>	<no-speech>
+<56>	(Inline, 46.260-47.677)	<cough> five ano ?	five what ?
+<57>	(Inline, 47.677-48.847)	oo .	yes .
+<58>	(Outline, 48.750-51.430)	'di ba five five 'tsaka five ten 'yon ?	isn't it five five and five ten ?
+<59>	(Inline, 48.847-52.212)	<no-speech>	<no-speech>
+<60>	(Outline, 51.430-52.950)	<no-speech>	<no-speech>
+<61>	(Inline, 52.212-52.660)	hello ?	hello ?
+<62>	(Inline, 52.660-53.780)	<no-speech>	<no-speech>
+<63>	(Outline, 52.950-54.440)	hello (()) ?	hello (()) ?
+<64>	(Inline, 53.780-55.716)	ah oo -- oo -- oo -- oo .	ah yes -- yes -- yes -- yes .
+<65>	(Outline, 54.440-55.760)	<no-speech>	<no-speech>
+<66>	(Inline, 55.716-57.362)	<no-speech>	<no-speech>
+<67>	(Outline, 55.760-56.310)	<no-speech>	<no-speech>
+<68>	(Outline, 56.310-59.580)	<no-speech>	<no-speech>
+<69>	(Inline, 57.362-62.250)	<hes> ah naririnig pero medyo choppy <int> .	ah audible but a little choppy .
+<70>	(Outline, 59.580-60.270)	<no-speech>	<no-speech>
+<71>	(Outline, 60.270-61.670)	<no-speech>	<no-speech>
+<72>	(Outline, 61.670-62.970)	ah choppy ?	ah choppy ?
+<73>	(Inline, 62.250-63.060)	<no-speech>	<no-speech>
+<74>	(Outline, 62.970-64.155)	<no-speech>	<no-speech>
+<75>	(Inline, 63.060-63.520)	<no-speech>	<no-speech>
+<76>	(Inline, 63.520-65.100)	<no-speech>	<no-speech>
+<77>	(Outline, 64.155-66.200)	nood tayo Jo .	let us watch Jo .
+<78>	(Inline, 65.100-65.680)	hello .	hello .
+<79>	(Inline, 65.680-68.750)	<no-speech>	<no-speech>
+<80>	(Outline, 66.200-69.010)	<no-speech>	<no-speech>
+<81>	(Inline, 68.750-70.249)	<sta> oo sige .	yes okay .
+<82>	(Outline, 69.010-70.520)	<no-speech>	<no-speech>
+<83>	(Inline, 70.249-72.232)	<no-speech>	<no-speech>
+<84>	(Outline, 70.520-71.170)	<no-speech>	<no-speech>
+<85>	(Outline, 71.170-74.710)	<no-speech>	<no-speech>
+<86>	(Inline, 72.232-74.710)	aanuhin ko muna i-check ko muna kung kailan .	I will check beforehand if necessary .

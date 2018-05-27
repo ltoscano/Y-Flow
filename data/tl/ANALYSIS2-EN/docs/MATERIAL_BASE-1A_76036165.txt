@@ -1,0 +1,88 @@
+<1>	(Inline, 0.000-0.610)	mmhm .	mmhm .
+<2>	(Outline, 0.000-0.910)	<no-speech>	<no-speech>
+<3>	(Inline, 0.610-1.950)	<no-speech>	<no-speech>
+<4>	(Outline, 0.910-2.561)	ulienda kuona stuff <sta> ako nazo ?	did you go to see the stuff he has ?
+<5>	(Inline, 1.950-3.350)	(()) <no-speech> .	(()) .
+<6>	(Outline, 2.561-3.750)	<no-speech>	<no-speech>
+<7>	(Inline, 3.350-8.170)	ahh msee amechapa hana any ako na zile stuff zinakuwanga za nini <no-speech> -- za kurun .	ahh that guy is bogus he has nothing he just has the stuff that is torn .
+<8>	(Outline, 3.750-6.960)	<no-speech>	<no-speech>
+<9>	(Outline, 6.960-9.147)	<no-speech>	<no-speech>
+<10>	(Inline, 8.170-14.310)	<no-speech>	<no-speech>
+<11>	(Outline, 9.147-14.044)	so -- so nini zao hizo suti zao naonganga wakiadvertise si zile suti orig ?	so are the suits I usually see them advertising are not original ?
+<12>	(Outline, 14.044-15.280)	<no-speech>	<no-speech>
+<13>	(Inline, 14.310-17.775)	anadownload nilienda kucheki but yu download hizo vitu %incomplete	he downloads I went to check but he downloads those things %incomplete
+<14>	(Outline, 15.280-18.470)	<no-speech>	<no-speech>
+<15>	(Inline, 17.775-19.010)	<no-speech>	<no-speech>
+<16>	(Outline, 18.470-21.300)	<sta> ohh ye hutawala halafu anapost ?	ohh he just takes over and then posts ?
+<17>	(Inline, 19.010-20.620)	halafu anawekelea hapo .	he then puts them there .
+<18>	(Inline, 20.620-21.540)	<no-speech>	<no-speech>
+<19>	(Outline, 21.300-23.700)	<no-speech>	<no-speech>
+<20>	(Inline, 21.540-22.043)	mmhm .	mmhm .
+<21>	(Inline, 22.043-26.800)	anadownload (()) sidhani ye mwenyewe hana any viatu ni msingle maplastic .	he downloads (()) I doubt he personally has no shoes it's singles and plastics .
+<22>	(Outline, 23.700-24.150)	<int> ya .	of .
+<23>	(Outline, 24.150-27.400)	<no-speech>	<no-speech>
+<24>	(Inline, 26.800-28.060)	<no-speech>	<no-speech>
+<25>	(Outline, 27.400-27.770)	<no-speech>	<no-speech>
+<26>	(Outline, 27.770-29.050)	<no-speech>	<no-speech>
+<27>	(Inline, 28.060-34.660)	<sta> trouser ni zile trouser zinakuwanga ile ukikaa kaa -- ukikaa hata chini inakaa inajikunja huku katikati .	the trousers are the types where if you sit -- if you sit down it folds here in the middle .
+<28>	(Outline, 29.050-30.120)	<no-speech>	<no-speech>
+<29>	(Outline, 30.120-32.020)	<no-speech>	<no-speech>
+<30>	(Outline, 32.020-32.447)	mmhm ?	mmhm ?
+<31>	(Outline, 32.447-36.401)	<no-speech>	<no-speech>
+<32>	(Inline, 34.660-43.280)	<no-speech>	<no-speech>
+<33>	(Outline, 36.401-37.096)	wachana nazo .	leave them alone .
+<34>	(Outline, 37.096-43.090)	sasa ame- -- ni nini anakuanga anajichocha ati ako na stuff -- ako na stuff anaget watu excited ?	so now -- what is it that he usually boasts of that he has stuff -- he has stuff and gets people excited ?
+<35>	(Outline, 43.090-45.750)	<no-speech>	<no-speech>
+<36>	(Inline, 43.280-49.560)	halafu tisho hizo zingine ni zile una- -- unaona kama hizi za Man_U zinakuwanga fake fake ?	and then some t-shirts the ones -- have you seen the Man_U ones that are usually fake ?
+<37>	(Outline, 45.750-46.320)	mmhm <int> .	mmhm .
+<38>	(Outline, 46.320-49.500)	<no-speech>	<no-speech>
+<39>	(Outline, 49.500-50.100)	ehhe .	mm .
+<40>	(Inline, 49.560-50.950)	<no-speech>	<no-speech>
+<41>	(Outline, 50.100-58.490)	<no-speech>	<no-speech>
+<42>	(Inline, 50.950-55.042)	as in chingo kabisa zile wasee wa bodaboda huvaanga hizo .	as in totally useless ones those worn by motorbike guys .
+<43>	(Inline, 55.042-56.396)	<no-speech>	<no-speech>
+<44>	(Inline, 56.396-57.770)	halafu anauza soo tano .	and then he sells them for five hundred shillings .
+<45>	(Inline, 57.770-60.320)	<no-speech>	<no-speech>
+<46>	(Outline, 58.490-61.450)	so ohh that's why anauza cheap kumbe ana- -- si kitu poa ?	so ohh so the reason he sells them cheaply is because he doesn't have good things ?
+<47>	(Inline, 60.320-62.502)	<no-speech>	<no-speech>
+<48>	(Outline, 61.450-64.060)	<no-speech>	<no-speech>
+<49>	(Inline, 62.502-63.000)	mmhm .	mmhm .
+<50>	(Inline, 63.000-64.140)	<no-speech>	<no-speech>
+<51>	(Outline, 64.060-64.999)	ahh mi niko %incomplete	ahh I am %incomplete
+<52>	(Inline, 64.140-67.110)	<sta> ni vitu tu as in amefabricate vitu mbaya mbaya .	he has just fabricated sub-standard things .
+<53>	(Outline, 64.999-67.520)	<no-speech>	<no-speech>
+<54>	(Inline, 67.110-69.110)	<no-speech>	<no-speech>
+<55>	(Outline, 67.520-67.972)	<sta> ehhe ?	mm ?
+<56>	(Outline, 67.972-69.049)	<no-speech>	<no-speech>
+<57>	(Outline, 69.049-69.750)	mi niko .	I am there .
+<58>	(Inline, 69.110-70.060)	<sta> Anne ako wapi ?	where is Anne ?
+<59>	(Outline, 69.750-70.760)	<no-speech>	<no-speech>
+<60>	(Inline, 70.060-75.230)	<no-speech>	<no-speech>
+<61>	(Outline, 70.760-75.420)	Anne ako <no-speech> -- ako Webuye lakini mi niko B_G <no-speech> saa hii .	Anne is in -- is in Webuye but I am in B_G at the moment .
+<62>	(Inline, 75.230-77.210)	ameniambia amepostphone wedding .	she's told me she has postponed the wedding .
+<63>	(Outline, 75.420-78.520)	<no-speech>	<no-speech>
+<64>	(Inline, 77.210-78.820)	<no-speech>	<no-speech>
+<65>	(Outline, 78.520-84.041)	<sta> sijaongea naye nikishaongea naye nitakwambia lakini nilisikia sijui amekuwa mpaka Tuesday -- mpaka second .	I haven't talked to her when I talk to her I will let you know but I heard I think she has been around until Tuesday -- until second .
+<66>	(Inline, 78.820-79.350)	<no-speech>	<no-speech>
+<67>	(Inline, 79.350-84.010)	<no-speech>	<no-speech>
+<68>	(Inline, 84.010-88.333)	<sta> <hes> second na aliniambia hivyo ehhe hata sikuwa na pesa mi .	second and she told me that mm I didn't even money .
+<69>	(Outline, 84.041-85.047)	<no-speech>	<no-speech>
+<70>	(Outline, 85.047-85.360)	mmhm .	mmhm .
+<71>	(Outline, 85.360-88.500)	<no-speech>	<no-speech>
+<72>	(Inline, 88.333-90.114)	<no-speech>	<no-speech>
+<73>	(Outline, 88.500-89.140)	<sta> ehhe .	mm .
+<74>	(Outline, 89.140-91.530)	<no-speech>	<no-speech>
+<75>	(Inline, 90.114-91.390)	anataka nikam .	she wants me to come .
+<76>	(Inline, 91.390-94.800)	<no-speech>	<no-speech>
+<77>	(Outline, 91.530-94.080)	sawa we kam tutaongea tuone venye itakuwa .	fine just come we will talk and see how it will be .
+<78>	(Outline, 94.080-97.460)	<no-speech>	<no-speech>
+<79>	(Inline, 94.800-96.919)	nataka nikuje nione vyenye %incomplete	I want to come and see how %incomplete
+<80>	(Inline, 96.919-99.510)	<no-speech> nimwonee kabla nini %incomplete	and see her before %incomplete
+<81>	(Outline, 97.460-98.240)	<no-speech> ehhe ?	mm ?
+<82>	(Outline, 98.240-99.840)	<no-speech>	<no-speech>
+<83>	(Inline, 99.510-103.930)	<no-speech>	<no-speech>
+<84>	(Outline, 99.840-104.010)	so we uko -- u- -- haujaenda job leo ama ?	so you're -- you haven't gone to work today or ?
+<85>	(Inline, 103.930-104.740)	niko job .	I am at work .
+<86>	(Outline, 104.010-105.940)	<no-speech>	<no-speech>
+<87>	(Inline, 104.740-111.070)	<no-speech>	<no-speech>
+<88>	(Outline, 105.940-111.070)	ahh sa unajua sound ya jamaa mwenye uliongea naye wa kwanza alikuwa anasound ka Biggy bwana .	ahh the voice of the guy you spoke to at first was sounding like Biggy my friend .

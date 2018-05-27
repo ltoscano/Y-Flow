@@ -1,0 +1,62 @@
+0.000	outLine	<no-speech>
+0.000	inLine	<no-speech>
+0.110	outLine	mmhm .
+0.770	outLine	<no-speech>
+3.910	inLine	ehhe .
+4.322	inLine	ambapo hiyo kazi hakuwa -- haikuwa ikinipeleka vizuri niliona niwachane na ye .
+9.205	inLine	sasa -- sasa hivi niko hapa Nairobi .
+10.950	outLine	<no-speech>
+11.410	outLine	<no-speech>
+11.600	inLine	<no-speech>
+12.560	outLine	uko hapa na- -- uko hapa Nairobi upande gani ?
+12.730	inLine	na <no-speech> ninajaribu sasa nikipata %incomplete
+15.126	outLine	<no-speech>
+16.203	inLine	<no-speech>
+16.921	inLine	ehhe ?
+17.300	inLine	<no-speech>
+17.350	outLine	uko hapa Nairobi upande gani ?
+18.940	inLine	<int> ati ?
+19.238	outLine	<no-speech>
+19.550	inLine	<no-speech>
+19.892	outLine	uko Nairobi upande gani ?
+21.260	outLine	<no-speech>
+22.510	inLine	niko Nairobi .
+23.342	inLine	<no-speech>
+24.370	inLine	ehhe .
+25.095	inLine	Kawangware .
+26.400	inLine	<no-speech>
+26.760	outLine	ohh .
+27.034	outLine	Kawangware .
+27.820	outLine	<no-speech>
+28.520	inLine	ehhe sasa %incomplete
+29.460	inLine	<no-speech>
+29.590	outLine	ehhe .
+30.190	outLine	<no-speech>
+31.260	inLine	mmhm .
+31.637	inLine	Kawangware .
+32.230	inLine	<no-speech>
+32.400	outLine	ehhe .
+33.010	outLine	<no-speech>
+33.610	inLine	sasa <hes> nimepata <int> kazi mahali kampuni moja inaitwa sternmwah security .
+39.870	inLine	<no-speech>
+40.050	outLine	ehhe .
+40.710	outLine	<no-speech>
+42.500	inLine	unanipata ?
+43.350	outLine	ehhe .
+43.350	inLine	<no-speech>
+43.611	outLine	nakupata .
+44.360	inLine	<no-speech> sasa ninafanya nao ingawaje -- *ingalau* *kamshara* ni ndogo -- *ingalau* *kamshara* ni kadogo .
+44.570	outLine	<no-speech>
+49.440	outLine	mmhm .
+49.480	inLine	<no-speech>
+50.090	outLine	<no-speech>
+50.920	inLine	na lakini nitavumilia .
+52.720	inLine	<no-speech>
+53.700	outLine	ehhe .
+54.049	outLine	maisha ni kuvumilia ndugu yangu .
+54.950	inLine	sawa ?
+55.500	outLine	ehhe .
+55.520	inLine	<no-speech>
+55.942	outLine	maisha ni kuvimilia unaanzia kidogo na Mungu atakuinua .
+59.700	outLine	<no-speech>
+62.880

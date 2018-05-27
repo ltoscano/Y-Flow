@@ -1,0 +1,50 @@
+0.000	outLine	ahh ni sawa wangu wangu mi naendelea tu na shughuli .
+0.000	inLine	<no-speech>
+3.810	outLine	<no-speech>
+3.970	inLine	ahh siku yako leo ikoje ?
+5.887	inLine	imeendaje mpaka saa hizi ?
+7.220	inLine	<no-speech>
+8.340	outLine	ahh .
+8.640	inLine	<no-speech>
+8.955	outLine	hapa nimepanga foleni mpaka saa hii foleni yenyewe haijamalizika nakwambia kuingia ndani shida .
+9.820	inLine	<no-speech>
+14.332	outLine	<no-speech>
+14.970	inLine	foleni huko benki ?
+16.073	outLine	ehhe ehhe .
+16.239	inLine	<no-speech>
+17.154	inLine	uko wapi ?
+17.716	inLine	<no-speech>
+18.054	outLine	<no-speech>
+18.464	inLine	ahh pole sana ndugu yangu .
+19.368	outLine	ehhe Equity .
+19.879	inLine	<no-speech>
+20.290	outLine	<no-speech>
+21.272	inLine	pole sana .
+22.250	inLine	<no-speech>
+23.180	outLine	ahh nimeshapoa lakini ndiyo hivyo najitahidi ndiyo nasongasonga <sta> lakini naingia ndani saa hii narejea mlangoni .
+28.490	inLine	ehhe usijali wajua mvumilivu hula mbivu ?
+29.840	outLine	<no-speech>
+32.170	outLine	<laugh> ndiyo maanake .
+32.200	inLine	<no-speech>
+33.675	outLine	<no-speech>
+34.840	inLine	<no-speech>
+34.962	outLine	lakini mbivu yenyewe siioni mpaka saa hizi kuanzia asubuhi yote nimekaa hapa mpaka saa hizi hamna kitu ninachoona .
+35.240	inLine	<no-speech>
+41.040	inLine	ahh usijali hata mi nilikuwa sijala kiamsha kinywa lakini unajua kupata chakula cha mchana <breath> hapo katika hoteli ya mama Juma na nimekula samaki mzuri kweli .
+41.750	outLine	<no-speech>
+43.490	outLine	<no-speech>
+44.390	outLine	<no-speech>
+45.580	outLine	<no-speech>
+45.940	outLine	<no-speech>
+50.790	outLine	<no-speech>
+51.156	inLine	<no-speech>
+52.321	outLine	ni tamu ehhe ?
+52.370	inLine	<no-speech> mzuri sana yaani anapika vizuri yule mama sana nampongeza kwa kweli kwa hilo .
+53.510	outLine	<no-speech>
+56.200	outLine	<int> jioni si utanipeleka wacha mi nikapige kidogo .
+57.440	inLine	<no-speech>
+59.680	outLine	<no-speech>
+59.920	inLine	(()) .
+60.770	inLine	<no-speech>
+61.490	outLine	ehhe .
+62.380

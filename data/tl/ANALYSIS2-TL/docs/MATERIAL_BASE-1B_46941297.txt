@@ -1,0 +1,43 @@
+[0.000]
+payat maliit para sa kaniyang edad .
+[3.130]
+at permi ding sumasakit ang tiyan ng siyam na taong gulang na si Gilden o Dindin .
+[8.071]
+ang dahilan bulate .
+[10.320]
+minsan po masakit 'yung tiyan ko pati ulo .
+[13.380]
+<no-speech>
+[14.180]
+ayon sa datos ng national institute of health ng U_P mahigit limampung <sta> porsiyento ng mga estudyante sa public schools ang may bulate .
+[23.129]
+<hes> these are pre-school and school aged children no up to one out of three children in the private schools may have it .
+[29.970]
+base sa pag-aaral ng U_P pati pag-aaral nila nadadamay .
+[34.964]
+sumisipsip ng bulate ang dugo ang resulta standing at 'tsaka poor mental abilities .
+[41.420]
+kapag di agad pinurga ang batang may bulate puwedeng butasin o mabara ito sa bituka .
+[47.360]
+kalinisan sa katawan at paligid ang isang mabisang paraan para kontrahin ang bulate .
+[52.170]
+<no-speech>
+[52.924]
+naiiwan ang itlog ng bulate sa lupa at puwede itong pumasok sa katawan ng bata kung naglalakad ng nakayapak .
+[59.930]
+puwede ring magkabulate dahil sa pagkain ng naalikabukan o nadapuan ng langaw .
+[65.330]
+kasama din si Dindin sa libo-libong mga mag-aaral na sumailalim sa deworming sa Cawit .
+[71.210]
+pinakain muna ang mga bata at 'tsaka binigyan ng tableta .
+[75.330]
+<overlap> consumable daw tong gamot pampurga .
+[78.880]
+lasang candy nga daw at hindi na kailangan ng health worker para magbigay sa kanila .
+[83.943]
+maski mga school teachers puwede nang magpapurga para sa mga tsikiting .
+[89.090]
+ayon kay doctor Belisario dalawang beses kada taon dapat ginagawa ang pagpupurga sa mga bata .
+[95.390]
+pero dapat <sta> din itong sabayan ng paglilinis at tamang sanitasyon .
+[100.023]

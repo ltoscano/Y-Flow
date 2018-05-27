@@ -1,0 +1,37 @@
+[0.000]
+<sta> nasa high risk status ngayon ang Tacurong City dahil sa biglang pag-akyat ng kaso ng dengue sa siyudad simula noong Abril .
+[6.740]
+<sta> mula Enero hanggang Hunyo ngayong taon isang daan at dalawampu na ang naitatalang kaso <sta> at may limampu't walo na ngayong Hulyo lang .
+[14.738]
+<sta> malayo ito sa limampu't dalawang kaso noong twenty thirteen .
+[18.530]
+<sta> kaya si Leonicel naalarma na at ayaw magkumpiyansa .
+[21.997]
+<no-speech>
+[23.760]
+<sta> konting lagnat lang ng mga pamangkin pinapa-checkup na agad nila sa doktor .
+[28.950]
+<sta> pero dito sa area namin sa Bonifacio Street parang wala pa (()) .
+[32.850]
+<sta> pero mine-maintain n'yo lang na talagang <overlap> <sta> oo nag-maintain kami ng ano sa paligid lang namin hindi naman siguro namin obligasyon na maglinis pa ng kanal di ba ?
+[41.020]
+<sta> pero talagang (()) .
+[43.618]
+<sta> oo gina- -- ano namin kung nagkalagnat 'yung mga ano namin kaagad-agad ginapunta namin sa ano kay <sta> siyempre <hes> bago mag-ano maglagnat man 'yan siya kung gayon -- on-off on-off ano kami agad sa ano .
+[55.373]
+<sta> maging ang health office ng region twelve nabahala na rin sa biglang pagtaas ng kaso ng dengue sa Tacurong .
+[61.860]
+<sta> lumalabas sa survey na ilan umano sa mga residente ay may pagkukulang sa kooperasyon sa pagsugpo ng pinamumugaran ng lamok .
+[69.480]
+<sta> hindi rin nawawalan ng tubig ang drainage system at kulang sa pagpapalaganap ng impormasyon hinggil sa dengue .
+[76.380]
+<sta> may information drive <overlap> mhm may information drive .
+[78.842]
+<sta> may limpyo kalog katong <sta> mga taga city hall mangadto sa sa area para maglimpyo Ana man gihapon .
+[87.593]
+<sta> kung patuloy na magpapabaya aasahan pang tataas ang kaso ng dengue sa Tacurong ngayong tag-ulan .
+[94.580]
+<sta> noong nakaraang taon nag zero death ang Tacurong sa dengue .
+[98.517]
+<sta> pero ngayong taon may isa nang naiulat na namatay dahil sa kagat ng lamok .
+[103.328]

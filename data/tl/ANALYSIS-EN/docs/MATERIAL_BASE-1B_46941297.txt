@@ -1,0 +1,21 @@
+<1>	(0.000-3.130)	payat maliit para sa kaniyang edad .	thin small for his age .
+<2>	(3.130-8.071)	at permi ding sumasakit ang tiyan ng siyam na taong gulang na si Gilden o Dindin .	and the nine-year-old Gilden or Dindin always have a stomachache .
+<3>	(8.071-10.320)	ang dahilan bulate .	the reason is worms .
+<4>	(10.320-13.380)	minsan po masakit 'yung tiyan ko pati ulo .	sometimes my stomach and head aches .
+<5>	(13.380-14.180)	<no-speech>	<no-speech>
+<6>	(14.180-23.129)	ayon sa datos ng national institute of health ng U_P mahigit limampung <sta> porsiyento ng mga estudyante sa public schools ang may bulate .	according to the data of the National Institute of Health of U_P more than fifty percent of public school students have worms .
+<7>	(23.129-29.970)	<hes> these are pre-school and school aged children no up to one out of three children in the private schools may have it .	these are pre-school and school aged children no up to one out of three children in the private schools may have it .
+<8>	(29.970-34.964)	base sa pag-aaral ng U_P pati pag-aaral nila nadadamay .	based on a study of U_P even their studies are affected .
+<9>	(34.964-41.420)	sumisipsip ng bulate ang dugo ang resulta standing at 'tsaka poor mental abilities .	the worm sips blood the result is standing and poor mental abilities .
+<10>	(41.420-47.360)	kapag di agad pinurga ang batang may bulate puwedeng butasin o mabara ito sa bituka .	if a child with worm is not purged immediately it can pierce or block the intestine .
+<11>	(47.360-52.170)	kalinisan sa katawan at paligid ang isang mabisang paraan para kontrahin ang bulate .	cleanliness of the body and surroundings is an effective way to control worms .
+<12>	(52.170-52.924)	<no-speech>	<no-speech>
+<13>	(52.924-59.930)	naiiwan ang itlog ng bulate sa lupa at puwede itong pumasok sa katawan ng bata kung naglalakad ng nakayapak .	the egg of the worm is left on the ground and can enter the body of a child if he walks barefoot .
+<14>	(59.930-65.330)	puwede ring magkabulate dahil sa pagkain ng naalikabukan o nadapuan ng langaw .	worms can also be gotten from eating food with dust or touched by flies .
+<15>	(65.330-71.210)	kasama din si Dindin sa libo-libong mga mag-aaral na sumailalim sa deworming sa Cawit .	Dindin is also included in the thousands of students who went through deworming in Cawit .
+<16>	(71.210-75.330)	pinakain muna ang mga bata at 'tsaka binigyan ng tableta .	the children were fed first and then given tablets .
+<17>	(75.330-78.880)	<overlap> consumable daw tong gamot pampurga .	it is supposedly consumable deworming medicine .
+<18>	(78.880-83.943)	lasang candy nga daw at hindi na kailangan ng health worker para magbigay sa kanila .	tastes like candy and no health worker is needed anymore to give it to them .
+<19>	(83.943-89.090)	maski mga school teachers puwede nang magpapurga para sa mga tsikiting .	even school teachers can deworm the children .
+<20>	(89.090-95.390)	ayon kay doctor Belisario dalawang beses kada taon dapat ginagawa ang pagpupurga sa mga bata .	according to Doctor Belisario deworming of the children should be done twice every year .
+<21>	(95.390-100.023)	pero dapat <sta> din itong sabayan ng paglilinis at tamang sanitasyon .	but it should also be accompanied by cleaning and proper sanitation .

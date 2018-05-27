@@ -1,0 +1,77 @@
+0.000	inLine	oo .
+0.000	outLine	<no-speech>
+0.800	inLine	<no-speech>
+1.283	inLine	'pag umaga iinom siyang vitamins <no-speech> sinabi ba sa 'yo <no-speech> sinabi ba sa 'yo ni Arjay ?
+1.590	outLine	o narinig mo ?
+2.660	outLine	<no-speech>
+3.750	outLine	sige .
+4.194	outLine	<no-speech>
+4.330	outLine	<no-speech>
+6.910	inLine	<no-speech>
+8.200	outLine	oo sinabi na .
+9.448	outLine	<no-speech>
+9.650	inLine	ha ?
+10.420	inLine	<no-speech>
+10.630	outLine	oo sinabi na no'ng <hes> pa .
+11.720	inLine	ah sinabi na oh .
+12.380	outLine	<no-speech>
+13.153	inLine	<no-speech>
+13.672	inLine	'pag -- <no-speech> 'pag umaga iinom na siya vitamins eh nando'n sa ref .
+17.910	outLine	<no-speech>
+18.450	inLine	<no-speech>
+19.240	outLine	oo sige .
+20.057	outLine	<no-speech>
+22.030	inLine	oo dalawa 'yon .
+22.520	outLine	<no-speech>
+23.730	inLine	<no-speech>
+24.740	inLine	oh 'yon lang naman tapos <no-speech> toothbrush 'pag naligo .
+28.780	outLine	<no-speech>
+28.923	inLine	<no-speech>
+29.330	outLine	<no-speech>
+29.527	inLine	basta 'yong ano niya si- -- bigay mo lang kay nanay siya na maghuhugas 'tsaka magtatakal ng tubig doon .
+35.310	inLine	<no-speech>
+35.930	outLine	ah (()) .
+36.210	inLine	sa dede .
+36.920	outLine	<no-speech>
+37.260	inLine	<no-speech>
+39.540	inLine	pero 'yong dispenser ng gatas sa taas ?
+42.330	inLine	<no-speech>
+43.160	inLine	hindi na siya makakaakyat diyan ikaw na lang .
+45.160	outLine	<no-speech>
+45.320	inLine	<no-speech>
+45.852	outLine	o ilang scoop ba 'yan ?
+47.820	outLine	<no-speech>
+48.770	inLine	a- -- <no-speech> anim .
+49.620	outLine	ilang scoop ng gatas ?
+50.960	outLine	<no-speech>
+51.020	inLine	<no-speech>
+52.480	outLine	<no-speech>
+53.370	inLine	oh anim na scoop anim six .
+53.620	outLine	ha ?
+54.086	outLine	<no-speech>
+55.459	outLine	oo oo sige .
+55.992	inLine	<no-speech>
+56.430	outLine	<no-speech>
+56.679	inLine	six na scoop anim oo 'yon .
+59.263	inLine	<no-speech>
+59.862	inLine	dalawang dispenser lang naman 'yon eh oo .
+60.110	outLine	<no-speech>
+62.280	inLine	<no-speech>
+62.790	outLine	<no-speech>
+63.980	outLine	<no-speech>
+64.340	outLine	<no-speech>
+64.470	inLine	tapos nando'n nga 'yong mga damit niya nando'n lang .
+66.280	outLine	<no-speech>
+66.990	inLine	<no-speech>
+69.100	inLine	tapos sa Sunday na kami babalik .
+69.790	outLine	<no-speech>
+71.170	inLine	<no-speech>
+71.870	inLine	<no-speech>
+72.110	outLine	ano ?
+72.573	outLine	kailan ka babalik ?
+73.370	outLine	<no-speech>
+73.450	inLine	se- -- <no-speech> Son <no-speech> Linggo sa Linggo kinabukasan .
+75.660	outLine	oo .
+76.059	outLine	<no-speech>
+76.200	outLine	<no-speech>
+78.090

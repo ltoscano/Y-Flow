@@ -1,0 +1,61 @@
+[0.000]
+<sta> umakyat na sa dalawampu't isa ang nasawi dahil sa dengue sa probinsiya ng Cavite .
+[7.650]
+<sta> pinag-aaralan na rin kung resulta ang pagdami ng kaso ang panibagong strain ng sakit .
+[12.999]
+<sta> umaaksiyon si (()) .
+[16.650]
+halos magkakatabi na ang higaan ng mga pasyenteng tinamaan ng dengue sa General Emilio Aguinaldo Memorial Hospital sa Trece Martires Cavite .
+[24.940]
+puno na ang mga kuwarto kaya ang ibang kama nasa pasilyo na .
+[28.640]
+ayon sa pamunuan two hundred eighty five lang ang bed capacity ng ospital .
+[33.200]
+higit isang daan dito inilaan na sa mga may dengue .
+[36.467]
+<int> kagabi lang tatlumpu't-tatlong ang na-admit sa provincial hospital .
+[40.103]
+medyo talagang kukulangin kami ng resources .
+[43.370]
+<int> nakakaramdam na rin daw ng pagod ang staff ng ospital dahil sa walang patid na dating ng mga pasyente .
+[49.900]
+aking mga staff talagang lupaypay na .
+[53.260]
+ang aking mga nurse talagang <no-speech> bukod sa maliit ang suweldo e talagang over-tawad sa dami ng pasyente .
+[60.350]
+<int> papalo na sa apat na libo at limang daan ang tinamaan ng dengue sa Cavite mula Enero hanggang Setyembre .
+[66.900]
+umakyat naman sa dalawampu't isa ang namatay .
+[69.399]
+kalahati nito mula sa Dasmariñas .
+[72.200]
+inaalam na kung dulot ito ng panibagong strain ng dengue .
+[75.351]
+ang ilang nasawi raw kasi nakaranas agad ng matinding sintomas ng sakit gaya ng pagdurugo .
+[81.380]
+mayroon pong <hes> fever na dalawang araw lang .
+[84.296]
+<int> pinakuhanan namin ng <hes> blood samples to be submitted sa R_I_T_M to zero in if it's really a ca- -- different <hes> b- -- blood <hes> strain .
+[94.535]
+<int> kanya-kanya namang hinala ang mga kaanak at pasyente kung saan nila nakuha ang sakit .
+[99.870]
+<int> baka doon sa bahay .
+[101.863]
+<int> sa school po 'yan siguro .
+[104.431]
+maraming lamok daw doon tapos marami na ring estudyante na nagkaka-dengue doon .
+[109.243]
+<int> muling paalala ng mga awtoridad maiiwasan ang dengue kung pananatilihin nag kalinisan sa paligid .
+[116.162]
+<int> dapat po ituro ang tamang paglilinis .
+[120.176]
+hanapin ang dengue breeding sights .
+[122.412]
+basta po may tubig may kiti-kiti .
+[124.810]
+basta po may kiti-kiti malamang may lamok .
+[126.576]
+at kung may lamok e marami po ang ma- -- masasalanta dahil may dengue po itong kaakibat .
+[131.998]
+<int> umaaksiyon .
+[133.926]

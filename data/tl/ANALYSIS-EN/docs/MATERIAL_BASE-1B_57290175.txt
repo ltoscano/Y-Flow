@@ -1,0 +1,18 @@
+<1>	(0.000-6.740)	<sta> nasa high risk status ngayon ang Tacurong City dahil sa biglang pag-akyat ng kaso ng dengue sa siyudad simula noong Abril .	Tacurong City is on high risk status today because of the sudden rise in dengue cases in the city ever since April .
+<2>	(6.740-14.738)	<sta> mula Enero hanggang Hunyo ngayong taon isang daan at dalawampu na ang naitatalang kaso <sta> at may limampu't walo na ngayong Hulyo lang .	from January to June this year one hundred and twenty cases have been recorded and fifty-eight cases in July alone .
+<3>	(14.738-18.530)	<sta> malayo ito sa limampu't dalawang kaso noong twenty thirteen .	this is far from the fifty-two cases back in twenty thirteen .
+<4>	(18.530-21.997)	<sta> kaya si Leonicel naalarma na at ayaw magkumpiyansa .	that's why Leonicel is alarmed and no longer wants to take any risks .
+<5>	(21.997-23.760)	<no-speech>	<no-speech>
+<6>	(23.760-28.950)	<sta> konting lagnat lang ng mga pamangkin pinapa-checkup na agad nila sa doktor .	just a slight fever in the nephews they already bring them to the doctor for check-up .
+<7>	(28.950-32.850)	<sta> pero dito sa area namin sa Bonifacio Street parang wala pa (()) .	but here in our area at Bonifacio Street it seems like there is no (()) .
+<8>	(32.850-41.020)	<sta> pero mine-maintain n'yo lang na talagang <overlap> <sta> oo nag-maintain kami ng ano sa paligid lang namin hindi naman siguro namin obligasyon na maglinis pa ng kanal di ba ?	but you just maintain yes we maintained our area it's not our obligation to also clean the canal right ?
+<9>	(41.020-43.618)	<sta> pero talagang (()) .	but it's really (()) .
+<10>	(43.618-55.373)	<sta> oo gina- -- ano namin kung nagkalagnat 'yung mga ano namin kaagad-agad ginapunta namin sa ano kay <sta> siyempre <hes> bago mag-ano maglagnat man 'yan siya kung gayon -- on-off on-off ano kami agad sa ano .	yes -- if the uh had a fever we immediately bring them to uh of course before he uh gets a fever in case -- on-off on-off we immediately uh to the uh .
+<11>	(55.373-61.860)	<sta> maging ang health office ng region twelve nabahala na rin sa biglang pagtaas ng kaso ng dengue sa Tacurong .	even the health office of region twelve is worried about the sudden increase of dengue cases in Tacurong .
+<12>	(61.860-69.480)	<sta> lumalabas sa survey na ilan umano sa mga residente ay may pagkukulang sa kooperasyon sa pagsugpo ng pinamumugaran ng lamok .	it appears in a survey that supposedly some residents lack cooperation in curbing the breeding places of mosquitoes .
+<13>	(69.480-76.380)	<sta> hindi rin nawawalan ng tubig ang drainage system at kulang sa pagpapalaganap ng impormasyon hinggil sa dengue .	the drainage system also does not lose water and there is a lack of information distribution about dengue .
+<14>	(76.380-78.842)	<sta> may information drive <overlap> mhm may information drive .	there is an information drive yes there is an information drive .
+<15>	(78.842-87.593)	<sta> may limpyo kalog katong <sta> mga taga city hall mangadto sa sa area para maglimpyo Ana man gihapon .	there is a clean sickle those from the city hall will go to the area first to clean well that's how it is .
+<16>	(87.593-94.580)	<sta> kung patuloy na magpapabaya aasahan pang tataas ang kaso ng dengue sa Tacurong ngayong tag-ulan .	if negligence continues expect the number of dengue cases in Tacurong to increase this rainy season .
+<17>	(94.580-98.517)	<sta> noong nakaraang taon nag zero death ang Tacurong sa dengue .	last year no one died of dengue in Tacurong .
+<18>	(98.517-103.328)	<sta> pero ngayong taon may isa nang naiulat na namatay dahil sa kagat ng lamok .	but this year one death was already reported due to mosquito bite .

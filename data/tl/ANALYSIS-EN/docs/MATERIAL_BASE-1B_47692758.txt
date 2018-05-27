@@ -1,0 +1,13 @@
+<1>	(0.000-0.829)	<sta> sa A_F_P .	in A_F_P .
+<2>	(0.829-2.019)	magandang umaga Leo .	good morning Leo .
+<3>	(2.019-3.885)	good morning Czarina .	good morning Czarina .
+<4>	(3.885-11.300)	hindi kinumpirma o itinanggi ng A_F_P <sta> ang mga ulat na pinugutan ng Abu Sayyaf ang kanilang bihag na Aleman na si Juergen Kantner .	the A_F_P neither confirmed nor denied the reports that Abu Sayyaf beheaded their German hostage Juergen Kantner .
+<5>	(11.300-18.880)	<sta> ayon kay A_F_P spokesman brigadier general Restituto Padilla hangga't hindi validated ang mga ulat hindi ito basta-basta dapat paniwalaan .	according to A_F_P spokesman brigadier general Restituto Padilla until these reports aren't validated it shouldn't be credited .
+<6>	(18.880-32.767)	<sta> sinabi naman ng isang military official sa Sulu hanggang kagabi ay bina-validate pa rin ng militar ang ulat <sta> ng Aleman ay pinugutan ng ulo matapos lumipas ang deadline na itinakda ng Abu Sayyaf <sta> para magbayad ng tatlumpung milyong pisong ransom .	one military official in Sulu said until last night that the military were still validating the report that the German was beheaded after the deadline given by the Abu Sayyaf to pay thirty million pesos in ransom was up .
+<7>	(32.767-41.043)	<sta> ayon pa sa opisyal kumikilos na ang militar para makipag-ugnayan sa mga lokal na opisyal ng Indanan Sulu <sta> kung saan umano isinagawa ang pagpugot .	according to the official the military are in action to collaborate with the local officials of Indanan Sulu where the alleged beheading was made .
+<8>	(41.043-50.560)	<sta> samantala batay sa spat report ng P_N_P Sulu <sta> alas-tres y medya ng hapon araw ng Linggo nang umano'y pugutan ng ulo si Kantner ng Abu Sayyaf group .	meanwhile based on the spat report of P_N_P Sulu it was three thirty in the afternoon of Sunday when Kantner was allegedly beheaded by the Abu Sayyaf group .
+<9>	(50.560-58.240)	<sta> na pinamumunuan ni Muamar Askali alyas Abu Rami sa sitio South Talibang barangay Buanza Indanan Sulu .	led by Muamar Askali also known as Abu Rami in Sitio South Talibang Barangay Buanza Indanan Sulu .
+<10>	(58.240-60.968)	<sta> pero ang labi ni Kantner ay hindi pa na-re-recover .	but the body of Kantner isn't recovered yet .
+<11>	(60.968-69.972)	<sta> binigyan diin naman ni Padilla na hangga't walang matibay na ebidensiya <sta> na magpapatotoo sa mga ulat ng pagpugot ang presumption ay buhay pa ang biktima .	Padilla said that until there's no hard evidence that will prove the report of beheading the presumption is the victim is still alive .
+<12>	(69.972-73.190)	<sta> para sa radyo Vision ito si Leo Sarne media ng bayan .	for radio Vision here's Leo Sarne media of the town .
+<13>	(73.190-75.088)	<no-speech>	<no-speech>

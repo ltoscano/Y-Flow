@@ -66,7 +66,9 @@ print('generating Indri query format ..')
 dictionary = {}
 with open(params.dico_train) as f:
     for line in f:
-        word, trans = line.rstrip().split(' ')
+        #word, trans = line.rstrip().split(' ')
+        word = line.rstrip().split()[0]
+        trans = ' '.join(line.rstrip().split()[1:])
         if(word in dictionary):
             if len(dictionary[word]) > int(params.rank):
                 continue #print(len(dictionary[word]),params.rank)
@@ -113,7 +115,7 @@ with open(params.query) as f:
             
             for a in all_phrase_combinations:
                 if len(a):
-                    z.append("#1("+" ".join(a)+")")
+                    z.append("#uw100("+" ".join(a)+")")
             
             if z:
                 w.append(z)

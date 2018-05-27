@@ -1,0 +1,50 @@
+<1>	(0.000-1.913)	uwe mwenyekiti au mwenye ki stool li .	whether you are the chairman or stool .
+<2>	(1.913-6.487)	sisi tumeanza kuchangia mwaka gani kwa soko hili mpaka kufikia hatuelewi tunatoa shilingi elfu nane kwa mwezi .	which year did we start contributing to this market until reaching we don't understand we give eight thousand shillings per month .
+<3>	(6.487-7.463)	<no-speech>	<no-speech>
+<4>	(7.463-12.830)	jibu ni kwamba swala la kuchangia ushuru au kutoa ushuru si swala la siku moja .	the answer is that the issue of contributing or paying taxes isn't a one day issue .
+<5>	(12.830-17.669)	hata kama umeanza mwaka elfu mbili na <int> (()) ishirini na tano sasa lakini hili ni swala endelevu .	even if you started in the year two thousand and (()) now twenty-five but this is a sustainable issue .
+<6>	(17.669-23.888)	sasa kwa hiyo kama ulilipa siku za nyuma ni kwamba unaendelea kulipa ushuru <sta> kwa sababu bado upo na unashughulika .	now in this way if you paid in the past you still continue paying taxes because you're still around and you are occupied in your affairs .
+<7>	(23.888-30.048)	sisi tunalipa tunacho sema sasa hela inakwenda wapi wakati (()) sasa ngoja -- ngoja kidogo .	we are paying what we are saying now where does the money go when (()) now wait -- wait a little .
+<8>	(30.048-35.840)	<sta> huyu -- huyu -- huyu ni mwenyekiti ni mwenyekiti ya soko au ni mwenyekiti wa wazoa takataka ?	this -- this -- this is the chairman is the chairman of the market or is the chairman of the garbage collectors ?
+<9>	(35.840-41.761)	<int> yaani huyu mwenyekiti wa walio- -- yaani wa soko mchanganyiko kwa sababu soko ndilo linalo- <overlap> ahh (()) nalipa kule .	that is this chairman of they -- that is of the mixed market because it's the market that has -- ahh (()) I pay there .
+<10>	(41.761-42.868)	<overlap> ninalipa ushuru kule .	I pay taxes there .
+<11>	(42.868-49.874)	(()) wao ndiyo wenye majukumu ya kuchukua gari ya kubeba usafi eh ya kubeba takataka <overlap> <sta> na cha ajabu <int> utakuta magari yataka hayo .	(()) they are the ones with the responsibilities of getting the vehicle of carrying cleanliness yes to carry garbage and what is surprising you'll find those garbage vehicles .
+<12>	(49.874-54.104)	<overlap> na kifupi ni kwamba hao wanataka kuleta (()) .	and in short is that those ones want to bring (()) .
+<13>	(54.104-57.841)	unafikiri (()) umesikia kitu kimoja huyu <int> mama anasema niliwahi mi kumtongoza .	you think (()) you've heard one thing this woman says I once seduced her .
+<14>	(57.841-59.313)	<breath> ni jambo ambalo sio la kweli .	it's something that isn't true .
+<15>	(59.313-65.738)	<breath> unajua unapokuwa kiongozi lazima ukutane na vipingamizi na mambo ya -- ya mengi tu makubwa ya kutaka kuchafua heshima yako .	you know when you are a leader you must meet obstacles and issues of -- just a lot that want to spoil your respect .
+<16>	(65.738-72.107)	lakini napenda niseme kitu kimoja kwamba shughuli kama hii <breath> inategemea ushuru ili iweze kufanyika <breath> .	but I would like to say one thing that activities like this depend on taxes in order to be able to be done .
+<17>	(72.107-74.700)	hata hawa wanaozoa takataka hapa wanahitaji kulipwa .	even those who take out garbage here need to be paid .
+<18>	(74.700-85.314)	je tutajiendeshaje kama wao wanakuwa <overlap> <sta> hapo mwenyekiti <overlap> kama afisa unajua naona kama umenipotezea muda kunileta .	how will we run our affairs if they are there chairman like an officer you knows like you've wasted my time to bring me here .
+<19>	(85.314-88.770)	<no-speech>	<no-speech>
+<20>	(88.770-97.064)	kama <sta> wafanyi- -- tuna -- tunatoa maelezo kwamba kama wafanyabiashara ni elfu moja wa soko hili tu dogo si ndiyo ?	like those who -- we are -- we give instructions that if business people are one thousand of just this small market right ?
+<21>	(97.064-97.730)	ndiyo .	yes .
+<22>	(97.730-104.222)	sasa kama wao ni elfu moja ukichukua shilingi elfu tisini na sita kwa mwaka <sta> unakuta ni hela nyingi .	now if they are one thousand if you take ninety-six thousand for a year you find it's a lot of money .
+<23>	(104.222-108.391)	hiyo hela mnafanyia nini kama <overlap> kama watu wa- -- wa soko ?	what do you do with that money like people of -- of the market ?
+<24>	(108.391-109.789)	swali la msingi .	basic question .
+<25>	(109.789-116.230)	pesa tunazokusanya hapa mimi nafikiri <int> wewe hukukuja hapa kwa ajili ya kutaka kujua tunakusanya shilingi ngapi .	the money we collect here I think you come here in order to know how many shillings we collect .
+<26>	(116.230-122.930)	nilichokuitia wewe ni kuhakikisha kwamba una pressurize au unatia msukumo watu wakubali kulipa hela ya ushuru .	why I called you for is to ensure that you pressurize or push people to agree to pay tax money .
+<27>	(122.930-129.464)	sasa mambo ya kusema kwamba hii pesa inakusanywa ni shilingi milioni mia ngapi nafikiri hilo sio swala langu mimi ni mwenyekiti tu hapa .	now the issues of saying that this money is collected how many hundred millions I think isn't my issue mine is just the chairman here .
+<28>	(129.464-130.780)	<sta> labda uende kwa mhasibu .	maybe you go to the accountant .
+<29>	(130.780-135.238)	lakini baba subiri <overlap> nami niseme jamani ijapokuwa hata kama <overlap> .	but brother wait I say friend although even if .
+<30>	(135.238-136.312)	ngoja nikuambie baba yangu .	wait I tell you my brother .
+<31>	(136.312-136.860)	ehhe .	no .
+<32>	(136.860-140.765)	hili jalala <sta> linatelekezwa kwa muda mrefu <int> .	this garbage dump has been neglected for a long time .
+<33>	(140.765-144.760)	ndani ya kutekle- -- kule- -- telekezwa kwa muda mrefu lingekuwa linazolewa kwa wakati .	into -- there -- neglected for a long time it would have been removed for some time .
+<34>	(144.760-149.326)	<sta> lisingekuwa tunafikia hali kwamba mpaka watu wanachukua miili <breath> ya marehemu wanakuja wanatupwa hapa .	we would not be getting to a situation that until people take bodies of the dead they come to throw them here .
+<35>	(149.326-150.544)	what -- ina maana ya- -- yes .	what -- it means of -- yes .
+<36>	(150.544-151.739)	sijakuelewa una say ?	I have not understood you you're saying ?
+<37>	(151.739-156.740)	unaambiwa hivi jalala hili halitolewi yaani halizolewi kwa muda unaotakiwa .	you're told this garbage dump isn't removed meaning that it is collected at the required time .
+<38>	(156.740-166.100)	ina maana linaachanishwa kwa muda mrefu mpaka inafikia kiwango watu wanaua watu ina maana wanakuja kuwaweka hapa kwa sababu <breath> hakuna mtu anayekuja kufanya uangalizi kuangalia <overlap> huyu mama ni mwongo .	it means it is left for a long time until it gets to a level people kill people means they come to dump them here because no one comes to observe to see if this woman is a liar .
+<39>	(166.100-171.879)	huyu mama ni mwongo <overlap> (()) gari zinakuja kusomba hapa kila siku na sisi ndiyo viongozi wa soko .	this woman is a liar (()) vehicles come to collect here everyday and we are the leaders of the market .
+<40>	(171.879-175.821)	mwenyekiti mwenyekiti tafadhali swala ya marehemu ili kwamba analozungumza ni la msingi .	chairman chairman please the issue of the deceased so that what she is saying is of essence .
+<41>	(175.821-180.414)	yaani kama ingekuwa inazolewa taka kwa wakati <sta> marehemu asingefikia tu <overlap> (()) .	that is if it was being collected at times the dead wouldn't just reach (()) .
+<42>	(180.414-181.738)	sasa mwenyekiti nimeelewa .	now chairman I have understood .
+<43>	(181.738-184.802)	wacha mimi niongee na hawa na <int> nitatoa tamko .	allow me to talk to these ones and I'll give a statement .
+<44>	(184.802-187.876)	sisi kama jeshi la polisi hatutaki kuvunja amani ya -- ya watu .	we like the police force we don't want to disrupt the peace of -- of people .
+<45>	(187.876-196.389)	<overlap> (()) ukisimamia maendeleo unaonekana mbaya twendeni mama tukaongee ofisini .	(()) if you stand for development you're seen as being bad woman let's talk in the office .
+<46>	(196.389-197.098)	kweli baba .	true brother .
+<47>	(197.098-201.205)	<sta> mwenyekiti naomba -- naomba utakuja ofisini pale tuzungumze .	chairman I ask -- I ask you'll come to the office where we can talk .
+<48>	(201.205-204.596)	sisi tuna ubaya gani wakati sisi ndiyo tulimchagua kwamba akae hapa .	what wrong do we have when we are the ones who elected him to sit here .
+<49>	(204.596-206.814)	tulijua atatoa matatizo haya yaende sawa .	we knew he will remove these problems to go right .
+<50>	(206.814-207.975)	<breath> leo anaona sisi viti- %incomplete	today he sees us seats -- %incomplete

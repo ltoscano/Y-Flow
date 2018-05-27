@@ -1,0 +1,145 @@
+[0.000]
+wana mzozo .
+[0.711]
+<no-speech>
+[1.474]
+<hes> (()) <no-speech> <sta> tumeweza kufuatilia vizuri sana <int> <hes> huu mjadala labda kwa muda mfupi huu kabla hatujapisha kupata dondoo <hes> za magazeti .
+[11.807]
+<hes> mpango tunaona upo sasa kwa timu yetu ya soccer <breath> ya Tanzania <hes> taifa Stars na vile vile tumeshaona hata jopo la makocha ambao wako chini kuhakikisha kwamba wanawanoa vizuri hao vijana .
+[25.606]
+lakini kitu ambacho mi kimenifurahisha ni kwamba kuwajengea uzalendo .
+[29.611]
+<no-speech>
+[30.576]
+uzalendo katika swala zima la kuandaa wachezaji una umuhimu kwa kiasi gani ?
+[34.540]
+<hes> lina umuhimu .
+[35.777]
+<int> lina umuhimu kwa sababu unajua <hes> huwezi kuwa unakifanya kitu kwamba labda hukijui <int> kiundani .
+[41.122]
+lakini kama unakifanya kitu na ukifahamu kiundani nina imani utakifanya vizuri .
+[45.270]
+hautakifanya kwa kulipua .
+[46.745]
+sasa uta- -- uta- -- utapewa ufundi utapewa ujanja utatengenezwa vizuri kisaikolojia lakini kumbe bado hujaelewa kwamba unaenda kuwajibika kwa sababu ipi .
+[56.560]
+(()) maana hata pale awali nilikwambia kwamba kule (()) <breath> ina maana miongoni mwa vitu ambavyo wanatengenezwa ni pamoja na uzalendo .
+[62.580]
+(()) mshauri wa -- wa -- wa -- wa Rais amelizungumza hilo .
+[66.070]
+unaona ?
+[66.558]
+kwa hiyo uzalendo ina maana ataielewa nchi yake kwamba sasa mimi nakwenda kupigana kwa ajili ya kuitetea nchi yangu .
+[73.040]
+kwamba niko tayari kwa lolote lile ilimradi nilete heshima katika nchi yangu .
+[77.480]
+(()) ndiyo kubwa ambalo wameelekezwa vijana walioko kule Rungwe .
+[81.100]
+lakini wengi walikuwa wanakosa uzalendo .
+[82.749]
+wengi walikuwa wanacheza tu nakuangalia kwamba mpira ni -- ni -- ni kitu tu cha starehe .
+[87.217]
+hawakujua kwamba mpira ni kazi kama zilivyo kazi zingine na anatakiwa mtu awajibike .
+[91.270]
+kwa hiyo nina imani kabisa kwamba huko tunakokwenda <breath> vijana Watanzania wata- -- <hes> wata- -- watakuwa na uzalendo wa nchi yao .
+[96.481]
+watakuwa na uzalendo <breath> na kule wanakotoka .
+[98.427]
+wakishakuwa na uzalendo nina imani kabisa kwamba kuta- -- ku- -- ku- -- ku- -- kutokana na ule ufundi ambao watakuwa wamepewa %incomplete
+[103.910]
+kutokana kwamba watakuwa wameshapewa nidhamu ya kimchezo ndani na nje ya uwanja <breath> nina imani kabisa maboresho haya yatakuwa mazuri sana .
+[110.600]
+na kikubwa zaidi kama nilivyosema pale awali kwamba <breath> kushiriki michuano mingi (()) chini miaka ishirini chini ya miaka kumi na saba chini ya miaka kumi na tano .
+[118.091]
+hapo tutakuwa na akiba ya vijana wengi sana kwamba leo hii ametoka Kiemba nani anayefuatia ?
+[123.374]
+leo hii ametoka Yondani nani anayefuatia ?
+[125.670]
+tusiwe tu kwamba kila -- kila mwaka awe Yondani kila mwaka awe Kiemba hapana .
+[129.026]
+au Chuja uhuh sasa hivi ina maana tutakuwa na vijana wengi ambao sasa tutawatoa kwenye under twenty tutawatoa kwenye under fifteen tutawatoa kwenye under -- under -- under eighteen .
+[137.440]
+kwa hiyo tukishakuwa na -- na -- na vijana wengi akiba wengi <breath> ina maana sasa tutakuwa na timu nzuri ya taifa ambayo tutajivunia kwa baadaye .
+[145.030]
+<hes> na kuna lile swala la mchezaji anapokuwa kwenye timu ya taifa (()) hachezi kwa kiwango kinachotakiwa tofauti na anapokuwa kwenye kilabu .
+[153.050]
+hilo nalo ni muhimu kufu- -- kufundishwa wachezaji ?
+[156.128]
+eh ndiyo hapo tunakuja sasa .
+[157.700]
+swala -- swala zima la uzalendo .
+[159.680]
+kwa sababu kuna wengine wako vizuri <int> katika kilabu yao lakini hawako vizuri katika timu ya taifa .
+[164.210]
+sasa pale (()) inategemeana na -- na -- na masilahi kwamba labda mtu amechukuliwa na kuenda timu ya taifa lakini je ameondoka vipi ?
+[172.100]
+unaona ?
+[172.394]
+hiyo (()) zamani .
+[173.231]
+timu ya taifa inasafiri kwenda Zambia kwa basi lakini (()) hamna .
+[176.318]
+mtu anafika pale tayari anakuita (()) upo .
+[178.750]
+sasa utakuwa na mawazo gani ?
+[179.800]
+kazi ni kwako tu wewe mwenyewe kuenda kuitumikia timu ya taifa .
+[182.313]
+mm mm .
+[183.650]
+<breath> Mzirai umepata nafasi ya kwenda Uganda mara nyingi sana katika hii michuano ya shule za soccer .
+[189.920]
+na kila mwaka huwa mnahudhuria kule <breath> <hes> Uganda umepiga hatua kubwa sana katika swala zima la shule za soccer za <int> sports Academy .
+[197.851]
+<hes> tumezidiwa nini hasa na wale jamaa ?
+[200.950]
+ukiangalia (()) Tanzania hapa .
+[202.553]
+ahh <lipsmack> kwanza wale wameanza muda mrefu .
+[204.632]
+wameanza muda mrefu na wakajitambua kwamba soccer linatakiwa lianzie chini .
+[209.080]
+na ndiyo maana kule wao wana Umoja kabisa wa shule za soccer .
+[211.576]
+sasa huku sisi Tanzania tulichelewa .
+[214.490]
+sisi tulikuwa na shule moja watu wanaizungumzia ile Makonge .
+[216.728]
+ile Makonge ilikuwa inachukua vijana wa Secondary .
+[218.830]
+eh sio kama vi- -- sio -- sio kama ilivyo sasa hivi labda hii -- hii -- hii shule ya Alliance .
+[223.346]
+wao wameanzia kuchukua vijana wadogo wa primary .
+[225.950]
+(()) ina maana huko ndiyo wanakwenda wanatengeneza sasa misingi .
+[229.200]
+ina maana kijana leo hii atakayetoka kutoka katika shule ya Alliance kwenda mpaka timu ya taifa .
+[233.540]
+atatoka na misingi yote <no-speech> unaona ?
+[236.216]
+kwa sababu pale tuna walimu wataalamu wanafundishwa wale vijana .
+[239.251]
+bali ya masomo darasani (()) wanafundishwa soccer .
+[241.221]
+kwa hivyo mwana tu- -- tungeamka kama ilivyoamka Alliance .
+[243.990]
+nina imani kabisa kwamba tungekuwa tumeshapiga hatua .
+[246.266]
+lakini sasa inatakiwa sasa tufanye nini ?
+[248.271]
+tuisupport sasa Alliance zijitokeze shule zingine ambazo zinaanzia katika primary .
+[252.990]
+unaona ?
+[253.661]
+na kubwa zaidi lazima tutengeneze Umoja wa zile shule .
+[256.047]
+tukisha tengeneza ule Umoja nina imani kabisa tutatoka hatua moja kwenda hatua nyingine .
+[259.340]
+kwa sababu ule Umoja utatoka utakwenda kushauri kama (()) mshauri wa ufundi wa Rais ata- -- watatoka wale Umoja watapata na mawazo watakwenda (()) tutatoka tu huku tulipo kwa sababu ukanda huu <hes> bado kwamba wale wameanza Uganda muda mrefu lakini sisi hawatu- -- hawatu- -- hawatuzidi katika vipaji .
+[273.600]
+sisi vijana wengi wana vipaji hapa Tanzania .
+[275.667]
+unaona ?
+[276.269]
+wamekosa tu ile misi- %incomplete
+[277.359]

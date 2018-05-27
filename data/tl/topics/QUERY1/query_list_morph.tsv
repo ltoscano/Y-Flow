@@ -1,0 +1,12 @@
+query_id	query_string	domain_id
+query337	"oil <companies>"	GOV
+query359	<buildings>	GOV
+query3987	"ghost <projects>"	GOV
+query3598	"<drank> coffee"	GOV
+query2559	"Department of Health",<vaccinated>	GOV
+query4273	<advisers>	GOV
+query4373	"poorest <families>"	GOV
+query2557	<fed>	LIF
+query357	"my <classmates>"	LIF
+query1386	<crabs>	LIF
+query869	"enemy of the <rats>"	LIF

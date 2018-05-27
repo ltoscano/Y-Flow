@@ -1,0 +1,151 @@
+[0.000]
+<no-speech>
+[3.280]
+<sta> maam Jess <hes> sakay ng B_R_P Tarlac nandito kami ngayon sa gitna ng <hes> Sulu sea <sta> kung saan nakalatag ang naval blockade laban sa <hes> Abu Sayyaf dito <sta> ang navy at marines naman ang nagbabantay .
+[14.561]
+sila iyong <hes> sumisiguro <sta> na hindi makakalabas ng <hes> Sulu ang Abu Sayyaf at hindi rin makakapasok ang posibleng reinforcement <lipsmack> mula naman sa kalapit na probinsiya ng Basilan .
+[24.600]
+<no-speech>
+[28.437]
+<sta> gamit ang mga speedboat todo bantay ang navy at marine sa karagatan ng Sulu .
+[33.100]
+<sta> nagpapatrolya nag-mo-monitor kung may mga kahina-hinalang sasakyan ng pandagat na posibleng gamit ng Abu Sayyaf .
+[39.447]
+<no-speech>
+[41.120]
+<sta> sa pagkakataong ito may nakasalubong ng Jungkong ang tropa .
+[44.800]
+<sta> pinahinto <no-speech> pagkatapos sumakay ang mga sundalo .
+[50.381]
+<no-speech>
+[52.460]
+<sta> ininspeksiyon ang loob ng barko .
+[54.149]
+<no-speech>
+[56.840]
+<sta> sinuri rin ang mga dokumentong hawak ng kapitan .
+[60.070]
+<sta> no'ng makitang wala namang problema pinaalis din ang Jungkong .
+[63.405]
+<no-speech>
+[64.720]
+<no-speech>
+[66.374]
+<sta> sa gitna ng karagatan ng Sulu nakaistasyon ang B_R_P Tarlac ang command and control center ng naval blockade .
+[72.930]
+bukod sa mga makabagong gamit <sta> mayro'n din itong helicopter .
+[76.347]
+<no-speech>
+[79.110]
+<sta> kapag may na-monitor na problema agad na pinapalipad ang Agusta one oh nine ang pinakabagong helicopter ng navy .
+[85.930]
+<sta> araw man o gabi kaya nitong lumipad para magbigay ng air support para sa mga ground troops .
+[90.826]
+bente-kuwatro oras ang monitoring sa karagatan ng Sulu <sta> dahil sa impormasyon ng militar na balak tumakas ng Abu Sayyaf palabas ng Sulu at mayroon ding mga <sta> Abu Sayyaf mula sa Basilan na gustong mag-reinforce sa kanilang mga kasamahan na napapalaban sa Sulu .
+[104.810]
+naval forces western Mindanao ay <hes> twenty four hours na nagbabantay sa karagatan ng Sulu and <sta> Tawi-Tawi para siguruhin na walang makakalabas sa <hes> <sta> Sulu na mga <hes> A_S_G members particularly iyong mga armed or mga wounded nila .
+[122.670]
+<no-speech>
+[126.170]
+<no-speech>
+[127.653]
+<sta> maam Jess kasama rin sa <hes> misyon ng <hes> navy at marines dito sa <hes> karagatan ng Sulu <sta> ay mahinto iyong <hes> kidnapping operations ng Abu Sayyaf <sta> at masawata na rin iyong iba pang criminal activities dito .
+[138.320]
+samantala maam Jess dalawang Abu Sayyaf pa ang nadagdag sa listahan ng mga nasawi sa on-going military operation .
+[144.180]
+<sta> nangyari ito nang magkaengkuwentro ang army at ang Abu Sayyaf sa bayan ng Patikul .
+[148.410]
+<sta> maam Jess .
+[148.879]
+<hes> Jun hindi naman sa minimenos natin iyong kakayahan ng ating armed forces 'no kasi <hes> naki- -- <sta> kapuri-puri 'yong <hes> -- 'yong kanilang pagsisikap 'no -- 'no na sugpuin itong problema o <hes> <sta> hindi -- siguraduhin na walang makatakas na Abu Sayyaf kaya lang <breath> ang laki-laki ng karagatan diyan di ba ?
+[168.271]
+tapos iisa iyong barko natin na <sta> nandiyan na trying to <hes> serve as a blocking force tapos <hes> kahit may helicopter ito at may rubber boat ay parang kaya ba nitong patrolya iyong palibot ng <hes> Sulu Province ?
+[185.140]
+<sta> kasi in <int> the past 'di ba may mga ganiyan na ring incident na parang quinaratine 'yong -- 'yong buong Sulu <hes> parang naka-lock down pero nakakatakas pa rin .
+[195.630]
+<hes> di ba 'yong mga <sta> nangidnap nga sa Davao no'ng tumakas eh hindi naman nahabol ng <hes> ating <hes> armed forces .
+[202.550]
+<sta> eh papa'no kaya -- anong kasiguraduhan na effective itong <hes> ganitong <hes> ginagawa ngayon ?
+[208.360]
+<no-speech>
+[211.830]
+<no-speech>
+[214.267]
+<sta> <hes> ma'am Jess <hes> nandito lang tayo ngayon sa B_R_P Tarlac .
+[217.205]
+ito kasi 'yong nagsisilbi na parang <hes> <sta> nerve center .
+[220.685]
+ito iyong parang <hes> mother ship nitong naval blockade dito <sta> pero marami pang nakalatag ma'am Jess dito sa area na ito ng <hes> Sulu sea na iba pang mga <hes> <sta> navy vessel .
+[230.404]
+hindi na lang natin <hes> sasabihin kung ilan at kung saan partikular nakalatag 'yan para hindi na rin makaapekto <sta> sa <hes> operasyon na isinasagawa dito nga sa may <hes> karagatan na ito .
+[240.138]
+pero ito lang masasabi ko maam Jess without really going into specifics kung ano iyong capability <sta> ng barko na ito .
+[245.380]
+napaka-high tech na niya .
+[246.691]
+<hes> marami tayong naririnig na kuwento kung paano mino-monitor <sta> 'yong galaw ng mga sasakyang pandagat kahit na mapaumaga man <sta> o gabi .
+[254.224]
+pero masasabi natin napaka-advance na nitong klaseng barko na ito .
+[257.644]
+kaya kung bantay at bantay rin naman <sta> siyempre nando'n pa rin bente-kuwatro oras 'yong pagbabantay nila .
+[262.459]
+pero siyempre nando'n pa rin naman hindi pa rin naman talaga nawawala <sta> 'yong posibilidad na makalusot 'yong Abu Sayyaf .
+[268.833]
+it's either papasok ng Sulu or palabas ng Sulu naman 'yong iba ma'am Jess .
+[272.280]
+<sta> <hes> mabuti nabanggit mo 'yan Jun dahil <breath> di ba sa mga napapanood nating <hes> pelikula ng Hollywood <sta> <hes> may satellite na nakakakita kung anu-ano .
+[281.770]
+parang iyong mga ginagamit din sa eroplano .
+[284.719]
+ngayon makikita mo na kung saan 'yong mga flight na commercial kung <hes> ilan 'yong puwedeng mag-landing .
+[291.413]
+may ganyang nang mga capability through satellites <hes> .
+[294.111]
+na-i-imagine ko <sta> <hes> may ganiyan din <hes> kayang capability ngayon <breath> ang ating armed forces na <sta> via satellite ma-mo-monitor nila kung ano iyong mga <hes> sasakyang pandagat na gumagalaw diyan sa <sta> buong isla ng Sulu na kanilang binabantayan ngayon ?
+[310.990]
+<no-speech>
+[314.290]
+<no-speech>
+[316.175]
+<sta> siguro maam -- maam Jess <hes> in general terms na lang 'no ?
+[319.111]
+itong -- itong -- itong barko na ito <sta> of course mayroon itong radar capability kung niya mino-monitor iyong <hes> <sta> sitwasyon dito sa karagatan .
+[326.576]
+eh huwag na lang nating sabihin kung ga'no rin kalawak 'yong kaya niyang <hes> i-monitor .
+[330.691]
+'yong kanilang <hes> Agusta na isa sa mga <hes> pinaka-advance nga na <hes> -- na aircraft o ng helicopter nitong navy <sta> ay talagang marami ring <hes> capability ang <hes> helicopter na 'yan na hindi na lang <hes> kailangang ilatag pa para -- baka <hes> <sta> makarating pa sa kung <hes> -- kung sinuman man hinahabol nitong navy na 'to at mapaghandaan nila .
+[351.378]
+pero safe to say ang mga ganitong klaseng mga aircraft ang mayro'n namang mga night flying capability .
+[356.109]
+kung ano 'yong ginagawa nila sa gabi papa'no nila mino-monitor 'yong ground <sta> 'wag na lang nating <hes> ilatag sa publiko maam Jess .
+[361.554]
+okay I understand .
+[362.500]
+so the idea is pagka may na-monitor silang mga <hes> sasakyang pandagat na parang patakas iyon ang hahabulin nitong <hes> mga nakaistasyon ngayon na tropa ng <hes> mga awtoridad diyan .
+[375.990]
+<no-speech>
+[380.889]
+<sta> mapagabi man 'yan o mapaumaga maam Jess pag nakita sa rare- -- radar nila <sta> at mayroon silang sinasabi na specific speed na parang <hes> red flag .
+[389.297]
+kung <hes> -- kung baga pag sinabing nakita nila na medyo mabilis ang takbo <sta> 'yan magpapakawala na sila ng mas mabibilis na speedboat nila at <hes> hahabulin <sta> na iyang <hes> mga <hes> sea vessel na 'yan o kung anumang mga speedboat dito sa bahagi na ito ng <hes> karagatan <sta> ng <hes> Sulu .
+[404.517]
+In fact <hes> nagiging mahigpit na rin sila maam Jess don sa mga speedboat na kung <hes> -- kung <hes> <sta> sinu-sino na lang ang may dala kung sinu-sino na lang ang may sumasakay <sta> ay dumadaan dito palabas masok dito sa area na ito .
+[416.268]
+nagiging istrikto na sila .
+[417.399]
+pag may mga ganiyan silang <hes> nakikita maam Jess kasama doon sa mandate nila <sta> na hintuin 'yang mga 'yan at checkin iyong papeles at kung walang papeles ay <hes> kumpiskahin <sta> 'yong <hes> sasakyang <hes> pandagat na 'yan .
+[430.009]
+and in fact dito sa V_R_P <hes> -- <sta> V_R_P Tarlac na ito mayroon ng tatlong <hes> speedboat na nakumpiska dahil nga wala si- -- walang papeles at alam naman natin <sta> hindi naman natin nilalahat ano pero may mga speedboat din na nagagamit din ang Abu Sayyaf dito sa kanilang pangingidnap mula do'n sa mga ibang area naman at ipinapasok <sta> dito sa probinsiya ng <hes> Sulu maam Jess .
+[449.380]
+<hes> naalala ko kasi iyong accounts no'ng mga nakidnap no'ng araw .
+[452.983]
+iyong si <breath> <sta> Gracia Burnham binabanggit na <breath> -- o 'yong iba pa 'no na <breath> mas mabibilis pa raw 'yong mga <sta> <hes> sasakyang pandagat ng mga Abu Sayyaf kaysa don sa <sta> <hes> ginagamit ng ating armed forces dati .
+[465.797]
+although you're saying now na mayroon na tayong increased capability .
+[469.909]
+mas <sta> magaganda na iyong <hes> mga gamit at <breath> mas mabilis na ring <hes> makatakbo iyong mga speedboat ng militar .
+[477.630]
+<sta> maraming salamat at ingat kayo diyan sa Sulu Jun Veneracion .
+[481.855]
+<no-speech>
+[483.753]

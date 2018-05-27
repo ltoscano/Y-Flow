@@ -1,0 +1,78 @@
+0.000	inLine	<no-speech>
+0.000	outLine	<no-speech>
+0.430	inLine	sige .
+0.660	outLine	<no-speech>
+1.185	inLine	<no-speech>
+1.803	inLine	bilisan mo .
+2.780	inLine	<no-speech>
+3.600	outLine	oo .
+3.980	inLine	<no-speech>
+4.240	outLine	<no-speech>
+4.670	inLine	<no-speech>
+5.500	outLine	eto na .
+6.430	outLine	<no-speech>
+7.040	inLine	<no-speech>
+7.710	inLine	<no-speech>
+9.810	inLine	hello anu-ano na score ?
+11.400	inLine	<no-speech>
+11.420	outLine	patalastas .
+12.660	outLine	<no-speech>
+15.510	outLine	<no-speech>
+16.290	inLine	ang tagal o .
+16.330	outLine	<no-speech>
+17.450	inLine	bilisan mo naman .
+18.780	inLine	<no-speech>
+19.560	outLine	ba't ako 'yong T_V ?
+21.270	outLine	<no-speech>
+22.120	inLine	maliligo .
+23.123	inLine	<no-speech>
+24.119	inLine	huh ?
+24.750	inLine	<no-speech>
+25.070	outLine	'yong T_V .
+26.250	outLine	<no-speech>
+26.710	inLine	no <int> ?
+27.380	inLine	<no-speech>
+28.980	inLine	ano ?
+29.230	outLine	patalastas pa eh .
+29.670	inLine	<no-speech>
+30.560	outLine	<no-speech>
+32.460	outLine	<no-speech>
+32.880	outLine	<no-speech>
+34.000	inLine	sige bilisa- %incomplete
+34.961	inLine	hintayin mo lang .
+35.770	inLine	<no-speech>
+36.600	outLine	patayin ko na .
+37.790	outLine	<no-speech>
+38.040	inLine	nagpagupit ka na <breath> ?
+39.710	inLine	<no-speech>
+40.700	inLine	nagpagupit ka na ?
+41.790	inLine	<no-speech>
+42.080	outLine	huh ?
+42.710	outLine	<no-speech>
+45.340	inLine	nagpagupit ka na ?
+46.440	inLine	<no-speech>
+47.100	outLine	uh mhm .
+48.030	outLine	<no-speech>
+49.050	outLine	<no-speech>
+51.110	outLine	<no-speech>
+51.690	inLine	saan ?
+52.340	inLine	<no-speech>
+53.190	outLine	sa tapat ng ano <no-speech> -- ng ano ba 'to ng San Roque .
+58.920	outLine	<no-speech>
+63.090	inLine	sino asawa mo ?
+64.230	inLine	<no-speech>
+64.800	outLine	huh ?
+65.500	outLine	<no-speech>
+68.110	inLine	sino asawa mo ?
+69.220	outLine	wala .
+69.260	inLine	<no-speech>
+69.990	outLine	<no-speech>
+73.340	outLine	<no-speech>
+73.690	outLine	<no-speech>
+74.190	inLine	<no-speech>
+75.260	inLine	sige .
+76.106	inLine	ano 'andiyan na ?
+77.210	inLine	<no-speech>
+77.280	outLine	wala pa .
+78.940	outLine	<no-speech>
+81.650

@@ -1,0 +1,51 @@
+<1>	(Outline, 0.000-1.595)	<no-speech>	<no-speech>
+<2>	(Inline, 0.000-1.890)	<no-speech>	<no-speech>
+<3>	(Outline, 1.595-1.975)	<no-speech>	<no-speech>
+<4>	(Inline, 1.890-2.480)	hello .	hello .
+<5>	(Outline, 1.975-4.885)	<no-speech>	<no-speech>
+<6>	(Inline, 2.480-3.870)	<no-speech>	<no-speech>
+<7>	(Inline, 3.870-4.520)	hello .	hello .
+<8>	(Inline, 4.520-6.260)	<no-speech>	<no-speech>
+<9>	(Outline, 4.885-5.245)	<no-speech>	<no-speech>
+<10>	(Outline, 5.245-7.255)	<no-speech>	<no-speech>
+<11>	(Inline, 6.260-7.000)	hello .	hello .
+<12>	(Inline, 7.000-10.190)	<no-speech>	<no-speech>
+<13>	(Outline, 7.255-11.111)	hindi dati doon sa dati sa Laguna siya nagpapa-check-up .	not before there the same as before he has the check-up in Laguna .
+<14>	(Inline, 10.190-11.856)	saan nga sinasabi nagpapa-check-up ?	where is it said that he is having a check-up ?
+<15>	(Outline, 11.111-12.933)	dati sa Laguna siya nagpapa-check .	he had his check-up in Laguna before .
+<16>	(Inline, 11.856-12.849)	<no-speech>	<no-speech>
+<17>	(Inline, 12.849-14.430)	saan sila dati nagpapa-check-up ?	where did they have the check-up before ?
+<18>	(Outline, 12.933-13.475)	ha ?	what ?
+<19>	(Outline, 13.475-14.445)	<no-speech>	<no-speech>
+<20>	(Inline, 14.430-16.070)	<no-speech>	<no-speech>
+<21>	(Outline, 14.445-15.105)	ano ?	what ?
+<22>	(Outline, 15.105-18.165)	<no-speech>	<no-speech>
+<23>	(Inline, 16.070-18.199)	saan sila dati nagpapa-check-up ?	where did they have the check-up before ?
+<24>	(Outline, 18.165-19.315)	sa Laguna nga .	I told you in Laguna .
+<25>	(Inline, 18.199-19.173)	ha ?	what ?
+<26>	(Inline, 19.173-20.940)	sa Laguna ?	in Laguna ?
+<27>	(Outline, 19.315-20.465)	<no-speech>	<no-speech>
+<28>	(Outline, 20.465-22.515)	sa Laguna nga sila nagpapa-check-up .	they have the check-up in Laguna .
+<29>	(Inline, 20.940-23.180)	<no-speech>	<no-speech>
+<30>	(Outline, 22.515-24.545)	<no-speech>	<no-speech>
+<31>	(Inline, 23.180-23.680)	o .	yes .
+<32>	(Inline, 23.680-25.870)	<no-speech>	<no-speech>
+<33>	(Outline, 24.545-26.406)	na vibes sa Laguna .	had liked it in Laguna .
+<34>	(Inline, 25.870-26.330)	mhm .	yes .
+<35>	(Inline, 26.330-27.130)	<no-speech>	<no-speech>
+<36>	(Outline, 26.406-26.728)	<no-speech>	<no-speech>
+<37>	(Outline, 26.728-27.715)	Laguna .	Laguna .
+<38>	(Inline, 27.130-27.760)	oo .	yes .
+<39>	(Outline, 27.715-28.725)	<no-speech>	<no-speech>
+<40>	(Inline, 27.760-35.660)	<no-speech>	<no-speech>
+<41>	(Outline, 28.725-35.115)	<hes> kaso ang problema na (()) may mga (()) .	but the problem is (()) there are (()) .
+<42>	(Outline, 35.115-36.255)	<no-speech>	<no-speech>
+<43>	(Inline, 35.660-36.020)	(()) .	(()) .
+<44>	(Inline, 36.020-41.160)	<no-speech>	<no-speech>
+<45>	(Outline, 36.255-41.755)	kaya ang ano ang inano niya dito daw sa U_S_T para libre .	that is why what he is after here in U_S_T it is free .
+<46>	(Inline, 41.160-42.480)	ang akala ko (()) .	I thought (()) .
+<47>	(Outline, 41.755-43.395)	<no-speech>	<no-speech>
+<48>	(Inline, 42.480-47.510)	<no-speech>	<no-speech>
+<49>	(Outline, 43.395-47.995)	hindi ko lang alam kung puwede siya <hes> ang address niya Laguna <hes> .	I am not sure if he is available his address in Laguna .
+<50>	(Inline, 47.510-48.380)	ah .	ah .
+<51>	(Outline, 47.995-48.380)	<no-speech>	<no-speech>

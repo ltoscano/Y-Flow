@@ -1,0 +1,98 @@
+<1>	(Inline, 0.000-0.310)	<no-speech>	<no-speech>
+<2>	(Outline, 0.000-3.560)	<sta> mjini naja kesho .	I am coming to town tomorrow .
+<3>	(Inline, 0.310-3.580)	<no-speech>	<no-speech>
+<4>	(Outline, 3.560-5.170)	<no-speech>	<no-speech>
+<5>	(Inline, 3.580-5.780)	kesho kufanya nini na leo ndiyo weekend ?	what are you coming to do tomorrow and yet today is a weekend ?
+<6>	(Outline, 5.170-7.492)	<no-speech>	<no-speech>
+<7>	(Inline, 5.780-8.000)	<no-speech>	<no-speech>
+<8>	(Outline, 7.492-8.925)	kesho niko na mpango .	tomorrow I have a plan .
+<9>	(Inline, 8.000-8.460)	<sta> mmhm .	mmhm .
+<10>	(Inline, 8.460-9.750)	<no-speech>	<no-speech>
+<11>	(Outline, 8.925-12.879)	<no-speech>	<no-speech>
+<12>	(Inline, 9.750-12.270)	<sta> mpango huu ukivaa dada <int> .	this plan when you are well dressed sister .
+<13>	(Inline, 12.270-14.910)	<no-speech>	<no-speech>
+<14>	(Outline, 12.879-14.032)	mpango wa kando .	a side plan .
+<15>	(Outline, 14.032-16.700)	<no-speech>	<no-speech>
+<16>	(Inline, 14.910-15.860)	ehhe ?	mm ?
+<17>	(Inline, 15.860-17.020)	<no-speech>	<no-speech>
+<18>	(Outline, 16.700-19.905)	<no-speech>	<no-speech>
+<19>	(Inline, 17.020-18.490)	utagongwa kugongwa .	you will be battered .
+<20>	(Inline, 18.490-20.160)	<no-speech>	<no-speech>
+<21>	(Outline, 19.905-20.886)	hamna .	no way .
+<22>	(Inline, 20.160-20.650)	ehhe ?	mm ?
+<23>	(Inline, 20.650-21.620)	<no-speech>	<no-speech>
+<24>	(Outline, 20.886-22.620)	<no-speech>	<no-speech>
+<25>	(Inline, 21.620-22.400)	uko wapi ?	where are you ?
+<26>	(Inline, 22.400-25.660)	<no-speech>	<no-speech>
+<27>	(Outline, 22.620-23.770)	<no-speech>	<no-speech>
+<28>	(Outline, 23.770-25.012)	niko kwa nyumba .	I'm in the house .
+<29>	(Outline, 25.012-27.751)	<no-speech>	<no-speech>
+<30>	(Inline, 25.660-26.490)	na mzee ?	with you husband ?
+<31>	(Inline, 26.490-31.090)	<no-speech>	<no-speech>
+<32>	(Outline, 27.751-29.170)	mzee pia ako .	my husband is also here .
+<33>	(Outline, 29.170-33.270)	<no-speech>	<no-speech>
+<34>	(Inline, 31.090-32.510)	anasikia vile unaongea ?	do you hear how you are talking ?
+<35>	(Inline, 32.510-36.130)	<no-speech>	<no-speech>
+<36>	(Outline, 33.270-34.056)	hamna .	nothing .
+<37>	(Outline, 34.056-37.764)	<laugh> <int> ana- -- anafanya shughuli zake .	he is doing his businesses .
+<38>	(Inline, 36.130-38.230)	amerudi job <no-speech> -- amerudi kazi .	he is back to job -- he is back to work .
+<39>	(Outline, 37.764-39.250)	bado .	still .
+<40>	(Inline, 38.230-40.100)	<no-speech>	<no-speech>
+<41>	(Outline, 39.250-40.750)	<no-speech>	<no-speech>
+<42>	(Inline, 40.100-40.794)	atarudi lini ?	when will he come back ?
+<43>	(Outline, 40.750-42.010)	<no-speech>	<no-speech>
+<44>	(Inline, 40.794-41.263)	<no-speech>	<no-speech>
+<45>	(Inline, 41.263-43.450)	ile yenye ulikuwa umeniambia umeenda kumtafutia .	that which you told me you were going to search for him .
+<46>	(Outline, 42.010-44.400)	<no-speech>	<no-speech>
+<47>	(Inline, 43.450-46.330)	<no-speech>	<no-speech>
+<48>	(Outline, 44.400-45.364)	<sta> hivi karibuni .	very soon .
+<49>	(Outline, 45.364-46.509)	<no-speech>	<no-speech>
+<50>	(Inline, 46.330-46.890)	ehhe .	mm .
+<51>	(Outline, 46.509-51.304)	kuna -- kuna mambo -- mambo machache ambayo hayajatekelezwa .	there are -- there are things -- few things which have not been done .
+<52>	(Inline, 46.890-51.590)	<no-speech>	<no-speech>
+<53>	(Outline, 51.304-52.449)	<no-speech>	<no-speech>
+<54>	(Inline, 51.590-52.090)	mmhm .	mmhm .
+<55>	(Inline, 52.090-54.110)	<no-speech>	<no-speech>
+<56>	(Outline, 52.449-53.400)	mmhm .	mmhm .
+<57>	(Outline, 53.400-57.120)	<no-speech>	<no-speech>
+<58>	(Inline, 54.110-55.900)	na ile ni nini ?	and what is that ?
+<59>	(Inline, 55.900-57.200)	<no-speech>	<no-speech>
+<60>	(Outline, 57.120-58.420)	<no-speech>	<no-speech>
+<61>	(Inline, 57.200-58.500)	ile yake ingine ?	that his other one ?
+<62>	(Outline, 58.420-59.440)	<no-speech>	<no-speech>
+<63>	(Inline, 58.500-62.110)	<no-speech>	<no-speech>
+<64>	(Outline, 59.440-61.385)	yule hajapigiwa simu hata .	that one has not even been called .
+<65>	(Outline, 61.385-64.168)	<int> na hatuna matumaini nayo .	and we do not have hope in .
+<66>	(Inline, 62.110-62.499)	ehhe .	mm .
+<67>	(Inline, 62.499-63.391)	<no-speech>	<no-speech>
+<68>	(Inline, 63.391-64.240)	yule mama ako ?	is that woman there ?
+<69>	(Outline, 64.168-66.180)	mmhm <int> ?	mmhm ?
+<70>	(Inline, 64.240-65.890)	<no-speech>	<no-speech>
+<71>	(Inline, 65.890-69.610)	yule mama mwenye alimpeleka alimweka kwa ile matatu zingine ako ?	that woman who took him and hired him on those other minibuses ?
+<72>	(Outline, 66.180-68.720)	<no-speech>	<no-speech>
+<73>	(Outline, 68.720-69.080)	<no-speech>	<no-speech>
+<74>	(Outline, 69.080-70.200)	<no-speech>	<no-speech>
+<75>	(Inline, 69.610-74.940)	<no-speech>	<no-speech>
+<76>	(Outline, 70.200-74.043)	ehhe ako hata alikuwa -- nasikia alikuwa kortini hata ali- -- ako mpaka lawyer .	mm she is there she was also -- I heard that she was in court with a lawyer also .
+<77>	(Outline, 74.043-75.396)	sijui ako na mpango gani ?	I don't know her plans ?
+<78>	(Inline, 74.940-76.169)	<no-speech>	<no-speech>
+<79>	(Outline, 75.396-79.050)	<int> mmhm but usijali .	mmhm but don't worry .
+<80>	(Inline, 76.169-76.570)	ehhe .	mm .
+<81>	(Inline, 76.570-78.000)	<no-speech>	<no-speech>
+<82>	(Inline, 78.000-79.280)	na koti wanasema nini ?	what are they saying in the court ?
+<83>	(Outline, 79.050-80.510)	<no-speech>	<no-speech>
+<84>	(Inline, 79.280-82.790)	<no-speech>	<no-speech>
+<85>	(Outline, 80.510-82.020)	si kesi tu itasikizwa ?	the case will be just heard not so ?
+<86>	(Outline, 82.020-83.750)	<no-speech>	<no-speech>
+<87>	(Inline, 82.790-83.190)	ehhe .	mm .
+<88>	(Inline, 83.190-84.204)	<no-speech>	<no-speech>
+<89>	(Outline, 83.750-84.450)	mmhm .	mmhm .
+<90>	(Inline, 84.204-85.050)	lini tena ?	when again ?
+<91>	(Outline, 84.450-86.210)	<no-speech>	<no-speech>
+<92>	(Inline, 85.050-88.600)	<no-speech>	<no-speech>
+<93>	(Outline, 86.210-87.000)	Aprili ?	April ?
+<94>	(Outline, 87.000-88.340)	<no-speech>	<no-speech>
+<95>	(Outline, 88.340-90.441)	<no-speech>	<no-speech>
+<96>	(Inline, 88.600-89.580)	mwaka ujao ?	next year ?
+<97>	(Inline, 89.580-91.230)	<no-speech>	<no-speech>
+<98>	(Outline, 90.441-91.230)	ehhe .	mm .

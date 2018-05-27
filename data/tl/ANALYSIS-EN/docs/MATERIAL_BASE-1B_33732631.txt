@@ -1,0 +1,7 @@
+<1>	(0.000-1.996)	<sta> na ang mga balita sa oras na ito .	news at this hour .
+<2>	(1.996-9.697)	<sta> dalawang sundalo ang patay habang apat pa ang sugatan sa pagsabog ng improvised explosive device sa Datu Unsay sa Maguindanao .	two soldiers were killed while four were wounded in the explosion of improvised explosive device at Datu Unsay in Maguindanao .
+<3>	(9.697-19.490)	<sta> ayon sa Armed Forces of the Philippines dumadaan ang military convoy ni Colonel Gener del Rosario sa Meta Bridge <sta> nang magkaroon ng pagsabog na sumapol sa dalawang sasakyan .	according to the Armed Forces of the Philippines the military convoy of Colonel Gener del Rosario was passing the the Meta Bridge when an explosion happened that hit the two vehicles .
+<4>	(19.490-26.490)	<sta> nagkaroon pa ng palitan ng putok mula sa mga sundalo at hinihinalang mga miyembro ng Bangsamoro Islamic Freedom Fighters .	there was also an exchange of shots from the soldier and those suspected to be members of Bangsamoro Islamic Freedom Fighters .
+<5>	(26.490-32.260)	<sta> sinasabing mula sa First Mechanized Infantry Brig- -- Brigade ang mga nasawi at nasaktang sundalo .	it is said that the soldiers who died and were injured are from the First Mechanized Infantry Brigade .
+<6>	(32.260-36.146)	<sta> patuloy ang hot pursuit operations laban sa mga suspect .	the hot pursuit operation against the suspects continues .
+<7>	(36.146-38.252)	<int> be sure to comeback .	be sure to comeback .

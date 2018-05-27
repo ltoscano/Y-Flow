@@ -1,0 +1,27 @@
+<1>	(0.000-5.844)	<sta> inatake ng aso ang isang batang dalawang taong gulang sa Lingayen Pangasinan .	a two-year-old child in Lingayen Pangasinan was attacked by a dog .
+<2>	(5.844-8.400)	<sta> nagpositibo sa rabies ang aso .	the dog tested positive for rabies .
+<3>	(8.400-12.970)	<sta> kaya naman agad naglunsad ng malawakang anti-rabies vaccination sa lugar .	so a widespread anti-rabies vaccination was immediately launched in the area .
+<4>	(12.970-16.065)	<sta> makibalita tayo kay Jette Arcellana ng G_M_A Dagupan .	let us hear from Jette Arcellana ng G_M_A Dagupan .
+<5>	(16.065-19.090)	<no-speech>	<no-speech>
+<6>	(19.090-25.350)	naglalaro sa isang cottage sa Lingayen beach front ang dalawang taong gulang na si Mack Gumapos ng atakihin siya ng isang aso .	the two-year old Mack Gumapos was playing in a cottage in Lingayen beach front when he was attacked by a dog .
+<7>	(25.350-34.987)	ngayon ng biglang sumigaw 'yong apo ko na aray ko sabing gano'n sabi ko hay ang bata sabi ko nakita no'ng anak kong <hes> kapanganak lang nakatayo siya diyan na kinagat na 'yong bata duguan na daw 'yong damit .	now when my grandson shouted it hurts I said oh the child my daughter who just gave birth saw it while she was standing there that the child was bitten and his clothes were covered in blood .
+<8>	(34.987-37.560)	sugatan sa likod at sa kaniyang puwit ang bata .	the child was wounded in the back down to his buttocks .
+<9>	(37.560-40.793)	bigla daw kinagat 'yong bata tapos parang uulitin pa daw (()) galit 'yong aso .	the child was suddenly bitten and it seemed that it will bite the child again (()) the dog was angry .
+<10>	(40.793-42.160)	padalawang beses daw .	two time she said .
+<11>	(42.160-45.350)	'tsaka niya biglang <hes> ginanon 'yong bata 'tsaka na nataranta .	then she took the child away and panicked .
+<12>	(45.350-50.363)	dinala sa ospital si Mack para lapatan ng paunang lunas at mabakunahan kontra rabies at tetanus .	Mack was sent to the hospital to apply first aid and to get injected with anti-rabies and tetanus shots .
+<13>	(50.363-53.380)	una hugasan ng ano tubig .	first wash it with water .
+<14>	(53.380-54.833)	sabunin na maigi ano ?	thoroughly clean it with soap ?
+<15>	(54.833-55.263)	mm .	mm .
+<16>	(55.263-58.656)	tapos <hes> mag-ano siya sa s- -- sa hospital .	then he needs to go -- to the hospital .
+<17>	(58.656-59.160)	mm .	mm .
+<18>	(59.160-61.390)	para <hes> ma-injectionan siya ng anti-rabies .	to get injected with anti-rabies shots .
+<19>	(61.390-64.803)	pagmamay-ari ng kanilang kapitbahay sa barangay Libsong west ang aso .	the dog was owned by their neighbor in barangay Libsong West .
+<20>	(64.803-67.880)	base sa pagsusuri positibo ito sa rabies .	based on the tests it is positive with rabies .
+<21>	(67.880-70.890)	napag-alamang ilang aso na rin sa barangay ang nakagat nito .	it was known that it has also bitten a couple of dogs in the barangay .
+<22>	(70.890-76.250)	dahil sa insidente magsasagawa ng massive anti-rabies vaccination sa lugar ang lokal na pamahalaan .	because of the incident the government initiated a massive anti-rabies vaccination in the place .
+<23>	(76.250-92.620)	(()) mas maganda kung talagang mayro'n po silang barangay ordinance na <hes> nasa- -- sinasaad po na talagang <hes> ikulong o kaya'y itali 'yong mga astray or stray dogs para maiwasan po 'yong <hes> pagkagat sa ating mga <hes> -- sa mga tao .	(()) it is better if they really have a barangay ordinance that -- states that astray or stray dogs should be caged or tied to prevent them from biting us -- us people .
+<24>	(92.620-98.080)	ang may-ari ng aso na tumangging humarap sa camera pinanindigang wala siyang pananagutan sa insidente .	the owner of the dog that refused to show face in the camera insisted that he has no responsibilities in the incident .
+<25>	(98.080-103.121)	nakatakda namang pagharapin ng municipal veterinary officer ang biktima at ang may-ari ng aso .	the municipal veterinary officer has arranged an appointment for the victim and the owner to face each other .
+<26>	(103.121-104.843)	patuloy na ginagamot ang bata .	the child is being continuously treated .
+<27>	(104.843-106.880)	Jette Arcellana nagbabalita ~ %incomplete	Jette Arcellana reporting %incomplete

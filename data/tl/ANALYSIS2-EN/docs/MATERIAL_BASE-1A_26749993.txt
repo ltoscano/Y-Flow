@@ -1,0 +1,27 @@
+<1>	(0.000-0.757)	(()) za Kitaifa .	(()) of the nation .
+<2>	(0.757-2.001)	<no-speech>	<no-speech>
+<3>	(2.001-16.391)	watu watano wamepoteza maisha na wengine thelathini kujeruhiwa vibaya katika ajali iliyotokea eneo la Kibaoni wilayani Kilosa mkoa wa Morogoro ambayo imehusisha basi la kampuni ya Badkadi na trela ya mizigo iliyokuwa ikitokea Dar es Salaam kuelekea mikoa ya kati .	five people have lost their lives and thirty others badly injured in the accident that happened in Kibaoni area Kilosa district of Morogoro province that involved Badkadi company bus and cargo trailer that was coming from Dar es Salaam towards central provinces .
+<4>	(16.391-19.260)	taarifa ya Jimmy Mengele kutoka Morogoro inasomwa hapa studio .	the report of Jimmy Mengele from Morogoro is being read here in the studio .
+<5>	(19.260-20.180)	<no-speech>	<no-speech>
+<6>	(20.180-41.000)	katika ajali hiyo iliyohusisha basi dogo aina ya (()) lenye namba za usajili <breath> T mia nane thelathini na saba C_T_M linalofanya safari zake kati ya Kilosa Morogoro <breath> watu wanne wamefariki papo hapo <breath> kabla ya dereva wa basi hilo naye kukutwa na umauti katika chumba cha upasuaji kwenye hospitali ya wilaya ya Kilosa .	in that accident that involved a minibus type of (()) with the registration number T eight hundred and thirty-seven C_T_M that travels between Kilosa and Morogoro four people died instantly before the driver of that bus also to meeting his death in the operation room in Kilosa district hospital .
+<7>	(41.000-48.906)	ajali hiyo inadaiwa kusababishwa na dereva wa basi hilo <breath> ambaye alikatisha katikati ya reli akiwa katika harakati za kubadili njia .	that accident is claimed to be caused by the driver of that bus who cut through the middle of the rail in the process of changing the road .
+<8>	(48.906-54.660)	<breath> mara baada ya kubaini barabara waliokuwa wakiitumia imeharibika sana kutokana na mvua .	once after realizing that the road they were using had been badly damaged by rain .
+<9>	(54.660-56.653)	<sta> tulikaa hivyo tukapanda .	we sat that way to aboard .
+<10>	(56.653-58.430)	akawa mwendo kasi .	he became in the fast motion .
+<11>	(58.430-65.088)	<sta> mbele tukafika (()) <sta> dereva wetu akaingiza gari na treni ikapita pale .	we reached further (()) our driver caused the vehicle to enter and the train passed there .
+<12>	(65.088-67.800)	kwa hivyo ikatugutua kwa mbele .	therefore it shocked us from front .
+<13>	(67.800-70.657)	<sta> tukarushwa tukapinduka wengine wakafa wengine wazima .	we were thrown and we turned others died others alive .
+<14>	(70.657-72.529)	ndiyo kama sisi tuko hospitali .	its like we are in hospital .
+<15>	(72.529-86.250)	mganga mkuu wa hospitali ya wilaya Kilosa amezungumzia ajali hiyo ambapo amesema majeruhi ishirini na watano <breath> wanaendelea kupatiwa matibabu katika hospitali hiyo huku wengine watano wakiwa wamepelekwa katika hospitali ya rufaa <breath> ya mkoa wa Morogoro .	the doctor in charge of the Kilosa district hospital has spoken about that accident where he has said that the twenty-five injured people are continuing to get treated in that hospital as other five had been taken to the Morogoro province referral hospital .
+<16>	(86.250-88.653)	mara baada ya hali zao kuzidi kuwa mbaya .	once after their situations increased to worsen .
+<17>	(88.653-91.101)	<int> majeruhi sita .	the six injured .
+<18>	(91.101-104.620)	<sta> hali zao zilikuwa ni- -- <no-speech> -- ni kete kidogo <sta> ambapo katika hao sita watano tulikuwa tumeamua wapewe rufaa ya kwenda hospitali ya mkoa wa Morogoro .	their situations were -- were small dice where among those six five we had decided to be given the referral to go to Morogoro provincial hospital .
+<19>	(104.620-111.036)	mkuu wa wilaya ya Kilosa amewataka madereva kuwa makini hasa <breath> wanapokatisha kwenye vivuko vya reli .	Kilosa provincial administrator wants the drivers to be careful especially when cutting across the railway crossing place .
+<20>	(111.036-121.501)	bado tunasisitiza kwamba swala la kuzingatia sheria kwa upande wa madereva wetu imekuwa ni tatizo <int> kubwa sana hasa kwa madereva wetu wa sasa ambao wana umri mdogo wa <int> ujana .	we still emphasize on that issue of following the law on the side of our drivers which has been a big problem especially our modern drivers who have youthful ages .
+<21>	(121.501-123.834)	wakidhani pengine sheria zimezeeka .	who are thinking that the laws have become old .
+<22>	(123.834-125.000)	<no-speech>	<no-speech>
+<23>	(125.000-128.947)	sheria hazizeeki <no-speech> kama vile tunavyozeeka sisi binadamu .	the laws do not age like the way we us human age .
+<24>	(128.947-132.140)	sheria ziko pale kwa ajili ya kusaidia binadamu wa jana wa leo na kesho .	the laws are there in order to help the human beings of yesterday today and tomorrow .
+<25>	(132.140-135.468)	nikiripoti kutoka Dar es Salaam Upendo Msuya channel ten .	as I report from Dar es Salaam Upendo Msuya Channel Ten .
+<26>	(135.468-136.430)	<no-speech>	<no-speech>
+<27>	(136.430-137.571)	bunge leo lime- %incomplete	the parliament today %incomplete

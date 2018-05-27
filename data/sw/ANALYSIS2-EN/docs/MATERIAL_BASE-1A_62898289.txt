@@ -1,0 +1,534 @@
+<1>	(Inline, 0.000-1.995)	<no-speech>	<no-speech>
+<2>	(Outline, 0.000-8.215)	<no-speech>	<no-speech>
+<3>	(Inline, 1.995-2.535)	halo .	hello .
+<4>	(Inline, 2.535-4.885)	<no-speech>	<no-speech>
+<5>	(Inline, 4.885-5.795)	ehhe Robert .	mm Robert .
+<6>	(Inline, 5.795-8.025)	<no-speech>	<no-speech>
+<7>	(Inline, 8.025-9.235)	habari ya masiku bwana .	how have you been my friend .
+<8>	(Outline, 8.215-9.305)	<no-speech>	<no-speech>
+<9>	(Inline, 9.235-11.865)	<no-speech>	<no-speech>
+<10>	(Outline, 9.305-11.745)	<sta> mi niko tu .	I'm just there .
+<11>	(Outline, 11.745-14.265)	<no-speech>	<no-speech>
+<12>	(Inline, 11.865-14.015)	mmhm siku hizi unaendanga kazi ?	mmhm do you go to work these days ?
+<13>	(Inline, 14.015-15.915)	<no-speech>	<no-speech>
+<14>	(Outline, 14.265-14.785)	<sta> ehhe ?	mm ?
+<15>	(Outline, 14.785-17.635)	<no-speech>	<no-speech>
+<16>	(Inline, 15.915-17.235)	unaendanga kazi ?	do you go to work ?
+<17>	(Inline, 17.235-21.085)	<no-speech>	<no-speech>
+<18>	(Outline, 17.635-18.109)	<sta> ehhe .	mm .
+<19>	(Outline, 18.109-20.705)	kibarua kidogo kidogo .	a bit of casual work .
+<20>	(Outline, 20.705-22.645)	<no-speech>	<no-speech>
+<21>	(Inline, 21.085-22.265)	ile ya Kenya bus ama ?	is it the one for Kenya Bus or ?
+<22>	(Inline, 22.265-25.905)	<no-speech>	<no-speech>
+<23>	(Outline, 22.645-22.994)	<sta> ehhe .	mm .
+<24>	(Outline, 22.994-24.585)	uko niliwachana nayo .	I left that one .
+<25>	(Outline, 24.585-26.445)	<no-speech>	<no-speech>
+<26>	(Inline, 25.905-26.835)	unaendanga wapi ?	where do you go ?
+<27>	(Outline, 26.445-27.986)	<no-speech>	<no-speech>
+<28>	(Inline, 26.835-34.045)	<no-speech>	<no-speech>
+<29>	(Outline, 27.986-30.323)	niko tu na kagari kengine tu hii area kona .	I just have another vehicle in Kona area .
+<30>	(Outline, 30.323-32.505)	tunafanya fanya tubiashara ndogo ndogo .	we're just doing small business .
+<31>	(Outline, 32.505-36.145)	<no-speech>	<no-speech>
+<32>	(Inline, 34.045-36.125)	mmhm taxi ama ?	mmhm taxi or ?
+<33>	(Inline, 36.125-38.285)	<no-speech>	<no-speech>
+<34>	(Outline, 36.145-36.876)	<sta> mmhm .	mmhm .
+<35>	(Outline, 36.876-39.675)	<no-speech>	<no-speech>
+<36>	(Inline, 38.285-39.525)	unafanya na Taxi ama ?	are you working with a taxi or ?
+<37>	(Inline, 39.525-41.395)	<no-speech>	<no-speech>
+<38>	(Outline, 39.675-40.835)	<no-speech>	<no-speech>
+<39>	(Outline, 40.835-41.367)	<sta> hapana .	no .
+<40>	(Outline, 41.367-42.505)	ni kapickup tu hivi .	with just a pickup .
+<41>	(Inline, 41.395-41.755)	<no-speech>	<no-speech>
+<42>	(Inline, 41.755-44.145)	<no-speech>	<no-speech>
+<43>	(Outline, 42.505-48.885)	<no-speech>	<no-speech>
+<44>	(Inline, 44.145-47.745)	ka pick up una transport hizi mambo ya kuhamisha watu %incomplete	with a pickup dealing with the transport matters of moving people %incomplete
+<45>	(Inline, 47.745-52.805)	<no-speech>	<no-speech>
+<46>	(Outline, 48.885-50.659)	<sta> anafanya tubiashara yake kwa hoteli .	he's just doing his business in the hotel .
+<47>	(Outline, 50.659-52.315)	<no-speech>	<no-speech>
+<48>	(Outline, 52.315-53.505)	<no-speech>	<no-speech>
+<49>	(Inline, 52.805-53.515)	kwa hoteli ?	in a hotel ?
+<50>	(Outline, 53.505-54.375)	<int> mmhm .	mmhm .
+<51>	(Inline, 53.515-56.215)	<no-speech>	<no-speech>
+<52>	(Outline, 54.375-60.935)	<no-speech>	<no-speech>
+<53>	(Inline, 56.215-58.335)	sasa as in unafanya %incomplete	now as in you do %incomplete
+<54>	(Inline, 58.335-59.655)	<no-speech>	<no-speech>
+<55>	(Inline, 59.655-62.245)	unafanya nayo kukombolewa ama ?	do you work with it for hiring or ?
+<56>	(Outline, 60.935-65.670)	<sta> hapana anachukua nive anafanya tu kazi yake binafsi .	no he just takes it as if he's doing his personal job .
+<57>	(Inline, 62.245-66.985)	<no-speech>	<no-speech>
+<58>	(Outline, 65.670-68.425)	si ati ni kukombolewa sasa ni uko tu hapo tu .	it's not like you're just there after the hiring .
+<59>	(Inline, 66.985-67.335)	<no-speech>	<no-speech>
+<60>	(Inline, 67.335-70.585)	<no-speech>	<no-speech>
+<61>	(Outline, 68.425-69.405)	<no-speech>	<no-speech>
+<62>	(Outline, 69.405-71.175)	<sta> heri kutranda randa tu (()) %incomplete	it's better to just roam around (()) %incomplete
+<63>	(Inline, 70.585-73.485)	yaani ni mtu tu amefungua biashara yake %incomplete	I mean he's just someone who has started his business %incomplete
+<64>	(Outline, 71.175-73.715)	<no-speech>	<no-speech>
+<65>	(Inline, 73.485-76.285)	<no-speech>	<no-speech>
+<66>	(Outline, 73.715-74.245)	<int> mmhm .	mmhm .
+<67>	(Outline, 74.245-77.685)	<no-speech>	<no-speech>
+<68>	(Inline, 76.285-77.665)	anakulipa kwa mwezi ama ?	does he pay you monthly ?
+<69>	(Inline, 77.665-83.135)	<no-speech>	<no-speech>
+<70>	(Outline, 77.685-78.035)	<no-speech>	<no-speech>
+<71>	(Outline, 78.035-78.955)	<no-speech>	<no-speech>
+<72>	(Outline, 78.955-80.471)	<sta> aai ehhe .	really mm .
+<73>	(Outline, 80.471-81.945)	walipeana ati mwezi .	they gave a month .
+<74>	(Outline, 81.945-84.025)	<no-speech>	<no-speech>
+<75>	(Inline, 83.135-83.705)	ehhe ?	mm ?
+<76>	(Inline, 83.705-87.765)	<no-speech>	<no-speech>
+<77>	(Outline, 84.025-85.715)	<sta> ehhe si ndiyo kwa mwezi .	mm yes per month .
+<78>	(Outline, 85.715-87.045)	<no-speech>	<no-speech>
+<79>	(Outline, 87.045-88.185)	lakini (()) iko %incomplete	but (()) is %incomplete
+<80>	(Inline, 87.765-89.105)	ka pesa ngapi hivi ?	like how much money ?
+<81>	(Outline, 88.185-89.925)	<no-speech>	<no-speech>
+<82>	(Inline, 89.105-97.235)	<no-speech>	<no-speech>
+<83>	(Outline, 89.925-95.885)	<sta> kama twenty five hivi hiyo iko sawa kuliko kukaa kwa matatu bwana na saa kumi umefunga kazi umeenda nyumbani .	like twenty five that is okay than being in a bus my friend and at four o'clock you stop work and go home .
+<84>	(Outline, 95.885-98.585)	<no-speech>	<no-speech>
+<85>	(Inline, 97.235-98.485)	twenty five thousand per month ?	twenty five thousand per month ?
+<86>	(Inline, 98.485-100.435)	<no-speech>	<no-speech>
+<87>	(Outline, 98.585-99.225)	mmhm .	mmhm .
+<88>	(Outline, 99.225-102.685)	<no-speech>	<no-speech>
+<89>	(Inline, 100.435-102.125)	ehhe you si uko -- uko mbele .	mm you're -- you're ahead .
+<90>	(Inline, 102.125-105.785)	<no-speech>	<no-speech>
+<91>	(Outline, 102.685-104.465)	<sta> hiyo iko afadhali bwana kuliko matatu bwana .	that one is better than the bus my friend .
+<92>	(Outline, 104.465-110.375)	<no-speech>	<no-speech>
+<93>	(Inline, 105.785-109.745)	ehhe kwa hivyo uliachana na Kenya bus kabisa .	mm therefore you completely left Kenya Bus .
+<94>	(Inline, 109.745-113.755)	<no-speech>	<no-speech>
+<95>	(Outline, 110.375-112.265)	<sta> ahh nilisema wacha nipumzike kwanza kidogo .	ahh I told myself to rest a little bit .
+<96>	(Outline, 112.265-114.715)	<no-speech>	<no-speech>
+<97>	(Inline, 113.755-114.305)	ehhe .	mm .
+<98>	(Inline, 114.305-116.235)	<no-speech>	<no-speech>
+<99>	(Outline, 114.715-116.595)	<sta> nilisema wacha nipumzike kwanza kidogo .	I told myself to rest a little bit .
+<100>	(Inline, 116.235-116.635)	<no-speech>	<no-speech>
+<101>	(Outline, 116.595-119.895)	<no-speech>	<no-speech>
+<102>	(Inline, 116.635-118.055)	<no-speech>	<no-speech>
+<103>	(Inline, 118.055-119.795)	five eighteen saa hii iko na nani ?	how has the five eighteen ?
+<104>	(Inline, 119.795-124.075)	<no-speech>	<no-speech>
+<105>	(Outline, 119.895-123.885)	hata sijui sishughulikangi na mambo yao .	I don't even know I no longer bother with their affairs .
+<106>	(Outline, 123.885-124.755)	<no-speech>	<no-speech>
+<107>	(Inline, 124.075-124.585)	ehhe ?	mm ?
+<108>	(Inline, 124.585-126.015)	<no-speech>	<no-speech>
+<109>	(Outline, 124.755-128.225)	sina habari hata sishughulikangi na mambo yao .	I have no idea I don't even bother with their affairs .
+<110>	(Inline, 126.015-126.995)	<no-speech>	<no-speech>
+<111>	(Inline, 126.995-128.545)	<no-speech>	<no-speech>
+<112>	(Outline, 128.225-131.595)	<no-speech>	<no-speech>
+<113>	(Inline, 128.545-130.915)	<laugh> na Mugambi anaendelea na hiyo gari ?	and is Mugambi continuing with that vehicle ?
+<114>	(Inline, 130.915-133.585)	<no-speech>	<no-speech>
+<115>	(Outline, 131.595-133.605)	<sta> aai Mogambi alienda kitambo bwana .	really Mogambi went a long time my friend .
+<116>	(Inline, 133.585-133.935)	<no-speech>	<no-speech>
+<117>	(Outline, 133.605-135.275)	<no-speech>	<no-speech>
+<118>	(Inline, 133.935-134.915)	<no-speech>	<no-speech>
+<119>	(Inline, 134.915-135.415)	ehhe ?	mm ?
+<120>	(Outline, 135.275-137.535)	<sta> Mogambi aliendanga kitambo kabisa .	Mogambi went a long time ago .
+<121>	(Inline, 135.415-138.675)	<no-speech>	<no-speech>
+<122>	(Outline, 137.535-140.195)	<no-speech>	<no-speech>
+<123>	(Inline, 138.675-139.495)	aliendanga wapi ?	where did he go to ?
+<124>	(Inline, 139.495-142.655)	<no-speech>	<no-speech>
+<125>	(Outline, 140.195-140.885)	<sta> yu kwao .	to his home .
+<126>	(Outline, 140.885-143.335)	<no-speech>	<no-speech>
+<127>	(Inline, 142.655-143.515)	alifutwanga ?	was he fired ?
+<128>	(Outline, 143.335-144.748)	<no-speech>	<no-speech>
+<129>	(Inline, 143.515-152.695)	<no-speech>	<no-speech>
+<130>	(Outline, 144.748-146.487)	ehhe nasikia sijui alifutwa .	mm I hear he was fired .
+<131>	(Outline, 146.487-148.515)	kuna kitu ilifanyika hapo akatoka akaenda .	there's something that happened there and he left .
+<132>	(Outline, 148.515-152.275)	<no-speech>	<no-speech>
+<133>	(Outline, 152.275-153.205)	<sta> ehhe niambie %incomplete	mm tell me %incomplete
+<134>	(Inline, 152.695-155.845)	kwa hivyo Ashley A- -- A- -- Ashley wanaendelea wao aje ?	therefore Ashley -- how is Ashley and others going on ?
+<135>	(Outline, 153.205-156.105)	<no-speech>	<no-speech>
+<136>	(Inline, 155.845-157.275)	<no-speech>	<no-speech>
+<137>	(Outline, 156.105-158.615)	<sta> ehhe ehhe wako sawa .	mm mm they are fine .
+<138>	(Inline, 157.275-159.335)	<no-speech>	<no-speech>
+<139>	(Outline, 158.615-162.505)	<no-speech>	<no-speech>
+<140>	(Inline, 159.335-162.035)	wako Nakuru ama Wako Nairobi ?	are they in Nakuru or Nairobi ?
+<141>	(Inline, 162.035-163.805)	<no-speech>	<no-speech>
+<142>	(Outline, 162.505-163.335)	<sta> uko Nairobi .	in Nairobi .
+<143>	(Outline, 163.335-165.635)	<no-speech>	<no-speech>
+<144>	(Inline, 163.805-165.315)	<sta> ehhe ?	mm ?
+<145>	(Inline, 165.315-166.815)	<no-speech>	<no-speech>
+<146>	(Outline, 165.635-166.428)	wako Nairobi .	they are in Nairobi .
+<147>	(Outline, 166.428-169.385)	na hii -- hii simu -- hii simu ni simu gani unanipigia nayo hii ?	and this -- this number -- which number is this you're calling me with ?
+<148>	(Inline, 166.815-168.705)	<no-speech>	<no-speech>
+<149>	(Inline, 168.705-171.465)	<no-speech>	<no-speech>
+<150>	(Outline, 169.385-172.865)	<no-speech>	<no-speech>
+<151>	(Inline, 171.465-172.144)	kwa nini ?	why ?
+<152>	(Inline, 172.144-173.695)	<no-speech>	<no-speech>
+<153>	(Outline, 172.865-175.524)	we unajua unakuwanga mkora .	you know you're usually a crook .
+<154>	(Inline, 173.695-181.105)	<no-speech>	<no-speech>
+<155>	(Outline, 175.524-182.265)	sasa inaniambia ati tukiongea hii maneno inarekodiwa inarekodiwa namna gani ?	now it's telling me that if we speak these things will be recorded how is it being recorded ?
+<156>	(Inline, 181.105-185.585)	<laugh> nani amekwambia -- nani amekwambia hivyo ?	how has told you -- who has told you so ?
+<157>	(Outline, 182.265-186.785)	<no-speech>	<no-speech>
+<158>	(Inline, 185.585-187.525)	<no-speech>	<no-speech>
+<159>	(Outline, 186.785-189.367)	<sta> ehhe unajua Chisa we unakuwanga na vituko we .	mm you know Chisa you're full of adventures .
+<160>	(Inline, 187.525-188.495)	ehhe ?	mm ?
+<161>	(Inline, 188.495-190.445)	<no-speech>	<no-speech>
+<162>	(Outline, 189.367-190.573)	<no-speech>	<no-speech>
+<163>	(Inline, 190.445-192.315)	<no-speech>	<no-speech>
+<164>	(Outline, 190.573-195.838)	unaweza kuwa umeniweza pahali nijikute mambo imeenda segemnege .	you might be tricking me somewhere and find things going haywire for me .
+<165>	(Inline, 192.315-194.235)	<no-speech>	<no-speech>
+<166>	(Inline, 194.235-195.123)	ehhe ?	mm ?
+<167>	(Inline, 195.123-198.435)	<no-speech>	<no-speech>
+<168>	(Outline, 195.838-198.675)	lakini kama ni pahali tunaweza pata pesa iko sawa .	but if it's somewhere we can get money then that's okay .
+<169>	(Inline, 198.435-199.885)	<no-speech>	<no-speech>
+<170>	(Outline, 198.675-202.705)	<sta> kama pesa hakuna hatutaki biashara ingine tofauti ya pesa .	if money is not there then we don't want any business different from money .
+<171>	(Inline, 199.885-200.975)	<no-speech>	<no-speech>
+<172>	(Inline, 200.975-203.865)	<no-speech>	<no-speech>
+<173>	(Outline, 202.705-209.615)	<no-speech>	<no-speech>
+<174>	(Inline, 203.865-206.566)	we ongea nami -- ongea nami .	just talk to me -- talk to me .
+<175>	(Inline, 206.566-208.095)	niambie sasa %incomplete	tell me now %incomplete
+<176>	(Inline, 208.095-209.055)	<no-speech>	<no-speech>
+<177>	(Inline, 209.055-209.575)	ehhe ?	mm ?
+<178>	(Inline, 209.575-210.545)	<no-speech>	<no-speech>
+<179>	(Outline, 209.615-210.007)	ehhe .	mm .
+<180>	(Outline, 210.007-210.691)	pesa iko %incomplete	the money is %incomplete
+<181>	(Inline, 210.545-211.125)	halo .	hello .
+<182>	(Outline, 210.691-211.645)	<sta> tutapata pesa wapi ?	where can we find money ?
+<183>	(Inline, 211.125-212.925)	<no-speech>	<no-speech>
+<184>	(Outline, 211.645-214.165)	<no-speech>	<no-speech>
+<185>	(Inline, 212.925-214.295)	nakuuliza hivi ?	I am asking you this ?
+<186>	(Outline, 214.165-214.715)	ehhe .	mm .
+<187>	(Inline, 214.295-215.665)	<no-speech>	<no-speech>
+<188>	(Outline, 214.715-220.605)	<no-speech>	<no-speech>
+<189>	(Inline, 215.665-217.675)	<sta> umeona nikinunua pick up mi nita- -- nitamsaidia <int> ?	do you think if I buy a pickup I will help him ?
+<190>	(Inline, 217.675-221.675)	<no-speech>	<no-speech>
+<191>	(Outline, 220.605-222.295)	<sta> inalingana unataka kufanya nayo nini ?	it depends what do you want to do with it ?
+<192>	(Inline, 221.675-222.045)	<no-speech>	<no-speech>
+<193>	(Inline, 222.045-224.885)	<no-speech>	<no-speech>
+<194>	(Outline, 222.295-230.685)	<no-speech>	<no-speech>
+<195>	(Inline, 224.885-228.475)	si hata we unichanue uniambie ni nini naweza nikafanya nayo .	you should also give me tips and tell me what I can use it for .
+<196>	(Inline, 228.475-231.625)	<no-speech>	<no-speech>
+<197>	(Outline, 230.685-232.245)	<sta> sasa pick up %incomplete	now a pickup %incomplete
+<198>	(Inline, 231.625-231.995)	<no-speech>	<no-speech>
+<199>	(Inline, 231.995-233.685)	<no-speech>	<no-speech>
+<200>	(Outline, 232.245-233.175)	<no-speech>	<no-speech>
+<201>	(Outline, 233.175-233.672)	aai .	really .
+<202>	(Outline, 233.672-235.098)	pick up hapana .	pickup no .
+<203>	(Inline, 233.685-234.105)	ehhe .	mm .
+<204>	(Inline, 234.105-238.565)	<no-speech>	<no-speech>
+<205>	(Outline, 235.098-239.615)	lakini sio mbaya unawezafanya nayo kazi ndogo ndogo but hiyo ni mpya sio mzee .	but it's not bad you can use it for small jobs but that one is new and not old .
+<206>	(Inline, 238.565-238.995)	<no-speech>	<no-speech>
+<207>	(Inline, 238.995-240.695)	<no-speech>	<no-speech>
+<208>	(Outline, 239.615-242.955)	<no-speech>	<no-speech>
+<209>	(Inline, 240.695-244.475)	si unajua we ni driver na umeendesha gari miaka mingi inafaa uniambie %incomplete	you know you're a driver and you have driven vehicles for many years you should tell me %incomplete
+<210>	(Outline, 242.955-245.967)	pick up ina- -- pick up inakuliwa kama- -- kama matatu .	a pickup has -- pickup is swindled like a bus .
+<211>	(Inline, 244.475-249.475)	<no-speech>	<no-speech>
+<212>	(Outline, 245.967-248.035)	polisi hataki kuona pick up na macho .	police don't want to see pickups .
+<213>	(Outline, 248.035-252.095)	<no-speech>	<no-speech>
+<214>	(Inline, 249.475-252.665)	Ngai -- Ngai -- Ngai kwa hivyo si mzuri bado ?	Lord -- Lord -- Lord so it's still not good ?
+<215>	(Outline, 252.095-253.235)	<sta> aai pick up hapana .	really pickup no .
+<216>	(Inline, 252.665-254.375)	<no-speech>	<no-speech>
+<217>	(Outline, 253.235-256.975)	<no-speech>	<no-speech>
+<218>	(Inline, 254.375-256.835)	so taxi nayo nikinunua ?	and if I buy a taxi ?
+<219>	(Inline, 256.835-258.795)	<no-speech>	<no-speech>
+<220>	(Outline, 256.975-258.362)	mmhm ehhe .	mmhm mm .
+<221>	(Outline, 258.362-259.064)	sema taxi .	talk about taxi .
+<222>	(Inline, 258.795-259.625)	gari ndogo .	a small car .
+<223>	(Outline, 259.064-263.045)	hiyo ni afadhali unawezafanya nayo hata car hire hio ni afadhali .	that one is better you can even operate a car hire business with it that is better .
+<224>	(Inline, 259.625-260.735)	<no-speech>	<no-speech>
+<225>	(Inline, 260.735-261.235)	ehhe ?	mm ?
+<226>	(Inline, 261.235-264.225)	<no-speech>	<no-speech>
+<227>	(Outline, 263.045-264.165)	hio inaweza pata nayo kazi .	you can find work with it .
+<228>	(Outline, 264.165-266.115)	<no-speech>	<no-speech>
+<229>	(Inline, 264.225-265.715)	mmhm <no-speech> -- mmhm .	mmhm mmhm .
+<230>	(Inline, 265.715-267.025)	<no-speech>	<no-speech>
+<231>	(Outline, 266.115-270.295)	si unisambazie hii pesa uko naye bwana unitumie hapo hata elfu kumi nikulange pole pole huku ?	why not share the money you have my friend and send even ten thousand to me that I can use slowly ?
+<232>	(Inline, 267.025-268.045)	si unajua naona %incomplete	you know I see %incomplete
+<233>	(Inline, 268.045-269.865)	<no-speech>	<no-speech>
+<234>	(Inline, 269.865-270.275)	<no-speech>	<no-speech>
+<235>	(Inline, 270.275-271.545)	<no-speech>	<no-speech>
+<236>	(Outline, 270.295-278.775)	<no-speech>	<no-speech>
+<237>	(Inline, 271.545-277.845)	<sta> <laugh> we ongea tu ongea nami juu sasa nataka biashara bwana nataka nifanye biashara .	just talk just talk with me because now I want a business my friend I want to do business .
+<238>	(Inline, 277.845-280.555)	<no-speech>	<no-speech>
+<239>	(Outline, 278.775-279.324)	<sta> mmhm .	mmhm .
+<240>	(Outline, 279.324-281.345)	ni sawa we jikakamue .	it's okay just strive on .
+<241>	(Inline, 280.555-284.995)	nataka kufanya biashara juu <breath> hii kazi nayo ya kuandikwa si mzuri sana .	I want to do business because employment work is not good .
+<242>	(Outline, 281.345-282.695)	mmhm .	mmhm .
+<243>	(Outline, 282.695-285.935)	<no-speech>	<no-speech>
+<244>	(Inline, 284.995-288.015)	<no-speech>	<no-speech>
+<245>	(Outline, 285.935-289.051)	<sta> <laugh> we uko na pesa .	you have money .
+<246>	(Inline, 288.015-289.875)	mmhm .	mmhm .
+<247>	(Outline, 289.051-292.525)	biashara iko mingi sana hata ya kuuza watu zinapatikana tu .	there are very many businesses and even the one of selling people is available .
+<248>	(Inline, 289.875-293.555)	<no-speech>	<no-speech>
+<249>	(Outline, 292.525-293.765)	<no-speech>	<no-speech>
+<250>	(Inline, 293.555-296.759)	ati ya kuuza watu kuna biashara ya kuuza watu ?	one of selling people is there a business of selling people ?
+<251>	(Outline, 293.765-294.185)	<no-speech>	<no-speech>
+<252>	(Outline, 294.185-297.425)	<no-speech>	<no-speech>
+<253>	(Inline, 296.759-297.685)	<no-speech>	<no-speech>
+<254>	(Outline, 297.425-297.842)	<sta> yeah .	yeah .
+<255>	(Inline, 297.685-299.165)	<no-speech>	<no-speech>
+<256>	(Outline, 297.842-300.495)	we una- -- unafikiri hapo ni mchezo ?	do you think that's a joke ?
+<257>	(Inline, 299.165-299.895)	<no-speech>	<no-speech>
+<258>	(Inline, 299.895-301.635)	<no-speech>	<no-speech>
+<259>	(Outline, 300.495-301.545)	<no-speech>	<no-speech>
+<260>	(Outline, 301.545-302.995)	<sta> pesa -- pesa ikiwa %incomplete	when money is %incomplete
+<261>	(Inline, 301.635-302.525)	ehhe ?	mm ?
+<262>	(Inline, 302.525-303.345)	<no-speech>	<no-speech>
+<263>	(Outline, 302.995-304.505)	<no-speech>	<no-speech>
+<264>	(Inline, 303.345-304.685)	<sta> ehhe .	mm .
+<265>	(Outline, 304.505-306.195)	<sta> hakuna biashara mtu hajawahi kopa .	there's no business where a person has never borrowed .
+<266>	(Inline, 304.685-305.515)	<no-speech>	<no-speech>
+<267>	(Inline, 305.515-306.927)	<no-speech>	<no-speech>
+<268>	(Outline, 306.195-308.525)	<no-speech>	<no-speech>
+<269>	(Inline, 306.927-310.764)	ati biashara ya kuuza watu <laugh> kuna biashara inakuwanga ya kuuza watu kweli ?	a business of selling people is there a business of selling people really ?
+<270>	(Outline, 308.525-309.625)	<no-speech>	<no-speech>
+<271>	(Outline, 309.625-310.845)	<no-speech>	<no-speech>
+<272>	(Inline, 310.764-312.835)	<no-speech>	<no-speech>
+<273>	(Outline, 310.845-315.745)	<sta> si unafungua tu pahali unawaambia warembo wanakaa tu wanakamatwa tu hapo mdogo mdogo <int> .	you can just open a place and tell some beauties to sit in there and slowly get caressed .
+<274>	(Inline, 312.835-314.375)	<no-speech>	<no-speech>
+<275>	(Inline, 314.375-315.795)	<no-speech>	<no-speech>
+<276>	(Outline, 315.745-317.725)	<no-speech>	<no-speech>
+<277>	(Inline, 315.795-316.745)	<no-speech>	<no-speech>
+<278>	(Inline, 316.745-322.501)	<laugh> ehhe hata we unakuwanga wa vituko saa zingine .	mm sometimes you're also very dramatic .
+<279>	(Outline, 317.725-318.105)	<no-speech>	<no-speech>
+<280>	(Outline, 318.105-319.035)	<no-speech>	<no-speech>
+<281>	(Outline, 319.035-327.565)	<no-speech>	<no-speech>
+<282>	(Inline, 322.501-326.895)	<laugh> kwa hivyo ni %incomplete	therefore %incomplete
+<283>	(Inline, 326.895-327.875)	<no-speech>	<no-speech>
+<284>	(Outline, 327.565-329.115)	<no-speech>	<no-speech>
+<285>	(Inline, 327.875-329.631)	kwa hivyo nifungue mahali inauzwa watu ?	so should I start a place where people are sold ?
+<286>	(Outline, 329.115-330.745)	<no-speech>	<no-speech>
+<287>	(Inline, 329.631-332.215)	<no-speech>	<no-speech>
+<288>	(Outline, 330.745-335.525)	by the way sijakwambia nakwambia kama pesa iko bloody fucking hakuna kazi huwezi fanya .	by the way I haven't told you so I'm telling you if there's money then there's no bloody fucking job that you can't do .
+<289>	(Inline, 332.215-333.075)	<no-speech>	<no-speech>
+<290>	(Inline, 333.075-333.715)	<no-speech>	<no-speech>
+<291>	(Inline, 333.715-335.095)	<no-speech>	<no-speech>
+<292>	(Inline, 335.095-338.735)	<laugh> kesho utakuwa wapi ?	where will you be tomorrow ?
+<293>	(Outline, 335.525-339.465)	<no-speech>	<no-speech>
+<294>	(Inline, 338.735-340.695)	<no-speech>	<no-speech>
+<295>	(Outline, 339.465-341.405)	<sta> mi niko napatikana wakati wowote .	I am available anytime .
+<296>	(Inline, 340.695-341.885)	<no-speech>	<no-speech>
+<297>	(Outline, 341.405-343.775)	hata saa kumi ya usiku ukinitaka unanipata tu .	even when you call me at four o'clock in the morning I am just available .
+<298>	(Inline, 341.885-344.755)	<no-speech>	<no-speech>
+<299>	(Outline, 343.775-344.575)	<no-speech>	<no-speech>
+<300>	(Outline, 344.575-344.935)	<no-speech>	<no-speech>
+<301>	(Inline, 344.755-347.235)	kesho niko Nairobi nitakupigia simu .	I will be in Nairobi tomorrow I will call you .
+<302>	(Outline, 344.935-347.895)	<no-speech>	<no-speech>
+<303>	(Inline, 347.235-349.785)	<no-speech>	<no-speech>
+<304>	(Outline, 347.895-349.508)	<sta> ukuje na pesa bwana .	come with money friend .
+<305>	(Outline, 349.508-350.665)	si ni pesa tunataka .	it's money we want .
+<306>	(Inline, 349.785-350.195)	<no-speech>	<no-speech>
+<307>	(Inline, 350.195-351.285)	<no-speech>	<no-speech>
+<308>	(Outline, 350.665-354.775)	<no-speech>	<no-speech>
+<309>	(Inline, 351.285-352.312)	<no-speech>	<no-speech>
+<310>	(Inline, 352.312-354.115)	nani amekwambia sina pesa <laugh> ?	who told you I don't have money ?
+<311>	(Inline, 354.115-355.955)	<no-speech>	<no-speech>
+<312>	(Outline, 354.775-357.665)	<sta> pesa kama pesa ndiyo twende tukamate pombe kama fombe .	if you have money let's go and catch some alcohol like liquor .
+<313>	(Inline, 355.955-356.315)	<no-speech>	<no-speech>
+<314>	(Inline, 356.315-358.935)	<no-speech>	<no-speech>
+<315>	(Outline, 357.665-360.255)	<no-speech>	<no-speech>
+<316>	(Inline, 358.935-360.525)	unakunywanga pombe siku hizi ?	do you drink alcohol these days ?
+<317>	(Outline, 360.255-361.654)	<no-speech>	<no-speech>
+<318>	(Inline, 360.525-362.225)	<no-speech>	<no-speech>
+<319>	(Outline, 361.654-362.621)	niliokoka bwana .	I got saved my friend .
+<320>	(Inline, 362.225-365.505)	<laugh> ehhe ?	mm ?
+<321>	(Outline, 362.621-364.725)	<no-speech>	<no-speech>
+<322>	(Outline, 364.725-366.033)	mi niliokoka .	I got saved .
+<323>	(Inline, 365.505-366.725)	<no-speech>	<no-speech>
+<324>	(Outline, 366.033-368.124)	<no-speech>	<no-speech>
+<325>	(Inline, 366.725-368.005)	hukunywangi ?	don't you drink ?
+<326>	(Inline, 368.005-371.085)	<no-speech>	<no-speech>
+<327>	(Outline, 368.124-369.405)	ndiyo maana niliwacha <int> .	that's the reason I stopped .
+<328>	(Outline, 369.405-375.425)	<no-speech>	<no-speech>
+<329>	(Inline, 371.085-374.647)	ahh kwenda huko ukiniona ukiona Josiah ndiyo huyo si utakunywa tu .	ahh go away if you see Josiah you will just drink .
+<330>	(Inline, 374.647-376.335)	<no-speech>	<no-speech>
+<331>	(Outline, 375.425-377.074)	<sta> niliwacha bwana .	I stopped my friend .
+<332>	(Inline, 376.335-377.935)	<no-speech>	<no-speech>
+<333>	(Outline, 377.074-384.105)	<no-speech>	<no-speech>
+<334>	(Inline, 377.935-381.895)	kabisa kabisa huwezi kukunywa hata -- hata -- hata nini hata Smirnoff hata nini ?	you completely stopped even even Smirnoff or anything ?
+<335>	(Inline, 381.895-383.595)	<no-speech>	<no-speech>
+<336>	(Inline, 383.595-385.768)	ile tu ya kukunywa tu once in a Blue Moon .	just drinking only once in a blue moon .
+<337>	(Outline, 384.105-387.505)	<no-speech>	<no-speech>
+<338>	(Inline, 385.768-387.495)	<no-speech>	<no-speech>
+<339>	(Inline, 387.495-388.685)	<no-speech>	<no-speech>
+<340>	(Outline, 387.505-389.205)	<sta> si nipatikane tutaona tu vile iko <int> .	should I be found we will see how it is .
+<341>	(Inline, 388.685-392.915)	<sta> <laugh> sasa kesho nakutaka sana .	I really want you tomorrow .
+<342>	(Outline, 389.205-390.215)	<no-speech>	<no-speech>
+<343>	(Outline, 390.215-390.575)	<no-speech>	<no-speech>
+<344>	(Outline, 390.575-393.855)	<no-speech>	<no-speech>
+<345>	(Inline, 392.915-395.035)	<no-speech>	<no-speech>
+<346>	(Outline, 393.855-394.495)	<int> saa ngapi ?	what time ?
+<347>	(Outline, 394.495-395.515)	<no-speech>	<no-speech>
+<348>	(Inline, 395.035-397.935)	<sta> kesho saa tano nataka kukuona Kencom .	tomorrow at eleven o'clock I want to see you at Kencom .
+<349>	(Outline, 395.515-395.875)	<no-speech>	<no-speech>
+<350>	(Outline, 395.875-396.785)	<no-speech>	<no-speech>
+<351>	(Outline, 396.785-397.155)	<no-speech>	<no-speech>
+<352>	(Outline, 397.155-399.735)	<no-speech>	<no-speech>
+<353>	(Inline, 397.935-401.215)	<no-speech>	<no-speech>
+<354>	(Outline, 399.735-402.123)	<sta> we niambie tu- -- juu ni (()) %incomplete	just tell me because it's (()) %incomplete
+<355>	(Inline, 401.215-402.405)	<no-speech>	<no-speech>
+<356>	(Outline, 402.123-406.395)	unaniambianga hivyo kila siku mara ohh ohh nakupigia simu sijui (()) %incomplete	you usually tell me so every day that ohh ohh I usually call you I don't know (()) %incomplete
+<357>	(Inline, 402.405-403.425)	<no-speech>	<no-speech>
+<358>	(Inline, 403.425-403.795)	<no-speech>	<no-speech>
+<359>	(Inline, 403.795-405.265)	<no-speech>	<no-speech>
+<360>	(Inline, 405.265-406.909)	uhuh lakini kesho %incomplete	no but tomorrow %incomplete
+<361>	(Outline, 406.395-408.255)	<no-speech>	<no-speech>
+<362>	(Inline, 406.909-407.925)	<no-speech>	<no-speech>
+<363>	(Inline, 407.925-408.515)	ona %incomplete	look %incomplete
+<364>	(Outline, 408.255-408.825)	mmhm .	mmhm .
+<365>	(Inline, 408.515-409.455)	<no-speech>	<no-speech>
+<366>	(Outline, 408.825-412.075)	<no-speech>	<no-speech>
+<367>	(Inline, 409.455-411.863)	kesho -- kesho nitakuwa -- kesho nitakuwa available .	tomorrow -- tomorrow I will -- tomorrow I will be available .
+<368>	(Inline, 411.863-414.755)	kesho nitakuwa community ile biashara yangu ya kawaida .	tomorrow I will be in Community for my usual business .
+<369>	(Outline, 412.075-412.425)	<no-speech>	<no-speech>
+<370>	(Outline, 412.425-413.675)	<no-speech>	<no-speech>
+<371>	(Outline, 413.675-414.025)	<no-speech>	<no-speech>
+<372>	(Outline, 414.025-415.155)	<no-speech>	<no-speech>
+<373>	(Inline, 414.755-416.335)	<no-speech>	<no-speech>
+<374>	(Outline, 415.155-415.675)	mmhm .	mmhm .
+<375>	(Outline, 415.675-419.825)	<no-speech>	<no-speech>
+<376>	(Inline, 416.335-423.495)	nataka at least nipate ka transfer nikuje through <lipsmack> unajua Nairobi ndiyo pesa inakuwanga huko kwenu bwana hakuna kitu huko .	I want to at least get a transfer to come you know Nairobi is where money is .
+<377>	(Outline, 419.825-420.225)	<no-speech>	<no-speech>
+<378>	(Outline, 420.225-424.795)	<no-speech>	<no-speech>
+<379>	(Inline, 423.495-425.495)	<no-speech>	<no-speech>
+<380>	(Outline, 424.795-427.365)	<sta> haiya sawasawa tutaongea ukikuja utaniambia .	okay it's alright we will talk let me know when you come .
+<381>	(Inline, 425.495-425.853)	mmhm .	mmhm .
+<382>	(Inline, 425.853-429.152)	<no-speech>	<no-speech>
+<383>	(Outline, 427.365-431.015)	<no-speech>	<no-speech>
+<384>	(Inline, 429.152-430.605)	<sta> mmhm saa hii mko na Ashley ?	mmhm are you with Ashley now ?
+<385>	(Inline, 430.605-432.215)	<no-speech>	<no-speech>
+<386>	(Outline, 431.015-431.495)	mmhm ?	mmhm ?
+<387>	(Outline, 431.495-435.245)	<no-speech>	<no-speech>
+<388>	(Inline, 432.215-434.095)	Ashley mko na ye pamoja ?	are you together with Ashley ?
+<389>	(Inline, 434.095-436.515)	<no-speech>	<no-speech>
+<390>	(Outline, 435.245-435.835)	<sta> si ndiyo .	yes .
+<391>	(Outline, 435.835-440.165)	<no-speech>	<no-speech>
+<392>	(Inline, 436.515-439.605)	<sta> saa hii a- -- ako mko na ye saa hii na %incomplete	at the moment -- she's -- are you with her now %incomplete
+<393>	(Inline, 439.605-442.095)	<no-speech>	<no-speech>
+<394>	(Outline, 440.165-442.365)	<sta> bwana si mi niko kazini bwana .	my friend I am at work my friend .
+<395>	(Inline, 442.095-442.755)	<no-speech>	<no-speech>
+<396>	(Outline, 442.365-446.595)	<no-speech>	<no-speech>
+<397>	(Inline, 442.755-443.765)	<no-speech>	<no-speech>
+<398>	(Inline, 443.765-445.825)	<sta> saa hii uko kazi hau- -- hauko na Ashley saa hii <int> ?	you're at work now -- aren't you with Ashley now ?
+<399>	(Inline, 445.825-450.585)	<no-speech>	<no-speech>
+<400>	(Outline, 446.595-448.615)	<sta> si niko kazi kwani saa hii ni saa ngapi na we ?	I am at work now what time is it now ?
+<401>	(Outline, 448.615-453.145)	<no-speech>	<no-speech>
+<402>	(Inline, 450.585-452.325)	wah unajua utaweza kuwa uko kwa nyumba %incomplete	wah you know you might be in the house %incomplete
+<403>	(Inline, 452.325-454.455)	<no-speech>	<no-speech>
+<404>	(Outline, 453.145-454.515)	<sta> hapana siko kwa nyumba .	no I'm not in the house .
+<405>	(Inline, 454.455-455.511)	<no-speech>	<no-speech>
+<406>	(Outline, 454.515-458.375)	<no-speech>	<no-speech>
+<407>	(Inline, 455.511-457.438)	nilikuwa nataka nisikie kama Ashley amejua kuongea .	I wanted to hear if Ashley has learned how to talk .
+<408>	(Inline, 457.438-459.415)	<no-speech>	<no-speech>
+<409>	(Outline, 458.375-466.435)	<sta> we kesho kama unakuja kuja na ulete pesa .	if you're coming tomorrow come and bring cash .
+<410>	(Inline, 459.415-461.655)	<no-speech>	<no-speech>
+<411>	(Inline, 461.655-462.435)	ehhe ?	mm ?
+<412>	(Inline, 462.435-464.345)	<no-speech>	<no-speech>
+<413>	(Inline, 464.345-465.325)	kesho nakuja .	I'm coming tomorrow .
+<414>	(Inline, 465.325-466.305)	<no-speech>	<no-speech>
+<415>	(Inline, 466.305-469.105)	kesho nakuja kitu kama saa tano nitakuwa niko hapo .	I am coming at like eleven o'clock tomorrow I will be there .
+<416>	(Outline, 466.435-467.305)	<no-speech>	<no-speech>
+<417>	(Outline, 467.305-467.655)	<no-speech>	<no-speech>
+<418>	(Outline, 467.655-469.625)	<no-speech>	<no-speech>
+<419>	(Inline, 469.105-470.615)	<no-speech>	<no-speech>
+<420>	(Outline, 469.625-470.823)	<sta> haya sawasawa .	okay fine .
+<421>	(Inline, 470.615-473.845)	halafu ukuje sijui kama utakuwa available ?	and then come I don't know if you will be available ?
+<422>	(Outline, 470.823-471.975)	<no-speech>	<no-speech>
+<423>	(Outline, 471.975-475.185)	<no-speech>	<no-speech>
+<424>	(Inline, 473.845-477.725)	<no-speech>	<no-speech>
+<425>	(Outline, 475.185-476.299)	<sta> mi napatikana bwana .	I am available my friend .
+<426>	(Outline, 476.299-479.128)	<no-speech>	<no-speech>
+<427>	(Inline, 477.725-478.645)	kesho utapatikana ?	will you be available tomorrow ?
+<428>	(Inline, 478.645-481.655)	<no-speech>	<no-speech>
+<429>	(Outline, 479.128-480.565)	napatikana kabisa .	I'm very much available .
+<430>	(Outline, 480.565-485.595)	<no-speech>	<no-speech>
+<431>	(Inline, 481.655-483.555)	kwa hivyo kesho hautaenda -- hautaenda kazi ?	therefore you will not go to work tomorrow ?
+<432>	(Inline, 483.555-492.595)	<no-speech>	<no-speech>
+<433>	(Outline, 485.595-489.252)	<sta> sasa nitakosa aje bila kazi nikikosa kwenda kazi si nitakufa njaa ?	now how can I fail to go to work won't I die of hunger ?
+<434>	(Outline, 489.252-491.366)	ukiniambia utanipatia pesa siwezi enda .	I will not go if you tell me you will give me money .
+<435>	(Outline, 491.366-492.385)	<no-speech>	<no-speech>
+<436>	(Outline, 492.385-496.225)	<no-speech>	<no-speech>
+<437>	(Inline, 492.595-495.935)	<laugh> halafu Njagi wanaendelea na madam bado ?	are Njagi and the madam progressing well ?
+<438>	(Inline, 495.935-498.795)	<no-speech>	<no-speech>
+<439>	(Outline, 496.225-500.345)	<sta> ahh mi hata mambo yao sijui kabisa niliwachana na biashara yao mi .	ahh I don't even know about their affairs I stopped their business .
+<440>	(Inline, 498.795-500.395)	<no-speech>	<no-speech>
+<441>	(Outline, 500.345-506.845)	<no-speech>	<no-speech>
+<442>	(Inline, 500.395-501.295)	<no-speech>	<no-speech>
+<443>	(Inline, 501.295-506.225)	nani yule anaitwanga Mureithi -- Mureithi naendelea na ile four eighty five ?	and Mureithi -- is Mureithi continuing with that four eighty five ?
+<444>	(Inline, 506.225-509.395)	<no-speech>	<no-speech>
+<445>	(Outline, 506.845-508.135)	ehhe ye bado ako Nai .	mm he's still in Nairobi .
+<446>	(Outline, 508.135-512.465)	<no-speech>	<no-speech>
+<447>	(Inline, 509.395-511.585)	ehhe amenona kabisa ?	mm he's very fat ?
+<448>	(Inline, 511.585-514.485)	<no-speech>	<no-speech>
+<449>	(Outline, 512.465-513.315)	<sta> wacha nione tu- -- .	let me see we .
+<450>	(Outline, 513.315-514.055)	hiyo ni yake <int> .	that is his business .
+<451>	(Outline, 514.055-516.875)	<no-speech>	<no-speech>
+<452>	(Inline, 514.485-516.263)	jamaa bwana ananona kama %incomplete	that guy has fattened to a point %incomplete
+<453>	(Inline, 516.263-517.185)	<no-speech>	<no-speech>
+<454>	(Outline, 516.875-517.889)	<no-speech>	<no-speech>
+<455>	(Inline, 517.185-518.505)	<no-speech>	<no-speech>
+<456>	(Outline, 517.889-519.115)	ehhe kama nguruwe bwana .	mm like a pig my friend .
+<457>	(Inline, 518.505-519.648)	<no-speech>	<no-speech>
+<458>	(Outline, 519.115-522.375)	<no-speech>	<no-speech>
+<459>	(Inline, 519.648-521.934)	na uki- -- na ukiona ukiona mwanaume ananona hivyo %incomplete	and if you see a man fattening like that %incomplete
+<460>	(Inline, 521.934-523.287)	<no-speech>	<no-speech>
+<461>	(Outline, 522.375-522.725)	<no-speech>	<no-speech>
+<462>	(Outline, 522.725-523.685)	<no-speech>	<no-speech>
+<463>	(Inline, 523.287-523.735)	ehhe ?	mm ?
+<464>	(Outline, 523.685-524.335)	mmhm .	mmhm .
+<465>	(Inline, 523.735-524.835)	<no-speech>	<no-speech>
+<466>	(Outline, 524.335-525.325)	<no-speech>	<no-speech>
+<467>	(Inline, 524.835-525.505)	Otieno ?	Otieno ?
+<468>	(Outline, 525.325-526.555)	<sta> ehhe nakusikia .	mm I hear you .
+<469>	(Inline, 525.505-526.515)	<no-speech>	<no-speech>
+<470>	(Inline, 526.515-532.018)	ukiona mwanaume hiyo si mwanaume hafai anone .	a man is not supposed to fatten like that .
+<471>	(Outline, 526.555-534.315)	<no-speech>	<no-speech>
+<472>	(Inline, 532.018-534.345)	<laugh> kunona tuliachia wanawake bwana .	we left the fattening to the women my friend .
+<473>	(Outline, 534.315-537.325)	<sta> unaona kama ulikula juala unajua we huwezi nona .	you see if you fed on plastics you can't fatten .
+<474>	(Inline, 534.345-535.945)	<no-speech>	<no-speech>
+<475>	(Inline, 535.945-537.005)	<no-speech>	<no-speech>
+<476>	(Inline, 537.005-538.445)	<no-speech>	<no-speech>
+<477>	(Outline, 537.325-540.005)	<no-speech>	<no-speech>
+<478>	(Inline, 538.445-539.985)	<no-speech>	<no-speech>
+<479>	(Inline, 539.985-540.875)	<no-speech>	<no-speech>
+<480>	(Outline, 540.005-543.386)	<sta> watu wameanza kunona .	people have started fattening .
+<481>	(Inline, 540.875-541.825)	<no-speech>	<no-speech>
+<482>	(Inline, 541.825-543.205)	<no-speech>	<no-speech>
+<483>	(Inline, 543.205-543.725)	ehhe ?	mm ?
+<484>	(Outline, 543.386-550.715)	ukiwa huna stress unafanya kazi unafikiri itakusaidia utanona tu .	if you're not stressed and you're doing a job that you think will help you then you will just fatten .
+<485>	(Inline, 543.725-549.685)	<no-speech>	<no-speech>
+<486>	(Inline, 549.685-554.975)	ehhe mtu ka sa mi Josiah mi nitanona wapi ?	mm but where can a person like me fatten Josiah ?
+<487>	(Outline, 550.715-552.395)	<no-speech>	<no-speech>
+<488>	(Outline, 552.395-555.634)	<sta> na we huwezi nona we ulikula monyore juala kitambo .	you can't fatten you ate plastics a long time ago .
+<489>	(Inline, 554.975-556.105)	<no-speech>	<no-speech>
+<490>	(Outline, 555.634-558.812)	<no-speech>	<no-speech>
+<491>	(Inline, 556.105-557.185)	<no-speech>	<no-speech>
+<492>	(Inline, 557.185-558.435)	<no-speech>	<no-speech>
+<493>	(Inline, 558.435-560.695)	ile mtu yangu unamwonanga ?	do you usually see my person ?
+<494>	(Outline, 558.812-559.525)	haya .	okay .
+<495>	(Outline, 559.525-561.185)	<no-speech>	<no-speech>
+<496>	(Inline, 560.695-563.515)	<no-speech>	<no-speech>
+<497>	(Outline, 561.185-562.213)	<no-speech>	<no-speech>
+<498>	(Outline, 562.213-563.365)	mtu gani hii tena ?	which person again ?
+<499>	(Outline, 563.365-566.345)	<no-speech>	<no-speech>
+<500>	(Inline, 563.515-565.513)	<sta> ile -- ile -- ile -- ile tu .	just that one .
+<501>	(Inline, 565.513-566.485)	<no-speech>	<no-speech>
+<502>	(Outline, 566.345-568.145)	<sta> ahh huko hata hiyo mu- %incomplete	ahh even that one there %incomplete
+<503>	(Inline, 566.485-572.305)	<no-speech>	<no-speech>
+<504>	(Outline, 568.145-571.682)	ahh huku kwa ma- -- matatu mi hata si shughulikanangi na hao watu .	ahh I don't bother about those people here in the buses .
+<505>	(Outline, 571.682-573.585)	<no-speech>	<no-speech>
+<506>	(Inline, 572.305-576.345)	<laugh> ahh huyo nilisema mu- -- Mungu anisaidie tu nitoke hapo .	ahh I asked God to help me get away from that place and her .
+<507>	(Outline, 573.585-577.065)	<no-speech>	<no-speech>
+<508>	(Inline, 576.345-577.875)	<no-speech>	<no-speech>
+<509>	(Outline, 577.065-578.485)	<sta> haya sawasawa <int> .	okay alright .
+<510>	(Inline, 577.875-580.614)	ehhe na -- na ikaukwa -- na ikakuwa tu hivyo hivyo .	mm and that is how it came to be .
+<511>	(Outline, 578.485-580.625)	<no-speech>	<no-speech>
+<512>	(Inline, 580.614-581.635)	<no-speech>	<no-speech>
+<513>	(Outline, 580.625-583.231)	<sta> ehhe nliendanga hivyo .	mm that is how I left .
+<514>	(Inline, 581.635-582.595)	<no-speech>	<no-speech>
+<515>	(Inline, 582.595-583.035)	<no-speech>	<no-speech>
+<516>	(Inline, 583.035-584.485)	<no-speech>	<no-speech>
+<517>	(Outline, 583.231-586.325)	unaamuanga unaenda na maisha inaendelea tu .	once you decide you leave and life just goes on .
+<518>	(Inline, 584.485-584.995)	ehhe ?	mm ?
+<519>	(Inline, 584.995-586.085)	<no-speech>	<no-speech>
+<520>	(Inline, 586.085-587.792)	<no-speech>	<no-speech>
+<521>	(Outline, 586.325-588.615)	<no-speech>	<no-speech>
+<522>	(Inline, 587.792-590.055)	mm- -- huyo hata sitaki kumwona na macho yangu mi .	I don't even want to see that one with my eyes .
+<523>	(Outline, 588.615-589.005)	<no-speech>	<no-speech>
+<524>	(Outline, 589.005-590.285)	<no-speech>	<no-speech>
+<525>	(Inline, 590.055-593.505)	<no-speech>	<no-speech>
+<526>	(Outline, 590.285-590.935)	<int> ye ?	who ?
+<527>	(Outline, 590.935-592.175)	<no-speech>	<no-speech>
+<528>	(Outline, 592.175-593.015)	<no-speech>	<no-speech>
+<529>	(Outline, 593.015-594.085)	<no-speech>	<no-speech>
+<530>	(Inline, 593.505-594.865)	sitaki kumwona na macho yangu .	I don't want to see her with my eyes .
+<531>	(Outline, 594.085-594.475)	<no-speech>	<no-speech>
+<532>	(Outline, 594.475-597.865)	<no-speech>	<no-speech>
+<533>	(Inline, 594.865-597.195)	hata sitaki kumwona sitaki kusikia <laugh> .	I don't even want to see or hear of her .
+<534>	(Inline, 597.195-597.865)	<no-speech>	<no-speech>

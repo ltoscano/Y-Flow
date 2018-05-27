@@ -1,0 +1,55 @@
+[0.000]
+(()) za Kitaifa .
+[0.757]
+<no-speech>
+[2.001]
+watu watano wamepoteza maisha na wengine thelathini kujeruhiwa vibaya katika ajali iliyotokea eneo la Kibaoni wilayani Kilosa mkoa wa Morogoro ambayo imehusisha basi la kampuni ya Badkadi na trela ya mizigo iliyokuwa ikitokea Dar es Salaam kuelekea mikoa ya kati .
+[16.391]
+taarifa ya Jimmy Mengele kutoka Morogoro inasomwa hapa studio .
+[19.260]
+<no-speech>
+[20.180]
+katika ajali hiyo iliyohusisha basi dogo aina ya (()) lenye namba za usajili <breath> T mia nane thelathini na saba C_T_M linalofanya safari zake kati ya Kilosa Morogoro <breath> watu wanne wamefariki papo hapo <breath> kabla ya dereva wa basi hilo naye kukutwa na umauti katika chumba cha upasuaji kwenye hospitali ya wilaya ya Kilosa .
+[41.000]
+ajali hiyo inadaiwa kusababishwa na dereva wa basi hilo <breath> ambaye alikatisha katikati ya reli akiwa katika harakati za kubadili njia .
+[48.906]
+<breath> mara baada ya kubaini barabara waliokuwa wakiitumia imeharibika sana kutokana na mvua .
+[54.660]
+<sta> tulikaa hivyo tukapanda .
+[56.653]
+akawa mwendo kasi .
+[58.430]
+<sta> mbele tukafika (()) <sta> dereva wetu akaingiza gari na treni ikapita pale .
+[65.088]
+kwa hivyo ikatugutua kwa mbele .
+[67.800]
+<sta> tukarushwa tukapinduka wengine wakafa wengine wazima .
+[70.657]
+ndiyo kama sisi tuko hospitali .
+[72.529]
+mganga mkuu wa hospitali ya wilaya Kilosa amezungumzia ajali hiyo ambapo amesema majeruhi ishirini na watano <breath> wanaendelea kupatiwa matibabu katika hospitali hiyo huku wengine watano wakiwa wamepelekwa katika hospitali ya rufaa <breath> ya mkoa wa Morogoro .
+[86.250]
+mara baada ya hali zao kuzidi kuwa mbaya .
+[88.653]
+<int> majeruhi sita .
+[91.101]
+<sta> hali zao zilikuwa ni- -- <no-speech> -- ni kete kidogo <sta> ambapo katika hao sita watano tulikuwa tumeamua wapewe rufaa ya kwenda hospitali ya mkoa wa Morogoro .
+[104.620]
+mkuu wa wilaya ya Kilosa amewataka madereva kuwa makini hasa <breath> wanapokatisha kwenye vivuko vya reli .
+[111.036]
+bado tunasisitiza kwamba swala la kuzingatia sheria kwa upande wa madereva wetu imekuwa ni tatizo <int> kubwa sana hasa kwa madereva wetu wa sasa ambao wana umri mdogo wa <int> ujana .
+[121.501]
+wakidhani pengine sheria zimezeeka .
+[123.834]
+<no-speech>
+[125.000]
+sheria hazizeeki <no-speech> kama vile tunavyozeeka sisi binadamu .
+[128.947]
+sheria ziko pale kwa ajili ya kusaidia binadamu wa jana wa leo na kesho .
+[132.140]
+nikiripoti kutoka Dar es Salaam Upendo Msuya channel ten .
+[135.468]
+<no-speech>
+[136.430]
+bunge leo lime- %incomplete
+[137.571]

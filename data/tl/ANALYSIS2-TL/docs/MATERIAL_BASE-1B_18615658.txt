@@ -1,0 +1,87 @@
+0.000	inLine	<no-speech>
+0.000	outLine	<no-speech>
+0.290	inLine	ba't niya 'ko (()) ?
+0.990	outLine	'di ba ?
+1.349	inLine	<no-speech> ha ?
+1.989	outLine	<no-speech>
+3.460	outLine	<no-speech>
+4.230	inLine	<no-speech>
+4.600	outLine	ah ?
+5.190	inLine	ba't ako hahanapin ?
+5.220	outLine	<no-speech>
+6.440	inLine	<no-speech>
+8.510	outLine	wala lang .
+9.370	outLine	<no-speech> nasabi ko lang .
+10.490	outLine	<no-speech>
+10.530	inLine	<no-speech>
+12.000	outLine	<no-speech>
+13.820	outLine	<no-speech>
+14.426	inLine	nag-reply na si Rhea ?
+15.270	outLine	kumain ka na ?
+16.015	inLine	<no-speech>
+16.220	outLine	<no-speech>
+16.296	inLine	oo .
+17.603	inLine	<no-speech>
+17.670	outLine	<no-speech>
+18.290	outLine	<no-speech>
+21.080	outLine	<no-speech>
+21.678	inLine	ang ha .
+22.072	outLine	ha ?
+22.640	outLine	<no-speech>
+23.472	inLine	<no-speech>
+25.061	inLine	ha ?
+25.860	outLine	sinisipon ako best .
+26.317	inLine	<no-speech>
+26.930	outLine	<no-speech>
+27.850	outLine	<no-speech>
+28.470	inLine	<no-speech>
+29.450	inLine	sabi ba 'yan sabi ko .
+29.848	outLine	hello ?
+30.620	outLine	<no-speech>
+31.220	inLine	<no-speech>
+31.760	outLine	<no-speech>
+33.937	outLine	hello ?
+34.950	inLine	hello .
+35.080	outLine	<no-speech>
+35.910	inLine	<no-speech>
+37.682	inLine	nag-text na si Dianne ?
+38.710	outLine	<no-speech>
+39.103	inLine	<no-speech>
+39.260	outLine	<no-speech>
+40.080	outLine	hello ?
+40.524	inLine	hello .
+41.028	outLine	<no-speech>
+41.410	inLine	<no-speech>
+42.087	outLine	sabi ko sinisipon ako .
+43.960	outLine	<no-speech>
+44.300	inLine	sinisipon ka ?
+45.210	inLine	<no-speech>
+46.250	inLine	<no-speech>
+46.620	inLine	<no-speech>
+47.760	inLine	lagyan mo ng ano .
+50.067	inLine	<no-speech>
+50.840	inLine	ng bulak sa ilong para hindi <no-speech> .
+50.950	outLine	<no-speech>
+51.300	outLine	<no-speech>
+52.170	outLine	oh ?
+52.771	inLine	<no-speech> 'di mo 'ko naririnig ikaw nga naririnig ko .
+52.920	outLine	<no-speech>
+54.320	outLine	'di ko marinig best eh .
+55.770	outLine	<no-speech>
+57.860	inLine	<no-speech>
+58.840	inLine	<no-speech>
+59.770	outLine	ha ?
+59.780	inLine	'di mo ko naririnig ?
+60.320	outLine	<no-speech>
+61.847	inLine	<no-speech>
+62.770	inLine	<no-speech>
+64.510	outLine	'di kita marinig eh .
+65.848	outLine	eto 'ata may diperensiya itong gamit ko .
+67.810	inLine	ha ?
+68.380	outLine	<no-speech>
+68.440	inLine	<no-speech>
+70.350	inLine	ano ?
+70.390	outLine	<no-speech>
+70.750	outLine	<no-speech>
+70.910	inLine	<no-speech>
+71.950

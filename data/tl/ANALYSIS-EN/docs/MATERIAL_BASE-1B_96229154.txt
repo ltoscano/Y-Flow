@@ -1,0 +1,11 @@
+<1>	(0.000-1.395)	<no-speech>	<no-speech>
+<2>	(1.395-6.300)	<sta> higit isang daang indibiduwal naman ang binabantayan ngayon ng Department of Health .	the Department of Health are currently observing more than one hundred individuals .
+<3>	(6.300-13.370)	<sta> kasunod ito ng pagkamatay ng isang pasyenteng hinihinalang tinamaan ng Middle East <hes> Respiratory Syndrome o MERS .	this is after the death of a patient suspected to be affected by Middle East Respiratory Syndrome or MERS .
+<4>	(13.370-21.810)	<sta> ayon sa D_O_H isang Saudi Arabian na na-confine sa isang pribadong ospital sa Pilipinas ang namatay noong September twenty eight .	according to D_O_H one Saudi Arabian confined in a private hospital in the Philippines died on September twenty-eight .
+<5>	(21.810-24.013)	nakitaan siya ng sintomas ng MERS .	he showed symptoms of MERS .
+<6>	(24.013-29.370)	agad tinukoy ng D_O_H ang lahat ng mga nakasalamuha ng banyagang pasyente .	the D_O_H immediately identified all the people the foreign patient encountered .
+<7>	(29.370-36.380)	sa ngayon labinlima sa mga binabantayan ng D_O_H ang naka-quarantine at sumasailalim sa fourteen day monitoring .	at present fifteen of those being observed by D_O_H are under quarantine and are undergoing a fourteen day monitoring .
+<8>	(36.380-38.591)	<sta> naka-home quarantine naman ang iba pa .	others are on home quarantine .
+<9>	(38.591-39.559)	<no-speech>	<no-speech>
+<10>	(39.559-46.235)	dahil medyo maaga pa ay kasalukuyan pa rin silang mananatili sa facilities ng Department of Health .	because it's still somewhat early they will currently stay in the facilities of the Department of Health .
+<11>	(46.235-50.498)	uulitin po 'yung kanilang mga tests and even if it turned out negative ~ %incomplete	their tests will be repeated and even if it turned out negative %incomplete

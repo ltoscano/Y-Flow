@@ -1,0 +1,47 @@
+0.000	inLine	<no-speech>
+0.000	outLine	<no-speech>
+0.130	inLine	babu ni mi .
+1.510	inLine	<no-speech>
+1.920	outLine	<sta> yeah habari yako ?
+3.364	outLine	<no-speech>
+3.850	inLine	mzuri sana .
+4.380	outLine	<no-speech>
+5.320	inLine	<no-speech>
+5.530	outLine	mmhm .
+6.094	outLine	<int> hujambo ?
+6.850	outLine	<no-speech>
+7.280	inLine	<int> nilikuwa nakuuliza ile line yangu ya kazi %incomplete
+8.220	outLine	pale .
+8.590	outLine	<no-speech>
+10.990	inLine	<no-speech>
+11.330	outLine	mmhm <int> .
+12.280	inLine	imeendelea aje ?
+12.400	outLine	<no-speech>
+13.747	inLine	<no-speech>
+14.390	outLine	<sta> ehhe .
+14.691	outLine	nina kazi bado tunajaribu kui- -- kuifanyia kwa undani tuone kama tunaweza kukuchukua au namna gani kwa %incomplete
+14.940	inLine	<no-speech>
+18.660	inLine	<no-speech>
+19.550	inLine	<no-speech>
+26.240	outLine	<sta> sababu <breath> bado tuna ule %incomplete
+28.630	outLine	<no-speech>
+29.590	outLine	ugumu wa huu mwezi wa Januari mwezi wa kwanza kwa hivyo kuna ugumu kidogo lakini tunajaribu tu kama tutaweza kukupatia nafasi ya kazi .
+30.195	inLine	<no-speech>
+40.330	outLine	<sta> <lipsmack> lakini bado kidogo kuna ugumu kwa sababu ya wateja na mambo ya hapa na pale lakini tunajaribu kama tunaweza kupatia nafasi hiyo ikiwa itawezekana kwa %incomplete
+40.840	inLine	<sta> ehhe .
+42.000	inLine	<no-speech>
+45.800	inLine	mmhm .
+46.510	inLine	<no-speech>
+51.060	inLine	mmhm .
+51.770	inLine	<no-speech>
+52.240	outLine	kwa uwezo wake Mwenyezi Mungu .
+54.284	outLine	kwa sababu %incomplete
+54.950	outLine	<no-speech>
+55.870	outLine	<sta> hatuna uwezo si lakini Mwenyezi Mungu ndiyo ana -- ana uwezo .
+58.711	outLine	kwa hivyo tunajaribu juu chini tu vile inawezekana tuone -- (()) tuone kama tunaweza kukupatia hiyo nafasi <int> .
+62.070	inLine	mmhm .
+62.800	inLine	<no-speech>
+66.450	outLine	ndiyo tunatarajia kukupatia .
+67.110	inLine	mmhm .
+67.800	inLine	<no-speech>
+69.050

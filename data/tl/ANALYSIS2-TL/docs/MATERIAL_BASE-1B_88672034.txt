@@ -1,0 +1,11 @@
+[0.000]
+<misc> <sta> idineklara na ang Typhoid outbreak sa walong barangay sa bayan ng Maydolong <sta> sa Eastern Samar .
+[6.627]
+umabot na sa isang daan at apatnapu't apat ang mga na tipus doon at karamihan sa mga dinapuan ay mga bata .
+[14.250]
+<sta> ayon po sa Department of Health nakitaan nila ng Coliform bacteria ang mga tubig na nanggagaling sa mga poso at gripo .
+[21.690]
+<sta> namigay na ng water disinfectant tablets ang mga health officers sa mga residente .
+[26.100]
+<sta> pinayuhan din silang pakuluan munang mabuti ang mga inumin at lutuing mabuti ang kanilang pagkain .
+[33.086]

@@ -1,0 +1,72 @@
+<1>	(Outline, 0.000-1.415)	<no-speech>	<no-speech>
+<2>	(Inline, 0.000-1.470)	<sta> naglinis ka ng motor ?	did you clean the motor ?
+<3>	(Outline, 1.415-2.005)	<no-speech>	<no-speech>
+<4>	(Inline, 1.470-4.040)	<no-speech>	<no-speech>
+<5>	(Outline, 2.005-3.275)	<no-speech>	<no-speech>
+<6>	(Outline, 3.275-3.785)	hello .	hello .
+<7>	(Outline, 3.785-4.635)	<no-speech>	<no-speech>
+<8>	(Inline, 4.040-4.536)	<sta> hello ?	hello ?
+<9>	(Inline, 4.536-5.271)	<no-speech>	<no-speech>
+<10>	(Outline, 4.635-5.865)	oo kanina <sta> .	yes a while ago .
+<11>	(Inline, 5.271-6.820)	nagli- -- naglinis ka ng motor ?	did you clean the motor ?
+<12>	(Outline, 5.865-6.998)	<no-speech>	<no-speech>
+<13>	(Inline, 6.820-11.170)	<no-speech>	<no-speech>
+<14>	(Outline, 6.998-10.392)	may paliga kami itong itong summer .	we have a league this this summer .
+<15>	(Outline, 10.392-11.705)	baka gusto mong sumali .	you might want to join .
+<16>	(Inline, 11.170-11.885)	<no-speech>	<no-speech>
+<17>	(Outline, 11.705-12.865)	<no-speech>	<no-speech>
+<18>	(Inline, 11.885-12.370)	oo .	yes .
+<19>	(Inline, 12.370-14.640)	<no-speech>	<no-speech>
+<20>	(Outline, 12.865-13.735)	<no-speech>	<no-speech>
+<21>	(Outline, 13.735-15.285)	<no-speech>	<no-speech>
+<22>	(Inline, 14.640-15.220)	<no-speech>	<no-speech>
+<23>	(Inline, 15.220-15.720)	hello .	hello .
+<24>	(Outline, 15.285-19.995)	paliga ba may paliga dito sa lugar namin <sta> baka gusto mong magpa-line-up .	league there is a league here in our area you might want to join the line-up .
+<25>	(Inline, 15.720-16.940)	<no-speech>	<no-speech>
+<26>	(Inline, 16.940-17.340)	<no-speech>	<no-speech>
+<27>	(Inline, 17.340-18.680)	<no-speech>	<no-speech>
+<28>	(Inline, 18.680-20.988)	<no-speech>	<no-speech>
+<29>	(Outline, 19.995-24.075)	<no-speech>	<no-speech>
+<30>	(Inline, 20.988-21.860)	gano'n ba ?	is that so ?
+<31>	(Inline, 21.860-23.940)	<no-speech>	<no-speech>
+<32>	(Inline, 23.940-24.435)	hello .	hello .
+<33>	(Outline, 24.075-24.599)	hello <sta> .	hello .
+<34>	(Inline, 24.435-24.567)	<no-speech>	<no-speech>
+<35>	(Inline, 24.567-24.960)	na .	already .
+<36>	(Outline, 24.599-24.942)	<no-speech>	<no-speech>
+<37>	(Outline, 24.942-26.419)	o ikaw gusto mo .	do you want .
+<38>	(Inline, 24.960-27.070)	<no-speech>	<no-speech>
+<39>	(Outline, 26.419-28.007)	<no-speech>	<no-speech>
+<40>	(Inline, 27.070-27.800)	puwede .	possible .
+<41>	(Inline, 27.800-29.530)	<no-speech>	<no-speech>
+<42>	(Outline, 28.007-30.085)	'pag Linggo lang naman kada Linggo lang ang laro <hes> .	on Sunday only the game is only every Sunday .
+<43>	(Inline, 29.530-30.921)	<no-speech>	<no-speech>
+<44>	(Outline, 30.085-32.515)	<no-speech>	<no-speech>
+<45>	(Inline, 30.921-31.530)	kailan ?	when ?
+<46>	(Inline, 31.530-34.280)	<no-speech>	<no-speech>
+<47>	(Outline, 32.515-37.444)	sige timbrehan kita pare 'pag <hes> 'pag <sta> kulang kami sa player .	alright I will let you know bro if if we're short on players .
+<48>	(Inline, 34.280-35.630)	<no-speech>	<no-speech>
+<49>	(Inline, 35.630-36.750)	<no-speech>	<no-speech>
+<50>	(Inline, 36.750-37.232)	<no-speech>	<no-speech>
+<51>	(Inline, 37.232-38.028)	oo sige sige .	yes alright alright .
+<52>	(Outline, 37.444-40.615)	<no-speech>	<no-speech>
+<53>	(Inline, 38.028-39.210)	<no-speech>	<no-speech>
+<54>	(Inline, 39.210-40.780)	<no-speech>	<no-speech>
+<55>	(Outline, 40.615-41.895)	<no-speech>	<no-speech>
+<56>	(Inline, 40.780-42.284)	<no-speech>	<no-speech>
+<57>	(Outline, 41.895-42.794)	<no-speech>	<no-speech>
+<58>	(Inline, 42.284-42.750)	hello .	hello .
+<59>	(Inline, 42.750-44.270)	<no-speech>	<no-speech>
+<60>	(Outline, 42.794-48.965)	sinong ano diyan nakikita mo ba si pareng <hes> ko Pareng Marlon ko .	who's what there have you seen my bro my bro Marlon .
+<61>	(Inline, 44.270-45.340)	(()) .	(()) .
+<62>	(Inline, 45.340-49.050)	<no-speech>	<no-speech>
+<63>	(Outline, 48.965-50.115)	<no-speech>	<no-speech>
+<64>	(Inline, 49.050-50.280)	<int> wala dito <hes> .	not here .
+<65>	(Outline, 50.115-50.795)	<no-speech>	<no-speech>
+<66>	(Inline, 50.280-51.670)	<no-speech>	<no-speech>
+<67>	(Outline, 50.795-52.075)	<no-speech>	<no-speech>
+<68>	(Inline, 51.670-54.500)	may pinupuntahan yata may laro yata ngayong gabi <int> .	he might have gone somewhere I think there's a game tonight .
+<69>	(Outline, 52.075-52.552)	hello .	hello .
+<70>	(Outline, 52.552-53.173)	<no-speech>	<no-speech>
+<71>	(Outline, 53.173-55.665)	<sta> pero minsan nadadaan diyan sa inyo .	but sometimes goes by your place .
+<72>	(Inline, 54.500-55.665)	<no-speech>	<no-speech>

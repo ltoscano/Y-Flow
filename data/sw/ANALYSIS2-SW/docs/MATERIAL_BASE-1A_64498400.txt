@@ -1,0 +1,99 @@
+[0.000]
+<no-speech>
+[1.801]
+(()) ambayo pale imetuvunja mbavu sana .
+[4.670]
+sasa Mada inaendelea hata kama <laugh> unacheka ende- -- anga- -- tazama ukweli .
+[9.070]
+<sta> imani ya kinyume na kutegemea nguvu za Mungu inatokana kwa shetani .
+[15.203]
+shetani hapendi <sta> mtu afanye kitu afanikiwe na aishi vizuri .
+[19.385]
+yeye ni bwana kinyume .
+[20.419]
+ni mwaribifu masaa yote .
+[22.028]
+kwa hivyo anakupa imani yake ili ufanye uharibifu <sta> ili naye apate wafuasi .
+[26.460]
+nami naomba nimwambie kabisa kwamba anapozungumzia mambo ya Mungu kumbuka Mungu ana wafuasi wake na shetani ana wafuasi wake ndiyo maana ameweka vitu viwili wewe mwenyewe amekupa ufahamu wa kujua jema na baya .
+[35.123]
+<overlap> si ndiyo ?
+[36.800]
+<sta> (()) si wa shetani ile ya matumizi -- yale sio ya shetani yule wa matumizi ndiyo mabaya halafu ni u- ni kwamba ninaposema kwamba huyu ameua sijui anaishi kwa shetani <sta> .
+[45.155]
+kumbuka hata ukitukana tu hata ukinena neno baya ukamwazia mwenzako dhambi moja inalingana na dhambi zote .
+[50.790]
+<sta> sasa nini kifanyike ili huyu imani apotee watu <int> wakae kwa amani sasa <sta> kama familia moja ?
+[57.530]
+<sta> nami mi ninavyoona kitu ambacho kinatakiwa sana sana kufanyika watu waamini .
+[62.105]
+na vile -- vile <sta> kazi .
+[64.204]
+mtu usibweteke tu useme mganga si yupo ?
+[66.990]
+<sta> mganga yuko wapi ?
+[68.247]
+mganga ndiyo alikuleta duniani ?
+[69.612]
+mganga hajakuleta duniani inachotakiwa wewe ni uwajibike halafu .
+[73.151]
+halafu kingine plani .
+[74.480]
+<sta> uwe na plani katika maisha yako kuwa ninatakiwa nifanye hivi -- nifanye hivi ili nami mi nifanyaje ?
+[79.312]
+nifanikiwe .
+[79.833]
+lakini sio unamtegemea mganga . <int> <overlap> <sta> ni kwamba na sheria iwepo .
+[83.473]
+sheria italinda kwa sababu kama mtu atahofu hatakuwa anahofia kwamba bwana mimi <sta> nikikutwa na kitu fulani kwa hiyo sheria ziko nyingi lakini bado watu hawajaamini kwamba ukikamatwa kitu fulani ama ukikutwa unaenda kwa mganga %incomplete
+[95.515]
+hebu tuondoe hii <sta> uganga akilini tuseme sasa hakuna ku- -- mtu atakaye kukupeleka kwa mganga atashtakiwa .
+[100.664]
+<sta> hilo litakuwa ni jambo kubwa kwa sababu <sta> itapelekea watu warudi kwenye dini zao wamwamini Mungu mmoja .
+[106.930]
+<sta> iko ndiyo kitajenga sababu sasa hivi watu wana miungu wengi .
+[109.556]
+watu wanazungumza wengine wanasema <overlap> <sta> <overlap> na watu wakae kwa amani .
+[120.150]
+na kaka hapa akasema jamani huko misikitini makanisani watu wote wawe viongozi wa dini wao fundisha -- wafundishe kwamba jamani ukienda huko kuna madhara yake .
+[130.560]
+mwisho wake ni nini ?
+[131.695]
+kifo .
+[132.199]
+<hes> C_D inakula deki .
+[133.802]
+<int> C_D inakula ?
+[135.679]
+<hes> C_D atakula deki sawa basi sasa hivi ni wakati wa kwenda kwenye bass box tukamsikilize leo Shabani huko mitaani ana nini la kutueleza katika Mada ambayo watakuwa wanaongelea kwa siku ya leo .
+[145.700]
+kuja nami kwenye bass box .
+[147.016]
+<misc> mimba vipi Watanzania ?
+[153.710]
+karibuni kwenye minibus bus stop .
+[155.390]
+<breath> leo hii mimi basi niko hapa mkoani Arusha <breath> na Mada yetu ijayo je vipi jamii hapa Arusha inafaidika na Utalii ?
+[162.230]
+hebu tuingie mtaani tupate maoni ya wakazi wa hapa .
+[164.362]
+<int> tunafaidika sana kwa sababu hata kama una kibanda chako hapa barabarani <no-speech> inasaidia .
+[171.536]
+watalii wanapita hapa <breath> <no-speech> wanatusaidia .
+[175.080]
+<sta> Arusha kuna wengine wanafai- -- faidika .
+[177.386]
+hata sisi tunapata .
+[179.194]
+mgeni akija hapa anaweza kununua <no-speech> vitu ukapata <int> hela .
+[184.540]
+<sta> hamna manufaa kwa sababu anasema mbuga hii ya hapa ni Shino paki <no-speech> haina watalii wengi .
+[190.823]
+watalii wote <sta> wanao kuja kuzungukia hii mbuga ya hapa wanaondoka na wanamalizia <sta> mbuga zingine Ngorongoro wapi wanaishia .
+[198.320]
+<sta> kweli hatuna tunachofaidika .
+[200.237]
+labda wanaofaidika tuseme ni wale wenye zile sector .
+[203.271]
+<misc>
+[205.237]

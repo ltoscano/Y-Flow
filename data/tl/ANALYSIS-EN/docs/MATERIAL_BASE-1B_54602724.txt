@@ -1,0 +1,76 @@
+<1>	(Inline, 0.000-0.800)	oo .	yes .
+<2>	(Outline, 0.000-1.590)	<no-speech>	<no-speech>
+<3>	(Inline, 0.800-1.283)	<no-speech>	<no-speech>
+<4>	(Inline, 1.283-6.910)	'pag umaga iinom siyang vitamins <no-speech> sinabi ba sa 'yo <no-speech> sinabi ba sa 'yo ni Arjay ?	at morning she drinks vitamins has she said that to you has Arjay told you that ?
+<5>	(Outline, 1.590-2.660)	o narinig mo ?	or you've heard ?
+<6>	(Outline, 2.660-3.750)	<no-speech>	<no-speech>
+<7>	(Outline, 3.750-4.194)	sige .	sure .
+<8>	(Outline, 4.194-4.330)	<no-speech>	<no-speech>
+<9>	(Outline, 4.330-8.200)	<no-speech>	<no-speech>
+<10>	(Inline, 6.910-9.650)	<no-speech>	<no-speech>
+<11>	(Outline, 8.200-9.448)	oo sinabi na .	yes it was mentioned .
+<12>	(Outline, 9.448-10.630)	<no-speech>	<no-speech>
+<13>	(Inline, 9.650-10.420)	ha ?	huh ?
+<14>	(Inline, 10.420-11.720)	<no-speech>	<no-speech>
+<15>	(Outline, 10.630-12.380)	oo sinabi na no'ng <hes> pa .	yes that was mentioned back then .
+<16>	(Inline, 11.720-13.153)	ah sinabi na oh .	oh that was mentioned already .
+<17>	(Outline, 12.380-17.910)	<no-speech>	<no-speech>
+<18>	(Inline, 13.153-13.672)	<no-speech>	<no-speech>
+<19>	(Inline, 13.672-18.450)	'pag -- <no-speech> 'pag umaga iinom na siya vitamins eh nando'n sa ref .	every -- every morning she drinks vitamins from there in the ref .
+<20>	(Outline, 17.910-19.240)	<no-speech>	<no-speech>
+<21>	(Inline, 18.450-22.030)	<no-speech>	<no-speech>
+<22>	(Outline, 19.240-20.057)	oo sige .	yes sure .
+<23>	(Outline, 20.057-22.520)	<no-speech>	<no-speech>
+<24>	(Inline, 22.030-23.730)	oo dalawa 'yon .	yes that's two .
+<25>	(Outline, 22.520-28.780)	<no-speech>	<no-speech>
+<26>	(Inline, 23.730-24.740)	<no-speech>	<no-speech>
+<27>	(Inline, 24.740-28.923)	oh 'yon lang naman tapos <no-speech> toothbrush 'pag naligo .	oh that's it and then toothbrush when bathing .
+<28>	(Outline, 28.780-29.330)	<no-speech>	<no-speech>
+<29>	(Inline, 28.923-29.527)	<no-speech>	<no-speech>
+<30>	(Outline, 29.330-35.930)	<no-speech>	<no-speech>
+<31>	(Inline, 29.527-35.310)	basta 'yong ano niya si- -- bigay mo lang kay nanay siya na maghuhugas 'tsaka magtatakal ng tubig doon .	it's just her uhm is -- just give it to mom she'll be the one to wash and measure water there .
+<32>	(Inline, 35.310-36.210)	<no-speech>	<no-speech>
+<33>	(Outline, 35.930-36.920)	ah (()) .	ah (()) .
+<34>	(Inline, 36.210-37.260)	sa dede .	on the breast .
+<35>	(Outline, 36.920-45.160)	<no-speech>	<no-speech>
+<36>	(Inline, 37.260-39.540)	<no-speech>	<no-speech>
+<37>	(Inline, 39.540-42.330)	pero 'yong dispenser ng gatas sa taas ?	but the milk dispenser above ?
+<38>	(Inline, 42.330-43.160)	<no-speech>	<no-speech>
+<39>	(Inline, 43.160-45.320)	hindi na siya makakaakyat diyan ikaw na lang .	she cannot climb up so you will be the one to .
+<40>	(Outline, 45.160-45.852)	<no-speech>	<no-speech>
+<41>	(Inline, 45.320-48.770)	<no-speech>	<no-speech>
+<42>	(Outline, 45.852-47.820)	o ilang scoop ba 'yan ?	how many scoops is that ?
+<43>	(Outline, 47.820-49.620)	<no-speech>	<no-speech>
+<44>	(Inline, 48.770-51.020)	a- -- <no-speech> anim .	-- six .
+<45>	(Outline, 49.620-50.960)	ilang scoop ng gatas ?	how many scoops of milk ?
+<46>	(Outline, 50.960-52.480)	<no-speech>	<no-speech>
+<47>	(Inline, 51.020-53.370)	<no-speech>	<no-speech>
+<48>	(Outline, 52.480-53.620)	<no-speech>	<no-speech>
+<49>	(Inline, 53.370-55.992)	oh anim na scoop anim six .	oh six scoops six six .
+<50>	(Outline, 53.620-54.086)	ha ?	huh ?
+<51>	(Outline, 54.086-55.459)	<no-speech>	<no-speech>
+<52>	(Outline, 55.459-56.430)	oo oo sige .	yes yes sure .
+<53>	(Inline, 55.992-56.679)	<no-speech>	<no-speech>
+<54>	(Outline, 56.430-60.110)	<no-speech>	<no-speech>
+<55>	(Inline, 56.679-59.263)	six na scoop anim oo 'yon .	six scoops yes that's six .
+<56>	(Inline, 59.263-59.862)	<no-speech>	<no-speech>
+<57>	(Inline, 59.862-62.280)	dalawang dispenser lang naman 'yon eh oo .	that's just two dispensers yes .
+<58>	(Outline, 60.110-62.790)	<no-speech>	<no-speech>
+<59>	(Inline, 62.280-64.470)	<no-speech>	<no-speech>
+<60>	(Outline, 62.790-63.980)	<no-speech>	<no-speech>
+<61>	(Outline, 63.980-64.340)	<no-speech>	<no-speech>
+<62>	(Outline, 64.340-66.280)	<no-speech>	<no-speech>
+<63>	(Inline, 64.470-66.990)	tapos nando'n nga 'yong mga damit niya nando'n lang .	and then her clothes are there just there .
+<64>	(Outline, 66.280-69.790)	<no-speech>	<no-speech>
+<65>	(Inline, 66.990-69.100)	<no-speech>	<no-speech>
+<66>	(Inline, 69.100-71.170)	tapos sa Sunday na kami babalik .	and then we return on Sunday .
+<67>	(Outline, 69.790-72.110)	<no-speech>	<no-speech>
+<68>	(Inline, 71.170-71.870)	<no-speech>	<no-speech>
+<69>	(Inline, 71.870-73.450)	<no-speech>	<no-speech>
+<70>	(Outline, 72.110-72.573)	ano ?	what ?
+<71>	(Outline, 72.573-73.370)	kailan ka babalik ?	when will you return ?
+<72>	(Outline, 73.370-75.660)	<no-speech>	<no-speech>
+<73>	(Inline, 73.450-78.090)	se- -- <no-speech> Son <no-speech> Linggo sa Linggo kinabukasan .	-- son Sunday next Sunday .
+<74>	(Outline, 75.660-76.059)	oo .	yes .
+<75>	(Outline, 76.059-76.200)	<no-speech>	<no-speech>
+<76>	(Outline, 76.200-78.090)	<no-speech>	<no-speech>

@@ -1,0 +1,28 @@
+<1>	(0.000-4.934)	hii <no-speech> mwanachama ama mwajiriwa mpya .	this new member or new employee .
+<2>	(4.934-10.529)	<breath> anapoanza kazi sasa anatakiwa apate ule mwongozo wa kujiunga <sta> na mfuko hifadhi ya jamii <breath> .	when he or she starts work today she is supposed to have the guidance of joining social security .
+<3>	(10.529-19.487)	vipi hapa elimu huwa inatolewa ama ni kwamba amefika pale kazini <breath> anauliza sasa waajiriwa ambao tayari wamekaa pale na muda mrefu .	how is education provided here or is it that he arrives at work and starts asking employees who have been there for a long time .
+<4>	(19.487-24.135)	<breath> kwamba mimi nahitaji kujiunga na mf- -- wa hifadhi ya jamii sasa <breath> nijiunge na mfuko gani ?	that I need to join -- social security so which social security should I join ?
+<5>	(24.135-24.349)	e ?	pardon ?
+<6>	(24.349-25.663)	mfuko upi ni mzuri ?	which saving plan is good ?
+<7>	(25.663-36.690)	<breath> ama kunakuwa na elimu ambayo wanaipata <sta> kabla -- kabla ya kufanya maamuzi sasa ya kuamua kwamba <sta> wajiunge katika mfumo gani wa mfuko wa hifadhi ya jamii ?	or is there education received before -- before making decisions on which system of social security they should join ?
+<8>	(36.690-45.854)	ukisoma hii sheria mojawapo ya jukumu la mamlaka ni kuhakikisha inatoa elimu kwa jamii kuhusiana na <int> maswala ya hifadhi ya jamii .	if you read this law one of the responsibilities of the authority is to ensure it provides education to the public in relation to matters of social savings .
+<9>	(45.854-49.500)	kumbuka kwamba tumeshasema kwamba hifadhi ya jamii sio -- hailengi waajiriwa pekee yake .	remember we have said that social security is not -- does not target employees only .
+<10>	(49.500-53.820)	inalenga watu <int> wote wanaohusiana -- ambao Watanzania <int> wote .	it targets everyone associated with -- all the people of Tanzania .
+<11>	(53.820-56.811)	wam- -- kwa maana hiyo kwamba <int> jamii nzima inahitaji hifadhi ya jamii .	meaning that the whole community needs social savings .
+<12>	(56.811-70.400)	lakini tukirudi kwenye dhana nzima ya wafanyikazi <int> kia- -- niki- -- ni wajibu wa msingi wa -- wa -- wa -- wa hii taasisi either kupitia yenyewe au kuteuwa watu watakaoisaidia kusambaza elimu juu ya hifadhi ya jamii .	but when we come back to the whole notion of employees -- if I -- it is a basic responsibility of this institution either through itself or to nominate people who will help to spread education on social savings .
+<13>	(70.400-73.200)	<breath> lakini tukirudi sasa kwamba nachaguaje mfuko ?	but if we now go back wondering how I chose the savings ?
+<14>	(73.200-76.432)	sasa hili ni swala ambalo <sta> halina jibu la uharaka pia .	now this is an issue that does not have an immediate answer .
+<15>	(76.432-81.610)	kwa maana kwamba kuna sehemu ambayo utaingia tayari umenenwa huwezi ukachagua mfuko .	because there is a place you can go to where it is already fixed you can't chose a savings way .
+<16>	(81.610-88.782)	lazima uende kwenye mfuko fulani ambao ndiyo mwajiri wako yuko nao katika <no-speech> mahusiano kwamba <sta> lazima utaenda huko .	you must go to a certain security where your employer is related with and an agreement is there that you will go there .
+<17>	(88.782-97.390)	na kuna pengine ambapo lazima labda utachagua kulingana sasa na mwajiri wako au ofisi yako ulioko ina- -- ina sera gani -- inasema kitu gani ?	and there is somewhere else where you will have to chose depending on your employer or the office you are in has which policy -- what does it say ?
+<18>	(97.390-106.841)	lakini hata mfuko wenyewe pia unasema kitu gani kwa sababu kuna mfuko ambao unakuta umejikita kwa watu fulani pekee yao <int> kwamba <breath> hawa ndiyo wanaostahili <int> kujiunga na mfuko huu . <int> <int> hawa watajiunga na mfuko huu .	but also what does the security itself say because the security which you find focused on certain people alone that they are the only ones to join the saving . these ones will join this savings plan .
+<19>	(106.841-114.078)	sasa tunapokuja kwamba elimu ya (()) inatolewa tunarudi kwenye vitendo <int> ambayo nimesema sheria inaweza ikawa nzuri ndiyo haina shida .	now when we come to education of (()) is provided we go back to the deeds which I have said the law can be good that has no problem .
+<20>	(114.078-116.810)	lakini sasa kwenye vitendo swali likoje ?	but now practically how is the question ?
+<21>	(116.810-121.290)	sasa hapo ndiyo unakuja kupata ukakasi kidogo kwamba je hii elimu inatolewa ?	that is where you come to find some bit of grinding that is the education really offered ?
+<22>	(121.290-123.992)	je hawa watu wanafikiwa na kuelekezwa <int> kabla ya muda ?	are these people reached to and directed in time ?
+<23>	(123.992-128.528)	au ni mtu tu anavyoamka anaanza kuuliza tu wenzake unajua hapa <int> hapa panakuwaje bwana ?	or is it just that as a person wakes up he starts asking colleagues do you know how to go about this sir ?
+<24>	(128.528-130.362)	mfuko upi unakuwa mzuri au inakuwaje ?	which saving is good or how is it ?
+<25>	(130.362-132.040)	au ndiyo ile tayari hata Uhuru huna <int> .	or is it that already you even don't have freedom .
+<26>	(132.040-136.630)	<sta> kwa hivyo mwisho wa siku unajikuta kwamba kama umeajiriwa ofisi hii mfuko wako lazima uwe huu .	therefore at the end of the day you find that if you are employed in this office your security plan must be this .
+<27>	(136.630-140.307)	sasa haya ni mambo ambayo ni changamoto <int> ambayo iliyoko kwenye hii sector .	so these are the things that are a challenge that is in this sector .
+<28>	(140.307-142.154)	<sta> sasa hapo huoni kwamba hatu- %incomplete	so you don't see that we %incomplete

@@ -1,0 +1,370 @@
+<1>	(0.000-2.175)	<laugh> ano 'to ?	what is this ?
+<2>	(2.175-5.452)	'yung import n'yo 'yung <hes> ano 'yung ito ba'y 'yung nando'n 'yung gilas ?	your import is this what's there the Gilas ?
+<3>	(5.452-6.999)	makakalaban n'yo 'yung gilas sa semi .	you'll be playing against Gilas in the semi .
+<4>	(6.999-8.500)	<overlap> medyo hindi ko na matandaan eh .	I can't really remember .
+<5>	(8.500-9.052)	okay .	okay .
+<6>	(9.052-10.547)	<overlap> saan ka na-trade niyan ?	where were you traded ?
+<7>	(10.547-13.229)	na-trade ako sa air twenty one .	I was traded to Air Twenty-One .
+<8>	(13.229-13.923)	ah okay .	ah okay .
+<9>	(13.923-18.260)	<overlap> ang pinakamalupit na 'to sabi ko di bale air twenty one 'ka ko .	what's really cruel is I said never mind I'm Air Twenty-One .
+<10>	(18.260-19.282)	so babawi kami .	we'll catch up .
+<11>	(19.282-19.922)	oo .	yes .
+<12>	(19.922-24.025)	may mga ilang games pa naman ka 'ko makaano panghabol panghabol .	there are still games I can catch up with .
+<13>	(24.025-25.513)	<overlap> makakahabol eh oo .	catch up yes .
+<14>	(25.513-26.880)	babawi 'ka ko .	I'll get back .
+<15>	(26.880-31.960)	sabi ko lahat ng kakalabanin ka 'ko namin try namin ano talunin oo <overlap> para makapasok kami .	I said we'll try to beat all our opponents so we can qualify .
+<16>	(31.960-32.779)	so sige lang .	so never mind .
+<17>	(32.779-34.016)	trade ako tawag tuloy ako .	I was traded then got called .
+<18>	(34.016-37.924)	oh ba oh sige kita tayo sa practice ganiyan ganiyan <overlap> oo check ngayon ako .	okay let's see each other in practice yes I'll check it now .
+<19>	(37.924-41.470)	pag-uwi ko ng bahay check ngayon ako ng ano sino pang matitirang kalaban .	when I got home I checked who will be our remaining opponents .
+<20>	(41.470-46.447)	oo pagtingin ko ng standing ng <hes> air twenty one zero eight laglag na kaagad .	when I checked the standing Air Twenty-One zero eight dropped already .
+<21>	(46.447-48.327)	<sta> wala ng pag-asa .	there's no more hope .
+<22>	(48.327-49.161)	wala na talaga .	no more .
+<23>	(49.161-49.780)	zero eight .	zero eight .
+<24>	(49.780-52.890)	di ba ?	right ?
+<25>	(52.890-55.294)	imbis na maasar ako <sta> tawa ako ng tawa .	instead of being annoyed I kept laughing .
+<26>	(55.294-63.502)	'yung <hes> sabi ko niyan sa gusto kong makabawi 'ka ko wala ka 'ko 'yung <sta> plano ko .	I said I wanted to catch up my plan was not working .
+<27>	(63.502-66.903)	'yung plano kong makabawi ka 'ko na manalo man lang wala zero eight walang chance .	my plan to get back and win nothing it's a zero eight there's no chance .
+<28>	(66.903-67.881)	oo oo .	yes yes .
+<29>	(67.881-69.670)	<overlap> sabi ko sige next conference .	I said okay next conference .
+<30>	(69.670-70.155)	oo .	yes .
+<31>	(70.155-76.167)	<overlap> tapos after that 'yung air twenty one before the next conference parang naging barako .	after that the Air Twenty-One before the next conference were like hogs .
+<32>	(76.167-78.478)	ah okay oo oo .	oh okay yes yes .
+<33>	(78.478-79.161)	balik na naman .	just get back .
+<34>	(79.161-80.059)	so parang ano .	seems like .
+<35>	(80.059-83.109)	nagpalit sila ng ano barako naging shock Pinas .	they changed hogs and became shock Pinas .
+<36>	(83.109-83.475)	'yon .	there .
+<37>	(83.475-84.602)	ah okay .	ah okay .
+<38>	(84.602-87.770)	so 'yung hindi gaanong magulong nangyari na hindi invited 'yan .	there it was not very messy and then what happened was they weren't invited .
+<39>	(87.770-91.308)	pero siya pa rin 'yon napalitan ng pangalan oo .	that's still him had the name changed yes .
+<40>	(91.308-91.870)	okay .	okay .
+<41>	(91.870-100.680)	so after that -- after that 'nong ano na -- 'nong after that air twenty one barako 'tapos nagkaroon ka ng point na ano di ba parang <hes> nawala eh .	so after that -- after that when the uh -- after that Air Twenty-One Barako then you had a point wasn't it it got lost .
+<42>	(100.680-107.039)	oo nag-global port muna -- oo GlobalPort tapos balik sa barako oo tapos 'yun nawala .	yes GlobalPort first -- yes GlobalPort then the Barako came back and after they were gone .
+<43>	(107.039-108.850)	<no-speech>	<no-speech>
+<44>	(108.850-112.208)	'yung magaling kong team na barako -- <sta> hmm .	my good team Barako -- hmm .
+<45>	(112.208-120.885)	oo 'yung magaling kong team na barako so sinabi sa 'kin na interested raw naman sila sa akin dahil part daw ako ng core group .	yes my good team Barako they said they were interested in me because I was part of the core group .
+<46>	(120.885-121.890)	oo .	yes .
+<47>	(121.890-123.037)	so papipirmahin nila ko .	they'll let me sign .
+<48>	(123.037-127.663)	may nag-i-interview na oh bakit di mo papirmahin si hindi interested kami diyan papirmahin namin 'yan .	there's already an interview why won't you let him sign no we're interested on him we'll let him sign .
+<49>	(127.663-132.955)	ako naman as a veteran alam ko na <hes> rated na ko .	me on the other hand being a veteran I already know that I'm rated .
+<50>	(132.955-136.025)	'tsaka relax naman ako sa kanila wala naman kaming problema .	also I'm relaxed around them we don't have any problems .
+<51>	(136.025-137.040)	yes yes yes .	yes yes yes .
+<52>	(137.040-143.820)	tapos maayos naman 'yung pag-uusap biglang <no-speech> sabi unahin natin 'yung makapirma muna 'yung mga <hes> bata .	our talk was good they said to prioritize having the kid sign first .
+<53>	(143.820-145.436)	sabi ko sige kasi matanda na ko .	I said okay because I'm older .
+<54>	(145.436-145.921)	oo .	yes .
+<55>	(145.921-149.436)	'di kailangan kasi 'yun kasi 'yun ang ano wala 'yon .	you don't need the because it's nothing .
+<56>	(149.436-153.890)	so inuna 'yung mga bata nakapirma o pagkatapos wala pa rin usap-usap .	so they had the younger signed first and after there was nothing just talking .
+<57>	(153.890-157.057)	kada usap <hes> sa susunod na hintayin natin 'yung drafting .	each talk next we'll wait for the drafting .
+<58>	(157.057-158.070)	oo .	yes .
+<59>	(158.070-159.106)	<sta> sige .	okay .
+<60>	(159.106-161.714)	bait naman ako wala naman akong problema do'n di ba .	I'm good I don't have a problem about that .
+<61>	(161.714-162.165)	oo .	yes .
+<62>	(162.165-169.586)	at 'tsaka kinausap kausap -- hindi ako kinausap si -- <hes> 'yung nag-ha-handle sa 'min si boss Danny na hintayin lang 'yung drafting para kung ano 'yung movement .	and negotiated -- I wasn't approached by -- the one handling us our boss Danny to just wait for the drafting to see the movement .
+<63>	(169.586-170.260)	oo .	yes .
+<64>	(170.260-172.013)	sabi ko 'di naman ako ma-te-trade di ba ?	I said I won't get traded right ?
+<65>	(172.013-172.358)	hindi .	no .
+<66>	(172.358-173.423)	hindi ka ma-te-trade .	you won't get traded .
+<67>	(173.423-174.961)	so okey lang antay ako .	so it's okay I'll just wait .
+<68>	(174.961-177.790)	oo practice practice para kondisyon .	yes practice to condition .
+<69>	(177.790-188.065)	tapos 'yon after 'nong drafting two weeks yata nag-tu-tune up na kami so hindi ako nagagamit sa tune up sabi uunahin 'yung mga bata .	and after the drafting we were having tune-ups for two weeks I think I wasn't used in the tune-up because they said they'll prioritize the younger ones .
+<70>	(188.065-189.013)	sige lang ri- -- .	go for it -- .
+<71>	(189.013-189.930)	<no-speech>	<no-speech>
+<72>	(189.930-193.922)	kasi kailangan para makita kung ano sino <overlap> .	it's essential to see if what who .
+<73>	(193.922-196.830)	oh sige 'ka ko give way ako .	I said okay I'll give way .
+<74>	(196.830-206.404)	<hes> sa <no-speech> practice namin day before 'nong last tune up namin <no-speech> nag-pa-practice kami dumating si boss Danny .	on our practice a day before our last tune-up we were practicing when boss Danny arrived .
+<75>	(206.404-207.052)	oo .	yes .
+<76>	(207.052-211.310)	so sabi kong ganiyan boss Danny good news bad news ?	so I said boss Danny good news or bad news ?
+<77>	(211.310-212.385)	bad news .	bad news .
+<78>	(212.385-213.921)	so sabi ko bakit ?	I said why ?
+<79>	(213.921-226.529)	lapit ngayon ako nag-pa-practice kami ha oo sabi niyang ganiyan <hes> itong sinabi sa 'yo na <hes> <no-speech> humanap ka na raw ng team kasi wala ka ng spot spot sa ano .	I then approached him we were practicing and he said this is what they said find a team because you no longer have a spot in the .
+<80>	(226.529-227.905)	ah okay .	oh okay .
+<81>	(227.905-229.070)	<overlap> sabi ko bakit spot kaagad ?	I said why a spot immediately ?
+<82>	(229.070-230.160)	oo .	yes .
+<83>	(230.160-236.175)	eh sinabi lang na <hes> kailangan -- kailangan ako kasi interested sila tapos spot ang nawala kaagad ?	just said that needs -- it needs to be me because they are interested then the spot was quickly gone ?
+<84>	(236.175-236.760)	ah huh .	ah huh .
+<85>	(236.760-238.596)	eh 'yun ang sabi 'yun ang sabi .	that's what is told that's what is told .
+<86>	(238.596-239.342)	ah huh .	ah huh .
+<87>	(239.342-242.344)	sabi ko sige mamaya na 'ka ko tapusin muna natin 'yung practice .	I said sure but later I said let's finish the practice first .
+<88>	(242.344-244.340)	so tinapos ko 'yung practice .	so I finished the practice .
+<89>	(244.340-247.134)	so 'yun mga players sila Willy Wilson good news bad news ?	so they are players Willy Wilson good news bad news ?
+<90>	(247.134-248.030)	sabi ko bad news .	I said bad news .
+<91>	(248.030-248.380)	bakit ?	why ?
+<92>	(248.380-249.803)	sabi ko wala na okey lang okey lang ako .	I said nothing left it's okay I am okay .
+<93>	(249.803-250.416)	oo .	yes .
+<94>	(250.416-251.466)	so tinapos ko 'yung practice .	so I finished the practice .
+<95>	(251.466-252.998)	pagkatapos ng practice kinausap ko si boss Danny .	after the practice I talked to boss Danny .
+<96>	(252.998-253.939)	anong sabi ?	what he has said ?
+<97>	(253.939-255.690)	ganiyan ganiyan ganiyan .	that way that way that way .
+<98>	(255.690-256.491)	bakit ka 'ko ngayon .	why I said now .
+<99>	(256.491-257.816)	wala na tayo mapupuntahan na team .	our team will not go anywhere .
+<100>	(257.816-258.690)	oo .	yes .
+<101>	(258.690-259.964)	kung kailan sarado na <overlap> mag-o-opening na .	when it is closed will be opening .
+<102>	(259.964-260.726)	opening na .	it's the opening .
+<103>	(260.726-261.858)	<overlap> mag-o-opening na .	it will be opening already .
+<104>	(261.858-263.382)	puno na 'yung mga teams .	how about the teams .
+<105>	(263.382-266.310)	alam mong nakapirma na 'yung mga rookies nila .	you know their rookies have already signed .
+<106>	(266.310-268.730)	nakaikot ikot na bat gano'n ?	they're already assigned why is that ?
+<107>	(268.730-272.776)	so sabi ko sige kung wala ka 'ko bakit nila kausap ?	so I said if there really is nothing why are they speaking ?
+<108>	(272.776-274.347)	hindi naman gano'n ka 'ko 'yung ano di ba ?	that's not the case right ?
+<109>	(274.347-279.625)	then you went to ano di ba I mean after that mayroon nag- -- naging journeyman mga ibang liga .	then you went to the I mean after that there -- were journeymen of other leagues .
+<110>	(279.625-285.420)	<overlap> <hes> 'yun 'yung time na 'yung mga hindi ko nagagawa 'nong <hes> nasa P_B_A ako na <overlap> ah huh .	that was the time that I wasn't able to do while I was in P_B_A .
+<111>	(285.420-288.905)	pupunta ng out of town para makapaglaro 'yung mga panalay games .	going out of town to play the Panalay games .
+<112>	(288.905-293.854)	kasi ang dami na sa 'king nag-i-invite na mga kaibigan ko na -- <no-speech> na mga laro kayo dito .	because lots of my friends have already invited me to -- to play here .
+<113>	(293.854-296.655)	mga mayors' league mga <hes> may mga fiesta .	mayors' leagues feasts .
+<114>	(296.655-297.330)	oo .	yes .
+<115>	(297.330-300.753)	so 'yun yung gusto kong malaruan dati na bibihira ko malaruan .	those are the games I want to play that I seldom play before .
+<116>	(300.753-301.289)	bawal eh .	it wasn't allowed .
+<117>	(301.289-301.647)	bawal .	not allowed .
+<118>	(301.647-302.094)	<overlap> bawal .	not allowed .
+<119>	(302.094-313.574)	oo tapos makapaglaro ako paminsan-minsan kasi sa schedule ng <overlap> mayroon bang mga ano <hes> habang naglalaro ka do'n sa gano'ng mga liga mayroon ka bang naririnig na masasakit na sinasabi na oh dati P_B_A 'yan oh ngayon nandito .	yes and I'll be able to play sometimes and while playing in those leagues you'll hear hurtful words such as oh he was P_B_A before and now he's here .
+<120>	(313.574-316.027)	M_V_P 'tapos ngayon dito na lang naglalaro .	M_V_P and now just playing here .
+<121>	(316.027-319.070)	mayroon bang na na nag-aano sa mga ligang gano'n ?	are there in those leagues ?
+<122>	(319.070-320.459)	dami ang dami ang dami .	a lot a lot a lot .
+<123>	(320.459-322.300)	<overlap> hindi sa mga fans eh .	not in the fans .
+<124>	(322.300-322.602)	oo .	yes .
+<125>	(322.602-332.357)	sa mga -- sa mga players na naglalaro wala naman kasi <overlap> mas natutuwa pa sila na makalaro ka <overlap> so ako tuwang-tuwa naman ako kasi na kung baga nakakasalamuha ko .	to the -- to the players who are playing nothing really they are happier to be able to play with you so me I am very glad because as if I have been interacting .
+<126>	(332.357-337.482)	'yung mga fans na nagsasabi na 'yung mga nanonood na oh wala na sa P_B_A laos -- laos na 'yan laos na 'yan .	those fans who are saying that those who are already watching oh not in the P_B_A anymore out-of-date -- he's already out-of-date .
+<127>	(337.482-338.403)	hindi naman marunong .	but does not know how .
+<128>	(338.403-339.990)	<overlap> oo anong epekto sa 'yo no'n ?	yes what was the effect on you before ?
+<129>	(339.990-341.207)	wala naman akong pakialam eh .	I actually do not have any care .
+<130>	(341.207-341.881)	di ba ?	right ?
+<131>	(341.881-342.585)	ngiti pa rin .	still smiles .
+<132>	(342.585-343.761)	<laugh> oo nga eh .	I know right .
+<133>	(343.761-347.030)	gusto kong sabihin pakita n'yo sa akin 'yun idol n'yo 'tapos mag-o-one on one kami .	I want to say show to me that idol of yours then we'll have a one on one .
+<134>	(347.030-349.761)	mag-basketball kami eh <overlap> di ba di ba <overlap> ah huh .	we'll play basketball right right yes .
+<135>	(349.761-350.132)	oo .	yes .
+<136>	(350.132-353.671)	kasi I take pride do'n sa basketball ko kasi masyado kong mahal 'yung basketball ko .	because I take pride there in my basketball because I love my basketball very much .
+<137>	(353.671-354.540)	<overlap> oo 'yan tama .	yes that's correct .
+<138>	(354.540-360.840)	kaya 'yung <hes> simula 'nong mag-start na 'yung career ko na <hes> 'yung playing time na nawawala ah huh .	so those when my career already started when it was already playing time vanishing ah huh .
+<139>	(360.840-366.728)	ayoko ng pagdating sa practice 'yung <hes> oo 'yung lamang 'yung ano mas magaling sa akin ayaw ko ng gano'n eh .	I don't want when it comes to practice that yes that only that what better than me I don't want it like that .
+<140>	(366.728-367.630)	oo .	yes .
+<141>	(367.630-376.830)	although naging ewan ko kung 'yun na 'yung trend siguro sa pagdating sa edad automatic baba ka .	although it became I didn't know if that was that trend maybe in terms of age you're automatically lowered down .
+<142>	(376.830-381.975)	kahit 'yung <hes> skills o 'yung tulong level mo sa sa team ay mas mataas .	even if the skills or your level of help for the team is higher .
+<143>	(381.975-383.283)	oo ah huh .	yes yes .
+<144>	(383.283-386.680)	di bale na kung baga hindi -- hindi ka na pang-marketing eh .	never mind you're not -- not for marketing rather .
+<145>	(386.680-387.235)	oo .	yes .
+<146>	(387.235-388.651)	marketing na lang kailangan natin .	we just need marketing .
+<147>	(388.651-389.180)	<overlap> yes yes .	yes yes .
+<148>	(389.180-391.442)	so nagbabalak nga ako magpaayos ng mukha .	I'm even planning to have my face fixed .
+<149>	(391.442-392.200)	ah huh .	yes .
+<150>	(392.200-392.659)	ah huh .	yes .
+<151>	(392.659-393.460)	<no-speech>	<no-speech>
+<152>	(393.460-394.558)	para medyo maganda 'yung dating ko .	so my arrival will look good .
+<153>	(394.558-396.081)	<overlap> eh tutal nasa showbiz ka na ngayon eh .	anyway you're already in showbiz now .
+<154>	(396.081-398.514)	<overlap> 'yan 'yan oo nasa showbiz ka na eh .	there there you're already in showbiz .
+<155>	(398.514-399.920)	<overlap> 'yun nga inaano ko .	even that I'm .
+<156>	(399.920-404.415)	dadamihan ko 'yung pelikula ko para dumami 'yung fans ko 'yung mga fans ko .	I'll multiply my movies to increase my fans .
+<157>	(404.415-406.464)	fans ko .	my fans .
+<158>	(406.464-416.638)	so <hes> pero right now 'yung role mo rin 'di ba like sa -- sa masasabi mong ano eh <hes> gano'n na nga lumiliit no .	so but right now your role is like is -- is what you can call yes indeed it's getting small .
+<159>	(416.638-419.869)	pero there are certain games na kayo eh .	but you have certain games .
+<160>	(419.869-420.565)	kayo pa rin .	still you .
+<161>	(420.565-422.531)	sila Danny S ikaw di ba ?	you're Danny S right ?
+<162>	(422.531-432.650)	kayo pa rin ano <hes> papa'no mo ano papa'no mo <hes> malalaman sa part ng career mo at matatanggap 'yung gano'ng klaseng sitwasyon ?	still you how will you know in the part of your career and accept that kind of situation ?
+<163>	(432.650-445.136)	<hes> kasi before ako <hes> siguro mga two three years two years ago ang sinabi ko sa sarili ko gus- -- 'yung last two years ko gusto ko lang makapaglaro .	because before I was perhaps two or three years ago I told myself -- that in the last two years I just want to play .
+<164>	(445.136-446.580)	ah huh okay .	ah huh okay .
+<165>	(446.580-448.188)	at least 'yung makapaglaro .	at least those who can play .
+<166>	(448.188-453.218)	to gaze myself na <no-speech> ano ba talaga up or down stop na ko .	to gaze myself in a what is it really am I up or down or should stop .
+<167>	(453.218-453.840)	okay .	okay .
+<168>	(453.840-459.698)	pero alam mo 'yun habang hindi ka nakakapaglaro ng gusto mo kasi wala naman akong nararamdaman oo mayroon din naman ako oo di ba ?	but you know while you are not able to play of what you like because I am not feeling anything yes I still also have me yes right ?
+<169>	(459.698-463.899)	so hangga't hindi ka nakakapaglaro parang gusto mong gusto ko kasi 'yung last push ako eh .	so until you are not able to play seems you like because I want the last push to be me .
+<170>	(463.899-466.187)	ubusin n'yo na 'yung battery kung ma-injury ako eh di tapos na .	consume the battery if I am injured so then that's it .
+<171>	(466.187-466.721)	oo .	yes .
+<172>	(466.721-468.727)	kung pangit ang laro ko di tapos na .	if my game is bad then it's the end .
+<173>	(468.727-471.327)	makikita naman natin sa sa -- sa laro eh .	we can see that in in -- because in the game .
+<174>	(471.327-471.807)	oo .	yes .
+<175>	(471.807-472.265)	'di ba ?	right ?
+<176>	(472.265-475.100)	sa -- sa physicality -- 'yung sa kondisyon ng tao .	in -- in physicality -- in the condition of the person .
+<177>	(475.100-476.590)	pagtapos na di tapos na .	if it is done then it's done .
+<178>	(476.590-477.885)	oo I can accept naman eh .	yes because I can also accept .
+<179>	(477.885-482.906)	'tsaka gusto ko <no-speech> pinagpakondisyunan ko pa 'yung ano eh 'yung pringle eh .	because then I want I am still conditioning the uh the Pringle .
+<180>	(482.906-484.608)	<laugh> talaga ?	really ?
+<181>	(484.608-487.270)	gusto kong testingin 'yun 'yung challenge eh .	because I want to try the the challenge .
+<182>	(487.270-488.364)	di ba ?	right ?
+<183>	(488.364-488.900)	<overlap> oo oo .	yes yes .
+<184>	(488.900-493.570)	which is good <overlap> talagang tsina-challenge mo 'yung sarili mo ito 'yung bago aah .	which is good you are really challenging yourself this is new aah .
+<185>	(493.570-495.698)	sinasabi nila magaling magaling magaling .	they are saying great great great .
+<186>	(495.698-496.740)	<overlap> oo .	yes .
+<187>	(496.740-502.041)	eh gusto paglaro ko pag pupunta ka ng P_B_A hindi mo- -- hindi mo -- hindi na kaagad 'yung time .	because I want when you go to the P_B_A not your -- not your -- not immediately the time .
+<188>	(502.041-503.462)	oo oo pagtrabahuhan mo .	yes yes you work on it .
+<189>	(503.462-506.608)	although alam mo na masipag mabait tapos magaling .	although you know hardworking good then skilled .
+<190>	(506.608-507.625)	'tsaka may talent talaga .	then really has a talent .
+<191>	(507.625-508.246)	sobra .	too much .
+<192>	(508.246-508.588)	<overlap> oo .	yes .
+<193>	(508.588-509.119)	'di ba ?	right ?
+<194>	(509.119-510.448)	nakikita ko lahat kinakain nga eh .	because I have been seeing eating everything .
+<195>	(510.448-510.934)	ah huh .	ah huh .
+<196>	(510.934-513.466)	so parang nag-tha-thank you na ako na wala ako do'n sa kinakain eh .	so seems like I am thanking that I am there of those who is being eaten .
+<197>	(513.466-515.580)	<no-speech>	<no-speech>
+<198>	(515.580-515.900)	di ba ?	right ?
+<199>	(515.900-518.864)	buti na lang hindi ako nagamit kundi <sta> kasama ako diyan sa top one .	good thing I was not used if not I am included there at the top one .
+<200>	(518.864-521.713)	top two top three kasama Willie Miller kinakain .	top two top three including Willie Miller being eaten .
+<201>	(521.713-523.590)	ina-ankle breaker .	made into an ankle breaker .
+<202>	(523.590-524.531)	so parang gano'n .	so just like that .
+<203>	(524.531-525.473)	oo at least %incomplete	yes at least %incomplete
+<204>	(525.473-536.513)	'yun ang gusto ko kasi 'nong kinausap ako ni Jimmy before I sign sabi niya sabi ko tinanong ko bakit ka mag-ano -- mag- -- <hes> re-retired na ?	that what I want is when Jimmy talked to me before I sign he said I said I asked why would you -- would -- retire already ?
+<205>	(536.513-543.168)	sabi niya I feel tired kasi my last four five years ng basketball ko <no-speech> punong-puno .	he said I feel tired because my last four five years in basketball it was very full .
+<206>	(543.168-545.580)	from gilas talk'n'text gilas talk'n'text .	from Gilas Talk N Text Gilas Talk N Text .
+<207>	(545.580-547.458)	sabi ko inggit na inggit ako sa 'yo .	I said I was very jealous of you .
+<208>	(547.458-548.668)	ah huh .	yes .
+<209>	(548.668-552.620)	kasi siguro yu- -- 'yan ang gusto ng player na na maramdaman eh .	because maybe that's what the player wants to feel .
+<210>	(552.620-553.380)	oo .	yes .
+<211>	(553.380-558.435)	na kahit na sabik ka pa or hindi pero pag pagod ka na sa basketball stop ka na .	even if you're still eager but if you're tired with basketball you have to stop .
+<212>	(558.435-559.033)	yes .	yes .
+<213>	(559.033-568.550)	<hes> ibig sabihin nagsawa ka na oo 'yung parang pagod 'yung katawan gusto mo rest naman with your family kasi sa gilas ilang months .	that means you're already fed up yes seems like your body is tired but you also want to rest with your family because in Gilas it's a couple of months .
+<214>	(568.550-572.520)	kay -- kaysa 'yung opposite na parang gusto ko pang maglaro pero wala ka pang %incomplete	rather -- rather than the opposite that I still want to play but you don't have %incomplete
+<215>	(572.520-580.816)	oo so sabi ko inggit na inggit ako sa 'yo kasi sabi ko 'yung last four years ko ka 'ko hindi na basketball ka 'ko 'yung napuntahan ko pulitika na yata eh .	yes I said I was very jealous of you because in the last four years I wasn't in basketball but in politics .
+<216>	(580.816-581.511)	<int> di ba ?	right ?
+<217>	(581.511-583.803)	'yun yung -- 'yun 'yung ano eh -- 'yon yung sinabi ko sa kaniya .	that's the -- well that's the -- that was what I was telling him .
+<218>	(583.803-593.800)	sabi ko -- sabi ko ilang beses ko sinabihan 'yung sarili ko na from last three years -- sabi ko last three years ka 'ko puwede na kong backup .	I said I've told myself plenty of times that from last three years -- I said the last three years I can be a backup already .
+<219>	(593.800-595.040)	ah huh .	yes .
+<220>	(595.040-598.798)	kahit ka 'ko masama sa loob ko at least makakaturo na ko sa mag-ne-next sa 'kin .	even if it's disgruntling at least I can teach those next to me .
+<221>	(598.798-604.842)	'yun 'yung nasa barako no sila Carlo Lastimosa sabi ko tuturuan ko na tong mga to para at least next 'ka ko .	those in Barako Carlo Lastimosa I said I'll teach these guys to be at least next .
+<222>	(604.842-606.340)	di ba ?	right ?
+<223>	(606.340-611.332)	tapos sabi bago palang ano sinabi ko nga 'wag n'yo naman ka 'ko ibigay kaagad 'yung time .	and they said they're just new I said don't give the time instantly .
+<224>	(611.332-613.500)	pabayaan n'yong pagtrabahuhan nila .	let them work hard for it .
+<225>	(613.500-618.126)	kasi kung may marunong pa 'tapos ibibigay mo sa bata 'yung bata ka 'ko baka i-waste lang 'yan .	because if still knows how then it is going to be given to a kid that kid I said maybe it would be wasted .
+<226>	(618.126-619.190)	ah huh .	ah huh .
+<227>	(619.190-623.743)	pabayaan n'yo next sila hanggang sa kasi sila ang mag-aano eh magpupursige .	just let them be they are next until they will be the ones to uh to persevere .
+<228>	(623.743-625.725)	kasi 'yun 'yung mag-start ka 'ko sa 'min eh .	because that that will start I said with us .
+<229>	(625.725-632.496)	ako nag-start ako tinanong ko kay- -- hindi ko naman tinanong kay coach eh although nando'n na sila Ato Agustin .	I started me I asked to -- I haven't asked coach although Ato Agustin is already there .
+<230>	(632.496-634.129)	oo nga pala 'nong first year ko .	yes oh I remember in my first year .
+<231>	(634.129-636.970)	sila tita Glen di ba ?	them with Tita Glen right ?
+<232>	(636.970-644.942)	so although ako gustong-gusto ko alam kong makakatulong ako pero iniisip ko bakit mas ginagamit ng coach 'yung beterano ?	so although I really want I know I can help but I am thinking why the coach uses the veteran more ?
+<233>	(644.942-645.689)	oo .	yes .
+<234>	(645.689-647.740)	anong puwede mong matutuhan do'n sa beterano ?	what can you learn there from the veteran ?
+<235>	(647.740-648.167)	oo .	yes .
+<236>	(648.167-652.447)	so habang nasa nasa bench ako 'nong first year ko analyze ako ng analyze .	so while I was on on the bench in my first year I kept on analyzing .
+<237>	(652.447-658.159)	sabi ko oo nga no kahit ako 'ka ko -- kahit ako 'yung maging coach ka 'ko mas gusto ko do'n sa beterano .	I said yes that's right even me I said -- even if I were to become a coach I said I would like the veteran more .
+<238>	(658.159-658.600)	ah huh .	ah huh .
+<239>	(658.600-660.315)	kasi sigurado ka na .	because you are already sure .
+<240>	(660.315-660.866)	oo .	yes .
+<241>	(660.866-669.638)	sigurado kana na ayun less mistake may -- may magandang decision making 'tsaka up to the end 'yun kung baga gano'n 'yung alon .	you are already sure that's it less mistake has -- has good decision-making then up to the end that seems like that's the wave .
+<242>	(669.638-672.453)	hindi 'yung gano'n gano'n .	not like that like that .
+<243>	(672.453-673.414)	'yun 'yung inano ko .	that that what I did .
+<244>	(673.414-677.668)	so 'nong second year ko tanong na ko ng tanong sa mga ano sa mga beterano .	so on my second year I kept on asking to those veterans .
+<245>	(677.668-680.537)	papaano magagawa ko papaano makakatulong ako ?	how come I can do it how come I can help ?
+<246>	(680.537-686.245)	sabi sa 'kin oh sige start ka na ng practice <hes> kailangan mong pagtrabahuhan ng maigi .	I was told oh start practicing you need to work on it well .
+<247>	(686.245-690.926)	kailangan makatulong ka from frac- -- practice little time hanggang palaki ng palaki .	you need to help from -- practice little time until larger and larger .
+<248>	(690.926-692.020)	<overlap> palaki ng palaki .	larger and larger .
+<249>	(692.020-695.205)	so ne-next sabi nila papa Ato i-ne-next kayo niyan .	so will be the next papa Ato said I would make him the next .
+<250>	(695.205-699.329)	so dapat pag ginamit ka ready ka parati hindi puwede 'yung warm up pa .	so when you are used you are ready always shouldn't still be on warm up .
+<251>	(699.329-700.691)	sabi ko sige okay .	I said sure okay .
+<252>	(700.691-705.860)	so 'nong second year ko <no-speech> 'yung time na pag gano'n na 'yung ano 'yung career .	so on my second year on times like that that one the career .
+<253>	(705.860-717.057)	eh how many <hes> I mean kilala <hes> mo 'yung <hes> katawan mo sabi mo wala kang nararamdaman kung ikaw masusunod mga gaano katagal pa bago ka finally ngayon ?	so how many I mean you have known your body you said you have not felt anything if you were the one to follow how long would it take before you finally now ?
+<254>	(717.057-722.295)	ngayon gusto ko nga lang <no-speech> one year na makapaglaro lang .	now I just want to one year just to be able to play .
+<255>	(722.295-730.169)	basta makalaro ah one year within a year na alam mong pagod ka na sulit na sulit parang di na ko puwede di na ko puwede ?	anything but to play ah one year within a year that you know you are tired still worth it like I cannot anymore I cannot anymore ?
+<256>	(730.169-731.313)	ako na mag-ti-time out eh .	because I will be the one to make the time-out .
+<257>	(731.313-733.306)	ako mag-special time out eh .	so I will make a special time-out .
+<258>	(733.306-734.708)	ako na mag-special time out .	I will be the one to have a special time-out .
+<259>	(734.708-739.169)	bibigyan mo sarili mo ng special time out <overlap> oo special time out na ko di ko na pala ano eh .	you are going to give yourself a special time-out yes I will already have a special time-out I cannot anymore .
+<260>	(739.169-739.460)	ah huh .	ah huh .
+<261>	(739.460-743.102)	di ko na pala kaya sige hayaan mo na ako .	oh I cannot bear it anymore so sure let me be .
+<262>	(743.102-746.704)	sobrang four group mo <laugh> na .	you've have much four group already .
+<263>	(746.704-747.330)	oo .	yes .
+<264>	(747.330-747.897)	di ba .	right .
+<265>	(747.897-749.809)	scalptive muna ako tapos next na ako .	I'll be a scalptive first then I'm next .
+<266>	(749.809-752.866)	tapos eh kasi eventually gusto kong mag-coach .	and then because eventually I want to coach .
+<267>	(752.866-753.847)	yes yes .	yes yes .
+<268>	(753.847-758.440)	'yun 'yung gusto ko -- gusto kong mai-pass on sa mga bata .	that is what I want -- I want to pass it on to the children .
+<269>	(758.440-760.824)	'yun mga experiences ko 'tsaka 'yung mga natutunan ko .	those are my experiences and what I have learned .
+<270>	(760.824-761.457)	oo .	yes .
+<271>	(761.457-762.562)	so 'yun 'yung gusto ko .	so that's what I want .
+<272>	(762.562-763.480)	di malayo 'yun .	that's not far-fetched .
+<273>	(763.480-766.373)	<hes> coach ka ba do'n sa no car nopal ?	were you a coach in No Car Nopal ?
+<274>	(766.373-767.130)	hindi .	no .
+<275>	(767.130-768.707)	anu-ano ka sa no car nopal ?	what were you in No Car Nopal ?
+<276>	(768.707-769.784)	rakitelo .	a racketeer .
+<277>	(769.784-771.398)	<laugh> ano rakitelo ?	what's a racketeer ?
+<278>	(771.398-773.954)	'yung ano nag-iisa ng tao gano'n ba 'yon ?	someone who tricks people is that what it is ?
+<279>	(773.954-775.690)	<hes> hindi naman .	not really .
+<280>	(775.690-777.474)	<hes> kahit na anong raket lang pinapasok .	someone who gets involved in any racket .
+<281>	(777.474-778.737)	<overlap> ah basta kumita .	ahh just to earn money .
+<282>	(778.737-780.500)	oo basta kumita .	yes just to earn money .
+<283>	(780.500-784.835)	so mga buhat kargador sa palengke taga benta .	so like a porter at the market a vendor .
+<284>	(784.835-787.850)	ah kung anu-ano 'yung kalokohan .	ahh all sorts of silly things .
+<285>	(787.850-792.100)	ano ba to first <hes> na pasok mo sa T_V or ?	what is this first you inserted it in the T_V or ?
+<286>	(792.100-795.627)	first sitcom talaga na kasali kami na mga players .	first sitcom that includes us players .
+<287>	(795.627-796.940)	<overlap> na tuloy-tuloy ?	that's continuous ?
+<288>	(796.940-797.958)	<overlap> na tuloy-tuloy .	that's continuous .
+<289>	(797.958-798.546)	oo .	yes .
+<290>	(798.546-800.900)	okey naman experience so far ?	and the experience is okay so far ?
+<291>	(800.900-802.300)	masaya kasi bago di ba ?	it's fun because it's new right ?
+<292>	(802.300-802.482)	ah huh .	yes .
+<293>	(802.482-812.644)	'tsaka <hes> working mood 'yung mga <hes> komedyante na <hes> talagang premyado na 'yun mga talagang <no-speech> tayo mismo pinapanood natin .	also the comedians are on working mode they're really award-winning even us we watch it .
+<294>	(812.644-818.956)	sila Oggie sila Tuesday si Long si yo- -- kuya Yoyong si ah huh direct Randy .	Oggie Tuesday Long Yoyong -- uhm brother Yoyong uh Direct Randy .
+<295>	(818.956-833.645)	alam mo na pag nandodoon ka sa set mas pinapadali nila 'yung ano 'yung so makikita mo rin ang sarili mo na after na kunyari mamama- -- matupad 'yung one year na naglalaro ka 'tapos okey na that's it mag-ta-transition ka dito sa ganitong career ?	you know that when you're in the set they'll make it easier hence you'll see yourself after -- one year of playing and then okay you'll transition to this kind of career ?
+<296>	(833.645-835.640)	showbiz iba 'yung ano ko eh .	showbiz my is different .
+<297>	(835.640-837.899)	medyo nasa ano 'yan nasa radar mo ba 'yan ?	is it in your radar ?
+<298>	(837.899-839.405)	wala naman .	not really .
+<299>	(839.405-841.630)	gusto ko talaga kasi mag-coach eh .	I really want to be a coach .
+<300>	(841.630-842.511)	ah okay .	oh okay .
+<301>	(842.511-843.821)	<overlap> 'yun 'yung gusto ko .	that's what I want .
+<302>	(843.821-855.174)	gusto ko e 'yung passion ko sa basketball at 'tsaka 'yung mga natuto -- lahat ng mga nasa puso ko tungkol sa basketball 'yun 'yung gusto kong iano eh ah huh ipalit sa mga -- kung baga i-share sa mga bata .	I want my passion in basketball and what I learned -- everything in my heart about basketball that's what I want -- to share to the children .
+<303>	(855.174-860.299)	so ayaw mo ng <laugh> kasi papalitan ka na lang namin .	so you don't want to because we'll just replace you .
+<304>	(860.299-860.709)	ayaw mo 'ata .	you don't seem to want it .
+<305>	(860.709-863.558)	'yan talaga kasi 'yung <laugh> ka-size ng puso mo .	that's really the one which is the same size as your heart .
+<306>	(863.558-866.137)	dalawa puso mo eh .	you have two hearts .
+<307>	(866.137-873.939)	anyway grabe ano ibang klase tong <hes> na-experience no ni Willie at <hes> full circle ka talaga .	anyway it's crazy right this experience of Willie's is something else and you've really come full circle .
+<308>	(873.939-878.409)	lahat na halos pinasok mo na eh .	it seems like you have gotten yourself into everything .
+<309>	(878.409-889.361)	'nong ginawa kong pa-joke na parang pinapa-retire na rin ka 'ko ako eh at least ka 'ko puntahan ko na lahat ng teams para mayroon akong remembrance na kada isang uniform .	when I jokingly said that it looks like I am being asked to retire I said that I should at least join all the teams so I would have each uniform as a remembrance .
+<310>	(889.361-889.800)	oo .	yes .
+<311>	(889.800-895.383)	itatabi ko tapos iikot sa bahay sa wall eh padagdag ng padagdag 'yung teams sabi ko parang hindi na ako aabot eh .	I would keep them then put them on walls all over the house but there were more and more teams so I said it looks like I won't be able to make it .
+<312>	(895.383-903.831)	<laugh> ito ito serious question <hes> undoubtedly you're gonna be -- <hes> you're already one of the twenty five and forty greatest di ba ?	here here is a serious question undoubtedly you're gonna be -- you're already one of the twenty five and forty greatest right ?
+<313>	(903.831-904.659)	<overlap> yes I am .	yes I am .
+<314>	(904.659-913.677)	if magkaroon ng time na sabihin okey i-re-retire ko ang jersey ni Willie Miller aling jersey ang ipapa-retire mo ?	if there would come a time that someone will say okay I will retire the jersey of Willie Miller which jersey will you have retired ?
+<315>	(913.677-916.896)	'yun nga eh kasi wala naman akong pakialam diyan eh .	exactly because I don't care about that anyway .
+<316>	(916.896-917.569)	ah talaga ?	ahh really ?
+<317>	(917.569-918.180)	<overlap> oo .	yes .
+<318>	(918.180-918.909)	well anong team ?	well which team ?
+<319>	(918.909-919.632)	anong team ?	which team ?
+<320>	(919.632-921.930)	<overlap> hindi ka sentimental pagdating sa ganiyan .	you're not sentimental when it comes to that .
+<321>	(921.930-928.406)	kung baga kasi <no-speech> kung gusto mong pa-retire ka di do'n ka sa team na love na love ka .	it's like if you want to retire then be with the team that really loves you .
+<322>	(928.406-929.576)	ano ba 'yung team na love na love ka ?	which team really loves you ?
+<323>	(929.576-930.850)	bat ka binitawan ?	why were you released ?
+<324>	(930.850-931.949)	<laugh> oo 'di ba ?	yes right ?
+<325>	(931.949-934.270)	bakit ka binitawan ?	why were you let go of ?
+<326>	(934.270-941.540)	so loyalty loyalty ng ano -- kahit ano kasi pag maglalaro ka sa isang team automatically 'yan nandodoon 'yung puso mo eh .	so it was about loyalty or something -- because even if you are playing for a team it's automatic that your heart would be in it .
+<327>	(941.540-943.068)	gusto mong ipanalo 'yung isang team eh .	you want to make the team win .
+<328>	(943.068-943.801)	ah huh .	yes .
+<329>	(943.801-946.989)	kaso kada ma-te-trade ka ang sama-sama ng loob mo di ba ?	but each time you get traded you have ill feelings right ?
+<330>	(946.989-951.331)	kung bakit ka tinrade kasi lahat kung baga everyday parang pamilya na kayo magkakasama kayo .	why you were traded because everyone as they say every day you are like a family already you are together .
+<331>	(951.331-952.837)	tapos bat gagawin sa 'yo 'yon ?	then why would they do that to you ?
+<332>	(952.837-953.933)	oo oo .	yes yes .
+<333>	(953.933-957.942)	so 'yung retirement ah huh sa inyo na 'yan .	so the retirement yes that's yours .
+<334>	(957.942-959.100)	sa inyo na 'yan .	it's yours .
+<335>	(959.100-960.340)	<no-speech>	<no-speech>
+<336>	(960.340-961.747)	pakialam ko dami kong uniform .	why should I care I have a lot of uniforms .
+<337>	(961.747-965.198)	<laugh> di ano puwede bang isabit lahat 'yon ?	of course not can I put all of them on display ?
+<338>	(965.198-967.764)	lahat ng pinagdaanan ko di isabit na lang lahat .	everything I went through just put all of them on display .
+<339>	(967.764-969.879)	'tsaka at least puwede 'yun dalhin mo lahat 'yan .	and at least you can bring all of them .
+<340>	(969.879-971.184)	<overlap> kausapin mo lahat .	talk to all of them .
+<341>	(971.184-972.670)	'tsaka mag-apply kang commissioner .	and apply as a commissioner .
+<342>	(972.670-974.117)	kasi naikot mo na ang ibang team eh .	because you already went through other teams .
+<343>	(974.117-975.783)	<overlap> hindi delikado eh kalaban ko si Danny .	no it's risky my competitor is Danny .
+<344>	(975.783-978.560)	<laugh> mas matanda sa 'kin si Danny eh .	because Danny is older than me .
+<345>	(978.560-987.065)	Danny <laugh> so kasama nga namin sa practice eh so sabi ko nga oh kada kita ko nga commissioner commissioner nagagalit <laugh> sa 'kin .	Danny so he was with us at practice so like I said each time I see him I say commissioner commissioner he gets mad at me .
+<346>	(987.065-989.826)	don't call me that Willie don't call me that commissioner Danny .	don't call me that Willie don't call me that commissioner Danny .
+<347>	(989.826-992.089)	sabi ko oh you're still playing and then you're gonna be the commissioner .	I said oh you're still playing and then you're gonna be the commissioner .
+<348>	(992.089-994.117)	oh we're gonna win <laugh> we're gonna win .	oh we're gonna win we're gonna win .
+<349>	(994.117-996.800)	pero grabe ano .	but it's crazy right .
+<350>	(996.800-1001.367)	we would like to thank Willie sa ano 'yung istorya maraming matutuwa niyan .	we would like to thank Willie for the story many would be happy .
+<351>	(1001.367-1015.093)	'yung mga <hes> never <hes> been told a stories at <hes> eto nai-share satin ni ni Willie at I'm sure marami ding ibang players no <hes> kasi 'yun na nga pinag-uusapan natin mga vino players .	those never been told stories and here they are being shared to us by Willie and I'm sure there are also many other players because that's what we are talking about vino players .
+<352>	(1015.093-1015.488)	oo .	yes .
+<353>	(1015.488-1020.960)	'yung sinasabi nila na pa-retire na pero hindi may mga <hes> nakaka-contribute pa rin .	those whom they say are about to retire but are not have are still able to contribute too .
+<354>	(1020.960-1027.609)	nakaka-contribute pa rin at masuwerte 'yung magiging <hes> kung -- pag naging coach na nga si Willie 'yung <hes> 'yung mga bata .	they are still able to contribute and those who are about to be his kids will be lucky if -- if Willie becomes a coach .
+<355>	(1027.609-1034.946)	bawal 'yung mga nakasimangot 'tsaka <laugh> 'yung mga mukhang may pinisi na wala ako kukuning gano'ng mukha 'yung mga nakaganon ohh .	those who are frowning and have scrunched up faces are not allowed I will not accept anyone with that face those who look like this .
+<356>	(1034.946-1037.138)	<laugh> puwede .	possible .
+<357>	(1037.138-1039.504)	'yun ang pinaka-play ko .	that will be my actual play .
+<358>	(1039.504-1049.312)	oh imbitahin mo muna 'yung mga <hes> mga brows <overlap> 'yan 'yan <hes> panoorin n'yo 'yung the bro show unang-una .	go ahead invite all the the bros there there first of all watch the bro show .
+<359>	(1049.312-1056.740)	<overlap> and secondly support P_B_A lalong-lalo na 'yung team ko ngayon talk'n'text .	and secondly support the P_B_A especially my current team Talk n Text .
+<360>	(1056.740-1057.513)	babawi kami .	we will recover .
+<361>	(1057.513-1060.278)	<laugh> natatakot ako pag sinasabi kong babawi eh .	I get scared whenever I say that we will bounce back .
+<362>	(1060.278-1062.662)	natatakot ako pag sinasabi kong babawi eh .	because I get scared whenever I say that we will bounce back .
+<363>	(1062.662-1069.503)	babawi kami next di babawi kami kasi parang medyo ano lang parang bad start lang kami .	we will recover next time we'll make up because it seems like we just had a bad start .
+<364>	(1069.503-1070.280)	'yan okay .	that sounds okay .
+<365>	(1070.280-1072.306)	kayo galing na kayo ng champion eh .	you've already been champions .
+<366>	(1072.306-1075.333)	masarap mag-back to back to back to back eh .	because it is good to have a back to back to back to back .
+<367>	(1075.333-1083.770)	<laugh> at 'tsaka suportahan n'yo nga rin pala every Sunday try to watch no harm no foul .	and also support every Sunday try to watch No Harm No Foul .
+<368>	(1083.770-1087.179)	eight P_M after ng who wants to be a millionaire .	eight P_M after Who Wants to be a Millionaire .
+<369>	(1087.179-1096.918)	so 'yon first namin nila Gary Keifer Bo Belga 'yung mga players na <no-speech> mag- -- maging part ng sitcom .	so this is our first with Gary Keifer Bo Belga the players -- to be part of a sitcom .
+<370>	(1096.918-1098.926)	so no harm no foul with ~ %incomplete	so no harm no foul with %incomplete

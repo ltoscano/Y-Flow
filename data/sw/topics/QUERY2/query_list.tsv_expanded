@@ -1,53 +1,30 @@
 query_id	query_string	domain_id
 query1433	crippled	crippling	destroy	threaten	gulch	strikes	inflict	hurt	devastating	strike	silly	stupid	idiotic	funny	laughable	dumb	asshole	awful	ridiculous	joke	GOV
-query1483	billionaires	millionaire	businessman	tycoon	financier	entrepreneur	magnate	philanthropist	investor	industrialist	LIF
-query1497	excerpts	snippet	abridged	quote	preface	intro	foreword	book	epilogue	quotation	LIF
-query1534	nanjing	guangzhou	shanghai	tianjin	hangzhou	chongqing	wuhan	chengdu	shenzhen	taipei	attacks	attacked	attacking	counterattack	attackers	retaliation	retaliatory	assault	assaults	retaliate	LAW
-query1628	pray	prayed	prays	prayer	prayers	mantis	worshipping	worshippers	blessing	kneeling	LAW
-query1783	cattle	crops	herds	husbandry	sheep	goats	grazing	poultry	farming	agricultural	LIF
+query1848	strings	quartet	quartets	cellos	stringed	cello	quintets	violin	violins	woodwind	thick	thinner	thicker	translucent	porous	thickened	thickness	brittle	coated	opaque	ropes	noose	straps	fastened	pulley	strap	ankles	hitch	ladders	tether	GOV
 query1862	chefs	restaurateur	restaurant	masterchef	gourmet	culinary	pastry	cooks	cooking	cookbook	LIF
 query1873	grandchildren	granddaughter	grandsons	grandson	siblings	daughter	niece	grandparents	grandfather	eldest	LIF
-query1894	peppers	chili	ginger	garlic	onions	chilli	tomato	beans	peanut	peanuts	GOV
 query1945	tortoises	turtle	iguana	crocodile	hippopotamus	rhinoceros	elephant	alligator	turtles	alligators	turtles	tortoise	alligator	tortoises	iguana	alligators	crocodile	reptile	snake	dolphin	GOV
-query1995	guarantees	guaranteed	guaranteeing	insure	assure	ensure	assured	ensuring	assuring	safeguards	stumbles	stumbled	stumbling	sneaking	wanders	discover	sneaks	find	looking	wander	GOV
-query2005	bronzes	silver	medalist	medal	gold	medallist	medals	golds	medallists	medallions	thrash	metalcore	metals	metallic	aluminum	alloy	stainless	corrosion	heavy	aluminium	GOV
+query1949	refrigeration	freezer	refrigerated	fridge	stove	heaters	oven	heater	vacuum	chilled	LIF
+query1972	vomiting	feces	coughing	swallowing	swallowed	choking	sucking	smelling	stomach	diarrhea	GOV
 query2018	prohibiting	prohibit	prohibits	forbidding	forbade	prohibitions	forbid	permitted	forbidden	forbids	LIF
-query2262	attacks	attacked	attacking	counterattack	attackers	retaliation	retaliatory	assault	assaults	retaliate	assaults	assaulting	assaulted	attack	counterattack	repulsed	inflicting	repulse	attackers	diversionary	LAW
-query2346	remainder	entire	whole	remaining	while	part	entirety	except	much	stay	BUS
-query2421	funds	funded	financing	fund	grants	donations	financed	subsidies	fundraising	monies	blankets	straw	bag	stuffing	skirt	cloak	pillow	sticking	flimsy	fluffy	materials	content	sourced	stuff	inclusions	bulk	contents	reliably	insulating	appropriately	BUS
-query2556	tensions	friction	pressure	stresses	discomfort	tensile	animosity	instability	discord	strife	stresses	fatigue	stressed	stressful	stiffness	anxiety	stressing	plasticity	dislocation	traumatic	BUS
+query3080	ankles	shoulders	hips	straps	knees	thighs	shoulder	wrists	thigh	torso	anatomical	anatomist	pathology	physiology	dissection	zoology	neurology	biology	endocrinology	pathological	LAW
 query3140	determinations	determining	determined	respect	determine	determines	willingness	tenacity	irrespective	respecting	GOV
-query3216	casino	gambling	hotels	lotteries	resorts	nightclubs	poker	vegas	gaming	betting	GOV
-query3239	allowances	expenses	pension	exemptions	pensions	entitlement	stipend	payable	subsidy	exemption	annum	nom	cent	capita	dgg	>radiant	keep	curiam	starblind	delete	diệm	dinh	khánh	minh	viet	văn	vietnam	đức	ngô	lê	GOV
-query3267	curricula	syllabus	curricular	coursework	education	teaching	baccalaureate	students	electives	courses	curriculum	curricula	coursework	instruction	cbse	teaching	examinations	instructors	courses	introductory	BUS
-query3269	surprises	surprised	surprising	expecting	unexpected	disappointment	stunned	disappointed	unprepared	blunder	astonished	disgust	disbelief	indignation	amazed	admiration	amused	delighted	astonishing	hesitation	LAW
-query3311	annoys	annoyed	annoy	frustration	embarrassment	dislike	dismay	annoying	disgust	displeasure	annoyance	troublesome	harmful	undesirable	inconvenience	deter	malicious	noxious	annoying	unwelcome	LIF
-query3340	necessarily	implying	does	accounts	implies	equate	involved	mean	implied	gets	nairobi	zanzibar	kenya	kampala	tanzania	kenyatta	tanzanian	salaam	arusha	uganda	BUS
 query3352	clothes	clothing	jeans	lingerie	dresses	pants	trousers	garments	blouse	wearing	LIF
-query3470	fungi	fungal	pathogen	fruiting	ascomycota	penicillium	mushroom	spores	lichen	nematode	infestation	greening	pests	wilt	pathogen	rust	drought	plague	seedlings	weeds	BUS
-query3478	promotions	promoted	promoting	promote	relegation	promotional	relegated	demotion	offs	advertising	advancing	advanced	advances	advancement	delaying	proceed	withdraw	push	progress	retreating	LIF
 query3507	diplomatic	embassies	diplomat	embassy	statesmen	negotiators	dignitaries	ambassadors	officials	ambassador	LIF
-query3559	rarest	uncommon	rarer	rarity	unusual	rarely	occurrence	scarce	common	infrequent	plentiful	scarcity	abundant	shortage	shortages	rarer	rare	scant	abundance	uncommon	traditions	traditional	traditionalist	rituals	traditionally	veneration	ritual	forefathers	reverence	steeped	customized	customization	customizable	customize	bespoke	customary	accessories	stratocaster	customarily	hardware	LIF
+query3528	état	etat	overthrow	coups	overthrew	overthrowing	overthrown	depose	deposed	junta	politics	ideological	leftist	geopolitical	socio	politically	populist	ideologies	ideology	social	revolutions	revolutionary	revolutionaries	uprising	uprisings	insurrection	revolt	upheaval	democratization	revolts	peaceful	reconciliation	truce	disarmament	ceasefire	treaty	peacemaker	conciliation	hostilities	peacefully	LIF
+query3664	interpreter	interpreting	compilers	translators	interpret	programmers	scholars	linguists	interpretive	interpretations	philologist	lexicographer	ethnologist	linguists	linguistics	ethnographer	anthropologist	linguistic	folklorist	philologists	GOV
 query3676	blogger	blogosphere	blogging	blogs	columnists	journalists	blog	weblog	tweets	activists	LIF
-query3679	barrel	gallons	ammunition	bottles	shotguns	cask	gallon	liters	revolvers	muskets	conical	spherical	ovoid	oblong	tapered	diameter	concave	rectangular	tapering	diameters	containers	refrigerated	cargo	intermodal	conveyor	liquefied	cargoes	unloading	pallet	cans	BUS
 query3708	tenant	landlords	tenancy	rents	landlord	owners	rent	leases	landowners	lease	homeowner	homeowners	rental	rent	rents	apartments	renting	landlords	housing	borrowers	LAW
-query3751	disintegrated	breakup	instability	collapse	fragmentation	dissolution	deterioration	stagnation	turmoil	upheaval	LAW
-query3879	profitability	utilization	competitiveness	efficiency	efficiencies	economic	sustainability	maximizing	livelihoods	economies	GOV
-query3881	collides	colliding	collision	crashed	rammed	collide	sank	capsized	wrecked	crashes	slid	smashed	crashing	lashed	tossed	blasted	ripped	grabbed	slapped	tripped	onto	transformed	divided	eventually	gradually	slowly	through	then	quickly	subdivided	LAW
+query3877	vanished	disappearing	disappear	disappearance	disappears	mysteriously	reappeared	disappearances	survived	abandoned	disappeared	disappearing	mysteriously	disappear	vanish	forgotten	disappears	wandered	reappeared	disappearance	LAW
 query3886	secretary	secretaries	consultative	undersecretary	ministerial	intergovernmental	directorate	plenipotentiary	council	delegation	protocols	tcp	tcp/ip	multicast	implementation	ietf	implementations	authentication	encryption	interoperability	BUS
-query3897	massacred	slaughter	slain	exterminated	pillaged	decapitated	mutilated	sacrificed	killed	beheaded	LAW
 query3898	bodyguard	assassins	henchmen	assassinate	policemen	entourage	aides	ambushed	guards	assailants	protectors	deity	protect	safeguard	protective	veneration	protecting	protection	custodian	ruler	LAW
-query3945	irrigated	drainage	wastewater	canals	dams	potable	hydroelectricity	groundwater	desalination	sewerage	crops	cropping	soybeans	agricultural	maize	sugarcane	cultivation	sorghum	soybean	agriculture	LAW
 query3962	messengers	courier	message	mail	dispatch	messages	messaging	helper	send	emissaries	dispatch	herald	advertiser	gazette	mail	telegram	newspaper	intelligencer	telegraph	newspapers	GOV
 query3989	mounds	earthwork	earthen	excavated	earthworks	excavation	excavations	barrows	burial	motte	GOV
+query3991	transporter	transporting	proteins	transports	transmembrane	intracellular	neurotransmitters	transport	extracellular	uptake	BUS
 query4121	privately	public	owned	equity	sector	governmental	brokerage	rented	firms	corporations	sectors	businesses	industry	workforce	industries	economy	tertiary	enterprises	investments	cooperatives	economies	economic	macroeconomic	industrialization	economical	agriculture	macroeconomics	economically	gdp	liberalization	diseases	infection	diseased	infections	autoimmune	pathogenesis	diabetes	hepatitis	infectious	illnesses	illnesses	ailment	debilitating	ailments	suffering	hospitalization	pneumonia	diagnosed	incurable	hospitalized	BUS
-query4175	genocidal	atrocities	massacres	atrocity	holocaust	crimes	pogrom	armenians	srebrenica	perpetrators	LAW
-query4407	australian	tasmania	queensland	australasia	zealand	sydney	nsw	melbourne	brisbane	adelaide	second	third	fourth	fifth	last	sixth	next	inaugural	seventh	later	responder	emergencies	paramedics	firefighters	responding	emergency	ambulances	preparedness	respond	medics	GOV
-query4516	barack	gubernatorial	obama	presidency	president	republican	election	reagan	mccain	candidacy	bids	bidding	bidder	bidders	takeover	candidacy	backers	invitation	candidature	buyout	BUS
-query4566	nathan	joel	caleb	zachary	danny	jeremiah	samuel	david	jonathon	aaron	vous	comme	tout	ça	toi	aime	amour	soir	soi	être	retiring	retirement	retires	retired	resign	quit	resigning	quitting	resigned	sidelined	GOV
-query490	phone	phones	smartphone	telephones	smartphones	telephone	handset	wireless	wallet	wifi	springboks	springbok	bloemfontein	heineken	waratahs	gauteng	currie	scarlets	mpumalanga	sevens	LIF
+query4918	synonym	synonymy	synonymous	nomen	definitions	taxon	interchangeably	nomenclature	taxonomic	sensu	LIF
 query4921	guitar	bass	vocals	keyboards	mellotron	synthesizers	drums	harmonica	mandolin	synthesizer	LIF
-query4926	mast	sails	amidships	masted	superstructure	funnels	antennas	rigging	waterline	ships	pole	lithuanians	ukrainians	germans	volhynia	slovaks	czechs	russians	polish	prussians	GOV
+query4935	creditor	debts	debtor	shareholders	debtors	insolvent	lenders	liabilities	repayment	bankruptcy	GOV
 query4944	narrates	narrating	narration	narrators	narrator	dramatized	retold	retelling	recounts	recounting	LIF
-query564	dreams	dreamed	dreaming	dreamer	daydream	dreamers	nightmare	nightmares	sleepless	waking	aspirated	aspirations	alveolar	realisation	complication	nasal	insufficiency	airway	symptomatic	voiceless	growing	urbanization	grow	increase	development	diversification	increasing	industrialization	outgrowth	productivity	BUS
+query594	marriages	divorce	marrying	remarry	marry	marital	divorces	divorcing	childless	annulment	songwriter	instrumentalist	singer/songwriter	singer	composer	bandleader	guitarist	pianist	percussionist	flautist	BUS
 query842	dictionaries	encyclopædia	diction	lexicon	encyclopedia	encyclopaedia	thesaurus	encyclopedias	lexicographer	etymological	GOV

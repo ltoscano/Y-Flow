@@ -1,0 +1,172 @@
+<1>	(0.000-1.230)	<no-speech>	<no-speech>
+<2>	(1.230-13.769)	(()) <sta> (()) Mbeya (()) ndiyo maskani <no-speech> <sta> (()) .	(()) (()) Mbeya (()) is home (()) .
+<3>	(13.769-15.585)	<no-speech>	<no-speech>
+<4>	(15.585-26.805)	twaongea tutaenda kwa sababu niko home <sta> na hawa vijana (()) <no-speech> nimewaleta ili waje wafanye mambo kwa niaba ya Tigo .	we say that we will go because I am home and these young people (()) I have brought them to do things on the behalf of Tigo .
+<5>	(26.805-27.740)	<no-speech>	<no-speech>
+<6>	(27.740-34.976)	<sta> nina dakika mbili tu za kusema asante (()) <sta> kwa kweli uko ndani tunawaburuza .	I have only two minutes to say thanks (()) for real in there we are hauling them .
+<7>	(34.976-36.900)	wakumbuka kuwaburuza tunawaburuza .	you do remember hauling them we haul them .
+<8>	(36.900-37.926)	<no-speech>	<no-speech>
+<9>	(37.926-45.350)	<sta> patatokea (()) tena wa kutendeka atasema (()) ?	there will appear (()) again the accomplisher will say (()) ?
+<10>	(45.350-49.861)	<sta> nimekuwa (()) maeneo pekee yangu mkitaka (()) .	I have been (()) areas on my own you wanted (()) .
+<11>	(49.861-53.070)	<no-speech>	<no-speech>
+<12>	(53.070-54.571)	<no-speech>	<no-speech>
+<13>	(54.571-57.320)	<sta> maana mnaweza mkaona kama na yeye hachekeshi .	because you can see if he too does not entertain .
+<14>	(57.320-59.400)	<no-speech>	<no-speech>
+<15>	(59.400-62.650)	<sta> unaweza uka- -- uka- -- ukaongea kama mama (()) ?	you can -- you can talk like a woman (()) ?
+<16>	(62.650-64.925)	<sta> (()) ni wacha tu (()) <laugh> ?	(()) just forget it (()) ?
+<17>	(64.925-66.137)	<no-speech>	<no-speech>
+<18>	(66.137-69.230)	kwamba wewe ongea wewe si bossy .	that you talk you're not boss .
+<19>	(69.230-72.510)	huwezi kuwa bossy wa Tigo halafu huwezi kutumia Tigo .	you can't be the Tigo boss and yet you can't use Tigo .
+<20>	(72.510-74.124)	huwezi kuwa bossy wa Tigo na dunia .	you can't be boss of Tigo and the world .
+<21>	(74.124-77.488)	huwezi kuwa bossy wa (()) comedy halafu huwezi comedy .	you can't be boss of (()) comedy and yet you can't do comedy .
+<22>	(77.488-87.363)	ongea kama mama (()) <sta> (()) <sta> (()) hata kazi unanitongoza ndiyo unapata kazi .	talk like a lady (()) (()) (()) you even seduce me at work so that you get work .
+<23>	(87.363-89.532)	huwezi pata kazi bila kunitongoza .	you cannot get a job without seducing me .
+<24>	(89.532-90.940)	ndiyo maana nakutongoza .	that's why I'm seducing you .
+<25>	(90.940-92.247)	habari yako mama baby ?	how are you baby's mother ?
+<26>	(92.247-93.300)	<no-speech>	<no-speech>
+<27>	(93.300-94.350)	<no-speech>	<no-speech>
+<28>	(94.350-96.440)	habari za masomo ?	how are your studies ?
+<29>	(96.440-97.641)	aai mzuri .	really fine .
+<30>	(97.641-98.614)	mzuri tu .	just fine .
+<31>	(98.614-100.160)	we legeza mguu .	you loosen your leg .
+<32>	(100.160-103.365)	<sta> sisi wenzako tukifanya hiyo style tunalegea .	us your colleagues if we do that style we are loosening .
+<33>	(103.365-107.205)	ukiwa (()) biashara (()) kosa anatoka .	if you have (()) business (()) mistake she leaves .
+<34>	(107.205-111.973)	regea (()) habari yako ?	return (()) how are you ?
+<35>	(111.973-112.780)	mzuri .	fine .
+<36>	(112.780-113.868)	<no-speech>	<no-speech>
+<37>	(113.868-115.458)	haki huyo treasurer anaweza .	truly that treasurer is able .
+<38>	(115.458-117.745)	asante sana one love .	thanks very much one love .
+<39>	(117.745-119.530)	<no-speech>	<no-speech>
+<40>	(119.530-123.370)	(()) mawio na machweo .	(()) sunrise and sunset .
+<41>	(123.370-125.352)	niite baba Siwamba Wakuvanga .	call me father Siwamba Wakuvanga .
+<42>	(125.352-126.300)	follow me .	follow me .
+<43>	(126.300-129.410)	<sta> safi eh safi .	clean yes clean .
+<44>	(129.410-132.194)	<sta> inateleza kama mto umetoka Bukoba kunakubalika Iringa .	it's slippery like a river come from Bukoba is accepted in Iringa .
+<45>	(132.194-133.320)	fanya hivi .	do this .
+<46>	(133.320-134.044)	safi .	clean .
+<47>	(134.044-139.172)	eh hii inaonyesha <sta> tuko pamoja Tigo inaunganisha watu pamoja au sio ?	yes this shows that we're together Tigo is uniting people together or not so ?
+<48>	(139.172-141.420)	msisite mikono msishike mikono .	don't hesitate with hands don't fold hands .
+<49>	(141.420-144.280)	<sta> eh neno lisiwe (()) tano eh ?	yes the word shouldn't be (()) five yes ?
+<50>	(144.280-145.299)	<no-speech>	<no-speech>
+<51>	(145.299-148.700)	<laugh> eh hivyo hivyo .	yes likewise .
+<52>	(148.700-149.524)	<sta> hivyo hivyo .	likewise .
+<53>	(149.524-150.816)	eh -- hivyo hivyo .	yes -- likewise .
+<54>	(150.816-154.750)	eh -- hivyo hivyo eh heh sadakta .	yes -- in that way yes yes fine .
+<55>	(154.750-157.090)	(()) sauti inawika .	(()) a crow sounds .
+<56>	(157.090-159.898)	<sta> nami napiga (()) kwa watu nakubalika .	I am also calling (()) to people I am acceptable to .
+<57>	(159.898-164.860)	na Tigo imani kwa mashabiki wengi ni (()) zinapochekechea hapo shule za msingi .	by Tigo faith in many fans (()) when they sprout in primary schools .
+<58>	(164.860-169.771)	<sta> jamaa msafi (()) .	a clean guy (()) .
+<59>	(169.771-171.134)	<no-speech>	<no-speech>
+<60>	(171.134-173.860)	jina linapokuwa na kesho linashamiri .	when a name grows and tomorrow it spreads .
+<61>	(173.860-184.360)	<sta> (()) ni hekima bado yanipa ujasiri <breath> niendelee kuifunza jamii natumia ubongo wangu -- <sta> ubongo wasoma macho yangu yanaona (()) mi nayoyoma .	(()) it's wisdom which is still giving me the courage to continue teaching the community I use my brain -- the brain can read and I can see my eyes (()) are weakening .
+<62>	(184.360-191.812)	<misc> Mpoki hapa ukipenda niite nyani mzee tukutane katika sindano na jipu .	Mpoki here you can call me an old monkey if you like let's meet at the boil with a needle .
+<63>	(191.812-195.088)	kumbuka <sta> emcee wa kwenye msiba hapigiwi makofi .	remember the master of ceremonies at a funeral isn't clapped for .
+<64>	(195.088-199.399)	<misc> kijana nimekuja kuchukua Facebook yangu ya bure nipatie basi .	young man I have come for my free Facebook so give it to me then .
+<65>	(199.399-201.939)	karibu mzee usijali ipo kwenye simu yako .	welcome old man don't worry it's on your phone .
+<66>	(201.939-202.919)	we vipi wewe ?	how are you ?
+<67>	(202.919-207.184)	tushaandamana (()) mjini kila mtu (()) umesema ipo kwa yangu wapi ?	we have held demonstrations (()) in the city everyone (()) where did you say it is on mine ?
+<68>	(207.184-209.110)	ni hivi ipo humu kwenye simu yako .	it's like this and it's here on your phone .
+<69>	(209.110-210.414)	halafu unakwenda hapa .	and then you go here .
+<70>	(210.414-212.168)	unachotakiwa kufuata ni hatua hizi muhimu .	what you're required to do is to follow these important steps .
+<71>	(212.168-213.682)	ni hivyo tu rahisi eh heh ?	it's just that easy no ?
+<72>	(213.682-215.820)	yaani rahisi kweli .	that is truly easy .
+<73>	(215.820-218.029)	(()) ipo kwa Kiswahili .	(()) it's in Swahili .
+<74>	(218.029-225.030)	ama ningeweza kufanya hata nyumbani kwangu eh safi sana -- ndiyo Tina Tigo wameamua kuwapa Facebook ya bure <breath> kwa lugha ya Kiswahili .	or I would have been able to do even my home yes very clean -- that's why Tina Tigo have decided to give free Facebook in the Swahili language .
+<75>	(225.030-228.071)	ona <breath> rafiki zako wote wameunganishwa nawe Mapipa Suzie %incomplete	see your all your friends have been connected to you Mapipa Suzie %incomplete
+<76>	(228.071-230.010)	hapo nachat na rafiki zangu kwenye Facebook .	there I am chatting with my friends on Facebook .
+<77>	(230.010-234.008)	we wacha kuangalia messages zangu wewe wamenialika nikajivinjari nao .	you stop looking at my messages they have invited me to hang out with them .
+<78>	(234.008-237.910)	<sta> Tigo pekee inakupa Facebook ya bure kwa Kiswahili .	only Tigo gives you free Facebook in Swahili .
+<79>	(237.910-244.480)	<sta> unganishwa na marafiki zako popote pale uweze kuchat bure kupitia simu yako yenye internet ni poa .	be connected with your friend wherever be able to chat for free on your phone with the internet is good .
+<80>	(244.480-247.527)	<sta> hebu njooni basi karibu nataka picha ya kuweka kwenye ukarasa wangu wa Facebook .	yeah come near then I want a picture to put on my Facebook page .
+<81>	(247.527-249.517)	(()) kwenye hii picha .	(()) on this picture .
+<82>	(249.517-252.060)	smile you are with Tigo .	smile you are with Tigo .
+<83>	(252.060-253.080)	<no-speech>	<no-speech>
+<84>	(253.080-261.350)	<sta> huyu bwana anaitwa (()) Kipara kwenye Kipara (()) .	this man is called (()) bald head on bald head (()) .
+<85>	(261.350-279.340)	(()) (()) <no-speech> <sta> (()) hii kwamba ni style ni ngumu sana .	(()) (()) (()) this that is a style is very difficult .
+<86>	(279.340-280.440)	<no-speech>	<no-speech>
+<87>	(280.440-285.171)	<sta> nikamwambia bwana wewe inachotakiwa <no-speech> uhamishwe .	I told him mister what is required to be moved .
+<88>	(285.171-286.160)	<no-speech>	<no-speech>
+<89>	(286.160-293.069)	<sta> sasa kuna siku <no-speech> nalala kazini <no-speech> <sta> kwanza unawapatia (()) leo hayuko ofisi why ?	now there is a day I am sleeping at work first you give them (()) why isn't he in the office ?
+<90>	(293.069-294.357)	kwa nini ?	why ?
+<91>	(294.357-296.630)	yuko wapi ?	where is he ?
+<92>	(296.630-299.373)	<sta> ahh akatuma Francisca Mwaipopo .	ahh he sent Francisca Mwaipopo .
+<93>	(299.373-303.634)	kwanza akamuuliza (()) hukukuja chini ?	first he asked her (()) you didn't come down ?
+<94>	(303.634-304.870)	<no-speech>	<no-speech>
+<95>	(304.870-313.113)	akaja bwana yule baada ya Francisca Mwaipopo <no-speech> (()) tunakuhitaji jamani .	then came the man after Francisca Mwaipopo (()) we require you my dear .
+<96>	(313.113-317.890)	(()) <no-speech>	(())
+<97>	(317.890-322.904)	<sta> basi mwanamume ni (()) yangu mpaka (()) zangu .	well a man is (()) mine until (()) mine .
+<98>	(322.904-326.765)	tunaenda (()) <sta> mwanamume tuna show .	we are going (()) man we have a show .
+<99>	(326.765-334.050)	hiyo mtu -- hiyo (()) <sta> najivuruta naenda mwanamume mwanamume naenda .	this person -- this (()) I am dragging myself I am going man man I am going .
+<100>	(334.050-336.315)	<no-speech>	<no-speech>
+<101>	(336.315-339.932)	<sta> kufika sehemu wanaume nikalala chini na wenzangu wamelala .	to reach a place men when I sleep down and my companions have slept .
+<102>	(339.932-342.810)	nikachukua (()) tano nikazishindilia .	I took (()) five and I pressed them .
+<103>	(342.810-354.863)	<sta> shikilia -- shikilia nitoke nika- -- mwanamume <sta> nimelala -- unajua ukitaka kulenga shabaha -- uongo askari watajua askari wale watajua .	hold on -- hold on I get out I -- man I have slept -- you know if you want to take an aim -- lies the guards will know those guards will know .
+<104>	(354.863-369.455)	unaogopa tunabana pumzi (()) (()) afande (()) kwani ni lazima ulale ?	when you're afraid we hold breath (()) (()) officer (()) is it a must you sleep ?
+<105>	(369.455-370.417)	<no-speech>	<no-speech>
+<106>	(370.417-371.876)	lazima ulale kwanza .	a must you sleep first .
+<107>	(371.876-375.675)	halafu <sta> natandika vizuri nikalala .	and then I spread my bed well when I sleep .
+<108>	(375.675-386.569)	mwanamume nikalala <no-speech> naanza kuangalia kutoka kwangu namwona (()) hapa ndiyo (()) nawaambia asanteni .	man I sleep I start looking from my side I see (()) here yes (()) I tell you thank you .
+<109>	(386.569-394.920)	<sta> naangalia (()) ya kwangu (()) mwanamume .	I look (()) of my side (()) man .
+<110>	(394.920-404.662)	<sta> hata tukapigwa hatua tuliyopiga <no-speech> <no-speech> mimi nikapigania ahh nikaenda pembeni .	even if we take the step that we have taken I fought for ahh I went to the corner .
+<111>	(404.662-406.580)	<no-speech>	<no-speech>
+<112>	(406.580-407.737)	<sta> piga ya nne .	take the forth .
+<113>	(407.737-409.079)	<no-speech>	<no-speech>
+<114>	(409.079-410.401)	ikabaki hii moja .	it will remain this one .
+<115>	(410.401-415.381)	watu wanauliza (()) eh afande kapteni .	people are asking (()) yes officer captain .
+<116>	(415.381-429.947)	afande (()) ongea na (()) <sta> (()) <no-speech> imeshika kobole yangu afande .	yes sir (()) talk with (()) (()) it has caught my five shillings yes sir .
+<117>	(429.947-430.850)	<no-speech>	<no-speech>
+<118>	(430.850-435.980)	<sta> umekosa zote nne <no-speech> umebakisha moja lakini iko humu .	you missed all four you have one left but it's in here .
+<119>	(435.980-439.525)	<sta> eh afande alibadilika sura ilikuwa kama ni ya mamba .	yes sir his face changed it was like a crocodile .
+<120>	(439.525-446.280)	na jua ukimwangalia kwa karibu <sta> sura yake inakuwa (()) na ukizidi kusongea karibu mamba ndiyo huyu hapa .	I know if you look at him closely his face has (()) and if you go nearer this here is the crocodile .
+<121>	(446.280-447.350)	<no-speech>	<no-speech>
+<122>	(447.350-452.876)	<sta> kama taratibu vilivyo (()) Kipara utaweza kujiua mara moja .	like procedures are (()) bald head you can kill yourself at once .
+<123>	(452.876-454.993)	nenda nyuma (()) ahh .	go back (()) ahh .
+<124>	(454.993-461.910)	unajua (()) -- (()) risasi iliyobaki pale moja kwanza ile bunduki <no-speech> tukaikamata .	you know (()) -- (()) one bullet was left there first then we got the gun .
+<125>	(461.910-464.927)	(()) ipo .	(()) it's there .
+<126>	(464.927-469.320)	kazi kwenu kimbelembele naiangalia naiona ipo .	the job is yours I can see you have pride .
+<127>	(469.320-470.602)	wanaume ni wanyonge hivi ?	men are this weak ?
+<128>	(470.602-471.268)	ugh .	ugh .
+<129>	(471.268-476.070)	wale ndugu zangu (()) -- (()) wenzio -- wanalia .	those brothers of mine (()) -- (()) your companions -- are crying .
+<130>	(476.070-481.532)	<sta> (()) tulikupenda lakini Mungu akakupenda zaidi .	(()) we loved you but God loved you more .
+<131>	(481.532-484.900)	Mungu wakati roho mbaya ndiyo amenifanya nijiue .	God when my heart was bad that's when he made me kill myself .
+<132>	(484.900-491.113)	<sta> basi mwanamume nikakamurder <no-speech> naingia zangu nyumba kwa (()) wanasubiria .	then man I murdered him I entered my house to (()) they were waiting .
+<133>	(491.113-497.120)	muda wowote tuitwe tukachukue maiti <sta> baada ya dakika mbili unasikia pu .	any time should we be taken to death after two minutes you hear it .
+<134>	(497.120-503.180)	<sta> weka moja (()) .	put one (()) .
+<135>	(503.180-504.772)	<sta> vaa rudi .	come back wear .
+<136>	(504.772-507.790)	wa- -- wa kwake wananiuliza kuja kuja nini ?	of -- of his place are asking come come what ?
+<137>	(507.790-510.060)	(()) si nimekwambia ujiue ?	(()) I have told you to kill yourself ?
+<138>	(510.060-513.270)	<sta> kwenda huko hapa ni wewe U mzimu .	go there here it's you who is mad .
+<139>	(513.270-515.718)	<sta> nikamwambia afande ni nini moyoni .	I told the police what is in the heart .
+<140>	(515.718-518.204)	(()) sasa mbona hujajiua <breath> ?	(()) now why haven't you killed yourself ?
+<141>	(518.204-519.990)	hujajipiga risasi ?	you haven't shot yourself ?
+<142>	(519.990-527.657)	nikamwambia afande nishakwambia nyinyi ile moja imebaki (()) ukishajipiga nimelikosa sina shabaha .	I told the police I have told you that one has remained (()) after you shoot yourself I miss it I don't have an aim .
+<143>	(527.657-533.590)	<no-speech>	<no-speech>
+<144>	(533.590-534.610)	<sta> unaniona sikuoni .	you see me I don't see you .
+<145>	(534.610-536.095)	unajua nyeti wewe .	you know sensitivity you .
+<146>	(536.095-538.920)	mimi hapa mwenyewe (()) wa nyeti .	me here myself (()) of sensitivity .
+<147>	(538.920-540.234)	<sta> (()) wa nyeti .	(()) of sensitivity .
+<148>	(540.234-541.607)	<no-speech>	<no-speech>
+<149>	(541.607-554.213)	yakhe salama <no-speech> (()) <sta> (()) <sta> yakhe salama .	comrade secure (()) (()) comrade secure .
+<150>	(554.213-555.890)	<no-speech>	<no-speech>
+<151>	(555.890-559.990)	sadakta (()) tunakwambia (()) .	fine (()) we're telling you (()) .
+<152>	(559.990-566.204)	<sta> wanakwambia maanake ya kwamba aliyekula karo ya wateja kukaoza yakhe .	they are telling you because the one who used the customers fees his got rotten .
+<153>	(566.204-568.260)	<no-speech>	<no-speech>
+<154>	(568.260-571.639)	<sta> eh maana asiye na lake (()) freshy .	yes because he doesn't have his (()) fresh .
+<155>	(571.639-572.690)	<no-speech>	<no-speech>
+<156>	(572.690-583.850)	<sta> wanawapatia kula unga (()) <sta> ana maana ya kwamba yakhe katika mtu huyo ukimkamata usimpige (()) apeleke polisi yakhe .	they are giving them to eat drugs (()) he has the meaning that comrade in that person if you catch him don't beat him (()) take to the police comrade .
+<157>	(583.850-589.396)	<sta> huyo askari ametoka hapa <no-speech> yeye (()) toka kuua pia hapa .	that policeman has come from here he (()) from killing also here .
+<158>	(589.396-590.320)	<no-speech>	<no-speech>
+<159>	(590.320-606.275)	(()) (()) <no-speech> (()) <no-speech> dada mzigo mzima wewe .	(()) (()) (()) sister you are a full weight .
+<160>	(606.275-607.233)	<no-speech>	<no-speech>
+<161>	(607.233-630.460)	wewe mwenyewe askari lakini (()) usiojua wewe <no-speech> yenyewe kuna vitu vingine bwana <sta> welcome (()) unajua kuna vitu (()) <sta> (()) nini (()) <no-speech> (()) ?	you are a policeman yourself but (()) what you don't know is that there are other things mister welcome (()) you know there are things (()) and (()) (()) ?
+<162>	(630.460-631.830)	<no-speech>	<no-speech>
+<163>	(631.830-632.795)	tuna uvumi jamani ?	don't we speculate surely ?
+<164>	(632.795-633.892)	hapana .	no .
+<165>	(633.892-634.932)	tuna uvumi (()) tena ?	we're speculating (()) again ?
+<166>	(634.932-635.700)	hapana .	no .
+<167>	(635.700-640.198)	(()) <sta> asanteni sana (()) mama yangu .	(()) thank you very much (()) my mother .
+<168>	(640.198-641.822)	<no-speech>	<no-speech>
+<169>	(641.822-648.499)	hapo naweka Sogoro pembeni rungu pembeni <sta> (()) tutafanya nini sa hii nywele (()) .	I'll put the bow and club at a corner (()) what will we do at this time the hair is (()) .
+<170>	(648.499-649.527)	<no-speech>	<no-speech>
+<171>	(649.527-652.562)	umeenda kuweka (()) twendeni tena (()) au sio .	you have gone to put (()) let's go again (()) or not so .
+<172>	(652.562-654.317)	<no-speech>	<no-speech>

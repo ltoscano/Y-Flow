@@ -1,0 +1,82 @@
+0.000	inLine	<no-speech>
+0.000	outLine	<no-speech>
+0.520	inLine	na ujue ni nani ataomba ndiyo i- -- ufike .
+3.670	inLine	<no-speech>
+3.850	outLine	ehhe .
+4.620	outLine	<no-speech>
+5.170	inLine	ohh .
+6.050	inLine	<no-speech>
+7.390	outLine	ehhe mnaendea <int> aje ?
+8.700	outLine	<no-speech>
+9.530	inLine	ahh mi niko poa .
+10.900	inLine	<no-speech>
+11.040	outLine	<int> ile siku nikakwambia ukuje siku hio ingine mbona hukukuja ?
+14.290	outLine	<no-speech>
+15.460	inLine	ahh .
+16.002	inLine	imagine nilisahau .
+18.030	outLine	<int> ehhe ?
+18.170	inLine	<no-speech>
+19.150	outLine	<no-speech>
+19.570	inLine	ehhe .
+20.307	inLine	job ina pressure pressure hivi hata nilikuwa nataka kuliza kama nikuje kesho .
+24.360	inLine	<no-speech>
+25.200	outLine	kesho ?
+25.900	outLine	<no-speech>
+26.670	inLine	ehhe .
+27.380	inLine	<no-speech>
+27.450	outLine	kesho sitaweza kesho ninaenda chama ingine ya wamama mi hukuwa na tunaenda mpaka na huko Ruai .
+32.320	outLine	<no-speech>
+33.530	inLine	ohh mnakuja Ruai ?
+35.200	outLine	ehhe .
+35.210	inLine	<no-speech>
+36.030	outLine	<no-speech>
+36.320	inLine	mtatoka saa ngapi ?
+37.680	inLine	<no-speech>
+38.480	outLine	huku ?
+39.140	outLine	<no-speech>
+40.000	inLine	ehhe .
+40.630	inLine	<no-speech>
+41.040	outLine	huku ama Ruai ?
+42.180	outLine	<no-speech>
+42.790	inLine	ahh utakuja Ruai saa ngapi ?
+44.800	inLine	<no-speech>
+45.230	outLine	kitu saa saba hivi .
+46.650	outLine	<no-speech>
+47.270	inLine	ohh halafu unatoka saa ngapi ?
+49.630	outLine	<sta> kitu saa kumi hivi saa kumi na- -- ehhe saa kumi na moja sitaki itupate huko .
+49.830	inLine	<no-speech>
+54.025	outLine	<no-speech>
+55.270	inLine	ohh maybe .
+55.420	outLine	si unaona huko ni mbali ?
+56.640	inLine	<no-speech>
+57.380	outLine	<no-speech>
+57.560	inLine	enyewe ni %incomplete
+58.292	inLine	ahh lakini gari huwa hazikosi .
+60.200	inLine	<no-speech>
+60.330	outLine	<sta> ehhe ?
+60.982	outLine	<no-speech>
+61.530	inLine	<sta> huko ehhe kutoka huku kwenda huko ni haraka sana u- -- gari huwa hazikosi .
+62.060	outLine	<no-speech>
+66.050	inLine	<no-speech>
+66.380	outLine	ehhe na kutoka huko kurudi huku ?
+68.270	outLine	<no-speech>
+69.020	inLine	ehhe ?
+69.590	inLine	<no-speech>
+69.960	outLine	kutoka huko Ruai kurudi huku ?
+71.800	outLine	<no-speech>
+72.650	inLine	kutoka huko Ruai kurudi huku ?
+74.268	inLine	<no-speech>
+74.280	outLine	ehhe .
+74.940	outLine	<no-speech>
+75.128	inLine	huko kwenu ?
+75.937	inLine	si ndiyo nakwambia gari huwa hazikosi ziko .
+76.190	outLine	ehhe .
+76.640	outLine	<no-speech>
+78.550	inLine	<no-speech>
+78.900	outLine	ohh .
+80.071	outLine	haya nitakwambia na- -- kwa sababu hata mahali naenda si ati ni mahali tunajua ni mtu mmoja ndiyo anajua so tu- -- ndiyo tunaona tutatoka tu hapa mapema tukiwa wote .
+80.370	inLine	mmhm .
+81.220	inLine	<no-speech>
+86.830	inLine	<no-speech>
+87.250	inLine	<no-speech>
+89.020

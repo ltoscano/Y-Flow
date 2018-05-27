@@ -1,0 +1,116 @@
+<1>	(0.000-1.807)	<no-speech>	<no-speech>
+<2>	(1.807-12.740)	<sta> dito sa psychiatric department ng Armed Forces of the Philippines Medical Center sa Quezon <sta> city ginagamot ang mga sundalong nagkaroon ng problema ng pag-iisip bunsod ng trauma sa bakbakan .	here in the psychiatric department of the Armed Forces of the Philippines Medical Center in Quezon City the soldiers who have mental problems due to trauma from fighting are being treated .
+<3>	(12.740-18.320)	<sta> ngunit hindi lahat ng naaapektuhan sa giyera nakakulong sa apat na sulok ng mga silid na ito .	however not all affected by war are confined in these four corners .
+<4>	(18.320-19.776)	<no-speech>	<no-speech>
+<5>	(19.776-26.220)	<sta> ang iba dala-dala pa rin ang pait ng nakalipas maging sa pang-araw-araw nilang buhay sa kasalukuyan .	others still bring the bitterness of the past even in their daily lives at present .
+<6>	(26.220-31.230)	<sta> isa na dito si Nestor Buico isang scout ranger mula Iloilo .	one is Nestor Buico a scout ranger from Iloilo .
+<7>	(31.230-32.649)	<no-speech>	<no-speech>
+<8>	(32.649-41.680)	mahigit dalawampung taon na ang nakalipas mula <sta> noong siya'y madestino sa Basilan para makipagbakbakan laban sa M_I_L_F o Moro Islamic Liberation Front .	more than twenty years have passed since he was assigned in Basilan to fight against the M_I_L_F or Moro Islamic Liberation Front .
+<9>	(41.680-44.669)	<no-speech>	<no-speech>
+<10>	(44.669-48.630)	dito raw niya naranasan ang sunod-sunod na bangungot sa kaniyang buhay .	here he experienced consecutive nightmares in his life .
+<11>	(48.630-53.413)	<sta> (()) .	(()) .
+<12>	(53.413-60.443)	sa kalagitnaan ng kanilang pakikipaglaban <sta> nasaksihan daw niya mismo kung paano dinakip at nilapastangan ang kaniyang kasamahan .	in the midst of their fight he himself witnessed how his colleagues were caught and defiled .
+<13>	(60.443-61.253)	<no-speech>	<no-speech>
+<14>	(61.253-62.525)	binanatan sila .	they were stricken in full force .
+<15>	(62.525-66.893)	pinadapa muna <sta> bago <hes> binira at 'tsaka pinugutan ng ulo .	told to lie on the stomach first before pulling and decapitated his head .
+<16>	(66.893-68.564)	<no-speech>	<no-speech>
+<17>	(68.564-72.820)	hindi lang impiyerno ang tingin kasi nila ng tao parang <hes> baboy na eh .	not only hell they see the person as pig already .
+<18>	(72.820-76.520)	<sta> 'pag pumatay <no-speech> walang kaluluwa .	when they kill they have no souls .
+<19>	(76.520-77.538)	<no-speech>	<no-speech>
+<20>	(77.538-81.335)	<sta> ngunit tila hindi rito nagtapos ang kaniyang malalagim na karanasan .	but it seemed his ghastly experience did not stop here .
+<21>	(81.335-84.180)	<int> kaya may kasama kaming nagpakamatay .	so we have colleagues who committed suicide .
+<22>	(84.180-89.540)	<int> <sta> binaril 'yong kasama namin dahil sa <hes> tagal nila hong mag- -- mag-ano na rin .	one of our colleagues was shot because of it take them long to -- to what .
+<23>	(89.540-91.347)	<sta> bale dalawa bago nagpakamatay siya .	to sum up two before he committed suicide .
+<24>	(91.347-92.167)	<no-speech>	<no-speech>
+<25>	(92.167-99.211)	dahil hindi na raw niya kinaya ang lahat ng kaniyang pinagdadaanan mas pinili na lamang niyang talikuran <sta> na ang serbisyo militar <no-speech> .	because he was not able to bear all he was going through so he had just chosen to leave the military service behind .
+<26>	(99.211-101.004)	siyempre ang dami ka ng iniisip eh .	of course because you are thinking of so many things .
+<27>	(101.004-102.918)	ang tingin mo sa kasama mo na kalaban na .	you see your comrades as your enemies already .
+<28>	(102.918-104.190)	<no-speech>	<no-speech>
+<29>	(104.190-108.688)	<sta> (()) no'ng nagkaroon ako ng sabi n'yo na na-war shock .	(()) when I got a what you said was war-shocked .
+<30>	(108.688-111.080)	oo kaya no'ng kuwan pinalitan nila ako .	yes so in the past they replaced me .
+<31>	(111.080-113.238)	<no-speech>	<no-speech>
+<32>	(113.238-121.942)	<sta> bukod sa mental na aspeto ang pisikal na pangangatawan ng ating mga sundalo ang madalas na naaapektuhan sa <sta> pagtupad sa kanilang sinumpaang tungkulin .	aside from the mental aspect the physical bodies of our soldiers are often affected in fulfilling their pledged duty .
+<33>	(121.942-124.990)	<no-speech>	<no-speech>
+<34>	(124.990-125.699)	<sta> gumanti sir .	retaliated sir .
+<35>	(125.699-126.852)	gumanti 'yong kalaban .	the enemies retaliated .
+<36>	(126.852-131.201)	sa bawat bakbakan tila kakambal na nila ang kapahamakan .	for every scrimmage it seems like harm is already their twin .
+<37>	(131.201-133.400)	<no-speech>	<no-speech>
+<38>	(133.400-139.840)	<sta> naiwasan man si kamatayan hindi nakaligtas ang ilan sa kanila sa bala at iba pang- -- armas ng kalaban .	death may be avoided but some of them were not able to avoid bullets and other -- weapons of the enemy .
+<39>	(139.840-144.450)	<sta> WIA o wounded in action ang tawag sa mga sundalong umuuwing sugatan .	soldiers who go home injured are called wia or wounded in action .
+<40>	(144.450-150.410)	<no-speech>	<no-speech>
+<41>	(150.410-153.610)	<sta> ito ang heroes' ward ng A_F_P Medical Center .	this is the heroes' ward of the A_F_P Medical Center .
+<42>	(153.610-156.732)	dito ginagamot ang <sta> mga sundalong nasusugatan sa bakbakan .	soldiers injured in battle are treated here .
+<43>	(156.732-162.180)	sa ngayon mayro'n itong apatnapung pasyente at ang ilan sa kanila ay <int> magdadalawang taon na rito .	currently it has forty patients and some of them have been here for almost two years .
+<44>	(162.180-163.796)	<no-speech>	<no-speech>
+<45>	(163.796-165.500)	<sta> iba-iba ang kaso rito .	the cases here are different .
+<46>	(165.500-169.822)	mayro'ng mga tinamaan ng bala <no-speech> pati mga nasabugan ng bomba .	there are some who were hit by bullet even those hit by a bomb .
+<47>	(169.822-170.950)	<no-speech>	<no-speech>
+<48>	(170.950-174.220)	<sta> gaya na lamang ni lieutenant Leemuel Manicdo ng army .	just like Lieutenant Leemuel Manicdo of the army .
+<49>	(174.220-180.450)	<int> <sta> nadurog ang kaniyang tuhod at mga buto sa paa matapos masabugan ang sasakyan nila sa Maguindanao .	his knee and bones in the feet were crushed after their vehicle was bombed in Maguindanao .
+<50>	(180.450-182.064)	<sta> biglang may sumabog .	suddenly something exploded .
+<51>	(182.064-182.718)	<no-speech>	<no-speech>
+<52>	(182.718-186.465)	so initially ang akala ko ano eh parang <hes> inambush kami .	so initially I thought that it was like we were ambushed .
+<53>	(186.465-187.300)	okay .	okay .
+<54>	(187.300-193.950)	so <hes> -- so kaya no'ng pagkatapos no'ng incident ang inexpect namin na <int> ano na <hes> magkakaroon ng firefight .	so -- so after the incident we expected that uh there will be a firefight .
+<55>	(193.950-196.365)	traumatic talaga din 'yong pangyayari kung tutuusin mo eh .	the incident is really traumatic if you consider .
+<56>	(196.365-201.097)	<int> kumbaga nasabugan kayo ng gano'n ano tapos namatayan ka pa ng kasama mo .	it's like you were hit by an explosion like that and then you lost your companions .
+<57>	(201.097-202.620)	kumbaga masakit rin para sa 'yo ma'am eh .	it's like it's also painful for you ma'am .
+<58>	(202.620-207.797)	(()) .	(()) .
+<59>	(207.797-211.290)	<sta> apat na buwan na siyang ginagamot dito sa heroes' ward .	he is being treated here in heroes' ward for four months already .
+<60>	(211.290-214.896)	<sta> despite what happened to you are you still willing to go back to the service ?	despite what happened to you are you still willing to go back to the service ?
+<61>	(214.896-223.360)	well unang-una siyempre ano <hes> nanghihinayang ka din kahit papaano <sta> pero siguro may mga bagay kasi sa mga buhay natin na ano eh .	well first of all of course uh you still regret somehow but maybe there are things in our life that are uh .
+<62>	(223.360-226.044)	<sta> kumbaga dahil hindi natin alam 'yong future .	you might say it's because we don't know the future .
+<63>	(226.044-230.000)	'di ba Diyos lang naman ang mas nakakaalam niyan kung anong plano niya para sa atin ?	isn't it that it is only God who better knows his plan for us ?
+<64>	(230.000-235.642)	<sta> kumbaga (()) tamang perspective lang sa buhay kung papa'no mo tatanggapin 'yong mga bagong circumstances sa buhay mo .	you might say (()) just a right perspective in life on how you accept the new circumstances in your life .
+<65>	(235.642-238.280)	<no-speech>	<no-speech>
+<66>	(238.280-249.500)	<sta> ngunit tila mapalad pang- -- maituturing si Leemuel sapagkat ang kasama naman niya sa heroes' ward na si Renan isang private first class ng A_F_P <sta> naputulan naman ng paa at durog ang mga buto sa kanang paa .	but it seems lucky -- Leemuel is considered lucky since his companion in the heroes' ward Renan a private first class of the A_F_P had his foot amputated and the bones in his right foot crushed .
+<67>	(249.500-250.841)	<no-speech>	<no-speech>
+<68>	(250.841-257.310)	<int> nasabugan kasi siya at ilan pang- -- kasamahan ng land mine habang tinutugis nila ang mga <sta> kalaban sa Surigao del Sur .	that's because he was bombed along with his comrades in the land mine while being haunted by their enemies in Surigao del Sur .
+<69>	(257.310-267.750)	masakit din sa kalooban namin ma'am pero <no-speech> tinanggap na lang namin kasi <no-speech> ito 'pag kapalaran talaga siguro pagsubok lang ng panginoon .	it also hurts our feelings Ma'am but we had to accept it because if it's really fate it's just a test of God .
+<70>	(267.750-274.580)	eh tanggap na lang ma'am kasi masuwerte pa rin kami kasi buhay <no-speech> 'di gaya ng iba na namatay talaga .	just accept it Ma'am because we're also fortunate in life unlike those who really died .
+<71>	(274.580-280.130)	<sta> matapos ang mahigit isang taon patuloy na nakikipaglaban si officer Villarino .	after more than one year Officer Villarino continues to fight .
+<72>	(280.130-284.450)	<sta> hanggang ngayon kasi iniinda pa rin niya ang sakit mula sa mga tinamong sugat .	because until now he's still feeling the pain from the wounds he received .
+<73>	(284.450-286.857)	<sta> ngayon ba natanggap mo na 'yong nangyari sa 'yo ?	do you now accept what happened to you ?
+<74>	(286.857-292.194)	pangarap ko lang talagang maging sundalo ma'am kaya 'di ko na pinagsisihan 'yong anong nangyari sa akin .	I really dreamed of being a soldier Ma'am hence I don't regret what happened to me .
+<75>	(292.194-292.960)	<no-speech>	<no-speech>
+<76>	(292.960-298.672)	<sta> eh kahit saan naman siguro ako magtrabaho ma'am kung ganito lang talaga ang kapalaran ko talaga ito na talaga .	perhaps any where I work ma'am if this really is my fate this is really it .
+<77>	(298.672-306.739)	di mas mabuti na 'to kasi nangyari sa akin ito eh nasa -- no'ng service ako ng kuwan para sa bayan .	this is better because it happened to me while -- when I was in service of um for the country .
+<78>	(306.739-308.800)	<no-speech>	<no-speech>
+<79>	(308.800-311.333)	<no-speech>	<no-speech>
+<80>	(311.333-316.750)	<sta> maituturing man ngayon may kapansanan na si officer Villarino nananatili siyang matatag .	even now that Officer Villarino is handicapped he remains firm .
+<81>	(316.750-323.589)	<sta> (()) gustong-gusto ko talaga bumalik din sa serbisyo kasi pa'no na lang kung wala na akong trabaho ma'am ?	(()) I really want to go back in service because what happens when I no longer have a job Ma'am ?
+<82>	(323.589-326.129)	wala na akong ibubuhay sa <sta> sarili ko .	I won't have anything to sustain myself .
+<83>	(326.129-329.111)	'di na ako makatulong sa pamilya ko .	I can no longer help my family .
+<84>	(329.111-336.310)	kaya <sta> kung mawalan ako ng trabaho'y <no-speech> parang maging pabigat na rin ako sa pamilya ko ma'am <int> .	that's why if I lose my job I will be a burden to my family Ma'am .
+<85>	(336.310-337.480)	<no-speech>	<no-speech>
+<86>	(337.480-345.597)	<sta> pero aminado siya na sa ngayon <sta> higit sa pisikal niyang kalagayan natatakot siyang baka bigla na lang siyang tanggalin sa serbisyo dahil sa kaniyang kapansanan .	but he's admitted that at present more than his physical condition he's scared that he might be removed from service because of his disability .
+<87>	(345.597-349.803)	sana hindi kami bitawan <sta> ng A_F_P ma'am ba .	I hope the A_F_P doesn't let go of us ma'am .
+<88>	(349.803-356.290)	sana patuloy pa rin kami na bigyan ng kahit <no-speech> paano ang mga trabaho lang na kaya namin ma'am .	I hope they continue to give us something at least a job that we can do ma'am .
+<89>	(356.290-361.621)	<sta> kasi 'yon naman talaga 'yong pangarap namin na magkatrabaho makatulong sa pamilya namin .	because that's really our goal to have a job and help our family .
+<90>	(361.621-374.517)	ayon sa section two ng republic act seventy six ninety six <sta> ang mga beteranong <int> nasugatan habang nasa serbisyo ay maaaring makakuha hanggang one thousand seven hundred pesos kada buwan <sta> depende kung gaano kalala ang kanilang pinsala .	according to section two of republic act seventy-six ninety-six veterans wounded while in service can get up to one thousand seven hundred pesos every month depending on how serious their injury is .
+<91>	(374.517-380.900)	ngunit para sa dating sundalo at ngayo'y senador Antonio Trillanes the fourth tila kulang ang mga benepisyong ito .	but for the former soldier and present senator Antonio Trillanes the fourth these benefits are insufficient .
+<92>	(380.900-387.916)	<sta> kulang ang <hes> ganyang benepisyo kasi pagka naputulan ka ng mga ganiyan mga limbs kabuhayan eh for a lifetime .	those benefits are insufficient because if your limbs get cut off it's for a lifetime .
+<93>	(387.916-393.194)	hindi ka na makakapag- -- <hes> -- <sta> makakapagtrabaho o very limited na lang 'yong opening n'yo .	you won't -- be able to work or the openings will be very limited for you .
+<94>	(393.194-399.635)	kailangan ma- -- <hes> bigyan siya ng compensation na as if productive pa <sta> rin siya na citizen .	must -- be given compensation as if he's still a productive citizen .
+<95>	(399.635-410.960)	kaya nga <hes> ito tinutulak natin ni-lo-lobby natin na <hes> madagdagan <sta> pa ng madagdagan 'yong mga benepisyo ng ating mga sundalo mga mga beterano <sta> at mga <hes> retirees .	that is why we continue to push and lobby to have additional benefits for our veteran soldiers and retirees .
+<96>	(410.960-413.203)	<sta> talagang hindi <hes> -- hindi maganda ano ?	it's not really -- not good right ?
+<97>	(413.203-423.761)	isang segment ng ating lipunan 'no na <hes> nagbubuwis ng buhay para magkaroon tayo ng <hes> ganito ng peaceful <hes> living sa iba't ibang lugar sa ating bansa .	a segment of our society that stakes their lives just for us to have a peaceful living in the different places of our country .
+<98>	(423.761-424.880)	<no-speech>	<no-speech>
+<99>	(424.880-435.720)	<sta> sa kasalukuyan ang mga sundalo na wounded in action ay ginagawaran ng honorable dismissal <sta> ayon na rin sa mga alituntunin at pamantayan ng Armed Forces of the Philippines <int> .	at present the soldiers who are wounded in action are awarded with honorable dismissal also according to our rules and standards in the Armed Forces of the Philippines .
+<100>	(435.720-449.520)	<sta> ang mga sundalong mapatunayan na wala ng sapat na kakayanan na magsilbi dahil na rin sa kanilang natamong kapansanan ay makatatanggap na lang <sta> ng pension buwan-buwan na nagkakahalaga ng mula one thousand hanggang one thousand seven hundred pesos .	soldiers who are proved to no longer have enough capabilities to serve because of the acquired disability will receive a monthly pension instead that will amount up to one thousand seven hundred pesos .
+<101>	(449.520-451.541)	<no-speech>	<no-speech>
+<102>	(451.541-460.018)	<sta> samantala bilang bahagi na rin ng hakbang sa debriefing ng mga sundalong sumabak <int> sa giyera sinamahan <sta> namin ang scout ranger na si sargeant Estor sa isang psychologist .	meanwhile as part of the step of debriefing of soldiers who fought in the war we accompanied the scout ranger Sargeant Estor to a psychologist .
+<103>	(460.018-463.609)	mayro'n ka lang isang karanasan na <sta> 'di makalimutan %incomplete	you'll only have one experience that you won't forget %incomplete
+<104>	(463.609-466.363)	hindi makalimutan sa sobrang tindi %incomplete	unforgettable because of the intensity %incomplete
+<105>	(466.363-466.796)	matindi nga .	really intense .
+<106>	(466.796-476.826)	bayolente gano'n na <hes> <sta> kahit wala na 'yong <hes> <int> sitwasyon na 'yon <sta> naaalala mo pa rin siya kahit hindi ma- -- automatic <sta> recollection .	violent or likes despite of not being in the situation you'll still recall it even if it's not -- automatic recollection .
+<107>	(476.826-481.231)	basically he's on the right track kasi inaalagaan niya 'yong sarili niya eh .	basically he's on the right track because he's taking acre of himself .
+<108>	(481.231-485.477)	pangalawa ang maganda sa kaniya <sta> he really speaks out <no-speech> 'no .	second what's really good about him is he really speaks out right .
+<109>	(485.477-490.180)	so nasasabi niya nasasambit niya 'yong <hes> pinagmulan ng trauma niya .	so he can say where his trauma is coming from .
+<110>	(490.180-498.873)	<sta> ang kailangan niya is to put himself in a different place na hindi niya maaalala 'yong <hes> <sta> nangyari sa kaniya -- sa kanila .	what he needs is to put himself in a different place where he won't remember what happened to him -- to them .
+<111>	(498.873-501.466)	<no-speech>	<no-speech>
+<112>	(501.466-514.890)	iba-iba man ang pinsalang natamo sa isip man o sa katawan <sta> tila walang bahid ng pagsisisi ang mga nakilala naming sundalo <no-speech> <sta> at lahat handa pa ring sumabak sa bakbakan sa ngalan ng kapayapaan .	different injuries might have been acquired in mind or in body but there's no stain of regret from the soldiers we met and all are still prepared to fight in the war in the name of peace .
+<113>	(514.890-517.350)	<no-speech>	<no-speech>
+<114>	(517.350-525.230)	<sta> mapa-mental man o pisikal hindi biro ang pinagdadaanan at iniinda ng ating mga sundalong nakikipaglaban para sa bayan .	may it be mentally or physically the experience and difficulties of our soldiers in fighting for our country is not a joke .
+<115>	(525.230-533.880)	<sta> bagamat sa ngayon natutugunan ng pamahalaan ang kanilang pangangailangan hiling pa rin nila na sana'y hindi naman sila pabayaan hanggang sa huli nilang laban .	although at present the government are providing for their needs they still wish that that they won't be abandoned until their last fight .
+<116>	(533.880-535.762)	patuloy na magbabantay sa mga ~ %incomplete	continue guarding the %incomplete

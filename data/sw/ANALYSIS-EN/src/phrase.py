@@ -1,4 +1,4 @@
-import os
+import os, io
 import json
 import argparse
 from collections import OrderedDict
@@ -48,6 +48,7 @@ parser.add_argument("--src_align", type=str, default='', help="Reload source ali
 parser.add_argument("--tgt_align", type=str, default='', help="Reload target alignments")
 
 parser.add_argument("--normalize_embeddings", type=str, default="", help="Normalize embeddings before training")
+parser.add_argument("--query_coeff", type=float, default=0, help="coefficient between query and muse expansion")
 
 
 # parse parameters
@@ -59,6 +60,13 @@ assert params.dico_train in ["identical_char", "default"] or os.path.isfile(para
 assert params.dico_build in ["S2T", "T2S", "S2T|T2S", "S2T&T2S"]
 assert params.dico_max_size == 0 or params.dico_max_size < params.dico_max_rank
 assert params.dico_max_size == 0 or params.dico_max_size > params.dico_min_size
+def softmax(x):
+    """Compute softmax values for each sets of scores in x."""
+    e_x = np.exp(x - np.max(x))
+    return e_x / e_x.sum()
+print('loading word vectors')
+word_vectors = KeyedVectors.load_word2vec_format('/data/projects/material/eval/Y-Flow/data/fastext/wiki.en.vec', binary=False, limit=10)
+vocabs = word_vectors.vocab.keys()
 print('generating Indri query format ..')
 out = open(params.tquery,'w')
 out.write("<parameters>\n")
@@ -95,8 +103,27 @@ with open(params.query) as f:
         for phrase in phrases:
             out.write("#1({})".format(phrase))
             out.write('\n')
+        vocab_words = []
+        for word in words:
+            if word in vocabs:
+                vocab_words.append(word)
+        if vocab_words:
+            word_sim = word_vectors.most_similar(positive=vocab_words)[:10]
+            new_words = [x[0] for x in word_sim]
+            weights = np.array([x[1] for x in word_sim])
+        else:
+            new_words = []
+        #weights = softmax(weights)
         for word in words:
             out.write(word+"\n")
+        out.write('#wsum(\n')
+        #for word in words:
+        #    out.write(str(params.query_coeff)+' '+word+"\n")
+        j = 0
+        for new_word in new_words:
+            out.write(str(weights[j]*(1.0-params.query_coeff))+' '+str(new_word)+"\n")
+            j+=1
+        out.write(')\n')
         out.write(")\n")
         out.write("</text>\n")
         out.write("</query>\n")

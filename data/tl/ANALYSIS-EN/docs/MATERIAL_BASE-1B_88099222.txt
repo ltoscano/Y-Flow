@@ -1,0 +1,97 @@
+<1>	(0.000-1.726)	hotline at opinyon .	hotline and opinion .
+<2>	(1.726-10.570)	hot issue ang napabalitang mas malakas daw na klase ng human immune deficiency virus o H_I_V na dumating na raw sa bansa mula sa Thailand .	considered a hot issue is the news regarding a strong type of human immune deficiency virus or H_I_V that has allegedly entered the country from Thailand .
+<3>	(10.570-22.260)	lumabas daw sa pag-aaral ng national institute of health na karamihan sa mga nagkakasakit ngayon ng H_I_V ay may Thai strain ng virus na C_R_F_O one A_E .	a study of the National Institute of Health shows that many people affected with H_I_V has Thai strain which is C_R_F_O one A_E .
+<4>	(22.260-27.530)	mas madali raw itong lumala at maging Acquired Immunodeficiency Syndrome o AIDS .	this gets worse faster and become Acquired Immunodeficiency Syndrome or AIDS .
+<5>	(27.530-35.730)	sa katawan ng isang normal na tao may limang daang C_D four lymphocytes o klase ng white blood cells na kumokontra sa sakit .	in the body of a normal human being there are five hundred C_D four lymphocytes or a class of white blood cells that counters the disease .
+<6>	(35.730-45.300)	pero sa isang tao na may U_S European strain ng H_I_V three hundred fifty lang ang C_D four lymphocytes .	but for one person that has U_S European strain for H_I_V there are only three hundred and fifty C_D four lymphocytes .
+<7>	(45.300-55.352)	kapag may Thai strain naman ang virus <sta> mas pinabababa ang white blood cells na ito sa two hundred thirty three kaya bumibilis din ang paglala ng sakit .	when the virus has Thai strain it lowers the white blood cells to two hundred and thirty-three and that is why the disease spreads faster .
+<8>	(55.352-65.420)	ito rin daw ang posibleng dahilan kung bakit pumalo sa dalawampu't anim ang naitatalang bagong kaso ng H_I_V at AIDS ng D_O_H nito lang twenty sixteen .	this could also be the possible reason why the new cases of H_I_V and AIDS reached twenty-six as recorded by the D_O_H only this two thousand and sixteen .
+<9>	(65.420-73.009)	para mas malinawan tayo tungkol sa hot isyu na 'yan makausap natin sa linya ng telepono si Assistant Secretary Eric Tayag ng D_O_H .	for more clarification regarding this hot issue we will talk in the line with Assistant Secretary Eric Tayag of D_O_H .
+<10>	(73.009-74.577)	magandang tanghali po sir .	good afternoon sir .
+<11>	(74.577-77.600)	<int> Raffy magandang tanghali salamat po .	Raffy good afternoon thank you .
+<12>	(77.600-86.360)	itong strain na C_R_F_O one A_E galing po sa Thailand ano ito at pa'no ito nakapasok sa bansa sir ?	this strain C_R_F_O one A_E that came from Thailand what is this and how did it enter the country sir ?
+<13>	(86.360-122.330)	<hes> una po 'yan ay tinatawag na Thai strain subalit <hes> noong dekada nobenta ay nanggaling po 'yan sa Africa at <hes> kumalat na po sa maraming bahagi ng mundo lalo na dito sa Asya Thailand at sa mga iba pang bansang katabi nito at 'yan ang Pilipinas po ay na may ganiyan na rin pong strain originally po 'yung strain natin ay V ngayon po ay C_R_F_O one AD na po ang nakikita ng mga dalubhasa po diyan at may report sa U_P P_G_H po .	first it is called Thai strain but in the ninety's it was from Africa and spread in many parts of the world especially here in Asia Thailand and other countries nearby the Philippines has this strain originally our strain is V and now C_R_F_O one A_D is being seen by our experts and there is a report by U_P P_G_H .
+<14>	(122.330-124.944)	okay nakapasok na daw po ito ng bansa ?	okay has this entered the country ?
+<15>	(124.944-129.860)	ito ho ba ang dahilan kung bakit biglang dumami ang pasyente ng <hes> H_I_V at AIDS ngayon dito ?	is this the reason why the number of H_I_V and AIDS patients suddenly increased here now ?
+<16>	(129.860-134.069)	<hes> sa pagkakaalam namin <hes> Raffy buti natanong mo 'yan .	as far as we know Raffy it's good that you asked about that .
+<17>	(134.069-136.914)	ang strain na ito ay mabilis makahawa .	this strain is highly contagious .
+<18>	(136.914-140.706)	pangalawa mabilis na <hes> magkaro'n ng AIDS .	second it's quick to get AIDS .
+<19>	(140.706-157.130)	so imbis na sampung taon siguro kalahati na lang limang taon na lang H_I_V tapos magiging AIDS na at <hes> pangatlo may potensiyal na baka 'yung gamot na ginagamit natin ay magiging <no-speech> <hes> resistant na po .	so instead of ten years it will be halved to five years for H_I_V to become AIDS and third there is a possibility that the medicine we use will become resistant .
+<20>	(157.130-159.600)	sa mga gamot na ginagamit po natin .	in the medicine that we use .
+<21>	(159.600-173.411)	ang pagtaas po ng H_I_V natin ay hindi lamang dahil sa strain na 'to kundi sa mababang <hes> prevent -- prevention na maaaring makuha ng ating mga kababayan .	the increase of H_I_V is not only because of this strain but because of the low prevent -- prevention that our countrymen could possibly get .
+<22>	(173.411-174.460)	okey .	okay .
+<23>	(174.460-177.990)	<hes> 'yung mga taong hindi po sexually active .	those people who are not sexually active .
+<24>	(177.990-186.900)	okay posible rin ho ba na mahawahan sila ng H_I_V at <hes> maapektuhan nitong <hes> bagong <hes> H_I_V strain ?	okay is it also possible for them to get infected with H_I_V and be affected by this new H_I_V strain ?
+<25>	(186.900-195.055)	<hes> magandang tanong 'yan Raffy kung personal inject drugs puwede po silang makakuha ng strain na 'yan .	that is a good question Raffy if these are personally injected drugs it is possible for them to get this strain .
+<26>	(195.055-207.580)	sila po 'yung mga nagtuturok po na kung saan 'yung ginamit nila na hiringgilya o karayom ay hindi pinagpapasa-pasahan nila at hindi nila pinapalitan ng bago to .	they are the ones who use injections where in the syringe or needle that they use is not passed around and they don't replace it with a new one .
+<27>	(207.580-211.230)	<hes> so sa mga addict din sir <hes> <overlap> opo puwedeng kumalat din to .	so among addicts too sir yes this can spread too .
+<28>	(211.230-212.590)	tama tama .	right right .
+<29>	(212.590-213.024)	okay .	okay .
+<30>	(213.024-216.870)	<hes> pa'no naman po sa mga blood transfusion sir ?	what about in blood transfusions sir ?
+<31>	(216.870-224.420)	sa blood transfusion bihira 'yan sapagkat <hes> mahigpit tayo sa <hes> screening sa blood transfusion .	this is rare in blood transfusions because we are strict in the screening for blood transfusion .
+<32>	(224.420-239.760)	bagamat <hes> na-report namin 'nong twenty sixteen five hundred fifty 'yung <hes> blood unit na positive sa H_I_V at ito ay hindi na nasama sa supplied date sapagkat <hes> contaminated na nga po .	although we reported in two thousand sixteen that five hundred fifty blood units were positive for H_I_V and these were not included anymore in the supplied date because they were already contaminated .
+<33>	(239.760-240.620)	okey .	okay .
+<34>	(240.620-255.720)	may balita din po <hes> sa Canada na isang lalaki raw po na gumamit ng gamot na Truvada ito po 'yung <hes> para hindi ho kumalat agad 'yung virus ng <hes> H_I_V <hes> mula pa siyang twenty thirteen ano po para makontra nga mapigilan 'yung paglala .	there is also news in Canada that one man allegedly used the drug Truvada this is so that the H_I_V virus will not spread immediately this was since two thousand thirteen to counteract it prevent it from getting worse .
+<35>	(255.720-260.679)	<hes> pero <hes> matapos ang dalawang taon hindi na raw po tumatalab 'yung <hes> gamot .	but after two years the drug allegedly became ineffective .
+<36>	(260.679-262.370)	bakit ho kaya ?	why is that sir ?
+<37>	(262.370-265.020)	binabantayan namin 'yan <hes> Raffy .	we are monitoring that Raffy .
+<38>	(265.020-276.927)	buti nabanggit mo 'yan sapagkat itong Truvada <hes> talagang bidang bida siya for the past three years kasi hindi lamang siya gamot can prevent transmission pa .	it's good that you mentioned that because this Truvada has been popular for the past three years since it's not just a medicine it can also prevent transmission .
+<39>	(276.927-279.990)	kung baga sa ano kulang na lang tawagin siyang bakuna .	it's like we can almost call it a vaccine .
+<40>	(279.990-281.424)	so binabantayan namin 'yan .	so we are monitoring that .
+<41>	(281.424-292.499)	<hes> alam naman natin 'yan na kahit na anong gamot kalaunan ay magiging resistant na rin 'yung <no-speech> bacteria virus at sa <hes> puntong to 'yung H_I_V .	we know that the bacteria virus and at this point H_I_V will eventually become resistant to any drug .
+<42>	(292.499-296.800)	kaya binabantayan namin 'yung pag-aaral na ginagawa .	which is why we lookout for the studies being made .
+<43>	(296.800-297.266)	okay .	okay .
+<44>	(297.266-303.460)	sa ngayon sir ano ho bang gamot ang <hes> ginagamit po ng mga H_I_V infected patients ?	right now sir what medicine is used by H_I_V infected patients ?
+<45>	(303.460-307.130)	para hindi ho lumala at mapunta po sa AIDS ang kanilang sakit .	to avoid worsening and developing of their illness to AIDS .
+<46>	(307.130-307.364)	okay .	okay .
+<47>	(307.364-310.332)	<hes> standard naman po 'yung ginagamit po nila .	they are using the standard .
+<48>	(310.332-323.815)	ang -- ang pinakaimportante dito Raffy kailan magpa-test muna 'yung mga mga kababayan natin na sa palagay nila nasa panganib sila na mahawa sa H_I_V .	what -- what is most important here Raffy is the need for our fellow citizens to get tested first if they think they are in danger of getting infected with H_I_V .
+<49>	(323.815-327.961)	pangalawa pag nagpa-test sila ku- -- kukunin nila 'yung resulta .	secondly once they got tested -- they should retrieve the result .
+<50>	(327.961-332.014)	kasi Raffy may nagpapa-test hindi kinukuha yung resulta <hes> natatakot .	because Raffy there are those who get tested but do not retrieve the results they are scared .
+<51>	(332.014-332.553)	ah huh .	ah huh .
+<52>	(332.553-343.785)	tapos pangatlo kapag nakuha nila 'yung resulta pupunta sila sa aming mga health- -- sa H_I_V treatment hub para sa ganu'n maumpisahan 'yung gamot kasi lifetime ang pag-inom .	and thirdly once they retrieved the result they should should go to our health -- at H_I_V treatment hub so that we could begin with the medications because this will be taken for a lifetime .
+<53>	(343.785-346.090)	so dapat maganda din po ang pag-start .	so which is why the start should be good .
+<54>	(346.090-346.606)	okay .	okay .
+<55>	(346.606-351.288)	sir anu-ano ho ba ang sintomas <hes> ng taong mayroon pong H_I_V ?	sir what are the symptoms of a person who has H_I_V ?
+<56>	(351.288-354.900)	paano n'yo malalaman na siya'y may H_I_V at kailangan na niyang magpasuri ?	how would you know that he has H_I_V and he needs to get examined ?
+<57>	(354.900-385.330)	sa unang mga <hes> linggo po ay hindi po hindi po niya talaga mapapansin 'yan sapagkat pangkaraniwan parang trangkaso lang po 'yan at <hes> pag nasa advance stages na po which is too late kaya nga po ang pag-te-test po diyan ay hindi <hes> paghihintay po ng sintomas kundi kung may risky behavior ka katulad no'n <hes> injecting drug user ka o sexually promiscuous ka kailangan magpa-test na po kayo .	in the first weeks he will not will not really notice that since its common like flu and when it reaches the advanced stages which is too late which is why the testing for it is not waiting for the symptoms but instead if you have risky behavior like injecting drug user or you are sexually promiscuous you need to get yourself tested .
+<58>	(385.330-385.824)	okay .	okay .
+<59>	(385.824-411.068)	<hes> alam naman kasi natin sir <hes> 'yung <hes> <no-speech> <hes> pag nalaman na may H_I_V ay minamata po <hes> ng publiko so mayroon ho bang lugar na puwedeng puntahan itong mga <hes> gustong magpa-check kung mayroon silang H_I_V o hindi <hes> discreetly na hindi naman ho sila mapahiya at malagay sa alanganin 'yung kanilang <hes> pagkatao ?	because we know sir that when known to have H_I_V you will be looked down by the public so is there a place where they can go to those who want to get checked if they have H_I_V or not discreetly without them getting embarrassed and compromise their identity ?
+<60>	(411.068-419.830)	oo alam mo Raffy malungkot nga 'yan pero aaminin natin na talagang <hes> may stigma pa rin at diskriminasyon .	yes you know Raffy that is saddening but let us admit that there still really is stigma and discrimination .
+<61>	(419.830-424.409)	kaya nga mayroon tayong H_I_V treatment hub buong bansa na po 'yan .	which is why we have H_I_V treatment hub all over the country already .
+<62>	(424.409-429.992)	<hes> sinisiguro ho namin sa mga ospital ng D_O_H ho ay hindi sila makakaranas ng ganiyan .	we're making sure that they won't experience that in the D_O_H hospitals .
+<63>	(429.992-446.000)	kung mayroon man po hinintay namin po 'yung <hes> feedback nila para ng sa gano'n ay mapagsabihan po natin sapagkat <hes> marami pa rin sa mga hanay ng mga health provider ang maaaring may gano'n din pong pananaw hanggang ngayon po .	if there is any we're waiting for their feedback in order for us to tell them because many in the line of health provider still have that point of view until now .
+<64>	(446.000-446.322)	okay .	okay .
+<65>	(446.322-447.334)	last question na lamang po .	just this last question .
+<66>	(447.334-454.340)	sa ngayon po ilan na ho ba ang H_I_V positives o AIDS at the same time sa mga pasilidad po ng <hes> gobyerno ?	at present how many H_I_V positives or AIDS at the same time do we have in the facilities of the government ?
+<67>	(454.340-455.075)	<hes> ngayon .	now .
+<68>	(455.075-463.574)	mula nineteen eight- -- opo -- mula nineteen eighty four po hanggang sa ngayon ang naitala na po natin ay thirty nine thousand six hundred twenty two .	from nineteen eight -- yes -- from nineteen eighty-four until now we recorded thirty-nine thousand six hundred twenty-two .
+<69>	(463.574-487.357)	'nong <hes> buong taon ng <hes> twenty fifteen <hes> mayroon po tayong nine thousand two hundred sixty four araw-araw twenty eight 'yung infected persons mayroon tayo at <hes> mayroon na tayong libo libong nabigyan na ba- -- ng mga gamot 'yung mga na-o-ospital ay 'yun ng nasa eight to advance stages na po natin .	in the whole year of twenty fifteen we had nine thousand two hundred sixty-four twenty-eight persons were infected daily we already have thousands who were given -- medicines those who are hospitalized are those who are at the eight to advance stages .
+<70>	(487.357-492.945)	sir -- sir pakiulit ulit ilan po <hes> H_I_V naging H_I_V positive na araw-araw sabi n'yo ?	sir -- sir please repeat how many became H_I_V positive daily ?
+<71>	(492.945-495.028)	twenty eight na po -- twenty eight .	twenty-eight sir -- twenty-eight .
+<72>	(495.028-496.670)	twenty eight daily ?	twenty eight daily ?
+<73>	(496.670-497.137)	opo .	yes .
+<74>	(497.137-499.124)	ano to sa Metro Manila lang o buong bansa ?	what is this just in Metro Manila or entire country ?
+<75>	(499.124-500.809)	buong bansa po 'yan .	that's entire country .
+<76>	(500.809-503.414)	pero hanggang <hes> %incomplete	but until %incomplete
+<77>	(503.414-506.156)	halos kalahati niyan ay dito sa Metro Manila .	almost half of that is in Metro Manila .
+<78>	(506.156-510.186)	so masasabi nating labing-apat araw-araw sa Metro Manila po .	we can say fourteen daily in Metro Manila .
+<79>	(510.186-513.950)	so tumaas ho ba ito o bumaba kumpara sa mga nakaraang taon ?	did this increase or decrease compared to the last years ?
+<80>	(513.950-524.820)	pataas ng pataas po kasi ng twenty o eight nasa isa kada tatlong araw ang kaso natin <overlap> ito sa kabila ng AIDS awareness program ng ating pamahalaan ?	it continues to increase by twenty or eight around one case every three days despite of the AIDS awareness program of our government ?
+<81>	(524.820-525.417)	opo .	yes .
+<82>	(525.417-539.020)	kulang pa po 'yan at <hes> kaya nga nagpupursige po ang ating kalihim na si Secretary Ubial na maghanap ng mga solusyon at <hes> para ng sa gano'n ay hindi pa po- -- hindi po lalong tumaas 'yang bilang na 'yan .	that's still not enough that's why our secretary Secretary Ubial is determined to look for a solution in order for that figure -- to not increase even more .
+<83>	(539.020-539.424)	okay .	okay .
+<84>	(539.424-541.356)	maraming salamat po sa inyong oras .	than you very much for your time .
+<85>	(541.356-542.175)	maraming salamat Raffy .	than you Raffy .
+<86>	(542.175-542.994)	maraming salamat .	thank you very much .
+<87>	(542.994-543.300)	opo .	yes .
+<88>	(543.300-544.365)	A_sec Eric Tayag .	Secretary Eric Tayag .
+<89>	(544.365-552.070)	<int> basahin na natin ang mga opinyon sa ating H_Two_O tungkol sa pagkalat ng mas agresibong strain ng H_I_V sa bansa .	let's read the opinions in our H_Two_O about the spread of more aggressive strain of H_I_V in the country .
+<90>	(552.070-555.397)	ayon kay Andrea Umali para safe gumamit ng condom .	according to Andrea Umali for safety use a condom .
+<91>	(555.397-555.969)	tama .	right .
+<92>	(555.969-561.590)	tumigil na rin daw sana ang mga babaero dahil kawawa ang mga nahahawahan lang .	the players should also stop because those who they infect are pitiful .
+<93>	(561.590-568.660)	sabi naman ni Macaraig Arlene dapat magpresenta ng mga medical certificate ang mga pumupunta sa ating bansa .	Macaraig Arlene also said that those who come in our country should present a medical certificate .
+<94>	(568.660-572.979)	dapat din daw pagtuunan ng gobyerno ang may mga trabaho na apektado nito .	the government should also pay attention to the jobs affected by this .
+<95>	(572.979-576.680)	simple lang naman ang solusyon diyan ayon kay Richard Damayan .	there's a simple solution to that according to Richard Damayan .
+<96>	(576.680-580.151)	sa asawa lang daw dapat kasi nakikipagtalik .	only have sexual interaction with your partner .
+<97>	(580.151-581.927)	ugh .	ugh .

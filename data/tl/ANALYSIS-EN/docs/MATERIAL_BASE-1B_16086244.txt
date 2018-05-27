@@ -1,0 +1,60 @@
+<1>	(0.000-2.014)	<no-speech>	<no-speech>
+<2>	(2.014-7.620)	sobrang pagsakit ng puson tadtad ng tagihawat nahihirapang magpapayat .	excessive pain in the lower abdomen thickly covered with pimples difficulty in losing weight .
+<3>	(7.620-14.940)	<sta> ang marami sa mga kabaro ko talaga namang minsan 'di mapigilang sabihin na ang hirap maging babae .	a lot of my colleagues most of the time cannot control not to say that it is difficult to be a woman .
+<4>	(14.940-19.730)	ang mga sintomas na 'yan mga Kapuso may kondisyon na dahilan .	those symptoms Kapuso has a reason for the condition .
+<5>	(19.730-21.727)	<no-speech>	<no-speech>
+<6>	(21.727-31.082)	namimilipit sa sakit 'yan ang madalas na maramdaman ng treinta y tres anyos na si Yolalia sa tuwing dadatnan daw siya ng kaniyang buwanang dalaw .	twisting in pain is often what the thirty-three-year-old Yolalia feels whenever she gets her monthly period .
+<7>	(31.082-32.623)	talagang masakit .	really painful .
+<8>	(32.623-34.370)	oo nahirapan ako .	yes I am suffering .
+<9>	(34.370-40.800)	nahimatay ako sa sobrang sakit kaya ang binigay sa amo ko 'yong mefenamic .	I passed out because of the tremendous pain that's why my employer was given Mefenamic .
+<10>	(40.800-44.364)	oo kasi ano 'yan nga daw ang gamot sa kirot .	yes because that is the medicine for pain .
+<11>	(44.364-47.280)	kaya 'yan 'pag su- -- tuwing sumasakit na siya 'yan ang iniinom ko .	so -- whenever it is painful that is what I take .
+<12>	(47.280-58.900)	<sta> ayon sa isa nating pinoy M_D host na si Doctor Raul Quillamor <sta> normal lang daw ang pagkakaroon ng menstrual cramps sa mga babae sa tuwing dadatnan sila ng kanilang buwanang dalaw .	according to one of our M_D hosts Doctor Raul Quillamor it is normal for women to have menstrual cramps when they get their monthly period .
+<13>	(58.900-62.330)	lahat ng mga babae nakakaranas ng dysmenorrhea .	all women experience dysmenorrhea .
+<14>	(62.330-69.150)	<hes> usually ang dysmenorrhea ay <hes> nararanasan ito ng mga babae na nasa reproductive age .	usually dysmenorrhea is experienced by women in the reproductive age .
+<15>	(69.150-77.020)	sa adolescent <hes> girls naman mga about forty percent of them have been reported to have <hes> dysmenorrhea .	about forty percent of adolescent girls have been reported to have dysmenorrhea .
+<16>	(77.020-84.320)	kapag mas madalas na ang pananakit kaysa sa inaasahan maaaring sintomas na pala ang dysmenorrhea ng mas malalang sakit .	if the pain is frequent than what is expected dysmenorrhea may already be a symptom of a severe illness .
+<17>	(84.320-85.596)	<no-speech>	<no-speech>
+<18>	(85.596-92.370)	at kung hindi nga raw matiis ang sobrang pagkirot ng puson makatutulong na uminom ng mga pain reliever .	and if you could no longer tolerate the pain in the lower abdomen it may help to take a pain reliever .
+<19>	(92.370-97.410)	maaari ring maglagay ng maaligamgam na tubig sa isang bote at gawing hot compress .	you can also add warm water in a bottle and use it as a hot compress .
+<20>	(97.410-102.827)	<sta> mas ma-re-relax kasi ang muscles sa uterus na siyang ugat ng pananakit ng puson .	the muscles in the uterus which is the root of abdominal pain will be relaxed more .
+<21>	(102.827-103.913)	<no-speech>	<no-speech>
+<22>	(103.913-110.100)	para naman maiwasan ang cramps mahiga habang nakabaluktot ang magkabilang tuhod .	to avoid cramps lie while both knees are folded .
+<23>	(110.100-112.113)	dalasan ang pag-inom ng tubig .	increase water intake .
+<24>	(112.113-117.290)	nakatutulong ito para mag-circulate ng mabuti ang dugo sa ating katawan .	it helps to circulate blood in our body well .
+<25>	(117.290-121.505)	ang regular na exercise malaking tulong din para maibsan ang dysmenorrhea .	regular exercise will also help a lot to soothe dysmenorrhea .
+<26>	(121.505-122.548)	<no-speech>	<no-speech>
+<27>	(122.548-127.440)	kapag nag-e-ehersisyo tayo naglalabas ang ating katawan ng endorphins .	when we exercise our body releases endorphins .
+<28>	(127.440-133.530)	isang natural na chemical ng ating katawan na lumalaban sa pananakit ng ating mga nararamdaman .	a natural chemical of our body that fights the pain we feel .
+<29>	(133.530-135.061)	<no-speech>	<no-speech>
+<30>	(135.061-141.710)	<sta> kapag dumarating ang buwanang dalaw mas maiging kumain ng complex carbohydrates tulad ng whole wheat bread .	when your monthly period arrives it is better to eat complex carbohydrates like whole wheat bread .
+<31>	(141.710-143.466)	fruits at vegetables .	fruits and vegetables .
+<32>	(143.466-149.640)	ang mga pagkain kasing ito walang refined sugar na magpapataas ng blood sugar level sa katawan .	because these foods have no refined sugar that increases the blood sugar level of the body .
+<33>	(149.640-150.673)	<no-speech>	<no-speech>
+<34>	(150.673-157.170)	<sta> isa pang- -- karaniwang problema ng mga babae ang pagkakaroon ng polycystic ovary syndrome o P_COS .	one more -- common problem of women is having polycystic ovary syndrome or P_COS .
+<35>	(157.170-162.159)	hirap sa pagpapapayat sa pagpapakinis ng balat at sa pagkakaroon ng healthy na buhok .	difficulty in losing weight in improving skin texture and having healthy hair .
+<36>	(162.159-165.900)	'yan ang ilan sa mga nararanasan ng mga babaeng may P_COS .	those are some of the experiences of women with P_COS .
+<37>	(165.900-170.330)	epekto kasi ito ng pagkakaroon ng abnormal na hormones sa katawan .	because it is the effect of having abnormal hormones in the body .
+<38>	(170.330-176.910)	<sta> sa katawan ng babae may estrogen o hormones na nagbibigay ng pambabaeng katangian .	in the female body there is estrogen or hormones that induce feminine characteristics .
+<39>	(176.910-179.154)	mayroon din itong kaunting androgen .	it also has some androgen .
+<40>	(179.154-184.050)	ito naman 'yong dahilan ng pagkakaroon ng panlalaking characteristics .	it is the cause of having male characteristics .
+<41>	(184.050-192.140)	pero kapag tumaas ang level ng androgen nabubuo ang maliliit na bukol o cysts at lumalaki ang obaryo ng babae .	but when the level of androgen increases small cysts or cysts are formed and the woman's ovary grows large .
+<42>	(192.140-198.710)	lalo na 'pag napakataas ng androgen 'yong hormone na testosterone may midline hair sila 'no ?	especially when androgen the hormone with testosterone is high they have midline hair right ?
+<43>	(198.710-202.910)	midline hair dito 'no sa chest 'no may midline hair .	midline hair right in the chest right there is midline hair .
+<44>	(202.910-207.700)	'tapos <hes> coupled with minsan malalaki sila 'no obese 'no ?	and then sometimes coupled with they're big right obese right ?
+<45>	(207.700-210.259)	(()) pero hindi naman exclusive sa obese 'no ?	(()) but it's not exclusive to the obese right ?
+<46>	(210.259-214.486)	minsan mayro'ng average body weight but they have P_COS .	sometimes they have average body weight but they have P_COS .
+<47>	(214.486-219.071)	P_COS actually the epiology or the basic cause is still unknown .	P_COS actually the etiology or the basic cause is still unknown .
+<48>	(219.071-220.890)	hindi pa eh -- hindi pa ma-establish .	not yet -- it has not been established yet .
+<49>	(220.890-225.304)	pero ang makikita mo 'yong mga manifestations niya .	but you will see its manifestations .
+<50>	(225.304-226.370)	<no-speech>	<no-speech>
+<51>	(226.370-230.670)	mabuti na lang at pupuwede pa din namang ma-manage ang P_COS para ito'y mawala .	it's good that P_COS can be managed so that it can disappear .
+<52>	(230.670-235.630)	inirerekomenda ng mga O_B gynecologists ang pagkakaroon ng healthy lifestyle .	O_B gynecologists recommend having a healthy lifestyle .
+<53>	(235.630-237.632)	<no-speech>	<no-speech>
+<54>	(237.632-241.750)	malaking tulong kung iiwas muna sa mga pagkaing mataas sa carbohydrates .	avoiding eating food high in carbohydrates will help a lot .
+<55>	(241.750-245.830)	ibig sabihin ay bawas muna sa kanin tinapay at pasta .	meaning lessen rice bread and pasta for the meantime .
+<56>	(245.830-252.010)	makabubuti rin sa mga may P_COS ang pag-iwas sa mga inuming may stimulant gaya ng kape .	avoiding drinks with stimulants like coffee will also help those with P_COS .
+<57>	(252.010-256.070)	siyempre mahalaga ang regular na pagpapa-konsulta sa doctor .	of course regular doctor consultation is important .
+<58>	(256.070-266.760)	tandaan na maraming komplikasyon ang pagkakaroon ng P_COS gaya na lang ng diabetes sakit sa puso at stroke kaya dapat ma-monitor ito parati ng mga eksperto .	remember that having P_COS has many complications just like diabetes heart disease and stroke so experts should always monitor it .
+<59>	(266.760-270.630)	at panghuli relax-relax din kapag may time .	and last relax when possible .
+<60>	(270.630-278.695)	<sta> importanteng makapagpahinga at 'wag magpapa-stress para mas lalong maiwasan ang pagdami ng cysts na dulot naman ng P_COS .	taking a break and avoiding stress are important to further avoid the increase of cysts caused by P_COS .

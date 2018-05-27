@@ -1,0 +1,67 @@
+[0.000]
+<no-speech>
+[1.927]
+<sta> patay ang isang sundalo habang lima naman ang sugatan sa pagsabog ng land mine <sta> habang tinutugis ng mga sundalo ang mga rebelde sa kabundukan ng Baranggay Upper Suyan sa Malapatan Sarangani Province .
+[13.380]
+<sta> sugatan din po ang walo pang- -- sundalo ng mag-crash ang isang chopper <sta> sa -- sa -- na sasaklolo sana sa mga sundalong nasabugan ng land mine .
+[21.930]
+<sta> nag-pa-patrol si Cherry Tabunaway .
+[24.084]
+<no-speech>
+[27.298]
+tulong-tulong ang mga sundalo <sta> para ibaba mula sa chopper ang sundalong si Private First Class Carlo Testado <sta> na namatay matapos masabugan ng land mine habang tinutugis ang mga rebeldeng N_P_A sa Sitio Lamsalo <sta> Baranggay Upper Suyan Malapatan Sarangani .
+[45.540]
+<sta> sakay din ng chopper ang lima pang- -- sundalong nasugatan sa pagsabog ng land mine na sina Private First Class Asir Mangsan <sta> Khalid Amboloto Rene Samolde Danilo Pacino at si Corporal Glen Belasa .
+[59.390]
+<sta> naging emosyonal ang platoon leader ng grupo sa pagkasawi ni P_F_C Testado .
+[64.920]
+<sta> labis din ang hinagpis ng pamilya sa sinapit ng beynte-singko anyos na <sta> sundalo na naulila ang walong buwang anak at nakatakda na sanang ikasal sa susunod na taon .
+[77.510]
+wala kaming magawa eh .
+[78.983]
+kailangang tanggapin na lang .
+[81.536]
+kahit masakit tanggapin na lang siyempre nanay ako masakit eh .
+[86.400]
+<sta> ipinagmamalaki si P_F_C Testado <sta> ng kaniyang kapatid na sundalo at ng kaniyang ama na dati ring nanilbihan bilang miyembro ng sandatahang lakas .
+[97.540]
+<sta> proud ako sa kaniya ma'am .
+[99.087]
+<no-speech>
+[100.175]
+<lipsmack> kahit wala na siya ma'am <no-speech> nandito pa rin siya sa -- nandito pa rin siya sa <lipsmack> sa amin <sta> ma'am .
+[107.048]
+parang hindi ko matanggap kasi anak ko 'yan .
+[110.385]
+mahal na mahal ko ang mga anak ko <breath> .
+[113.560]
+<sta> ayon kay Lieutenant Colonel Ronnie Babac nagkaengkuwentro ang mga sundalo at A_F_P noong November five <sta> nang naglunsad ng operasyon ang militar matapos i-harass ng N_P_A ang mga military engineer na nagtatayo ng mga eskuwelahan doon .
+[129.370]
+<sta> oo it all -- it all started nitong <cough> November one 'no <foreign> engineers 'di <hes> <no-speech> <sta> tatak sa <hes> mga members ng New People's Army dito sa Baranggay Akbal .
+[138.703]
+so as the result of the <hes> <sta> harassment or the attack sa ating mga military engineers na <foreign> <breath> eskuwelahan <sta> <foreign> ni <hes> Congressman Pacquiao .
+[147.963]
+<foreign> and then <foreign> <sta> <foreign> sa area <foreign> <sta> <foreign> <sta> <foreign> .
+[164.114]
+umatras umano ang mga N_P_A <sta> kaya't nilusob ng mga sundalo ang kampo pero biglang sumabog ang dalawang land mine .
+[173.090]
+<sta> then <hes> while they were already in Sitio Lamsalo in <hes> Baranggay Upper Suyan <sta> naka-receive sila ng ano report dito sa mga residente sa Upper -- sa Lamsalo (()) <sta> (()) land mine 'no <foreign> <no-speech> so <hes> <foreign> <sta> of course ma-safe ang mga residente dito .
+[194.100]
+so <sta> <foreign> <sta> nitong Sabado ng umaga nagpadala ng reinforcement ang militar para saklolohan ang mga nasugatan sa pagsabog .
+[206.610]
+<sta> pero dahil sa malakas na hangin bumagsak ang chopper at nasugatan ang walo sa siyam na sundalong sakay ng chopper .
+[214.460]
+<sta> ayon sa commander ng ten O second infantry brigade <sta> stable na ang kondisyon ng mga sundalo ngayon .
+[222.220]
+<sta> so going down <foreign> <sta> which is the only available sa tropa .
+[230.186]
+<sta> ang <foreign> na hangin .
+[235.320]
+nag-roll (()) .
+[237.246]
+dahil sa pagbagsak ng chopper <sta> naantala ang retrieval operation sa namatay at nasugatang mga sundalo kaya nitong Linggo na ng hapon <sta> naiuwi sa GenSan si P_F_C Testado at mga kasamahan .
+[250.860]
+<sta> patuloy naman ang pagtugis ngayon ng militar sa Guerilla Front seventy one sa kabundukan ng Malapatan .
+[257.659]
+Chai Tabunaway ~ %incomplete
+[259.389]

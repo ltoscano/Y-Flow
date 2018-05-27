@@ -1,0 +1,46 @@
+0.000	outLine	<no-speech>
+0.000	inLine	<no-speech>
+0.070	outLine	dakika kumi .
+1.710	outLine	<no-speech>
+2.100	inLine	ehhe .
+2.960	inLine	<no-speech>
+3.540	outLine	ehhe na hii dakika ni mingi sana kama saa hizi tumeongea almost six minutes .
+5.720	inLine	<no-speech>
+6.320	inLine	<no-speech>
+7.560	outLine	<no-speech>
+7.670	inLine	<breath> iko karibu kuisha game next %incomplete
+10.901	inLine	siku hizi unaendanga hio nini rugby ?
+13.900	inLine	<no-speech>
+14.240	outLine	by the way si ukuje twende %incomplete
+15.474	outLine	Ngai sijui rugby last time <hes> -- sijui ne- -- the next fixture sijui nitakuwa wapi lakini %incomplete
+21.440	outLine	<hes> sijui kama Sunday kutakuwa na game ?
+22.710	inLine	(()) .
+24.410	inLine	<no-speech>
+25.040	outLine	<no-speech>
+25.730	inLine	(()) nataka kukuona .
+26.240	outLine	mi huenda rugby si ni kawaida -- si unajua mi kawaida yangu kwenda rugby .
+29.090	inLine	<no-speech>
+29.629	outLine	ehhe ?
+30.060	outLine	<no-speech>
+30.710	inLine	(()) .
+32.790	inLine	<no-speech>
+33.800	outLine	<sta> ati ?
+33.890	inLine	(()) .
+34.340	outLine	<no-speech>
+36.200	outLine	<sta> na ninaona unapotea -- naona unapotea tena .
+37.690	inLine	<no-speech>
+39.020	outLine	<no-speech>
+39.730	inLine	nakwambia %incomplete
+40.830	inLine	<no-speech>
+41.060	outLine	ehhe .
+41.600	outLine	<no-speech>
+42.310	inLine	(()) ulikuwa wapi ile time <no-speech> ile nilikuambia %incomplete
+42.440	outLine	<no-speech>
+43.540	outLine	<no-speech>
+46.890	inLine	<no-speech>
+47.990	outLine	by the way wakati ulikuwa unakuja uniambie birthday %incomplete
+51.090	outLine	<no-speech>
+51.440	inLine	yes .
+52.080	inLine	<no-speech>
+52.400	outLine	<sta> niko Machakos .
+53.720

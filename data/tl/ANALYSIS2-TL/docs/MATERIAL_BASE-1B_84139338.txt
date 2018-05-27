@@ -1,0 +1,118 @@
+0.000	outLine	<no-speech>
+0.000	inLine	<sta> hindi pa .
+1.155	outLine	doon sa pamilya ko 'to ?
+2.230	inLine	<no-speech>
+2.971	outLine	<no-speech>
+3.110	inLine	<sta> anong nangyari pala sa laban kagabi ?
+4.886	outLine	ah .
+5.465	outLine	<no-speech>
+6.335	outLine	<no-speech>
+7.585	outLine	<no-speech>
+8.197	inLine	<no-speech>
+9.385	outLine	<no-speech>
+10.485	inLine	sa do- -- <no-speech> sa computer ?
+10.734	outLine	sa'n ?
+11.082	outLine	<no-speech>
+12.255	outLine	<no-speech>
+13.131	inLine	<no-speech>
+15.060	inLine	<no-speech>
+15.860	inLine	<no-speech>
+16.875	outLine	wala talo kami .
+17.090	inLine	<sta> ano ?
+17.624	inLine	<no-speech>
+17.867	outLine	<no-speech>
+18.325	outLine	<no-speech>
+18.560	inLine	talo kayo ?
+19.310	inLine	<no-speech>
+19.435	outLine	<no-speech>
+20.360	inLine	ba't sino bang wala ?
+20.580	outLine	mhm <no-speech> o una panalo kami .
+21.290	inLine	<no-speech>
+22.120	inLine	oh sino ?
+23.045	outLine	<no-speech>
+23.098	inLine	<no-speech>
+24.665	inLine	oh sino dapat panalo na kayo ng pangalawa 'di ba ?
+26.185	outLine	tapos pangalawa talo kami .
+27.042	inLine	dapat panalo na kayo noon .
+27.535	outLine	<no-speech>
+29.115	outLine	talo 'yung pangalawa .
+29.419	inLine	<no-speech>
+30.065	outLine	<no-speech>
+30.195	inLine	ha ?
+31.021	inLine	dapat panalo na nga kayo .
+32.055	outLine	'yong kaso wala pa rin .
+33.245	outLine	<no-speech>
+33.263	inLine	ha ?
+33.920	inLine	<no-speech>
+34.830	inLine	<no-speech>
+35.465	outLine	ah <no-speech> ano 'no 'no ?
+35.790	inLine	da- -- dapat panal- -- <sta> dapat panalo na kayo no'ng pangalawa .
+36.974	outLine	<no-speech>
+38.195	outLine	<no-speech>
+39.190	inLine	<no-speech>
+40.390	inLine	nagpatalo pa kasi kayo eh .
+41.650	inLine	<no-speech>
+42.055	outLine	oo .
+42.745	outLine	<no-speech>
+44.475	outLine	kumpiyansa kasi .
+44.670	inLine	no'ng %incomplete
+45.345	inLine	<sta> huh ?
+45.475	outLine	<no-speech>
+46.695	inLine	<no-speech>
+48.078	inLine	pasok kasi ng pasok kaagad .
+49.045	outLine	kumpiyansa .
+49.945	outLine	<no-speech>
+50.288	inLine	<no-speech> pasok kayo ng pasok eh .
+50.965	outLine	<no-speech>
+51.315	outLine	<no-speech>
+52.498	inLine	<no-speech>
+53.679	inLine	dapat (()) .
+54.035	outLine	'di ko alam sa kanila basta ako <no-speech> nilalaro ko na lang eh .
+56.480	inLine	<no-speech>
+58.176	outLine	<no-speech>
+59.850	inLine	<no-speech>
+60.125	outLine	<no-speech>
+60.280	inLine	<no-speech>
+62.755	outLine	nakakailang eh .
+63.695	outLine	<no-speech>
+63.980	inLine	huh ?
+64.410	inLine	<no-speech>
+64.815	inLine	<sta> no'ng pangatlo durog kayo 'no ?
+65.205	outLine	<no-speech>
+65.785	outLine	<no-speech>
+66.609	inLine	<no-speech>
+68.280	inLine	<no-speech>
+68.995	outLine	oo .
+69.605	outLine	<no-speech>
+70.100	inLine	<sta> si Lakay din .
+70.995	outLine	<no-speech>
+71.900	inLine	<no-speech>
+72.933	outLine	mhm <no-speech> ikat- -- pangatlo rin sayang din pangatlo eh .
+75.950	inLine	<sta> huh ?
+76.335	outLine	<no-speech>
+77.070	inLine	<no-speech>
+77.545	outLine	<no-speech>
+79.587	outLine	'yung pangatlo sayang rin .
+80.750	inLine	<sta> ah .
+81.155	outLine	<no-speech>
+82.420	inLine	<no-speech>
+82.435	outLine	parehas rin .
+83.351	outLine	parehas pala may kapit parehas na eh .
+85.206	outLine	<no-speech>
+86.545	outLine	<no-speech>
+86.690	inLine	oo nga .
+87.335	inLine	<no-speech>
+87.785	outLine	<no-speech>
+88.105	inLine	mamaya maglalaban ulit kayo ?
+88.155	outLine	<no-speech>
+89.215	outLine	(()) .
+89.620	inLine	<no-speech>
+90.855	outLine	<no-speech>
+91.540	inLine	huh ?
+91.998	inLine	<no-speech>
+92.455	outLine	<no-speech>
+93.797	inLine	<sta> maglalaban ulit kayo mamaya ?
+94.663	outLine	nakukumpiyansahan kasi .
+95.310	inLine	<no-speech>
+95.975	outLine	<no-speech>
+97.620

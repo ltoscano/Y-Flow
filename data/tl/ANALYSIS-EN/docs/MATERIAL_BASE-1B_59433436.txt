@@ -1,0 +1,81 @@
+<1>	(0.000-1.072)	mabuti po .	it's good .
+<2>	(1.072-2.371)	<no-speech>	<no-speech>
+<3>	(2.371-6.408)	napapansin mo talagang biglang ano na parang pumayat na siya .	you could clearly see that she was suddenly thinner .
+<4>	(6.408-7.026)	opo .	yes .
+<5>	(7.026-10.737)	noong pumayat ka Joshua <hes> nagkasakit ka ?	when you lost weight Joshua did you get sick ?
+<6>	(10.737-12.850)	hindi naman po .	not really .
+<7>	(12.850-14.567)	nanghihina lang po ako pero iyong %incomplete	I was getting weaker but the %incomplete
+<8>	(14.567-18.120)	kita mo nanghihina ka bakit hindi mo sinasabi nanghihina ka ?	see you were getting weaker why didn't you tell them ?
+<9>	(18.120-19.473)	alam ni 'yong nanghihina siya ?	did you know that he was getting weaker ?
+<10>	(19.473-21.940)	hindi ko po alam .	I don't know .
+<11>	(21.940-24.314)	ikaw nag-pre-prepare din ng pagkain dito or ikaw iyong %incomplete	are you the one preparing food here or are you %incomplete
+<12>	(24.314-24.604)	opo .	yes .
+<13>	(24.604-27.537)	pero nakikita mo inuubos niya iyong pagkain niya ?	but you could see that he's finishing his food ?
+<14>	(27.537-29.460)	opo nauubos niya naman po .	yes he finishes his food .
+<15>	(29.460-30.606)	paano siya umabot na %incomplete	how did he reach %incomplete
+<16>	(30.606-33.940)	nauubos niya iyong pagkain pero pumapayat ka ?	he finishes his food but you are getting thin ?
+<17>	(33.940-39.480)	kasi very -- very limited lang po iyong amount ng pagkain na kinakain ko po .	because very -- the amount of food I am eating sir is very limited .
+<18>	(39.480-47.432)	so parang pag nakita o pag kumuha ka noon kaunti lang siya inuubos mo siya so hindi halata na limited lang ang kinakain mo ?	so it's like when you see or get some of it it's just a small amount and you finish it so it's not obvious that you are only eating a limited amount ?
+<19>	(47.432-47.940)	umm .	umm .
+<20>	(47.940-56.068)	okey limited na iyong kinakain mo imposible na basta-basta ganoon more or less mayroong -- medyo matagal na iyon .	okay your diet is limited it's impossible that it will be readily like that more or less there is -- that has been for awhile already .
+<21>	(56.068-57.206)	umm .	umm .
+<22>	(57.206-63.093)	lalo pa't paano mo nakokontrol na hindi ka kakain considering na growing ka .	especially how can you control that you would not eat considering that you are growing .
+<23>	(63.093-68.760)	ang metabolism ng isang seventeen years old o sixteen years old noong panahon na iyon ay mabilis .	the metabolism of a seventeen years old or sixteen years old that time was very fast .
+<24>	(68.760-69.183)	umm .	umm .
+<25>	(69.183-70.317)	so madaling magutom .	so you should get hungry quickly .
+<26>	(70.317-71.081)	umm .	umm .
+<27>	(71.081-71.730)	paano ?	how ?
+<28>	(71.730-76.593)	ang ginagawa ko po pag nagugutom po ako I keep myself occupied .	what I did was to keep myself occupied when I'm hungry .
+<29>	(76.593-82.206)	gumagawa po ako ng ibang mga bagay nagbabasa po ako nanonood ako ng T_V .	I do other things I read I watch T_V .
+<30>	(82.206-83.836)	nakakatulong ba kahit gutom ka ?	were you able to sleep even when you're hungry ?
+<31>	(83.836-84.600)	opo .	yes .
+<32>	(84.600-86.182)	parang nasanay na po ako .	I've been accustomed to it .
+<33>	(86.182-89.824)	so talagang na focus na ang utak mo na busog ka palagi ganoon ?	so your mind was really focused that you always feel full is that right ?
+<34>	(89.824-90.260)	opo .	yes .
+<35>	(90.260-92.209)	na ano mo na siya na mindset mo siya ?	you were able to set it in your mindset ?
+<36>	(92.209-92.632)	opo .	yes .
+<37>	(92.632-93.523)	okey .	okay .
+<38>	(93.523-104.960)	so kung na mindset mo siya at palaging iniisip mo <hes> puno ang laman ng tiyan mo chances are gagawa ka ng paraan na ma eliminate iyon .	so if it's in your mindset and you always think that your stomach is always full chances are you will look for ways to eliminate it .
+<39>	(104.960-106.963)	do you take any laxatives ?	do you take laxatives ?
+<40>	(106.963-107.660)	hindi po .	no sir .
+<41>	(107.660-109.170)	sure ka ?	are you sure ?
+<42>	(109.170-112.893)	wala kang iniinom ng mga panahon na iyon na pinabibili ?	you didn't take any at those times that were sold ?
+<43>	(112.893-115.450)	sure po ako na wala talaga .	I am sure sir that there is nothing more .
+<44>	(115.450-116.821)	hindi ka talagang %incomplete	you did not really %incomplete
+<45>	(116.821-123.566)	anong ginagawa mo para magkasi- -- masyadong limited iyong kinakain mo paano ka -- paano mo na-re-regulate ang pagdumi mo ?	what are you doing to -- what you eat are very limited -- how do you regulate your bowel movement ?
+<46>	(123.566-124.565)	<no-speech>	<no-speech>
+<47>	(124.565-126.530)	<hes> iyon nga po ang problema eh .	well that is the problem .
+<48>	(126.530-129.893)	mga once a week lang po ako dumudumi noon .	previously I defecate once a week .
+<49>	(129.893-132.191)	eh di may problema ka so anong ginagawa mo ?	so you have a problem so what are you doing ?
+<50>	(132.191-133.423)	<no-speech>	<no-speech>
+<51>	(133.423-134.820)	wala .	nothing .
+<52>	(134.820-141.970)	ako si Camille Garcia isang psychologist at <hes> present na administrator dito sa Clinic of the Holy Spirit .	I am Camille Garcia a psychologist and a present administrator here in the Clinic of the Holy Spirit .
+<53>	(141.970-148.186)	alam n'yo <hes> marami talagang mga eating disorders at isa na dito iyong tinatawag nating Anorexia nervosa .	you know there are really a lot of eating disorders and one of these is what we call anorexia nervosa .
+<54>	(148.186-164.030)	kung tutuusin sasabihin natin na maaaring ito ay isang medikal na kondisyon dahil kasi ito iyong pag malaman mo na ikaw ay <hes> ma- -- mabigat ang iyong timbang gumagawa ka ng paraan para mabawasan ang iyong timbang .	after all let us just say this is a medical condition because this is when you learn you are -- your weight is heavy you are making a way to lessen your weight .
+<55>	(164.030-167.235)	so sana ganoon lang however ito ay sumosobra .	so hopefully that's it but it becomes excessive .
+<56>	(167.235-170.367)	<no-speech>	<no-speech>
+<57>	(170.367-179.108)	pag nagbawas na ng timbang ang tendency nagkakaroon sila ng pagkakataon na ang tingin nila sa sarili nila kahit payat na sila mataba pa rin .	when weight is reduced there becomes a tendency to look at himself as still fat even if he is already thin .
+<58>	(179.108-182.050)	so gumagawa sila ng paraan na lalong pumapayat .	so they make a way to become thinner .
+<59>	(182.050-183.853)	sa hindi pagkain .	by not eating .
+<60>	(183.853-185.970)	pangalawa pagpupurga .	second by deworming .
+<61>	(185.970-189.140)	iyong tinatawag nating <hes> pag-take ng mga laxatives .	what we call taking of laxatives .
+<62>	(189.140-194.940)	<no-speech>	<no-speech>
+<63>	(194.940-202.610)	feeling nila kailangang mag-ano -- mag intake ng laxatives kasi palagi silang constipated pero actually walang laman ang tiyan .	they feel they need to -- take laxatives because they feel they are always constipated but actually their stomach are empty .
+<64>	(202.610-214.600)	so doon nagiging psychologically affected iyong -- eh itong taong ito so it becomes <hes> condition na sasabihin natin and a form of a disorder .	so there becoming psychologically affected your -- but this person so it becomes condition which we will mention and a form of a disorder .
+<65>	(214.600-218.920)	ang tingin niya sa sarili niya na kahit na sabihin mong payat eh mataba .	that even if you say she is thin she sees herself as though fat .
+<66>	(218.920-227.430)	tapos affected psychologically socially kung minsan iyong functions niya physically affected din kasi siyempre nanghihina .	then it affects psychologically socially and sometimes his functions physically is also affected because he is weak .
+<67>	(227.430-234.753)	tapos magugulat ka na nahi- -- nahihirapan ng makipag-socialize tapos ang tingin sa sarili ang bababa .	then you will be surprised that -- he is having difficulty in socializing then looks at the self with very low esteem .
+<68>	(234.753-242.170)	iyong confidence level sobrang baba to the point na mas gugustuhin na lang na mapag-isa .	the confidence level is so low to the point that he would prefer to be alone .
+<69>	(242.170-250.900)	nagkaroon ba ng pagkakataon noong high school na may nagustuhan ka I mean talagang gustong-gusto pero muntik ka ng manligaw pero at least may nagustuhan ka .	did you had a chance in high school to have a crush on someone I mean you really liked the person and you almost courted here but at least you had a crush on someone .
+<70>	(250.900-254.648)	<sta> wala po kasi talaga sa isip ko iyong panliligaw .	I have no interest of courting someone at all .
+<71>	(254.648-278.240)	<sta> wala okay <overlap> kung sakaling na recognize noong mismong tao na siya ay mayroong eating disorder the support groups specially the friends and the parents plays an important role for that individual to understand na kinakailangan niya itong support group na ito ka- -- dahil kasi the affection the nurture and such you can give to this individual helps him boost iyong morale niya .	none okay if that certain person himself recognized that he has an eating disorder the support groups especially the friends and the parents plays an important role for that individual to understand that she needs this support group -- because because the affection the nurture and such you can give to this individual helps him boost his morale .
+<72>	(278.240-280.737)	helps him boosts his self-esteem and self-concept .	helps him boosts his self-esteem and self-concept .
+<73>	(280.737-290.240)	so once nagkaroon ng ganoong klaseng pagkakataon na medyo confident na siya sa sarili niya siguro ma-o-overcome niya iyong ganitong klaseng <hes> disorder .	so once he gets that opportunity that he will be confident in himself maybe he will overcome this kind of eating disorder .
+<74>	(290.240-298.140)	ang maapektuhan diyan hindi naman iyon sa ano eh hindi lang naman iyong psychological condition mo kundi iyong physical na condition mo .	what will be affected here is not just it's not just your psychological condition but your physical condition .
+<75>	(298.140-301.394)	pag bumaba ang immune system mo mas marami kang magiging sakit .	when your immune system declines you will be prone to sickness .
+<76>	(301.394-303.219)	puwede ka magkaroon ng T_B .	you could get T_B .
+<77>	(303.219-307.340)	may cognition kasi si Joshua na may problema siya .	because Joshua has a cognition that he has a problem .
+<78>	(307.340-313.012)	kung napansin n'yo na sinasabi niya na talagang iyong magulang niya insensitive doon sa iyong nangyayari niya .	if you would notice he is already saying that his parents are insensitive to what is happening to him .
+<79>	(313.012-316.085)	iyong depression within nag-uumpisa .	the depression starts from within .
+<80>	(316.085-326.260)	so ang nakikita kong main problem dito the anorexia was brought about by the depression felt dahil walang contentment konsensiya .	the main problem that I see here is that the anorexia was brought about by the depression felt because there is no contentment conscience .
+<81>	(326.260-332.918)	tingnan mo ang sinasabi nga sa kaniya na di ba I tend to act out like my peers .	look what he has been told really right I tend to act out like my peers .

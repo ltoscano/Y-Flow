@@ -1,0 +1,15 @@
+[0.000]
+timu ya pool ya Spider yafanikiwa kunyakua ubingwa wa mkoa wa Tanga baada ya kuifunga <hes> Tanga Bathing kwa jumla ya michezo kumi na tatu kwa saba <int> katika mchezo finali uliofanyika kwenye ukumbi wa Mangrove jijini Tanga .
+[13.041]
+taarifa kutoka Tanga inasomwa na Semvua Msange hapa studio <misc> <sta> kwa kutoa ubingwa huo Spider ilizawadiwa shilingi laki saba zilizotolewa na wadhamini wa mashindano hayo <sta> kampuni ya bia Tanzania T_B_L kupitia bia ya Safari pamoja na kujihakikishia nafasi ya kuwakilisha mkoa huo katika mashindano ya taifa yatakayofanyika baadaye mwaka huu jijini Mwanza .
+[37.180]
+<misc>
+[41.490]
+<misc> Tanga Bathing walioshika nafasi ya pili walikabidhiwa shilingi laki tatu na nusu .
+[53.040]
+wali timu ya Michael Pub iliyoshika nafasi ya tatu ilipata shilingi laki mbili na Member of Family ilipata shilingi <breath> laki moja ikiwa katika nafasi ya nne .
+[64.150]
+mgeni rasmi katika finali hiyo alikuwa mwekahazina wa chama cha pool Tanzania Zaholo Ligalu ambaye alipongeza timu zote zilizoshiriki mashindano hayo na kuonyesha ushindani wa hali ya juu .
+[76.730]
+jumla ya timu kumi na sita zilishiriki mashindano hayo yaliyochukua siku nne <breath> <int> na kuhusisha timu za wanaume na wanawake .
+[84.458]

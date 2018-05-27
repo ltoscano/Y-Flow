@@ -1,0 +1,49 @@
+<1>	(Outline, 0.000-2.520)	si mi na huyo bibi wa aunty yangu .	it is my aunt's grandmother and I .
+<2>	(Inline, 0.000-3.740)	<no-speech>	<no-speech>
+<3>	(Outline, 2.520-5.230)	<no-speech>	<no-speech>
+<4>	(Inline, 3.740-4.850)	ohh pekee yake ?	ohh alone by himself ?
+<5>	(Inline, 4.850-6.830)	<no-speech>	<no-speech>
+<6>	(Outline, 5.230-6.640)	<int> mmhm .	mmhm .
+<7>	(Outline, 6.640-9.040)	<no-speech>	<no-speech>
+<8>	(Inline, 6.830-8.750)	hakuna watu wengi- -- wengine kwani ?	there are not many people -- who are others for ?
+<9>	(Inline, 8.750-11.850)	<no-speech>	<no-speech>
+<10>	(Outline, 9.040-9.670)	ehhe ehhe .	mm mm .
+<11>	(Outline, 9.670-17.270)	<no-speech>	<no-speech>
+<12>	(Inline, 11.850-16.160)	mmhm basi haki niambie nije tena basi itakuwa doh <no-speech> kuogofya tu .	mmhm then please tell me to come again then it will be just frightening .
+<13>	(Inline, 16.160-18.920)	<no-speech>	<no-speech>
+<14>	(Outline, 17.270-19.660)	<laugh> sasa unaogopa nini ?	now what do you fear ?
+<15>	(Inline, 18.920-26.849)	<lipsmack> jamaa akatokea hapa na bunduki -- jamaa akatokea hapa na bunduki halafu -- maG_S_U watokee hapa na bunduki halafu ndiyo ushaanza kuambiwa ohh .	if a fellow appeared here with a gun -- a fellow appeared here with a gun and then -- the G_S_U appear here with guns and then that's when you have been told ohh .
+<16>	(Outline, 19.660-20.892)	<no-speech>	<no-speech>
+<17>	(Outline, 20.892-21.340)	ati ?	what ?
+<18>	(Outline, 21.340-22.170)	<no-speech>	<no-speech>
+<19>	(Outline, 22.170-23.240)	<no-speech>	<no-speech>
+<20>	(Outline, 23.240-28.490)	<no-speech>	<no-speech>
+<21>	(Inline, 26.849-27.620)	mmhm ?	mmhm ?
+<22>	(Inline, 27.620-31.420)	<no-speech>	<no-speech>
+<23>	(Outline, 28.490-29.410)	kwa nini ?	why ?
+<24>	(Outline, 29.410-30.610)	<no-speech>	<no-speech>
+<25>	(Outline, 30.610-31.600)	hawezi .	he can't .
+<26>	(Inline, 31.420-33.300)	(()) mmhm ?	(()) mmhm ?
+<27>	(Outline, 31.600-33.540)	<no-speech>	<no-speech>
+<28>	(Inline, 33.300-36.270)	<no-speech>	<no-speech>
+<29>	(Outline, 33.540-34.510)	hawezi .	he can't .
+<30>	(Outline, 34.510-36.010)	<no-speech>	<no-speech>
+<31>	(Outline, 36.010-36.370)	<no-speech>	<no-speech>
+<32>	(Inline, 36.270-37.060)	niambie lakini .	tell me then .
+<33>	(Outline, 36.370-37.540)	<no-speech>	<no-speech>
+<34>	(Inline, 37.060-40.210)	<no-speech>	<no-speech>
+<35>	(Outline, 37.540-40.220)	poa .	fine .
+<36>	(Inline, 40.210-43.109)	naweza kuja -- tunaweza kuja na Ongeri lakini niko naye hapa hapa .	I can come -- we can come with Ongeri but I am with him here here .
+<37>	(Outline, 40.220-45.150)	<no-speech>	<no-speech>
+<38>	(Inline, 43.109-44.760)	by the way nitaweza -- tutapitia na Ongeri .	by the way I will be able -- we will pass by with Ongeri .
+<39>	(Inline, 44.760-51.700)	<no-speech>	<no-speech>
+<40>	(Outline, 45.150-48.466)	<no-speech>	<no-speech>
+<41>	(Outline, 48.466-49.910)	we muoga kweli ?	you are really afraid ?
+<42>	(Outline, 49.910-51.670)	<no-speech>	<no-speech>
+<43>	(Outline, 51.670-55.110)	<no-speech>	<no-speech>
+<44>	(Inline, 51.700-54.910)	haya sasa Ongeri kama amefika sasa hapo mara hiyo hiyo .	alright now Ongeri like he has reached there immediately .
+<45>	(Inline, 54.910-56.860)	<no-speech>	<no-speech>
+<46>	(Outline, 55.110-55.822)	<sta> ehhe .	mm .
+<47>	(Outline, 55.822-61.420)	<laugh> haya sawa hebu mpatie niongee na ye .	alright fine please give him I talk to him .
+<48>	(Inline, 56.860-57.260)	<sta> ehhe .	mm .
+<49>	(Inline, 57.260-61.420)	<no-speech>	<no-speech>

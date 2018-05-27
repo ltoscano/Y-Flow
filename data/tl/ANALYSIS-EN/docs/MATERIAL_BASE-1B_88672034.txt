@@ -1,0 +1,5 @@
+<1>	(0.000-6.627)	<misc> <sta> idineklara na ang Typhoid outbreak sa walong barangay sa bayan ng Maydolong <sta> sa Eastern Samar .	typhoid outbreak is already declared at the eight barangays in the municipalities of Maydolong in Eastern Samar .
+<2>	(6.627-14.250)	umabot na sa isang daan at apatnapu't apat ang mga na tipus doon at karamihan sa mga dinapuan ay mga bata .	the number of those affected with typhus there already reached one hundred and the majority of those afflicted are children .
+<3>	(14.250-21.690)	<sta> ayon po sa Department of Health nakitaan nila ng Coliform bacteria ang mga tubig na nanggagaling sa mga poso at gripo .	according to the Department of Health they have seen coliform bacteria in the water from the well and faucets .
+<4>	(21.690-26.100)	<sta> namigay na ng water disinfectant tablets ang mga health officers sa mga residente .	the health officers have given water disinfectant tablets to the residents .
+<5>	(26.100-33.086)	<sta> pinayuhan din silang pakuluan munang mabuti ang mga inumin at lutuing mabuti ang kanilang pagkain .	they are also advised to boil the beverages first and cook their food very well .

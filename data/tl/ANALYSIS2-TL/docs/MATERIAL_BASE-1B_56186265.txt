@@ -1,0 +1,47 @@
+0.000	outLine	<no-speech>
+0.000	inLine	oo nga .
+0.040	outLine	<no-speech>
+0.864	inLine	nagsisigarilyo ka pa ba ?
+0.890	outLine	mga bawal -- ang dami na naman 'yang bawal -- bawal .
+2.332	inLine	<no-speech>
+3.580	inLine	<no-speech>
+4.242	outLine	<no-speech>
+4.510	inLine	Atoy nagsisigarilyo ka pa ba ?
+5.630	outLine	<no-speech>
+6.624	inLine	<no-speech>
+8.110	inLine	<no-speech>
+8.980	inLine	<no-speech>
+9.070	outLine	oo .
+9.694	outLine	'wag mo iano sa sigarilyo baka masampal kita 'wag mong ibunton sa sigarilyo 'yun .
+12.267	inLine	<hes> naku hindi nga ate prom- %incomplete
+14.695	inLine	gano'n ?
+16.010	inLine	<no-speech>
+16.505	outLine	hindi dahil sa sigarilyo .
+17.180	inLine	<hes> mas magandang wala na .
+18.780	outLine	<no-speech>
+19.490	inLine	<no-speech>
+21.040	outLine	<no-speech>
+22.600	inLine	<breath> <hes> okey .
+22.604	outLine	pagka nag-quit smoking ako baka daw ako atakihin hindi ah .
+25.710	inLine	<no-speech>
+26.510	inLine	<laugh> (()) <hes> 'yan <hes> sige na ate basta mabuti ka na ngayon .
+26.665	outLine	<no-speech>
+27.697	outLine	hindi kalokohan 'yan Martina 'wag M akong buwisitin .
+32.690	outLine	<no-speech>
+34.040	outLine	nang dahil sa sigarilyo .
+35.570	outLine	<no-speech>
+36.660	inLine	<no-speech>
+37.350	inLine	<hes> sige bye-bye .
+37.940	outLine	<no-speech>
+38.310	outLine	<no-speech>
+38.682	inLine	magpahi- -- magpahinga ka na lang bye-bye .
+40.610	outLine	o sige na okey .
+40.696	inLine	<no-speech>
+41.179	inLine	okey bye-bye .
+42.185	outLine	<no-speech>
+42.210	inLine	<no-speech>
+42.957	outLine	oo .
+43.200	inLine	sige .
+43.380	outLine	<no-speech>
+43.690	inLine	<no-speech>
+44.450

@@ -15,11 +15,7 @@
 <text>
 #max(
 #combine(
-#1(halaga course pamumuhay))
-#combine(
-#1(halaga course room))
-#combine(
-#1(halaga course salas))
+#syn(halaga) #syn(course dili-hindi course siyempre) #syn(pamumuhay room salas thing katubaghay))
 )
 </text>
 </query>
@@ -29,11 +25,7 @@
 <text>
 #max(
 #combine(
-#1(long front long))
-#combine(
-#1(long front as))
-#combine(
-#1(long front basta))
+#syn(long as basta) #syn(front unhang malamig kalamig n lamig) #syn(long as basta))
 )
 </text>
 </query>
@@ -43,11 +35,7 @@
 <text>
 #max(
 #combine(
-#1(langis) #syn(langis petrolyo well balon ng langis))
-#combine(
-#1(petrolyo) #syn(langis petrolyo well balon ng langis))
-#combine(
-#1(well) #syn(langis petrolyo well balon ng langis))
+#syn(langis petrolyo well balon ng langis))
 )
 </text>
 </query>
@@ -67,11 +55,7 @@
 <text>
 #max(
 #combine(
-#1(dagitab))
-#combine(
-#1(dagitban))
-#combine(
-#1(elektrisidad))
+#syn(dagitab dagitban elektrisidad kuryente meter puntador))
 )
 </text>
 </query>
@@ -201,9 +185,7 @@
 <text>
 #max(
 #combine(
-#1(straw))
-#combine(
-#1(halusan))
+#syn(straw halusan))
 )
 </text>
 </query>
@@ -223,11 +205,7 @@
 <text>
 #max(
 #combine(
-#1(long mabilis long kidlat))
-#combine(
-#1(long mabilis long rod))
-#combine(
-#1(long mabilis long kayag-kidlat))
+#syn(long as basta) #syn(mabilis) #syn(long as basta) #syn(kidlat rod kayag-kidlat rod pararayos))
 )
 </text>
 </query>
@@ -247,11 +225,7 @@
 <text>
 #max(
 #combine(
-#1(basa cloud))
-#combine(
-#1(basa dagim))
-#combine(
-#1(basa gauge))
+#syn(basa nurse mamay nurse sisiwa) #syn(cloud dagim gauge ulansukod ulan))
 )
 </text>
 </query>
@@ -261,11 +235,7 @@
 <text>
 #max(
 #combine(
-#1(force))
-#combine(
-#1(kapulisan))
-#combine(
-#1(pulis))
+#syn(force kapulisan pulis pulisya))
 )
 </text>
 </query>
@@ -285,11 +255,7 @@
 <text>
 #max(
 #combine(
-#1(blood kamisa))
-#combine(
-#1(blood kamiseta))
-#combine(
-#1(cell kamisa))
+#syn(blood cell puting sihay-dugo pepper pamintang) #syn(kamisa kamiseta))
 )
 </text>
 </query>
@@ -299,11 +265,7 @@
 <text>
 #max(
 #combine(
-#1(city))
-#combine(
-#1(kapital))
-#combine(
-#1(city))
+#syn(city kapital city pununglunsod city ulunlunsod))
 )
 </text>
 </query>
@@ -323,11 +285,7 @@
 <text>
 #max(
 #combine(
-#1(sebekoy banwa))
-#combine(
-#1(sebekoy estado))
-#combine(
-#1(sebekoy himtang))
+#syn(sebekoy) #syn(banwa estado himtang))
 )
 </text>
 </query>
@@ -347,11 +305,7 @@
 <text>
 #max(
 #combine(
-#1(barrier))
-#combine(
-#1(hadlang))
-#combine(
-#1(ng))
+#syn(barrier hadlang ng wika))
 )
 </text>
 </query>
@@ -361,11 +315,7 @@
 <text>
 #max(
 #combine(
-#1(bali-bali bintana))
-#combine(
-#1(bali-bali durungawan))
-#combine(
-#1(record bintana))
+#syn(bali-bali record sirang plaka) #syn(bintana durungawan))
 )
 </text>
 </query>
@@ -375,7 +325,7 @@
 <text>
 #max(
 #combine(
-#1(kaarawan))
+#syn(kaarawan))
 )
 </text>
 </query>
@@ -385,7 +335,7 @@
 <text>
 #max(
 #combine(
-#1(sanggunian) #syn(maanyo) #syn(tungkulanin))
+#syn(sanggunian) #syn(maanyo) #syn(tungkulanin))
 )
 </text>
 </query>
@@ -395,11 +345,7 @@
 <text>
 #max(
 #combine(
-#1(town) #syn(town bayang naulog))
-#combine(
-#1(bayang) #syn(town bayang naulog))
-#combine(
-#1(naulog) #syn(town bayang naulog))
+#syn(town bayang naulog))
 )
 </text>
 </query>
@@ -429,11 +375,7 @@
 <text>
 #max(
 #combine(
-#1(kita))
-#combine(
-#1(statement))
-#combine(
-#1(pahayag))
+#syn(kita statement pahayag ng kita tax))
 )
 </text>
 </query>
@@ -443,7 +385,7 @@
 <text>
 #max(
 #combine(
-#1(eleksyon))
+#syn(eleksyon))
 )
 </text>
 </query>
@@ -473,7 +415,7 @@
 <text>
 #max(
 #combine(
-#1(paliikot basura))
+#syn(paliikot) #syn(basura))
 )
 </text>
 </query>
@@ -523,7 +465,7 @@
 <text>
 #max(
 #combine(
-#1(kape) #syn(kape))
+#syn(kape))
 )
 </text>
 </query>
@@ -543,11 +485,7 @@
 <text>
 #max(
 #combine(
-#1(kanila arya hindi))
-#combine(
-#1(kaniya arya hindi))
-#combine(
-#1(nila arya hindi))
+#syn(kanila kaniya nila niya sila siya) #syn(arya) #syn(hindi))
 )
 </text>
 </query>
@@ -567,7 +505,7 @@
 <text>
 #max(
 #combine(
-#1(taal))
+#syn(taal))
 )
 </text>
 </query>
@@ -577,11 +515,7 @@
 <text>
 #max(
 #combine(
-#1(bank))
-#combine(
-#1(bangko))
-#combine(
-#1(ng))
+#syn(bank bangko ng dugo dugo kadugo))
 )
 </text>
 </query>
@@ -591,7 +525,7 @@
 <text>
 #max(
 #combine(
-#1(kabuhayan))
+#syn(kabuhayan))
 )
 </text>
 </query>
@@ -621,11 +555,7 @@
 <text>
 #max(
 #combine(
-#1(day daan libo))
-#combine(
-#1(day thousand libo))
-#combine(
-#1(day yuta libo))
+#syn(day balang araw day isang araw) #syn(daan thousand yuta) #syn(libo))
 )
 </text>
 </query>
@@ -645,9 +575,7 @@
 <text>
 #max(
 #combine(
-#1(example))
-#combine(
-#1(halimbawa))
+#syn(example halimbawa))
 )
 </text>
 </query>
@@ -697,11 +625,7 @@
 <text>
 #max(
 #combine(
-#1(whom))
-#combine(
-#1(this))
-#combine(
-#1(may))
+#syn(whom this may concern sa kinauukulan))
 )
 </text>
 </query>
@@ -721,11 +645,7 @@
 <text>
 #max(
 #combine(
-#1(langis and))
-#combine(
-#1(langis demand))
-#combine(
-#1(langis katustusan))
+#syn(langis petrolyo well balon ng langis) #syn(and demand katustusan at kahingian and))
 )
 </text>
 </query>
@@ -755,9 +675,7 @@
 <text>
 #max(
 #combine(
-#1(kapanatagan bala))
-#combine(
-#1(kapanatagan banta))
+#syn(kapanatagan) #syn(bala banta))
 )
 </text>
 </query>
@@ -777,11 +695,7 @@
 <text>
 #max(
 #combine(
-#1(branch kaayusan))
-#combine(
-#1(branch sistema))
-#combine(
-#1(sangay kaayusan))
+#syn(branch sangay tagapaghukom) #syn(kaayusan sistema))
 )
 </text>
 </query>
@@ -791,7 +705,7 @@
 <text>
 #max(
 #combine(
-#1(mapanagutin))
+#syn(mapanagutin))
 )
 </text>
 </query>
@@ -841,11 +755,7 @@
 <text>
 #max(
 #combine(
-#1(course))
-#combine(
-#1(dili-hindi))
-#combine(
-#1(course))
+#syn(course dili-hindi course siyempre))
 )
 </text>
 </query>
@@ -855,11 +765,7 @@
 <text>
 #max(
 #combine(
-#1(digmaan tiptoe))
-#combine(
-#1(digmaan nakatigda))
-#combine(
-#1(digmaan tiptoe))
+#syn(digmaan gera gyera tikam) #syn(tiptoe nakatigda tiptoe nakatiyad tiptoe patiyad))
 )
 </text>
 </query>
@@ -869,11 +775,7 @@
 <text>
 #max(
 #combine(
-#1(network kapanatagan) #syn(abuloy ambag kontribusyon tap-ong))
-#combine(
-#1(ulnunging kapanatagan) #syn(abuloy ambag kontribusyon tap-ong))
-#combine(
-#1(kabalagan kapanatagan) #syn(abuloy ambag kontribusyon tap-ong))
+#syn(network ulnunging kabalagan panlipunan science aghamlipunan) #syn(kapanatagan) #syn(abuloy ambag kontribusyon tap-ong))
 )
 </text>
 </query>
@@ -893,7 +795,7 @@
 <text>
 #max(
 #combine(
-#1(bangkay))
+#syn(bangkay))
 )
 </text>
 </query>
@@ -903,9 +805,7 @@
 <text>
 #max(
 #combine(
-#1(linggo))
-#combine(
-#1(Linggo))
+#syn(linggo Linggo))
 )
 </text>
 </query>
@@ -935,7 +835,7 @@
 <text>
 #max(
 #combine(
-#1(sapat katibayan))
+#syn(sapat) #syn(katibayan))
 )
 </text>
 </query>
@@ -965,11 +865,7 @@
 <text>
 #max(
 #combine(
-#1(lupa mulinyo))
-#combine(
-#1(lupa reporma))
-#combine(
-#1(lupain mulinyo))
+#syn(lupa lupain surveyor manunukat-lupa surveyor tagasukat-lupa) #syn(mulinyo reporma))
 )
 </text>
 </query>
@@ -979,7 +875,7 @@
 <text>
 #max(
 #combine(
-#1(kalalang))
+#syn(kalalang))
 )
 </text>
 </query>
@@ -1009,11 +905,7 @@
 <text>
 #max(
 #combine(
-#1(bago))
-#combine(
-#1(baguhan))
-#combine(
-#1(moon))
+#syn(bago baguhan moon bagong bulan moon))
 )
 </text>
 </query>
@@ -1033,11 +925,7 @@
 <text>
 #max(
 #combine(
-#1(capacity))
-#combine(
-#1(initing))
-#combine(
-#1(lulan))
+#syn(capacity initing lulan exchanger pampalitang-init init))
 )
 </text>
 </query>
@@ -1067,11 +955,7 @@
 <text>
 #max(
 #combine(
-#1(a takot))
-#combine(
-#1(Catholic takot))
-#combine(
-#1(Katoliko takot))
+#syn(a Catholic Katoliko ako a Muslim) #syn(takot))
 )
 </text>
 </query>
@@ -1081,11 +965,7 @@
 <text>
 #max(
 #combine(
-#1(law batas gihod))
-#combine(
-#1(law dalubbatasan gihod))
-#combine(
-#1(law of gihod))
+#syn(law batas militar) #syn(batas dalubbatasan of averages batas ng) #syn(gihod))
 )
 </text>
 </query>
@@ -1125,11 +1005,7 @@
 <text>
 #max(
 #combine(
-#1(thanks))
-#combine(
-#1(maraming))
-#combine(
-#1(maraming))
+#syn(thanks maraming maraming salamat thanks maraming))
 )
 </text>
 </query>
@@ -1179,11 +1055,7 @@
 <text>
 #max(
 #combine(
-#1(pabrika apoy) #syn(labintador pakbong rebentador))
-#combine(
-#1(pabrika escape) #syn(labintador pakbong rebentador))
-#combine(
-#1(pabrika hagdanlabasan) #syn(labintador pakbong rebentador))
+#syn(labintador pakbong rebentador) #syn(pabrika pagawaan) #syn(apoy escape hagdanlabasan extinguisher pamatay-sunog hydrant))
 )
 </text>
 </query>
@@ -1203,11 +1075,7 @@
 <text>
 #max(
 #combine(
-#1(bantuan and))
-#combine(
-#1(bantuan demand))
-#combine(
-#1(bantuan katustusan))
+#syn(bantuan buffalo kalabaw caltrop apulid chestnut) #syn(and demand katustusan at kahingian and))
 )
 </text>
 </query>
@@ -1217,11 +1085,7 @@
 <text>
 #max(
 #combine(
-#1(Francisco) #1(kusog and))
-#combine(
-#1(Francisco) #1(kusog demand))
-#combine(
-#1(Francisco) #1(kusog katustusan))
+#syn(Francisco San Pransisko Marino San Marino) #syn(kusog) #syn(and demand katustusan at kahingian and))
 )
 </text>
 </query>
@@ -1231,7 +1095,7 @@
 <text>
 #max(
 #combine(
-#1(kapayapaan))
+#syn(kapayapaan))
 )
 </text>
 </query>
@@ -1261,11 +1125,7 @@
 <text>
 #max(
 #combine(
-#1(estate))
-#combine(
-#1(pingkas))
-#combine(
-#1(number))
+#syn(estate pingkas number bilang na tunay))
 )
 </text>
 </query>
@@ -1285,11 +1145,7 @@
 <text>
 #max(
 #combine(
-#1(anemone dove) #syn(pole baliwasnan rod baliwasan rod baliwasnan))
-#combine(
-#1(anemone lapati) #syn(pole baliwasnan rod baliwasan rod baliwasnan))
-#combine(
-#1(anemone pagong) #syn(pole baliwasnan rod baliwasan rod baliwasnan))
+#syn(anemone anemonang-dagat cow duyong cucumber tripang) #syn(dove lapati pagong pawikan) #syn(pole baliwasnan rod baliwasan rod baliwasnan))
 )
 </text>
 </query>
@@ -1379,11 +1235,7 @@
 <text>
 #max(
 #combine(
-#1(gas))
-#combine(
-#1(likas))
-#combine(
-#1(na))
+#syn(gas likas na buhag logarithm likas))
 )
 </text>
 </query>
@@ -1423,11 +1275,7 @@
 <text>
 #max(
 #combine(
-#1(Salvador))
-#combine(
-#1(El))
-#combine(
-#1(Salbador))
+#syn(Salvador El Salbador))
 )
 </text>
 </query>
@@ -1447,9 +1295,7 @@
 <text>
 #max(
 #combine(
-#1(agsikapan) #syn(talong))
-#combine(
-#1(inhenyeriya) #syn(talong))
+#syn(talong) #syn(agsikapan inhenyeriya))
 )
 </text>
 </query>
@@ -1469,11 +1315,7 @@
 <text>
 #max(
 #combine(
-#1(appeal krimen))
-#combine(
-#1(sariing krimen))
-#combine(
-#1(gayuma krimen))
+#syn(appeal sariing gayuma education sariing paturuan) #syn(krimen))
 )
 </text>
 </query>
@@ -1493,11 +1335,7 @@
 <text>
 #max(
 #combine(
-#1(network))
-#combine(
-#1(ulnunging))
-#combine(
-#1(kabalagan))
+#syn(network ulnunging kabalagan panlipunan science aghamlipunan))
 )
 </text>
 </query>
@@ -1547,11 +1385,7 @@
 <text>
 #max(
 #combine(
-#1(long))
-#combine(
-#1(as))
-#combine(
-#1(basta))
+#syn(long as basta))
 )
 </text>
 </query>
@@ -1581,11 +1415,7 @@
 <text>
 #max(
 #combine(
-#1(kokaina pagdakip))
-#combine(
-#1(kokaina warrant))
-#combine(
-#1(kokaina mandamiento))
+#syn(kokaina kokayna) #syn(pagdakip warrant mandamiento de arresto warrant))
 )
 </text>
 </query>
@@ -1625,11 +1455,7 @@
 <text>
 #max(
 #combine(
-#1(Espanyol))
-#combine(
-#1(Kastila))
-#combine(
-#1(Kastilain))
+#syn(Espanyol Kastila Kastilain mackerel tangginggi mackerel))
 )
 </text>
 </query>
@@ -1639,9 +1465,7 @@
 <text>
 #max(
 #combine(
-#1(gobyerno tungkulanin))
-#combine(
-#1(pamahalaan tungkulanin))
+#syn(gobyerno pamahalaan) #syn(tungkulanin))
 )
 </text>
 </query>
@@ -1661,7 +1485,7 @@
 <text>
 #max(
 #combine(
-#1(okra))
+#syn(okra))
 )
 </text>
 </query>
@@ -1671,9 +1495,7 @@
 <text>
 #max(
 #combine(
-#1(pagkain pangangalalang))
-#combine(
-#1(pagkain produksiyon))
+#syn(pagkain) #syn(pangangalalang produksiyon))
 )
 </text>
 </query>
@@ -1683,7 +1505,7 @@
 <text>
 #max(
 #combine(
-#1(pagkain))
+#syn(pagkain))
 )
 </text>
 </query>
@@ -1703,11 +1525,7 @@
 <text>
 #max(
 #combine(
-#1(alinsanay dahon))
-#combine(
-#1(puno dahon))
-#combine(
-#1(ng dahon))
+#syn(alinsanay puno ng saging saging) #syn(dahon))
 )
 </text>
 </query>
@@ -1737,11 +1555,7 @@
 <text>
 #max(
 #combine(
-#1(moon course))
-#combine(
-#1(moon dili-hindi))
-#combine(
-#1(moon course))
+#syn(moon bulang kabilugan) #syn(course dili-hindi course siyempre))
 )
 </text>
 </query>
@@ -1781,9 +1595,7 @@
 <text>
 #max(
 #combine(
-#1(maalat))
-#combine(
-#1(maasin))
+#syn(maalat maasin))
 )
 </text>
 </query>
@@ -1823,11 +1635,7 @@
 <text>
 #max(
 #combine(
-#1(unipormado force))
-#combine(
-#1(unipormado kapulisan))
-#combine(
-#1(unipormado pulis))
+#syn(unipormado) #syn(force kapulisan pulis pulisya))
 )
 </text>
 </query>
@@ -1847,11 +1655,7 @@
 <text>
 #max(
 #combine(
-#1(compressor))
-#combine(
-#1(panipil-hangin))
-#combine(
-#1(filter))
+#syn(compressor panipil-hangin filter panalang-hangin force hukbong-panghimpapawid))
 )
 </text>
 </query>
@@ -1861,11 +1665,7 @@
 <text>
 #max(
 #combine(
-#1(bantuan))
-#combine(
-#1(buffalo))
-#combine(
-#1(kalabaw))
+#syn(bantuan buffalo kalabaw caltrop apulid chestnut))
 )
 </text>
 </query>
@@ -1875,11 +1675,7 @@
 <text>
 #max(
 #combine(
-#1(opener can't Dutch and))
-#combine(
-#1(opener can't Dutch then))
-#combine(
-#1(opener can't Dutch paminsan-minsan))
+#syn(opener abrilata) #syn(can't judge a book by its) #syn(Dutch kanya-kanyang bayad go magpatuloy) #syn(and then paminsan-minsan ngayon))
 )
 </text>
 </query>
@@ -1949,11 +1745,7 @@
 <text>
 #max(
 #combine(
-#1(anthem barrier))
-#combine(
-#1(anthem hadlang))
-#combine(
-#1(anthem ng))
+#syn(anthem pambansang awit nasyonal pambansa) #syn(barrier hadlang ng wika))
 )
 </text>
 </query>
@@ -1973,7 +1765,7 @@
 <text>
 #max(
 #combine(
-#1(Agosto) #syn(datiles petsa taburaw))
+#syn(Agosto) #syn(datiles petsa taburaw))
 )
 </text>
 </query>
@@ -1983,9 +1775,7 @@
 <text>
 #max(
 #combine(
-#1(aking) #syn(aking ko))
-#combine(
-#1(ko) #syn(aking ko))
+#syn(aking ko))
 )
 </text>
 </query>
@@ -2005,7 +1795,7 @@
 <text>
 #max(
 #combine(
-#1(look dahon))
+#syn(look) #syn(dahon))
 )
 </text>
 </query>
@@ -2015,11 +1805,7 @@
 <text>
 #max(
 #combine(
-#1(trapiko ilaw))
-#combine(
-#1(trapiko ilawan))
-#combine(
-#1(trapiko liwanag))
+#syn(trapiko) #syn(ilaw ilawan liwanag year sinag-taon))
 )
 </text>
 </query>
@@ -2029,11 +1815,7 @@
 <text>
 #max(
 #combine(
-#1(o circuit))
-#combine(
-#1(o laktod))
-#combine(
-#1(o story))
+#syn(o) #syn(circuit laktod story maikling kuwento))
 )
 </text>
 </query>
@@ -2133,11 +1915,7 @@
 <text>
 #max(
 #combine(
-#1(compressor))
-#combine(
-#1(panipil-hangin))
-#combine(
-#1(filter))
+#syn(compressor panipil-hangin filter panalang-hangin force hukbong-panghimpapawid))
 )
 </text>
 </query>
@@ -2147,11 +1925,7 @@
 <text>
 #max(
 #combine(
-#1(age laknip))
-#combine(
-#1(panahon laknip))
-#combine(
-#1(ng laknip))
+#syn(age panahon ng yelo cream cone) #syn(laknip))
 )
 </text>
 </query>
@@ -2171,11 +1945,7 @@
 <text>
 #max(
 #combine(
-#1(manok))
-#combine(
-#1(pox))
-#combine(
-#1(bulutong-tubig))
+#syn(manok pox bulutong-tubig pox bulutung-tubig wire))
 )
 </text>
 </query>
@@ -2205,11 +1975,7 @@
 <text>
 #max(
 #combine(
-#1(dado course) #syn(binyagan Kristyano makakristo))
-#combine(
-#1(dado dili-hindi) #syn(binyagan Kristyano makakristo))
-#combine(
-#1(dado course) #syn(binyagan Kristyano makakristo))
+#syn(binyagan Kristyano makakristo) #syn(dado matay) #syn(course dili-hindi course siyempre))
 )
 </text>
 </query>
@@ -2249,11 +2015,7 @@
 <text>
 #max(
 #combine(
-#1(Pilipina literatura))
-#combine(
-#1(Pilipina panitikan))
-#combine(
-#1(Pilipino literatura))
+#syn(Pilipina Pilipino Pinay Pinoy Tagalog) #syn(literatura panitikan))
 )
 </text>
 </query>
@@ -2283,9 +2045,7 @@
 <text>
 #max(
 #combine(
-#1(karneng))
-#combine(
-#1(baka))
+#syn(karneng baka))
 )
 </text>
 </query>
@@ -2305,11 +2065,7 @@
 <text>
 #max(
 #combine(
-#1(ilaw trapiko))
-#combine(
-#1(ilawan trapiko))
-#combine(
-#1(liwanag trapiko))
+#syn(ilaw ilawan liwanag year sinag-taon) #syn(trapiko))
 )
 </text>
 </query>
@@ -2329,11 +2085,7 @@
 <text>
 #max(
 #combine(
-#1(ulnungin bago))
-#combine(
-#1(ulnungin barya))
-#combine(
-#1(ulnungin baylo))
+#syn(ulnungin) #syn(bago barya baylo bayluhan bayluhin bumaylo))
 )
 </text>
 </query>
@@ -2363,11 +2115,7 @@
 <text>
 #max(
 #combine(
-#1(alimango))
-#combine(
-#1(mentality))
-#combine(
-#1(isip-alimango))
+#syn(alimango mentality isip-alimango))
 )
 </text>
 </query>
@@ -2377,11 +2125,7 @@
 <text>
 #max(
 #combine(
-#1(welcome magustohan cappella palaka))
-#combine(
-#1(welcome magustohan sayil palaka))
-#combine(
-#1(welcome magustohan journey palaka))
+#syn(welcome walang anuman welcome wala pong) #syn(magustohan) #syn(cappella sayil journey of a thousand) #syn(palaka))
 )
 </text>
 </query>
@@ -2391,7 +2135,7 @@
 <text>
 #max(
 #combine(
-#1(Haba sirwelas))
+#syn(Haba) #syn(sirwelas))
 )
 </text>
 </query>
@@ -2441,11 +2185,7 @@
 <text>
 #max(
 #combine(
-#1(fourths))
-#combine(
-#1(tatlong-kapat))
-#combine(
-#1(hundred))
+#syn(fourths tatlong-kapat hundred tatlundaan tatlo))
 )
 </text>
 </query>
@@ -2455,11 +2195,7 @@
 <text>
 #max(
 #combine(
-#1(ligos course ang))
-#combine(
-#1(ligos course toilet))
-#combine(
-#1(ligos course is))
+#syn(ligos sinag) #syn(course dili-hindi course siyempre) #syn(ang toilet is clogged barado ang))
 )
 </text>
 </query>
@@ -2539,9 +2275,7 @@
 <text>
 #max(
 #combine(
-#1(buslugin))
-#combine(
-#1(ikasa))
+#syn(buslugin ikasa))
 )
 </text>
 </query>
@@ -2571,11 +2305,7 @@
 <text>
 #max(
 #combine(
-#1(card Eba))
-#combine(
-#1(kartang Eba))
-#combine(
-#1(pamasko Eba))
+#syn(card kartang pamasko Day Kapaskuhan Eve) #syn(Eba))
 )
 </text>
 </query>
@@ -2645,7 +2375,7 @@
 <text>
 #max(
 #combine(
-#1(ahas antangan))
+#syn(ahas) #syn(antangan))
 )
 </text>
 </query>
@@ -2655,11 +2385,7 @@
 <text>
 #max(
 #combine(
-#1(lapis respect isang pambura))
-#combine(
-#1(lapis to isang pambura))
-#combine(
-#1(lapis tungod isang pambura))
+#syn(lapis sharpener pantasa) #syn(respect to tungod sa) #syn(isang) #syn(pambura))
 )
 </text>
 </query>
@@ -2699,7 +2425,7 @@
 <text>
 #max(
 #combine(
-#1(gulong silya))
+#syn(gulong) #syn(silya))
 )
 </text>
 </query>
@@ -2729,11 +2455,7 @@
 <text>
 #max(
 #combine(
-#1(don't huwag maintindihan can't))
-#combine(
-#1(don't huwag maintindihan judge))
-#combine(
-#1(don't huwag maintindihan a))
+#syn(don't care wala akong pakialam don't) #syn(huwag worry huwag mag-alala) #syn(maintindihan) #syn(can't judge a book by its))
 )
 </text>
 </query>
@@ -2743,11 +2465,7 @@
 <text>
 #max(
 #combine(
-#1(kaaway course ang) #syn(kaaway) #syn(course dili-hindi course siyempre) #syn(ang toilet is clogged barado ang))
-#combine(
-#1(kaaway course toilet) #syn(kaaway) #syn(course dili-hindi course siyempre) #syn(ang toilet is clogged barado ang))
-#combine(
-#1(kaaway course is) #syn(kaaway) #syn(course dili-hindi course siyempre) #syn(ang toilet is clogged barado ang))
+#syn(kaaway) #syn(course dili-hindi course siyempre) #syn(ang toilet is clogged barado ang))
 )
 </text>
 </query>
@@ -2767,11 +2485,7 @@
 <text>
 #max(
 #combine(
-#1(manok))
-#combine(
-#1(pox))
-#combine(
-#1(bulutong-tubig))
+#syn(manok pox bulutong-tubig pox bulutung-tubig wire))
 )
 </text>
 </query>
@@ -2791,11 +2505,7 @@
 <text>
 #max(
 #combine(
-#1(hindi hustisya))
-#combine(
-#1(huwag hustisya))
-#combine(
-#1(parking hustisya))
+#syn(hindi huwag parking bawal pumarada problem) #syn(hustisya))
 )
 </text>
 </query>
@@ -2805,11 +2515,7 @@
 <text>
 #max(
 #combine(
-#1(sobra mayaman))
-#combine(
-#1(sobrang mayaman))
-#combine(
-#1(talaga mayaman))
+#syn(sobra sobrang talaga talagang) #syn(mayaman))
 )
 </text>
 </query>
@@ -2819,7 +2525,7 @@
 <text>
 #max(
 #combine(
-#1(bayadturo))
+#syn(bayadturo))
 )
 </text>
 </query>
@@ -2829,11 +2535,7 @@
 <text>
 #max(
 #combine(
-#1(ang taal))
-#combine(
-#1(toilet taal))
-#combine(
-#1(is taal))
+#syn(ang toilet is clogged barado ang) #syn(taal))
 )
 </text>
 </query>
@@ -2843,9 +2545,7 @@
 <text>
 #max(
 #combine(
-#1(aking piyano guro))
-#combine(
-#1(ko piyano guro))
+#syn(aking ko) #syn(piyano) #syn(guro))
 )
 </text>
 </query>
@@ -2865,7 +2565,7 @@
 <text>
 #max(
 #combine(
-#1(pagkain) #syn(bawang))
+#syn(bawang) #syn(pagkain))
 )
 </text>
 </query>
@@ -2915,9 +2615,7 @@
 <text>
 #max(
 #combine(
-#1(pagdaragdag) #syn(manunungkulan))
-#combine(
-#1(pagdugang) #syn(manunungkulan))
+#syn(pagdaragdag pagdugang) #syn(manunungkulan))
 )
 </text>
 </query>
@@ -2977,11 +2675,7 @@
 <text>
 #max(
 #combine(
-#1(babala of) #syn(sirena))
-#combine(
-#1(babala the) #syn(sirena))
-#combine(
-#1(babala cross) #syn(sirena))
+#syn(sirena) #syn(babala) #syn(of the cross antanda pananda tanda))
 )
 </text>
 </query>
@@ -3021,11 +2715,7 @@
 <text>
 #max(
 #combine(
-#1(eye paminta))
-#combine(
-#1(pasa paminta))
-#combine(
-#1(sa paminta))
+#syn(eye pasa sa mata hole itim) #syn(paminta))
 )
 </text>
 </query>
@@ -3115,7 +2805,7 @@
 <text>
 #max(
 #combine(
-#1(baril) #syn(isla ng Cebu pulo ng Cebu))
+#syn(isla ng Cebu pulo ng Cebu) #syn(baril))
 )
 </text>
 </query>
@@ -3145,7 +2835,7 @@
 <text>
 #max(
 #combine(
-#1(pagkain) #syn(luya))
+#syn(luya) #syn(pagkain))
 )
 </text>
 </query>
@@ -3165,9 +2855,7 @@
 <text>
 #max(
 #combine(
-#1(luto))
-#combine(
-#1(pagluluto))
+#syn(luto pagluluto))
 )
 </text>
 </query>
@@ -3177,11 +2865,7 @@
 <text>
 #max(
 #combine(
-#1(luto respect esparago))
-#combine(
-#1(luto to esparago))
-#combine(
-#1(luto tungod esparago))
+#syn(luto pagluluto) #syn(respect to tungod sa) #syn(esparago))
 )
 </text>
 </query>
@@ -3191,11 +2875,7 @@
 <text>
 #max(
 #combine(
-#1(aid after course lipihay))
-#combine(
-#1(aid after dili-hindi lipihay))
-#combine(
-#1(aid after course lipihay))
+#syn(aid kagyat na lunas aid paunang) #syn(after tomorrow samakalawa araw before yesterday) #syn(course dili-hindi course siyempre) #syn(lipihay))
 )
 </text>
 </query>
@@ -3205,11 +2885,7 @@
 <text>
 #max(
 #combine(
-#1(dagitbin abaniko))
-#combine(
-#1(dagitbin bentilador))
-#combine(
-#1(dagitbin pamaypay))
+#syn(dagitbin motor dagisog) #syn(abaniko bentilador pamaypay tagahanga))
 )
 </text>
 </query>
@@ -3249,11 +2925,7 @@
 <text>
 #max(
 #combine(
-#1(cost himo))
-#combine(
-#1(cost isi))
-#combine(
-#1(cost trabaho))
+#syn(cost sa puhunan ease nakatayok ease) #syn(himo isi trabaho))
 )
 </text>
 </query>
@@ -3283,7 +2955,7 @@
 <text>
 #max(
 #combine(
-#1(talong))
+#syn(talong))
 )
 </text>
 </query>
@@ -3293,11 +2965,7 @@
 <text>
 #max(
 #combine(
-#1(gabi pool))
-#combine(
-#1(gabi palanguyan))
-#combine(
-#1(gabi pool))
+#syn(gabi heron bakaw-gabi kadiliman) #syn(pool palanguyan pool pisina))
 )
 </text>
 </query>
@@ -3307,11 +2975,7 @@
 <text>
 #max(
 #combine(
-#1(luto respect pi))
-#combine(
-#1(luto respect a))
-#combine(
-#1(luto respect pinya))
+#syn(luto pagluluto) #syn(respect to tungod sa) #syn(pi a pinya))
 )
 </text>
 </query>
@@ -3321,11 +2985,7 @@
 <text>
 #max(
 #combine(
-#1(respect gabing-uwak))
-#combine(
-#1(respect kalawa))
-#combine(
-#1(to gabing-uwak))
+#syn(respect to tungod sa) #syn(gabing-uwak kalawa))
 )
 </text>
 </query>
@@ -3335,11 +2995,7 @@
 <text>
 #max(
 #combine(
-#1(damit))
-#combine(
-#1(kasuotan))
-#combine(
-#1(moth))
+#syn(damit kasuotan moth polilya))
 )
 </text>
 </query>

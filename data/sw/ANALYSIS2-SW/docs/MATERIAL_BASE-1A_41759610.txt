@@ -1,0 +1,75 @@
+0.000	inLine	<no-speech>
+0.000	outLine	<no-speech>
+0.610	inLine	tulishinda ?
+1.450	inLine	<no-speech>
+1.570	outLine	<sta> ehhe .
+2.370	outLine	<no-speech>
+2.790	inLine	<sta> nani alifunga hiyo bao ?
+3.980	inLine	<no-speech>
+4.190	outLine	boy ule alifunga ndiyo alifunga .
+5.180	inLine	<no-speech>
+5.650	inLine	<no-speech>
+6.230	outLine	<no-speech>
+6.970	inLine	ahh kwani we ulikuwa unao- -- ulikuwa unaona game ukiwa umefunga macho ?
+10.020	outLine	<sta> we unangojanga kuambiwa tuwe .
+10.680	inLine	<no-speech>
+12.472	outLine	ka haujui hata players -- haujui players watano wa Arsenal we unataka uambiwe nini sasa na hauwajui ?
+12.890	inLine	<laugh> nadhani %incomplete
+14.040	inLine	<no-speech>
+17.700	inLine	game sasa ilikuwa inaanza late sijui %incomplete
+19.350	outLine	<no-speech>
+19.518	inLine	<no-speech> game ilianza saa sita sijui saa saba ya usiku .
+22.230	inLine	<no-speech>
+22.340	outLine	ilikuwa saa tano na nusu -- saa tano na %incomplete
+25.030	inLine	tano na nusu ?
+25.740	outLine	ahh saa tano na quarter fifteen .
+25.970	inLine	<no-speech>
+28.490	outLine	<no-speech>
+29.070	inLine	we ulionea wapi ?
+30.270	inLine	<no-speech>
+30.820	outLine	mi nilikuwa naionea huko Ummo .
+32.480	outLine	<no-speech>
+33.320	inLine	mmhm .
+33.870	inLine	<no-speech>
+34.250	outLine	mmhm .
+34.815	outLine	sasa %incomplete
+35.470	inLine	<sta> ulienda mguu ama ulienda na gari ?
+36.510	outLine	<no-speech>
+37.110	inLine	<no-speech>
+37.880	outLine	huko nilienda mguu .
+39.110	outLine	<no-speech>
+40.150	inLine	<sta> ehhe si ulichoka sana si ni mbali ?
+42.120	inLine	<no-speech>
+42.440	outLine	<sta> ahh hapa tu over- -- over- -- over nilikuwa tu na maroster roster zangu kama nne .
+44.370	inLine	mmhm .
+44.900	inLine	<no-speech>
+46.280	inLine	<no-speech>
+49.050	inLine	<no-speech>
+50.980	outLine	<no-speech>
+51.470	inLine	<int> ehhe .
+51.790	outLine	nawaacha nikihang -- nawaacha nikihang *nikafika* *mara* hiyo hiyo .
+52.160	inLine	<no-speech>
+55.640	outLine	<no-speech>
+56.730	inLine	<sta> Malaji we sa- -- we ni supporter wa Chelsea .
+59.000	inLine	<no-speech>
+59.460	outLine	ehhe ?
+60.050	outLine	<no-speech>
+60.590	inLine	we ni supporter wa Chelsea si ndiyo ?
+62.480	inLine	<no-speech>
+63.100	outLine	ehhe nini Ketepa ?
+64.530	outLine	<no-speech>
+65.220	inLine	we ni supporter wa Chelsea si ndiyo ?
+66.990	inLine	<no-speech>
+67.760	outLine	Ketepa ya fifty ?
+68.770	outLine	<no-speech>
+69.400	inLine	we ni supporter wa Chelsea .
+70.932	inLine	<no-speech> si ndiyo ?
+71.630	inLine	<no-speech>
+72.230	outLine	ehhe mi ni *mchezo* .
+73.590	outLine	<no-speech>
+74.490	inLine	ahh kama we ni mChelsea %incomplete
+75.870	inLine	<no-speech>
+75.990	outLine	ehhe na sasa ikipita hizo dakika ashu inakata ama ?
+78.871	outLine	<no-speech> inaendaje ?
+79.540	outLine	<no-speech>
+79.560

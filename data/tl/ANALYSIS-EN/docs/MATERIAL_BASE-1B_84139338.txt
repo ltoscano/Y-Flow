@@ -1,0 +1,117 @@
+<1>	(Outline, 0.000-1.155)	<no-speech>	<no-speech>
+<2>	(Inline, 0.000-2.230)	<sta> hindi pa .	not yet .
+<3>	(Outline, 1.155-2.971)	doon sa pamilya ko 'to ?	this is for my family ?
+<4>	(Inline, 2.230-3.110)	<no-speech>	<no-speech>
+<5>	(Outline, 2.971-4.886)	<no-speech>	<no-speech>
+<6>	(Inline, 3.110-8.197)	<sta> anong nangyari pala sa laban kagabi ?	what happened at the game last night ?
+<7>	(Outline, 4.886-5.465)	ah .	ah .
+<8>	(Outline, 5.465-6.335)	<no-speech>	<no-speech>
+<9>	(Outline, 6.335-7.585)	<no-speech>	<no-speech>
+<10>	(Outline, 7.585-9.385)	<no-speech>	<no-speech>
+<11>	(Inline, 8.197-10.485)	<no-speech>	<no-speech>
+<12>	(Outline, 9.385-10.734)	<no-speech>	<no-speech>
+<13>	(Inline, 10.485-13.131)	sa do- -- <no-speech> sa computer ?	in -- in the computer ?
+<14>	(Outline, 10.734-11.082)	sa'n ?	where ?
+<15>	(Outline, 11.082-12.255)	<no-speech>	<no-speech>
+<16>	(Outline, 12.255-16.875)	<no-speech>	<no-speech>
+<17>	(Inline, 13.131-15.060)	<no-speech>	<no-speech>
+<18>	(Inline, 15.060-15.860)	<no-speech>	<no-speech>
+<19>	(Inline, 15.860-17.090)	<no-speech>	<no-speech>
+<20>	(Outline, 16.875-17.867)	wala talo kami .	we lost .
+<21>	(Inline, 17.090-17.624)	<sta> ano ?	what ?
+<22>	(Inline, 17.624-18.560)	<no-speech>	<no-speech>
+<23>	(Outline, 17.867-18.325)	<no-speech>	<no-speech>
+<24>	(Outline, 18.325-19.435)	<no-speech>	<no-speech>
+<25>	(Inline, 18.560-19.310)	talo kayo ?	you lost ?
+<26>	(Inline, 19.310-20.360)	<no-speech>	<no-speech>
+<27>	(Outline, 19.435-20.580)	<no-speech>	<no-speech>
+<28>	(Inline, 20.360-21.290)	ba't sino bang wala ?	why who was missing ?
+<29>	(Outline, 20.580-23.045)	mhm <no-speech> o una panalo kami .	yes at first we won .
+<30>	(Inline, 21.290-22.120)	<no-speech>	<no-speech>
+<31>	(Inline, 22.120-23.098)	oh sino ?	oh who ?
+<32>	(Outline, 23.045-26.185)	<no-speech>	<no-speech>
+<33>	(Inline, 23.098-24.665)	<no-speech>	<no-speech>
+<34>	(Inline, 24.665-27.042)	oh sino dapat panalo na kayo ng pangalawa 'di ba ?	who you should've won the second one right ?
+<35>	(Outline, 26.185-27.535)	tapos pangalawa talo kami .	then in the second one we lost .
+<36>	(Inline, 27.042-29.419)	dapat panalo na kayo noon .	you should have won there .
+<37>	(Outline, 27.535-29.115)	<no-speech>	<no-speech>
+<38>	(Outline, 29.115-30.065)	talo 'yung pangalawa .	the second one was a loss .
+<39>	(Inline, 29.419-30.195)	<no-speech>	<no-speech>
+<40>	(Outline, 30.065-32.055)	<no-speech>	<no-speech>
+<41>	(Inline, 30.195-31.021)	ha ?	huh ?
+<42>	(Inline, 31.021-33.263)	dapat panalo na nga kayo .	you should've won .
+<43>	(Outline, 32.055-33.245)	'yong kaso wala pa rin .	there's still nothing from the case .
+<44>	(Outline, 33.245-35.465)	<no-speech>	<no-speech>
+<45>	(Inline, 33.263-33.920)	ha ?	huh ?
+<46>	(Inline, 33.920-34.830)	<no-speech>	<no-speech>
+<47>	(Inline, 34.830-35.790)	<no-speech>	<no-speech>
+<48>	(Outline, 35.465-36.974)	ah <no-speech> ano 'no 'no ?	huh what what what ?
+<49>	(Inline, 35.790-39.190)	da- -- dapat panal- -- <sta> dapat panalo na kayo no'ng pangalawa .	-- you -- you should've won at the second one .
+<50>	(Outline, 36.974-38.195)	<no-speech>	<no-speech>
+<51>	(Outline, 38.195-42.055)	<no-speech>	<no-speech>
+<52>	(Inline, 39.190-40.390)	<no-speech>	<no-speech>
+<53>	(Inline, 40.390-41.650)	nagpatalo pa kasi kayo eh .	because you let yourselves lose .
+<54>	(Inline, 41.650-44.670)	<no-speech>	<no-speech>
+<55>	(Outline, 42.055-42.745)	oo .	yes .
+<56>	(Outline, 42.745-44.475)	<no-speech>	<no-speech>
+<57>	(Outline, 44.475-45.475)	kumpiyansa kasi .	because you were confident .
+<58>	(Inline, 44.670-45.345)	no'ng %incomplete	when %incomplete
+<59>	(Inline, 45.345-46.695)	<sta> huh ?	huh ?
+<60>	(Outline, 45.475-49.045)	<no-speech>	<no-speech>
+<61>	(Inline, 46.695-48.078)	<no-speech>	<no-speech>
+<62>	(Inline, 48.078-50.288)	pasok kasi ng pasok kaagad .	because you move recklessly .
+<63>	(Outline, 49.045-49.945)	kumpiyansa .	confident .
+<64>	(Outline, 49.945-50.965)	<no-speech>	<no-speech>
+<65>	(Inline, 50.288-52.498)	<no-speech> pasok kayo ng pasok eh .	you move recklessly .
+<66>	(Outline, 50.965-51.315)	<no-speech>	<no-speech>
+<67>	(Outline, 51.315-54.035)	<no-speech>	<no-speech>
+<68>	(Inline, 52.498-53.679)	<no-speech>	<no-speech>
+<69>	(Inline, 53.679-56.480)	dapat (()) .	you should be (()) .
+<70>	(Outline, 54.035-58.176)	'di ko alam sa kanila basta ako <no-speech> nilalaro ko na lang eh .	I don't know what's with them but for me I just played .
+<71>	(Inline, 56.480-59.850)	<no-speech>	<no-speech>
+<72>	(Outline, 58.176-60.125)	<no-speech>	<no-speech>
+<73>	(Inline, 59.850-60.280)	<no-speech>	<no-speech>
+<74>	(Outline, 60.125-62.755)	<no-speech>	<no-speech>
+<75>	(Inline, 60.280-63.980)	<no-speech>	<no-speech>
+<76>	(Outline, 62.755-63.695)	nakakailang eh .	it's awkward .
+<77>	(Outline, 63.695-65.205)	<no-speech>	<no-speech>
+<78>	(Inline, 63.980-64.410)	huh ?	huh ?
+<79>	(Inline, 64.410-64.815)	<no-speech>	<no-speech>
+<80>	(Inline, 64.815-66.609)	<sta> no'ng pangatlo durog kayo 'no ?	during the third you were crushed right ?
+<81>	(Outline, 65.205-65.785)	<no-speech>	<no-speech>
+<82>	(Outline, 65.785-68.995)	<no-speech>	<no-speech>
+<83>	(Inline, 66.609-68.280)	<no-speech>	<no-speech>
+<84>	(Inline, 68.280-70.100)	<no-speech>	<no-speech>
+<85>	(Outline, 68.995-69.605)	oo .	yes .
+<86>	(Outline, 69.605-70.995)	<no-speech>	<no-speech>
+<87>	(Inline, 70.100-71.900)	<sta> si Lakay din .	Lakay too .
+<88>	(Outline, 70.995-72.933)	<no-speech>	<no-speech>
+<89>	(Inline, 71.900-75.950)	<no-speech>	<no-speech>
+<90>	(Outline, 72.933-76.335)	mhm <no-speech> ikat- -- pangatlo rin sayang din pangatlo eh .	yes -- third too third place is a shame too .
+<91>	(Inline, 75.950-77.070)	<sta> huh ?	huh ?
+<92>	(Outline, 76.335-77.545)	<no-speech>	<no-speech>
+<93>	(Inline, 77.070-80.750)	<no-speech>	<no-speech>
+<94>	(Outline, 77.545-79.587)	<no-speech>	<no-speech>
+<95>	(Outline, 79.587-81.155)	'yung pangatlo sayang rin .	the third one was a shame too .
+<96>	(Inline, 80.750-82.420)	<sta> ah .	ah .
+<97>	(Outline, 81.155-82.435)	<no-speech>	<no-speech>
+<98>	(Inline, 82.420-86.690)	<no-speech>	<no-speech>
+<99>	(Outline, 82.435-83.351)	parehas rin .	same as well .
+<100>	(Outline, 83.351-85.206)	parehas pala may kapit parehas na eh .	so turns out both had connections both .
+<101>	(Outline, 85.206-86.545)	<no-speech>	<no-speech>
+<102>	(Outline, 86.545-87.785)	<no-speech>	<no-speech>
+<103>	(Inline, 86.690-87.335)	oo nga .	yes .
+<104>	(Inline, 87.335-88.105)	<no-speech>	<no-speech>
+<105>	(Outline, 87.785-88.155)	<no-speech>	<no-speech>
+<106>	(Inline, 88.105-89.620)	mamaya maglalaban ulit kayo ?	you'll battle again later ?
+<107>	(Outline, 88.155-89.215)	<no-speech>	<no-speech>
+<108>	(Outline, 89.215-90.855)	(()) .	(()) .
+<109>	(Inline, 89.620-91.540)	<no-speech>	<no-speech>
+<110>	(Outline, 90.855-92.455)	<no-speech>	<no-speech>
+<111>	(Inline, 91.540-91.998)	huh ?	huh ?
+<112>	(Inline, 91.998-93.797)	<no-speech>	<no-speech>
+<113>	(Outline, 92.455-94.663)	<no-speech>	<no-speech>
+<114>	(Inline, 93.797-95.310)	<sta> maglalaban ulit kayo mamaya ?	will you fight again later ?
+<115>	(Outline, 94.663-95.975)	nakukumpiyansahan kasi .	it's because you are confident .
+<116>	(Inline, 95.310-97.620)	<no-speech>	<no-speech>
+<117>	(Outline, 95.975-97.620)	<no-speech>	<no-speech>

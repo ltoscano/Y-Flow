@@ -1,5 +1,5 @@
-f = open("query_annotation.tsv")
-f_out = open("rel.dev",'w')
+f = open("rel.analysis2")
+f_out = open("rel.analysis2.trec",'w')
 
 lines = f.readlines()
 for line in lines[1:]:

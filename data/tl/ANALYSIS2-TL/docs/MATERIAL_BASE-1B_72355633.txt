@@ -1,0 +1,57 @@
+0.000	outLine	<no-speech>
+0.000	inLine	mga ano <no-speech> mga kabarkada dito <no-speech> .
+1.310	outLine	lakasan mo naman sinasabi mo .
+2.752	outLine	<no-speech>
+3.620	outLine	<no-speech>
+3.729	inLine	ako'y nagpapalaro ng basketball sa mga kabataan dito .
+7.135	inLine	<no-speech>
+8.604	inLine	ngunit ang kapatid nating si kaibigan Tambol muli naman po siyang nababalik <no-speech> para maglaro ng basketball .
+8.720	outLine	<no-speech>
+9.070	outLine	<no-speech>
+9.900	outLine	<no-speech>
+10.430	outLine	<no-speech>
+11.370	outLine	oo .
+11.906	outLine	<no-speech> ikaw pala ?
+13.108	outLine	<no-speech> ikaw 'yon ?
+14.210	outLine	<no-speech>
+15.730	outLine	<no-speech>
+15.981	inLine	<no-speech>
+16.603	inLine	kung gusto mong (()) <no-speech> (()) .
+17.910	outLine	<no-speech>
+18.750	outLine	<no-speech>
+20.360	outLine	<sta> text na lang ang hirap doon eh .
+20.770	inLine	<no-speech>
+21.590	inLine	<no-speech>
+23.106	outLine	<no-speech>
+25.671	inLine	bakit ?
+27.074	inLine	<no-speech>
+27.087	outLine	quota ako eh .
+28.080	outLine	<no-speech>
+28.590	inLine	si kaibigang Tambol <no-speech> ay nagnanais na maglaro ng basketball .
+29.880	outLine	<no-speech>
+32.880	inLine	(()) bawat bagay <no-speech> ay sana <no-speech> ay iniintindi mo (()) ang *paglala-* ang paglalaro ng basketball ay isang <laugh> (()) .
+33.367	outLine	oh .
+33.675	outLine	<no-speech>
+35.212	outLine	sinong sumisipol doon ?
+37.300	outLine	<no-speech>
+38.670	outLine	<no-speech>
+40.020	outLine	<no-speech>
+41.410	outLine	<no-speech>
+43.184	outLine	oo ayos lang .
+44.026	outLine	<no-speech>
+45.000	outLine	<no-speech>
+46.200	outLine	<no-speech>
+47.930	inLine	<no-speech>
+47.936	outLine	si Donio oh kumakain .
+49.710	inLine	importante sa tao .
+50.210	outLine	<no-speech>
+51.309	inLine	<no-speech>
+51.750	outLine	<no-speech>
+52.150	inLine	ha ?
+52.636	inLine	<no-speech>
+53.172	inLine	kaya 'wag mong kalilimutan lagi 'yon .
+54.250	outLine	<no-speech>
+55.220	outLine	<sta> trabaho .
+55.480	inLine	<no-speech>
+56.850	outLine	<no-speech>
+57.150

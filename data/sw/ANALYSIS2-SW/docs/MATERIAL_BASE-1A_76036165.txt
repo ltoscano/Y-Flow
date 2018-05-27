@@ -1,0 +1,89 @@
+0.000	inLine	mmhm .
+0.000	outLine	<no-speech>
+0.610	inLine	<no-speech>
+0.910	outLine	ulienda kuona stuff <sta> ako nazo ?
+1.950	inLine	(()) <no-speech> .
+2.561	outLine	<no-speech>
+3.350	inLine	ahh msee amechapa hana any ako na zile stuff zinakuwanga za nini <no-speech> -- za kurun .
+3.750	outLine	<no-speech>
+6.960	outLine	<no-speech>
+8.170	inLine	<no-speech>
+9.147	outLine	so -- so nini zao hizo suti zao naonganga wakiadvertise si zile suti orig ?
+14.044	outLine	<no-speech>
+14.310	inLine	anadownload nilienda kucheki but yu download hizo vitu %incomplete
+15.280	outLine	<no-speech>
+17.775	inLine	<no-speech>
+18.470	outLine	<sta> ohh ye hutawala halafu anapost ?
+19.010	inLine	halafu anawekelea hapo .
+20.620	inLine	<no-speech>
+21.300	outLine	<no-speech>
+21.540	inLine	mmhm .
+22.043	inLine	anadownload (()) sidhani ye mwenyewe hana any viatu ni msingle maplastic .
+23.700	outLine	<int> ya .
+24.150	outLine	<no-speech>
+26.800	inLine	<no-speech>
+27.400	outLine	<no-speech>
+27.770	outLine	<no-speech>
+28.060	inLine	<sta> trouser ni zile trouser zinakuwanga ile ukikaa kaa -- ukikaa hata chini inakaa inajikunja huku katikati .
+29.050	outLine	<no-speech>
+30.120	outLine	<no-speech>
+32.020	outLine	mmhm ?
+32.447	outLine	<no-speech>
+34.660	inLine	<no-speech>
+36.401	outLine	wachana nazo .
+37.096	outLine	sasa ame- -- ni nini anakuanga anajichocha ati ako na stuff -- ako na stuff anaget watu excited ?
+43.090	outLine	<no-speech>
+43.280	inLine	halafu tisho hizo zingine ni zile una- -- unaona kama hizi za Man_U zinakuwanga fake fake ?
+45.750	outLine	mmhm <int> .
+46.320	outLine	<no-speech>
+49.500	outLine	ehhe .
+49.560	inLine	<no-speech>
+50.100	outLine	<no-speech>
+50.950	inLine	as in chingo kabisa zile wasee wa bodaboda huvaanga hizo .
+55.042	inLine	<no-speech>
+56.396	inLine	halafu anauza soo tano .
+57.770	inLine	<no-speech>
+58.490	outLine	so ohh that's why anauza cheap kumbe ana- -- si kitu poa ?
+60.320	inLine	<no-speech>
+61.450	outLine	<no-speech>
+62.502	inLine	mmhm .
+63.000	inLine	<no-speech>
+64.060	outLine	ahh mi niko %incomplete
+64.140	inLine	<sta> ni vitu tu as in amefabricate vitu mbaya mbaya .
+64.999	outLine	<no-speech>
+67.110	inLine	<no-speech>
+67.520	outLine	<sta> ehhe ?
+67.972	outLine	<no-speech>
+69.049	outLine	mi niko .
+69.110	inLine	<sta> Anne ako wapi ?
+69.750	outLine	<no-speech>
+70.060	inLine	<no-speech>
+70.760	outLine	Anne ako <no-speech> -- ako Webuye lakini mi niko B_G <no-speech> saa hii .
+75.230	inLine	ameniambia amepostphone wedding .
+75.420	outLine	<no-speech>
+77.210	inLine	<no-speech>
+78.520	outLine	<sta> sijaongea naye nikishaongea naye nitakwambia lakini nilisikia sijui amekuwa mpaka Tuesday -- mpaka second .
+78.820	inLine	<no-speech>
+79.350	inLine	<no-speech>
+84.010	inLine	<sta> <hes> second na aliniambia hivyo ehhe hata sikuwa na pesa mi .
+84.041	outLine	<no-speech>
+85.047	outLine	mmhm .
+85.360	outLine	<no-speech>
+88.333	inLine	<no-speech>
+88.500	outLine	<sta> ehhe .
+89.140	outLine	<no-speech>
+90.114	inLine	anataka nikam .
+91.390	inLine	<no-speech>
+91.530	outLine	sawa we kam tutaongea tuone venye itakuwa .
+94.080	outLine	<no-speech>
+94.800	inLine	nataka nikuje nione vyenye %incomplete
+96.919	inLine	<no-speech> nimwonee kabla nini %incomplete
+97.460	outLine	<no-speech> ehhe ?
+98.240	outLine	<no-speech>
+99.510	inLine	<no-speech>
+99.840	outLine	so we uko -- u- -- haujaenda job leo ama ?
+103.930	inLine	niko job .
+104.010	outLine	<no-speech>
+104.740	inLine	<no-speech>
+105.940	outLine	ahh sa unajua sound ya jamaa mwenye uliongea naye wa kwanza alikuwa anasound ka Biggy bwana .
+111.070

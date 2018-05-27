@@ -25,7 +25,7 @@ with open('../topics/en.t') as f:
         q2text[tokens[0]] =  Text #''.join(word_tokenize(f)) for f in tokens[1:len(tokens)-1]
 f.close()
 
-with open('../judg/rel.judg') as f:
+with open('../judg/rel.dev') as f:
     for line in f.readlines():
         tokens = line.rstrip().split(' ')
         if tokens[0] in q2d:
@@ -86,5 +86,3 @@ text2id_f.close()
 
 
 w.close()
-
-

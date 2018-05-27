@@ -1,0 +1,32 @@
+<1>	(0.000-6.627)	<misc> day fifteen kalahating buwan na po ang krisis sa Zamboanga .	day fifteen the crisis in Zamboanga is half a month already .
+<2>	(6.627-14.630)	ngayong araw mas pinaigting pa raw ang opensiba ng militar kontra sa mga miyembro ng M_N_L_F Misuari faction .	today the military offensive is intensified against the members of the M_N_L_G Misuari faction .
+<3>	(14.630-20.111)	sa gitna naman ng kanilang operasyon natagpuan ang ilang gamit na mga M_N_L_F sniper .	in the middle of their operation some of the things of the M_N_L_F sniper are found .
+<4>	(20.111-28.513)	samantala sa ilang bahagi naman ng siyudad nagsabit ang mga residente ng watawat ng Pilipinas bilang suporta sa ating pamahalaan .	meanwhile in other parts of the city the residents hang the flag of the Philippines as a support to our government .
+<5>	(28.513-32.061)	live mula sa Zamboanga may report si Chino Gaston .	live from Zamboanga Chino Gaston has the report .
+<6>	(32.061-34.950)	Chino ?	Chino ?
+<7>	(34.950-44.030)	Jessica nangako nga ang militar na kaunting panahon na lamang ay makukubkob na nila itong nalalabing <hes> kuta ng M_N_L_F dito sa Zamboanga city at matatapos na rin ang krisis .	Jessica the military promised that a few more time they can already seize this remaining camp of the M_N_L_F here in Zamboanga City and the crisis will finally be ended .
+<8>	(44.030-49.640)	pero kung kailan ito mangyayari wala pa ring nakakapagsabi .	but if when will this happen no one can tell .
+<9>	(49.640-58.400)	sa pagpasok ng ikatlong linggo ng krisis dito sa siyudad ng Zamboanga lalo pang pinatindi ng militar ang kanilang operasyon sa mga miyembro ng M_N_L_F Misuari faction .	upon the entrance of the third week of crisis here in the city of Zamboanga the military intensified their operation more to the members of the M_N_L_F Misuari faction .
+<10>	(58.400-63.610)	sunod-sunod na nagpakawala ng raket mula sa M_G five attack helicopter .	simultaneously released a racket from the M_G five attach helicopter .
+<11>	(63.610-64.523)	(()) .	(()) .
+<12>	(64.523-70.130)	target daw ng raket attack ang ilang rebeldeng namataan umano sa Bakwawan sa barangay Mariqui .	the target of the racket are the rebels hit at Bakwawan in barangay Mariqui .
+<13>	(70.130-73.029)	<no-speech>	<no-speech>
+<14>	(73.029-77.250)	sa karagatang malapit sa lugar nagpaputok din ang Philippine Navy .	in the ocean near the place the Philippine Navy also fired .
+<15>	(77.250-85.619)	ang matinding bakbakan ngayon naganap matapos muling sumiklab ang isang sunog sa gitna ng umiigting na palitan ng putok sa pagitan ng militar at mga rebelde .	the intense firefight now happened after the fire exploded again in the middle of the intensified exchange of gunshots between the military and the rebels .
+<16>	(85.619-90.220)	sa barangay Santa Barbara maya't maya ang labas pasok ng ambulansiya ng militar .	in barangay Santa Barbara the ambulance of the military goes back and forth every now and then .
+<17>	(90.220-93.760)	sa A_F_P dalawang sundalo ang sugatan sa bakbakan ngayong araw .	in the A_F_P two soldiers are wounded in the firefight today .
+<18>	(93.760-98.276)	umabot na sa labing limang sundalo at pulis ang nasawi mula ng magsimula ang labanan .	it reached fifteen soldiers and police were killed since the fight started .
+<19>	(98.276-108.150)	<int> kaninang umaga namatay na si second lieutenant Florencio Mikael Meneses sa ospital habang ginagamot matapos masugatan sa bakbakan kahapon sa barangay Santa Catalina .	this morning Second Lieutenant Florencio Mikael Meneses died in the hospital while being treated after he was wounded in the firefight yesterday in barangay Santa Catalina .
+<20>	(108.150-113.610)	si Meneses ang ikalawang opisyal ng militar na nasawi sa labi lima na araw ng bakbakan .	Meneses is the second official of the military who died in the fifteen day firefight .
+<21>	(113.610-123.220)	<sta> ayon sa A_F_P malapit na raw nilang matapos ang clearing operations lalo na sa Luste street kung saan nagkukuta ang grupo ng M_N_L_F sa ilalim ni kumander Habier Malik .	according to the A_F_P they nearly finish the clearing operations especially in the Luste street where the group of the M_N_L_F is camping under commander Habier Malik .
+<22>	(123.220-130.180)	maliit na grupo na lang daw ang kasama ni Malik pero nananatiling delikado dahil nakapuwesto ang mga sniper sa lugar .	Malik is only with a small group now but remains dangerous because the snipers are positioned in the place .
+<23>	(130.180-133.330)	there are no indications <hes> na susuko sila .	there are no indications that they will surrender .
+<24>	(133.330-137.615)	what we do know is kaunti na lang ang putok nila 'no for the past <hes> few days .	what we do know is their shots are only less right for the past few days .
+<25>	(137.615-141.780)	(()) malawak ang pinsala sa siyudad .	(()) the damage in the city is huge .
+<26>	(141.780-145.299)	ng pasukin namin ang barangay Kasangyaan ito ang aming nadatnan .	when we entered barangay Kasangyaan here is what we have arrived at .
+<27>	(145.299-149.650)	mga sunog na bahay ang iba pader na lang ang nakatayo .	houses gutted in fire only the walls are standing for others .
+<28>	(149.650-151.580)	halos lahat tadtad ng bala .	almost all are chopped with bullets .
+<29>	(151.580-157.050)	sa buong lungsod mahigit isang libong bahay na ang natupok ng mga sunog .	in the whole city more than one thousand houses are burned down by fire .
+<30>	(157.050-169.931)	sa barangay Santa Katalinan naman natagpuan kanina ng Light Reaction Company at scout rangers ng Philippine Army ang mag-amang nagtatago sa bahay sa likod ng K_J_K building ang balwarte noon ni M_N_L_F commander Ustadz Habier Malik .	in barangay Santa Katalinan the Light Reaction Company and scout rangers of the Philippine Army found the father and his child who are hiding in the house behind the K_J_K building which is the former territory of M_N_L_F commander Ustadz Habier Malik .
+<31>	(169.931-177.506)	mula September nine hindi na nakaalis ang mga mag-amang Vicente at Elizabeth Climaco sa kanilang bahay dahil sa walang tigil na putukan .	from September nine the father Vicente and his daughter Elizabeth Climaco were not able to leave their house because of the incessant firing .
+<32>	(177.506-180.015)	hindi raw sila kumain ng mahigit isang linggo .	they have not eaten for more than a week .

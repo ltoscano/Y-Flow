@@ -1,0 +1,15 @@
+[0.000]
+<sta> na ang mga balita sa oras na ito .
+[1.996]
+<sta> dalawang sundalo ang patay habang apat pa ang sugatan sa pagsabog ng improvised explosive device sa Datu Unsay sa Maguindanao .
+[9.697]
+<sta> ayon sa Armed Forces of the Philippines dumadaan ang military convoy ni Colonel Gener del Rosario sa Meta Bridge <sta> nang magkaroon ng pagsabog na sumapol sa dalawang sasakyan .
+[19.490]
+<sta> nagkaroon pa ng palitan ng putok mula sa mga sundalo at hinihinalang mga miyembro ng Bangsamoro Islamic Freedom Fighters .
+[26.490]
+<sta> sinasabing mula sa First Mechanized Infantry Brig- -- Brigade ang mga nasawi at nasaktang sundalo .
+[32.260]
+<sta> patuloy ang hot pursuit operations laban sa mga suspect .
+[36.146]
+<int> be sure to comeback .
+[38.252]

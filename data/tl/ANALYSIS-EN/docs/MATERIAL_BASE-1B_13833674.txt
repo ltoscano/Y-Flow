@@ -1,0 +1,78 @@
+<1>	(0.000-1.809)	<no-speech>	<no-speech>
+<2>	(1.809-2.998)	<sta> magandang umaga po .	good morning .
+<3>	(2.998-6.770)	<sta> narito po ang mga tampok na balitang sports sa araw na ito .	here are the featured sports news for this day .
+<4>	(6.770-13.650)	<sta> tiwala si veteran boxing analyst Renato Lirio <sta> na makakabawi si Manny Pacquiao kay Timothy Bradley sa rematch .	veteran boxing analyst Renato Lirio is confident that Manny Pacquiao can recover from Timothy Bradley in the rematch .
+<5>	(13.650-21.540)	<sta> unang nagharap ang dalawang protagonist noong June twenty twelve kung saan naagaw ni Bradley ang W_B_O welterweight belt mula kay Pacquiao .	the two protagonists first faced in June twenty twelve wherein Bradley snagged the W_B_O welterweight belt from Pacquiao .
+<6>	(21.540-24.540)	<sta> ang kabuuang detalye ihahatid ni Christabel de Leon .	the full details will be delivered by Christabel de Leon .
+<7>	(24.540-25.438)	<no-speech>	<no-speech>
+<8>	(25.438-31.850)	<sta> nananaginip ng gising si Timothy Bradley kung naniniwala siya na kaya niyang ulitin ang upset win kontra Manny Pacquiao .	Timothy Bradley is daydreaming if he believes he can repeat the upset win against Manny Pacquiao .
+<9>	(31.850-38.690)	<sta> ito ang tugon ni sports radio boxing commentator Renato Lirio sa pahayag ni Bradley na kaya pa niyang patulugin sa rematch si Pacquiao .	this is the reply of sports radio boxing commentator Renato Lirio to the statement of Bradley that he can still knock out Pacquiao in the rematch .
+<10>	(38.690-46.839)	<sta> kung sixty percent ready na Pacquiao ay nagawang dominahin si Bradley noong June twenty twelve <sta> paano pa kaya kung well changed na Sarangani fighting pride ang haharap sa kaniya .	if a sixty percent ready Pacquiao was able to dominate Bradley in June twenty twelve what if a well changed Sarangani fighting pride will face him .
+<11>	(46.839-49.191)	<no-speech>	<no-speech>
+<12>	(49.191-63.132)	ah yung isang well conditioned Manny Pacquiao ay ma-na-knockout si Timothy Bradley at baka that's a well said kasi yung una nilang laban eh medyo nagduda (()) hindi siya one hundred percent .	a well-conditioned Manny Pacquiao will knock out Timothy Bradley and maybe that's a well said because in their first match (()) was suspicious that he's not one hundred percent .
+<13>	(63.132-65.308)	mismong si Bradley nga nagtaka eh .	it seems that Bradley himself wondered .
+<14>	(65.308-68.060)	I should have been <hes> knockout in round four .	I should have been knockout in round four .
+<15>	(68.060-69.485)	<no-speech>	<no-speech>
+<16>	(69.485-70.801)	to Manny Pacquiao .	to Manny Pacquiao .
+<17>	(70.801-71.868)	<no-speech>	<no-speech>
+<18>	(71.868-80.214)	giit pa ni Lirio mali na ipinagmalaki ni Bradley ang unanimous decision win kontra Mexican Juan Manuel Marquez na nagpatulog kay Pacquiao noong December twenty twelve .	Lirio also insisted that Bradley was proud of the unanimous decision against Mexican Juan Manuel Marquez who knocked out Pacquiao in December twenty twelve .
+<19>	(80.214-81.310)	<no-speech>	<no-speech>
+<20>	(81.310-85.880)	si Juan Manuel Marquez counter punch 'yan basically yung fundamental niya .	for Juan Manuel Marquez his fundamental is basically the counter punch .
+<21>	(85.880-92.733)	(()) gawa ni Timothy Bradley yung kaniyang <hes> <hes> hit and (()) ano boxer puncher .	Timothy Bradley made (()) his hit and (()) uh boxer puncher .
+<22>	(92.733-97.485)	hindi niya puwedeng gawin kay Manny Pacquiao 'yon kasi susugudin siya nang susugudin ni Manny .	he cannot do that to Manny Pacquiao because Manny will attack and attack him .
+<23>	(97.485-99.621)	wala na siyang space wala na siyang aanuhin .	he no longer has space he has no more uh .
+<24>	(99.621-101.470)	ma-na-knockout siya ni Manny Pacquiao .	he will be knocked out by Manny Pacquiao .
+<25>	(101.470-102.384)	<no-speech>	<no-speech>
+<26>	(102.384-107.620)	<sta> ang rematch nina Pacquiao at Bradley ay mangyayari sa M_G_M Grand Las Vegas Nevada sa April thirteen .	the rematch of Pacquiao and Bradley will happen at M_G_M Grand Las Vegas Nevada on April thirteen .
+<27>	(107.620-114.890)	<sta> dito ay nakataya ang W_B_O welterweight belt na naagaw ni Bradley kay Pacquiao sa kanilang unang engkuwentro noong June twenty twelve .	at stake here is the W_B_O welterweight belt Bradley took away from Pacquiao on their first encounter in June twenty twelve .
+<28>	(114.890-118.982)	<sta> para sa good morning boss Christabel de Leon P_T_V sports .	for good morning boss Christabel de Leon P_T_V sports .
+<29>	(118.982-129.130)	<sta> sa multi-stage cycling <sta> nangako si Philippine Army team Captain Irish Valenzuela na hindi niya basta-basta isusuko ang korona ng Ronda Pilipinas cycling classic .	for multi-stage cycling Philippine Army team captain Irish Valenzuela promised that he will not immediately surrender the crown of the Ronda Pilipinas cycling classic .
+<30>	(129.130-135.890)	<sta> ito'y kahit pa napag-iiwanan siya sa overall individual standings sa unang limang stages ng taunang pakarera .	this is even if he has been left behind in the overall individual standings during the first five stages of the annual race .
+<31>	(135.890-138.890)	<sta> narito ang report ni Snow Badua mula sa Lucena city .	here is the report of Snow Badua from Lucena City .
+<32>	(138.890-150.956)	<sta> papasok sa huling siyam na stages ng Ronda Pilipinas International twenty fourteen <sta> naniniwala si defending champion Irish Valenzuela na sa ruta patungong Northern Luzon pa lamang magsisimula <sta> aksiyon .	entering the final nine stages of Ronda Pilipinas International twenty fourteen defending champion Irish Valenzuela believes that the action is just about to start on the route heading to Northern Luzon .
+<33>	(150.956-158.000)	<sta> pero hindi lingid sa kaalaman ng Philippine Army team skipper ang dala dalang banta ng mga foreign rivals tulad ni Frenchman Peter (()) .	but the challenge brought by foreign rivals like Frenchman Peter (()) is not unknown to the Philippine Army team skipper .
+<34>	(158.000-159.993)	<sta> (()) ko rin siya eh .	because I also (()) him .
+<35>	(159.993-170.474)	<sta> sabi ko <sta> eto yung isang matindi na magiging kalaban kasi alam niya kung papaano siya <sta> pumunta sa ahon alam niya kung papaano na gagalaw .	I said this will be my serious competition because he knows how to head to the waves he knows how to move .
+<36>	(170.474-178.080)	<sta> kasunod nito nangako ang tobacco Albay pride na hindi niya basta-basta isusuko ang korona na pinaghirapan niyang masungkit noong isang taon .	after this the Tobacco Albay pride promised that he will not simply surrender the crown he worked hard to earn last year .
+<37>	(178.080-179.252)	<sta> sinusuko mo na ba yung korona mo ?	are you surrendering your crown ?
+<38>	(179.252-180.335)	<sta> hindi pa sir .	not yet sir .
+<39>	(180.335-185.086)	<sta> (()) kailangan <sta> kasi marami ding mga taong umaasa sa akin na %incomplete	(()) because many people also expect me to %incomplete
+<40>	(185.086-186.900)	<sta> pero ba't 'di ko pa nararamdaman ngayon ?	but why don't I feel that yet ?
+<41>	(186.900-193.310)	<sta> <laugh> talagang mabigat talaga yung number one sir <laugh> kasi defending na eh .	the number one is really important important sir because he's already defending .
+<42>	(193.310-197.728)	<sta> kapag defending ka pala talaga talagang sa 'yo lahat nakamata .	if you're defending everyone's eyes are really on you .
+<43>	(197.728-210.614)	<sta> samantala <sta> maging ang ilang local writers at observers ay naniwalang nakikiramdam lamang at nag-co-conserve ng energy ang mga banyagang siklista <sta> bago umatake sa huling limang stages ng February one to sixteen bike cup .	meanwhile even some local writers and observers believe that the foreign cyclists are just reading the mood and conserving energy before attacking in the final five stages on the February one to sixteen bike cup .
+<44>	(210.614-211.874)	<sta> hindi po namin alam eh .	we really don't know .
+<45>	(211.874-214.010)	<sta> baka ganoon din .	maybe it's like that too .
+<46>	(214.010-216.117)	<sta> so ano preparasyon n'yo ?	how are you preparing ?
+<47>	(216.117-217.612)	<no-speech>	<no-speech>
+<48>	(217.612-220.983)	<sta> sa ngayon <hes> relax muna kasi mahaba ang laro eh .	for now relaxing first because the game is long .
+<49>	(220.983-228.277)	<sta> maaga pa naman yung karera <sta> tsaka parang nag-aano pa sila sir eh <no-speech> nag-a-adjust pa sila eh .	the race is still long and it seems like they're uh sir they're still adjusting .
+<50>	(228.277-233.497)	pero sir pagdating sa sprint sir <sta> nakikitaan ko sila ng sprint talaga sir eh .	but sir when it comes to spring sir I really see them in sprints sir .
+<51>	(233.497-240.802)	<sta> siyempre kino-conserve nila yung energy at more on <hes> <sta> polishing the strategy para pagdating sa akyatan kabisadong-kabisado na .	of course they're conserving their energy and more on polishing the strategy so when it comes to climbing they're already very familiar .
+<52>	(240.802-243.816)	<sta> isang patunay diyan pag gusto nilang kumawala kayang-kaya nila eh .	a proof of that is when they want to move away they really can .
+<53>	(243.816-244.860)	<no-speech>	<no-speech>
+<54>	(244.860-255.540)	<sta> Biyernes ng alas nuwebe ng umaga ay muling masusubok ang mountain climbing skills ng natitirang seventy one riders <sta> sa pagsikad ng one hundred fifty three kilometer Lucena city to Antipolo city stage six .	on Friday nine in the morning the remaining seventy-one riders' mountain climbing skills will be tested again at the start of the one hundred fifty-three kilometer Lucena City to Antipolo City state six .
+<55>	(255.540-259.056)	<sta> para sa Good Morning Boss Snow Badua P_T_V sports .	for Good Morning Boss Snow Badua P_T_V Sports .
+<56>	(259.056-260.363)	<no-speech>	<no-speech>
+<57>	(260.363-269.020)	<sta> sa basketball <sta> hindi na dapat kumuha ng bagong naturalize N_B_A (()) ang FIBA World Cup bound Gilas Pilipinas national team .	for basketball the FIBA World Cup bound Gilas Pilipinas national team does not need to get newly naturalized N_B_A (()) .
+<58>	(269.020-282.730)	<sta> ito ang pananaw ni P_B_A legend Mon Fernandez na nagsabing maaaring mawalan lamang ng exposure ang mga local dribblers <sta> kapag natuloy ang naturalization kina Denver Nuggets center JaVale McGee at Brooklyn Nets slotman Andray Blatche .	this is the opinion of P_B_A legend Mon Fernandez who said that local dribblers may lose exposure if the naturalization of Denver Nuggets center JaVale McGee and Brooklyn Nets slot man Andray Blatche will continue .
+<59>	(282.730-285.174)	<sta> may report si Nicole Ramos .	Nicole Ramos has a report .
+<60>	(285.174-295.738)	<sta> kung si four time P_B_A M_V_P Mon Fernandez ang tatanungin <sta> hindi kailangan ng Gilas Pilipinas sina N_B_A birdman JaVale McGee <sta> at Andray Blatche .	if four time P_B_A M_V_P Mon Fernandez will be asked Gilas Pilipinas does not need N_B_A birdman JaVale McGee and Andray Blatche .
+<61>	(295.738-305.790)	<sta> ito'y dahil sa bawat puwesto na lalaruin nina McGee at <sta> Blatche ay isang Pilipino naman ang mawawalan ng pagkakataong mag-improve at ma-expose sa international competitions .	this is because for every position McGee and Blatche will play one Filipino will lose the chance to improve and be exposed to international competitions .
+<62>	(305.790-306.819)	<no-speech>	<no-speech>
+<63>	(306.819-317.169)	<sta> mawalan lang ng opportunity yung mga Pilipino nating <sta> kababayan na maglaro sa team na <hes> yung experience na ma-gain nila .	our Filipino countrymen will lose the opportunity to play for the team the experience they will gain .
+<64>	(317.169-318.956)	that what's more important to me .	that what's more important to me .
+<65>	(318.956-319.971)	<no-speech>	<no-speech>
+<66>	(319.971-328.728)	<sta> obserbasyon pa ng Cebuano basketball (()) <sta> maaaring questionable rin ang commitment na puwedeng ibigay sa bansa nina McGee at Blatche .	the Cebuano basketball (()) even observed that the commitment McGee and Blatche can give to the country may be questionable .
+<67>	(328.728-329.765)	<no-speech>	<no-speech>
+<68>	(329.765-336.234)	<sta> definitely <sta> (()) I propose do you allow this guys to continue playing in their N_B_A .	definitely (()) I propose do you allow this guys to continue playing in their N_B_A .
+<69>	(336.234-340.511)	<sta> I only play for the Philippines during this <sta> international competition .	I only play for the Philippines during this international competition .
+<70>	(340.511-342.920)	<sta> mapag- -- papakamatay ba 'yan ?	will -- they sacrifice their life ?
+<71>	(342.920-343.769)	<sta> oo nga .	yes .
+<72>	(343.769-344.557)	oo nga .	yes .
+<73>	(344.557-347.236)	<sta> (()) baka mapilayan lang sila dito .	(()) they may just be injured here .
+<74>	(347.236-351.085)	<sta> tsaka ano 'yang N_B_A (()) <overlap> <sta> (()) .	and what is that N_B_A (())(()) .
+<75>	(351.085-352.091)	<no-speech>	<no-speech>
+<76>	(352.091-357.900)	<sta> si Fernandez ay makailang beses nang nagsuot ng national tricolor sa mga international tournaments .	Fernandez wore the national tricolor in international tournaments several times .
+<77>	(357.900-362.708)	<sta> kabilang na rito ang World Basketball Championships noong nineteen seventy three .	including the World Basketball Championships in nineteen seventy-three .
+<78>	(362.708-364.215)	<sta> para sa Good Morning Boss .	for Good Morning Boss .

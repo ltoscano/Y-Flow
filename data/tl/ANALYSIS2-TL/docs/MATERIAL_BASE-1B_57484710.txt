@@ -1,0 +1,95 @@
+0.000	outLine	<no-speech>
+0.000	inLine	<no-speech>
+0.205	outLine	nasa ?
+0.875	outLine	<no-speech>
+1.060	inLine	<no-speech>
+1.490	inLine	<no-speech>
+2.185	outLine	<no-speech>
+2.555	outLine	<no-speech>
+3.590	inLine	<no-speech>
+4.146	inLine	'asaan ka sa altar ?
+5.235	outLine	oo .
+5.240	inLine	<no-speech>
+6.730	outLine	<no-speech>
+6.990	inLine	<no-speech>
+7.350	inLine	<no-speech>
+9.673	outLine	bakit ?
+10.685	outLine	<no-speech>
+11.870	inLine	ah .
+11.945	outLine	<no-speech>
+12.420	inLine	<no-speech>
+14.260	inLine	<no-speech>
+14.275	outLine	'asaan ka ba ?
+15.104	outLine	<no-speech>
+16.168	inLine	'ala lang .
+16.980	inLine	<no-speech>
+17.075	outLine	<no-speech>
+18.310	inLine	<sta> dito ako sa ano <hes> Sampaloc <hes> .
+19.075	outLine	<no-speech>
+20.413	inLine	sa ano hospital .
+20.865	outLine	<no-speech>
+22.105	outLine	ah .
+22.795	outLine	<no-speech>
+23.403	inLine	na hospital si ano si Donnie .
+24.385	outLine	<no-speech>
+24.735	outLine	<no-speech>
+25.735	outLine	sino ?
+26.325	outLine	<no-speech>
+28.265	outLine	<no-speech>
+28.685	outLine	<no-speech>
+29.810	inLine	<sta> 'tsaka si Balong fifty fifty na raw silang dalawa .
+30.215	outLine	bakit ?
+30.864	outLine	<no-speech>
+31.325	outLine	<no-speech>
+33.646	inLine	<laugh> may <hes> raw sa mukha <hes> .
+34.585	outLine	<no-speech>
+36.280	inLine	<no-speech>
+37.677	outLine	sinong manok ?
+38.416	outLine	<no-speech>
+39.515	outLine	<no-speech>
+39.520	inLine	<sta> si Balong kasi ang daming taghiyawat daw ng utol niya <hes> .
+40.735	outLine	ha ?
+41.195	outLine	<no-speech>
+44.795	inLine	si Balong papatanggal niya sa ospital ng Sampaloc .
+44.945	outLine	ah .
+45.725	outLine	<no-speech>
+48.504	inLine	<no-speech>
+48.985	outLine	bakit ?
+49.587	outLine	papa-off n'yo na ?
+50.710	inLine	<no-speech>
+50.935	outLine	<no-speech>
+52.265	outLine	<no-speech>
+52.695	outLine	<no-speech>
+53.900	inLine	oo nga <hes> .
+55.174	inLine	<no-speech>
+56.471	inLine	o parang iyong starfish na dumikit .
+58.712	inLine	<no-speech>
+59.215	outLine	ah .
+59.540	inLine	<no-speech>
+59.755	outLine	<no-speech>
+60.570	inLine	<no-speech>
+61.275	outLine	o .
+61.695	outLine	<no-speech>
+63.635	outLine	o <int> .
+64.050	inLine	<no-speech>
+64.075	outLine	<no-speech>
+65.790	inLine	<no-speech>
+66.953	inLine	ah .
+67.175	outLine	mama- -- mamaya ha ?
+67.560	inLine	<no-speech>
+68.605	outLine	<no-speech>
+70.490	inLine	<no-speech>
+70.735	outLine	<no-speech>
+71.534	inLine	ah oo mamaya maliligo -- maliligo pa ako <hes> <int> .
+72.135	outLine	<no-speech>
+75.000	inLine	<no-speech>
+75.355	outLine	<int> sige sige .
+76.241	outLine	<no-speech>
+77.375	outLine	<no-speech>
+78.905	outLine	tagal naman matapos .
+79.975	outLine	<no-speech>
+80.860	inLine	hello .
+81.440	inLine	<no-speech>
+81.745	outLine	mamaya pa 'ata tapos nito <hes> .
+83.243	outLine	<no-speech>
+84.075

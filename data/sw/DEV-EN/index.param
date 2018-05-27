@@ -1,8 +1,8 @@
 <parameters>
-    <index>index.umd.nmt/</index>
+    <index>index.scripts.v2/</index>
     <memory>10G</memory>
     <corpus>
-      <path>docs.umd.nmt</path>
+      <path>docs.scripts.v2</path>
       <class>text</class>
     </corpus>
     <stemmer><name>krovetz</name></stemmer>

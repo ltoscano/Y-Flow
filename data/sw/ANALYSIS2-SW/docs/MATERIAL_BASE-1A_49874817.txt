@@ -1,0 +1,92 @@
+0.000	outLine	kuna ra- -- kuna rafiki yangu fulani %incomplete
+0.000	inLine	<no-speech>
+1.830	outLine	<no-speech>
+2.120	inLine	<sta> ehhe .
+2.700	inLine	<no-speech>
+3.230	outLine	huwa yuko jeshi .
+4.410	outLine	<no-speech>
+4.710	inLine	uhuh .
+5.310	inLine	<no-speech>
+5.830	outLine	huko jeshi ye huwanga ni cook .
+7.450	outLine	<no-speech>
+7.800	inLine	uhuh .
+8.420	inLine	<no-speech>
+8.860	outLine	nikikuonyesha height yake utacheka yaani si (()) Mugo yaani akacheka mpaka akakaa chini .
+13.890	outLine	<no-speech>
+14.270	inLine	<sta> ehhe sasa si ndiyo nashindwa mie .
+15.460	outLine	yake <no-speech> -- yake ni upishi tu ye huwanga (()) umeona vile Mwala hutosha ?
+16.650	inLine	<no-speech>
+20.390	outLine	<no-speech>
+20.610	inLine	<sta> ehhe .
+21.240	inLine	<no-speech>
+21.720	outLine	sasa huyo ni size yangu lakini saa hii ni mwembamba halafu ni mrefu kidogo tu .
+24.840	outLine	<no-speech>
+25.320	inLine	<sta> ehhe .
+25.780	outLine	ye huwanga ni -- ye huwanga ni futi nne <no-speech> na nchi kadhaa .
+25.990	inLine	<no-speech>
+28.440	inLine	<no-speech>
+29.410	inLine	<no-speech>
+30.814	outLine	sasa ndiyo nilikuwa namuambia hiyo jeshi -- hiyo jeshi we ulichukuliwa %incomplete
+31.190	inLine	<sta> ehhe .
+31.860	inLine	<no-speech>
+34.130	outLine	<no-speech>
+34.330	inLine	<sta> ehhe .
+35.030	inLine	<no-speech>
+35.400	outLine	walikuchukua wakienda stima ama walikuwa wamelala wakiota .
+38.610	outLine	<no-speech>
+39.870	outLine	<sta> lakini hata ye alitengeze- -- alitengezewa na jamaa yake <no-speech> mpaka ikafika point mapeni pia yaka- -- yakaliwa lakini sa alikuwa na watu wakubwa zaidi .
+40.290	inLine	asante (()) %incomplete
+40.759	inLine	<no-speech>
+41.770	inLine	ehhe ndivyo <no-speech> .
+43.190	inLine	<no-speech>
+44.920	inLine	uhuh .
+45.560	inLine	<no-speech>
+48.760	inLine	<sta> ya- -- yakahusika ehhe .
+50.240	inLine	<no-speech>
+50.742	outLine	mmhm alikuwa na watu kubwa na wakatia bidii zaidi .
+51.080	inLine	<sta> ehhe .
+51.690	inLine	<no-speech>
+53.400	inLine	<sta> sasa ndiyo (()) %incomplete
+54.125	inLine	<no-speech>
+54.880	outLine	<no-speech>
+55.240	inLine	<sta> ndiyo nakuuliza aje %incomplete
+56.600	inLine	<no-speech>
+57.070	outLine	ehhe <int> .
+57.800	inLine	<sta> na si wale hatuna mapeni sasa tutaangukia wapi ?
+57.970	outLine	<no-speech>
+60.880	inLine	<no-speech>
+61.680	outLine	ehhe yetu ilikufa si wajua <no-speech> rizi- -- riziki ya mbwa hula mapipani .
+66.200	outLine	<no-speech>
+66.890	inLine	<laugh> nakwambia <laugh> mi hata nashangaa sijui nikimbilie upande upi nimechoka kweli .
+69.600	outLine	ehhe ?
+70.120	outLine	<no-speech>
+73.050	outLine	waf- -- wafikiria -- wafikiria mbwa inaweza kula mahali simba yuala ?
+73.610	inLine	<no-speech>
+76.880	outLine	<no-speech>
+77.350	inLine	<sta> ehhe .
+77.898	inLine	<no-speech>
+78.840	outLine	haiwezekani ati mbwa ale na <laugh> -- na simba pamoja .
+79.370	inLine	<no-speech>
+81.337	outLine	mbwa ye hula pipani .
+81.900	inLine	<sta> haiwezakani si itabaki simba yuamla .
+83.220	outLine	<no-speech>
+84.350	outLine	<no-speech>
+84.810	outLine	<no-speech>
+85.250	inLine	<no-speech>
+86.030	outLine	<sta> ahh m- -- simba hula mahali simba wenzake wanakula lakini mbwa siku zote atabakia akila pipani .
+89.550	inLine	<sta> ehhe .
+90.220	inLine	<no-speech>
+91.750	outLine	<no-speech>
+92.440	inLine	<sta> atabaki anangojea sasa makombo .
+93.000	outLine	yale mabaki .
+93.970	outLine	<no-speech>
+95.270	outLine	ehhe mabo- -- ma -- mabaki mabaki yale makombo yuala yuashiba story zenyewe zaishia hapo ehhe .
+95.350	inLine	<no-speech>
+99.020	inLine	uhuh .
+99.680	inLine	<no-speech>
+100.900	outLine	<no-speech>
+101.520	inLine	ehhe nakwambia .
+102.729	inLine	sasa sijui -- sasa mi nitafanya kusubiri aliniambia nimpigie simu jioni kama ataweza niunganisha na mahali pengine nifanye nikibambanya tu si unajua ?
+103.300	outLine	<int> (()) .
+103.980	outLine	<no-speech>
+112.960

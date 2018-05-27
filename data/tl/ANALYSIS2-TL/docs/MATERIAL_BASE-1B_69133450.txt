@@ -1,0 +1,34 @@
+0.000	inLine	<no-speech>
+0.000	outLine	kinukuwento lang kay Ana na 'yon na nga lang daw matitira sa kanya .
+2.965	inLine	nakapag .
+3.685	inLine	<no-speech>
+3.934	outLine	<sta> nuwebe na lang daw .
+6.800	outLine	<no-speech>
+7.223	inLine	<no-speech> nakapagpa-checkup na daw ba siya ?
+8.925	inLine	<no-speech>
+9.200	outLine	hindi iyon hindi ko pa naitanong .
+11.280	outLine	<no-speech>
+11.405	inLine	nakapagpa-checkup na daw ba siya ?
+12.590	outLine	<int> hindi ko lang alam .
+13.005	inLine	<no-speech>
+14.125	inLine	<int> kasi alam ko (()) na dapat sana .
+14.334	outLine	<no-speech> (()) .
+16.916	inLine	<no-speech>
+17.262	outLine	ah kailangan talagang ma-check-up siya eh para maano kaagad 'to .
+17.825	inLine	<no-speech>
+21.461	outLine	<no-speech>
+23.136	outLine	(()) ibibili pa rin daw ng gatas kulang pa rin daw 'yong ano niya <no-speech> -- 'yong <no-speech> -- maano 'yong pera .
+23.615	inLine	<no-speech>
+24.105	inLine	<no-speech>
+26.765	inLine	<no-speech>
+27.475	inLine	<no-speech>
+29.365	inLine	<no-speech>
+30.355	inLine	<no-speech>
+32.332	outLine	<no-speech>
+33.340	outLine	eh ang sabi ko hayaan mo na at least may pambili ka .
+35.405	inLine	hindi naman yata siya makaalis (()) eh .
+35.830	outLine	<no-speech>
+36.770	outLine	<no-speech>
+37.150	outLine	<no-speech>
+37.335	inLine	<no-speech>
+38.450

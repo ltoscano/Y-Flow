@@ -1,0 +1,282 @@
+<1>	(Outline, 0.000-1.210)	ano ba pag-uusapan natin ?	what are we going to talk about ?
+<2>	(Inline, 0.000-1.415)	<no-speech>	<no-speech>
+<3>	(Outline, 1.210-2.750)	<no-speech>	<no-speech>
+<4>	(Inline, 1.415-3.135)	nasa basketball ?	in a basketball ?
+<5>	(Outline, 2.750-3.502)	bakit 'yon ?	why that ?
+<6>	(Inline, 3.135-4.355)	<no-speech>	<no-speech>
+<7>	(Outline, 3.502-5.030)	ano kumusta <int> ?	what how are you ?
+<8>	(Inline, 4.355-4.975)	hello hello ?	hello hello ?
+<9>	(Inline, 4.975-6.615)	<no-speech>	<no-speech>
+<10>	(Outline, 5.030-12.530)	<no-speech>	<no-speech>
+<11>	(Inline, 6.615-7.235)	ha ?	what ?
+<12>	(Inline, 7.235-8.475)	<no-speech>	<no-speech>
+<13>	(Inline, 8.475-12.265)	si ano si Jeremy Lin sa New York Knicks .	Jeremy Lin of New York Knicks .
+<14>	(Inline, 12.265-14.025)	<no-speech>	<no-speech>
+<15>	(Outline, 12.530-13.990)	sino bang paborito mong <int> .	who is your favorite ?
+<16>	(Outline, 13.990-21.580)	<no-speech>	<no-speech>
+<17>	(Inline, 14.025-14.911)	lupit <hes> no ?	terrific right ?
+<18>	(Inline, 14.911-16.185)	kaya kaya niya 'yong ano .	he can really do that .
+<19>	(Inline, 16.185-17.185)	<no-speech>	<no-speech>
+<20>	(Inline, 17.185-21.762)	hoy si ano si Lebron James pa rin ako kahit sikat si Jeremy Lin .	oh I am still for Lebron James even if Jeremy Lin is famous .
+<21>	(Outline, 21.580-22.210)	oo .	yes .
+<22>	(Inline, 21.762-22.615)	kahit Asian .	even Asian .
+<23>	(Outline, 22.210-23.120)	<no-speech>	<no-speech>
+<24>	(Inline, 22.615-23.695)	<no-speech>	<no-speech>
+<25>	(Outline, 23.120-24.132)	paborito ko rin 'yon .	that is also my favorite .
+<26>	(Inline, 23.695-24.335)	ikaw ba .	what about you .
+<27>	(Outline, 24.132-25.530)	<int> paborito ko rin .	my favorite too .
+<28>	(Inline, 24.335-26.155)	<no-speech>	<no-speech>
+<29>	(Outline, 25.530-28.020)	<no-speech>	<no-speech>
+<30>	(Inline, 26.155-27.695)	ikaw ba sino ba favorite mo ?	you who is your favorite ?
+<31>	(Inline, 27.695-29.045)	<no-speech>	<no-speech>
+<32>	(Outline, 28.020-30.804)	sa N_B_A napakagaling ni <hes> Nowitzki .	at the N_B_A Nowitzki is very good .
+<33>	(Inline, 29.045-29.605)	ha .	what .
+<34>	(Inline, 29.605-30.695)	<no-speech>	<no-speech>
+<35>	(Inline, 30.695-31.335)	sino ?	who ?
+<36>	(Outline, 30.804-32.289)	para sa akin si Nowitzki .	for me it's Nowitzki .
+<37>	(Inline, 31.335-34.655)	<no-speech>	<no-speech>
+<38>	(Outline, 32.289-33.190)	N_B_A .	N_B_A .
+<39>	(Outline, 33.190-35.410)	<no-speech>	<no-speech>
+<40>	(Inline, 34.655-35.535)	ah .	ah .
+<41>	(Outline, 35.410-36.190)	Nowitzki .	Nowitzki .
+<42>	(Inline, 35.535-36.825)	<no-speech>	<no-speech>
+<43>	(Outline, 36.190-38.100)	'tsaka si <hes> Nowitzki .	and Nowitzki too .
+<44>	(Inline, 36.825-37.385)	sino ?	who ?
+<45>	(Inline, 37.385-41.485)	<no-speech>	<no-speech>
+<46>	(Outline, 38.100-40.270)	<no-speech>	<no-speech>
+<47>	(Outline, 40.270-41.090)	kilala mo ba 'yon ?	do you know him ?
+<48>	(Outline, 41.090-43.700)	<no-speech>	<no-speech>
+<49>	(Inline, 41.485-42.257)	ha .	what .
+<50>	(Inline, 42.257-43.245)	ako si Lebron .	for me it's Lebron .
+<51>	(Inline, 43.245-44.305)	<no-speech>	<no-speech>
+<52>	(Outline, 43.700-45.740)	Lebron 'tsaka si Derrick Rose <int> .	Lebron and also Derrick Rose .
+<53>	(Inline, 44.305-44.977)	hindi <hes> .	no .
+<54>	(Inline, 44.977-46.755)	Lebron ano %incomplete	Lebron what %incomplete
+<55>	(Outline, 45.740-47.660)	<no-speech>	<no-speech>
+<56>	(Inline, 46.755-47.715)	anong team ba 'yon ?	what team was it ?
+<57>	(Outline, 47.660-48.150)	ha ?	what ?
+<58>	(Inline, 47.715-48.575)	<no-speech>	<no-speech>
+<59>	(Outline, 48.150-49.640)	<no-speech>	<no-speech>
+<60>	(Inline, 48.575-49.957)	'yon Derrick Rose .	that Derrick Rose .
+<61>	(Outline, 49.640-50.331)	si Derrick Rose .	Derrick Rose .
+<62>	(Inline, 49.957-51.395)	sa Chicago .	in Chicago .
+<63>	(Outline, 50.331-51.077)	<no-speech>	<no-speech>
+<64>	(Outline, 51.077-53.021)	oo idol ko 'yon .	yes he is my idol .
+<65>	(Inline, 51.395-53.375)	<no-speech>	<no-speech>
+<66>	(Outline, 53.021-53.920)	<int> 'di mo ba alam ?	don't you know ?
+<67>	(Inline, 53.375-54.107)	ah oo kaya %incomplete	ah that is why %incomplete
+<68>	(Outline, 53.920-55.230)	<no-speech>	<no-speech>
+<69>	(Inline, 54.107-55.659)	ayon malupit din 'yon <hes> .	and that is also harsh .
+<70>	(Outline, 55.230-55.660)	ha ?	what ?
+<71>	(Inline, 55.659-56.835)	oo .	yes .
+<72>	(Outline, 55.660-58.810)	hindi mo ba alam ng pinaka-modus nila ano .	don't you know their real modus do you .
+<73>	(Inline, 56.835-58.245)	<no-speech>	<no-speech>
+<74>	(Inline, 58.245-59.755)	si ano Lebron James ako .	who I am for Lebron James .
+<75>	(Outline, 58.810-59.850)	<no-speech>	<no-speech>
+<76>	(Inline, 59.755-63.395)	<no-speech>	<no-speech>
+<77>	(Outline, 59.850-60.330)	ha ?	what ?
+<78>	(Outline, 60.330-61.510)	<no-speech>	<no-speech>
+<79>	(Outline, 61.510-62.009)	oo .	yes .
+<80>	(Outline, 62.009-65.150)	magaling din 'yon pero idol ko talaga si Derrick Rose .	he is also good but Derrick Rose is really my idol .
+<81>	(Inline, 63.395-63.905)	ha ?	what ?
+<82>	(Inline, 63.905-68.075)	<no-speech>	<no-speech>
+<83>	(Outline, 65.150-66.950)	<no-speech>	<no-speech>
+<84>	(Outline, 66.950-68.960)	siguro basta P_B_A napakaganda rin .	perhaps if it is P_B_A it is still wonderful .
+<85>	(Inline, 68.075-69.009)	Derrick Rose .	Derrick Rose .
+<86>	(Outline, 68.960-70.310)	<no-speech>	<no-speech>
+<87>	(Inline, 69.009-70.525)	nagkabunggo na dati 'yan <hes> .	they have actually bumped into each other before .
+<88>	(Outline, 70.310-70.820)	ha ?	what ?
+<89>	(Inline, 70.525-72.335)	<no-speech>	<no-speech>
+<90>	(Outline, 70.820-75.310)	<no-speech>	<no-speech>
+<91>	(Inline, 72.335-72.945)	<no-speech>	<no-speech>
+<92>	(Inline, 72.945-74.775)	sino sa P_B_A ang team mo ?	who is your team at the P_B_A ?
+<93>	(Inline, 74.775-77.795)	<no-speech>	<no-speech>
+<94>	(Outline, 75.310-75.800)	ha <int> ?	what ?
+<95>	(Outline, 75.800-79.360)	<no-speech>	<no-speech>
+<96>	(Inline, 77.795-79.315)	ano team mo sa P_B_A ?	what is your team at the P_B_A ?
+<97>	(Inline, 79.315-84.495)	<no-speech>	<no-speech>
+<98>	(Outline, 79.360-82.760)	P_B_A sa akin Talk and text siyempre number one sa akin 'yon .	P_B_A for me it's Talk and Text of course it is number one for me .
+<99>	(Outline, 82.760-84.110)	<no-speech>	<no-speech>
+<100>	(Outline, 84.110-87.276)	'yon na nga nag-champion ngayon taon <hes> Talk N' Text .	it became the champion this year Talk 'N Text .
+<101>	(Inline, 84.495-85.774)	o siyempre ayan .	yes of course here .
+<102>	(Inline, 85.774-86.845)	Talk N text din ako .	I am also for Talk 'N Text .
+<103>	(Inline, 86.845-88.495)	<no-speech>	<no-speech>
+<104>	(Outline, 87.276-88.489)	idol namin 'yon .	he is our idol .
+<105>	(Outline, 88.489-91.016)	<laugh> idol ko 'yon <hes> .	that is my idol .
+<106>	(Inline, 88.495-89.372)	kaya nga o .	that is why see .
+<107>	(Inline, 89.372-90.304)	ang galing 'di ba ?	really good don't you think ?
+<108>	(Inline, 90.304-91.085)	Fonacier .	Fonacier .
+<109>	(Outline, 91.016-97.340)	'di ba noong ano noong final nagka- -- nagkapikunan si Alapag at si ano .	don't you think in the last finals -- Alapag and that one snapped their temper at each other .
+<110>	(Inline, 91.085-91.885)	<no-speech>	<no-speech>
+<111>	(Inline, 91.885-92.465)	<no-speech>	<no-speech>
+<112>	(Inline, 92.465-93.825)	<no-speech>	<no-speech>
+<113>	(Inline, 93.825-95.105)	sino idol mo sa Talk N text ?	who is your idol in Talk 'N Text ?
+<114>	(Inline, 95.105-96.245)	<no-speech>	<no-speech>
+<115>	(Inline, 96.245-96.815)	ha .	what .
+<116>	(Inline, 96.815-104.385)	<no-speech>	<no-speech>
+<117>	(Outline, 97.340-98.300)	<no-speech>	<no-speech>
+<118>	(Outline, 98.300-100.320)	'yong isang kalaban nila sa .	one of their enemies at %incomplete
+<119>	(Outline, 100.320-101.820)	<no-speech>	<no-speech>
+<120>	(Outline, 101.820-103.230)	'yu- -- sino ba 'yon kalaban nila 'yon ?	-- who was it that is their enemy ?
+<121>	(Outline, 103.230-107.500)	<no-speech>	<no-speech>
+<122>	(Inline, 104.385-105.525)	sa ano ?	in what ?
+<123>	(Inline, 105.525-106.785)	<no-speech>	<no-speech>
+<124>	(Inline, 106.785-108.425)	ano Powerade sila Gary David .	what Gary David is for Powerade .
+<125>	(Outline, 107.500-108.590)	Powerade oo .	Powerade yes .
+<126>	(Inline, 108.425-111.805)	<no-speech>	<no-speech>
+<127>	(Outline, 108.590-111.737)	sobra tambak <hes> <laugh> .	too much piled up .
+<128>	(Outline, 111.737-112.666)	tambak ang kalaban .	the opponent was dumped .
+<129>	(Inline, 111.805-113.245)	sino nakapikunan ?	to whom did his temper snap at ?
+<130>	(Outline, 112.666-113.150)	ha ?	what ?
+<131>	(Outline, 113.150-115.070)	<no-speech>	<no-speech>
+<132>	(Inline, 113.245-115.025)	sinong nakapikunan niya <int> ?	to whom did his temper snap at ?
+<133>	(Inline, 115.025-116.035)	<no-speech>	<no-speech>
+<134>	(Outline, 115.070-115.577)	nakaano ?	has done what ?
+<135>	(Outline, 115.577-115.730)	<no-speech>	<no-speech>
+<136>	(Outline, 115.730-118.050)	<no-speech>	<no-speech>
+<137>	(Inline, 116.035-117.625)	sino nakapikunan ni Alapag do'n ?	to whom did Alapag snap his temper with ?
+<138>	(Inline, 117.625-118.745)	<no-speech>	<no-speech>
+<139>	(Outline, 118.050-121.320)	'yong <no-speech> 'di ko masyadong ano <hes> .	the I cannot clearly what %incomplete
+<140>	(Inline, 118.745-119.975)	sino nakapikunan ?	to whom did his temper snap at ?
+<141>	(Inline, 119.975-124.535)	<no-speech>	<no-speech>
+<142>	(Outline, 121.320-122.180)	<no-speech>	<no-speech>
+<143>	(Outline, 122.180-124.110)	'di ko masyadong kilala parang <hes> .	I do not know him well seems %incomplete
+<144>	(Outline, 124.110-127.980)	<no-speech>	<no-speech>
+<145>	(Inline, 124.535-125.345)	<no-speech>	<no-speech>
+<146>	(Inline, 125.345-126.175)	<no-speech>	<no-speech>
+<147>	(Inline, 126.175-127.755)	tanga hindi si Gary David ?	fool not Gary David ?
+<148>	(Inline, 127.755-131.015)	<no-speech>	<no-speech>
+<149>	(Outline, 127.980-128.641)	(()) ?	(()) ?
+<150>	(Outline, 128.641-129.844)	'di naman si Jarisen ?	not Jarisen ?
+<151>	(Outline, 129.844-132.673)	'yan ang gumagawa sa Poweraid <hes> .	he is the one making the Poweraid .
+<152>	(Inline, 131.015-132.045)	hindi si Gary David .	not Gary David .
+<153>	(Inline, 132.045-132.935)	<no-speech>	<no-speech>
+<154>	(Outline, 132.673-133.910)	si Gary David <hes> .	Gary David .
+<155>	(Inline, 132.935-133.465)	sundo .	fetch .
+<156>	(Inline, 133.465-135.545)	<no-speech>	<no-speech>
+<157>	(Outline, 133.910-137.000)	<no-speech>	<no-speech>
+<158>	(Inline, 135.545-136.777)	oo nga <hes> .	I know right .
+<159>	(Inline, 136.777-138.131)	'no granada 'no ?	not Granada no ?
+<160>	(Outline, 137.000-138.070)	awa ang desisyon <hes> .	the decision is a pity .
+<161>	(Outline, 138.070-140.460)	<no-speech>	<no-speech>
+<162>	(Inline, 138.131-139.835)	sa Talk N' Text .	in Talk 'N Text .
+<163>	(Inline, 139.835-140.645)	<no-speech>	<no-speech>
+<164>	(Outline, 140.460-141.120)	Talk N' Text .	Talk 'N Text .
+<165>	(Inline, 140.645-141.731)	sino ano mo do'n %incomplete	who is your there %incomplete
+<166>	(Outline, 141.120-142.690)	<no-speech>	<no-speech>
+<167>	(Inline, 141.731-142.645)	sino bet mo ?	who is your bet ?
+<168>	(Inline, 142.645-144.345)	<no-speech>	<no-speech>
+<169>	(Outline, 142.690-149.066)	siyempre si -- <hes> wala pa rin sa katulad si Alapag para sa akin sa bilis- -- <no-speech> sa bilis- -- ng pag- -- <int> pagdadala ng bola .	of course -- Alapag has been incomparable for me in speed -- in speed -- in carrying the ball .
+<170>	(Inline, 144.345-144.955)	oo .	yes .
+<171>	(Inline, 144.955-149.055)	<no-speech>	<no-speech>
+<172>	(Inline, 149.055-150.265)	Alapag pa rin sa 'yo ?	still Alapag for you ?
+<173>	(Outline, 149.066-152.950)	oo 'tsaka sa pag-da-dunk naman si Aguilar grabe .	yes and about Aguilar's dunk amazing .
+<174>	(Inline, 150.265-151.245)	<no-speech>	<no-speech>
+<175>	(Inline, 151.245-151.891)	ah .	ah .
+<176>	(Inline, 151.891-153.025)	si Mighty Mouse .	Mighty Mouse .
+<177>	(Outline, 152.950-154.810)	<no-speech>	<no-speech>
+<178>	(Inline, 153.025-155.695)	<no-speech>	<no-speech>
+<179>	(Outline, 154.810-155.940)	si Aguilar ang matindi .	Aguilar is terrible .
+<180>	(Inline, 155.695-157.007)	ah oo no .	ah yes I see .
+<181>	(Outline, 155.940-156.870)	<no-speech>	<no-speech>
+<182>	(Outline, 156.870-157.430)	oo .	yes .
+<183>	(Inline, 157.007-158.782)	parang wala lang sa kanya 'yon daw .	seems nothing to him that one .
+<184>	(Outline, 157.430-158.530)	<no-speech>	<no-speech>
+<185>	(Outline, 158.530-159.273)	ah okey .	ah okay .
+<186>	(Inline, 158.782-159.643)	<no-speech>	<no-speech>
+<187>	(Outline, 159.273-160.206)	ano ba ang height no'n ?	what is the height of that one ?
+<188>	(Inline, 159.643-163.045)	pero para sa 'kin ang manok ko do'n si Fonacier .	but for me my bet there is Fonacier .
+<189>	(Outline, 160.206-161.080)	<no-speech>	<no-speech>
+<190>	(Outline, 161.080-163.010)	<no-speech>	<no-speech>
+<191>	(Outline, 163.010-164.413)	ay bonus sir oo 'yon ba ?	and oh bonus sir yes is that it ?
+<192>	(Inline, 163.045-164.045)	<no-speech>	<no-speech>
+<193>	(Inline, 164.045-165.075)	si Fonacier .	Fonacier .
+<194>	(Outline, 164.413-165.370)	'di ba 'yon ang ibibi- %incomplete	don't you think that %incomplete
+<195>	(Inline, 165.075-166.955)	<no-speech>	<no-speech>
+<196>	(Outline, 165.370-166.225)	<no-speech>	<no-speech>
+<197>	(Outline, 166.225-167.010)	<no-speech> M_V_P 'yon <hes> .	he is an M_V_P .
+<198>	(Inline, 166.955-168.494)	oo 'di ba (()) .	I know right (()) .
+<199>	(Outline, 167.010-168.080)	<no-speech>	<no-speech>
+<200>	(Outline, 168.080-169.090)	<no-speech>	<no-speech>
+<201>	(Inline, 168.494-168.995)	ha ?	what ?
+<202>	(Inline, 168.995-170.265)	<no-speech>	<no-speech>
+<203>	(Outline, 169.090-171.480)	'yon ang pinapanood ko Talk N' Text .	that is what I'm watching Talk 'N Text .
+<204>	(Inline, 170.265-170.909)	<no-speech>	<no-speech>
+<205>	(Inline, 170.909-172.715)	siya 'yong M_V_P malupit kasi no .	he is the M_V_P because he's really terrific don't you think .
+<206>	(Outline, 171.480-172.420)	<no-speech>	<no-speech>
+<207>	(Outline, 172.420-173.350)	bakit oo <int> .	why yes .
+<208>	(Inline, 172.715-174.255)	<no-speech>	<no-speech>
+<209>	(Outline, 173.350-176.620)	<no-speech>	<no-speech>
+<210>	(Inline, 174.255-176.745)	puwede ngang itapat sa tres 'yon kay Gary David <hes> .	he could be matched on the third against Gary David .
+<211>	(Outline, 176.620-177.103)	oo .	yes .
+<212>	(Inline, 176.745-179.465)	<no-speech>	<no-speech>
+<213>	(Outline, 177.103-177.900)	puwede .	could be .
+<214>	(Outline, 177.900-179.060)	<no-speech>	<no-speech>
+<215>	(Outline, 179.060-180.050)	highest sponsor <hes> .	highest sponsor .
+<216>	(Inline, 179.465-187.945)	etong ano etong cup na ngayon ano <hes> walang import ang ano <hes> walang import ang Talk N text .	here what the cup now what that one has no import Talk 'N Text has no import .
+<217>	(Outline, 180.050-184.650)	<no-speech>	<no-speech>
+<218>	(Outline, 184.650-185.030)	o ?	really ?
+<219>	(Outline, 185.030-187.940)	<no-speech>	<no-speech>
+<220>	(Outline, 187.940-188.790)	wala nga .	nothing really .
+<221>	(Inline, 187.945-188.885)	<no-speech>	<no-speech>
+<222>	(Outline, 188.790-189.340)	<no-speech>	<no-speech>
+<223>	(Inline, 188.885-190.135)	partida na nila 'yon .	that is already to their advantage .
+<224>	(Outline, 189.340-190.360)	<no-speech>	<no-speech>
+<225>	(Inline, 190.135-191.745)	<no-speech>	<no-speech>
+<226>	(Outline, 190.360-190.890)	oo nga .	I see .
+<227>	(Outline, 190.890-192.110)	ilang .	how many ?
+<228>	(Inline, 191.745-194.565)	pero malupit pa rin 'di pa rin nila Unstoppable .	but still harsh still they cannot unstoppable .
+<229>	(Outline, 192.110-194.540)	<no-speech>	<no-speech>
+<230>	(Outline, 194.540-196.056)	oo ilang year na kasi 'yon <hes> .	yes it has been for how many years .
+<231>	(Inline, 194.565-198.975)	<no-speech>	<no-speech>
+<232>	(Outline, 196.056-198.890)	ilang year ng <hes> champion ang Talk N' Text 'di ba ?	the Talk 'N Text has been a champion for how many years right ?
+<233>	(Outline, 198.890-204.790)	<no-speech>	<no-speech>
+<234>	(Inline, 198.975-199.475)	<no-speech>	<no-speech>
+<235>	(Inline, 199.475-200.815)	<no-speech>	<no-speech>
+<236>	(Inline, 200.815-202.006)	oo .	yes .
+<237>	(Inline, 202.006-204.765)	sa ano naasar ako sa Ginebra .	and then what I grew impatient at Ginebra .
+<238>	(Inline, 204.765-207.375)	<no-speech>	<no-speech>
+<239>	(Outline, 204.790-205.750)	Ginebra bakit ?	Ginebra why ?
+<240>	(Outline, 205.750-211.660)	<no-speech>	<no-speech>
+<241>	(Inline, 207.375-208.235)	parang ano .	like what .
+<242>	(Inline, 208.235-209.255)	<no-speech>	<no-speech>
+<243>	(Inline, 209.255-211.862)	masyadong ano sa mga ano players .	too much to the players .
+<244>	(Outline, 211.660-212.164)	ah oo .	ah yes .
+<245>	(Inline, 211.862-215.460)	kinukuha halos lahat ng magagaling sa ibang teams .	is taking almost all the best from other teams .
+<246>	(Outline, 212.164-212.320)	<no-speech>	<no-speech>
+<247>	(Outline, 212.320-217.730)	<no-speech>	<no-speech>
+<248>	(Inline, 215.460-217.705)	kaya tuloy ayon 'yong iba nababangko .	so eventually others are left at the bank .
+<249>	(Inline, 217.705-218.765)	<no-speech>	<no-speech>
+<250>	(Outline, 217.730-219.150)	oo <int> mababang ko fee .	yes a lower fee .
+<251>	(Inline, 218.765-220.495)	si Tubid binitawan na nila <hes> .	they let go of Tubid .
+<252>	(Outline, 219.150-220.370)	<no-speech>	<no-speech>
+<253>	(Outline, 220.370-221.220)	binitiwan na ?	has let him go ?
+<254>	(Inline, 220.495-223.335)	<no-speech>	<no-speech>
+<255>	(Outline, 221.220-222.140)	<no-speech>	<no-speech>
+<256>	(Outline, 222.140-224.960)	bumabasbas 'yon <hes> sayang napakaliit <hes> .	he is blessing a waste too short .
+<257>	(Inline, 223.335-224.974)	tulad nila ano %incomplete	similar to %incomplete
+<258>	(Outline, 224.960-226.230)	<no-speech>	<no-speech>
+<259>	(Inline, 224.974-226.585)	si Tubid binitawan na nila .	they had let go of Tubid .
+<260>	(Outline, 226.230-227.050)	binitawan na ?	have let him go ?
+<261>	(Inline, 226.585-228.045)	<no-speech>	<no-speech>
+<262>	(Outline, 227.050-227.940)	<no-speech>	<no-speech>
+<263>	(Outline, 227.940-229.740)	<int> 'yon ang pantapat kay Alapag <hes> .	he could be put to match Alapag .
+<264>	(Inline, 228.045-229.242)	<no-speech>	<no-speech>
+<265>	(Inline, 229.242-232.075)	si Caguioa lagi <hes> tumatanda na rin .	Caguioa is always also growing old .
+<266>	(Outline, 229.740-232.190)	<no-speech>	<no-speech>
+<267>	(Inline, 232.075-232.895)	<no-speech>	<no-speech>
+<268>	(Outline, 232.190-232.647)	oo .	yes .
+<269>	(Outline, 232.647-232.790)	<no-speech>	<no-speech>
+<270>	(Outline, 232.790-234.720)	<no-speech>	<no-speech>
+<271>	(Inline, 232.895-233.545)	<no-speech>	<no-speech>
+<272>	(Inline, 233.545-235.065)	<no-speech>	<no-speech>
+<273>	(Outline, 234.720-235.680)	(()) .	(()) .
+<274>	(Inline, 235.065-238.095)	<hes> 'yong Talk N text naman kasi ano na <hes> parang all Star na <hes> .	and for Talk 'N Text because already seems an All-Star already %incomplete
+<275>	(Outline, 235.680-238.010)	<no-speech>	<no-speech>
+<276>	(Outline, 238.010-238.596)	oo .	yes .
+<277>	(Inline, 238.095-238.925)	<no-speech>	<no-speech>
+<278>	(Outline, 238.596-240.300)	Talk N' Text <int> tindi grabe .	Talk 'N Text extreme terrific .
+<279>	(Inline, 238.925-239.405)	<no-speech>	<no-speech>
+<280>	(Inline, 239.405-242.370)	<no-speech>	<no-speech>
+<281>	(Outline, 240.300-241.260)	<no-speech>	<no-speech>
+<282>	(Outline, 241.260-242.370)	idol ko nga 'yon <hes> .	that is really my idol .

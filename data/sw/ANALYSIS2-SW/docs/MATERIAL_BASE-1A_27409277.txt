@@ -1,0 +1,225 @@
+[0.000]
+<misc> <breath> ni kweli tukiangalia kwa asilimia kubwa ya Watanzania tunashabikia sana timu za ulaya zaidi ya ligi yetu ya Tanzania nami mi nakubali .
+[11.500]
+<breath> lakini kuna sababu ambazo zinatufanya sisi Watanzania tushabikie ligi za Uingereza ligi za Uhispania ligi za Ufaransa <breath> tukaiacha ligi yetu ya Kibongo .
+[22.010]
+<hes> sababu ya kwanza mimi nahisi <breath> ni viwango vya wachezaji tulionao katika <breath> nchi yetu .
+[28.310]
+ya kwamba hata ukiangalia katika ligi ya Tanzania <breath> wachezaji ambao wanakuja kuinua ligi wanaoleta changamoto kwenye ligi <breath> ni wachezaji .
+[37.067]
+utakuta ni mchezaji katolewa Brazil <breath> mchezaji katolewa Uganda mchezaji katolewa nchi nyingine <breath> tofauti na wale tulio nao <breath> katika nchi yetu .
+[45.202]
+kwa hivyo vile viwango -- kile kiwango cha kumvutia mtu mimi nimshabikie nimshabikie labda <int> timu ya Simba <breath> nishabikie labda timu ya Yanga <breath> viwango vile vya kunifanya mimi niwashabikie <breath> sioni katika nchi yetu <int> .
+[57.520]
+kwa nini ?
+[58.030]
+kwa sababu nakumbuka kwa mfano kuna kipindi <breath> -- kipindi cha Maximo akifundisha timu ya taifa aliimbua vipaji vingi sana vya vijana <breath> akawachukua wale watu wa- -- akaenda nao wakacheza ligi Brazil wakawa wameshinda <breath> lakini walivyorudishwa Tanzania wengi wao walitelekezwa wakaachwa vipaji vikawa vimekufa .
+[74.943]
+<breath> lakini kutokana na kwamba hatuna viwango vya wachezaji wazuri <breath> unakuta wengi wetu hatushabikii ligi ya Tanzania tunashabikia <breath> ligi za nje .
+[83.095]
+<breath> sababu nyingine nadhani ni kwamba kukosekana <breath> kwa timu katika mkoa tunayoishi <breath> ya kwamba mimi naishi Mwanza <breath> lakini katika mkoa wa Mwanza mzima <breath> hakuna timu katika ligi kuu .
+[94.940]
+kwa hivyo mimi hainimotivate kabisa kushabikia timu -- kuishabikia ligi ya Tanzania <breath> ya Kwamba je nitashabikia timu gani ?
+[101.960]
+nadhani hilo na lenyewe linaweza kuwa ni sababu kwa baadhi ya mikoa unakuta <breath> kuna mikoa mwingine kama ukienda Dar es Salaam watu wanashabikia sana .
+[108.500]
+kuna Simba kule kuna Azam kule kuna Yanga kule <breath> .
+[111.138]
+mtu kuna ile -- kuna motisha fulani ya kwe- -- ya yeye kushabikia .
+[114.930]
+<breath> lakini ukija kwa sisi labda umeenda Shinyanga ju- -- juzi imepanda timu moja na stadi .
+[120.520]
+<breath> yeah imepanda stadi .
+[121.973]
+<breath> kidogo ina wamotivate watu wapate kushabikia <breath> ligi .
+[124.880]
+lakini ukija Mwanza timu yetu Toto ndiyo imelala pamba tumeshazisahau <breath> timu nyingi sana .
+[129.231]
+kwa hivyo una- -- unakuta sina mkali mimi ya kushabikia ligi .
+[132.980]
+sababu sina timu kwenye mkoa wangu .
+[134.563]
+<breath> ukienda mikoa mwingine kama Mara huko ndiyo hawatambui kabisa <breath> ya kwamba kuna ligi kwa sababu hakuna timu hata moja .
+[140.040]
+kwa hivyo unakuta ile yenyewe ni sababu .
+[142.120]
+<breath> lakini sababu nyingine nadhani ni ile nature ya sisi mashabiki .
+[146.690]
+wengi wetu tumezoea mimi nimezoea mimi nisipoishabikia ulaya nikaja nikashabikia mpira ambao nauona ni wa kawaida kabisa kwangu mimi <breath> nadhani sio vizuri .
+[156.150]
+na nature yangu ya kwamba nikiangalia ule mpira wa ulaya una mvuto fulani kwangu mimi tofauti <breath> na mpira Watanzania .
+[163.002]
+kwa hivyo hayo ndiyo mawazo yangu nashukuru sana .
+[164.218]
+nashukuru sana -- nakushukuru sana -- nakushukuru sana <sta> asante sana -- asante sana <hes> nakushukuru sana -- nakushukuru sana .
+[169.280]
+naona kuna mdau yuko tayari hapa (()) jezi ya <breath> -- ya Man_U .
+[173.535]
+ndugu yangu wewe we mshabiki wa Man_U ?
+[175.377]
+sana .
+[176.690]
+kwa nini pamoja na kuzabwazabwa makofi kupoteza poteza mechi nyingi kwa nini usiishabikie (()) sisi ?
+[180.783]
+uhuh siwezi .
+[181.664]
+eh ?
+[182.212]
+sababu imekuwa kama game yangu .
+[184.210]
+kweli tunapenda ligi za nje kuliko ligi ya ndani kwa sababu mbalimbali <breath> moja kwa moja nitaanza na hoja namba moja .
+[192.610]
+hoja namba moja <breath> mpira wa ulaya unatangazwa sana wamewekeza vizuri katika matangazo .
+[199.455]
+<no-speech>
+[202.330]
+wamewekeza vizuri katika matangazo ikichezwa mechi kama El Clasico <no-speech> ambayo wakati mwingine wanaita football of the highest order wanapokutana Barcelona na Madrid .
+[214.334]
+tuna enjoy sana .
+[216.500]
+sasa ukija kuangalia <breath> mpira wa Simba labda na J_K_T Ruvu <no-speech> namna ya uchezaji uwanjani na <int> nini unakuta mvuto haupo .
+[228.510]
+kwa hivyo tunatakiwa bado wakaze buti kutushawishi .
+[231.557]
+<no-speech>
+[232.660]
+hoja nyingine ili kuokoa muda <breath> ni kwamba baada ya michezo miaka ya elfu mbili <breath> kufutwa mashuleni ili- -- ilikuwa ikijulikana kama <breath> Umiseta .
+[244.062]
+UMITASHUMTA na Umisavuta kwa upande wa vyuoni .
+[248.287]
+<breath> kwa hivyo hamasa <breath> kwa Watanzania kuanzia ngazi ya chini iliisha kabisa .
+[253.610]
+kilichobakia ni watu <breath> kuangalia matangazo ya mpira wa wachezaji wa ulaya <breath> kupitia kwenye lebo za big G au Jojo .
+[263.994]
+<no-speech>
+[265.188]
+magazeti mbalimbali <breath> kwa nyumba za vijijini tulikuwa tunabandika ndani .
+[269.740]
+nyumba yote ukiona Ronaldo de Lima <breath> yaani moyo wako unapenda kweli .
+[274.940]
+lakini kwa mchezaji wa ndani <breath> hatu- -- alikuwepo akina Lunyamila huwezi ukaona hata lebo ya picha yake iko kwenye Jojo hamna .
+[284.041]
+kwa hivyo Watanzania <breath> bado tunatakiwa tukaze buti .
+[288.360]
+hoja nyingine ya tatu <hes> mpira wa ulaya ni kama ajira .
+[294.296]
+<no-speech>
+[297.090]
+mpira wa ulaya <sta> umefanywa kama ajira <no-speech> kwa mfano <no-speech> mchezaji mpira anaona kama kazi yake anacheza kwa kujituma <no-speech> anaonekana kama ndiye identity ya timu .
+[310.827]
+kwa mfano leo hii huwezi ukaniambia Wayne Rooney wa Manchester United akauzwa Chelsea bila sababu ya msingi <breath> .
+[318.690]
+lakini leo utaona Ngasa <breath> ambaye tulikuwa tunaona ni identity wa timu ya Yanga ameuzwa Azam amezunguka Simba <breath> ameenda wapi .
+[327.477]
+<breath> kwa hivyo mchezaji mwenyewe kama mwenyewe <breath> anapoteza ule mvuto <breath> wa nembo ya timu kama Yanga .
+[334.108]
+amekulia Yanga <breath> tunapenda kumsikia akiichezea Yanga <breath> mara ameenda Azam mara amerudi Simba mara .
+[340.384]
+sasa tunashindwa kuelewa ule mzunguko .
+[343.170]
+hoja ya mwisho ili niwape nafasi wachangiaji wengine hoja zilikuwa nyingi <breath> <hes> ni kukubali matokeo .
+[350.000]
+leo hii Manchester akifungwa na timu hata ndogo <no-speech> matokeo yanakaa Kiulaya ulaya unakubali .
+[356.407]
+you accept the result .
+[357.912]
+<breath> lakini Simba akimfunga Yanga au Yanga akamfunga Simba <breath> basi maisha msimbazi maisha jangwani hayapo tena .
+[366.416]
+ni frustration kila upande .
+[369.239]
+kwa hiyo hayo ndiyo yangu machache <breath> ambayo na -- nakushukuru sana na -- ndugu yangu Kulujila <sta> tunaendelea -- tunaendelea -- tunaendelea na kurejesha kurunzi michezoni .
+[377.389]
+mengi yamezungumzwa lakini nataka nikazie kwenye moja <no-speech> kuhusiana na upendeleo .
+[382.647]
+na katika swala la upendeleo ni nyinyi kwanza watu wa media kiukweli tukiangalia jinsi mnavyoipa promo Yanga mnavyoipa promo Simba Azam sio sawa na Toto <breath> <int> au timu nyingine ndogo .
+[396.352]
+kwa hivyo watu wa media kwanza ndiyo wanatuharibia ligi ya Bongo .
+[399.520]
+watu wa media <breath> kwa sababu utakuta magazeti tu yameandikwa kwa timu tatu <no-speech> kila kona unapoenda ni timu tatu <breath> na kiukweli hizo timu tatu ambazo mnazipa promo ndiyo zinaharibu ligi ya Bongo .
+[409.670]
+kwa sababu utakuta Yanga na Simba <breath> tekniki yao kumshinda <hes> -- ya kumshinda Mtibwa <breath> ni kumnunua mchezaji wake mkali .
+[416.103]
+<no-speech>
+[417.150]
+badala tu ya kufikiria kuanzisha Academy kwa ajili ya kufundisha michezo <breath> unakuta Simba Yanga Azam <breath> wanapanga kuua timu wakinunua mchezaji wake ambaye wanamwaminia .
+[426.009]
+kwa hivyo media ndiyo zenyewe zinawabeba zile timu kubwa Yanga na Simba <breath> lakini ukiangalia kwa ligi kama ya Uingereza <breath> timu zote wanazipa hadhi sawa kati vyombo vya habari .
+[434.489]
+hicho ni kitu cha kwanza <breath> lakini kitu cha pili tu kwa haraka -- haraka kama walivyosema wenzangu ni teknolojia .
+[439.310]
+unakuta sasa hivi kutoka <breath> Mwanza kwenda Uingereza ni karibu kuliko kutoka Mwanza kwenda Dar es Salaam .
+[444.550]
+unakuta ligi nyingi zinachezwa hujui mwisho wa siku <breath> tunakuja tunaonyeshwa ligi ambayo inapendelewa na T_F_F ligi ambayo inapendelewa na media <breath> ligi ambayo inapendelewa na wa- -- na makampuni mbalimbali .
+[453.720]
+unakuta Yanga na Simba <breath> wamepewa mabasi kwa ajili ya kuwachukua wachezaji kutoka sehemu moja mpaka sehemu nyingine .
+[458.987]
+Mtibwa basi liko wapi ?
+[460.569]
+Kagera basi liko wapi ?
+[461.825]
+<breath> kwa hivyo moja kwa moja watu wanavutika tu kuangalia zile timu mbili <breath> na ndiyo maana watu wanapenda mechi ya Simba Yanga na Azam .
+[468.409]
+lakini mechi nyingine watu hawaangalii kwa sababu tu ya upendeleo uliopo kwenye T_F_F upendeleo uliopo kwenye media na upendeleo uliopo katika makampuni mbalimbali ambayo kimsingi ndiyo wadhamini wa <int> ligi ya Tanzania .
+[478.296]
+<breath> kwa kweli teknolojia <breath> na umaskini wetu pia unatupooza kwa sababu kiwango cha makocha tulio nao <breath> sio kiwango kile ambacho makocha wanaofundisha timu za Uingereza .
+[486.680]
+<breath> kutokana na umaskini wetu na kiukweli lazima tupende kitu ambacho kinapendeka <breath> kwa sababu huwezi ukanikalisha mimi nimewacha kazi zangu <breath> nianze kuangalia ligi ambayo inachezwa kama kichwa cha mwendawazimu niache kuangalia ligi ambayo inapigwa vizuri kabisa <breath> unafurahi kwa sababu michezo <breath> ni burudani .
+[501.390]
+mimi nashangilia ligi ya Bongo kwa sababu ya Yanga Yanga ikitoka kwenye ligi ya Bongo mimi sishangilii tena .
+[506.390]
+kwa sababu ndiyo timu tu -- ni kwa sababu ya uzalendo <breath> lakini Uingereza naweza nikaangalia timu yoyote mechi yoyote naweza nikaangalia .
+[512.218]
+<breath> kwa sababu mchezo unaochezwa kweli unavutia macho na Watanzania tunapenda starehe .
+[515.795]
+<no-speech>
+[517.193]
+<sta> asante sana -- asante sana <hes> kwa mchango wako nashukuru sana <hes> mdau ametupiga madogo vyombo vya habari vinafuatilia sana timu au tunapendelea timu .
+[527.196]
+haya <breath> hayo ni maoni yake .
+[528.810]
+kitu cha kwanza ambacho naweza kusema kwamba uonyeshaji wa ligi ya Tanzania na uonyeshaji wa timu <breath> ni bovu .
+[534.860]
+ambao nikianzia kwa T_F_F .
+[536.650]
+ambapo unaweza kuta T_F_F kwamba imekariri kwamba timu ya Tanzania hapa hivi zipo Simba na Yanga nimetolea tu mfano <breath> kwa hivyo Simba na Yanga ndiyo timu kongwe hapa Tanzania ambazo zimeanzia mapato .
+[546.106]
+kwa hivyo pi- -- piga au kwa vyovyote vile .
+[548.467]
+<breath> mambo ambayo watafanya ita- -- ita- -- itakuwa inawafavour Simba na Yanga katika uonyeshaji wao na kitu kingine katika nani kilabu hapa hivi katika ku- -- ku- -- kuendeleza -- kuendeleza mpira katika nchi (()) unaanzia chini .
+[560.710]
+na ingawa kuna sheria kwamba ati kila ki- -- kilabu ambayo inashiriki kwenye ligi kuu lazima iwe na Academy lakini kwa -- kwa Bongo hapa hivi yaani hilo swala hapo ni utapeli kwa sababu unaweza kuta timu <breath> sawa -- sawa inaweza kuwa na Academy lakini Academy <breath> ni ya- -- inatokea pale ambapo wanakuja kukaguliwa na- -- kama na T_F_F wengi wao wanahonga .
+[576.735]
+<no-speech>
+[578.020]
+unaona ?
+[578.972]
+halafu kitu kingine nataka kusema kwamba makocha -- halafu ndiyo upu- -- upungufu wa makocha kwamba yaani uwezo wa makocha katika kucoach -- kucoach nani wachezaji .
+[587.240]
+kwa mfano leo -- leo hii Tanzania tuna makocha ambao wanaibua vipaji lakini sio kuendeleza vipaji .
+[591.130]
+hilo nalo ni tatizo unaona ?
+[593.116]
+<breath> kwamba leo hii pia -- wajua kama ligi ya -- ya -- ligi ya nje mfano ligi ya- -- kama Uingereza kuna coaching ambao ameandikwa ajili ya Academy na coaching ambayo imeandikwa dhidi ya timu ya -- ya watu (()) <breath> under -- under twenty one au zaidi ya hapo hivyo .
+[603.723]
+<breath> lakini leo hii utakuta kocha Watanzania anaye teach Academy leo ameenda tena kufundisha katika timu ya watu wazima <breath> kitu ambacho -- kitu hicho ambacho haki- -- hakipo unaona ?
+[610.960]
+<no-speech>
+[611.920]
+halafu kitu ingine mimi nataka kusema kwamba hivi <breath> wachezaji sisi wenyewe tu- -- tujidhamini yaani tuwe -- tuwe na utu tuwe na utaifa ndani yetu na uzalendo tuwe nao .
+[620.440]
+kwa sababu haiwezekani mimi leo hii kwamba -- sawa mi- -- mimi natambua hii timu ndiyo imenisaidia imenitoa mbali .
+[626.270]
+kwa -- kama kwa mfano kama -- kwa mfano Toto (()) Toto .
+[628.991]
+mimi nimezaliwa Mwanza nimekulia Toto nikachezea Toto lakini kwa maswala ya pesa ambayo pesa nayo haita- -- (()) chochote kwa maswala ya pesa <breath> unakuta watu wamesajiliwa kwa timu yoyote kwa vile unategemezwa na hii timu wewe unaondoka tu unaenda bila kuangalia nyuma kwamba ninavyoondoka hivi na naenda nabomoa timu yangu (()) na watu wengine maana uzalendo hatuna uzalendo hatuna na mashabiki hatuna <hes> nani uzalendo .
+[651.150]
+kwa sababu kama <breath> -- kama wewe usipende kitu chako hakuna ambaye ata- -- ataamini kitu -- kitu cha mwingine kama wewe umependa ligi ya -- ligi ya -- ya Uingereza haitatokea leo Mwingereza atoke Uingereza aje -- aje aseme ligi yako hicho kitu hakipo <breath> unaona ?
+[661.170]
+kwa hivyo na sisi wa- -- watazamaji tuwe na nini ?
+[663.120]
+tuwe na uzalendo katika ligi zetu .
+[665.030]
+eh ndiyo hayo .
+[666.134]
+asante sana nashukuru sana asante sana %incomplete
+[667.434]

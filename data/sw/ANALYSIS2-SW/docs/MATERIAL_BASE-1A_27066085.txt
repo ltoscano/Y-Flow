@@ -1,0 +1,99 @@
+0.000	inLine	<no-speech>
+0.000	outLine	<sta> mjini naja kesho .
+0.310	inLine	<no-speech>
+3.560	outLine	<no-speech>
+3.580	inLine	kesho kufanya nini na leo ndiyo weekend ?
+5.170	outLine	<no-speech>
+5.780	inLine	<no-speech>
+7.492	outLine	kesho niko na mpango .
+8.000	inLine	<sta> mmhm .
+8.460	inLine	<no-speech>
+8.925	outLine	<no-speech>
+9.750	inLine	<sta> mpango huu ukivaa dada <int> .
+12.270	inLine	<no-speech>
+12.879	outLine	mpango wa kando .
+14.032	outLine	<no-speech>
+14.910	inLine	ehhe ?
+15.860	inLine	<no-speech>
+16.700	outLine	<no-speech>
+17.020	inLine	utagongwa kugongwa .
+18.490	inLine	<no-speech>
+19.905	outLine	hamna .
+20.160	inLine	ehhe ?
+20.650	inLine	<no-speech>
+20.886	outLine	<no-speech>
+21.620	inLine	uko wapi ?
+22.400	inLine	<no-speech>
+22.620	outLine	<no-speech>
+23.770	outLine	niko kwa nyumba .
+25.012	outLine	<no-speech>
+25.660	inLine	na mzee ?
+26.490	inLine	<no-speech>
+27.751	outLine	mzee pia ako .
+29.170	outLine	<no-speech>
+31.090	inLine	anasikia vile unaongea ?
+32.510	inLine	<no-speech>
+33.270	outLine	hamna .
+34.056	outLine	<laugh> <int> ana- -- anafanya shughuli zake .
+36.130	inLine	amerudi job <no-speech> -- amerudi kazi .
+37.764	outLine	bado .
+38.230	inLine	<no-speech>
+39.250	outLine	<no-speech>
+40.100	inLine	atarudi lini ?
+40.750	outLine	<no-speech>
+40.794	inLine	<no-speech>
+41.263	inLine	ile yenye ulikuwa umeniambia umeenda kumtafutia .
+42.010	outLine	<no-speech>
+43.450	inLine	<no-speech>
+44.400	outLine	<sta> hivi karibuni .
+45.364	outLine	<no-speech>
+46.330	inLine	ehhe .
+46.509	outLine	kuna -- kuna mambo -- mambo machache ambayo hayajatekelezwa .
+46.890	inLine	<no-speech>
+51.304	outLine	<no-speech>
+51.590	inLine	mmhm .
+52.090	inLine	<no-speech>
+52.449	outLine	mmhm .
+53.400	outLine	<no-speech>
+54.110	inLine	na ile ni nini ?
+55.900	inLine	<no-speech>
+57.120	outLine	<no-speech>
+57.200	inLine	ile yake ingine ?
+58.420	outLine	<no-speech>
+58.500	inLine	<no-speech>
+59.440	outLine	yule hajapigiwa simu hata .
+61.385	outLine	<int> na hatuna matumaini nayo .
+62.110	inLine	ehhe .
+62.499	inLine	<no-speech>
+63.391	inLine	yule mama ako ?
+64.168	outLine	mmhm <int> ?
+64.240	inLine	<no-speech>
+65.890	inLine	yule mama mwenye alimpeleka alimweka kwa ile matatu zingine ako ?
+66.180	outLine	<no-speech>
+68.720	outLine	<no-speech>
+69.080	outLine	<no-speech>
+69.610	inLine	<no-speech>
+70.200	outLine	ehhe ako hata alikuwa -- nasikia alikuwa kortini hata ali- -- ako mpaka lawyer .
+74.043	outLine	sijui ako na mpango gani ?
+74.940	inLine	<no-speech>
+75.396	outLine	<int> mmhm but usijali .
+76.169	inLine	ehhe .
+76.570	inLine	<no-speech>
+78.000	inLine	na koti wanasema nini ?
+79.050	outLine	<no-speech>
+79.280	inLine	<no-speech>
+80.510	outLine	si kesi tu itasikizwa ?
+82.020	outLine	<no-speech>
+82.790	inLine	ehhe .
+83.190	inLine	<no-speech>
+83.750	outLine	mmhm .
+84.204	inLine	lini tena ?
+84.450	outLine	<no-speech>
+85.050	inLine	<no-speech>
+86.210	outLine	Aprili ?
+87.000	outLine	<no-speech>
+88.340	outLine	<no-speech>
+88.600	inLine	mwaka ujao ?
+89.580	inLine	<no-speech>
+90.441	outLine	ehhe .
+91.230

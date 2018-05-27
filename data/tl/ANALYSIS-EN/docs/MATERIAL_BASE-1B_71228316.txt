@@ -1,0 +1,26 @@
+<1>	(0.000-1.520)	<no-speech>	<no-speech>
+<2>	(1.520-10.854)	<sta> tinalo ng pambato ng bansang Taipei ang pinoy cue master na si Carlo <sta> Biado sa katatapos lang po na World ten ball championship dito sa GenSan .	the contender of the country Taipei defeated the Filipino cue master Carlo Biado in the recently held World Ten Ball championship here in General Santos .
+<3>	(10.854-13.161)	nag-pa-patrol Francis Canlas .	Francis Canlas reporting .
+<4>	(13.161-14.620)	<no-speech>	<no-speech>
+<5>	(14.620-22.810)	<sta> ganadong-ganado sa final game ng ten ball world championship Manny Pacquiao cup ang pambato ng Taipei na si Ko Pin Yi .	the contender of the Taipei Ko Pin Yi is enthusiastic in the final game of the ten ball world championship Manny Pacquiao cup .
+<6>	(22.810-29.150)	tuwing umaasinta pasok ang bola kaya madali niyang naiwan ang pinoy cue master na si Carlo Biado .	each aim for the target the ball enters so he quickly left the Filipino cue master Carlo Biado behind .
+<7>	(29.150-30.633)	race to eleven ang match .	the match is a race to eleven .
+<8>	(30.633-31.886)	<no-speech>	<no-speech>
+<9>	(31.886-34.670)	<sta> malayo agad ang distansiya ni Ko Pin Yi .	Ko Pin Yi's distance quickly goes far .
+<10>	(34.670-39.140)	<sta> nakasampung panalo na siya si Biado nasa three wins pa .	he has ten wins already Biado is still on three wins .
+<11>	(39.140-45.750)	<sta> sinubukang humabol ni Biado pero tuluyan na siyang tinalo ni Ko Pin Yi sa iskor na nine eleven .	Biado tries to catch up but he is finally defeated by Ko Pin Yi with the score nine eleven .
+<12>	(45.750-49.231)	<no-speech>	<no-speech>
+<13>	(49.231-54.210)	talo man ang pambatong pinoy tuwang-tuwa pa rin ang fans sa dikit na laban .	the Filipino contender might have been lost the fans are still happy for the close match .
+<14>	(54.210-56.676)	buti pa nakaabot tayo ng nine .	it's good we have reached nine .
+<15>	(56.676-58.452)	<hes> naanuhan lang eh .	was just made up like that .
+<16>	(58.452-60.859)	talagang minamalas sa umpisa <int> kanina .	really in bad luck earlier .
+<17>	(60.859-62.390)	ang galing ng laro nila .	their game is excellent .
+<18>	(62.390-69.150)	mas a- -- ang ano -- talagang <hes> sinisikapan din ni Biado na manalo siya pero talagang magaling din 'yon si Ko Pin Yi .	more -- the -- really Biado is also really trying for him to win but Ko Pin Yin is really good .
+<19>	(69.150-79.180)	ito ang kauna-unahang world title ng beynte-singko anyos na kampeon at dahil sa panalo mula sa rank twenty one umangat sa number two ang ranking nito sa World Pool Billiard Association .	this is the first world title of the twenty-five year old champion and because of his win his ranking at the World Pool Billiard Association is raised to number two from rank twenty-one .
+<20>	(79.180-83.921)	<hes> this is my first time world championship so I'm very -- very very happy .	this is my first time world championship so I'm very -- very very happy .
+<21>	(83.921-84.550)	<no-speech>	<no-speech>
+<22>	(84.550-91.080)	mula naman sa rank number ten number one na ngayon sa W_P_A ranking si Carlo Biado sa kabila ng pagkatalo .	from rank number ten Carlo Biado is now number one in the W_P_A ranking despite the loss .
+<23>	(91.080-99.790)	<sta> <hes> ma- -- masama 'yong break ko <no-speech> kaya nakalayo siya pero -- pero <hes> kahit na nakalayo siya laban pa rin ako .	my break is bad so he has gotten far but -- but even though he has gotten far I still fought .
+<24>	(99.790-104.460)	tumataginting na forty thousand U_S dollars ang inuwing premyo ni Ko Pin Yi .	an incredible forty thousand U_S dollars is the prize taken home by Ko Pin Yi .
+<25>	(104.460-107.657)	twenty thousand dollars <sta> naman ang natanggap ni Biado .	while twenty thousand dollars was received by Biado .
+<26>	(107.657-109.592)	Francis Canlas A_B_S-C_B_N .	Francis Canlas A_B_S-C_B_N .

@@ -1,0 +1,68 @@
+<1>	(0.000-1.895)	<no-speech>	<no-speech>
+<2>	(1.895-11.260)	sampung taong gulang pa lang daw ang bente anyos na si Lara ay nakakaranas na siya ng pananakit ng puson o dysmenorrhea sa tuwing mayroon siyang buwanang dalaw .	supposedly when twenty-year-old Lara was just ten years old she was already experiencing abdominal pain or dysmenorrhea whenever she has her monthly period .
+<3>	(11.260-16.207)	worst is sumasakit 'yung ulo ko nahihilo ako tapos nanghihina 'yung tuhod ko .	worst is my head aches I get dizzy and my knees weaken .
+<4>	(16.207-18.514)	pati 'yung balakang ko 'yung likod sobrang sakit .	even my hips my back are too painful .
+<5>	(18.514-25.990)	'yung <hes> level ng sakit ng puson ko paiba-iba siya every month kaya minsan hindi ko ini-expect na gano'n ka -- kasakit .	the level of pain in my abdomen it changes every month so sometimes I don't expect it to be that -- painful .
+<6>	(25.990-32.760)	tinatayang isa sa bawat dalawang babae ang nakakaranas ng dysmenorrhea kapag mayroon silang monthly period .	an estimated one of every two women experience dysmenorrhea when they have monthly period .
+<7>	(32.760-40.660)	nangyayari ito bilang epekto ng pagkatanggal at pagbaba ng bloody tissue mula sa lining ng matris ng isang babae .	it happens as an effect of the removal and decrease of bloody tissue from the uterus lining of a woman .
+<8>	(40.660-45.700)	may dalawang uri ng dysmenorrhea ang primary at ang secondary .	there are two kinds of dysmenorrhea primary and secondary .
+<9>	(45.700-52.240)	primary dysmenorrhea ang tulad ng nararanasan ni Lara na nararamdaman lang niya kapag mayroon siyang period .	primary dysmenorrhea is similar to what Lara experiences that is only felt when she has a period .
+<10>	(52.240-53.185)	<no-speech>	<no-speech>
+<11>	(53.185-59.840)	karaniwang nangyayari ito isang araw bago magsimula ang regla hanggang sa tatlong araw kapag mayroon ng pagdurugo .	it usually happens one day before the period starts up to three days if there is bleeding already .
+<12>	(59.840-66.260)	mula sa puson puwedeng umabot sa ibabang bahagi ng likod at itaas na bahagi ng hita ang sakit .	from the abdomen the pain can reach to the lower part of the back and higher part of the thigh .
+<13>	(66.260-75.073)	maaari ring may kasabay itong pananakit ng ulo pagkapagod <no-speech> pagsama ng pakiramdam at pagiging emosyonal .	it may also coincide with headache fatigue bad mood and being emotional .
+<14>	(75.073-84.820)	usually sa <hes> if we talk about the age of onset ang primary dysmenorrhea ay nangyayari ito much earlier sa during mga -- during the adolescent stage .	usually at if we talk about the age of onset primary dysmenorrhea it happens much earlier during around -- during the adolescent stage .
+<15>	(84.820-87.582)	puwede nang magkaroon ng dysmenorrhea 'yung isang babae .	a woman can already have dysmenorrhea .
+<16>	(87.582-110.890)	so during the adolescent period kasi hindi naman common 'yung mga ovarian tumors or 'yung mga endometriosis cyst no and <hes> usually pag nag-complain ang isang adolescent girl ng dysmenorrhea at winork-out natin sila wala tayong makikita na pathology secondary dysmenorrhea naman ang tawag sa nararanasan ng isang babae kapag ang pananakit ng puson ay lumalala habang tumatagal .	so during the adolescent period ovarian tumors or endometriosis cysts are not common right and usually when an adolescent girl complains of dysmenorrhea and we work them out and we don't see a pathology secondary dysmenorrhea is what you call the abdominal pain felt by a woman that worsens over time .
+<17>	(110.890-116.970)	nararamdaman ito ilang araw bago ang period at nagtatagal hanggang matapos ang pagdurugo .	it is felt a few days before the period and lasts after the bleeding stops .
+<18>	(116.970-126.370)	puwede ring sintoma nito ang pagdurugo sa pagitan ng pagkakaroon ng regla <no-speech> vaginal discharge at pagdanas ng sakit sa tuwing makikipagtalik .	bleeding between periods vaginal discharge and experiencing pain during sex can also be it symptoms .
+<19>	(126.370-132.500)	ang secondary dysmenorrhea ay itinuturing na senyales ng mas malalang gynecologic problem .	secondary dysmenorrhea is considered a sign of a much worse gynecologic problem .
+<20>	(132.500-147.600)	for example 'yung tinatawag nating endometriosis isang very common condition sa mga babae na kung saan ay 'yung lining ng uterus tinatawag nating endometrium ay <hes> nag-invade doon sa ibang parte ng reproductive track .	for example what is called endometriosis a very common condition in women wherein the lining of the uterus that we call endometrium invaded the other parts of the reproductive track .
+<21>	(147.600-154.708)	puwede ring magkakaroon ng secondary dysmenorrhea kung ang isang babae ay may ovarian tumor o may uteral tumor .	a woman with ovarian tumor or with ureteral tumor can also have secondary dysmenorrhea .
+<22>	(154.708-165.100)	for example 'yung myoma na puwedeng mag-obstruct sa flow ng blood from the uterus out to the vagina kasi naiipon 'yung blood doon .	for example myoma that can obstruct blood flow from the uterus out to the vagina because blood collects there .
+<23>	(165.100-171.510)	nag-aalala ang tatlumpu gulang na si Girlie na baka raw may secondary dysmenorrhea siya .	thirty-year-old Girlie is worried that she might have secondary dysmenorrhea .
+<24>	(171.510-177.250)	three days bago ako magkaroon ng mens nararamdaman ko sumasakit na kaagad 'yung puson ko .	three days before I have my period I immediately feel my abdomen aching .
+<25>	(177.250-182.447)	tapos hanggang sa magkaroon ako ng mens gano'n pa rin mas tumitindi na 'yung sakit .	then until I get my period it's the same the pain worsens .
+<26>	(182.447-187.461)	pag sumasakit na talaga 'yung puson ko hindi na talaga ako makapasok sa trabaho .	when my abdomen really aches I can't really go to work anymore .
+<27>	(187.461-189.180)	um-a-absent na ako .	I skip .
+<28>	(189.180-191.414)	tapos nakahiga lang ako maghapon .	then I just lie down the whole day .
+<29>	(191.414-197.240)	sa sobrang nararamdaman niyang sakit kung puwede nga lang daw nagpadala siya sa ospital .	with the amount of pain she feels she would go to the hospital if it were only possible .
+<30>	(197.240-200.571)	sa pagamutan nalaman na mayroon siyang endometriosis .	in the clinic she learned she has endometriosis .
+<31>	(200.571-208.179)	isang abnormalidad kung saan ang mga cell na dapat ay nasa loob ng kaniyang matris tumutubo sa labas nito .	an abnormality wherein the cells that should be inside her uterus grow outside of it .
+<32>	(208.179-214.260)	dahil matagal ng hindi nakapagpapakonsulta sa doktor dinala namin si Girlie kay doctor Kyu .	because she had not consulted with a doctor in a long while we brought Girlie to Doctor Kyu .
+<33>	(214.260-217.861)	nag-ultrasound ka na noon pero that was two thousand eleven pa .	you already had an ultrasound done but that was back in two thousand eleven .
+<34>	(217.861-225.830)	so dapat ulitin natin 'yun and then i-compare natin 'yung result mo noong twenty eleven at 'tsaka 'yung twenty fourteen .	we have to repeat that and compare the results of twenty eleven and twenty fourteen .
+<35>	(225.830-238.439)	(()) tapos bibigyan kong kung nando'n pa rin 'yung cyst na 'yun bibigyan natin ng gamot -- gamot muna na iinumin mo and then kung hindi 'yun uubra after several months bubuksan ka ooperahan natin 'yan .	(()) and I'll give if her cyst is still there we'll give her medicines for that -- medicine for intake first and if it doesn't work for several months we'll open you up and give you the operation .
+<36>	(238.439-242.180)	tatanggalin natin 'yung cyst 'yung obaryo mo maiiwan .	we'll remove the cyst your your ovary will remain .
+<37>	(242.180-242.718)	<no-speech>	<no-speech>
+<38>	(242.718-250.370)	para sa mga nakakaranas ng dysmenorrhea narito ang ilang tips na maaaring gawin sa bahay upang mabawasan ang pananakit ng puson .	for those who experience dysmenorrhea here are some tips you can do at home to alleviate the pain on your lower abdomen .
+<39>	(250.370-259.160)	maglagay ng mainit-init na tubig sa isang bote <no-speech> at 'tsaka gamitin ito para masahihin ang puson .	fill a bottle with hot water and use this to massage your lower abdomen .
+<40>	(259.160-263.100)	humiga at lagyan ng unan ang ilalim ng mga tuhod .	lie down and place a pillow under your knees .
+<41>	(263.100-267.176)	makatutulong ito para magdagdag ng pressure sa abdominal area .	this will help to add pressure on your abdominal area .
+<42>	(267.176-273.148)	kumain ng saging na mayaman sa vitamin B_six na nakapagpapabawas ng menstrual cramps .	eat banana that's rich in vitamin B_six it helps in reducing menstrual cramps .
+<43>	(273.148-281.590)	ang pinya naman ay mayroong sangkop na bromelain na nakapagpaparelax ng muscles kaya nakatutulong ito para maibsan ang menstrual cramps .	pineapple has bromelain elements that helps in relaxing muscles that's why it aids in alleviating menstrual cramps .
+<44>	(281.590-282.893)	<no-speech>	<no-speech>
+<45>	(282.893-286.338)	kumain din ng mga pagkaing mayaman sa calcium at iron .	also eat food that's rich in calcium and iron .
+<46>	(286.338-289.320)	<no-speech>	<no-speech>
+<47>	(289.320-293.800)	at kung kinakailangan maaari ring uminom ng mga pain reliever .	and if needed you may also drink pain reliever .
+<48>	(293.800-299.920)	<sta> mayroon Ding mga simpleng stretch exercises na makatutulong para mabawasan ang dysmenorrhea .	there are also simple stretch exercises that can help to alleviate dysmenorrhea .
+<49>	(299.920-305.040)	<sta> we'll begin with our legs straight .	we'll begin with our legs straight .
+<50>	(305.040-308.189)	you may bend your right knee to your chest .	you may bend your right knee to your chest .
+<51>	(308.189-311.430)	and open your right leg to the side .	and open your right leg to the side .
+<52>	(311.430-318.320)	on an inhale lengthen your spine up to the back of your neck as you exhale grab a hold of your left foot .	on an inhale lengthen your spine up to the back of your neck as you exhale grab a hold of your left foot .
+<53>	(318.320-322.370)	now inhale face forward lengthen your spine .	now inhale face forward lengthen your spine .
+<54>	(322.370-325.550)	if it's too difficult there's a modified pose .	if it's too difficult there's a modified pose .
+<55>	(325.550-329.070)	if your hamstrings are short you may slightly bank .	if your hamstrings are short you may slightly bank .
+<56>	(329.070-330.875)	think grab of holding your front leg .	think grab of holding your front leg .
+<57>	(330.875-333.084)	<no-speech>	<no-speech>
+<58>	(333.084-336.330)	for your <foreign> you may tuck your toes .	for your <foreign> you may tuck your toes .
+<59>	(336.330-340.781)	bring your hands behind your hips here keep pushing your hips forward .	bring your hands behind your hips here keep pushing your hips forward .
+<60>	(340.781-344.120)	now relax your neck as you begin to lean back .	now relax your neck as you begin to lean back .
+<61>	(344.120-347.531)	engage your core grab a hold of your ankles .	engage your core grab a hold of your ankles .
+<62>	(347.531-351.490)	there shaking is good keep pushing your hips forward .	there shaking is good keep pushing your hips forward .
+<63>	(351.490-357.140)	maaari itong gawin sa pagitan ng bawat regla tatlong beses isang linggo .	this can be done between each period three times a week .
+<64>	(357.140-357.720)	<no-speech>	<no-speech>
+<65>	(357.720-367.550)	bahagi ng buhay ng isang babae ang pagkakaroon ng mens pero ang dysmenorrhea o menstrual cramps na kasabay nito ay maaari nating maiwasan .	part of a woman's life is having menstruation but we could avoid the dysmenorrhea or menstrual cramps that comes with it .
+<66>	(367.550-374.945)	lagi lang tandaan na kung sobra na ang sakit mas makabubuting ipatingin na ito sa ating mga pinagkakatiwalaang doktor .	just always remember that if the pain is already extreme it is best to have it checked by our trusted doctors .
+<67>	(374.945-375.940)	<no-speech>	<no-speech>
+<68>	(375.940-376.627)	<no-speech>	<no-speech>

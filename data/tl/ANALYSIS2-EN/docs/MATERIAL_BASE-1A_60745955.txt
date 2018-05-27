@@ -1,0 +1,61 @@
+<1>	(Inline, 0.000-1.290)	halo sasa .	hello hi .
+<2>	(Outline, 0.000-1.670)	<no-speech>	<no-speech>
+<3>	(Inline, 1.290-3.230)	<no-speech>	<no-speech>
+<4>	(Outline, 1.670-3.690)	fit sana habari yako ?	very fine how are you ?
+<5>	(Inline, 3.230-3.859)	ehhe .	mm .
+<6>	(Outline, 3.690-6.520)	<no-speech>	<no-speech>
+<7>	(Inline, 3.859-6.310)	mi niko sawa labda yako .	I am okay maybe yours .
+<8>	(Inline, 6.310-8.470)	<no-speech>	<no-speech>
+<9>	(Outline, 6.520-7.880)	mnaendeleaje ?	how are you doing ?
+<10>	(Outline, 7.880-11.130)	<no-speech>	<no-speech>
+<11>	(Inline, 8.470-10.790)	mi niko poa labda we .	I am okay maybe you .
+<12>	(Inline, 10.790-13.930)	<no-speech>	<no-speech>
+<13>	(Outline, 11.130-13.320)	mbona siku hizi umenyamaza hivyo ?	why have you been so quiet these days ?
+<14>	(Outline, 13.320-18.060)	<no-speech>	<no-speech>
+<15>	(Inline, 13.930-17.890)	mi sijanyamaza ni vile pesa haipatikani siku hizi .	I am not quiet it's just that money is not easy to find these days .
+<16>	(Inline, 17.890-19.200)	<no-speech>	<no-speech>
+<17>	(Outline, 18.060-18.740)	mmhm .	mmhm .
+<18>	(Outline, 18.740-20.960)	<no-speech>	<no-speech>
+<19>	(Inline, 19.200-20.930)	ni njaa ndiyo mingi .	is hunger that is a lot .
+<20>	(Inline, 20.930-22.630)	<no-speech>	<no-speech>
+<21>	(Outline, 20.960-21.780)	mmhm .	mmhm .
+<22>	(Outline, 21.780-25.520)	<no-speech>	<no-speech>
+<23>	(Inline, 22.630-23.201)	ehhe .	mm .
+<24>	(Inline, 23.201-25.270)	ndiyo sababu nimenyamaza .	that is why I'm quiet .
+<25>	(Inline, 25.270-27.390)	<no-speech>	<no-speech>
+<26>	(Outline, 25.520-26.590)	pole sana .	I'm very sorry .
+<27>	(Outline, 26.590-30.480)	usijali lazima maisha yaendelee .	don't worry life must continue .
+<28>	(Inline, 27.390-27.769)	hah .	hah .
+<29>	(Inline, 27.769-29.330)	asante nishapoa .	thank you I am okay .
+<30>	(Inline, 29.330-31.260)	<no-speech>	<no-speech>
+<31>	(Outline, 30.480-34.010)	<no-speech>	<no-speech>
+<32>	(Inline, 31.260-33.840)	hii maisha ni ngumu rafiki yangu .	this life is hard my friend .
+<33>	(Inline, 33.840-35.720)	<no-speech>	<no-speech>
+<34>	(Outline, 34.010-34.940)	mmhm .	mmhm .
+<35>	(Outline, 34.940-39.060)	<no-speech>	<no-speech>
+<36>	(Inline, 35.720-39.370)	natafuta pesa hata sioni shida ni mingi .	I am looking for money I don't even find and problems are many .
+<37>	(Outline, 39.060-41.580)	<laugh> mmhm .	mmhm .
+<38>	(Inline, 39.370-41.710)	<no-speech>	<no-speech>
+<39>	(Outline, 41.580-46.680)	<no-speech>	<no-speech>
+<40>	(Inline, 41.710-48.690)	ehhe natafuta mtu mwenye atanipatia kazi yenye nakaa chini najua mwisho wa mwezi nitapata mshahara yangu .	mm I am searching for a person who will give me a job which I will relax knowing that end month I will get my salary .
+<41>	(Outline, 46.680-47.140)	<no-speech>	<no-speech>
+<42>	(Outline, 47.140-49.510)	<no-speech>	<no-speech>
+<43>	(Inline, 48.690-51.920)	<no-speech>	<no-speech>
+<44>	(Outline, 49.510-50.844)	hiyo ni poa .	that is good .
+<45>	(Outline, 50.844-54.824)	jaribu utapata kazi ziko mingi sana .	try you will find jobs are very many .
+<46>	(Inline, 51.920-52.403)	ehhe .	mm .
+<47>	(Inline, 52.403-53.020)	hii kazi %incomplete	this job %incomplete
+<48>	(Inline, 53.020-55.480)	<no-speech>	<no-speech>
+<49>	(Outline, 54.824-55.851)	<no-speech>	<no-speech>
+<50>	(Inline, 55.480-59.200)	mtu wa kuniunganisha rafiki yangu ndiye hayuko .	someone to link me up my friend is not there .
+<51>	(Outline, 55.851-56.920)	tia bidii .	put up effort .
+<52>	(Outline, 56.920-59.380)	<no-speech>	<no-speech>
+<53>	(Inline, 59.200-64.760)	<no-speech>	<no-speech>
+<54>	(Outline, 59.380-64.180)	tia bidii tu usi- -- usi- -- usi- -- usikate tamaa .	just put effort don't give up .
+<55>	(Outline, 64.180-67.780)	<no-speech>	<no-speech>
+<56>	(Inline, 64.760-66.004)	nitajaribu jaribu .	I will continue trying .
+<57>	(Inline, 66.004-71.920)	pia we ukisikia mahali wanataka mtu mwenye -- mtu kama mi tu unaniita .	if you also hear a place where they want a person who -- a person like me just call me .
+<58>	(Outline, 67.780-68.260)	mmhm .	mmhm .
+<59>	(Outline, 68.260-72.640)	<no-speech>	<no-speech>
+<60>	(Inline, 71.920-75.530)	<no-speech>	<no-speech>
+<61>	(Outline, 72.640-75.530)	nitakwambia lazima nikwambie nikisikia .	I will tell you I must tell you when I hear .

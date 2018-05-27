@@ -1,0 +1,31 @@
+<1>	(Inline, 0.000-1.695)	<no-speech>	<no-speech>
+<2>	(Outline, 0.000-1.797)	ahh ehhe za soh moja .	ahh mm of a hundred shillings .
+<3>	(Inline, 1.695-3.543)	<sta> na nini -- na kitunguu naye ?	and what -- and what about onion ?
+<4>	(Outline, 1.797-2.270)	so %incomplete	so %incomplete
+<5>	(Outline, 2.270-4.900)	<no-speech>	<no-speech>
+<6>	(Inline, 3.543-5.145)	ama hiyo hakunanga huko ?	or that is never there ?
+<7>	(Outline, 4.900-9.320)	ehhe aai kitunguu hio okay (()) sijui kitunguu vile zinafanya hapa .	mm really that onion okay (()) I don't know how onions perform here .
+<8>	(Inline, 5.145-9.675)	<no-speech>	<no-speech>
+<9>	(Outline, 9.320-10.630)	<no-speech>	<no-speech>
+<10>	(Inline, 9.675-10.225)	mmhm .	mmhm .
+<11>	(Inline, 10.225-13.165)	<no-speech>	<no-speech>
+<12>	(Outline, 10.630-12.770)	ehhe sijui vyenye okay sijui vile naweza fanya %incomplete	mm I don't how okay I don't know how I will do %incomplete
+<13>	(Outline, 12.770-14.110)	<no-speech>	<no-speech>
+<14>	(Inline, 13.165-13.715)	<int> mmhm .	mmhm .
+<15>	(Inline, 13.715-18.285)	<no-speech>	<no-speech>
+<16>	(Outline, 14.110-17.968)	at least nyanya unajua ni kitu moja ni kwamba unaona wanasema hiyo kitunguu lazima utime season .	at least tomatoes you know is one thing you know is that you see they are saying the onions you must wait for the season .
+<17>	(Outline, 17.968-19.747)	<no-speech>	<no-speech>
+<18>	(Inline, 18.285-19.075)	<int> mmhm .	mmhm .
+<19>	(Inline, 19.075-21.975)	<no-speech>	<no-speech>
+<20>	(Outline, 19.747-21.390)	uzuri ya nyanya %incomplete	the good thing about tomatoes %incomplete
+<21>	(Outline, 21.390-22.870)	<no-speech>	<no-speech>
+<22>	(Inline, 21.975-22.505)	mmhm .	mmhm .
+<23>	(Inline, 22.505-29.325)	<no-speech>	<no-speech>
+<24>	(Outline, 22.870-28.630)	nyanya (()) hakuna siku itakulet down na hata kama ukiuza the only thing utafanya ni kuuza bei rahisi sana .	tomatoes (()) there is no day it will let you down and even if you sell them the only thing you will do is to charge a very low price .
+<25>	(Outline, 28.630-29.690)	<no-speech>	<no-speech>
+<26>	(Inline, 29.325-29.935)	<int> mmhm .	mmhm .
+<27>	(Outline, 29.690-38.376)	<int> we so we (()) ham- -- hakuna kitu in fact ukulima wa nya- -- <hes> -- nyanya ni works na itaku- -- kitu utafanya tu utauza bei ya chini .	you so you (()) there is no profit in fact farming of tomatoes involves a lot of work and -- what you will just do is to charge low prices .
+<28>	(Inline, 29.935-38.915)	<no-speech>	<no-speech>
+<29>	(Outline, 38.376-41.140)	<no-speech> lakini doh itakupatia kidogo .	but it will earn you some money .
+<30>	(Inline, 38.915-39.525)	mmhm .	mmhm .
+<31>	(Inline, 39.525-41.140)	<no-speech>	<no-speech>

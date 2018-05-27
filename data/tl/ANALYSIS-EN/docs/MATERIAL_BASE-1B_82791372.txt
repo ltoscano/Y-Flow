@@ -1,0 +1,5 @@
+<1>	(0.000-7.347)	<int> may outbreak na ng dengue sa GenSan at hindi pa man natatapos ang Enero may dalawa na agad na namatay sa dengue sa lungsod .	there is already a dengue outbreak in GenSan and January is not over yet but two have already died in the city due to dengue .
+<2>	(7.347-11.582)	kaya naman puspusan ngayon ang information dissemination ng city health office .	so now the information dissemination of the city health office is thorough .
+<3>	(11.582-17.470)	muling nagpaalala ang city health office sa publiko na kahit sinat lang hindi puwedeng balewalain .	the city health office again warned that even a slight fever should not be disregarded .
+<4>	(17.470-25.680)	so 'yun 'yung inaawhag natin sa constituents na 'pag may fever ang anak n'yo during the first day palang so hindi naman siya fever dok sinat .	so that is what we're telling our constituents that when your child has a fever even during the first day only it's not a fever doc but a slight fever .
+<5>	(25.680-30.698)	even sinat can be a fever late -- <hes> can be a dengue fever later on .	even a slight fever can be a fever late -- can be a dengue fever later on .

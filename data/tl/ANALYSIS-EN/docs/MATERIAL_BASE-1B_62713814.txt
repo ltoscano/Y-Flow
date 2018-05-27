@@ -1,0 +1,16 @@
+<1>	(0.000-9.256)	<sta> puspusan na ho ang paghahanda ng Philippine Wrestling Team na sasama ho sa twenty seventeen Southeast Asian Junior and Cadet Wrestling Championship diyan po sa Thailand .	the preparation is thorough for the Philippine Wrestling Team who are joining the two thousand seventeen Southeast Asian Junior and Cadet Wrestling Championship there in Thailand .
+<2>	(9.256-12.510)	silipin natin ang balita mula kay Arian Maliare .	let us take a peek of the news from Arian Maliare .
+<3>	(12.510-13.430)	<no-speech>	<no-speech>
+<4>	(13.430-20.770)	limang ginto ang target ng mga national wrestlers sa kanilang paglahok sa Southeast Asia Junior and Cadet Wrestling Championship sa Thailand .	the national wrestlers target five golds in joining the Southeast Asia Junior and Cadet Wrestling Championship in Thailand .
+<5>	(20.770-29.310)	<sta> ito'y sapat para mahigitan nila ang kanilang showing noong nakaraang taon kung kailan ay nakapagsabi ang koponan ng dalawang ginto isang silver at tatlong bronze medals .	this is enough to go beyond their show last year where the teams were decorated with two golds one silver and three bronze medals .
+<6>	(29.310-37.470)	<sta> sa panayam ng (()) Sports inilahad ni national coach Melchor Tomasis na puspusan na ngayon pa lamang ang training ng mga national (()) .	in an interview by (()) Sports National Coach Melchor Tomasis revealed that as early as now the training is thorough for the national (()) .
+<7>	(37.470-38.732)	<sta> okey naman ang preparation namin .	our preparation is okay .
+<8>	(38.732-39.199)	ang pro- %incomplete	the pro %incomplete
+<9>	(39.199-51.240)	ang medyo kakulangan namin dito more supported lang talaga kulang sila sa mga <sta> sponsor like 'yung mga nagbibigay ng vitamins o anumang (()) kakulangan nila and sa <sta> mga kailangan sa pagkain din .	our slight insufficiency here more support really they lack sponsors like those who are giving vitamins or any (()) their insufficiency and those who needs food .
+<10>	(51.240-71.950)	'yung din ang kailangan (()) sa mga athlete (()) lalo pang- -- mas lumakas pa <sta> ibabandera ng Wrestling Association of the Philippines ang kanilang pride wrestlers na sina twenty sixteen gold medalist (()) at (()) <sta> Silver Medalist (()) na lalahok sa (()) .	that is also needed (()) for the athletes (()) to be more -- stronger in waving the pride wrestlers of the Wrestling Association of the Philippines who are two thousand sixteen gold medalist (()) and (()) Silver Medalist (()) who are going to join in (()) .
+<11>	(71.950-74.063)	parehas lang din ng mga technique eh .	well the techniques are just the same .
+<12>	(74.063-76.800)	sa <hes> combination (()) .	in combination (()) .
+<13>	(76.800-81.662)	<sta> (()) ano 'yung mga technique na gagawin nila .	(()) what are the techniques they will do .
+<14>	(81.662-85.460)	(()) <int> .	(()) .
+<15>	(85.460-92.582)	<sta> sa March thirty one nakatakdang umalis ng bansa ang Philippine Wrestling Team <int> na sasabak sa Thailand (()) mula April one to April eight .	the Philippine Wrestling Team who will compete in Thailand (()) from April one to April eight is set to leave the country on March thirty-one .
+<16>	(92.582-94.459)	Arian (()) .	Arian (()) .

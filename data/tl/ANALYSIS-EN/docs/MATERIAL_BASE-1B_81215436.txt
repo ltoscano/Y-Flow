@@ -1,0 +1,50 @@
+<1>	(Outline, 0.000-1.385)	<no-speech>	<no-speech>
+<2>	(Inline, 0.000-1.540)	anong division ba nilalaro mo ?	what division are you playing in ?
+<3>	(Outline, 1.385-1.865)	ha ?	what ?
+<4>	(Inline, 1.540-5.010)	<no-speech>	<no-speech>
+<5>	(Outline, 1.865-2.875)	<no-speech>	<no-speech>
+<6>	(Outline, 2.875-3.805)	si Bridget lalo .	especially Bridget .
+<7>	(Outline, 3.805-6.535)	<no-speech>	<no-speech>
+<8>	(Inline, 5.010-6.690)	anong division ba nilalaro mo ?	what division are you playing in ?
+<9>	(Outline, 6.535-7.115)	i-dyip .	through a jeep .
+<10>	(Inline, 6.690-9.640)	<no-speech>	<no-speech>
+<11>	(Outline, 7.115-9.225)	<no-speech>	<no-speech>
+<12>	(Outline, 9.225-9.771)	sa liga ?	in the league ?
+<13>	(Inline, 9.640-12.070)	akin ano midget na .	mine already in midget .
+<14>	(Outline, 9.771-10.593)	<no-speech>	<no-speech>
+<15>	(Outline, 10.593-10.985)	ha ?	what ?
+<16>	(Outline, 10.985-12.325)	<no-speech>	<no-speech>
+<17>	(Inline, 12.070-13.230)	<no-speech>	<no-speech>
+<18>	(Outline, 12.325-12.875)	<no-speech>	<no-speech>
+<19>	(Outline, 12.875-13.725)	<no-speech>	<no-speech>
+<20>	(Inline, 13.230-13.665)	mhm .	yes .
+<21>	(Inline, 13.665-15.030)	oo sa liga .	yes in a league .
+<22>	(Outline, 13.725-14.266)	Egypt .	Egypt .
+<23>	(Outline, 14.266-15.445)	ha ?	what ?
+<24>	(Inline, 15.030-17.690)	<no-speech>	<no-speech>
+<25>	(Outline, 15.445-18.675)	<no-speech>	<no-speech>
+<26>	(Inline, 17.690-18.870)	ah midget ka na rin ?	oh are you in midget also ?
+<27>	(Outline, 18.675-19.235)	o ?	oh ?
+<28>	(Inline, 18.870-20.680)	<no-speech>	<no-speech>
+<29>	(Outline, 19.235-22.655)	<no-speech>	<no-speech>
+<30>	(Inline, 20.680-22.650)	sarap <hes> 'no 'pag maraming nanonood .	so good don't you think when many are watching .
+<31>	(Inline, 22.650-29.350)	<no-speech>	<no-speech>
+<32>	(Outline, 22.655-26.478)	ayon lalo na <no-speech> siyempre 'yong mga magulang mo proud sa 'yo .	there especially of course your parents are proud of you .
+<33>	(Outline, 26.478-28.655)	proud sa 'yo mga friend mo .	your friends are proud of you .
+<34>	(Outline, 28.655-30.735)	<no-speech>	<no-speech>
+<35>	(Inline, 29.350-30.310)	naman o .	and again .
+<36>	(Inline, 30.310-31.480)	<no-speech>	<no-speech>
+<37>	(Outline, 30.735-32.575)	ang habol ko lang doon <sta> talaga .	what I am only running after is really there .
+<38>	(Inline, 31.480-34.440)	ako din <hes> pagka naglalaro ako tapos .	me too if I am playing then that's it .
+<39>	(Outline, 32.575-35.845)	<no-speech>	<no-speech>
+<40>	(Inline, 34.440-35.350)	<no-speech>	<no-speech>
+<41>	(Inline, 35.350-36.060)	oo .	yes .
+<42>	(Outline, 35.845-38.255)	(()) .	(()) .
+<43>	(Inline, 36.060-37.680)	<no-speech>	<no-speech>
+<44>	(Inline, 37.680-40.790)	pagka nga ano minsan pagka nagkakapikunan pa <hes> .	when sometimes when the tempers snap .
+<45>	(Outline, 38.255-40.625)	<no-speech>	<no-speech>
+<46>	(Outline, 40.625-41.281)	ako ?	me ?
+<47>	(Inline, 40.790-46.995)	<no-speech>	<no-speech>
+<48>	(Outline, 41.281-44.476)	kasi ang mga pinsan ko naaarbor mga kaibigan ko .	because my cousins are snatching my friends .
+<49>	(Outline, 44.476-45.265)	ikaw ?	you ?
+<50>	(Outline, 45.265-46.995)	<no-speech>	<no-speech>

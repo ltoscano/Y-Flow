@@ -1,0 +1,61 @@
+<1>	(Outline, 0.000-0.110)	<no-speech>	<no-speech>
+<2>	(Inline, 0.000-3.910)	<no-speech>	<no-speech>
+<3>	(Outline, 0.110-0.770)	mmhm .	mmhm .
+<4>	(Outline, 0.770-10.950)	<no-speech>	<no-speech>
+<5>	(Inline, 3.910-4.322)	ehhe .	mm .
+<6>	(Inline, 4.322-9.205)	ambapo hiyo kazi hakuwa -- haikuwa ikinipeleka vizuri niliona niwachane na ye .	whereby that job he wasn't -- wasn't taking me well I chose to break up with him .
+<7>	(Inline, 9.205-11.600)	sasa -- sasa hivi niko hapa Nairobi .	now -- right now I am here in Nairobi .
+<8>	(Outline, 10.950-11.410)	<no-speech>	<no-speech>
+<9>	(Outline, 11.410-12.560)	<no-speech>	<no-speech>
+<10>	(Inline, 11.600-12.730)	<no-speech>	<no-speech>
+<11>	(Outline, 12.560-15.126)	uko hapa na- -- uko hapa Nairobi upande gani ?	you're here and -- you're in which side here in Nairobi ?
+<12>	(Inline, 12.730-16.203)	na <no-speech> ninajaribu sasa nikipata %incomplete	and I am trying very much now if I get %incomplete
+<13>	(Outline, 15.126-17.350)	<no-speech>	<no-speech>
+<14>	(Inline, 16.203-16.921)	<no-speech>	<no-speech>
+<15>	(Inline, 16.921-17.300)	ehhe ?	mm ?
+<16>	(Inline, 17.300-18.940)	<no-speech>	<no-speech>
+<17>	(Outline, 17.350-19.238)	uko hapa Nairobi upande gani ?	you're in which side here in Nairobi ?
+<18>	(Inline, 18.940-19.550)	<int> ati ?	what ?
+<19>	(Outline, 19.238-19.892)	<no-speech>	<no-speech>
+<20>	(Inline, 19.550-22.510)	<no-speech>	<no-speech>
+<21>	(Outline, 19.892-21.260)	uko Nairobi upande gani ?	you're in Nairobi which side ?
+<22>	(Outline, 21.260-26.760)	<no-speech>	<no-speech>
+<23>	(Inline, 22.510-23.342)	niko Nairobi .	I am in Nairobi .
+<24>	(Inline, 23.342-24.370)	<no-speech>	<no-speech>
+<25>	(Inline, 24.370-25.095)	ehhe .	mm .
+<26>	(Inline, 25.095-26.400)	Kawangware .	Kawangware .
+<27>	(Inline, 26.400-28.520)	<no-speech>	<no-speech>
+<28>	(Outline, 26.760-27.034)	ohh .	ohh .
+<29>	(Outline, 27.034-27.820)	Kawangware .	Kawangware .
+<30>	(Outline, 27.820-29.590)	<no-speech>	<no-speech>
+<31>	(Inline, 28.520-29.460)	ehhe sasa %incomplete	mm now %incomplete
+<32>	(Inline, 29.460-31.260)	<no-speech>	<no-speech>
+<33>	(Outline, 29.590-30.190)	ehhe .	mm .
+<34>	(Outline, 30.190-32.400)	<no-speech>	<no-speech>
+<35>	(Inline, 31.260-31.637)	mmhm .	mmhm .
+<36>	(Inline, 31.637-32.230)	Kawangware .	Kawangware .
+<37>	(Inline, 32.230-33.610)	<no-speech>	<no-speech>
+<38>	(Outline, 32.400-33.010)	ehhe .	mm .
+<39>	(Outline, 33.010-40.050)	<no-speech>	<no-speech>
+<40>	(Inline, 33.610-39.870)	sasa <hes> nimepata <int> kazi mahali kampuni moja inaitwa sternmwah security .	now I have got a job at a place one company called Sternmwah security .
+<41>	(Inline, 39.870-42.500)	<no-speech>	<no-speech>
+<42>	(Outline, 40.050-40.710)	ehhe .	mm .
+<43>	(Outline, 40.710-43.350)	<no-speech>	<no-speech>
+<44>	(Inline, 42.500-43.350)	unanipata ?	do you hear me ?
+<45>	(Outline, 43.350-43.611)	ehhe .	mm .
+<46>	(Inline, 43.350-44.360)	<no-speech>	<no-speech>
+<47>	(Outline, 43.611-44.570)	nakupata .	I hear you .
+<48>	(Inline, 44.360-49.480)	<no-speech> sasa ninafanya nao ingawaje -- *ingalau* *kamshara* ni ndogo -- *ingalau* *kamshara* ni kadogo .	now I work with them even though -- *at least* the *salary* is small -- *at least* the *salary* is small .
+<49>	(Outline, 44.570-49.440)	<no-speech>	<no-speech>
+<50>	(Outline, 49.440-50.090)	mmhm .	mmhm .
+<51>	(Inline, 49.480-50.920)	<no-speech>	<no-speech>
+<52>	(Outline, 50.090-53.700)	<no-speech>	<no-speech>
+<53>	(Inline, 50.920-52.720)	na lakini nitavumilia .	also but I'll persevere .
+<54>	(Inline, 52.720-54.950)	<no-speech>	<no-speech>
+<55>	(Outline, 53.700-54.049)	ehhe .	mm .
+<56>	(Outline, 54.049-55.500)	maisha ni kuvumilia ndugu yangu .	life is to persevere my brother .
+<57>	(Inline, 54.950-55.520)	sawa ?	alright ?
+<58>	(Outline, 55.500-55.942)	ehhe .	mm .
+<59>	(Inline, 55.520-62.880)	<no-speech>	<no-speech>
+<60>	(Outline, 55.942-59.700)	maisha ni kuvimilia unaanzia kidogo na Mungu atakuinua .	life is to persevere you start small and God will lift you .
+<61>	(Outline, 59.700-62.880)	<no-speech>	<no-speech>

@@ -1,0 +1,27 @@
+[0.000]
+teknolojia (()) mazao ya aina mbalimbali za zana na zana zake ni moja ya changamoto zinazowakwamisha wakazi wa mkoa wa Kigoma katika jitihada zao za kuondokana na umaskini .
+[11.600]
+nikuunganishe na mwandishi wetu Doto Elias kutoka Kigoma <breath> aliyetutumia taarifa hii .
+[16.810]
+mifano halisi wa teknolojia duni ya usindikaji wa mazao ni ile ya asili inayotumiwa na wakazi wengi wa mkoa wa Kigoma <breath> ya kusindika mazao yatokanayo <breath> <int> na zao la mchikichi <sta> ambapo watu wawili hata wanne huzungusha mti %incomplete
+[31.191]
+<no-speech>
+[32.570]
+<sta> teknolojia hii husababisha upotevu Mwingi wa mafuta ya mawese kwa kuwa mgandamizo unategemea zaidi watu wanaozungusha ule mti .
+[41.595]
+kwa hiyo kilio tulicho nacho sisi ni kupata mashine la <sta> kisasa ili tupate biashara yetu tuendeleze maisha yetu .
+[49.073]
+shida pia ipo kwa wajasiriamali wanaotengeneza bidhaa zitokanazo na zao la michikichi .
+[55.417]
+<sta> changamoto kubwa tunaokumbana nayo wajasiriamali wa mkoa wa Kigoma ni packing .
+[59.364]
+jinsi ya kuhifadhi <sta> bidhaa tunazotengeneza .
+[62.347]
+(()) nazo kama wajasiriamali wa akina mama wa Kigoma kwanza kabisa ni ukosefu wa mitaji %incomplete
+[67.480]
+hata hivyo katika kukabiliana na changamoto hizo <breath> (()) mkoani Kigoma kwa kushirikiana na wadau wengine <lipsmack> wanaendelea kutoa mafunzo ya kuwawezesha wajasiriamali kukuza na kuendeleza biashara B_D_P .
+[80.920]
+<int> ni kuendelea kujituma -- kuendelea kujituma kwa haya <int> mafunzo ambayo mmeyapata ili mweze kupata manufaa katika familia zenu na ku- -- kuinua uchumi wa taifa kiujumla .
+[90.826]
+kutoka Kigoma mimi ni Doto Elias wa T_B_C .
+[94.740]

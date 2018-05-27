@@ -1,0 +1,55 @@
+0.000	inLine	<no-speech>
+0.000	outLine	<no-speech>
+0.940	inLine	hao ni akina nani wanaongea hapo mambo mingi ?
+2.750	inLine	<no-speech>
+2.970	outLine	nani ?
+3.499	outLine	<no-speech>
+3.779	outLine	hao ni watu tu wa mtaani .
+4.982	outLine	hao ni watu mahustler .
+6.649	outLine	<no-speech>
+7.650	outLine	watu wa mtaani .
+7.940	inLine	ohh umetulia tu mtaani ?
+8.580	outLine	<no-speech>
+10.430	inLine	<no-speech>
+10.540	outLine	ehhe .
+11.132	outLine	wako tu mtaani maidlers .
+11.420	inLine	<int> Nairobi .
+12.030	inLine	<no-speech>
+12.560	outLine	<no-speech>
+14.390	outLine	ehhe .
+14.470	inLine	ohh sasa nilikuwa nataka kukwambia aje ?
+14.750	outLine	<no-speech>
+16.770	outLine	halo .
+17.107	inLine	<int> halo unanisikiza ?
+17.277	outLine	<no-speech>
+19.227	outLine	halo .
+19.649	outLine	<no-speech>
+19.980	inLine	<no-speech>
+20.220	outLine	nakusikia .
+21.770	outLine	<no-speech>
+22.030	inLine	nilikuwa nataka kukwambia aje ?
+23.390	outLine	ehhe .
+23.600	inLine	<no-speech>
+24.000	outLine	<no-speech>
+24.920	inLine	sasa game ya -- ya -- ya Man_U unaionea wapi ?
+27.680	inLine	<no-speech>
+28.280	outLine	game ya man mi nitaonea Kissmenti <no-speech> hapa tu Eastlands .
+32.600	outLine	<no-speech>
+33.690	inLine	ohh utaionea ati wapi Eastlands ?
+36.080	inLine	<no-speech>
+36.090	outLine	Eastlands hapa Kissmenti .
+37.820	outLine	<no-speech>
+38.970	inLine	huko ndiyo wapi ?
+39.900	inLine	<no-speech>
+40.310	outLine	hapa ni Uhuru Estate .
+41.720	outLine	<no-speech>
+42.990	inLine	hapo ni Uhuru Estate ?
+44.180	outLine	ehhe .
+44.340	inLine	<no-speech>
+44.559	outLine	Uhuru Estate .
+45.080	outLine	<no-speech>
+46.300	inLine	ohh na naongea na we ukiwa Uhuru Estate ama uko wapi ?
+49.020	inLine	<no-speech>
+49.080	outLine	mi unaongea nami nikiwa Shauri .
+51.810	outLine	<no-speech>
+53.010

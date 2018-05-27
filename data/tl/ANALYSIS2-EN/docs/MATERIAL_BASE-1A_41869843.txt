@@ -1,0 +1,50 @@
+<1>	(Inline, 0.000-1.090)	<no-speech>	<no-speech>
+<2>	(Outline, 0.000-2.144)	halo <no-speech> -- halo .	hello -- hello .
+<3>	(Inline, 1.090-3.070)	ohh halafu si nilikuwa nakwambia %incomplete	ohh then I was telling you %incomplete
+<4>	(Outline, 2.144-4.138)	<no-speech>	<no-speech>
+<5>	(Inline, 3.070-4.330)	<no-speech>	<no-speech>
+<6>	(Outline, 4.138-4.590)	ehhe .	mm .
+<7>	(Inline, 4.330-5.630)	nasi nakwambia %incomplete	and I am telling %incomplete
+<8>	(Outline, 4.590-8.500)	<no-speech>	<no-speech>
+<9>	(Inline, 5.630-7.360)	<no-speech>	<no-speech>
+<10>	(Inline, 7.360-13.340)	leo jioni si tupatane pale uwanjani kuna kandanda hapo nataka tukaguze kidogo .	lets meet in the field today there is a football match there and I want us to play .
+<11>	(Outline, 8.500-8.940)	ehhe ?	mm ?
+<12>	(Outline, 8.940-10.800)	<no-speech>	<no-speech>
+<13>	(Outline, 10.800-11.640)	<no-speech>	<no-speech>
+<14>	(Outline, 11.640-14.480)	<no-speech>	<no-speech>
+<15>	(Inline, 13.340-16.940)	<no-speech>	<no-speech>
+<16>	(Outline, 14.480-20.120)	ohh hu- -- hapo kwa hii -- hii shule iko hapo *hivyo* <no-speech> ?	ohh -- there in this -- this school that is *there* ?
+<17>	(Inline, 16.940-17.660)	halo .	hello .
+<18>	(Inline, 17.660-22.260)	<no-speech>	<no-speech>
+<19>	(Outline, 20.120-21.400)	<no-speech>	<no-speech>
+<20>	(Outline, 21.400-22.170)	halo .	hello .
+<21>	(Outline, 22.170-25.040)	<no-speech>	<no-speech>
+<22>	(Inline, 22.260-23.890)	ehhe hapo hapo hapo .	mm there there there .
+<23>	(Inline, 23.890-25.080)	<no-speech>	<no-speech>
+<24>	(Outline, 25.040-27.107)	ohh kwa hivyo kuna kandanda ?	ohh therefore there is a football match ?
+<25>	(Inline, 25.080-26.460)	hapo unanisikia ?	there you hear me ?
+<26>	(Inline, 26.460-29.670)	<no-speech>	<no-speech>
+<27>	(Outline, 27.107-29.350)	<no-speech> ehhe nakusikia nakusikia .	mm I hear you I hear you .
+<28>	(Outline, 29.350-32.240)	<no-speech>	<no-speech>
+<29>	(Inline, 29.670-31.890)	ehhe hapo kwa kandanda nataka tupatane hapo .	mm there at the game I want us to meet there .
+<30>	(Inline, 31.890-34.030)	<no-speech>	<no-speech>
+<31>	(Outline, 32.240-33.550)	<no-speech>	<no-speech>
+<32>	(Outline, 33.550-39.480)	ohh tupatane hapo halafu <no-speech> -- halafu ?	ohh we meet there then -- then ?
+<33>	(Inline, 34.030-34.920)	halafu %incomplete	then %incomplete
+<34>	(Inline, 34.920-40.860)	<no-speech>	<no-speech>
+<35>	(Outline, 39.480-41.340)	<no-speech>	<no-speech>
+<36>	(Inline, 40.860-41.836)	halafu %incomplete	then %incomplete
+<37>	(Outline, 41.340-44.527)	<no-speech>	<no-speech>
+<38>	(Inline, 41.836-42.620)	ehhe .	mm .
+<39>	(Inline, 42.620-49.490)	<no-speech>	<no-speech>
+<40>	(Outline, 44.527-46.913)	ehhe halafu utakuja na mazuri nini ?	mm then will you come with goodies ?
+<41>	(Outline, 46.913-48.020)	<no-speech>	<no-speech>
+<42>	(Outline, 48.020-49.580)	<no-speech>	<no-speech>
+<43>	(Inline, 49.490-52.310)	aai ehhe nitangojea -- nitangojea ukuje na mazuri .	really mm I will wait -- I will wait you come with goodies .
+<44>	(Outline, 49.580-50.310)	halo .	hello .
+<45>	(Outline, 50.310-51.300)	<no-speech>	<no-speech>
+<46>	(Outline, 51.300-53.464)	<no-speech>	<no-speech>
+<47>	(Inline, 52.310-54.020)	<no-speech>	<no-speech>
+<48>	(Outline, 53.464-59.070)	ohh kwa hivyo we nikuje na mazuri ama ni we uta -- ni we utakuja na mazuri ama ni we -- ni- -- nikuje na mazuri ?	ohh therefore should I come with goodies or is it you -- it is you who will come with or it is you -- I come with goodies ?
+<49>	(Inline, 54.020-54.570)	ehhe ?	mm ?
+<50>	(Inline, 54.570-59.070)	<no-speech>	<no-speech>

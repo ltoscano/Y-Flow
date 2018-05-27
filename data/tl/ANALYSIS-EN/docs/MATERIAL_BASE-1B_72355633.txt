@@ -1,0 +1,56 @@
+<1>	(Outline, 0.000-1.310)	<no-speech>	<no-speech>
+<2>	(Inline, 0.000-3.729)	mga ano <no-speech> mga kabarkada dito <no-speech> .	the uh the friends here .
+<3>	(Outline, 1.310-2.752)	lakasan mo naman sinasabi mo .	speak louder .
+<4>	(Outline, 2.752-3.620)	<no-speech>	<no-speech>
+<5>	(Outline, 3.620-8.720)	<no-speech>	<no-speech>
+<6>	(Inline, 3.729-7.135)	ako'y nagpapalaro ng basketball sa mga kabataan dito .	I conduct basketball games for the youth here .
+<7>	(Inline, 7.135-8.604)	<no-speech>	<no-speech>
+<8>	(Inline, 8.604-15.981)	ngunit ang kapatid nating si kaibigan Tambol muli naman po siyang nababalik <no-speech> para maglaro ng basketball .	but our friend Tambol will return in order to play basketball .
+<9>	(Outline, 8.720-9.070)	<no-speech>	<no-speech>
+<10>	(Outline, 9.070-9.900)	<no-speech>	<no-speech>
+<11>	(Outline, 9.900-10.430)	<no-speech>	<no-speech>
+<12>	(Outline, 10.430-11.370)	<no-speech>	<no-speech>
+<13>	(Outline, 11.370-11.906)	oo .	yes .
+<14>	(Outline, 11.906-13.108)	<no-speech> ikaw pala ?	what about you ?
+<15>	(Outline, 13.108-14.210)	<no-speech> ikaw 'yon ?	is that you ?
+<16>	(Outline, 14.210-15.730)	<no-speech>	<no-speech>
+<17>	(Outline, 15.730-17.910)	<no-speech>	<no-speech>
+<18>	(Inline, 15.981-16.603)	<no-speech>	<no-speech>
+<19>	(Inline, 16.603-20.770)	kung gusto mong (()) <no-speech> (()) .	if you want to (()) (()) .
+<20>	(Outline, 17.910-18.750)	<no-speech>	<no-speech>
+<21>	(Outline, 18.750-20.360)	<no-speech>	<no-speech>
+<22>	(Outline, 20.360-23.106)	<sta> text na lang ang hirap doon eh .	it's difficult there so just text .
+<23>	(Inline, 20.770-21.590)	<no-speech>	<no-speech>
+<24>	(Inline, 21.590-25.671)	<no-speech>	<no-speech>
+<25>	(Outline, 23.106-27.087)	<no-speech>	<no-speech>
+<26>	(Inline, 25.671-27.074)	bakit ?	why ?
+<27>	(Inline, 27.074-28.590)	<no-speech>	<no-speech>
+<28>	(Outline, 27.087-28.080)	quota ako eh .	I'm at my quota already .
+<29>	(Outline, 28.080-29.880)	<no-speech>	<no-speech>
+<30>	(Inline, 28.590-32.880)	si kaibigang Tambol <no-speech> ay nagnanais na maglaro ng basketball .	comrade Tambol wants to play basketball .
+<31>	(Outline, 29.880-33.367)	<no-speech>	<no-speech>
+<32>	(Inline, 32.880-47.930)	(()) bawat bagay <no-speech> ay sana <no-speech> ay iniintindi mo (()) ang *paglala-* ang paglalaro ng basketball ay isang <laugh> (()) .	(()) at everything hopefully you understand (()) that playing basketball is a (()) .
+<33>	(Outline, 33.367-33.675)	oh .	oh .
+<34>	(Outline, 33.675-35.212)	<no-speech>	<no-speech>
+<35>	(Outline, 35.212-37.300)	sinong sumisipol doon ?	who's whistling there ?
+<36>	(Outline, 37.300-38.670)	<no-speech>	<no-speech>
+<37>	(Outline, 38.670-40.020)	<no-speech>	<no-speech>
+<38>	(Outline, 40.020-41.410)	<no-speech>	<no-speech>
+<39>	(Outline, 41.410-43.184)	<no-speech>	<no-speech>
+<40>	(Outline, 43.184-44.026)	oo ayos lang .	yes it's fine .
+<41>	(Outline, 44.026-45.000)	<no-speech>	<no-speech>
+<42>	(Outline, 45.000-46.200)	<no-speech>	<no-speech>
+<43>	(Outline, 46.200-47.936)	<no-speech>	<no-speech>
+<44>	(Inline, 47.930-49.710)	<no-speech>	<no-speech>
+<45>	(Outline, 47.936-50.210)	si Donio oh kumakain .	Donio is eating .
+<46>	(Inline, 49.710-51.309)	importante sa tao .	important for a person .
+<47>	(Outline, 50.210-51.750)	<no-speech>	<no-speech>
+<48>	(Inline, 51.309-52.150)	<no-speech>	<no-speech>
+<49>	(Outline, 51.750-54.250)	<no-speech>	<no-speech>
+<50>	(Inline, 52.150-52.636)	ha ?	huh ?
+<51>	(Inline, 52.636-53.172)	<no-speech>	<no-speech>
+<52>	(Inline, 53.172-55.480)	kaya 'wag mong kalilimutan lagi 'yon .	so never forget that .
+<53>	(Outline, 54.250-55.220)	<no-speech>	<no-speech>
+<54>	(Outline, 55.220-56.850)	<sta> trabaho .	work .
+<55>	(Inline, 55.480-57.150)	<no-speech>	<no-speech>
+<56>	(Outline, 56.850-57.150)	<no-speech>	<no-speech>

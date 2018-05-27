@@ -1,0 +1,47 @@
+[0.000]
+kama ni sockets <int> hii kama -- chochote like ambacho mwananchi anakitumia ndani ya nyumba yake .
+[6.400]
+basi T_B_S wa- -- wahakikishie kwamba vile vyote -- kwa sababu vingi vina- -- vinatoka nje .
+[12.020]
+vichache sana vinavyo <hes> tengenezwa hapa nchini labda pale Arusha na kwingineo .
+[16.239]
+lakini wahakikishe basi hata vinavyo tengenezwa hapa nchini viwe ni vile ambavyo <hes> vina ubora .
+[22.095]
+haviwezi kuleta madhara kama haya yanatokea <hes> mara kwa mara .
+[26.160]
+kwa hiyo T_B_S nao wana -- wana -- wana sehemu yao ya kutusaidia kuondokana na balaa hili .
+[32.571]
+wafanye kila linalowezekana kuhakikisha wa- -- wafanyabiashara wenye -- wenye tamaa ya kutengeneza fedha wanaleta bidhaa ambavyo viko chini ya viwango kwa matumizi wa umeme <int> wa ndani au viwandani au maofisini .
+[47.380]
+T_B_S nao watusaidie sana .
+[50.000]
+lakini <hes> na sisi wenyewe watumiaji tusikimbilie katika vitu ambavyo vina ukora ulio duni unaoweza ukasababisha jengo lako la milioni <hes> kama -- kama -- kama hilo limewaka juzi la national housing lile <hes> wanasema pengine ime -- hitilafu la umeme .
+[68.100]
+lakini ukizungumza hitilafu ya umeme watu wana- -- wanafikiria ni TAVESKO .
+[71.600]
+kumbe hitilafu ya mwenye nyumba mle <no-speech> hakuweka vitu ambavyo vinatakiwa .
+[77.659]
+matumizi yake ndani mle si ma- -- si -- si -- si mazuri na si makini .
+[82.050]
+kwa vile vile <hes> niseme kwa sisi watumiaji kujitahidi sana kununua vitu vyenye ubora vyenye viwango vinavyotakiwa na kufungwa katika manyumba .
+[92.481]
+lakini mara nyingine na sisi tuwe makini .
+[95.320]
+<hes> kuhakikisha kwamba <no-speech> <hes> tunapo- -- tunapotoka mara nyingine tuhakikishe tumezima -- tumezima -- tumezima naongezea kuzidi <hes> za umeme kwenye swichi hizi ili umeme usiendelee kuingia ndani ya nyumba .
+[110.853]
+pengine hitilafu inaweza ikatokea -- mara nyingine inaweza ikatokea wewe kama ungekuweko ungeweza kuzuia .
+[115.620]
+lakini kama haupo basi inakuwa -- inakuwa ni matatizo .
+[119.412]
+tuhakikishe hizi tuna- -- tunajitahidi kuzima zile ambazo hazina matumizi .
+[124.685]
+na hasa wale ambao tunaondoka nyumba nzima hakuna mtu mwingine huko anayeangalia <hes> kwamba kuna hitilafu inaweza ika- -- ikatokea .
+[134.270]
+mtazamaji ni wazi kuwa umeelimika kupitia kipindi chetu cha leo .
+[139.220]
+ni vyema kuchukua tahadhari mapema na kutandaza miundo mbinu ya umeme kwa kufuata taratibu za usalama ili kuepuka madhara yanayoweza kutokea <breath> kutokana na umeme .
+[153.927]
+<no-speech>
+[154.842]
+usikose kutaza- %incomplete
+[156.026]

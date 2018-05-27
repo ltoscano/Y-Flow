@@ -1,0 +1,161 @@
+0.000	outLine	<no-speech>
+0.000	inLine	<no-speech>
+3.195	outLine	<no-speech>
+3.520	inLine	za ?
+3.990	inLine	<no-speech>
+5.210	inLine	ehhe <int> ?
+5.247	outLine	sawa niko poa .
+5.940	inLine	<no-speech>
+6.582	outLine	<no-speech>
+7.480	inLine	ohh unase- -- ehhe saa hii unafanya nini ?
+9.890	inLine	<no-speech>
+11.452	outLine	saa hizi ?
+12.087	outLine	<no-speech>
+13.320	inLine	ahh .
+13.880	inLine	<no-speech>
+14.595	outLine	siku hizi hakuna jobs ninafanya bado ni <no-speech> student tu .
+19.540	outLine	<no-speech>
+20.590	inLine	ahh na mmependa timu gani <no-speech> -- timu gani katika <no-speech> -- katika ligi kuu ya unge- -- Uingereza ?
+20.605	outLine	<no-speech>
+21.775	outLine	<no-speech>
+23.445	outLine	<no-speech>
+24.915	outLine	<no-speech>
+26.679	outLine	ati ?
+27.185	outLine	<no-speech>
+28.275	outLine	<no-speech>
+28.640	inLine	<no-speech>
+30.235	outLine	mi huwa ni wa Manchester city .
+32.894	outLine	<no-speech>
+33.540	inLine	(()) .
+34.670	inLine	<no-speech>
+35.880	inLine	nase- -- taja wachezaji watano kutoka timu hiyo ?
+39.260	inLine	<no-speech>
+40.205	outLine	kwa hiyo team ?
+41.672	outLine	<no-speech>
+42.590	inLine	ndiyo .
+43.150	inLine	<no-speech>
+44.196	outLine	ohh wa kwanza ni Joe Hart <no-speech> wa pili ni Samir Nasir .
+47.390	inLine	ehhe .
+48.010	inLine	<no-speech>
+50.763	outLine	<no-speech>
+51.650	inLine	ehhe .
+52.145	outLine	wa tatu ni David Silva %incomplete
+52.220	inLine	<no-speech>
+54.744	outLine	<no-speech>
+55.490	inLine	ehhe .
+55.990	inLine	<no-speech>
+56.867	outLine	ehhe ?
+57.546	outLine	<no-speech>
+58.060	inLine	yeah nasikia .
+59.240	inLine	<no-speech>
+60.128	outLine	wa- -- wa nne %incomplete
+61.657	outLine	<no-speech>
+62.320	inLine	sasa .
+62.900	inLine	<no-speech>
+64.035	outLine	unanisikia ?
+64.928	outLine	<no-speech>
+65.850	inLine	ahh na sijakusikia vizuri o- -- ongea tu .
+68.260	inLine	<no-speech>
+69.717	outLine	ahh wa nne ni Milner .
+73.050	inLine	ehhe .
+73.505	outLine	<no-speech>
+73.940	inLine	<no-speech>
+74.906	outLine	wa tano ni Aguero .
+78.122	outLine	<no-speech>
+79.060	inLine	ohh na saa hizi uko katika nambari -- nambari gani ?
+79.205	outLine	<no-speech>
+82.005	outLine	<no-speech>
+82.430	inLine	<no-speech>
+84.129	outLine	kwa ligi tuko number four .
+85.660	inLine	ehhe .
+86.570	inLine	<no-speech>
+88.305	outLine	<no-speech>
+88.920	inLine	ehhe na kama unaona vizuri una -- unaweza chukua ligi kama ulichukua mwaka jana ?
+91.005	outLine	<no-speech>
+93.600	inLine	<no-speech>
+94.735	outLine	ndiyo tunaweza .
+95.723	outLine	<no-speech>
+97.070	inLine	ahh uko na ukweli <hes> wa- -- wa aina -- ya kiwango gani ?
+98.685	outLine	<no-speech>
+100.195	outLine	<no-speech>
+100.660	inLine	<no-speech>
+101.700	inLine	<no-speech>
+102.062	outLine	one hundred per- -- one hundred percent -- you are sure sure one hundred percent ?
+102.160	inLine	<no-speech>
+104.950	inLine	(()) .
+106.395	inLine	<no-speech>
+106.402	outLine	<no-speech>
+107.736	inLine	ahh hiyo ni vizuri .
+109.030	inLine	<no-speech>
+110.060	inLine	ehhe mi ni wa Arsenal <no-speech> <hes> na <int> najua tuta- -- tutapandana na we kabisa hata kama unasema uko wa asilimia mia moja .
+111.365	outLine	<no-speech>
+112.315	outLine	ehhe .
+113.534	outLine	<no-speech>
+115.755	outLine	<no-speech>
+116.805	outLine	<no-speech>
+117.305	outLine	<no-speech>
+118.405	outLine	<no-speech>
+122.130	inLine	<no-speech>
+123.023	outLine	ehhe .
+123.730	inLine	lazima tushinde hiyo game .
+123.865	outLine	<no-speech>
+124.745	outLine	<no-speech>
+125.430	inLine	<no-speech>
+126.799	outLine	lakini hamwezi .
+127.961	outLine	<no-speech>
+129.040	inLine	<laugh> kwa nini unasema hatuwezi <no-speech> si pia ni wachezaji ka %incomplete
+131.329	outLine	<laugh> bado hamwezi juu %incomplete
+134.000	inLine	<no-speech>
+135.315	outLine	<no-speech>
+135.330	inLine	ehhe .
+135.990	inLine	<no-speech>
+136.315	outLine	okay unitajie maplayers tano kutoka team ya Arsenal .
+141.584	outLine	<no-speech>
+142.400	inLine	ehhe .
+143.060	inLine	<no-speech>
+143.990	outLine	wa kwanza ?
+144.820	outLine	<no-speech>
+145.810	inLine	ehhe .
+146.420	inLine	<no-speech>
+147.175	outLine	wa pili ?
+148.037	outLine	<no-speech>
+149.160	inLine	ehhe .
+149.770	inLine	<no-speech>
+150.739	outLine	nimesema unitajie ama ?
+152.156	outLine	<no-speech>
+153.180	inLine	ehhe si umesema (()) ?
+153.335	outLine	<no-speech>
+154.585	outLine	<no-speech>
+155.000	inLine	<no-speech>
+155.697	outLine	ehhe .
+156.144	outLine	<no-speech>
+157.080	inLine	ehhe si wa kwanza %incomplete
+157.685	outLine	<no-speech>
+158.875	outLine	<no-speech>
+159.300	inLine	<no-speech>
+164.083	outLine	yes ?
+164.691	outLine	<no-speech>
+166.200	inLine	ehhe sema u- -- unajua %incomplete
+166.345	outLine	<no-speech>
+167.635	outLine	<no-speech>
+168.090	inLine	<no-speech>
+168.741	outLine	yes ?
+169.303	outLine	<no-speech>
+169.840	inLine	ehhe sa- -- sasa niko -- niko -- nimeko- -- ni- -- ni- -- nimekuwa kwa hali ya kazi nitakwambia (()) baadaye <no-speech> hiyo .
+177.070	inLine	<no-speech>
+177.593	outLine	Ramsey ?
+179.100	inLine	hali -- hali ya hewa huko niaje ?
+179.195	outLine	<no-speech>
+181.325	outLine	<no-speech>
+181.720	inLine	<no-speech>
+183.609	outLine	kuna baridi kiasi %incomplete
+185.270	outLine	<no-speech>
+186.080	inLine	uhuh .
+186.740	inLine	<no-speech>
+187.618	outLine	jana ehhe -- ehhe .
+189.502	outLine	<no-speech>
+192.505	outLine	halo ?
+193.830	inLine	ahh nakusikia .
+193.985	outLine	<no-speech>
+195.120	inLine	<no-speech>
+195.815

@@ -1,0 +1,28 @@
+<1>	Heart attack	heart attack
+<2>	PAANO mo malalaman kung ikaw ay maaaring magkaroon ng heart attack?	how will you know if you might have a heart attack?
+<3>	Ang karaniwang dahilan ng atake sa puso ay kilala sa tawag na coronary heart disease, ang CAD ay dulot ng atherosclerosis, ito ang pagtigas ng mga arteries ng puso, sanhi ito ng pagbuo ng mga taba na naideposito sa mga arteries na nakapalibot sa puso, na siyang nagbibigay ng oxygen at nutrients upang tumibok ang puso at dumaloy ang dugo sa buong katawan.	the common reason for a heart attack is known as coronary heart disease. CAD is caused by atherosclerosis, the tightening of arteries in the heart. this is caused by the formation of fats that are deposited in arteries surrounding the heart, which supplies oxygen and nutrients in order for the heart to beat and for blood to flow through the entire body.
+<4>	Sa pagbuo ng mga fatty depositssa palibot ng puso nililimitahan nito ang pagdaloy ng dugo sa masel ng puso.	with the formation of fatty deposits around the heart, this limits the flow of blood to the heart's muscles.
+<5>	Ang pagbagal ng daloy ng dugo ay posibleng makapagdulot ng sakit sa dibdib, o angina.	the slowing of blood flow could possibly cause pain in the chest or angina.
+<6>	Kapag naman ang isa sa mga coronary arteries kung saan dumadaloy ang dugo ay nabarahan, ang resulta ay atake sa puso.	when one of the coronary arteries where blood flows through is blocked, the result is a heart attack.
+<7>	Maaari mong malaman kung ikaw ay may sakit sa puso sa pamamagitan ng kalkulasyon base sa impormasyon mula sa Framingham Heart Study.	you can determine if you have a heart disease through a calculation based on information from the Framingham Heart Study.
+<8>	Sa lumipas ng 50 taon, ang Framingham Heart Study ay nakapagbigay ng pag-aanalisa at pag-aaral sa mgay taong posibleng magkaroon ng atake sa puso.	in the past 50 years, the Framingham Heart Study has given analyses and research on people who could possibly have a heart attack.
+<9>	Karaniwang kinukuha ang mga importanteng detalye tulad ng:	commonly gathered are important details like:
+<10>	• Edad at kasarian.	- age and gender.
+<11>	Ang bilang ng mga tao apektado ng sakit sa puso ay tumataas habang nagkaka-edad, sa lalaki ito ay mas madalas maranasan ng mga 45-anyos sa kababaihan naman ay nasa edad na 55.	the number of people who are afflicted with heart disease increases with age. in men, it is often experienced at around 45 years old, while in women it is at the age of 55.
+<12>	• Naninigarilyo.	- smoking.
+<13>	Ang pagtigil sa paninigarilyo ay isa sa importanteng hakbang na magagawa mo sa iyong puso, sa iyong sarili, malilimitahan nito ang tyansa na magkaroon ka ng atake sa puso, o pagkakaroon ng pananakit ng heart muscle.	quitting smoking is one of the important steps that you can do for your heart, for yourself. this will limit your chance of getting a heart attack, or experiencing pain in the heart muscle.
+<14>	• Systolic blood pressure.	- systolic blood pressure.
+<15>	Ang Systolic blood pressure ay ang unang numbero na mababasa sa iyong blood pressure.	systolic blood pressure is the first number that can be read in your blood pressure.
+<16>	Halimbawa kung ang iyong blood pressure ay 120/80 (120 over 80), ang iyong systolic blood pressure ay ang nauna, 120.	for example, if your blood pressure is 120/80 (120 over 80), your systolic blood pressure is the first one, 120.
+<17>	• Medisina para sa blood pressure.	- medicine for blood pressure.
+<18>	May mga medikasyon na madalas ginagamit upang malunasan ang high blood pressure ay diuretics, angiotensin-converting enzyme (ACE) inhibitors, angiotensin II receptor blockers (ARBs), beta-blockers, at calcium channel blockers.	medications that are often used to alleviate high blood pressure are diuretics, angiotensin-converting enzyme (ACE) inhibitors, angiotensin II receptor blockers (ARBs), beta-blockers, and calcium channel blockers.
+<19>	• Kailangan ding malaman ang iyong HDL cholesterol.	- your HDL cholesterol also needs to be determined.
+<20>	Ang HDL, o high-density lipoprotein, ay ang “good” cholesterol dahil tumutulong ito upang prebensiyunan ang cholesterol na mamuo sa iyong arteries.	HDL or high-density lipoprotein is the "good" cholesterol because it helps prevent cholesterol from forming in your arteries.
+<21>	Kung mas mataas ang iyong HDL, mas mainam.	the higher your HDL, the better.
+<22>	Ang HDL na 60 mg/dL at pataas ay isang proteksiyon laban sa mga sakit sa puso.	an HDL that is 60 mg/dL and higher is one protection against heart diseases.
+<23>	Kapag bumaba naman sa 40 mg/dL, ito ay makapaglalagay sa iyo sa alanganin na may mataas na tyansa ng pagkakaroon ng atake sa puso.	if it goes down to 40 mg/dL, this would put you at risk with a higher chance of having a heart attack.
+<24>	• Katotalan ng cholesterol.	- total cholesterol.
+<25>	Kung ang kabuuang bilang ng cholesterol sa iyong dugo ay mataas, gayundin ang tsansa mo na magkaroon ng sakit sa puso.	if the total amount of cholesterol in your blood is high, so is your chance of having a heart disease.
+<26>	Ang katotalan ng cholesterol na may 240 mg/dL pataas ay doble ang tyansa sa pagkakaroon ng sakit sa puso kumpara sa mga taong may mababang lebel ng cholesterol, 200 mg/dL.	a total cholesterol of 240 mg/dL and higher has double the chance of having heart disease compared to people with a lower cholesterol level, 200 mg/dL.
+<27>	Kung mas mababa sa 200 mg/dL, nagbibigay ito sa iyo ng mas mababang tyansa ng heart disease.	if lower than 200 mg/dL, it gives you a lower chance of getting heart disease.
+<28>	MARJORIE DACORO	Marjorie Dacoro

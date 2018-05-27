@@ -1,0 +1,79 @@
+0.000	inLine	ahh .
+0.000	outLine	<no-speech>
+0.437	inLine	sikuelewi umesemaje ?
+1.486	inLine	hebu rudia venye umesema .
+2.410	outLine	<no-speech>
+2.686	inLine	rudia .
+3.190	inLine	<no-speech>
+3.854	outLine	ahh nakuuliza ni timu gani na gani tuta- -- watakuwa wakicheza -- watakuwa wakicheza ?
+7.620	outLine	<no-speech>
+9.370	outLine	<no-speech>
+9.820	outLine	<no-speech>
+10.460	inLine	ehhe .
+11.030	inLine	<no-speech>
+11.310	outLine	halo .
+11.920	outLine	<no-speech>
+12.830	outLine	<laugh> ama hunishikanishi buda ?
+14.590	inLine	halo nakusikia .
+15.510	outLine	<no-speech>
+15.780	inLine	<no-speech>
+16.770	outLine	ehhe ?
+17.430	outLine	<no-speech>
+19.140	inLine	halo .
+19.330	outLine	nakuuliza <no-speech> -- nakuuliza ?
+19.780	inLine	<no-speech>
+23.070	inLine	ehhe .
+23.660	inLine	<no-speech>
+25.953	outLine	<no-speech>
+27.912	outLine	halo .
+28.350	outLine	<no-speech>
+28.700	inLine	ehhe .
+29.300	inLine	<no-speech>
+30.220	outLine	<sta> so watakuwa wakicheza hapo %incomplete
+33.420	outLine	<no-speech>
+34.570	outLine	ehhe ?
+36.400	outLine	<no-speech>
+36.470	inLine	ndiyo nakwambiaje nakwa- -- nakushow -- nakwambia %incomplete
+39.530	outLine	ehhe <no-speech> ehhe .
+39.850	inLine	<no-speech>
+41.340	outLine	<no-speech>
+43.040	inLine	<sta> utulie kidogo ndiyo tus- -- tu- -- tu- -- tu- -- tusikizane vizuri .
+43.670	outLine	nakusikia endelea .
+45.080	outLine	<no-speech>
+46.210	outLine	endelea -- endelea nakus- %incomplete
+47.130	inLine	<no-speech>
+47.512	outLine	ehhe ?
+48.603	outLine	<no-speech>
+51.492	outLine	endelea -- endelea mbona unanyamaza ?
+53.650	outLine	<no-speech>
+54.890	outLine	<no-speech>
+56.140	outLine	<breath> ehhe ?
+56.150	inLine	sijanyamaza .
+57.010	outLine	<no-speech>
+57.422	inLine	nakwambiaje ?
+58.370	inLine	<no-speech>
+59.250	outLine	ehhe .
+59.890	inLine	nakwambiaje ?
+59.890	outLine	<no-speech>
+61.050	inLine	<no-speech>
+61.970	outLine	ehhe .
+62.590	outLine	<no-speech>
+62.810	inLine	si leo saa tatu -- leo saa tatu tukitoka biashara %incomplete
+65.270	outLine	<no-speech>
+66.420	inLine	<no-speech>
+67.585	outLine	ehhe .
+68.000	outLine	<no-speech>
+70.114	outLine	halafu we naku- -- nakwambia hivi %incomplete
+70.960	inLine	nataka tu -- tujue saa hii %incomplete
+72.084	outLine	<no-speech>
+73.293	inLine	(()) <no-speech> .
+73.580	outLine	<no-speech>
+74.740	inLine	ehhe .
+74.830	outLine	ahh mi nakwambia <no-speech> -- mi nakwambia ukishaona kandanda ikishaisha %incomplete
+75.320	inLine	<no-speech>
+79.560	outLine	<no-speech>
+81.020	outLine	ehhe <no-speech> halo .
+82.360	outLine	<no-speech>
+82.410	inLine	ehhe .
+82.990	inLine	<no-speech>
+83.370

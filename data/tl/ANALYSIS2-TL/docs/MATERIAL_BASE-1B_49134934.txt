@@ -1,0 +1,53 @@
+[0.000]
+<no-speech>
+[1.821]
+<sta> nagpakitang gilas naman ang mga tropang Pilipino at Amerikano sa pagpapatuloy ng Balikatan twenty fifteen <sta> sa Zambales .
+[9.431]
+<sta> pero kasabay nito umani naman ng batikos sa Chinese media ang war games .
+[13.860]
+<sta> tinawag pa ang Pilipinas na cute little submissive daw <sta> ng America .
+[17.848]
+<sta> umaaksiyon si Jun Loyola .
+[20.040]
+<no-speech>
+[22.625]
+mula sa dagat dumaong sa pampang ng <sta> San Antonio Zambales ang dalawampung naglalakihang Amphibious Assault Vehicle .
+[29.870]
+<sta> sakay nito ang mga sundalong Amerikano at Pilipino .
+[32.474]
+<no-speech>
+[33.566]
+pagkababa agad silang pumosisyon para sa gagawing pag-atake .
+[37.830]
+armado sila ng matataas na kalibre ng baril .
+[40.435]
+<sta> nagpapatrolya rin sa himpapawid ang mga helicopter .
+[44.189]
+pakay nilang mabawi ang lugar mula sa kalabang Calvanian .
+[48.147]
+<sta> pero ang lahat ng ito ay parte lang ng Balikatan twenty fifteen .
+[52.208]
+it was a territorial defense based scenario where some <hes> aggressive forces had taken <hes> some terrain and we are going to take it back .
+[62.870]
+<sta> bukod sa mutual defense parte rin ng Balikatan ang disaster response at community development .
+[69.550]
+<sta> bagamat dito sa San Antonio Zambales na dalawang daang kilometro ang layo sa pinag-aagawang teritoryong Panatag Shoal ginanap ang unang training ng Balikatan Exercises twenty fifteen hindi raw ibig sabihin nito na nagpapakita ng puwersa ang mga sundalong Amerikano at Pilipino laban sa China .
+[87.840]
+<sta> wala raw silang balak na isagot ito sa ginagawang reclamation ng China sa West Philippine Sea .
+[92.959]
+the point really is <hes> whatever capability the U_S and the Philippine Marines are doing here it is purely capability and capacity building .
+[104.240]
+sa gitna nito binatikos sa editorial ng Global Times sa China ang war games ng America at Pilipinas .
+[110.740]
+tinawag ang Pilipinas na cute little submissive ng America .
+[114.499]
+at sa kabila raw nito mga second-hand armas lang daw ang nakuha ng Pilipinas .
+[119.720]
+wala raw tayong napala ang lalo lang umaasa sa U_S .
+[122.980]
+umalma rin ang China sa plano ni Pangulong Aquino na idulog sa Association of Southeast Asian Nations ang ginagawa nila sa West Philippine Sea .
+[130.980]
+sana raw ay hindi ito gamitin ng Pilipinas para masira ang relasyon ng China sa ASEAN .
+[135.974]
+umaaksiyon Jun Loyola ~ %incomplete
+[137.795]

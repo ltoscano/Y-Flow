@@ -1,0 +1,75 @@
+<1>	(0.000-1.764)	<sta> good morning mga kapuso .	good morning Kapuso .
+<2>	(1.764-3.920)	ako po si Glenda Garcia .	I'm Glenda Garcia .
+<3>	(3.920-12.038)	<sta> alam n'yo magmula ng maka-survive ako sa sakit kong breast cancer <sta> siyempre kailangan mamimili na ko ng mga pagkain ko .	you know since I survived breast cancer of course I need to buy my consumption .
+<4>	(12.038-15.780)	siyempre kailangan healthy living na ako .	of course I need to have a healthy living .
+<5>	(15.780-25.063)	<sta> at ngayon nandito ako sa Kamuning Market at tuturuan ko kayo ng mga tips <sta> sa pamimili ng mga fresh at masusustansiyang pagkain .	and now I'm in Kamuning Market and I'll teach you tips on how to choose fresh and healthy food .
+<6>	(25.063-26.270)	halina kayo .	come .
+<7>	(26.270-27.384)	samahan n'yo ko .	join me .
+<8>	(27.384-34.390)	<no-speech>	<no-speech>
+<9>	(34.390-48.700)	unang tip po sa pagpunta sa palengke kailangan maaga tayo kasi madaling-araw pa lang po ibinabagsak na 'yung mga isda gulay prutas mga hipon ayan po nakikita n'yo 'yan .	first tip in going to the market is come early because it's only at dawn that fishes vegetables fruits shrimps are at a low price .
+<10>	(48.700-51.999)	kaya mas importante na mauna na tayo .	that's why it's important that you're first .
+<11>	(51.999-52.360)	<no-speech>	<no-speech>
+<12>	(52.360-57.280)	<sta> sa pamamalengke unahing bilhin ang mga prutas at gulay kaysa sa karne o isda .	in the market prioritize to buy fruits and vegetables rather than meat or fish .
+<13>	(57.280-61.680)	<sta> mas hindi kasi kailangang ilagay sa ref agad ang fruits at veggies .	because fruits and veggies doesn't need to be placed in the refrigerator immediately .
+<14>	(61.680-67.090)	pag bumibili ako ng prutas gusto ko 'yung citrus kasi mayaman to sa Vitamin C .	when I buy fruits I want it to be citrus because it's rich with Vitamin C .
+<15>	(67.090-72.690)	tulad ng suha orange kalamansi lemon dalandan .	like pomelo orange calamondin lemon orange .
+<16>	(72.690-77.142)	<sta> nakatutulong ang Vitamin C para lumakas ang ating immune system .	Vitamin C helps in strengthening our immune system .
+<17>	(77.142-80.520)	maganda rin ito para mapalusog ang ating puso .	this is also good to keep our hearts healthy .
+<18>	(80.520-83.469)	<sta> kuya magkano ang isang kilo 'nong suha ?	mister how much is a kilo of pomelo ?
+<19>	(83.469-85.971)	one eighty po isang kilo .	one kilo is one eighty .
+<20>	(85.971-87.310)	sige .	okay .
+<21>	(87.310-88.236)	wala na bang tawad ?	is there no discount ?
+<22>	(88.236-89.859)	<laugh> tapat na po .	it's already fair .
+<23>	(89.859-91.395)	o sige kahit one seventy na lang .	okay even just one seventy .
+<24>	(91.395-93.222)	one seventy o sige nga .	one seventy okay .
+<25>	(93.222-96.190)	ipili mo ko kuya din ha tulungan mo ko .	select for me big brother okay help me .
+<26>	(96.190-97.815)	<no-speech>	<no-speech>
+<27>	(97.815-101.107)	<sta> bigyan ko kayo ng tip ha pag namili tayo ng prutas .	I'll give you a tip when we shop for fruits .
+<28>	(101.107-108.113)	kailangan <breath> amuy-amuyin atin kasi pag hindi naman maganda 'yung amoy naku baka sira na 'to .	we should smell them because if the smell is not good they may be rotten already .
+<29>	(108.113-116.883)	at isa pa medyo pisil pisilin natin ng kaunti kasi kung medyo may malambot na parte baka bulok na 'to .	and another press on them a bit because if they are parts that are soft they maybe be rotten already .
+<30>	(116.883-121.720)	<no-speech>	<no-speech>
+<31>	(121.720-126.199)	hmm <sta> ang sarap matamis .	hmm delicious sweet .
+<32>	(126.199-128.343)	ate ano kumusta ?	big sister how are you ?
+<33>	(128.343-129.272)	okey lang po .	okay .
+<34>	(129.272-130.600)	pabili ako ng gulay .	I want to buy vegetables .
+<35>	(130.600-131.150)	o sige .	sure .
+<36>	(131.150-135.296)	<sta> ayan siyempre kailangan marunong tayong pumili ng gulay ano po .	of course we need to know how to choose vegetables right .
+<37>	(135.296-139.484)	kailangan <sta> tignan muna natin sa kulay .	we need to look at the color first .
+<38>	(139.484-143.850)	at siyempre kailangan din po natin na hawakan .	and of course we also need to touch .
+<39>	(143.850-146.654)	<sta> pisil pisilin ng kaunti lang ha 'wag naman masyado .	press a bit but not much .
+<40>	(146.654-151.230)	para kung siyempre pag medyo may lambot na siya baka sira na 'yon .	because of course if there's a bit of softness it might be rotten already .
+<41>	(151.230-152.999)	<no-speech>	<no-speech>
+<42>	(152.999-161.778)	pagdating sa gulay nangunguna sa pinakmasustansiya ang dark green leafy vegetables tulad ng petsay <sta> kangkong at talbos ng kamote .	when it comes to vegetables dark green leafy vegetables like Chinese cabbage water spinach and sweet potato tops rank high in nutrition .
+<43>	(161.778-164.980)	mataas ito sa fiber potassium at calcium .	they are high in fiber potassium and calcium .
+<44>	(164.980-169.290)	<sta> nakatutulong ang mga 'yan sa pagpapababa ng cholesterol level sa katawan .	those help lower the cholesterol level of the body .
+<45>	(169.290-174.343)	<sta> para naman makaiwas sa cancer nariyan ang repolyo bawang at kamatis .	to avoid cancer there's cabbage garlic and tomato .
+<46>	(174.343-178.290)	may mga katangian ang mga ito na mabisang anti cancer agent .	they have properties that are effective anti-cancer agents .
+<47>	(178.290-188.840)	sa lahat ng produkto sa palengke pinakamabilis malaman kung ito ba ay sariwa o hindi gulay kasi sa kulay pa lang malalaman mo na kung sariwa siya .	for all the products in the market vegetable freshness is easiest to find out because just from the color you will know if it's fresh .
+<48>	(188.840-197.209)	at siyempre kapag ito ay nagpunit punit na 'yung kaniyang mga dahon at iba na talaga ang kulay ibig sabihin hindi na siya maganda .	and of course if its leaves are ripped and the color is really different it means it's not good anymore .
+<49>	(197.209-198.466)	lanta na siya .	it is withered .
+<50>	(198.466-200.220)	'wag na natin pong bilhin .	let's not buy it anymore .
+<51>	(200.220-201.630)	<sta> pili na po kayo diyan .	please choose .
+<52>	(201.630-204.640)	ano ang paborito ninyong bilhing isda sa palengke ?	what is your favorite fish to buy in the market ?
+<53>	(204.640-206.400)	ako bangus .	for me milkfish .
+<54>	(206.400-208.667)	<sta> ito malaki .	this one is big .
+<55>	(208.667-213.080)	<no-speech>	<no-speech>
+<56>	(213.080-214.274)	<sta> sariwa ?	fresh ?
+<57>	(214.274-215.036)	sariwa .	fresh .
+<58>	(215.036-216.190)	i-debone n'yo po ha .	please debone it .
+<59>	(216.190-217.060)	opo .	yes .
+<60>	(217.060-219.972)	<sta> abot kaya ang presyo at masustansiya ang bangus .	milkfish is affordable and nutritious .
+<61>	(219.972-226.080)	mataas ito sa protina na nakakapagpababa ng tsansa na pagkakaroon ng stroke <sta> heart disease at cancer .	it is high in protein that lowers the chance of having stroke heart disease and cancer .
+<62>	(226.080-230.264)	ang tip ko sa pagpili ng isda it's all in the eyes .	my tip for buying fish it's all in the eyes .
+<63>	(230.264-231.800)	<laugh> eto .	here .
+<64>	(231.800-234.710)	kailangan titingnan n'yo po 'yung mata ng isda .	you need to look at the eye of the fish .
+<65>	(234.710-236.505)	kailangan klaro siya .	it needs to be clear .
+<66>	(236.505-239.458)	pag klaro siya ibig sabihin sariwa siya .	if it's clear it means it is fresh .
+<67>	(239.458-243.529)	<sta> at 'tsaka siyempre titingnan n'yo 'yung hasang niya kung pulang pula talaga .	and of course look at its gills if they're really red .
+<68>	(243.529-244.430)	<no-speech>	<no-speech>
+<69>	(244.430-246.147)	ayan pulang pula o .	there really red .
+<70>	(246.147-249.043)	ibig sabihin talaga fresh 'yung isda .	it means the fish is really fresh .
+<71>	(249.043-254.440)	kasi pag medyo mapula na 'yung kaniyang mata ibig sabihin bilasa na 'yon .	because if its eyes are quite red it means it's already spoiled .
+<72>	(254.440-255.373)	<no-speech>	<no-speech>
+<73>	(255.373-256.805)	<sta> prutas check .	fruit check .
+<74>	(256.805-258.255)	gulay check .	vegetables check .
+<75>	(258.255-260.783)	at ang masustansiyang isda check .	and the nutritious fish check .

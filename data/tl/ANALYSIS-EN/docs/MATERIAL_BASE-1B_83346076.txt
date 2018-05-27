@@ -1,0 +1,10 @@
+<1>	(0.000-1.771)	<no-speech>	<no-speech>
+<2>	(1.771-13.840)	ang varicocele ay karamdamang hindi kaagad napapansin ng mga lalaki dahil sa mabagal na pag-develop nito sa scrotum o sa balat na bumabalot at nagbibigay proteksiyon sa testicles .	varicocele is a condition not easily noticed by men because of its slow development in the scrotum or skin covering and giving protection to the testicles .
+<3>	(13.840-21.410)	taglay ng scrotum ang mga arteries at veins na naghahatid ng sirkulasyon ng dugo sa reproductive glands ng lalaki .	scrotum is composed of arteries and veins that bring the circulation of blood to the reproductive glands of men .
+<4>	(21.410-30.180)	at kapag ang mga veins na tinatawag ring pampiniform plexus ay lumikha ng pamamaga itinuturing itong kondisyon ng varicocele .	and when the veins also known as pampiniform plexus create swelling this is considered a varicocele condition .
+<5>	(30.180-43.236)	habang nagpapatuloy ang pamamaga ng naturang mga ugat ay maaari itong magresulta sa tuluyang pagliit ng testicles na binubuo ng dalawang maliliit na organs na siyang gumagawa ng sperm o semilya .	if the swelling of the veins persists it may result to reduction of testicles composed of two small organs that produces sperm or semen .
+<6>	(43.236-51.792)	maaari itong magresulta sa pagbaba ng sperm production ng lalaki na nagiging dahilan ng infertility o kawalan ng kakayanang magkaanak .	it may result to decrease of sperm production of men that causes infertility or inability to have children .
+<7>	(51.792-56.650)	may magkaibang anatomy ang dalawang maliliit na organs sa loob ng scrotum .	the two small organs inside the scrotum have different anatomies .
+<8>	(56.650-60.410)	maaaring sabay na maapektuhan ang kaliwa at kanang bahagi .	the right and left part may be affected at the same time .
+<9>	(60.410-65.610)	subalit kadalasan ay tumutubo ang varicocele sa kaliwang bahagi lang ng scrotum .	however often varicocele grows on the left part of the scrotum .
+<10>	(65.610-67.705)	<no-speech>	<no-speech>

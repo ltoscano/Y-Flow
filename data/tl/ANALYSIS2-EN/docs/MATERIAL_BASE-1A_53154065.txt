@@ -1,0 +1,53 @@
+<1>	(Outline, 0.000-0.350)	<no-speech>	<no-speech>
+<2>	(Inline, 0.000-3.000)	<no-speech>	<no-speech>
+<3>	(Outline, 0.350-7.526)	tulikuwa tumeenda tu baharini <int> tulienda kule south Coast .	we had just gone to the sea we went there south coast .
+<4>	(Inline, 3.000-4.520)	mmhm sehemu gani hiyo ?	mmhm which side that ?
+<5>	(Inline, 4.520-8.180)	<no-speech>	<no-speech>
+<6>	(Outline, 7.526-10.157)	<no-speech>	<no-speech>
+<7>	(Inline, 8.180-8.890)	mmhm .	mmhm .
+<8>	(Inline, 8.890-13.300)	<no-speech>	<no-speech>
+<9>	(Outline, 10.157-11.060)	<int> ehhe .	mm .
+<10>	(Outline, 11.060-13.400)	tulienda kuogelea %incomplete	we went to swim %incomplete
+<11>	(Inline, 13.300-14.080)	mmhm .	mmhm .
+<12>	(Outline, 13.400-14.950)	<no-speech>	<no-speech>
+<13>	(Inline, 14.080-15.900)	<no-speech>	<no-speech>
+<14>	(Outline, 14.950-18.190)	<int> tukaogelea tu mpaka jioni %incomplete	we just swam until evening %incomplete
+<15>	(Inline, 15.900-16.300)	<no-speech>	<no-speech>
+<16>	(Inline, 16.300-19.000)	<no-speech>	<no-speech>
+<17>	(Outline, 18.190-19.130)	<no-speech>	<no-speech>
+<18>	(Inline, 19.000-21.290)	kwa hivyo mlishindwa kuogelea siku mzima ?	therefore you were unable to swim the whole day ?
+<19>	(Outline, 19.130-19.730)	halo .	hello .
+<20>	(Outline, 19.730-21.590)	<no-speech>	<no-speech>
+<21>	(Inline, 21.290-26.760)	<no-speech>	<no-speech>
+<22>	(Outline, 21.590-26.810)	tulishinda kuogelea tuliingia maji <int> majini saa nane .	we spent the whole day swimming we got into the water at two o'clock .
+<23>	(Inline, 26.760-27.480)	mmhm .	mmhm .
+<24>	(Outline, 26.810-28.090)	<no-speech>	<no-speech>
+<25>	(Inline, 27.480-31.780)	<no-speech>	<no-speech>
+<26>	(Outline, 28.090-30.770)	<int> mmhm tukaogelea mpaka saa kumi halafu ndiyo %incomplete	mmhm we swam until four o'clock that's when %incomplete
+<27>	(Outline, 30.770-31.790)	<no-speech>	<no-speech>
+<28>	(Inline, 31.780-32.400)	mmhm .	mmhm .
+<29>	(Outline, 31.790-46.770)	ikafika saa kumi na -- mpaka saa kumi tukatoka majini tukacool tukazunguka tu kidogo tukiona maji halafu ilipofika saa kumi na mbili ndiyo tukachukua gari tukakuja nyumbani .	it reached four o'clock and -- until four o'clock we came out of the water to cool then we walked about just a little looking at the water and then when it reached six o'clock that's when we took the car and came home .
+<30>	(Inline, 32.400-36.660)	<no-speech>	<no-speech>
+<31>	(Inline, 36.660-37.390)	mmhm .	mmhm .
+<32>	(Inline, 37.390-42.040)	<no-speech>	<no-speech>
+<33>	(Inline, 42.040-42.650)	mmhm .	mmhm .
+<34>	(Inline, 42.650-47.270)	<no-speech>	<no-speech>
+<35>	(Outline, 46.770-48.990)	<no-speech>	<no-speech>
+<36>	(Inline, 47.270-49.160)	uka- -- ndiyo ukamtarajia nyumbani ?	-- that's when you expected him home ?
+<37>	(Outline, 48.990-49.997)	<sta> ehhe .	mm .
+<38>	(Inline, 49.160-50.890)	<no-speech>	<no-speech>
+<39>	(Outline, 49.997-51.430)	<no-speech>	<no-speech>
+<40>	(Inline, 50.890-55.310)	mmhm na labda unielezee kazi yako kazi yako huwa unafanya kazi aina gani ?	mmhm and maybe you explain to me your work your work what kind of work do you usually do ?
+<41>	(Outline, 51.430-55.250)	<no-speech>	<no-speech>
+<42>	(Outline, 55.250-57.350)	<int> (()) .	(()) .
+<43>	(Inline, 55.310-56.830)	<no-speech>	<no-speech>
+<44>	(Inline, 56.830-58.270)	wajihusisha na nini ?	what do you involve yourself in ?
+<45>	(Outline, 57.350-58.720)	<no-speech>	<no-speech>
+<46>	(Inline, 58.270-64.220)	<no-speech>	<no-speech>
+<47>	(Outline, 58.720-60.060)	<no-speech>	<no-speech>
+<48>	(Outline, 60.060-63.710)	ehhe <no-speech> mi nafanya kwa wakili .	mm I work at the lawyer .
+<49>	(Outline, 63.710-65.020)	<no-speech>	<no-speech>
+<50>	(Inline, 64.220-65.020)	mmhm .	mmhm .
+<51>	(Outline, 65.020-65.512)	ehhe .	mm .
+<52>	(Inline, 65.020-66.330)	<no-speech>	<no-speech>
+<53>	(Outline, 65.512-66.330)	<no-speech>	<no-speech>

@@ -1,0 +1,108 @@
+<1>	(Outline, 0.000-1.019)	<no-speech>	<no-speech>
+<2>	(Inline, 0.000-4.700)	<no-speech>	<no-speech>
+<3>	(Outline, 1.019-1.541)	ehhe .	mm .
+<4>	(Outline, 1.541-4.350)	pia sawa lakini nikajuaji katatoa kumi na nane kweli ?	also alright but he is clever will he bring eighteen really ?
+<5>	(Outline, 4.350-5.980)	<no-speech>	<no-speech>
+<6>	(Inline, 4.700-12.790)	ehhe -- ehhe si anaweza toa sasa si (()) unajua hiyo <no-speech> -- hiyo shule ni ya Mjaluo mwenzako anaweza ongea na ye mzuri .	mm mm can't he be able to bring now (()) you know that -- that school is of a Luo your companion can talk to him well .
+<7>	(Outline, 5.980-14.573)	<no-speech>	<no-speech>
+<8>	(Inline, 12.790-23.010)	<no-speech>	<no-speech>
+<9>	(Outline, 14.573-14.814)	ehhe .	mm .
+<10>	(Outline, 14.814-15.161)	kwa- %incomplete	from -- %incomplete
+<11>	(Outline, 15.161-15.490)	ehhe .	mm .
+<12>	(Outline, 15.490-22.489)	kwanza tunaweza muanzia na kumi na nane halafu <sta> labda akiteremka ndiyo inaweza kuja kumi na sita na saba ama tano .	first we can start him with eighteen and then maybe if he reduces that's when it can come to sixteen and seven or five .
+<13>	(Outline, 22.489-24.440)	<breath> lakini hata %incomplete	but even %incomplete
+<14>	(Inline, 23.010-24.980)	sana sana ni pesa ngapi ?	mostly mostly is how much money ?
+<15>	(Outline, 24.440-25.240)	<no-speech>	<no-speech>
+<16>	(Inline, 24.980-26.680)	<no-speech>	<no-speech>
+<17>	(Outline, 25.240-26.322)	<sta> ehhe .	mm .
+<18>	(Outline, 26.322-30.335)	<no-speech>	<no-speech>
+<19>	(Inline, 26.680-28.610)	sana sana tusimamie pesa ngapi ?	mostly mostly we set up how much money ?
+<20>	(Inline, 28.610-31.580)	<no-speech>	<no-speech>
+<21>	(Outline, 30.335-31.020)	Kismayu ?	Kismayu ?
+<22>	(Outline, 31.020-33.610)	<no-speech>	<no-speech>
+<23>	(Inline, 31.580-33.070)	ehhe kusimamia .	mm to set up .
+<24>	(Inline, 33.070-34.840)	<no-speech>	<no-speech>
+<25>	(Outline, 33.610-34.500)	<no-speech> ehhe .	mm .
+<26>	(Outline, 34.500-35.510)	<no-speech>	<no-speech>
+<27>	(Inline, 34.840-39.180)	nauliza tunaweza simamia pesa ngapi katika ile bei tunaweza lipiza <int> ?	I am asking can we set up how much money in that price we can pay for ?
+<28>	(Outline, 35.510-37.760)	<no-speech>	<no-speech>
+<29>	(Outline, 37.760-40.389)	<no-speech>	<no-speech>
+<30>	(Inline, 39.180-41.190)	<no-speech>	<no-speech>
+<31>	(Outline, 40.389-40.960)	ye ?	him ?
+<32>	(Outline, 40.960-42.600)	<no-speech>	<no-speech>
+<33>	(Inline, 41.190-44.930)	ehhe (()) Ochieng ujue Ochieng anakula .	mm (()) Ochieng you should know Ochieng will eat .
+<34>	(Outline, 42.600-43.060)	<no-speech>	<no-speech>
+<35>	(Outline, 43.060-44.000)	<no-speech>	<no-speech>
+<36>	(Outline, 44.000-44.254)	<sta> si %incomplete	is not %incomplete
+<37>	(Outline, 44.254-45.679)	<no-speech>	<no-speech>
+<38>	(Inline, 44.930-46.960)	<no-speech>	<no-speech>
+<39>	(Outline, 45.679-46.910)	si ni ten percent ?	isn't it ten percent ?
+<40>	(Outline, 46.910-48.360)	<no-speech>	<no-speech>
+<41>	(Inline, 46.960-51.720)	<sta> ndiyo nakwambia <no-speech> ujue Ochieng anakula %incomplete	that's why I am telling you you should know Ochieng will eat %incomplete
+<42>	(Outline, 48.360-50.046)	<sta> ehhe .	mm .
+<43>	(Outline, 50.046-53.118)	<no-speech>	<no-speech>
+<44>	(Inline, 51.720-52.830)	<no-speech>	<no-speech>
+<45>	(Inline, 52.830-53.608)	<sta> ehhe ?	mm ?
+<46>	(Outline, 53.118-53.570)	ehhe .	mm .
+<47>	(Outline, 53.570-54.729)	<no-speech>	<no-speech>
+<48>	(Inline, 53.608-55.250)	nasi tunataka kukula .	we too want to eat .
+<49>	(Outline, 54.729-55.030)	Och- %incomplete	%incomplete
+<50>	(Outline, 55.030-56.280)	<no-speech>	<no-speech>
+<51>	(Inline, 55.250-59.000)	<no-speech>	<no-speech>
+<52>	(Outline, 56.280-58.900)	Och- -- Ochieng si atakula ten percent ?	won't Ochieng eat ten percent ?
+<53>	(Outline, 58.900-61.720)	<no-speech>	<no-speech>
+<54>	(Inline, 59.000-60.520)	<sta> ehhe si ni hiyo ni ngiri ?	mm isn't it that is a thousand ?
+<55>	(Inline, 60.520-64.960)	<no-speech>	<no-speech>
+<56>	(Outline, 61.720-64.600)	ehhe hiyo ni- -- ni ngiri .	mm that is -- is a thousand .
+<57>	(Outline, 64.600-67.040)	<no-speech>	<no-speech>
+<58>	(Inline, 64.960-66.010)	hiyo ni ngiri .	that is a thousand .
+<59>	(Inline, 66.010-67.360)	<no-speech>	<no-speech>
+<60>	(Outline, 67.040-67.750)	ehhe .	mm .
+<61>	(Inline, 67.360-73.040)	au kwa hivyo wacha si ndiyo nakuuliza wacha si tusimamie hapo na ndiyo naye si tuweze kukula .	or therefore let that's it I am asking you let us stand there and there with him so we can be able to eat .
+<62>	(Outline, 67.750-71.140)	<no-speech>	<no-speech>
+<63>	(Outline, 71.140-74.778)	<no-speech>	<no-speech>
+<64>	(Inline, 73.040-81.370)	<no-speech>	<no-speech>
+<65>	(Outline, 74.778-82.070)	sasa wakitoa -- wakitoa kumi na nane si mi nitachukua fifteen hizo ngiri tatu mtajipanga nayo .	now if they give -- if they give eighteen me I'll take fifteen those three thousand you'll share yourselves .
+<66>	(Inline, 81.370-81.980)	ehhe .	mm .
+<67>	(Inline, 81.980-86.990)	<no-speech>	<no-speech>
+<68>	(Outline, 82.070-83.346)	<no-speech>	<no-speech>
+<69>	(Outline, 83.346-83.567)	ehhe .	mm .
+<70>	(Outline, 83.567-86.220)	hiyo -- hiyo tatu sasa si mta- -- mtakula na Ochieng .	that -- the third time -- you'll share with Ochieng .
+<71>	(Outline, 86.220-89.390)	<no-speech>	<no-speech>
+<72>	(Inline, 86.990-90.290)	haya halafu sasa tutanunua nyama si ndiyo ?	alright and then we'll buy meat right ?
+<73>	(Outline, 89.390-90.320)	<no-speech>	<no-speech>
+<74>	(Inline, 90.290-92.720)	<no-speech>	<no-speech>
+<75>	(Outline, 90.320-91.549)	<no-speech>	<no-speech>
+<76>	(Outline, 91.549-92.190)	ehhe .	mm .
+<77>	(Outline, 92.190-93.140)	<no-speech>	<no-speech>
+<78>	(Inline, 92.720-94.268)	ehhe unune nyama na %incomplete	mm you buy meat and %incomplete
+<79>	(Outline, 93.140-97.183)	na -- <no-speech> <int> -- na -- na utoe mpaka homa .	and -- and -- and you get rid of even the flu .
+<80>	(Inline, 94.268-95.030)	ehhe ?	mm ?
+<81>	(Inline, 95.030-97.820)	<no-speech>	<no-speech>
+<82>	(Outline, 97.183-98.224)	<no-speech>	<no-speech>
+<83>	(Inline, 97.820-102.230)	<laugh> ati utoe mpaka homa ?	that you get rid of even the flu ?
+<84>	(Outline, 98.224-98.684)	ehhe .	mm .
+<85>	(Outline, 98.684-103.217)	<no-speech>	<no-speech>
+<86>	(Inline, 102.230-104.200)	<no-speech>	<no-speech>
+<87>	(Outline, 103.217-103.860)	ehhe .	mm .
+<88>	(Outline, 103.860-106.670)	<no-speech>	<no-speech>
+<89>	(Inline, 104.200-106.580)	<laugh> haya we jaribu sana .	alright you try very much .
+<90>	(Inline, 106.580-107.570)	<no-speech>	<no-speech>
+<91>	(Outline, 106.670-107.936)	<no-speech>	<no-speech>
+<92>	(Inline, 107.570-111.390)	halafu sasa usimamie kumi na -- usimamie kumi na nane usianguke .	and then now you set up ten and -- you set up eighteen so that you don't fall .
+<93>	(Outline, 107.936-108.930)	haya sawasawa .	alright okay .
+<94>	(Outline, 108.930-111.140)	<no-speech>	<no-speech>
+<95>	(Outline, 111.140-115.428)	<no-speech>	<no-speech>
+<96>	(Inline, 111.390-113.700)	<no-speech>	<no-speech>
+<97>	(Inline, 113.700-114.547)	ehhe sawa ?	mm alright ?
+<98>	(Inline, 114.547-116.337)	<no-speech>	<no-speech>
+<99>	(Outline, 115.428-116.730)	ehhe (()) .	mm (()) .
+<100>	(Inline, 116.337-117.230)	e- -- ehhe .	mm .
+<101>	(Outline, 116.730-118.220)	<no-speech>	<no-speech>
+<102>	(Inline, 117.230-118.470)	<no-speech>	<no-speech>
+<103>	(Outline, 118.220-119.410)	(()) <no-speech> .	(()) .
+<104>	(Inline, 118.470-120.360)	halafu <int> %incomplete	and then %incomplete
+<105>	(Outline, 119.410-119.840)	<no-speech>	<no-speech>
+<106>	(Outline, 119.840-121.800)	<no-speech>	<no-speech>
+<107>	(Inline, 120.360-121.160)	<no-speech>	<no-speech>
+<108>	(Inline, 121.160-121.800)	ehhe .	mm .

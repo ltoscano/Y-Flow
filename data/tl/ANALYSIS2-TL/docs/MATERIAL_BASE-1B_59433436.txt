@@ -1,0 +1,163 @@
+[0.000]
+mabuti po .
+[1.072]
+<no-speech>
+[2.371]
+napapansin mo talagang biglang ano na parang pumayat na siya .
+[6.408]
+opo .
+[7.026]
+noong pumayat ka Joshua <hes> nagkasakit ka ?
+[10.737]
+hindi naman po .
+[12.850]
+nanghihina lang po ako pero iyong %incomplete
+[14.567]
+kita mo nanghihina ka bakit hindi mo sinasabi nanghihina ka ?
+[18.120]
+alam ni 'yong nanghihina siya ?
+[19.473]
+hindi ko po alam .
+[21.940]
+ikaw nag-pre-prepare din ng pagkain dito or ikaw iyong %incomplete
+[24.314]
+opo .
+[24.604]
+pero nakikita mo inuubos niya iyong pagkain niya ?
+[27.537]
+opo nauubos niya naman po .
+[29.460]
+paano siya umabot na %incomplete
+[30.606]
+nauubos niya iyong pagkain pero pumapayat ka ?
+[33.940]
+kasi very -- very limited lang po iyong amount ng pagkain na kinakain ko po .
+[39.480]
+so parang pag nakita o pag kumuha ka noon kaunti lang siya inuubos mo siya so hindi halata na limited lang ang kinakain mo ?
+[47.432]
+umm .
+[47.940]
+okey limited na iyong kinakain mo imposible na basta-basta ganoon more or less mayroong -- medyo matagal na iyon .
+[56.068]
+umm .
+[57.206]
+lalo pa't paano mo nakokontrol na hindi ka kakain considering na growing ka .
+[63.093]
+ang metabolism ng isang seventeen years old o sixteen years old noong panahon na iyon ay mabilis .
+[68.760]
+umm .
+[69.183]
+so madaling magutom .
+[70.317]
+umm .
+[71.081]
+paano ?
+[71.730]
+ang ginagawa ko po pag nagugutom po ako I keep myself occupied .
+[76.593]
+gumagawa po ako ng ibang mga bagay nagbabasa po ako nanonood ako ng T_V .
+[82.206]
+nakakatulong ba kahit gutom ka ?
+[83.836]
+opo .
+[84.600]
+parang nasanay na po ako .
+[86.182]
+so talagang na focus na ang utak mo na busog ka palagi ganoon ?
+[89.824]
+opo .
+[90.260]
+na ano mo na siya na mindset mo siya ?
+[92.209]
+opo .
+[92.632]
+okey .
+[93.523]
+so kung na mindset mo siya at palaging iniisip mo <hes> puno ang laman ng tiyan mo chances are gagawa ka ng paraan na ma eliminate iyon .
+[104.960]
+do you take any laxatives ?
+[106.963]
+hindi po .
+[107.660]
+sure ka ?
+[109.170]
+wala kang iniinom ng mga panahon na iyon na pinabibili ?
+[112.893]
+sure po ako na wala talaga .
+[115.450]
+hindi ka talagang %incomplete
+[116.821]
+anong ginagawa mo para magkasi- -- masyadong limited iyong kinakain mo paano ka -- paano mo na-re-regulate ang pagdumi mo ?
+[123.566]
+<no-speech>
+[124.565]
+<hes> iyon nga po ang problema eh .
+[126.530]
+mga once a week lang po ako dumudumi noon .
+[129.893]
+eh di may problema ka so anong ginagawa mo ?
+[132.191]
+<no-speech>
+[133.423]
+wala .
+[134.820]
+ako si Camille Garcia isang psychologist at <hes> present na administrator dito sa Clinic of the Holy Spirit .
+[141.970]
+alam n'yo <hes> marami talagang mga eating disorders at isa na dito iyong tinatawag nating Anorexia nervosa .
+[148.186]
+kung tutuusin sasabihin natin na maaaring ito ay isang medikal na kondisyon dahil kasi ito iyong pag malaman mo na ikaw ay <hes> ma- -- mabigat ang iyong timbang gumagawa ka ng paraan para mabawasan ang iyong timbang .
+[164.030]
+so sana ganoon lang however ito ay sumosobra .
+[167.235]
+<no-speech>
+[170.367]
+pag nagbawas na ng timbang ang tendency nagkakaroon sila ng pagkakataon na ang tingin nila sa sarili nila kahit payat na sila mataba pa rin .
+[179.108]
+so gumagawa sila ng paraan na lalong pumapayat .
+[182.050]
+sa hindi pagkain .
+[183.853]
+pangalawa pagpupurga .
+[185.970]
+iyong tinatawag nating <hes> pag-take ng mga laxatives .
+[189.140]
+<no-speech>
+[194.940]
+feeling nila kailangang mag-ano -- mag intake ng laxatives kasi palagi silang constipated pero actually walang laman ang tiyan .
+[202.610]
+so doon nagiging psychologically affected iyong -- eh itong taong ito so it becomes <hes> condition na sasabihin natin and a form of a disorder .
+[214.600]
+ang tingin niya sa sarili niya na kahit na sabihin mong payat eh mataba .
+[218.920]
+tapos affected psychologically socially kung minsan iyong functions niya physically affected din kasi siyempre nanghihina .
+[227.430]
+tapos magugulat ka na nahi- -- nahihirapan ng makipag-socialize tapos ang tingin sa sarili ang bababa .
+[234.753]
+iyong confidence level sobrang baba to the point na mas gugustuhin na lang na mapag-isa .
+[242.170]
+nagkaroon ba ng pagkakataon noong high school na may nagustuhan ka I mean talagang gustong-gusto pero muntik ka ng manligaw pero at least may nagustuhan ka .
+[250.900]
+<sta> wala po kasi talaga sa isip ko iyong panliligaw .
+[254.648]
+<sta> wala okay <overlap> kung sakaling na recognize noong mismong tao na siya ay mayroong eating disorder the support groups specially the friends and the parents plays an important role for that individual to understand na kinakailangan niya itong support group na ito ka- -- dahil kasi the affection the nurture and such you can give to this individual helps him boost iyong morale niya .
+[278.240]
+helps him boosts his self-esteem and self-concept .
+[280.737]
+so once nagkaroon ng ganoong klaseng pagkakataon na medyo confident na siya sa sarili niya siguro ma-o-overcome niya iyong ganitong klaseng <hes> disorder .
+[290.240]
+ang maapektuhan diyan hindi naman iyon sa ano eh hindi lang naman iyong psychological condition mo kundi iyong physical na condition mo .
+[298.140]
+pag bumaba ang immune system mo mas marami kang magiging sakit .
+[301.394]
+puwede ka magkaroon ng T_B .
+[303.219]
+may cognition kasi si Joshua na may problema siya .
+[307.340]
+kung napansin n'yo na sinasabi niya na talagang iyong magulang niya insensitive doon sa iyong nangyayari niya .
+[313.012]
+iyong depression within nag-uumpisa .
+[316.085]
+so ang nakikita kong main problem dito the anorexia was brought about by the depression felt dahil walang contentment konsensiya .
+[326.260]
+tingnan mo ang sinasabi nga sa kaniya na di ba I tend to act out like my peers .
+[332.918]

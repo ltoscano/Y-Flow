@@ -1,0 +1,81 @@
+[0.000]
+<misc>
+[1.281]
+<sta> basi kwa mafupi tunarudi kwenye Mada yetu ya pili iliyochangamka kama imemwagiwa malimau inasema hivi <sta> wajaa wazito wanaotumikia kifungo wapewe mahitaji yao ya uzazi ?
+[9.510]
+<sta> wapewe .
+[10.288]
+e ndiyo -- ndiyo sasa .
+[11.493]
+e heh .
+[11.959]
+tovuti rasmi ya haki za binadamu <sta> imesema -- ambayo iliorodhesha magereza mia moja ishirini na mbili yenye wafungwa elfu arobaini na tatu wa kiume ndani yake kukiwa na wafungwa wa kike <sta> elfu moja mia tatu na sitini na moja pamoja na ripoti ya haki za binadamu ambayo inasema <sta> wafungwa wa jinsia ya kike wananyanyasika sana wananyanyaswa na wafungwa wenzao wa kiume <sta> pamoja na viongozi wao .
+[33.971]
+sasa tuna mtazamo gani juu ya swala hili ?
+[36.264]
+dada .
+[36.714]
+<no-speech>
+[37.801]
+mimi haki zao lazima wapewe (()) <sta> anapoumwa apate matibabu vizuri anatakiwa alale sehemu nzuri ambayo inastahili kwa mwanadamu alale <sta> bila kujali kwamba yeye ni mfungwa .
+[49.633]
+kwani sasa hivi hawapewi hiyo hadhi ambayo tunasema apewe kama hawapewi ?
+[53.950]
+<sta> <hes> inawezekana kwamba wanapata lakini sio ile inayohitajika kama vile (()) uraiani .
+[58.418]
+sasa wangapi ambao wam- -- mtu <sta> kuna mtu hapa ambaye amewahi kumtembelea mfungwa labda ndugu yake au rafiki yake ?
+[64.586]
+mimi nishawahi kumtembelea mfungwa .
+[66.430]
+<sta> wa kike wa kiume ?
+[67.459]
+wa kiume .
+[68.406]
+ukakuta hali ikoje ?
+[69.807]
+nimekuta mazingira sio mazuri kiukweli .
+[71.690]
+<sta> kwa hiyo hata kama akina mama wajaa wazito ni vyema zaidi kwamba wakathaminiwa zaidi kutokana kwamba wao hawako pekee yao <sta> washakuwa na matatizo .
+[79.277]
+ina maana wakikosa zile haki zao za msingi watazidi kudhoofika na hata baadaye kuelekea kupata matatizo makubwa <sta> kwenye hali ya uzazi wao .
+[87.699]
+halafu yule ni binadamu kwa sababu kule kumfunga mtu mbali na adhabu ni kwamba unaenda umrekebishe tabia kwamba akitoka huko uje ukuwe mwananchi bora .
+[94.950]
+<sta> sasa unafikiri kwa -- kwa hali ambayo unazidi kumweka gerezani kwa taabu zile akitoka huko atakuwa na tabia nzuri au unazidi kumwongezea tena ?
+[102.080]
+<sta> anazidi kuwa mtu mbaya zaidi yaani .
+[103.292]
+<no-speech>
+[104.353]
+mnaagree lazima aboreshwe kwanza <sta> kwamba wa- -- gereza lichukue idadi ya watu ambao wanatakiwa waingie mle kama ni mia tano ni mia tano tu ili hata wewe uweze kuwamiliki vizuri wale wafungwa wako .
+[113.710]
+<sta> kwa sababu gereza ya watu mia mbili ukishaweka watu mia tano utacontrol vipi watu hao ?
+[117.750]
+<sta> <overlap> ushawahi kwenda katika gereza la wanawake ?
+[120.960]
+<sta> la wanawake sijawahi kwenda .
+[122.440]
+tunaongelea la wanawake .
+[123.173]
+<overlap> lakini kwa sababu (()) kielezi imekuja hivi haya mambo yako kweli kwa sababu jambo haliji hivi hivi .
+[128.360]
+<sta> leo usiangalie pale penye umefika mpaka umebaini ni kweli hali halisi ilivyo yaani umeona ?
+[132.243]
+sasa waki- -- <int> waki- -- waki- -- wakipewa <sta> mahitaji mazuri kila kitu vizuri huni watakuwa wanafanya makosa makusudi -- makusudi ?
+[140.001]
+binadamu wote wanahitaji Uhuru ndugu yangu .
+[142.090]
+<sta> e .
+[142.360]
+usiende gerezani tu chumbani kwako wewe ukiambiwa sasa -- sasa hivi Maasai kaa tu chumbani kwako tu humo ndani .
+[146.706]
+una mke wako una watoto wako kila kitu unakula kwa sababu hutoki itakuwa ni kero kwako .
+[151.090]
+<sta> umeona e ?
+[151.801]
+ni kero unakula unaangalia T_V kila kitu kwa sababu ukiambiwa tu saa hii wewe usitoke nje ya nyumba yako ni adhabu tosha .
+[157.526]
+watu waliopo kule ni lazima waboreshewe mazingira .
+[159.962]
+tunateremsha watu halafu Mada yetu .
+[161.878]

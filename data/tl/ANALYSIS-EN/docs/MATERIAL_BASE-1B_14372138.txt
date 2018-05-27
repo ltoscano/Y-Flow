@@ -1,0 +1,28 @@
+<1>	(0.000-2.468)	<no-speech>	<no-speech>
+<2>	(2.468-7.290)	<sta> maya't maya ang dating ng mga C_One_Thirty dito sa Sulu Sea mula pa noong Biyernes .	a simultaneous arrival of the C one thirty planes here in Sulu Sea since Friday .
+<3>	(7.290-13.100)	dala nito ang medical supplies at pagkain para sa tropa na patuloy na nakikipagbakbakan sa Abu Sayyaf .	it is carrying medical supplies and food for the troops who continue fight against Abu Sayyaf .
+<4>	(13.100-20.810)	<sta> nitong Sabado personal na bumisita si A_F_P Chief of Staff Ricardo Visaya para marinig ang takbo ng operasyon laban sa mga bandido .	this Saturday A_F_P Chief of Staff Ricardo Visaya personally visited to hear the course of the operation against the bandits .
+<5>	(20.810-24.373)	binisita rin ni Visaya ang bagong bukas na ospital sa loob ng kampo .	Visaya also visited the newly opened hospital inside the camp .
+<6>	(24.373-29.440)	kumpleto ito sa medical equipment at kayang tumanggap ng hindi bababa sa limampung pasyente .	it is complete with medical equipment and can accommodate more than fifty patients .
+<7>	(29.440-33.543)	sa ngayon nasa halos sampung libong sundalo na ang naka-deploy sa Basilan at Sulu .	right now there are almost then thousand soldiers deployed in Basilan and Sulu .
+<8>	(33.543-37.530)	ito na ang pinakamalaking bilang ng ipinadalang tropa laban sa Abu Sayyaf .	this is the biggest number of troops sent to fight against Abu Sayyaf .
+<9>	(37.530-41.106)	matapang din ang minsahing ipinaabot ng heneral sa mga bandido .	the general sent a strong message to the bandits .
+<10>	(41.106-49.730)	if they want <int> to live ang gusto ko lang sa kanila ay pakawalan nila ang kanilang mga bihag .	if they want to live what I want from them is to release their captives .
+<11>	(49.730-55.223)	and mag-surrender sila and they will be given -- <hes> they will given the chance to live .	for them to surrender and they will be given the chance to live .
+<12>	(55.223-60.836)	kung ayaw nila the troops the Armed Forces of the Philippines is ready to crush them .	if they don't want to the Armed Forces of the Philippines is ready to crush them .
+<13>	(60.836-61.660)	<no-speech>	<no-speech>
+<14>	(61.660-65.634)	walang deadline na ibinigay si Visaya para matapos ang military operation .	Visaya has given no deadline in ending the military operation .
+<15>	(65.634-70.520)	pero asahan na raw na lalong iigting pa ang bakbakan sa mga susunod na araw .	but expect that the battle will be much more intense in the coming days .
+<16>	(70.520-78.215)	<sta> namataan naman ng tropa ang Abu Sayyaf na tumatakas sa mga bundok <sta> kasama ang mga bihag nito kabilang na ang Norwegian na si Kjartan Sekkingstad .	the troops has spotted the Abbu Sayyaf escaping to the mountains with their captives including the Norwegian Kjartan Sekkingstad .
+<17>	(78.215-82.457)	ang isa sa mga bihag nasawi pa umano dahil sa matinding pagod .	one of the captives allegedly died due to extreme exhaustion .
+<18>	(82.457-83.130)	<no-speech>	<no-speech>
+<19>	(83.130-87.885)	ang balita lang sa amin ay <hes> <hes> talagang pagod na pagod sila .	the news that we got is that they are really exhausted .
+<20>	(87.885-95.626)	in fact <hes> we are still verifying also the report na one Filipino kidnapped victim was killed due to exhaustion .	in fact we are still verifying also the report that one Filipino kidnapped victim was killed due to exhaustion .
+<21>	(95.626-103.000)	<int> sa ngayon pumalo na sa limampu't siyam na miyembro ng Abu Sayyaf ang nalagas simula no'ng paigtingin ang operasyon noong Agosto .	right now the numbers of killed Abu Sayyaf members has reached to fifty-six since the reinforced operation last August .
+<22>	(103.000-108.460)	labingwalo naman ang nasawi sa hanay ng militar habang dalawampu't walo pa ang sugatan .	eighteen had died within the military ranks while twenty-eight are wounded .
+<23>	(108.460-115.781)	kaya hindi pa mairerekomenda ng A_F_P kay Pangulong Rodrigo Duterte na alisin ang state of national emergency sa bansa .	that is why A_F_P still cannot recommend to President Rodrigo Duterte to remove the state of national emergency in the country .
+<24>	(115.781-116.620)	<no-speech>	<no-speech>
+<25>	(116.620-126.258)	habang <hes> nag-operate kami rito and even kahit matapos na 'yong operations dito there might be the plans of <hes> Abu Sayyaf 'yong mga supporters nila 'to conduct bombing .	while we are operating here and even after the operations has ended here there might be plans of Abu Sayyaf their supporters to conduct bombing .
+<26>	(126.258-130.059)	kaya it's better na <hes> will keep our guards up .	that is why it's better if we will keep our guards up .
+<27>	(130.059-136.100)	<int> bukas naman daw ang A_F_P sa pakikipagtulungan sa ibang grupo tulad ng M_N_L_F .	the A_F_P is open for cooperation with other groups such as M_N_L_F .
+<28>	(136.100-137.837)	umaaksiyon mula Sulu ~ %incomplete	taking action from Sulu %incomplete

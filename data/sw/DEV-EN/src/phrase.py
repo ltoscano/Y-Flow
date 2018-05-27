@@ -1,4 +1,4 @@
-import os
+import os, io
 import json
 import argparse
 from collections import OrderedDict
@@ -48,8 +48,10 @@ parser.add_argument("--src_align", type=str, default='', help="Reload source ali
 parser.add_argument("--tgt_align", type=str, default='', help="Reload target alignments")
 
 parser.add_argument("--normalize_embeddings", type=str, default="", help="Normalize embeddings before training")
-
+parser.add_argument("--query_coeff", type=float, default=1.0, help="coefficient between query and muse expansion")
 parser.add_argument("--stemmer", type=bool, default=False, help="Respect Phrases")
+parser.add_argument("--expansion", type=bool_flag, default=False, help="Respect Phrases")
+
 
 # parse parameters
 params = parser.parse_args()
@@ -60,17 +62,32 @@ assert params.dico_train in ["identical_char", "default"] or os.path.isfile(para
 assert params.dico_build in ["S2T", "T2S", "S2T|T2S", "S2T&T2S"]
 assert params.dico_max_size == 0 or params.dico_max_size < params.dico_max_rank
 assert params.dico_max_size == 0 or params.dico_max_size > params.dico_min_size
+def softmax(x):
+    """Compute softmax values for each sets of scores in x."""
+    e_x = np.exp(x - np.max(x))
+    return e_x / e_x.sum()
+print('loading word vectors')
+word_vectors = KeyedVectors.load_word2vec_format('/data/projects/material/eval/Y-Flow/data/fastext/wiki.en.vec', binary=False, limit=10)
+vocabs = word_vectors.vocab.keys()
 print('generating Indri query format ..')
 out = open(params.tquery,'w')
-if params.stemmer:
-    from krovetzstemmer import Stemmer
-    stemmer = Stemmer()
+
+from krovetzstemmer import Stemmer
+stemmer = Stemmer()
+
 out.write("<parameters>\n")
 with open(params.query) as f:
     i = 0
     for line in f:
         line = line.strip().lower()
-        line = line.replace('EXAMPLE_OF', '')
+        line = line.replace('example_of', '')
+        conceptual = True
+        non_hyp = True
+        if '+' in line:
+            if not 'syn' in line:
+                conceptual = False
+        if 'hyp' in line:
+            non_hyp = False
         if params.phrase:
             phrases=re.findall(r'\"(.+?)\"', line)
             phrases = [re.sub('[<>]', '', phrase) for phrase in phrases if '[' not in phrase]## only query 3637
@@ -91,26 +108,40 @@ with open(params.query) as f:
         words = tokens[1:-1] ## skip domain
         #print(qid,did,words)
         #input('here') 
-        print(tokens)
         out.write("<query>\n")
         out.write("<type>indri</type>\n")
         out.write("<number>{0}</number>\n".format(qid))
         out.write("<text>\n")
-        out.write("#combine(\n")
+        #out.write("#combine(\n")
         for phrase in phrases:
-            if params.stemmer:
-                new_phrase = []
-                for word in phrase.split(' '):
-                    word = stemmer.stem(word)
-                    new_phrase.append(word)
-                phrase = ' '.join(new_phrase)
-            out.write("#100({})".format(phrase))
+            out.write("#1({})".format(phrase))
             out.write('\n')
+        vocab_words = []
         for word in words:
-            if params.stemmer:
-                word = stemmer.stem(word)
-            out.write(word+"\n")
-        out.write(")\n")
+            if word in vocabs:
+                vocab_words.append(word)
+        if vocab_words:
+            word_sim = word_vectors.most_similar(positive=vocab_words)[:10]
+            new_words = [x[0] for x in word_sim]
+            weights = np.array([x[1] for x in word_sim])
+            weights = softmax(weights)
+        else:
+            new_words = []
+        for word in words:
+            out.write(stemmer.stem(word)+"\n")
+        #out.write('#combine(\n')
+        if params.expansion:
+            #if non_hyp and conceptual:
+            j = 0
+            out.write('#weight(\n')
+            for word in words:
+                out.write(str(params.query_coeff)+' ' + stemmer.stem(word)+'\n')
+            for new_word in new_words:
+               out.write(str(weights[j]*(1-params.query_coeff))+' '+stemmer.stem(str(new_word.encode('utf-8').strip()))+'\n')
+               j+=1
+            out.write(")\n")
+        #out.write(")\n")
+        #out.write(')\n')
         out.write("</text>\n")
         out.write("</query>\n")
         if i == params.n_iters:
@@ -119,7 +150,7 @@ with open(params.query) as f:
 
 out.write("</parameters>")
 out.close()
-#print('done')
+print('done')
 """
 Learning loop for Procrustes Iterative Refinement
 """

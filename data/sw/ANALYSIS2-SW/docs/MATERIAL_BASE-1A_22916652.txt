@@ -1,0 +1,32 @@
+0.000	inLine	<no-speech>
+0.000	outLine	ahh ehhe za soh moja .
+1.695	inLine	<sta> na nini -- na kitunguu naye ?
+1.797	outLine	so %incomplete
+2.270	outLine	<no-speech>
+3.543	inLine	ama hiyo hakunanga huko ?
+4.900	outLine	ehhe aai kitunguu hio okay (()) sijui kitunguu vile zinafanya hapa .
+5.145	inLine	<no-speech>
+9.320	outLine	<no-speech>
+9.675	inLine	mmhm .
+10.225	inLine	<no-speech>
+10.630	outLine	ehhe sijui vyenye okay sijui vile naweza fanya %incomplete
+12.770	outLine	<no-speech>
+13.165	inLine	<int> mmhm .
+13.715	inLine	<no-speech>
+14.110	outLine	at least nyanya unajua ni kitu moja ni kwamba unaona wanasema hiyo kitunguu lazima utime season .
+17.968	outLine	<no-speech>
+18.285	inLine	<int> mmhm .
+19.075	inLine	<no-speech>
+19.747	outLine	uzuri ya nyanya %incomplete
+21.390	outLine	<no-speech>
+21.975	inLine	mmhm .
+22.505	inLine	<no-speech>
+22.870	outLine	nyanya (()) hakuna siku itakulet down na hata kama ukiuza the only thing utafanya ni kuuza bei rahisi sana .
+28.630	outLine	<no-speech>
+29.325	inLine	<int> mmhm .
+29.690	outLine	<int> we so we (()) ham- -- hakuna kitu in fact ukulima wa nya- -- <hes> -- nyanya ni works na itaku- -- kitu utafanya tu utauza bei ya chini .
+29.935	inLine	<no-speech>
+38.376	outLine	<no-speech> lakini doh itakupatia kidogo .
+38.915	inLine	mmhm .
+39.525	inLine	<no-speech>
+41.140

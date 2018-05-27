@@ -1,0 +1,74 @@
+<1>	(Inline, 0.000-0.610)	<no-speech>	<no-speech>
+<2>	(Outline, 0.000-1.570)	<no-speech>	<no-speech>
+<3>	(Inline, 0.610-1.450)	tulishinda ?	did we win ?
+<4>	(Inline, 1.450-2.790)	<no-speech>	<no-speech>
+<5>	(Outline, 1.570-2.370)	<sta> ehhe .	mm .
+<6>	(Outline, 2.370-4.190)	<no-speech>	<no-speech>
+<7>	(Inline, 2.790-3.980)	<sta> nani alifunga hiyo bao ?	who scored the goal ?
+<8>	(Inline, 3.980-5.180)	<no-speech>	<no-speech>
+<9>	(Outline, 4.190-6.230)	boy ule alifunga ndiyo alifunga .	the boy who scored is the one who scored .
+<10>	(Inline, 5.180-5.650)	<no-speech>	<no-speech>
+<11>	(Inline, 5.650-6.970)	<no-speech>	<no-speech>
+<12>	(Outline, 6.230-10.020)	<no-speech>	<no-speech>
+<13>	(Inline, 6.970-10.680)	ahh kwani we ulikuwa unao- -- ulikuwa unaona game ukiwa umefunga macho ?	ahh were you watching the game -- were you watching the game with your eyes closed ?
+<14>	(Outline, 10.020-12.472)	<sta> we unangojanga kuambiwa tuwe .	you always wait to be told .
+<15>	(Inline, 10.680-12.890)	<no-speech>	<no-speech>
+<16>	(Outline, 12.472-19.350)	ka haujui hata players -- haujui players watano wa Arsenal we unataka uambiwe nini sasa na hauwajui ?	if you don't even know players -- if you don't know five Arsenal players what do you want to be told now and you don't know them ?
+<17>	(Inline, 12.890-14.040)	<laugh> nadhani %incomplete	I think %incomplete
+<18>	(Inline, 14.040-17.700)	<no-speech>	<no-speech>
+<19>	(Inline, 17.700-19.518)	game sasa ilikuwa inaanza late sijui %incomplete	the game was starting late I don't know %incomplete
+<20>	(Outline, 19.350-22.340)	<no-speech>	<no-speech>
+<21>	(Inline, 19.518-22.230)	<no-speech> game ilianza saa sita sijui saa saba ya usiku .	the game started at midnight or was it at one o'clock at night .
+<22>	(Inline, 22.230-25.030)	<no-speech>	<no-speech>
+<23>	(Outline, 22.340-25.740)	ilikuwa saa tano na nusu -- saa tano na %incomplete	it was at half past eleven o'clock -- eleven o'clock and %incomplete
+<24>	(Inline, 25.030-25.970)	tano na nusu ?	five and a half ?
+<25>	(Outline, 25.740-28.490)	ahh saa tano na quarter fifteen .	ahh quarter past eleven o'clock .
+<26>	(Inline, 25.970-29.070)	<no-speech>	<no-speech>
+<27>	(Outline, 28.490-30.820)	<no-speech>	<no-speech>
+<28>	(Inline, 29.070-30.270)	we ulionea wapi ?	where did you watch it from ?
+<29>	(Inline, 30.270-33.320)	<no-speech>	<no-speech>
+<30>	(Outline, 30.820-32.480)	mi nilikuwa naionea huko Ummo .	I was watching it from Ummo .
+<31>	(Outline, 32.480-34.250)	<no-speech>	<no-speech>
+<32>	(Inline, 33.320-33.870)	mmhm .	mmhm .
+<33>	(Inline, 33.870-35.470)	<no-speech>	<no-speech>
+<34>	(Outline, 34.250-34.815)	mmhm .	mmhm .
+<35>	(Outline, 34.815-36.510)	sasa %incomplete	now %incomplete
+<36>	(Inline, 35.470-37.110)	<sta> ulienda mguu ama ulienda na gari ?	did you go on foot or by car ?
+<37>	(Outline, 36.510-37.880)	<no-speech>	<no-speech>
+<38>	(Inline, 37.110-40.150)	<no-speech>	<no-speech>
+<39>	(Outline, 37.880-39.110)	huko nilienda mguu .	I went there by foot .
+<40>	(Outline, 39.110-42.440)	<no-speech>	<no-speech>
+<41>	(Inline, 40.150-42.120)	<sta> ehhe si ulichoka sana si ni mbali ?	mm didn't you get tired isn't it far ?
+<42>	(Inline, 42.120-44.370)	<no-speech>	<no-speech>
+<43>	(Outline, 42.440-50.980)	<sta> ahh hapa tu over- -- over- -- over nilikuwa tu na maroster roster zangu kama nne .	ahh just over here -- over -- over I just had about four cigarettes .
+<44>	(Inline, 44.370-44.900)	mmhm .	mmhm .
+<45>	(Inline, 44.900-46.280)	<no-speech>	<no-speech>
+<46>	(Inline, 46.280-49.050)	<no-speech>	<no-speech>
+<47>	(Inline, 49.050-51.470)	<no-speech>	<no-speech>
+<48>	(Outline, 50.980-51.790)	<no-speech>	<no-speech>
+<49>	(Inline, 51.470-52.160)	<int> ehhe .	mm .
+<50>	(Outline, 51.790-55.640)	nawaacha nikihang -- nawaacha nikihang *nikafika* *mara* hiyo hiyo .	I left them hanging -- I left them hanging *I arrived* *immediately* .
+<51>	(Inline, 52.160-56.730)	<no-speech>	<no-speech>
+<52>	(Outline, 55.640-59.460)	<no-speech>	<no-speech>
+<53>	(Inline, 56.730-59.000)	<sta> Malaji we sa- -- we ni supporter wa Chelsea .	loser so now you're a Chelsea supporter .
+<54>	(Inline, 59.000-60.590)	<no-speech>	<no-speech>
+<55>	(Outline, 59.460-60.050)	ehhe ?	mm ?
+<56>	(Outline, 60.050-63.100)	<no-speech>	<no-speech>
+<57>	(Inline, 60.590-62.480)	we ni supporter wa Chelsea si ndiyo ?	you're a Chelsea supporter aren't you ?
+<58>	(Inline, 62.480-65.220)	<no-speech>	<no-speech>
+<59>	(Outline, 63.100-64.530)	ehhe nini Ketepa ?	mm is it Ketepa ?
+<60>	(Outline, 64.530-67.760)	<no-speech>	<no-speech>
+<61>	(Inline, 65.220-66.990)	we ni supporter wa Chelsea si ndiyo ?	you're a Chelsea supporter aren't you ?
+<62>	(Inline, 66.990-69.400)	<no-speech>	<no-speech>
+<63>	(Outline, 67.760-68.770)	Ketepa ya fifty ?	Ketepa worth fifty ?
+<64>	(Outline, 68.770-72.230)	<no-speech>	<no-speech>
+<65>	(Inline, 69.400-70.932)	we ni supporter wa Chelsea .	you're a Chelsea supporter .
+<66>	(Inline, 70.932-71.630)	<no-speech> si ndiyo ?	aren't you ?
+<67>	(Inline, 71.630-74.490)	<no-speech>	<no-speech>
+<68>	(Outline, 72.230-73.590)	ehhe mi ni *mchezo* .	mm I am *joking* .
+<69>	(Outline, 73.590-75.990)	<no-speech>	<no-speech>
+<70>	(Inline, 74.490-75.870)	ahh kama we ni mChelsea %incomplete	ahh if you belong to Chelsea %incomplete
+<71>	(Inline, 75.870-79.560)	<no-speech>	<no-speech>
+<72>	(Outline, 75.990-78.871)	ehhe na sasa ikipita hizo dakika ashu inakata ama ?	mm and does it disconnect if the ten minutes are over ?
+<73>	(Outline, 78.871-79.540)	<no-speech> inaendaje ?	how does it go ?
+<74>	(Outline, 79.540-79.560)	<no-speech>	<no-speech>

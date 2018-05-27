@@ -1,0 +1,121 @@
+[0.000]
+<sta> hindi T_N_T kundi C_Four daw ang posibleng sanhi ng pagsabog <sta> sa Explosives and Ordinance Division Headquarters ng Philippine Army Support Command kahapon .
+[10.660]
+<sta> ayon po iyan kay dating senador Rodulfo Biazon na minsan ding naging A_F_P chief .
+[16.040]
+<sta> umakyat na sa tatlumpu't dalawa ang bilang ng mga sugatan sa insidente .
+[20.730]
+<sta> giit ng Philippine Army naabisuhan nila ang mga fire volunteer na may mga bala at pampasabog doon noong rumesponde sila sa sunog .
+[29.330]
+<sta> may report si Steve Dailisan .
+[31.363]
+<no-speech>
+[36.140]
+ayon sa punong impormasyong nakalap ng B_F_P Trinitrotoluene o T_N_T ang tinitingnan ng sanhi ng pagsabog sa nasunog na Explosives and Ordinance Division Headquarters ng Army Support Command kahapon .
+[47.490]
+pero sabi ni House Defense Committee chairman Rodulfo Biazon na minsa'y naging A_F_P chief of staff .
+[52.490]
+nabanggit daw sa kaniya ng mga pinuno ng E_O_D na hindi T_N_T ang sumabog .
+[56.600]
+kundi dalawampung pound ng C_Four .
+[58.925]
+if you will notice if <hes> the explosion was that of high explosive high caliber ammunition those <hes> iyan iyang mga pader na iyan mawawala iyan .
+[74.020]
+wala iyan at maraming mamamatay ano sa shrapnels .
+[79.971]
+it seems that <hes> ang lumipad lamang ay hindi shrapnels kung hindi mga bato .
+[85.924]
+mga bato iyong lumipad so that ika that <hes> supports the conclusion that <hes> the explosion was that of C_Four .
+[97.952]
+matibay daw kontra init ang C_Four bombs pero sasabog daw ito kapag tinamaan ng bala .
+[103.170]
+ayon sa isang source ng G_M_A News posibleng nadamay sa sunog ang nasa dalawampu't pitong M_Sixteen at M_Fourteen riffles sa headquarters .
+[110.640]
+may kaakibat na three hundred sixty ounce ng bala ang isang M_Sixteen two hundred ounce naman sa isang M_Fourteen .
+[116.513]
+sa aming pag-iikot sa nawasak na bahagi ng gusali natagpuan namin ang mga balang naapektuhan ng sunog .
+[122.199]
+makikita rin ang ilang basyon ng one o five mm Howitzer na karaniwang ginagamit sa opensiba ng militar .
+[128.450]
+paliwanag ng army ito raw ang supply room kung saan nakaimbak ang mga sinusuring pampasabog .
+[133.420]
+noong nag-explode talaga na portion ng building na nasunog is the supply room which is a two by -- two meters by two meters by two point five meters ang height niya na enclosed na area .
+[146.662]
+<hes> makapal iyong wall niya buhos .
+[149.042]
+halos twelve inches iyong buhos na wall niya .
+[151.190]
+pati iyong ceiling niya is semento .
+[153.150]
+kinumpirma rin ni Philippine Army spokesperson Detoyato na kabilang ang C_Four sa mga ginagamit ng E_O_D na nakaimbak sa naturang gusali .
+[160.440]
+iniimbestigahan daw nila kung sinu-sino ang mananagot na opisyal sa sunog at sa pagsabog .
+[165.068]
+habang ang B_F_P naman inaalam kung posibleng nagmula ang apoy sa reloading station o iyong lugar na pinagkakargahan ng bala o pulbura .
+[173.040]
+may mga black powder doon .
+[175.153]
+iyong tawag -- ang tawag yata ng E_O_D doon is mga disrupters iyon .
+[178.175]
+nag-re-reload siyempre may mga -- mainit na ang -- ang panahon di ba ?
+[181.640]
+so iyon ang possibly -- possible na tinitingnan namin .
+[184.494]
+para makatulong sa imbestigasyon gumamit sila ng three D camera na may kapasidad na ma-reconstruct ang pinangyarihan ng sunog at pagsabog at malalaman kung gaano kalakas ang pagsabog .
+[194.360]
+kinumpleto na rin nila ang iba pang litrato kaugnay ng insidente .
+[198.110]
+dahil na clear na ng <hes> mga taga bomb squad itong pinangyarihan ng sunog at pagsabog kahapon .
+[202.584]
+itong mga arson investigators ng B_F_P ay naririto ngayon para kumolekta noong mga makikita pa nila na mga electrical wires .
+[209.740]
+isasailalim ito sa tinatawag na electrical microanalysis para masuri kung nagkaroon ba ng short circuiting or arching doon sa mga electrical wires na naging dahilan noong sunog lalo pa't medyo may kalumaan na rin itong gusali .
+[220.947]
+kukuha rin sila ng sample noong mga natitira pang mga abo para matukoy kung ano iyong naging dahilan ng apoy .
+[227.780]
+ayon sa Philippine Army umakyat na sa tatlumpu't dalawa ang bilang ng mga nasugatan sa insidente .
+[232.950]
+sa bilang na iyon nasa dalawampu na ang inilabas mula sa mga ospital .
+[236.736]
+pero giit ng B_F_P hindi raw sana aabot sa ganoong numero ang mga sugatan kung maaga silang naabisuhan ng E_O_D tungkol sa mga nakaimbak na bala at pampasabog .
+[245.590]
+dapat noong <hes> parating iyong mga respondeng unit sinabi n'yo na kaagad kung ano iyong nandiyan .
+[252.520]
+dinisclose n'yo na kaagad kung ano na iyon -- na iyong nandiyan .
+[255.301]
+iyon po ang sinabi ko doon para at least on our part alam namin kung anong klaseng firefighting strategy firefighting techniques ang puwede naming i-employ .
+[264.730]
+hindi rin daw agad nakinig ang mga A_F_P firefighter at ilang volunteers sa kanilang abiso na umatras mula sa lugar .
+[270.541]
+mayroong nag-aabiso na lumayo huwag kayong lumapit diyan .
+[273.730]
+kaso kumpiyansa lang din iyong karamihan at ako naman kasi nakikita ko kasi nasa malapit iyong ibang -- karamihan nasa malapit .
+[281.713]
+nakita ko pa iyong may nagtangkang pumasok doon sa -- sa loob ng E_O_D battalion .
+[289.709]
+dahil nangyari ang sunog ngayong tag-init muling ipinaalala rin ng B_F_P ang triangle of fire .
+[294.546]
+ang fuel heat at oxygen na nagiging sanhi ng pagsiklab ng apoy .
+[298.480]
+ano iyong oxygen existing na iyan sa surroundings natin .
+[301.236]
+no ?
+[302.069]
+iyon mm iyong heat naman lalong-lalo na ngayon ay nararamdaman nating mm napakainit .
+[306.690]
+and then iyong fuel ito iyong puwedeng posibleng magliyab posibleng mag- -- mag-apoy ano po ba ito ?
+[312.685]
+papel tela dried leaves etcetera .
+[316.768]
+sa mga bahay o anumang gusali importante rin daw na may sapat na ventilation .
+[321.070]
+para hindi makulong ang init sa loob .
+[323.098]
+suriin din ng mabuti ang ilang bagay gaya ng mga linya ng kuryente ang mga appliances at ang mga tangke ng L_P_G .
+[329.570]
+<hes> itong mga kompanya at <hes> paulit-ulit na reminders ng Bureau of Fire magiging successful po iyan kung ang ating mga kababayan ay tutulungan tayo .
+[338.045]
+meaning to say sila mismo maging fire safety conscious .
+[341.193]
+Steve Dailisan ~ %incomplete
+[342.902]

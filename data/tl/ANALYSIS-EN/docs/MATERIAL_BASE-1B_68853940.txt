@@ -1,0 +1,17 @@
+<1>	(0.000-7.620)	<sta> sa ibang balita nakitaan ng sintomas ng matinding depresyon ang ilan sa mga biktima ng bagyong Sendong sa Cagayan De Oro at Iligan .	on the other news some of the victims of typhoon Sendong in Cagayan de Oro and Iligan are manifested with symptoms of severe depression .
+<2>	(7.620-11.870)	<sta> kaya nais ng madaliin ang pamamahagi ng gamot para sa mga biktima .	so it is desired to hurry the distribution of medicines for the victims .
+<3>	(11.870-14.274)	<sta> 'yan ang umagang balita ni Trini Velasco .	that is the morning news of Trini Velasco .
+<4>	(14.274-16.114)	<no-speech>	<no-speech>
+<5>	(16.114-18.910)	palaging wala sa sarili ang ina ni Neneng .	Neneng's mother is always absent-minded .
+<6>	(18.910-20.964)	matapos ang bagyong Sendong .	after the typhoon Sendong .
+<7>	(20.964-27.520)	araw-araw siyang umaalis ng evacuation center para hanapin ang tatlong anak na inagos ng baha .	she leaves the evacuation center everyday to search for her three children who were carried off by the flood .
+<8>	(27.520-29.206)	hindi rin siya kumakain .	she is not also eating .
+<9>	(29.206-32.420)	kung hindi ko pilitin hindi siya kakain .	if I will not force her she does not eat .
+<10>	(32.420-34.380)	siyempre nag-aalala na kami .	of course we are worried .
+<11>	(34.380-40.630)	ilan na ang naitala ng City Health Office ng Iligan na evacuees na may matinding depresyon .	the City Health Office of Iligan have recorded few evacuees with severe depression .
+<12>	(40.630-47.755)	ayon sa mga eksperto maaaring mauwi ito sa nervous breakdown o pagkasira ng ulo kung hindi maaagapan .	according to the experts this can lead to nervous breakdown or mental disorder if not treated promptly .
+<13>	(47.755-59.540)	kabilang sa sintomas ng matinding depresyon ang pagiging tulala hindi pagsasalita hirap sa pagtulog kawalan ng ganang kumain at pagpapahiwatig na gustong magpakamatay .	staring off in space not talking difficulty in sleeping lack of appetite and manifestations of wanting to commit suicide are included in the symptoms of severe depression .
+<14>	(59.540-68.860)	giit ng mga psychiatrist kailangan ng pondo ng lokal na pamahalaan para pambili ng gamot para sa mga evacuees na nakararanas ng depresyon .	the psychiatrists insist that the local government needs to have funds to purchase the medicines for the evacuees who are experiencing depression .
+<15>	(68.860-77.360)	we have no medications to use as of this time for the indigent patients pero with this situation na <no-speech> lahat na sila affected 'no .	we have no medications to use as of this time for the indigent patients but with this situation that they are all affected right .
+<16>	(77.360-85.180)	noong Biyernes lang isa evacuee na ang nagpakamatay sa evacuation center sa Cagayan De Oro city dahil sa matinding depresyon .	just last Friday one evacuee committed suicide in the evacuation center in Cagayan de Oro City due to severe depression .
+<17>	(85.180-93.738)	puspusan din ang pagsasanay ng mga gurong inatasang magbibigay ng stress debriefing para sa mga estudyanteng biktima ng bagyong Sendong .	the training is thorough for the teachers who are mandated to give stress debriefing to the students who are victims of typhoon Sendong .

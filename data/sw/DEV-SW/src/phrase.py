@@ -68,7 +68,9 @@ from nltk import PorterStemmer
 stemmer = PorterStemmer()
 with open(params.dico_train) as f:
     for line in f:
-        word, trans = line.rstrip().split(' ')
+        word = line.rstrip().split(' ')[0]
+        trans = ' '.join(line.rstrip().split(' ')[1:])
+        print(word)
         word = stemmer.stem(word)
         if(word in dictionary):
             if len(dictionary[word]) > int(params.rank):
@@ -117,7 +119,7 @@ with open(params.query) as f:
             
             for a in all_phrase_combinations:
                 if len(a):
-                    z.append("#1("+" ".join(a)+")")
+                    z.append("#uw10("+" ".join(a)+")")
             
             if z:
                 w.append(z)

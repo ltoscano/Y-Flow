@@ -1,0 +1,7 @@
+<1>	(0.000-2.910)	babala sa mga nagyoyosi .	warning for smokers .
+<2>	(2.910-10.065)	<sta> yosi boy <sta> sampung Pilipino namamatay kada oras dahil po sa paninigarilyo ayon sa D_O_H .	cigarette boy ten Filipinos are dying every hour because of smoking according to the D_O_H .
+<3>	(10.065-11.670)	<sta> hindi naman sila nananakot ?	aren't they threatening ?
+<4>	(11.670-13.707)	<sta> <overlap> every hour .	every hour .
+<5>	(13.707-17.010)	two hundred forty (()) a day .	two hundred forty (()) a day .
+<6>	(17.010-28.950)	<sta> naalala mo nilalagyan na nila ng mga pampanakot sa <overlap> pero walang talab eh <overlap> smoking <sta> kills <overlap> di baleng mamatay basta masarap .	do you remember they are putting threats on but no effect because smoking kills won't mind dying it's delicious .
+<7>	(28.950-32.983)	<sta> <overlap> masarap ang pagkamatay nila 'wag lang kayong mandamay 'yon lang 'yon .	their death is delicious just do not affect others that's only it .

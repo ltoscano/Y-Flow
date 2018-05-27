@@ -1,0 +1,97 @@
+<1>	(Inline, 0.000-0.545)	ehhe .	mm .
+<2>	(Outline, 0.000-1.080)	<no-speech>	<no-speech>
+<3>	(Inline, 0.545-5.580)	<no-speech>	<no-speech>
+<4>	(Outline, 1.080-11.390)	<laugh> jamaa ali- -- jamaa aliha- -- jamaa alihama -- alihama Kileleshwa anasikia ali- -- alinunua nyumba karibu na %incomplete	the guy -- the guy -- the guy moved -- he moved to Kileleshwa I hear he bought a house near to %incomplete
+<5>	(Inline, 5.580-16.470)	<no-speech>	<no-speech>
+<6>	(Outline, 11.390-12.410)	<no-speech>	<no-speech>
+<7>	(Outline, 12.410-15.030)	unajua Galleria ?	you know Galleria ?
+<8>	(Outline, 15.030-16.070)	<no-speech>	<no-speech>
+<9>	(Outline, 16.070-16.980)	huko Bomas .	there at Bomas .
+<10>	(Inline, 16.470-16.949)	kalia- %incomplete	sit on -- %incomplete
+<11>	(Inline, 16.949-22.350)	ohh naijua huko karibu na <breath> barabara ya kwenda nini Karen .	ohh I know there near the road that goes to what Karen .
+<12>	(Outline, 16.980-18.195)	<no-speech>	<no-speech>
+<13>	(Outline, 18.195-18.710)	yeah .	yeah .
+<14>	(Outline, 18.710-21.730)	<no-speech>	<no-speech>
+<15>	(Outline, 21.730-24.030)	ehhe ali- -- ehhe alinunua nyumba huko .	mm -- he bought a house there .
+<16>	(Inline, 22.350-25.550)	<no-speech>	<no-speech>
+<17>	(Outline, 24.030-26.290)	<no-speech>	<no-speech>
+<18>	(Inline, 25.550-25.869)	ehhe .	mm .
+<19>	(Inline, 25.869-27.320)	<no-speech> amekuwa tajiri sasa .	he has become very rich .
+<20>	(Outline, 26.290-31.260)	ehhe <no-speech> huyo jamaa anaingiza kuingiza nasi tunaendelea kufilisika .	mm that guy he's getting money and we continue to be impoverished .
+<21>	(Inline, 27.320-33.960)	<no-speech>	<no-speech>
+<22>	(Outline, 31.260-35.900)	<no-speech>	<no-speech>
+<23>	(Inline, 33.960-35.690)	hao ndiyo wale walibarikiwa bwana .	those ones are they who were blessed mister .
+<24>	(Inline, 35.690-42.350)	<no-speech>	<no-speech>
+<25>	(Outline, 35.900-40.370)	si twende ukatafute kazi huko nasikia madereva wote walie- -- walitoroka .	why don't we go you look for a job there I hear all drivers -- they left .
+<26>	(Outline, 40.370-41.260)	<no-speech>	<no-speech>
+<27>	(Outline, 41.260-43.590)	hata yule Kikuyu <no-speech> alienda .	even that Kikuyu he went .
+<28>	(Inline, 42.350-42.890)	ehhe .	mm .
+<29>	(Inline, 42.890-45.140)	<no-speech>	<no-speech>
+<30>	(Outline, 43.590-45.360)	<no-speech>	<no-speech>
+<31>	(Inline, 45.140-45.730)	ehhe .	mm .
+<32>	(Outline, 45.360-47.920)	halafu -- halafu ile pick-up ilisanywa ulisikia ?	and then -- and then that pickup was stolen did you hear ?
+<33>	(Inline, 45.730-49.520)	<no-speech>	<no-speech>
+<34>	(Outline, 47.920-50.300)	<no-speech>	<no-speech>
+<35>	(Inline, 49.520-50.050)	ati ?	pardon ?
+<36>	(Inline, 50.050-53.580)	<no-speech>	<no-speech>
+<37>	(Outline, 50.300-52.070)	ile pick-up ilisanywa .	that pickup was stolen .
+<38>	(Outline, 52.070-54.940)	<no-speech>	<no-speech>
+<39>	(Inline, 53.580-54.086)	ala .	what .
+<40>	(Inline, 54.086-54.840)	<no-speech> iliibiwa ?	it was stolen ?
+<41>	(Inline, 54.840-58.720)	<no-speech>	<no-speech>
+<42>	(Outline, 54.940-56.950)	iliibiwa <no-speech> huko Kasarani .	it was stolen there in Kasaran .
+<43>	(Outline, 56.950-58.880)	<no-speech>	<no-speech>
+<44>	(Inline, 58.720-59.320)	ala .	oh .
+<45>	(Outline, 58.880-64.480)	huyu -- huyu jamaa -- huyu jamaa alienda nayo usiku kuamka asubuhi akapata haiko kwa mlango .	this -- this guy -- this guy went with it the following morning he found it missing at the door .
+<46>	(Inline, 59.320-66.120)	<no-speech>	<no-speech>
+<47>	(Outline, 64.480-66.050)	<no-speech>	<no-speech>
+<48>	(Outline, 66.050-68.550)	hata haijama- -- hata haijamaliza siku hiyo .	even -- even it didn't end that day .
+<49>	(Inline, 66.120-67.430)	haiya haiya .	okay okay .
+<50>	(Inline, 67.430-70.230)	<no-speech>	<no-speech>
+<51>	(Outline, 68.550-71.040)	<no-speech>	<no-speech>
+<52>	(Inline, 70.230-70.800)	ehhe .	mm .
+<53>	(Inline, 70.800-71.680)	<no-speech>	<no-speech>
+<54>	(Outline, 71.040-71.610)	ehhe .	mm .
+<55>	(Outline, 71.610-77.340)	<no-speech>	<no-speech>
+<56>	(Inline, 71.680-77.200)	sasa akanunua ingine na -- na ile- -- ile gari kubwa alikuwa nayo pia inaendelea kufanya kazi ?	now he bought another one and -- and that one -- that vehicle that he had also is continuing to work ?
+<57>	(Inline, 77.200-82.150)	<no-speech>	<no-speech>
+<58>	(Outline, 77.340-80.090)	yeah ubaya wako tu na hiyo pack .	yeah your only badness with that pack .
+<59>	(Outline, 80.090-84.870)	<no-speech>	<no-speech>
+<60>	(Inline, 82.150-82.900)	na ni kazi %incomplete	and is work %incomplete
+<61>	(Inline, 82.900-84.270)	inaendanga wapi na wapi ?	it usually goes where and where ?
+<62>	(Inline, 84.270-87.670)	<no-speech>	<no-speech>
+<63>	(Outline, 84.870-86.020)	Rwanda %incomplete	Rwanda %incomplete
+<64>	(Outline, 86.020-87.180)	<no-speech>	<no-speech>
+<65>	(Outline, 87.180-89.009)	Zambia pahali popote .	Zambia everywhere .
+<66>	(Inline, 87.670-88.200)	ehhe .	mm .
+<67>	(Inline, 88.200-97.260)	<no-speech>	<no-speech>
+<68>	(Outline, 89.009-96.260)	inafanya hizi <hes> -- hizi kazi za kupeleka mizigo mbali mbali kwa nchi zi- -- ng- -- geni .	it is doing these -- these jobs of taking various goods to foreign countries .
+<69>	(Outline, 96.260-98.480)	<no-speech>	<no-speech>
+<70>	(Inline, 97.260-97.870)	ehhe .	mm .
+<71>	(Inline, 97.870-99.390)	<no-speech>	<no-speech>
+<72>	(Outline, 98.480-99.160)	ama %incomplete	or %incomplete
+<73>	(Outline, 99.160-106.310)	<no-speech>	<no-speech>
+<74>	(Inline, 99.390-106.144)	na sasa si <breath> nasi mi ungeni -- ungenijaribia nione kama hiyo kazi -- hiyo kazi sio mbaya .	and now and me you could have tried for me I see if that work -- that work isn't bad .
+<75>	(Inline, 106.144-108.260)	kuna pesa ya <int> D_J hapo .	there is D_J money there .
+<76>	(Outline, 106.310-108.690)	<breath> (()) <no-speech> .	(()) .
+<77>	(Inline, 108.260-111.040)	<no-speech>	<no-speech>
+<78>	(Outline, 108.690-109.676)	malipo duni .	poor pay .
+<79>	(Outline, 109.676-115.880)	<no-speech> wajua -- wajua -- wajua <hes> -- wajua hizi ma- -- ma- -- nini mapesa za kurushwa %incomplete	you know -- you know -- you know -- you know these -- these stolen money %incomplete
+<80>	(Inline, 111.040-111.530)	ehhe .	mm .
+<81>	(Inline, 111.530-117.080)	<no-speech>	<no-speech>
+<82>	(Outline, 115.880-117.750)	<no-speech>	<no-speech>
+<83>	(Inline, 117.080-117.700)	ehhe .	mm .
+<84>	(Inline, 117.700-125.200)	<no-speech>	<no-speech>
+<85>	(Outline, 117.750-120.375)	lazima ufanye kazi ili upate pesa halali .	you must work to get legitimate money .
+<86>	(Outline, 120.375-122.342)	hizo pesa za kurushwa rushwa hazisaidii .	those stolen stolen monies don't help .
+<87>	(Outline, 122.342-125.190)	usipofanya nayo biashara hazisaidii .	if you don't do business with them they don't help .
+<88>	(Outline, 125.190-126.020)	<no-speech>	<no-speech>
+<89>	(Inline, 125.200-125.780)	ehhe .	mm .
+<90>	(Inline, 125.780-127.970)	<no-speech>	<no-speech>
+<91>	(Outline, 126.020-127.030)	ehhe <no-speech> <sta> .	mm .
+<92>	(Outline, 127.030-136.210)	<no-speech>	<no-speech>
+<93>	(Inline, 127.970-135.560)	hata kama si- -- si una- -- unafanya ukiweka -- ukiweka mahali -- unafanya ukiweka mahali unajua itafika tu .	even if -- don't you -- you work as you save -- saving somewhere -- you work as you save in a place you know it will just reach .
+<94>	(Inline, 135.560-136.720)	<no-speech>	<no-speech>
+<95>	(Outline, 136.210-136.720)	ehhe .	mm .
+<96>	(Inline, 136.720-138.190)	halafu unawachana nayo .	and then you leave them .
+<97>	(Outline, 136.720-138.190)	<no-speech>	<no-speech>

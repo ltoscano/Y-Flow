@@ -1,0 +1,51 @@
+0.000	outLine	<no-speech>
+0.000	inLine	anong division ba nilalaro mo ?
+1.385	outLine	ha ?
+1.540	inLine	<no-speech>
+1.865	outLine	<no-speech>
+2.875	outLine	si Bridget lalo .
+3.805	outLine	<no-speech>
+5.010	inLine	anong division ba nilalaro mo ?
+6.535	outLine	i-dyip .
+6.690	inLine	<no-speech>
+7.115	outLine	<no-speech>
+9.225	outLine	sa liga ?
+9.640	inLine	akin ano midget na .
+9.771	outLine	<no-speech>
+10.593	outLine	ha ?
+10.985	outLine	<no-speech>
+12.070	inLine	<no-speech>
+12.325	outLine	<no-speech>
+12.875	outLine	<no-speech>
+13.230	inLine	mhm .
+13.665	inLine	oo sa liga .
+13.725	outLine	Egypt .
+14.266	outLine	ha ?
+15.030	inLine	<no-speech>
+15.445	outLine	<no-speech>
+17.690	inLine	ah midget ka na rin ?
+18.675	outLine	o ?
+18.870	inLine	<no-speech>
+19.235	outLine	<no-speech>
+20.680	inLine	sarap <hes> 'no 'pag maraming nanonood .
+22.650	inLine	<no-speech>
+22.655	outLine	ayon lalo na <no-speech> siyempre 'yong mga magulang mo proud sa 'yo .
+26.478	outLine	proud sa 'yo mga friend mo .
+28.655	outLine	<no-speech>
+29.350	inLine	naman o .
+30.310	inLine	<no-speech>
+30.735	outLine	ang habol ko lang doon <sta> talaga .
+31.480	inLine	ako din <hes> pagka naglalaro ako tapos .
+32.575	outLine	<no-speech>
+34.440	inLine	<no-speech>
+35.350	inLine	oo .
+35.845	outLine	(()) .
+36.060	inLine	<no-speech>
+37.680	inLine	pagka nga ano minsan pagka nagkakapikunan pa <hes> .
+38.255	outLine	<no-speech>
+40.625	outLine	ako ?
+40.790	inLine	<no-speech>
+41.281	outLine	kasi ang mga pinsan ko naaarbor mga kaibigan ko .
+44.476	outLine	ikaw ?
+45.265	outLine	<no-speech>
+46.995

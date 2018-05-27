@@ -1,0 +1,46 @@
+<1>	(Inline, 0.000-0.130)	<no-speech>	<no-speech>
+<2>	(Outline, 0.000-1.920)	<no-speech>	<no-speech>
+<3>	(Inline, 0.130-1.510)	babu ni mi .	I am the grandfather .
+<4>	(Inline, 1.510-3.850)	<no-speech>	<no-speech>
+<5>	(Outline, 1.920-3.364)	<sta> yeah habari yako ?	yeah how are you ?
+<6>	(Outline, 3.364-4.380)	<no-speech>	<no-speech>
+<7>	(Inline, 3.850-5.320)	mzuri sana .	very fine .
+<8>	(Outline, 4.380-5.530)	<no-speech>	<no-speech>
+<9>	(Inline, 5.320-7.280)	<no-speech>	<no-speech>
+<10>	(Outline, 5.530-6.094)	mmhm .	mmhm .
+<11>	(Outline, 6.094-6.850)	<int> hujambo ?	how do you do ?
+<12>	(Outline, 6.850-8.220)	<no-speech>	<no-speech>
+<13>	(Inline, 7.280-10.990)	<int> nilikuwa nakuuliza ile line yangu ya kazi %incomplete	I asked you that I have my line of work %incomplete
+<14>	(Outline, 8.220-8.590)	pale .	there .
+<15>	(Outline, 8.590-11.330)	<no-speech>	<no-speech>
+<16>	(Inline, 10.990-12.280)	<no-speech>	<no-speech>
+<17>	(Outline, 11.330-12.400)	mmhm <int> .	mmhm .
+<18>	(Inline, 12.280-13.747)	imeendelea aje ?	how has it gone ?
+<19>	(Outline, 12.400-14.390)	<no-speech>	<no-speech>
+<20>	(Inline, 13.747-14.940)	<no-speech>	<no-speech>
+<21>	(Outline, 14.390-14.691)	<sta> ehhe .	mm .
+<22>	(Outline, 14.691-26.240)	nina kazi bado tunajaribu kui- -- kuifanyia kwa undani tuone kama tunaweza kukuchukua au namna gani kwa %incomplete	I still have work and we are trying -- act upon it in detail to see if we can take you or how to %incomplete
+<23>	(Inline, 14.940-18.660)	<no-speech>	<no-speech>
+<24>	(Inline, 18.660-19.550)	<no-speech>	<no-speech>
+<25>	(Inline, 19.550-30.195)	<no-speech>	<no-speech>
+<26>	(Outline, 26.240-28.630)	<sta> sababu <breath> bado tuna ule %incomplete	because we still have that %incomplete
+<27>	(Outline, 28.630-29.590)	<no-speech>	<no-speech>
+<28>	(Outline, 29.590-40.330)	ugumu wa huu mwezi wa Januari mwezi wa kwanza kwa hivyo kuna ugumu kidogo lakini tunajaribu tu kama tutaweza kukupatia nafasi ya kazi .	difficulty of this January the first month so there is a little difficult but we are trying if we can just offer you a chance to work .
+<29>	(Inline, 30.195-40.840)	<no-speech>	<no-speech>
+<30>	(Outline, 40.330-52.240)	<sta> <lipsmack> lakini bado kidogo kuna ugumu kwa sababu ya wateja na mambo ya hapa na pale lakini tunajaribu kama tunaweza kupatia nafasi hiyo ikiwa itawezekana kwa %incomplete	but there is still a bit of difficulty because of customers with things here and there but we are trying if we can to give you that opportunity if it would be possible to %incomplete
+<31>	(Inline, 40.840-42.000)	<sta> ehhe .	mm .
+<32>	(Inline, 42.000-45.800)	<no-speech>	<no-speech>
+<33>	(Inline, 45.800-46.510)	mmhm .	mmhm .
+<34>	(Inline, 46.510-51.060)	<no-speech>	<no-speech>
+<35>	(Inline, 51.060-51.770)	mmhm .	mmhm .
+<36>	(Inline, 51.770-62.070)	<no-speech>	<no-speech>
+<37>	(Outline, 52.240-54.284)	kwa uwezo wake Mwenyezi Mungu .	by the power of Allah .
+<38>	(Outline, 54.284-54.950)	kwa sababu %incomplete	because %incomplete
+<39>	(Outline, 54.950-55.870)	<no-speech>	<no-speech>
+<40>	(Outline, 55.870-58.711)	<sta> hatuna uwezo si lakini Mwenyezi Mungu ndiyo ana -- ana uwezo .	we are not able is it not God that has -- has the power .
+<41>	(Outline, 58.711-66.450)	kwa hivyo tunajaribu juu chini tu vile inawezekana tuone -- (()) tuone kama tunaweza kukupatia hiyo nafasi <int> .	so we trying everything possible just to see -- (()) to see if we can give you that opportunity .
+<42>	(Inline, 62.070-62.800)	mmhm .	mmhm .
+<43>	(Inline, 62.800-67.110)	<no-speech>	<no-speech>
+<44>	(Outline, 66.450-69.050)	ndiyo tunatarajia kukupatia .	that's what we expect to give you .
+<45>	(Inline, 67.110-67.800)	mmhm .	mmhm .
+<46>	(Inline, 67.800-69.050)	<no-speech>	<no-speech>

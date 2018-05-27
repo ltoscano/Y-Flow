@@ -1,0 +1,54 @@
+<1>	(Inline, 0.000-0.940)	<no-speech>	<no-speech>
+<2>	(Outline, 0.000-2.970)	<no-speech>	<no-speech>
+<3>	(Inline, 0.940-2.750)	hao ni akina nani wanaongea hapo mambo mingi ?	who are the likes of those talking there many things ?
+<4>	(Inline, 2.750-7.940)	<no-speech>	<no-speech>
+<5>	(Outline, 2.970-3.499)	nani ?	who ?
+<6>	(Outline, 3.499-3.779)	<no-speech>	<no-speech>
+<7>	(Outline, 3.779-4.982)	hao ni watu tu wa mtaani .	those are just people from the neighborhood .
+<8>	(Outline, 4.982-6.649)	hao ni watu mahustler .	those are people who hustle .
+<9>	(Outline, 6.649-7.650)	<no-speech>	<no-speech>
+<10>	(Outline, 7.650-8.580)	watu wa mtaani .	people from the neighborhood .
+<11>	(Inline, 7.940-10.430)	ohh umetulia tu mtaani ?	ohh you're just relaxing in the neighborhood ?
+<12>	(Outline, 8.580-10.540)	<no-speech>	<no-speech>
+<13>	(Inline, 10.430-11.420)	<no-speech>	<no-speech>
+<14>	(Outline, 10.540-11.132)	ehhe .	mm .
+<15>	(Outline, 11.132-12.560)	wako tu mtaani maidlers .	they are just in the neighborhood idlers .
+<16>	(Inline, 11.420-12.030)	<int> Nairobi .	Nairobi .
+<17>	(Inline, 12.030-14.470)	<no-speech>	<no-speech>
+<18>	(Outline, 12.560-14.390)	<no-speech>	<no-speech>
+<19>	(Outline, 14.390-14.750)	ehhe .	mm .
+<20>	(Inline, 14.470-17.107)	ohh sasa nilikuwa nataka kukwambia aje ?	ohh now I wanted to tell you like how ?
+<21>	(Outline, 14.750-16.770)	<no-speech>	<no-speech>
+<22>	(Outline, 16.770-17.277)	halo .	hello .
+<23>	(Inline, 17.107-19.980)	<int> halo unanisikiza ?	hello do you hear me ?
+<24>	(Outline, 17.277-19.227)	<no-speech>	<no-speech>
+<25>	(Outline, 19.227-19.649)	halo .	hello .
+<26>	(Outline, 19.649-20.220)	<no-speech>	<no-speech>
+<27>	(Inline, 19.980-22.030)	<no-speech>	<no-speech>
+<28>	(Outline, 20.220-21.770)	nakusikia .	I hear you .
+<29>	(Outline, 21.770-23.390)	<no-speech>	<no-speech>
+<30>	(Inline, 22.030-23.600)	nilikuwa nataka kukwambia aje ?	I wanted to tell you like how ?
+<31>	(Outline, 23.390-24.000)	ehhe .	mm .
+<32>	(Inline, 23.600-24.920)	<no-speech>	<no-speech>
+<33>	(Outline, 24.000-28.280)	<no-speech>	<no-speech>
+<34>	(Inline, 24.920-27.680)	sasa game ya -- ya -- ya Man_U unaionea wapi ?	now the game of -- of -- of Man_U where are you watching it ?
+<35>	(Inline, 27.680-33.690)	<no-speech>	<no-speech>
+<36>	(Outline, 28.280-32.600)	game ya man mi nitaonea Kissmenti <no-speech> hapa tu Eastlands .	the game of man I'll see it at Kissmenti just here Eastlands .
+<37>	(Outline, 32.600-36.090)	<no-speech>	<no-speech>
+<38>	(Inline, 33.690-36.080)	ohh utaionea ati wapi Eastlands ?	ohh you'll see it hah where Eastlands ?
+<39>	(Inline, 36.080-38.970)	<no-speech>	<no-speech>
+<40>	(Outline, 36.090-37.820)	Eastlands hapa Kissmenti .	Eastlands here Kissmenti .
+<41>	(Outline, 37.820-40.310)	<no-speech>	<no-speech>
+<42>	(Inline, 38.970-39.900)	huko ndiyo wapi ?	where is that ?
+<43>	(Inline, 39.900-42.990)	<no-speech>	<no-speech>
+<44>	(Outline, 40.310-41.720)	hapa ni Uhuru Estate .	this is Uhuru Estate .
+<45>	(Outline, 41.720-44.180)	<no-speech>	<no-speech>
+<46>	(Inline, 42.990-44.340)	hapo ni Uhuru Estate ?	that is Uhuru Estate ?
+<47>	(Outline, 44.180-44.559)	ehhe .	mm .
+<48>	(Inline, 44.340-46.300)	<no-speech>	<no-speech>
+<49>	(Outline, 44.559-45.080)	Uhuru Estate .	Uhuru Estate .
+<50>	(Outline, 45.080-49.080)	<no-speech>	<no-speech>
+<51>	(Inline, 46.300-49.020)	ohh na naongea na we ukiwa Uhuru Estate ama uko wapi ?	ohh and I am talking with you when you're in Uhuru Estate or where are you ?
+<52>	(Inline, 49.020-53.010)	<no-speech>	<no-speech>
+<53>	(Outline, 49.080-51.810)	mi unaongea nami nikiwa Shauri .	me you're talking to me while I am in Shauri .
+<54>	(Outline, 51.810-53.010)	<no-speech>	<no-speech>

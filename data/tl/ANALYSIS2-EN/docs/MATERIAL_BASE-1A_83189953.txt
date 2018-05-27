@@ -1,0 +1,51 @@
+<1>	(Inline, 0.000-0.475)	<no-speech>	<no-speech>
+<2>	(Outline, 0.000-3.971)	ehhe ile yenye nilikuwa nakwambia ya ehhe ya fifty Bob .	mm the one I was telling you of mm of fifty bob .
+<3>	(Inline, 0.475-2.845)	<no-speech>	<no-speech>
+<4>	(Inline, 2.845-4.205)	<no-speech>	<no-speech>
+<5>	(Outline, 3.971-6.150)	saa hii ni sixty five Bob .	so this is of sixty five bob .
+<6>	(Inline, 4.205-9.005)	na <no-speech> saa <no-speech> -- saa unadai sixty five Bob hata si eighty Bob ?	and so -- so you want sixty five bob not even eighty bob ?
+<7>	(Outline, 6.150-10.450)	<no-speech>	<no-speech>
+<8>	(Inline, 9.005-11.285)	<no-speech>	<no-speech>
+<9>	(Outline, 10.450-10.960)	ehhe ?	mm ?
+<10>	(Outline, 10.960-13.090)	<no-speech>	<no-speech>
+<11>	(Inline, 11.285-13.303)	ni sixty five hata so si hata eighty ?	it's sixty five bob even so it's not even eighty ?
+<12>	(Outline, 13.090-16.340)	uhuh ni sixty five Bob si nilikuwa tu nakudanganya (()) %incomplete	no it's sixty five bob I was just lying to you (()) %incomplete
+<13>	(Inline, 13.303-14.525)	<no-speech>	<no-speech>
+<14>	(Inline, 14.525-17.395)	<no-speech>	<no-speech>
+<15>	(Outline, 16.340-17.850)	<no-speech>	<no-speech>
+<16>	(Inline, 17.395-17.864)	nilikuwa %incomplete	I was %incomplete
+<17>	(Outline, 17.850-18.410)	ehhe ?	mm ?
+<18>	(Inline, 17.864-19.705)	<no-speech> hii darling ya hapa nyuma ?	the darling behind here ?
+<19>	(Outline, 18.410-24.410)	<no-speech>	<no-speech>
+<20>	(Inline, 19.705-24.865)	<no-speech>	<no-speech>
+<21>	(Outline, 24.410-25.330)	ehhe .	mm .
+<22>	(Inline, 24.865-25.235)	<no-speech>	<no-speech>
+<23>	(Inline, 25.235-26.405)	<no-speech>	<no-speech>
+<24>	(Outline, 25.330-31.450)	<no-speech>	<no-speech>
+<25>	(Inline, 26.405-30.815)	ohh <no-speech> sawa wacha nione kama nitabomoa next week .	ohh alright let me see if I'll remove it next week .
+<26>	(Inline, 30.815-32.665)	<no-speech>	<no-speech>
+<27>	(Outline, 31.450-32.413)	unataka ku- %incomplete	you want to -- %incomplete
+<28>	(Outline, 32.413-33.090)	un- %incomplete	-- %incomplete
+<29>	(Inline, 32.665-35.875)	<no-speech>	<no-speech>
+<30>	(Outline, 33.090-34.880)	<no-speech>	<no-speech>
+<31>	(Outline, 34.880-36.455)	ohh sawasawa .	ohh alright .
+<32>	(Inline, 35.875-38.775)	<no-speech>	<no-speech>
+<33>	(Outline, 36.455-47.270)	iko <no-speech> -- iko <no-speech> -- iko kwa <no-speech> -- iko kwa mama Shiro kama unataka na ni sixty five Bob na ziko type mbili kuna ya Angel kuna ya darling ya Angel ndiyo mzuri .	-- it's at Shiro's mother if you want and it's sixty five bob and there are two types there is of angel there is of Darling the Angel one is good .
+<34>	(Inline, 38.775-40.365)	<no-speech>	<no-speech>
+<35>	(Inline, 40.365-43.175)	<no-speech>	<no-speech>
+<36>	(Inline, 43.175-43.535)	<no-speech>	<no-speech>
+<37>	(Inline, 43.535-44.885)	<no-speech>	<no-speech>
+<38>	(Inline, 44.885-45.500)	ka gani ?	like which one ?
+<39>	(Inline, 45.500-46.825)	<no-speech>	<no-speech>
+<40>	(Inline, 46.825-48.085)	<no-speech>	<no-speech>
+<41>	(Outline, 47.270-50.830)	<no-speech>	<no-speech>
+<42>	(Inline, 48.085-49.115)	gani ndiyo poa ?	which one is good ?
+<43>	(Inline, 49.115-51.875)	<no-speech>	<no-speech>
+<44>	(Outline, 50.830-54.450)	ni hiyo yenye ulikuwa nayo hiyo <no-speech> -- hiyo -- hiyo ni <no-speech> Angel .	it's this one which you had this one -- this one -- this one is Angel .
+<45>	(Inline, 51.875-55.925)	<no-speech>	<no-speech>
+<46>	(Outline, 54.450-62.830)	<no-speech>	<no-speech>
+<47>	(Inline, 55.925-66.025)	<no-speech>	<no-speech>
+<48>	(Outline, 62.830-71.210)	<no-speech>	<no-speech>
+<49>	(Inline, 66.025-66.703)	poa .	fine .
+<50>	(Inline, 66.703-68.115)	<no-speech>	<no-speech>
+<51>	(Inline, 68.115-71.210)	<no-speech>	<no-speech>

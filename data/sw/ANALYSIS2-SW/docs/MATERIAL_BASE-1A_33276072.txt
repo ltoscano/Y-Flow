@@ -1,0 +1,50 @@
+0.000	outLine	si mi na huyo bibi wa aunty yangu .
+0.000	inLine	<no-speech>
+2.520	outLine	<no-speech>
+3.740	inLine	ohh pekee yake ?
+4.850	inLine	<no-speech>
+5.230	outLine	<int> mmhm .
+6.640	outLine	<no-speech>
+6.830	inLine	hakuna watu wengi- -- wengine kwani ?
+8.750	inLine	<no-speech>
+9.040	outLine	ehhe ehhe .
+9.670	outLine	<no-speech>
+11.850	inLine	mmhm basi haki niambie nije tena basi itakuwa doh <no-speech> kuogofya tu .
+16.160	inLine	<no-speech>
+17.270	outLine	<laugh> sasa unaogopa nini ?
+18.920	inLine	<lipsmack> jamaa akatokea hapa na bunduki -- jamaa akatokea hapa na bunduki halafu -- maG_S_U watokee hapa na bunduki halafu ndiyo ushaanza kuambiwa ohh .
+19.660	outLine	<no-speech>
+20.892	outLine	ati ?
+21.340	outLine	<no-speech>
+22.170	outLine	<no-speech>
+23.240	outLine	<no-speech>
+26.849	inLine	mmhm ?
+27.620	inLine	<no-speech>
+28.490	outLine	kwa nini ?
+29.410	outLine	<no-speech>
+30.610	outLine	hawezi .
+31.420	inLine	(()) mmhm ?
+31.600	outLine	<no-speech>
+33.300	inLine	<no-speech>
+33.540	outLine	hawezi .
+34.510	outLine	<no-speech>
+36.010	outLine	<no-speech>
+36.270	inLine	niambie lakini .
+36.370	outLine	<no-speech>
+37.060	inLine	<no-speech>
+37.540	outLine	poa .
+40.210	inLine	naweza kuja -- tunaweza kuja na Ongeri lakini niko naye hapa hapa .
+40.220	outLine	<no-speech>
+43.109	inLine	by the way nitaweza -- tutapitia na Ongeri .
+44.760	inLine	<no-speech>
+45.150	outLine	<no-speech>
+48.466	outLine	we muoga kweli ?
+49.910	outLine	<no-speech>
+51.670	outLine	<no-speech>
+51.700	inLine	haya sasa Ongeri kama amefika sasa hapo mara hiyo hiyo .
+54.910	inLine	<no-speech>
+55.110	outLine	<sta> ehhe .
+55.822	outLine	<laugh> haya sawa hebu mpatie niongee na ye .
+56.860	inLine	<sta> ehhe .
+57.260	inLine	<no-speech>
+61.420

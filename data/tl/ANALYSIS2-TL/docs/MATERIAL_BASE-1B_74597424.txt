@@ -1,0 +1,27 @@
+[0.000]
+<sta> nasa kalagitnaan ng aerial maneuver ang apat na eroplano ng Philippine Air Force para sa ikapitumpung anibersaryo ng liberation ng Nasugbu Batangas <sta> nang mangyari ang makatindig balahibong eksenang ito .
+[10.270]
+bumulusok sa dagat ang S_F_Two six zero trainer jet mag-aalas dyes kaninang umaga .
+[15.440]
+<sta> tatlong daang metro ang layo nito mula sa dalampasigan ng barangay Bukana .
+[19.001]
+sa bangka ni mang Wiliam na isa sa mga bangkerong sumaklolo <sta> isinakay ang isa sa dalawang piloto na nag-crash na eroplano .
+[25.615]
+(()) 'yun siya nakuha niya eh 'yung pangalawang ganiyan niya %incomplete
+[28.320]
+<sta> ah so parang pumoporma nag-ma-maneuver ?
+[30.025]
+porma (()) hindi na niya nakuha nagdiretso na .
+[32.511]
+talagang wala na patay na talaga .
+[34.840]
+dead on the spot ang dalawang piloto na hindi pa muna pinapangalanan dahil hindi pa nasasabihan ang kanilang mga mahal sa buhay .
+[40.680]
+ayon sa Philippine Air Force umalis mula sa Fernando Air Base sa Lipa City ang tatlong aircraft na bahagi ng three aircraft formation training mission .
+[48.680]
+agad nag-dispatch ang Armed Forces ng divers sa crash site para kumuha ng mga ebidensiya at documentation sa bumagsak na eroplano .
+[55.990]
+sa ngayon nananatili sa ilalim ng dagat ang sinawing-palad na trainer jet .
+[60.300]
+agad daw sisimulan ng Philippine Air Force ang kanilang imbestigasyon para malaman ang sanhi ng naganap na aksidente .
+[66.669]

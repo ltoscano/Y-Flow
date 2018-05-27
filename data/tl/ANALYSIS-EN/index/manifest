@@ -3,6 +3,7 @@
 	<indexes>
 		<index>0</index>
 	</indexes>
+	<injectURL>true</injectURL>
 	<normalize>true</normalize>
 </parameters>
 

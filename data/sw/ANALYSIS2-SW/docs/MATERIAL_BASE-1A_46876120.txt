@@ -1,0 +1,69 @@
+[0.000]
+<no-speech>
+[2.382]
+na kipato cha wanawake wanaoishi maeneo ya vijijini wilayani Subawanga na Kalambo mkoani Rukwa kimekua kikiongezeka katika siku za hivi karibuni baada ya wanawake hao kugundua na kuanza kuwa -- kuuza bidhaa muhimu aina ya Chikanda ambayo ni nyama ya asi kwa wenyeji wa mkoa huu .
+[19.190]
+<breath> nyama hiyo inayo patikana kwa kuchimbwa ardhini kutokana na mizizi ya mimea moja ambao hutoa mizizi ya aina yake na imeonekana kuteka soko <int> kwa wanawake hao .
+[28.180]
+wamebaini kuwa inawapa faida zaidi ya mara ishirini ya zao la mahindi .
+[32.859]
+Sami Juma Kisika kutoka Rukwa na aina hiyo ya nyama .
+[37.080]
+<no-speech>
+[39.004]
+ukikiona kwa macho utadhani kuwa ni kitu kisicho faa kuliwa <int> lakini amini kuwa Chikanda ndiyo mboga pekee ambayo inapendwa kuliko chochote <int> na wenyeji wa mkoa wa Rukwa .
+[49.380]
+ambao wako radhi hata kukuwachia nyama ya ng'ombe au samaki yamkini hata kitoweo kingine chochote lakini apate Chikanda na hata ukihitaji -- ukihitaji mke pasipo kula nyama hii ya kienyeji basi utakuwa hutoshelezi kwa kuitwa mkwe .
+[63.680]
+<no-speech>
+[64.696]
+taabu kubwa ya Chikanda ni kupatikana kwake ambako itakulazimu kupandisha vilima na mabonde ili uweze kupata -- kuenda kupata mizizi ambayo huchimbwa na kuenda kupondwa ikiwa ni hatua ya awali ya maandalizi ya nyama hiyo tamu kwa wenyeji wa mkoa wa Rukwa kama anavyo elezea bi Devota Salamba mkaazi wa kijiji cha Mikongoko ambaye ni muuzaji mkubwa wa bidhaa hii .
+[85.360]
+<sta> ukiitwanga unatengeneza -- unachukua magadi na ya -- na kaandika yana chui -- unachuja .
+[92.689]
+ukiyachuja magadi <sta> juu namna hii .
+[96.067]
+natenga motoni ukitenga motoni nachanganya <sta> Chikanda na karanga .
+[101.001]
+<no-speech>
+[102.141]
+ukichanganya karanga na Chikanda <sta> ndipo namna hii .
+[106.611]
+unaanza kukoroga unakoroga unakoroga inachemka .
+[110.059]
+ikichemka ndipo inaganda .
+[112.908]
+ikiganda <no-speech> namna hii unaweka sinia juu .
+[117.087]
+unaweka na moto <sta> unaweka na moto inakuwa na -- na hii imetengenea %incomplete
+[122.170]
+<int> nilipata muuliza Jane pamoja na upatikanaji wa maandalizi magumu ya Chikanda hakuna faida gani inayo patikana <breath> katika kuuza nyama hii ya kienyeji ?
+[131.345]
+<no-speech>
+[131.740]
+<sta> mi ni Nzuri wa Chikanda .
+[134.116]
+nikinunua debe natarajia elfu themanini au elfu sabini na kidogo .
+[140.140]
+na sasa tusikie utamu wake ukoje ?
+[143.250]
+na namna wateja wanavyo kipenda Chikanda .
+[145.739]
+<sta> utamu wa Chikanda hauelezeki labda ule uone mwenyewe maana utamu wake <sta> -- ukweli Chikanda ni tamu sana .
+[152.655]
+<no-speech>
+[153.930]
+Chikanda utamu wake <sta> ukiweka karanga ukila ndiyo inakuwa mtamu .
+[158.307]
+kula na ugali .
+[159.946]
+Alishon Kibona ni afisa mgani wa kata ya Matai wilayani Kalambo pamoja na kukiri kuwa bado hafahamu aina ya mizizi inayo tengeneza Chikanda lakini atakiri faida kubwa wanayopata wauzaji wake .
+[172.230]
+<sta> sado ya mahindi tunanunua mia nane lakini sado ya Chikanda wananunua <sta> elfu saba <no-speech> mpaka elfu kumi .
+[178.729]
+hii ni mboga ambayo ni nyama ya kabila maarufu sana na (()) katika mkoa wa Rukwa .
+[183.260]
+<sta> inayo patikana <no-speech> ambayo bei yake tunajua kwamba ni zaidi -- mara ishirini zaidi ya debe moja la mahindi ambacho kikiuzwa na wamama wengi sana katika mkoa wa Rukwa .
+[192.260]
+<no-speech>
+[194.357]

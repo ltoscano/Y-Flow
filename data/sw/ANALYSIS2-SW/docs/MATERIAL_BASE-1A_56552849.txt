@@ -1,0 +1,98 @@
+0.000	inLine	ehhe .
+0.000	outLine	<no-speech>
+0.545	inLine	<no-speech>
+1.080	outLine	<laugh> jamaa ali- -- jamaa aliha- -- jamaa alihama -- alihama Kileleshwa anasikia ali- -- alinunua nyumba karibu na %incomplete
+5.580	inLine	<no-speech>
+11.390	outLine	<no-speech>
+12.410	outLine	unajua Galleria ?
+15.030	outLine	<no-speech>
+16.070	outLine	huko Bomas .
+16.470	inLine	kalia- %incomplete
+16.949	inLine	ohh naijua huko karibu na <breath> barabara ya kwenda nini Karen .
+16.980	outLine	<no-speech>
+18.195	outLine	yeah .
+18.710	outLine	<no-speech>
+21.730	outLine	ehhe ali- -- ehhe alinunua nyumba huko .
+22.350	inLine	<no-speech>
+24.030	outLine	<no-speech>
+25.550	inLine	ehhe .
+25.869	inLine	<no-speech> amekuwa tajiri sasa .
+26.290	outLine	ehhe <no-speech> huyo jamaa anaingiza kuingiza nasi tunaendelea kufilisika .
+27.320	inLine	<no-speech>
+31.260	outLine	<no-speech>
+33.960	inLine	hao ndiyo wale walibarikiwa bwana .
+35.690	inLine	<no-speech>
+35.900	outLine	si twende ukatafute kazi huko nasikia madereva wote walie- -- walitoroka .
+40.370	outLine	<no-speech>
+41.260	outLine	hata yule Kikuyu <no-speech> alienda .
+42.350	inLine	ehhe .
+42.890	inLine	<no-speech>
+43.590	outLine	<no-speech>
+45.140	inLine	ehhe .
+45.360	outLine	halafu -- halafu ile pick-up ilisanywa ulisikia ?
+45.730	inLine	<no-speech>
+47.920	outLine	<no-speech>
+49.520	inLine	ati ?
+50.050	inLine	<no-speech>
+50.300	outLine	ile pick-up ilisanywa .
+52.070	outLine	<no-speech>
+53.580	inLine	ala .
+54.086	inLine	<no-speech> iliibiwa ?
+54.840	inLine	<no-speech>
+54.940	outLine	iliibiwa <no-speech> huko Kasarani .
+56.950	outLine	<no-speech>
+58.720	inLine	ala .
+58.880	outLine	huyu -- huyu jamaa -- huyu jamaa alienda nayo usiku kuamka asubuhi akapata haiko kwa mlango .
+59.320	inLine	<no-speech>
+64.480	outLine	<no-speech>
+66.050	outLine	hata haijama- -- hata haijamaliza siku hiyo .
+66.120	inLine	haiya haiya .
+67.430	inLine	<no-speech>
+68.550	outLine	<no-speech>
+70.230	inLine	ehhe .
+70.800	inLine	<no-speech>
+71.040	outLine	ehhe .
+71.610	outLine	<no-speech>
+71.680	inLine	sasa akanunua ingine na -- na ile- -- ile gari kubwa alikuwa nayo pia inaendelea kufanya kazi ?
+77.200	inLine	<no-speech>
+77.340	outLine	yeah ubaya wako tu na hiyo pack .
+80.090	outLine	<no-speech>
+82.150	inLine	na ni kazi %incomplete
+82.900	inLine	inaendanga wapi na wapi ?
+84.270	inLine	<no-speech>
+84.870	outLine	Rwanda %incomplete
+86.020	outLine	<no-speech>
+87.180	outLine	Zambia pahali popote .
+87.670	inLine	ehhe .
+88.200	inLine	<no-speech>
+89.009	outLine	inafanya hizi <hes> -- hizi kazi za kupeleka mizigo mbali mbali kwa nchi zi- -- ng- -- geni .
+96.260	outLine	<no-speech>
+97.260	inLine	ehhe .
+97.870	inLine	<no-speech>
+98.480	outLine	ama %incomplete
+99.160	outLine	<no-speech>
+99.390	inLine	na sasa si <breath> nasi mi ungeni -- ungenijaribia nione kama hiyo kazi -- hiyo kazi sio mbaya .
+106.144	inLine	kuna pesa ya <int> D_J hapo .
+106.310	outLine	<breath> (()) <no-speech> .
+108.260	inLine	<no-speech>
+108.690	outLine	malipo duni .
+109.676	outLine	<no-speech> wajua -- wajua -- wajua <hes> -- wajua hizi ma- -- ma- -- nini mapesa za kurushwa %incomplete
+111.040	inLine	ehhe .
+111.530	inLine	<no-speech>
+115.880	outLine	<no-speech>
+117.080	inLine	ehhe .
+117.700	inLine	<no-speech>
+117.750	outLine	lazima ufanye kazi ili upate pesa halali .
+120.375	outLine	hizo pesa za kurushwa rushwa hazisaidii .
+122.342	outLine	usipofanya nayo biashara hazisaidii .
+125.190	outLine	<no-speech>
+125.200	inLine	ehhe .
+125.780	inLine	<no-speech>
+126.020	outLine	ehhe <no-speech> <sta> .
+127.030	outLine	<no-speech>
+127.970	inLine	hata kama si- -- si una- -- unafanya ukiweka -- ukiweka mahali -- unafanya ukiweka mahali unajua itafika tu .
+135.560	inLine	<no-speech>
+136.210	outLine	ehhe .
+136.720	inLine	halafu unawachana nayo .
+136.720	outLine	<no-speech>
+138.190

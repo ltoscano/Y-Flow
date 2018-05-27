@@ -1,0 +1,99 @@
+[0.000]
+<sta> au tumeviona sasa Mada inaendelea .
+[1.892]
+ile kuwacha tu ndiyo hawezi kuwacha .
+[5.370]
+<sta> kuwacha hawezi kuwacha lakini atapunguza idadi ya chupa anazozitumia kutokana na pesa na wingi wa -- wa pesa wa <sta> wa chupa zinavyouzwa .
+[16.689]
+najua kuna vilabu vile vya jirani vile kwa style hii vitakufa (()) ?
+[21.050]
+<sta> zile -- zile bar za mtaani kwa style hii zitakwisha ?
+[23.592]
+zile za <sta> kwa mzee Moshi pembeni kwa nani huko sijui (()) -- grocery .
+[27.394]
+ni grocery .
+[28.851]
+<overlap> haya hivyo hivyo (()) <sta> itapungua .
+[33.778]
+<no-speech>
+[36.000]
+<sta> (()) unakataa ?
+[36.846]
+mimi naona ziendelee kuwepo kwa sababu <sta> zinasaidia watu wanaoishi katika maeneo haya .
+[41.672]
+kwa mfano kwa nini nitoke Tegeta niende kutafuta pombe <sta> ndani mjini au Mwenge ?
+[47.408]
+wakati hapo jirani Tegeta naweza kupata mtu jirani .
+[50.238]
+<overlap> sasa bei imepanda huyo mzee Moshi atashindwa kuchukua mzigo .
+[53.920]
+<sta> au nyie mtamwezesha kwa sababu mtaenda ?
+[55.868]
+ataenda kufuata na yeye si anacheki nani consumption rate zake ataangalia .
+[60.442]
+ataenda kufuata na jinsi anavyoona hela .
+[62.390]
+<sta> matumizi yake yanavyokwenda unywaji unavyokwenda .
+[64.890]
+atafanya mahesabu .
+[66.090]
+<sta> ongezeko la pesa katika bia <no-speech> sio mbaya sana wakiongeza kwa sababu <sta> hivi ni vitu vya luxury sio muhimu sana .
+[78.260]
+<no-speech>
+[79.818]
+<sta> ni kitu cha kufanya maamuzi wewe mwenyewe kusema kwamba bwana kama <sta> ongezeko limekuwa juu bora kuwacha .
+[87.826]
+kwa mfano mimi natoa mfano mimi .
+[90.240]
+<sta> mimi nilikuwa navuta sana sigara zamani lakini tangu mwaka wa elfu moja mia tisa tisini na sita <sta> walipandisha pakiti mpaka shilingi mia tatu ndiyo mwa- -- ndiyo mwaka na siku nilioacha <sta> sigara .
+[104.819]
+ulisema no ?
+[105.496]
+<sta> eh nami mi nilikuwa kawaida nanunua bunda la pakiti kumi .
+[110.197]
+<sta> duh <sta> eh heh .
+[112.166]
+ninakaa nyumbani asubuhi natoa pakiti moja nakwenda navuta <sta> narudi imeisha .
+[118.689]
+<no-speech>
+[119.835]
+eh inakuwa imeisha .
+[121.420]
+<sta> sasa mimi nilikuwa nimenunua lile pakiti la Benson and Hedges .
+[126.177]
+linaisha ?
+[126.939]
+eh heh <sta> na pakiti moja nimepunguza stick moja .
+[130.880]
+<sta> tumefika mwisho wa Mada ya pili na mwisho wa kipindi cha Minibus .
+[133.604]
+mimi kama (()) napinga vita sana pombe <hes> kwa sababu nadhani <sta> na naelewa kwa nini jamii zote katika dunia zimekuwa na pombe sasa mimi naku- -- namsaidia ku- <sta> disconnect na shida zake naelewa kabisa .
+[145.617]
+eh kuna njia .
+[146.977]
+lakini kuna njia nyingi zingine ambazo sisi wengine tunatumia medication <sta> mazoezi kupumzika kuburudika kubadilisha mawazo ambayo inaweza kukusaidia kuondoka .
+[154.253]
+lakini kwa watumiaji wanakwambia tutapambana nayo .
+[156.580]
+<sta> bei ikipanda tutapanda .
+[158.280]
+unakumbuka bia miaka ya nyuma tu sio zamani sana ilikuwa bei ya elfu moja mia tano .
+[161.870]
+<sta> sasa hivi elfu mbili na sasa hivi itakuwa elfu mbili na kitu .
+[164.159]
+<int> mimi ninachosema ni kwamba kwa wale wanywaji pombe na ukiangalia sasa hivi <sta> ushuru umepanda wa pombe .
+[172.999]
+<breath> jitahidi basi .
+[174.340]
+<sta> punguza kwa sababu kama baba alivyosema hapa unavyozidi ku- -- na bei imepanda unavyozidi kutumia kwa sababu wewe unataka tatu <sta> basi iwe tatu tatu kuna kitu utamnyima mtoto nyumbani .
+[183.984]
+kuna kitu utamnyima mama nyumbani .
+[186.409]
+kwa hivyo punguza kama ilikuwa ni tatu <sta> kunywa kwa mbili kwa bei ile ya tatu uliyokunywa ili bajeti yao ibaki pale pale usiwanyofolee usiwaibie .
+[195.240]
+<sta> leo haki yao ukaweka kwenye -- <overlap> au fanya la zaidi .
+[198.594]
+if you want to enjoy the luxury piga kazi zaidi komaa <breath> ongeza overtime ili upate ile hela ya ku- <sta> <overlap> -- uwe na surplus .
+[205.360]
+tumefika mwisho wa -- wa ma- %incomplete
+[207.083]

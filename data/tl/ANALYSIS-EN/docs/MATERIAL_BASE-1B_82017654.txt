@@ -1,0 +1,25 @@
+<1>	(0.000-1.031)	<no-speech>	<no-speech>
+<2>	(1.031-9.320)	<sta> Kapamilya nagkaengkuwentro ang militar at ang Bangsamoro Islamic <sta> Freedom Fighter o B_I_F_F sa bayan ng Datu Unsay sa Maguindanao .	my family the military and the Bangsamoro Islamic Freedom Fighter or B_I_F_F have encountered in the town of Datu Unsay in Maguindanao .
+<3>	(9.320-16.260)	<sta> matapos 'tong harangin ng mga elemento ng B_I_F_F ang ilang motorista sa bahagi ng Maguindanao Highway kaninang umaga .	after this was blocked by the elements of B_I_F_F some of the motorists in one portion of the Maguindanao Highway a little while ago this morning .
+<4>	(16.260-19.489)	<sta> bunsod nito daan-daang motorista ang na-stranded .	because of this hundreds of motorists were stranded .
+<5>	(19.489-25.265)	lumikas din pati ang mga residente sa takot na maikit o maipit sa putukan .	residents also evacuated due to the fear of being wedged in or wedged in the shootout .
+<6>	(25.265-26.178)	narito ang report .	here is the report .
+<7>	(26.178-31.220)	<no-speech>	<no-speech>
+<8>	(31.220-37.810)	<sta> kanya-kanyang hila ng kalabaw at baka ang mga nagsilikas na residente dito sa Baranggay Maitumaig sa Datu Unsay .	the residents who evacuated pulled water buffalos and cows on their own here at Barangay Maitumaig in Datu Unsay .
+<9>	(37.810-48.080)	natakot sila ng may mga armadong pinaghihinalaang B_I_F_F ang nakapasok sa kanilang barangay kaya dito sila sa gilid ng municipal hall ng Datu Saudi-Ampatuan pansamantalang nakisilong .	they got scared when there were armed suspected B_I_F_F who entered their barrio so they are here beside the municipal hall of Datu Saudi-Ampatuan temporarily staying for shelter .
+<10>	(48.080-51.514)	pagdating namin ng bahay gano'n na may magdaan ng mag-evacuate .	when we got home it was already like that there were evacuees passing by .
+<11>	(51.514-60.270)	umalis na kami kay sa sobrang takot kay mahirap na kung maipit na -- maipit tayo sa digmaan ba .	we already left because of too much fear it will be difficult if we get caught -- get caught in the war .
+<12>	(60.270-62.890)	<no-speech>	<no-speech>
+<13>	(62.890-67.140)	umalingawngaw ang sunod-sunod na putok mula sa tangkeng pandigma ng militar .	the successive gunfire from war tanks of the military echoed .
+<14>	(67.140-68.862)	hindi agad <int> pinapasok ang media .	the media were not immediately allowed to enter .
+<15>	(68.862-75.361)	<int> nagsasagawa umano ng clearing operations ang tropa ng gobyerno <sta> laban sa mga armadong Bangsamoro Islamic Freedom Fighters o B_I_F_F .	the government troop conducted clearing operations against the armed Bangsamoro Islamic Freedom Fighters or B_I_F_F .
+<16>	(75.361-81.048)	<int> hinarang umano ng B_I_F_F ang ilang sasakyan at naglagay pa ng stockpile sa kalsada .	B_I_F_F allegedly blocked some vehicles and also placed stockpile on the road .
+<17>	(81.048-85.190)	ayon sa ilang motorista pinaalis rin umano sila agad ng mga armadong kalalakihan .	according to some motorists they were immediately sent away by armed men .
+<18>	(85.190-87.620)	palaging nakatutok ng forty five sa ulo ko .	the forty five was always pointed to my head .
+<19>	(87.620-90.620)	'yon lang sinasabi nila kung ano daw ako sino ako .	that's all they are saying what I am who I am .
+<20>	(90.620-93.526)	kung pulis ba ako or sundalo ba ako o ano .	whether I am a policeman or a soldier or what .
+<21>	(93.526-96.431)	kaya nga parang -- ang mukha ko parang papel na eh .	that is why -- well my face is already like paper .
+<22>	(96.431-99.620)	<sta> nakita rin ni S_P_O four Tangunutan ang ginawang panghaharang .	S_P_O four Tangunutan also saw the blockage created .
+<23>	(99.620-106.840)	<sta> kami sanang u- -- unang sasakyan na mag- -- ma- -- magdaan kaya lang 'yong overtake nag- -- may nag-overtake sa amin ng pick-up .	we were supposed to be the -- first vehicle to -- pass but the overtake -- there was a pick-up which overtook us .
+<24>	(106.840-109.619)	<sta> (()) o 'yon na -- 'yon na nga tsambahan (()) pick-up .	(()) or that's it -- that is really a game of luck (()) pick-up .
+<25>	(109.619-113.617)	sunod-sunod naman ang paggalaw ng mga <int> tangke mula sa detachment patungo sa ground .	meanwhile the movement of tanks were continuous from the detachment towards the ground .

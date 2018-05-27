@@ -1,0 +1,33 @@
+<1>	(0.000-1.783)	<no-speech>	<no-speech>
+<2>	(1.783-3.599)	<sta> good morning Pilipinas .	good morning Philippines .
+<3>	(3.599-7.800)	ang topic natin ngayon ay napapanahon dahil summer na .	our topic for today is timely because it is summer already .
+<4>	(7.800-12.370)	<sta> ang pag-uusapan natin ay tungkol sa bulutong o tinatawag nating chicken pox .	what we'll discuss is about chickenpox or what we call chickenpox .
+<5>	(12.370-16.870)	<sta> napapansin natin na 'pag nagkaro'n tayo nito nagkakaroon tayo ng mga rashes .	we notice that when we have this we get rashes .
+<6>	(16.870-22.180)	<sta> hindi siya contagious pero nag-cau-cause siya ng mga b- -- blister like rashes .	it is not contagious but it causes -- blister like rashes .
+<7>	(22.180-29.653)	<sta> kadalasan nag-start 'yung mga rashes sa trunk at 'tsaka sa face <sta> tapos eventually kakalat sa ibang parte ng katawan natin .	the rashes usually start on the trunk and on the face then eventually spread to other parts of our body .
+<8>	(29.653-37.276)	<sta> hindi 'yon life threatening kaso lang kadalasang tumatagal ng mga two weeks <sta> bago siya completely mag-resolve .	it is not life-threatening but it usually lasts for two weeks before it resolves completely .
+<9>	(37.276-42.120)	<sta> sa simula magkakaro'n tayo ng lagnat minsan nagkakaroon ng chills .	initially we would have a fever sometimes we get the chills .
+<10>	(42.120-47.039)	<sta> nagkakaro'n minsan din ng mga muscle aches at 'tsaka nawawalan din tayo ng appetite .	sometimes there would also be muscle aches and we also lose our appetite .
+<11>	(47.039-55.450)	<sta> actually ang kailangan lang natin is <sta> kalahating kutsarita ng baking soda tapos i-mix natin 'yon sa eight ounces of water .	actually what we just need is half a teaspoon of baking soda then we would mix that with eight ounces of water .
+<12>	(55.450-64.108)	<sta> and then i-apply natin use -- using <hes> wash cloth or sponge <sta> sa katawan natin as necessary <hes> sa buong maghapon .	and then we would apply it use -- using a wash cloth or sponge on our body as necessary throughout the day .
+<13>	(64.108-66.530)	so puwedeng ilang beses tayo mag-apply .	so we can apply several times .
+<14>	(66.530-72.890)	<sta> or puwede rin naman na ipaligo natin with warm water 'yung kalahating teaspoon ng baking soda .	or we can also bathe with warm water with half a teaspoon of baking soda .
+<15>	(72.890-77.830)	<sta> makakatulong din ang paggamit ng honey dahil mayroon itong antiviral properties .	using honey can also help because it has antiviral properties .
+<16>	(77.830-84.650)	<sta> with honey nababawasan ang redness at 'tsaka 'yung pain at 'tsaka 'yung itchiness na nadudulot ng mga rashes .	with honey the redness and pain and itchiness caused by the rashes are reduced .
+<17>	(84.650-91.040)	<sta> <hes> all we have to do is apply lang natin 'yung honey <sta> sa katawan natin for about thirty minutes .	all we have to do is apply honey on our body for about thirty minutes .
+<18>	(91.040-95.231)	<sta> ang gamitin po natin dito ay 'yung mga raw at 'tsaka unfiltered or unprocessed honey .	what we should use here is raw and unfiltered or unprocessed honey .
+<19>	(95.231-105.100)	<sta> kasi kadalasan kapag process na 'yung honey <hes> <sta> nababawasan na usually kasi gumagamit ng mga heat <hes> and then nababawasan na 'yung mga nutrients .	because usually once honey has been processed it gets reduced since it uses heat and then the nutrients are lessened .
+<20>	(105.100-108.580)	<sta> maaari din tayong gumamit ng aloe Vera extract .	we can also use aloe vera extract .
+<21>	(108.580-113.520)	<sta> actually ang aloe Vera is may anti-inflammatory 'tsaka may antiviral property din .	actually aloe vera has anti-inflammatory and antiviral properties too .
+<22>	(113.520-119.220)	<sta> <hes> kuha lang tayo ng fresh na aloe Vera and then puwede natin 'yon ilagay sa <sta> <hes> sa rashes .	let's just get some fresh aloe vera then we can already put those on on the rashes .
+<23>	(119.220-123.189)	and then let it dry muna and then eventually <hes> puwede na natin siyang hugasan .	and then let it dry first then eventually we can already rinse it .
+<24>	(123.189-128.133)	<sta> at gano'n din makakatulong din na <sta> mag-boost ng immune system natin ang vitamin C .	likewise vitamin C can also help boost our immune system .
+<25>	(128.133-133.010)	<sta> at makikita natin ito sa mga citrus fruits at gano'n din sa mga juice .	and we can also find this in citrus fruits as well as juices .
+<26>	(133.010-140.331)	<sta> so kung may chicken pox tayo ugaliin din natin na magkaroon ng balance diet na mayroon do'n na mga <sta> juices 'no .	so if we have chickenpox let's make it a habit to have a balanced diet which includes these juices .
+<27>	(140.331-143.534)	and then of course inom tayo ng maraming liquids .	and then of course let's drink a lot of liquids .
+<28>	(143.534-152.440)	<sta> <hes> huwag kalimutang magkaroon ng enough rest <sta> at siyempre kailangan nating <hes> laging maligo .	don't forget to have enough rest and of course we also need to always bathe .
+<29>	(152.440-156.770)	<sta> tandaan po natin na ang chicken pox pupuwede tayong -- puwedeng bumalik .	let's remember that chicken pox we can -- can come back .
+<30>	(156.770-162.550)	<sta> hindi necessary na kapag nagkaroon tayo no'ng bata pa tayo eh hindi na siya babalik .	it does not necessarily mean that if we got it when we were children it won't come back anymore .
+<31>	(162.550-166.770)	<sta> kadalasan kapag bumalik 'yon ang tawag na do'n is shingles .	usually if it comes back it's already called shingles .
+<32>	(166.770-179.171)	<sta> kung mayroon po kayong mga ibang katanungan tungkol sa chicken pox bisitahin n'yo lang po kami sa clinic natin sa Dermaesthetique na matatagpuan sa Bocobo <sta> Makati Malate Quezon City Ortigas Parañaque at Global City .	if you have other questions about chickenpox just visit us at our clinic at Dermaesthetique which can be found in Bocobo Makati Malate Quezon City Ortigas Parañaque and Global City .
+<33>	(179.171-181.130)	<sta> at ito po ulit so Doktora (()) .	and here again so Doctor (()) .

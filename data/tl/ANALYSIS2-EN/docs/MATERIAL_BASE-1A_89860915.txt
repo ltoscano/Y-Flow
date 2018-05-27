@@ -1,0 +1,46 @@
+<1>	(Outline, 0.000-1.140)	hamna mazuri ?	nothing good ?
+<2>	(Inline, 0.000-1.180)	<no-speech>	<no-speech>
+<3>	(Outline, 1.140-5.080)	<no-speech>	<no-speech>
+<4>	(Inline, 1.180-1.772)	ehhe .	mm .
+<5>	(Inline, 1.772-3.883)	we endelea kuongea niambie story zingine .	you continue talking tell me more stories .
+<6>	(Inline, 3.883-5.090)	<no-speech>	<no-speech>
+<7>	(Outline, 5.080-8.380)	<laugh> sawa basi sina shughuli niko tu .	okay then I do not have any activity I'm just there .
+<8>	(Inline, 5.090-6.280)	<no-speech>	<no-speech>
+<9>	(Inline, 6.280-6.660)	ehhe ?	mm ?
+<10>	(Inline, 6.660-8.813)	<no-speech>	<no-speech>
+<11>	(Outline, 8.380-10.180)	<no-speech>	<no-speech>
+<12>	(Inline, 8.813-9.585)	ehhe .	mm .
+<13>	(Inline, 9.585-10.310)	na job ?	and job ?
+<14>	(Outline, 10.180-11.184)	ehhe sasa ni %incomplete	mm now is %incomplete
+<15>	(Inline, 10.310-11.900)	<no-speech>	<no-speech>
+<16>	(Outline, 11.184-11.760)	ehhe ?	mm ?
+<17>	(Outline, 11.760-14.020)	<no-speech>	<no-speech>
+<18>	(Inline, 11.900-12.660)	na job ?	and job ?
+<19>	(Inline, 12.660-17.260)	<no-speech>	<no-speech>
+<20>	(Outline, 14.020-24.300)	<sta> job saa hizi nimetoka tu shambani nilikuwa napalilia nyasi <no-speech> sa ndiyo nimeji- -- nimejiwekelea mahali si unaelewa kazi yangu <laugh> ?	the job just now when I came from the garden to weed grass so just now I am taking a nap you understand my job ?
+<21>	(Inline, 17.260-17.678)	ehhe .	mm .
+<22>	(Inline, 17.678-20.960)	<no-speech>	<no-speech>
+<23>	(Inline, 20.960-22.560)	<no-speech>	<no-speech>
+<24>	(Inline, 22.560-23.082)	ehhe .	mm .
+<25>	(Inline, 23.082-24.354)	<no-speech>	<no-speech>
+<26>	(Outline, 24.300-26.900)	sa nimejiwekelea tu mahali hivi (()) .	now I am just taking a nap at a place (()) .
+<27>	(Inline, 24.354-24.980)	i- -- imagine %incomplete	imagine %incomplete
+<28>	(Inline, 24.980-26.930)	<no-speech>	<no-speech>
+<29>	(Outline, 26.900-31.040)	<no-speech>	<no-speech>
+<30>	(Inline, 26.930-31.309)	jana tumekuwa na nani -- tumekuwa na <laugh> mtu wako .	yesterday we were with who -- we were with your partner .
+<31>	(Outline, 31.040-33.980)	Dinah Dinah <int> ?	Dinah Dinah ?
+<32>	(Inline, 31.309-33.415)	<laugh> <breath> ehhe .	mm .
+<33>	(Inline, 33.415-35.078)	tumekuwa na mtu wako mpaka late .	we were with your partner till late .
+<34>	(Outline, 33.980-36.220)	<no-speech>	<no-speech>
+<35>	(Inline, 35.078-37.600)	<laugh> karibu saa nne na nusu usiku .	around half past ten o'clock at night .
+<36>	(Outline, 36.220-40.300)	ehhe heh ehhe kumbe ulikuwa ushaamua <laugh> ?	mm mm mm so you had already decided ?
+<37>	(Inline, 37.600-39.420)	<no-speech>	<no-speech>
+<38>	(Inline, 39.420-40.290)	<int> ehhe ?	mm ?
+<39>	(Inline, 40.290-41.790)	<no-speech>	<no-speech>
+<40>	(Outline, 40.300-41.230)	<no-speech>	<no-speech>
+<41>	(Outline, 41.230-44.900)	kumbe ulikuwa ushaamua na sikuwa najua <laugh> ?	so you had already decided and I did not know ?
+<42>	(Inline, 41.790-43.400)	<no-speech>	<no-speech>
+<43>	(Inline, 43.400-44.415)	ahh .	ahh .
+<44>	(Inline, 44.415-48.440)	si- -- si ati ni hivo alikuwa amekuja training ingine hapa hivi Nairobi .	its not even like that she had come for a certain training here in Nairobi .
+<45>	(Outline, 44.900-49.270)	<no-speech>	<no-speech>
+<46>	(Inline, 48.440-49.270)	<no-speech>	<no-speech>

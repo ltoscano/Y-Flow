@@ -1,0 +1,27 @@
+[0.000]
+<sta> patok na patok ngayon ang milk tea bilang pamatid uhaw .
+[3.400]
+<sta> hanggang Iloilo city umabot na rin ang craze na ito at walang nag-akala na ang pag-inom nito maaaring ikapahamak .
+[10.790]
+<sta> dalawampu't anim na customer ng isang restaurant ang nalason umano dahil sa pag-inom nila ng milk tea .
+[16.533]
+<sta> isa sa mga customer patay .
+[18.830]
+<sta> matapos uminom ng milk tea nakaranas umano ang mga customer ng pananakit ng tiyan pagsusuka at pagdudumi .
+[25.890]
+<sta> ayon sa city health office mga senyales ito ng food poisoning .
+[29.875]
+'yung diarrhea (()) <sta> ang o mga ang (()) denominator nila na (()) <sta> nanggaling umano ang dalawampu't anim na biktima sa iisang restaurant at parehong uminom ng milk tea .
+[47.200]
+<sta> kidney shut down due to severe dehydration naman ang ikinamatay ng isa sa mga biktima .
+[52.520]
+<sta> together with the Department of Health (()) sa establishment nagkuha kami ng sample <sta> and <hes> ineksamen <foreign> ng mga Department of Health (()) administration <sta> <foreign> <sta> Department of Health <foreign> laboratory <foreign> <sta> temporary disclosure <foreign> .
+[82.995]
+<sta> humingi naman ng tawad ang Dakasi restaurant sa mga biktima .
+[86.500]
+<sta> sa inilabas nilang statement sinabi nilang hindi pa naman siguradong dahil sa kanilang produkto nalason ang biktima .
+[93.300]
+<sta> magbibigay na lamang daw sila ng iba pang- -- pahayag kapag lumabas na resulta sa imbestigasyon ng D_O_H at city health office .
+[100.940]
+<sta> sa ngayon patuloy na nagpapagaling sa hospital ang dalawampu't limang biktima .
+[105.438]

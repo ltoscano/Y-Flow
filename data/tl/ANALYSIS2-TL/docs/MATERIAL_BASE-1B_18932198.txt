@@ -1,0 +1,170 @@
+0.000	inLine	'asaan ka ba ?
+0.000	outLine	<no-speech>
+0.670	inLine	oo .
+0.720	outLine	pauwi ka na ?
+1.710	outLine	<no-speech>
+2.100	inLine	<no-speech>
+3.402	inLine	papasok ka ba bukas ?
+4.450	outLine	<sta> huh ?
+4.510	inLine	<no-speech>
+6.120	inLine	papasok ka bukas ?
+6.240	outLine	<no-speech>
+7.230	inLine	<no-speech>
+7.570	outLine	oo papasok ako .
+8.798	outLine	<no-speech>
+10.180	inLine	nag- %incomplete
+10.414	outLine	huh ?
+10.502	inLine	oo antayin mo na lang ako diyan mga .
+10.960	outLine	<no-speech>
+12.660	inLine	<no-speech>
+12.840	outLine	papasok ako bukas .
+13.910	inLine	mga se- -- mga seven .
+13.938	outLine	<no-speech>
+15.220	outLine	<no-speech>
+15.407	inLine	hintayin mo 'ko .
+16.455	inLine	ah ?
+16.730	outLine	<no-speech>
+17.330	outLine	<no-speech>
+19.150	inLine	<no-speech>
+19.650	outLine	oo .
+20.347	outLine	<no-speech>
+20.778	outLine	a-sais na .
+21.589	outLine	a-sais na tayo ng Marso .
+23.170	inLine	oo .
+23.240	outLine	<no-speech>
+23.702	inLine	a- -- 'ala sais ?
+25.632	inLine	masyado namang maaga 'yon .
+27.600	inLine	<no-speech>
+29.020	inLine	baka tayo magbukas ng Recto .
+30.710	outLine	<sta> baliw ano ?
+30.853	inLine	<no-speech>
+32.120	inLine	<no-speech>
+32.842	outLine	<no-speech>
+33.070	inLine	ano ?
+33.947	outLine	huh ?
+34.096	inLine	baka tayo magbubukas ng Recto .
+34.890	outLine	<no-speech>
+36.590	inLine	<no-speech>
+39.220	inLine	huh ?
+39.240	outLine	<sta> anong oras ba uwi natin noon ?
+39.700	inLine	<no-speech>
+40.570	inLine	<no-speech>
+41.659	outLine	<no-speech>
+42.033	inLine	mga alas dos lang (()) .
+43.016	outLine	anong oras uwi natin ?
+43.321	inLine	<no-speech> mga alas dos .
+45.330	outLine	<no-speech>
+46.160	outLine	<no-speech>
+46.410	inLine	<no-speech>
+46.570	outLine	<no-speech>
+49.010	outLine	<sta> alas diyes ?
+49.830	inLine	alas dos .
+49.900	outLine	<no-speech>
+50.670	inLine	<no-speech>
+51.310	outLine	<no-speech>
+51.760	outLine	<no-speech>
+51.840	inLine	alas dos o kaya 'ala una .
+53.330	inLine	<no-speech>
+53.690	outLine	alas dos ?
+54.250	inLine	oo .
+54.480	outLine	<no-speech>
+54.831	inLine	eh 'di 'pag hinanap ka ni Rose .
+56.990	outLine	Fred papal- -- papalabasin pa tayo ano .
+57.820	inLine	<no-speech>
+59.340	inLine	<sta> hindi .
+59.433	outLine	<no-speech>
+60.788	outLine	huh ?
+60.989	inLine	eh 'di 'pag hinanap ka ni Rose sabihin mo nag-computer ka lang o kaya naglaro -- naglaro ka ng basketball sa ano -- sa Nazareth .
+61.320	outLine	<no-speech>
+66.490	outLine	ano ?
+67.020	outLine	<no-speech>
+70.230	inLine	<no-speech>
+70.520	outLine	<no-speech>
+71.271	outLine	oo 'yon nga 'yon nga i-sa-suggest ko eh .
+73.290	outLine	<no-speech>
+73.310	inLine	kanino -- kanina nga dapat pupunta kami (()) %incomplete
+73.755	outLine	huh ?
+74.300	outLine	<no-speech>
+75.460	outLine	anong sasabihin ko naglaba ako ?
+75.674	inLine	<no-speech> oo .
+77.220	outLine	<no-speech>
+77.893	inLine	dapat nga maglalaro kami kanina ni Robbie sa Nazareth .
+78.940	outLine	<no-speech>
+79.360	outLine	<no-speech>
+80.855	inLine	huh ?
+81.060	outLine	pumasok .
+81.680	outLine	<no-speech>
+82.640	outLine	<no-speech>
+82.730	inLine	<no-speech>
+83.810	outLine	<no-speech>
+84.320	inLine	ano ?
+84.870	inLine	<no-speech>
+85.010	outLine	sila Ronald baliw .
+86.195	outLine	<no-speech>
+86.560	inLine	ano ?
+86.850	outLine	<no-speech>
+87.080	inLine	<no-speech>
+88.060	outLine	ba't naglaro na kayo ?
+89.410	outLine	<no-speech>
+89.720	inLine	umulan nga eh .
+90.740	inLine	<no-speech>
+92.250	outLine	ba't naglaro na kayo <int> ?
+93.730	outLine	<no-speech>
+94.540	outLine	ay oo nga pala .
+95.770	outLine	<no-speech>
+96.040	inLine	<cough> lakas-lakas ng ulan eh .
+97.220	outLine	<no-speech>
+97.780	inLine	<no-speech>
+98.070	outLine	<no-speech>
+99.370	outLine	bukas sabi .
+100.290	outLine	<no-speech>
+100.330	inLine	ikaw kaya maglarong %incomplete .
+101.350	outLine	'pag 'di umulan bukas laro tayo .
+101.800	inLine	<no-speech>
+103.130	inLine	oo .
+103.410	outLine	<no-speech>
+103.780	inLine	<no-speech>
+105.190	inLine	laruin mo na lang 'to .
+106.140	outLine	<int> 'pag 'di umulan laro <sta> tayo .
+106.439	inLine	<no-speech>
+108.620	inLine	oo .
+108.905	outLine	<no-speech>
+110.100	inLine	<no-speech>
+111.220	outLine	<no-speech>
+111.420	inLine	ah ?
+111.950	inLine	<no-speech>
+112.310	outLine	<no-speech>
+112.740	outLine	<no-speech>
+113.010	inLine	bu- -- basta bukas %incomplete
+114.070	outLine	'pag -- 'pag 'di umulan huh ?
+114.424	inLine	<int> oo .
+115.061	inLine	<no-speech>
+116.035	outLine	<no-speech>
+116.070	inLine	huh ?
+116.470	inLine	<no-speech>
+116.930	outLine	<no-speech>
+117.890	inLine	ano <int> ?
+119.420	inLine	<no-speech>
+119.530	outLine	<sta> 'pag 'di umulan laro tayo .
+120.620	inLine	<int> oo .
+121.826	outLine	<no-speech> 'pag 'di umulan laro tayo .
+122.030	inLine	<no-speech>
+123.180	inLine	<no-speech>
+124.181	inLine	oo nga pali- -- pa- -- palulenado sila ano -- sila Jomar .
+125.108	outLine	<no-speech>
+129.380	inLine	<no-speech>
+129.390	outLine	<no-speech>
+130.210	outLine	<sta> oo .
+131.570	outLine	<no-speech>
+132.530	outLine	<int> oo .
+133.156	outLine	o kaya computer tayo bukas .
+134.090	inLine	oo .
+134.720	outLine	<no-speech>
+135.080	inLine	<no-speech>
+135.590	outLine	<int> huh ?
+136.070	inLine	<no-speech>
+137.170	outLine	<no-speech>
+138.580	outLine	basta gawin nating laro tayo ulit sa Pallina .
+141.060	inLine	oo .
+141.390	outLine	<no-speech>
+141.830

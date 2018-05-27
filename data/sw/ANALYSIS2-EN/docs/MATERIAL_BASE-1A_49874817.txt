@@ -1,0 +1,91 @@
+<1>	(Outline, 0.000-1.830)	kuna ra- -- kuna rafiki yangu fulani %incomplete	there's -- there's a certain friend of mine %incomplete
+<2>	(Inline, 0.000-2.120)	<no-speech>	<no-speech>
+<3>	(Outline, 1.830-3.230)	<no-speech>	<no-speech>
+<4>	(Inline, 2.120-2.700)	<sta> ehhe .	mm .
+<5>	(Inline, 2.700-4.710)	<no-speech>	<no-speech>
+<6>	(Outline, 3.230-4.410)	huwa yuko jeshi .	he is in the military .
+<7>	(Outline, 4.410-5.830)	<no-speech>	<no-speech>
+<8>	(Inline, 4.710-5.310)	uhuh .	no .
+<9>	(Inline, 5.310-7.800)	<no-speech>	<no-speech>
+<10>	(Outline, 5.830-7.450)	huko jeshi ye huwanga ni cook .	he is a cook in the military .
+<11>	(Outline, 7.450-8.860)	<no-speech>	<no-speech>
+<12>	(Inline, 7.800-8.420)	uhuh .	no .
+<13>	(Inline, 8.420-14.270)	<no-speech>	<no-speech>
+<14>	(Outline, 8.860-13.890)	nikikuonyesha height yake utacheka yaani si (()) Mugo yaani akacheka mpaka akakaa chini .	if I showed you his height you will laugh (()) Mugo laughed until he sat down .
+<15>	(Outline, 13.890-15.460)	<no-speech>	<no-speech>
+<16>	(Inline, 14.270-16.650)	<sta> ehhe sasa si ndiyo nashindwa mie .	mm it is why I wonder .
+<17>	(Outline, 15.460-20.390)	yake <no-speech> -- yake ni upishi tu ye huwanga (()) umeona vile Mwala hutosha ?	his -- his is just to cook he is usually (()) you see how Mwala looks like ?
+<18>	(Inline, 16.650-20.610)	<no-speech>	<no-speech>
+<19>	(Outline, 20.390-21.720)	<no-speech>	<no-speech>
+<20>	(Inline, 20.610-21.240)	<sta> ehhe .	mm .
+<21>	(Inline, 21.240-25.320)	<no-speech>	<no-speech>
+<22>	(Outline, 21.720-24.840)	sasa huyo ni size yangu lakini saa hii ni mwembamba halafu ni mrefu kidogo tu .	so he is my size but currently he is slim and just a little taller .
+<23>	(Outline, 24.840-25.780)	<no-speech>	<no-speech>
+<24>	(Inline, 25.320-25.990)	<sta> ehhe .	mm .
+<25>	(Outline, 25.780-30.814)	ye huwanga ni -- ye huwanga ni futi nne <no-speech> na nchi kadhaa .	he is a -- he is four feet and several inches .
+<26>	(Inline, 25.990-28.440)	<no-speech>	<no-speech>
+<27>	(Inline, 28.440-29.410)	<no-speech>	<no-speech>
+<28>	(Inline, 29.410-31.190)	<no-speech>	<no-speech>
+<29>	(Outline, 30.814-34.130)	sasa ndiyo nilikuwa namuambia hiyo jeshi -- hiyo jeshi we ulichukuliwa %incomplete	so I was telling him the military -- that in the military you were recruited %incomplete
+<30>	(Inline, 31.190-31.860)	<sta> ehhe .	mm .
+<31>	(Inline, 31.860-34.330)	<no-speech>	<no-speech>
+<32>	(Outline, 34.130-35.400)	<no-speech>	<no-speech>
+<33>	(Inline, 34.330-35.030)	<sta> ehhe .	mm .
+<34>	(Inline, 35.030-40.290)	<no-speech>	<no-speech>
+<35>	(Outline, 35.400-38.610)	walikuchukua wakienda stima ama walikuwa wamelala wakiota .	they took while out of senses or they were sleeping and dreaming .
+<36>	(Outline, 38.610-39.870)	<no-speech>	<no-speech>
+<37>	(Outline, 39.870-50.742)	<sta> lakini hata ye alitengeze- -- alitengezewa na jamaa yake <no-speech> mpaka ikafika point mapeni pia yaka- -- yakaliwa lakini sa alikuwa na watu wakubwa zaidi .	but he too was connect -- connected by his relative to a point where his coins were -- were eaten up but he had senior people .
+<38>	(Inline, 40.290-40.759)	asante (()) %incomplete	thank (()) you %incomplete
+<39>	(Inline, 40.759-41.770)	<no-speech>	<no-speech>
+<40>	(Inline, 41.770-43.190)	ehhe ndivyo <no-speech> .	mm that's how it is .
+<41>	(Inline, 43.190-44.920)	<no-speech>	<no-speech>
+<42>	(Inline, 44.920-45.560)	uhuh .	no .
+<43>	(Inline, 45.560-48.760)	<no-speech>	<no-speech>
+<44>	(Inline, 48.760-50.240)	<sta> ya- -- yakahusika ehhe .	they were involved mm .
+<45>	(Inline, 50.240-51.080)	<no-speech>	<no-speech>
+<46>	(Outline, 50.742-54.880)	mmhm alikuwa na watu kubwa na wakatia bidii zaidi .	mmhm he had senior people and they put more effort .
+<47>	(Inline, 51.080-51.690)	<sta> ehhe .	mm .
+<48>	(Inline, 51.690-53.400)	<no-speech>	<no-speech>
+<49>	(Inline, 53.400-54.125)	<sta> sasa ndiyo (()) %incomplete	so that is why (()) %incomplete
+<50>	(Inline, 54.125-55.240)	<no-speech>	<no-speech>
+<51>	(Outline, 54.880-57.070)	<no-speech>	<no-speech>
+<52>	(Inline, 55.240-56.600)	<sta> ndiyo nakuuliza aje %incomplete	that is why I ask you %incomplete
+<53>	(Inline, 56.600-57.800)	<no-speech>	<no-speech>
+<54>	(Outline, 57.070-57.970)	ehhe <int> .	mm .
+<55>	(Inline, 57.800-60.880)	<sta> na si wale hatuna mapeni sasa tutaangukia wapi ?	where will those of us without coins fall ?
+<56>	(Outline, 57.970-61.680)	<no-speech>	<no-speech>
+<57>	(Inline, 60.880-66.890)	<no-speech>	<no-speech>
+<58>	(Outline, 61.680-66.200)	ehhe yetu ilikufa si wajua <no-speech> rizi- -- riziki ya mbwa hula mapipani .	mm ours died you do know a dog's benefit is eating from the trash .
+<59>	(Outline, 66.200-69.600)	<no-speech>	<no-speech>
+<60>	(Inline, 66.890-73.610)	<laugh> nakwambia <laugh> mi hata nashangaa sijui nikimbilie upande upi nimechoka kweli .	I tell you I am surprised I don't know where to run to I am tired honestly .
+<61>	(Outline, 69.600-70.120)	ehhe ?	mm ?
+<62>	(Outline, 70.120-73.050)	<no-speech>	<no-speech>
+<63>	(Outline, 73.050-76.880)	waf- -- wafikiria -- wafikiria mbwa inaweza kula mahali simba yuala ?	do you think a dog can eat where a lion eats ?
+<64>	(Inline, 73.610-77.350)	<no-speech>	<no-speech>
+<65>	(Outline, 76.880-78.840)	<no-speech>	<no-speech>
+<66>	(Inline, 77.350-77.898)	<sta> ehhe .	mm .
+<67>	(Inline, 77.898-79.370)	<no-speech>	<no-speech>
+<68>	(Outline, 78.840-81.337)	haiwezekani ati mbwa ale na <laugh> -- na simba pamoja .	it is impossible for a dog to eat with a lion together .
+<69>	(Inline, 79.370-81.900)	<no-speech>	<no-speech>
+<70>	(Outline, 81.337-83.220)	mbwa ye hula pipani .	a dog eats from the bin .
+<71>	(Inline, 81.900-85.250)	<sta> haiwezakani si itabaki simba yuamla .	it is not possible the lion will remain eating him .
+<72>	(Outline, 83.220-84.350)	<no-speech>	<no-speech>
+<73>	(Outline, 84.350-84.810)	<no-speech>	<no-speech>
+<74>	(Outline, 84.810-86.030)	<no-speech>	<no-speech>
+<75>	(Inline, 85.250-89.550)	<no-speech>	<no-speech>
+<76>	(Outline, 86.030-91.750)	<sta> ahh m- -- simba hula mahali simba wenzake wanakula lakini mbwa siku zote atabakia akila pipani .	ahh -- a lion eats where fellow lions eat but the dog will always keep eating from the bins .
+<77>	(Inline, 89.550-90.220)	<sta> ehhe .	mm .
+<78>	(Inline, 90.220-92.440)	<no-speech>	<no-speech>
+<79>	(Outline, 91.750-93.000)	<no-speech>	<no-speech>
+<80>	(Inline, 92.440-95.350)	<sta> atabaki anangojea sasa makombo .	he will keep waiting for the remnants .
+<81>	(Outline, 93.000-93.970)	yale mabaki .	the leftovers .
+<82>	(Outline, 93.970-95.270)	<no-speech>	<no-speech>
+<83>	(Outline, 95.270-100.900)	ehhe mabo- -- ma -- mabaki mabaki yale makombo yuala yuashiba story zenyewe zaishia hapo ehhe .	mm leftovers the remnant he eats gets full and gets done with the story there mm .
+<84>	(Inline, 95.350-99.020)	<no-speech>	<no-speech>
+<85>	(Inline, 99.020-99.680)	uhuh .	no .
+<86>	(Inline, 99.680-101.520)	<no-speech>	<no-speech>
+<87>	(Outline, 100.900-103.300)	<no-speech>	<no-speech>
+<88>	(Inline, 101.520-102.729)	ehhe nakwambia .	mm I tell you .
+<89>	(Inline, 102.729-112.960)	sasa sijui -- sasa mi nitafanya kusubiri aliniambia nimpigie simu jioni kama ataweza niunganisha na mahali pengine nifanye nikibambanya tu si unajua ?	so I don't know -- I will wait he told me to call him in the evening if he can connect me to another place I keep guessing you know ?
+<90>	(Outline, 103.300-103.980)	<int> (()) .	(()) .
+<91>	(Outline, 103.980-112.960)	<no-speech>	<no-speech>

@@ -1,0 +1,52 @@
+0.000	inLine	<no-speech>
+0.000	outLine	ehhe ile yenye nilikuwa nakwambia ya ehhe ya fifty Bob .
+0.475	inLine	<no-speech>
+2.845	inLine	<no-speech>
+3.971	outLine	saa hii ni sixty five Bob .
+4.205	inLine	na <no-speech> saa <no-speech> -- saa unadai sixty five Bob hata si eighty Bob ?
+6.150	outLine	<no-speech>
+9.005	inLine	<no-speech>
+10.450	outLine	ehhe ?
+10.960	outLine	<no-speech>
+11.285	inLine	ni sixty five hata so si hata eighty ?
+13.090	outLine	uhuh ni sixty five Bob si nilikuwa tu nakudanganya (()) %incomplete
+13.303	inLine	<no-speech>
+14.525	inLine	<no-speech>
+16.340	outLine	<no-speech>
+17.395	inLine	nilikuwa %incomplete
+17.850	outLine	ehhe ?
+17.864	inLine	<no-speech> hii darling ya hapa nyuma ?
+18.410	outLine	<no-speech>
+19.705	inLine	<no-speech>
+24.410	outLine	ehhe .
+24.865	inLine	<no-speech>
+25.235	inLine	<no-speech>
+25.330	outLine	<no-speech>
+26.405	inLine	ohh <no-speech> sawa wacha nione kama nitabomoa next week .
+30.815	inLine	<no-speech>
+31.450	outLine	unataka ku- %incomplete
+32.413	outLine	un- %incomplete
+32.665	inLine	<no-speech>
+33.090	outLine	<no-speech>
+34.880	outLine	ohh sawasawa .
+35.875	inLine	<no-speech>
+36.455	outLine	iko <no-speech> -- iko <no-speech> -- iko kwa <no-speech> -- iko kwa mama Shiro kama unataka na ni sixty five Bob na ziko type mbili kuna ya Angel kuna ya darling ya Angel ndiyo mzuri .
+38.775	inLine	<no-speech>
+40.365	inLine	<no-speech>
+43.175	inLine	<no-speech>
+43.535	inLine	<no-speech>
+44.885	inLine	ka gani ?
+45.500	inLine	<no-speech>
+46.825	inLine	<no-speech>
+47.270	outLine	<no-speech>
+48.085	inLine	gani ndiyo poa ?
+49.115	inLine	<no-speech>
+50.830	outLine	ni hiyo yenye ulikuwa nayo hiyo <no-speech> -- hiyo -- hiyo ni <no-speech> Angel .
+51.875	inLine	<no-speech>
+54.450	outLine	<no-speech>
+55.925	inLine	<no-speech>
+62.830	outLine	<no-speech>
+66.025	inLine	poa .
+66.703	inLine	<no-speech>
+68.115	inLine	<no-speech>
+71.210

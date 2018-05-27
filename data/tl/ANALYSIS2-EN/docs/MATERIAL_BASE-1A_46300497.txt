@@ -1,0 +1,45 @@
+<1>	(Outline, 0.000-0.070)	<no-speech>	<no-speech>
+<2>	(Inline, 0.000-2.100)	<no-speech>	<no-speech>
+<3>	(Outline, 0.070-1.710)	dakika kumi .	ten minutes .
+<4>	(Outline, 1.710-3.540)	<no-speech>	<no-speech>
+<5>	(Inline, 2.100-2.960)	ehhe .	mm .
+<6>	(Inline, 2.960-5.720)	<no-speech>	<no-speech>
+<7>	(Outline, 3.540-7.560)	ehhe na hii dakika ni mingi sana kama saa hizi tumeongea almost six minutes .	mm these minutes are so many we've been talking for almost six minutes now .
+<8>	(Inline, 5.720-6.320)	<no-speech>	<no-speech>
+<9>	(Inline, 6.320-7.670)	<no-speech>	<no-speech>
+<10>	(Outline, 7.560-14.240)	<no-speech>	<no-speech>
+<11>	(Inline, 7.670-10.901)	<breath> iko karibu kuisha game next %incomplete	it's about to end the next game %incomplete
+<12>	(Inline, 10.901-13.900)	siku hizi unaendanga hio nini rugby ?	these days you go for rugby ?
+<13>	(Inline, 13.900-22.710)	<no-speech>	<no-speech>
+<14>	(Outline, 14.240-15.474)	by the way si ukuje twende %incomplete	by the way why don't you come we go %incomplete
+<15>	(Outline, 15.474-21.440)	Ngai sijui rugby last time <hes> -- sijui ne- -- the next fixture sijui nitakuwa wapi lakini %incomplete	God I don't know the last time rugby -- I don't know -- I don't know where I'll be during the next fixture but %incomplete
+<16>	(Outline, 21.440-25.040)	<hes> sijui kama Sunday kutakuwa na game ?	I don't know will there be a game on Sunday ?
+<17>	(Inline, 22.710-24.410)	(()) .	(()) .
+<18>	(Inline, 24.410-25.730)	<no-speech>	<no-speech>
+<19>	(Outline, 25.040-26.240)	<no-speech>	<no-speech>
+<20>	(Inline, 25.730-29.090)	(()) nataka kukuona .	(()) I want to see .
+<21>	(Outline, 26.240-29.629)	mi huenda rugby si ni kawaida -- si unajua mi kawaida yangu kwenda rugby .	I usually go for rugby it's normal -- you know it's normal for me to go for rugby .
+<22>	(Inline, 29.090-30.710)	<no-speech>	<no-speech>
+<23>	(Outline, 29.629-30.060)	ehhe ?	mm ?
+<24>	(Outline, 30.060-33.800)	<no-speech>	<no-speech>
+<25>	(Inline, 30.710-32.790)	(()) .	(()) .
+<26>	(Inline, 32.790-33.890)	<no-speech>	<no-speech>
+<27>	(Outline, 33.800-34.340)	<sta> ati ?	pardon ?
+<28>	(Inline, 33.890-37.690)	(()) .	(()) .
+<29>	(Outline, 34.340-36.200)	<no-speech>	<no-speech>
+<30>	(Outline, 36.200-39.020)	<sta> na ninaona unapotea -- naona unapotea tena .	I can see you're getting lost -- I can see you're getting lost again .
+<31>	(Inline, 37.690-39.730)	<no-speech>	<no-speech>
+<32>	(Outline, 39.020-41.060)	<no-speech>	<no-speech>
+<33>	(Inline, 39.730-40.830)	nakwambia %incomplete	I'm telling you %incomplete
+<34>	(Inline, 40.830-42.310)	<no-speech>	<no-speech>
+<35>	(Outline, 41.060-41.600)	ehhe .	mm .
+<36>	(Outline, 41.600-42.440)	<no-speech>	<no-speech>
+<37>	(Inline, 42.310-46.890)	(()) ulikuwa wapi ile time <no-speech> ile nilikuambia %incomplete	(()) where you were that time the time I told you %incomplete
+<38>	(Outline, 42.440-43.540)	<no-speech>	<no-speech>
+<39>	(Outline, 43.540-47.990)	<no-speech>	<no-speech>
+<40>	(Inline, 46.890-51.440)	<no-speech>	<no-speech>
+<41>	(Outline, 47.990-51.090)	by the way wakati ulikuwa unakuja uniambie birthday %incomplete	by the way the time you were coming to tell me about the birthday %incomplete
+<42>	(Outline, 51.090-52.400)	<no-speech>	<no-speech>
+<43>	(Inline, 51.440-52.080)	yes .	yes .
+<44>	(Inline, 52.080-53.720)	<no-speech>	<no-speech>
+<45>	(Outline, 52.400-53.720)	<sta> niko Machakos .	I am in Machakos .

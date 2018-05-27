@@ -1,0 +1,57 @@
+[0.000]
+<sta> muling nagkaengkuwentro ang militar at B_I_F_F ang subukang bawiin ng mga rebelde ang isa nilang kampo .
+[8.430]
+<sta> samantalang mahigit dalawang pong gamit naman ng P_N_P SAF ang binalik ng ibang sibilyan .
+[13.880]
+<sta> live mula sa Awang sa Maguindanao may report si Evan (()) .
+[18.170]
+Evan ?
+[18.865]
+<no-speech>
+[21.030]
+yes Jessica ikatlong linggo na ng all out offensive laban sa B_I_F_F at bagamat sinasabi ng militar na marami nang napapatay sa mga kalaban eh wala pa ring malinaw na kompirmasyon o impormasyon kung anong kinahihinatnan ng isa sa pangunahing target ng operasyon na si Basit Usman .
+[38.050]
+<no-speech>
+[40.115]
+nakubkob na <int> ng militar ang isa sa mga quota ng Bangsamoro Islamic Freedom Fighters o B_I_F_F <sta> ang Camp Al Khalifa (()) .
+[49.030]
+<sta> pero kahapon isang maliit na grupo ng B_I_F_F fighters ang bumalik sa kampo para subukan itong bawiin .
+[54.418]
+<int> isang B_I_F_F ang nasawi .
+[57.430]
+ayon sa marines malamang daw ay may mga gamit at armas silang itinago sa lugar .
+[61.460]
+pero ang isang <hes> <hes> maliwanag <hes> yung grupo ni (()) at saka yung grupo ni Tambako <hes> bago siya mahuli si Tambako nakasug- -- nakasagupaan ng marines <hes> base do'n sa mga armas na na-recover natin sa -- sa scene of encounter .
+[80.770]
+ayon sa A_F_P mahigit isang daan na raw sa tatlong daang <int> B_I_F_F ang kanilang napatay .
+[85.760]
+pero nananatiling mailapag ang kanilang target ang teroristang si Basit Usman .
+[90.400]
+<sta> pero sa engkuwentro kahapon ng Marines sa Baranggay (()) <sta> napatay ang isang minor de edad na anak ni Usman na si (()) Usman at dalawang pamangkin na is na Rene (()) .
+[102.400]
+sa pagpapatuloy ng (()) ayon sa militar posible raw ng <int> ginagamit ng B_I_F_F sa bakbakan ang mga armas ng P_N_P SAF .
+[109.630]
+sa close quarter battle nga no'ng March ten narinig pa nilang usapan ng kalaban .
+[114.311]
+sinisigaw talaga nila ang sarap daw iputok ng baril ng SAF .
+[117.680]
+posi- -- so possible na gamit talaga nila yung mga baril ng SAF .
+[121.478]
+lamang na sila sa ano sa knowledge of (()) .
+[124.835]
+ano pa sila mayroon pa silang gano'n na ano na capabilities sa night capability so medyo mahirap yung ano yung every mission .
+[132.840]
+bukod sa naunang M_G kagamitan na binalik ng Moro Islamic Liberation Front o M_I_L_F may bagong dalawampu't tatlong kagamitan na itinurn over ng sibilyan sa Militar .
+[142.120]
+kasama ang limang night vision goggles tatlong target pointer dalawang night fighting device at dalawang night vision monoculars .
+[150.120]
+base sa mga larawan maayos pa ang kondisyon ng mga insuling gamit liban sa gasgas sa mga bota at helmet .
+[156.050]
+inaalam pa ng A_F_P kung paano ito nakuha ng sibilyan .
+[159.420]
+pero pagtitiyak na source walang kapalit na pera ang pagbalik sa mga gamit ng SAF .
+[164.200]
+sa ngayon ay nasa twenty seven million pesos pa ang halaga ng gamit na nawawala pa rin .
+[168.730]
+itinanggi naman ng A_F_P ang ulat ng board of inquiry na isang baril ng sugatang SAF na binigay sa A_F_P ang napunta sa M_I_L_F at kasama sa itinurn over sa gobyerno .
+[178.835]

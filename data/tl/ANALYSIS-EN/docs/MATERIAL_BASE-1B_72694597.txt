@@ -1,0 +1,27 @@
+<1>	(0.000-1.556)	<no-speech>	<no-speech>
+<2>	(1.556-8.070)	<sta> nagpatuloy ngayong araw ang Philippine Bilateral Exercises twenty fifteen sa Cavite .	the Philippine Bilateral Exercises twenty fifteen continued this day in Cavite .
+<3>	(8.070-14.913)	<sta> dito hinasa ng mga tropang pinoy at Amerikano ang kakayahan <sta> pagdating sa pagsalakay sa tabing-dagat .	here the Filipino and American troops honed their skills when it comes to attacking on the seashore .
+<4>	(14.913-16.520)	<sta> umaaksiyon si Jun Loyola .	Jun Loyola in action .
+<5>	(16.520-19.610)	<no-speech>	<no-speech>
+<6>	(19.610-24.100)	dalawang maliit na barko ng Philippine Marines ang dumaong sa Ternate Cavite .	two small ships of the Philippine Marines docked in Ternate Cavite .
+<7>	(24.100-26.468)	lulan nito ang mga sundalong Pilipino at Amerikano .	it carries Filipino and American passengers .
+<8>	(26.468-28.772)	<no-speech>	<no-speech>
+<9>	(28.772-33.060)	<no-speech> pagbaba agad silang pumosisyon at tiningnan kung may mga kalaban .	upon descending they were immediately in position and searched if there were enemies .
+<10>	(33.060-36.410)	<sta> ilang sandali pa dumiretso sila sa kuta ng kalaban .	a few moments later they headed to the hideout of the enemy .
+<11>	(36.410-40.876)	<sta> pero bago pa nila ito marating nagkaroon ng kaliwa't-kanang putukan .	but before they have reached it there was a firing from left and right .
+<12>	(40.876-43.580)	<no-speech>	<no-speech>
+<13>	(43.580-47.201)	<sta> tuloy ang kanilang pag ratrat hanggang sa marating ang target .	their firing continued until the target was reached .
+<14>	(47.201-50.080)	<no-speech>	<no-speech>
+<15>	(50.080-52.579)	<sta> maging ang mga tugboat nagpaputok din .	even the tugboats fired .
+<16>	(52.579-53.984)	<no-speech>	<no-speech>
+<17>	(53.984-55.970)	<sta> mabilis na natapos ang misyon .	the mission was finished early .
+<18>	(55.970-62.480)	<sta> ang aktibidad na ito ng U_S at Philippine Marines ay para sa taunang Philippine Bilateral Exercises twenty fifteen .	this activity of the U_S and the Philippine Marines is for the annual Philippine Bilateral Exercises twenty fifteen .
+<19>	(62.480-68.490)	<hes> I think we met our training objectives and more importantly is the interoperability .	I think we met our training objectives and more importantly is the interoperability .
+<20>	(68.490-75.710)	the way we communicate with the- -- our brother marines the way we <hes> maneuver .	the way we communicate with the -- our brother marines the way we maneuver .
+<21>	(75.710-80.370)	nagsilbing observer naman ang ilang military officials mula Thailand at Japan .	some military officials from Thailand and Japan served as observers .
+<22>	(80.370-91.820)	kahit nakasama ng Pilipinas ang U_S at Japan na kapwa binabatikos ng China dahil sa sigalot sa West Philippine Sea hindi naman daw layunin nitong pagsasanay na inisin o pasiklaban ang China .	even though the Philippines has gone along with U_S and Japan which are both criticized by China because of the dispute on the West Philippine Sea it is not the objective of this training to annoy or have a show down for China .
+<23>	(91.820-99.450)	<sta> hindi na nag komento patungkol sa West Philippine Sea ang mga opisyal ng U_S at Japan pero inoobserbahan daw nila ang mga nangyayari doon .	the officials of U_S and Japan have not commented about the West Philippine Sea but they are observing the happenings there .
+<24>	(99.450-108.028)	we have <foreign> watching <foreign> but <hes> in this case <hes> I would like to I'd like to avoid <hes> make a comment .	we have <foreign> watching <foreign> but in this case I would like to I'd like to avoid make a comment .
+<25>	(108.028-118.280)	this is just showcases how close the alliances how close the two Marine Corps are that we could work together <hes> in a very complex <hes> very realistic training environment .	this is just showcases how close the alliances how close the two Marine Corps are that we could work together in a very complex very realistic training environment .
+<26>	(118.280-126.873)	sakali namang kailangan <sta> ang ganitong klaseng operasyon katuwang ang U_S sa West Philippine Sea ayon sa opisyal ng Philippine Marines handa silang gamitin ito .	in case this kind of operation is needed U_S is a partner in the West Philippine Sea according to the official of the Philippine Marines they are ready to use this .
+<27>	(126.873-128.667)	anywhere anytime .	anywhere anytime .

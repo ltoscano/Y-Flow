@@ -1,0 +1,29 @@
+[0.000]
+<no-speech>
+[1.993]
+mashindano ya mchezo wa Pool kwa vyuo vya elimu ya juu yamezinduliwa rasmi leo kwa mikoa ya Iringa na Njombe <breath> <hes> kutoa uwakilishi wa vyuo vitatu .
+[11.950]
+na kwa mkoa wa Mbeya ni vyuo vinne vimeshiriki .
+[15.600]
+<breath> mratibu wa mashindano hayo Raymond Ndegera amesema <breath> wameamua kudhamini mashindano hayo kwa lengo la kujenga mahusiano kati ya vyuo hivyo .
+[25.556]
+<no-speech>
+[29.850]
+<no-speech>
+[32.162]
+(()) <int> sio tu kwamba kwenye vyuo .
+[34.770]
+kuna mashindano pia ya Pool Table Kitaifa ambapo yanajumuisha <int> <breath> timu mbalimbali kutoka mikoa yote ambao si wana vyuo pamoja na wana vyuo .
+[42.140]
+<int> eh <hes> safari inadhamini vitu mbalimbali na Pool Table ni kimojawapo .
+[46.540]
+<sta> kwa hivyo tumeona vijana ambao wengi wanakwepa wakishiriki michezo hii ya pool <breath> .
+[50.214]
+wazazi familia wa <hes> na baadhi ya watu wanaona kama ni wahuni na sisi .
+[55.440]
+<no-speech>
+[56.462]
+<breath> naam na hii ni sehemu ya ufunguzi wa mashindano hayo .
+[60.744]
+<no-speech>
+[62.525]

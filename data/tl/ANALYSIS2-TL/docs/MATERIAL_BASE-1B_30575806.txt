@@ -1,0 +1,46 @@
+0.000	inLine	<no-speech>
+0.000	outLine	kaya nga 'yon ang kapatid .
+0.485	inLine	<sta> ano raw na- -- sabi nga ang kuwento ?
+2.120	outLine	<no-speech>
+3.498	inLine	<no-speech>
+4.498	inLine	ang kuwento raw ni ano -- ang kuwento raw ni no'ng -- ni lola Lita .
+9.235	inLine	<no-speech>
+10.305	inLine	nakakita raw si ate Eta doon sa pintuan nila ng lalaking walang mukha .
+11.090	outLine	<no-speech>
+14.642	inLine	<no-speech> tapos 'pag tinatakpan niya raw 'yong mata niya <no-speech> tapos parang pinipilit daw na tanggalin 'yong kamay niya sa mata tapos dumilat .
+20.060	outLine	<no-speech>
+21.250	outLine	<no-speech>
+23.400	outLine	<no-speech>
+24.066	inLine	<no-speech> para dumilat daw siya tapos pagtingin niya 'yon pa rin daw 'yong nakikita niya .
+26.960	outLine	<no-speech>
+27.712	inLine	<no-speech> gano'n daw .
+28.715	inLine	<no-speech>
+29.940	outLine	<int> ano ba 'yon ?
+30.805	inLine	<no-speech>
+31.535	inLine	<no-speech>
+31.564	outLine	nakakakilabot .
+32.810	outLine	<no-speech>
+35.605	inLine	mhm .
+36.601	inLine	<no-speech>
+37.080	outLine	<no-speech>
+37.616	inLine	ano nga parang gusto ngang i-ano si si Claire eh .
+39.990	outLine	<no-speech>
+41.217	inLine	alam mo 'yong inuwi ko si Claire .
+41.430	outLine	<no-speech>
+42.645	inLine	<no-speech>
+42.699	outLine	oo .
+43.677	outLine	<no-speech>
+44.665	inLine	huh ?
+44.984	outLine	huh ?
+45.195	inLine	<no-speech>
+46.084	outLine	<no-speech>
+46.780	outLine	<no-speech>
+46.885	inLine	inuwi ko si Claire .
+47.758	inLine	hindi namin -- hindi -- hindi namin nakita si ate Eta .
+50.789	inLine	<no-speech> 'yon pala nasa hospital na pala siya noon .
+52.921	inLine	kaya pala hindi namin makita noon sa bahay nila .
+55.600	outLine	ah ka- -- 'kala ko naman na ano na <no-speech> kay Tanya .
+55.615	inLine	<no-speech>
+59.975	inLine	hinahanap ni ano eh na %incomplete
+60.010	outLine	<no-speech>
+61.295

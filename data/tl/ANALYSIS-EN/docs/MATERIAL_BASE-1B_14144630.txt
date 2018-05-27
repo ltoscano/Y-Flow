@@ -1,0 +1,65 @@
+<1>	(Inline, 0.000-0.590)	<no-speech>	<no-speech>
+<2>	(Outline, 0.000-1.585)	<no-speech>	<no-speech>
+<3>	(Inline, 0.590-1.470)	<no-speech>	<no-speech>
+<4>	(Inline, 1.470-2.960)	kumusta nanay mo ?	how's your mother ?
+<5>	(Outline, 1.585-3.475)	<no-speech>	<no-speech>
+<6>	(Inline, 2.960-5.020)	<no-speech>	<no-speech>
+<7>	(Outline, 3.475-4.625)	<no-speech>	<no-speech>
+<8>	(Outline, 4.625-5.395)	<no-speech>	<no-speech>
+<9>	(Inline, 5.020-8.323)	<no-speech>	<no-speech>
+<10>	(Outline, 5.395-6.645)	<no-speech>	<no-speech>
+<11>	(Outline, 6.645-9.505)	huminto daig pa ramdam na rin ang mga sakit .	has stopped overwhelmed already felt some illnesses .
+<12>	(Inline, 8.323-10.360)	ayos ba si nanay mo ?	is your mother okay ?
+<13>	(Outline, 9.505-10.635)	<no-speech>	<no-speech>
+<14>	(Inline, 10.360-14.240)	<no-speech>	<no-speech>
+<15>	(Outline, 10.635-13.633)	kaya nga noong nakabangon din kami sa check-up .	so when we recovered from the check-up .
+<16>	(Outline, 13.633-15.317)	'yon pala wala naman .	then it is really nothing .
+<17>	(Inline, 14.240-14.650)	<no-speech>	<no-speech>
+<18>	(Inline, 14.650-17.480)	<no-speech>	<no-speech>
+<19>	(Outline, 15.317-18.551)	<no-speech>	<no-speech>
+<20>	(Inline, 17.480-19.322)	<no-speech>	<no-speech>
+<21>	(Outline, 18.551-19.225)	hello ?	hello ?
+<22>	(Outline, 19.225-22.425)	<no-speech>	<no-speech>
+<23>	(Inline, 19.322-20.653)	ah .	ah .
+<24>	(Inline, 20.653-23.257)	oo .	yes .
+<25>	(Outline, 22.425-23.055)	<no-speech>	<no-speech>
+<26>	(Outline, 23.055-24.785)	<no-speech>	<no-speech>
+<27>	(Inline, 23.257-25.440)	hello -- hello ?	hello -- hello ?
+<28>	(Outline, 24.785-27.305)	<no-speech>	<no-speech>
+<29>	(Inline, 25.440-27.140)	<no-speech>	<no-speech>
+<30>	(Inline, 27.140-30.140)	basta ang ano ko lang mag-iingat kayo diyan huh ?	all right but for me take care there huh ?
+<31>	(Outline, 27.305-29.315)	<no-speech>	<no-speech>
+<32>	(Outline, 29.315-30.532)	<no-speech>	<no-speech>
+<33>	(Inline, 30.140-32.540)	<no-speech>	<no-speech>
+<34>	(Outline, 30.532-30.985)	po ?	yes ?
+<35>	(Outline, 30.985-34.195)	<no-speech>	<no-speech>
+<36>	(Inline, 32.540-35.760)	<no-speech>	<no-speech>
+<37>	(Outline, 34.195-35.714)	hello 'to Tanyo .	hello uncle Tanyo .
+<38>	(Outline, 35.714-36.985)	<no-speech>	<no-speech>
+<39>	(Inline, 35.760-38.699)	ang bilin ko lang mag-ingat kayo diyan .	I leave you with this word take care there .
+<40>	(Outline, 36.985-39.245)	<no-speech>	<no-speech>
+<41>	(Inline, 38.699-40.450)	oh hello oo .	oh hello yes .
+<42>	(Outline, 39.245-45.285)	<no-speech>	<no-speech>
+<43>	(Inline, 40.450-41.340)	<no-speech>	<no-speech>
+<44>	(Inline, 41.340-43.549)	<no-speech>	<no-speech>
+<45>	(Inline, 43.549-43.970)	oo .	yes .
+<46>	(Inline, 43.970-50.420)	<no-speech>	<no-speech>
+<47>	(Outline, 45.285-48.465)	<no-speech>	<no-speech>
+<48>	(Outline, 48.465-54.076)	<no-speech>	<no-speech>
+<49>	(Inline, 50.420-53.330)	<no-speech>	<no-speech>
+<50>	(Inline, 53.330-54.500)	<no-speech>	<no-speech>
+<51>	(Outline, 54.076-54.843)	hello ?	hello ?
+<52>	(Inline, 54.500-57.280)	<no-speech>	<no-speech>
+<53>	(Outline, 54.843-55.866)	<no-speech> tito Tanyo .	uncle Tanyo .
+<54>	(Outline, 55.866-59.655)	<no-speech>	<no-speech>
+<55>	(Inline, 57.280-58.360)	<no-speech>	<no-speech>
+<56>	(Inline, 58.360-59.697)	oh hello -- hello .	oh hello -- hello .
+<57>	(Outline, 59.655-61.088)	<no-speech>	<no-speech>
+<58>	(Inline, 59.697-70.060)	<no-speech>	<no-speech>
+<59>	(Outline, 61.088-65.910)	<hes> mahi- -- mahi- -- mahina po 'ata ang signal diyan ?	-- the signal there seems weak ?
+<60>	(Outline, 65.910-69.418)	<no-speech>	<no-speech>
+<61>	(Outline, 69.418-70.105)	hello ?	hello ?
+<62>	(Inline, 70.060-71.948)	<no-speech>	<no-speech>
+<63>	(Outline, 70.105-72.625)	<no-speech>	<no-speech>
+<64>	(Inline, 71.948-72.530)	ano ?	what ?
+<65>	(Inline, 72.530-72.625)	<no-speech>	<no-speech>

@@ -1,0 +1,14 @@
+query_id	query_string	domain_id
+query3637	"<broadcasted> live[syn:in real time]"	GOV
+query3772	<lungs>[hyp:body part]	GOV
+query3998	"<made> tired"	GOV
+query4035	<abstained>[syn:hold back from doing]	GOV
+query4030	<matches>[hyp:lighter]	GOV
+query3360	<museums>	GOV
+query3215	<predecessors>	LIF
+query2956	<potatoes>	LIF
+query3736	<fugitives>[syn:person escaping from the law or pursuer]	LIF
+query3366	<inherited>	LIF
+query3500	"<woke up> in the morning"	LIF
+query2958	<albino>[hyp:person]	LIF
+query2971	<smokers>[evf:tobacco]	LIF

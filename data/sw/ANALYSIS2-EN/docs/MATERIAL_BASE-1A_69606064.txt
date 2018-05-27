@@ -1,0 +1,70 @@
+<1>	(Outline, 0.000-1.260)	<no-speech>	<no-speech>
+<2>	(Inline, 0.000-2.030)	ahh haunisikii bado ?	ahh can't you still hear me ?
+<3>	(Outline, 1.260-1.830)	sawa ?	okay ?
+<4>	(Outline, 1.830-3.510)	<no-speech>	<no-speech>
+<5>	(Inline, 2.030-5.480)	<no-speech>	<no-speech>
+<6>	(Outline, 3.510-5.927)	kata halafu upige -- kata halafu upige tena .	disconnect and then call again -- disconnect and then call again .
+<7>	(Inline, 5.480-5.840)	<no-speech>	<no-speech>
+<8>	(Inline, 5.840-7.300)	<no-speech>	<no-speech>
+<9>	(Outline, 5.927-7.860)	<no-speech>	<no-speech>
+<10>	(Inline, 7.300-10.130)	<no-speech>	<no-speech>
+<11>	(Outline, 7.860-9.080)	<no-speech>	<no-speech>
+<12>	(Outline, 9.080-9.550)	<no-speech>	<no-speech>
+<13>	(Outline, 9.550-13.580)	<no-speech>	<no-speech>
+<14>	(Inline, 10.130-12.460)	<no-speech>	<no-speech>
+<15>	(Inline, 12.460-13.580)	<no-speech> halo <int> .	hello .
+<16>	(Inline, 13.580-14.460)	<no-speech>	<no-speech>
+<17>	(Outline, 13.580-15.036)	<no-speech>	<no-speech>
+<18>	(Inline, 14.460-16.640)	halo <no-speech> usikate .	hello don't disconnect .
+<19>	(Outline, 15.036-15.990)	halo <no-speech> .	hello .
+<20>	(Outline, 15.990-17.460)	<no-speech>	<no-speech>
+<21>	(Inline, 16.640-18.800)	<no-speech>	<no-speech>
+<22>	(Outline, 17.460-18.281)	nasema %incomplete	I say %incomplete
+<23>	(Outline, 18.281-20.404)	<no-speech>	<no-speech>
+<24>	(Inline, 18.800-19.509)	<no-speech> ati ?	pardon ?
+<25>	(Inline, 19.509-20.993)	<no-speech>	<no-speech>
+<26>	(Outline, 20.404-20.800)	ehhe ?	mm ?
+<27>	(Outline, 20.800-22.980)	<no-speech>	<no-speech>
+<28>	(Inline, 20.993-22.370)	usikate .	don't disconnect .
+<29>	(Inline, 22.370-23.470)	<no-speech>	<no-speech>
+<30>	(Outline, 22.980-25.930)	nasema kata <sta> halafu upige tena .	I am saying disconnect and then call again .
+<31>	(Inline, 23.470-23.820)	<no-speech>	<no-speech>
+<32>	(Inline, 23.820-25.160)	<no-speech>	<no-speech>
+<33>	(Inline, 25.160-27.651)	<no-speech> haiwezi Steve amesema nisikate .	it can't Steve says I shouldn't disconnect .
+<34>	(Outline, 25.930-27.270)	<no-speech>	<no-speech>
+<35>	(Outline, 27.270-28.440)	<no-speech> sawa ?	okay ?
+<36>	(Inline, 27.651-28.912)	<no-speech>	<no-speech>
+<37>	(Outline, 28.440-31.620)	<no-speech>	<no-speech>
+<38>	(Inline, 28.912-30.350)	uhuh si sawa .	no it's okay .
+<39>	(Inline, 30.350-31.800)	<no-speech>	<no-speech>
+<40>	(Outline, 31.620-33.716)	nasema kata halafu <sta> upige tena .	I'm saying disconnect then call again .
+<41>	(Inline, 31.800-40.770)	haya sa hebu sema nimecha- -- nimechange place ingine ilikuwa (()) hebu jaribu juu saa hii nimechange siko kwa hao nimeto- -- nilikuwa kwa nyumba nimetoka kwa nyumba .	okay now speak up I have changed to a different place I was (()) try now because I have changed I am not in the house I have -- I was in the house and now I have gotten out .
+<42>	(Outline, 33.716-35.910)	<no-speech>	<no-speech>
+<43>	(Outline, 35.910-39.240)	<no-speech>	<no-speech>
+<44>	(Outline, 39.240-42.209)	<no-speech>	<no-speech>
+<45>	(Inline, 40.770-42.901)	<no-speech>	<no-speech>
+<46>	(Outline, 42.209-45.500)	ehhe <hes> hata hatusikizani vizuri sasa .	mm we can't even hear each other properly now .
+<47>	(Inline, 42.901-43.450)	halo .	hello .
+<48>	(Inline, 43.450-44.472)	<no-speech>	<no-speech>
+<49>	(Inline, 44.472-44.942)	ati ?	pardon ?
+<50>	(Inline, 44.942-45.948)	<no-speech>	<no-speech>
+<51>	(Outline, 45.500-47.250)	<no-speech>	<no-speech>
+<52>	(Inline, 45.948-47.909)	nimetoka nje saa hii siko kwa nyumba hebu %incomplete	I have come out I'm not inside the house now try %incomplete
+<53>	(Outline, 47.250-48.060)	ehhe sema .	mm tell me .
+<54>	(Inline, 47.909-49.220)	<int> unanisikia ?	can you hear me ?
+<55>	(Outline, 48.060-52.150)	<no-speech>	<no-speech>
+<56>	(Inline, 49.220-51.370)	<no-speech>	<no-speech>
+<57>	(Inline, 51.370-51.772)	halo .	hello .
+<58>	(Inline, 51.772-52.710)	<no-speech>	<no-speech>
+<59>	(Outline, 52.150-54.800)	ehhe n- -- <no-speech> -- ehhe nakusikia sasa .	mm mm I can hear you now .
+<60>	(Inline, 52.710-55.050)	<no-speech>	<no-speech>
+<61>	(Outline, 54.800-58.270)	<no-speech>	<no-speech>
+<62>	(Inline, 55.050-57.921)	ehhe saa hii nimetoka nje saa hii kuna network ulikuwa unasemaje sasa ?	mm I have come outside now there's network now what were you saying ?
+<63>	(Inline, 57.921-65.100)	<no-speech> mbele nilikuwa nakwambia leo sijaenda job lakini kesho nitakuwa job leo ni- -- naenda shule jioni .	at first I was telling you that I haven't gone to work today but I will be at work tomorrow today -- I am going to school in the evening .
+<64>	(Outline, 58.270-58.740)	ehhe ?	mm ?
+<65>	(Outline, 58.740-66.510)	<no-speech>	<no-speech>
+<66>	(Inline, 65.100-67.470)	<no-speech>	<no-speech>
+<67>	(Outline, 66.510-68.010)	<no-speech>	<no-speech>
+<68>	(Inline, 67.470-67.960)	(()) .	(()) .
+<69>	(Inline, 67.960-69.310)	<no-speech>	<no-speech>
+<70>	(Outline, 68.010-69.310)	<no-speech>	<no-speech>

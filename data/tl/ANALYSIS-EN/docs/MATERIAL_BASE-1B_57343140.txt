@@ -1,0 +1,6 @@
+<1>	(0.000-7.060)	<sta> nakatutulong umano sa kalusugan ng mga nag-me-menopause ang pagkain ng soya gaya ng taho at tokwa .	eating soy such as soy pudding and tofu can aid the health of those who are about to menopause .
+<2>	(7.060-16.693)	ayon sa North American Menopause Society malaki ang naitutulong ng mga pagkaing ito para sa mga babaeng nasa midlife na at nakakaramdam ng hot flashes .	according to North American Menopause Society these foods can help largely for those women in midlife or experiencing hot flashes .
+<3>	(16.693-18.752)	<sta> mainit at night sweats .	hot and night sweats .
+<4>	(18.752-22.880)	<sta> mga sintomas ng pag-me-menopause .	the symptoms of menopausal .
+<5>	(22.880-23.857)	pabili .	let me buy .
+<6>	(23.857-34.505)	<breath> paliwanag ng mga dalubhasa may taglay kasing isoflavones ang soy na siksik naman sa health benefits at nagtataglay din ng antioxidant properties .	an explanation of the experts soy contains Isoflavones which is rich in health benefits and also contains antioxidant properties .

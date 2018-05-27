@@ -1,0 +1,19 @@
+[0.000]
+<sta> patuloy na nananagumpay ang kampanya ng pamunuang militar na himukin ang mga kabataang miyembro ng New People's Army na magbalik-loob sa batas .
+[10.120]
+ito ay sa pamamagitan ng tulong pangkabuhayan na ipinagkakaloob ng A_F_P sa bawat susukong rebelde para sila'y makapagbagong buhay .
+[20.410]
+may ulat si Eunice Samonte .
+[21.870]
+<no-speech>
+[24.428]
+(()) .
+[27.460]
+ganito inilarawan ni Bobby ang mga miyembro ng N_P_A na sapilitang dumukot sa kaniya para maging pinakabagong miyembro na mag-aaklas sa gobyerno .
+[36.460]
+si Bobby ay labing-apat na taong gulang no read no write at pinakabatang miyembro ng N_P_A .
+[43.310]
+dala ang M_Sixteen naglalakad umano sa kabundukan ang mga kagaya ni Bobby at tinuturuang patayin ang mga sundalong kanilang makikita .
+[51.480]
+<sta> (()) ~ %incomplete
+[53.299]

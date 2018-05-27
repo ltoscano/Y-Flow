@@ -1,0 +1,535 @@
+0.000	inLine	<no-speech>
+0.000	outLine	<no-speech>
+1.995	inLine	halo .
+2.535	inLine	<no-speech>
+4.885	inLine	ehhe Robert .
+5.795	inLine	<no-speech>
+8.025	inLine	habari ya masiku bwana .
+8.215	outLine	<no-speech>
+9.235	inLine	<no-speech>
+9.305	outLine	<sta> mi niko tu .
+11.745	outLine	<no-speech>
+11.865	inLine	mmhm siku hizi unaendanga kazi ?
+14.015	inLine	<no-speech>
+14.265	outLine	<sta> ehhe ?
+14.785	outLine	<no-speech>
+15.915	inLine	unaendanga kazi ?
+17.235	inLine	<no-speech>
+17.635	outLine	<sta> ehhe .
+18.109	outLine	kibarua kidogo kidogo .
+20.705	outLine	<no-speech>
+21.085	inLine	ile ya Kenya bus ama ?
+22.265	inLine	<no-speech>
+22.645	outLine	<sta> ehhe .
+22.994	outLine	uko niliwachana nayo .
+24.585	outLine	<no-speech>
+25.905	inLine	unaendanga wapi ?
+26.445	outLine	<no-speech>
+26.835	inLine	<no-speech>
+27.986	outLine	niko tu na kagari kengine tu hii area kona .
+30.323	outLine	tunafanya fanya tubiashara ndogo ndogo .
+32.505	outLine	<no-speech>
+34.045	inLine	mmhm taxi ama ?
+36.125	inLine	<no-speech>
+36.145	outLine	<sta> mmhm .
+36.876	outLine	<no-speech>
+38.285	inLine	unafanya na Taxi ama ?
+39.525	inLine	<no-speech>
+39.675	outLine	<no-speech>
+40.835	outLine	<sta> hapana .
+41.367	outLine	ni kapickup tu hivi .
+41.395	inLine	<no-speech>
+41.755	inLine	<no-speech>
+42.505	outLine	<no-speech>
+44.145	inLine	ka pick up una transport hizi mambo ya kuhamisha watu %incomplete
+47.745	inLine	<no-speech>
+48.885	outLine	<sta> anafanya tubiashara yake kwa hoteli .
+50.659	outLine	<no-speech>
+52.315	outLine	<no-speech>
+52.805	inLine	kwa hoteli ?
+53.505	outLine	<int> mmhm .
+53.515	inLine	<no-speech>
+54.375	outLine	<no-speech>
+56.215	inLine	sasa as in unafanya %incomplete
+58.335	inLine	<no-speech>
+59.655	inLine	unafanya nayo kukombolewa ama ?
+60.935	outLine	<sta> hapana anachukua nive anafanya tu kazi yake binafsi .
+62.245	inLine	<no-speech>
+65.670	outLine	si ati ni kukombolewa sasa ni uko tu hapo tu .
+66.985	inLine	<no-speech>
+67.335	inLine	<no-speech>
+68.425	outLine	<no-speech>
+69.405	outLine	<sta> heri kutranda randa tu (()) %incomplete
+70.585	inLine	yaani ni mtu tu amefungua biashara yake %incomplete
+71.175	outLine	<no-speech>
+73.485	inLine	<no-speech>
+73.715	outLine	<int> mmhm .
+74.245	outLine	<no-speech>
+76.285	inLine	anakulipa kwa mwezi ama ?
+77.665	inLine	<no-speech>
+77.685	outLine	<no-speech>
+78.035	outLine	<no-speech>
+78.955	outLine	<sta> aai ehhe .
+80.471	outLine	walipeana ati mwezi .
+81.945	outLine	<no-speech>
+83.135	inLine	ehhe ?
+83.705	inLine	<no-speech>
+84.025	outLine	<sta> ehhe si ndiyo kwa mwezi .
+85.715	outLine	<no-speech>
+87.045	outLine	lakini (()) iko %incomplete
+87.765	inLine	ka pesa ngapi hivi ?
+88.185	outLine	<no-speech>
+89.105	inLine	<no-speech>
+89.925	outLine	<sta> kama twenty five hivi hiyo iko sawa kuliko kukaa kwa matatu bwana na saa kumi umefunga kazi umeenda nyumbani .
+95.885	outLine	<no-speech>
+97.235	inLine	twenty five thousand per month ?
+98.485	inLine	<no-speech>
+98.585	outLine	mmhm .
+99.225	outLine	<no-speech>
+100.435	inLine	ehhe you si uko -- uko mbele .
+102.125	inLine	<no-speech>
+102.685	outLine	<sta> hiyo iko afadhali bwana kuliko matatu bwana .
+104.465	outLine	<no-speech>
+105.785	inLine	ehhe kwa hivyo uliachana na Kenya bus kabisa .
+109.745	inLine	<no-speech>
+110.375	outLine	<sta> ahh nilisema wacha nipumzike kwanza kidogo .
+112.265	outLine	<no-speech>
+113.755	inLine	ehhe .
+114.305	inLine	<no-speech>
+114.715	outLine	<sta> nilisema wacha nipumzike kwanza kidogo .
+116.235	inLine	<no-speech>
+116.595	outLine	<no-speech>
+116.635	inLine	<no-speech>
+118.055	inLine	five eighteen saa hii iko na nani ?
+119.795	inLine	<no-speech>
+119.895	outLine	hata sijui sishughulikangi na mambo yao .
+123.885	outLine	<no-speech>
+124.075	inLine	ehhe ?
+124.585	inLine	<no-speech>
+124.755	outLine	sina habari hata sishughulikangi na mambo yao .
+126.015	inLine	<no-speech>
+126.995	inLine	<no-speech>
+128.225	outLine	<no-speech>
+128.545	inLine	<laugh> na Mugambi anaendelea na hiyo gari ?
+130.915	inLine	<no-speech>
+131.595	outLine	<sta> aai Mogambi alienda kitambo bwana .
+133.585	inLine	<no-speech>
+133.605	outLine	<no-speech>
+133.935	inLine	<no-speech>
+134.915	inLine	ehhe ?
+135.275	outLine	<sta> Mogambi aliendanga kitambo kabisa .
+135.415	inLine	<no-speech>
+137.535	outLine	<no-speech>
+138.675	inLine	aliendanga wapi ?
+139.495	inLine	<no-speech>
+140.195	outLine	<sta> yu kwao .
+140.885	outLine	<no-speech>
+142.655	inLine	alifutwanga ?
+143.335	outLine	<no-speech>
+143.515	inLine	<no-speech>
+144.748	outLine	ehhe nasikia sijui alifutwa .
+146.487	outLine	kuna kitu ilifanyika hapo akatoka akaenda .
+148.515	outLine	<no-speech>
+152.275	outLine	<sta> ehhe niambie %incomplete
+152.695	inLine	kwa hivyo Ashley A- -- A- -- Ashley wanaendelea wao aje ?
+153.205	outLine	<no-speech>
+155.845	inLine	<no-speech>
+156.105	outLine	<sta> ehhe ehhe wako sawa .
+157.275	inLine	<no-speech>
+158.615	outLine	<no-speech>
+159.335	inLine	wako Nakuru ama Wako Nairobi ?
+162.035	inLine	<no-speech>
+162.505	outLine	<sta> uko Nairobi .
+163.335	outLine	<no-speech>
+163.805	inLine	<sta> ehhe ?
+165.315	inLine	<no-speech>
+165.635	outLine	wako Nairobi .
+166.428	outLine	na hii -- hii simu -- hii simu ni simu gani unanipigia nayo hii ?
+166.815	inLine	<no-speech>
+168.705	inLine	<no-speech>
+169.385	outLine	<no-speech>
+171.465	inLine	kwa nini ?
+172.144	inLine	<no-speech>
+172.865	outLine	we unajua unakuwanga mkora .
+173.695	inLine	<no-speech>
+175.524	outLine	sasa inaniambia ati tukiongea hii maneno inarekodiwa inarekodiwa namna gani ?
+181.105	inLine	<laugh> nani amekwambia -- nani amekwambia hivyo ?
+182.265	outLine	<no-speech>
+185.585	inLine	<no-speech>
+186.785	outLine	<sta> ehhe unajua Chisa we unakuwanga na vituko we .
+187.525	inLine	ehhe ?
+188.495	inLine	<no-speech>
+189.367	outLine	<no-speech>
+190.445	inLine	<no-speech>
+190.573	outLine	unaweza kuwa umeniweza pahali nijikute mambo imeenda segemnege .
+192.315	inLine	<no-speech>
+194.235	inLine	ehhe ?
+195.123	inLine	<no-speech>
+195.838	outLine	lakini kama ni pahali tunaweza pata pesa iko sawa .
+198.435	inLine	<no-speech>
+198.675	outLine	<sta> kama pesa hakuna hatutaki biashara ingine tofauti ya pesa .
+199.885	inLine	<no-speech>
+200.975	inLine	<no-speech>
+202.705	outLine	<no-speech>
+203.865	inLine	we ongea nami -- ongea nami .
+206.566	inLine	niambie sasa %incomplete
+208.095	inLine	<no-speech>
+209.055	inLine	ehhe ?
+209.575	inLine	<no-speech>
+209.615	outLine	ehhe .
+210.007	outLine	pesa iko %incomplete
+210.545	inLine	halo .
+210.691	outLine	<sta> tutapata pesa wapi ?
+211.125	inLine	<no-speech>
+211.645	outLine	<no-speech>
+212.925	inLine	nakuuliza hivi ?
+214.165	outLine	ehhe .
+214.295	inLine	<no-speech>
+214.715	outLine	<no-speech>
+215.665	inLine	<sta> umeona nikinunua pick up mi nita- -- nitamsaidia <int> ?
+217.675	inLine	<no-speech>
+220.605	outLine	<sta> inalingana unataka kufanya nayo nini ?
+221.675	inLine	<no-speech>
+222.045	inLine	<no-speech>
+222.295	outLine	<no-speech>
+224.885	inLine	si hata we unichanue uniambie ni nini naweza nikafanya nayo .
+228.475	inLine	<no-speech>
+230.685	outLine	<sta> sasa pick up %incomplete
+231.625	inLine	<no-speech>
+231.995	inLine	<no-speech>
+232.245	outLine	<no-speech>
+233.175	outLine	aai .
+233.672	outLine	pick up hapana .
+233.685	inLine	ehhe .
+234.105	inLine	<no-speech>
+235.098	outLine	lakini sio mbaya unawezafanya nayo kazi ndogo ndogo but hiyo ni mpya sio mzee .
+238.565	inLine	<no-speech>
+238.995	inLine	<no-speech>
+239.615	outLine	<no-speech>
+240.695	inLine	si unajua we ni driver na umeendesha gari miaka mingi inafaa uniambie %incomplete
+242.955	outLine	pick up ina- -- pick up inakuliwa kama- -- kama matatu .
+244.475	inLine	<no-speech>
+245.967	outLine	polisi hataki kuona pick up na macho .
+248.035	outLine	<no-speech>
+249.475	inLine	Ngai -- Ngai -- Ngai kwa hivyo si mzuri bado ?
+252.095	outLine	<sta> aai pick up hapana .
+252.665	inLine	<no-speech>
+253.235	outLine	<no-speech>
+254.375	inLine	so taxi nayo nikinunua ?
+256.835	inLine	<no-speech>
+256.975	outLine	mmhm ehhe .
+258.362	outLine	sema taxi .
+258.795	inLine	gari ndogo .
+259.064	outLine	hiyo ni afadhali unawezafanya nayo hata car hire hio ni afadhali .
+259.625	inLine	<no-speech>
+260.735	inLine	ehhe ?
+261.235	inLine	<no-speech>
+263.045	outLine	hio inaweza pata nayo kazi .
+264.165	outLine	<no-speech>
+264.225	inLine	mmhm <no-speech> -- mmhm .
+265.715	inLine	<no-speech>
+266.115	outLine	si unisambazie hii pesa uko naye bwana unitumie hapo hata elfu kumi nikulange pole pole huku ?
+267.025	inLine	si unajua naona %incomplete
+268.045	inLine	<no-speech>
+269.865	inLine	<no-speech>
+270.275	inLine	<no-speech>
+270.295	outLine	<no-speech>
+271.545	inLine	<sta> <laugh> we ongea tu ongea nami juu sasa nataka biashara bwana nataka nifanye biashara .
+277.845	inLine	<no-speech>
+278.775	outLine	<sta> mmhm .
+279.324	outLine	ni sawa we jikakamue .
+280.555	inLine	nataka kufanya biashara juu <breath> hii kazi nayo ya kuandikwa si mzuri sana .
+281.345	outLine	mmhm .
+282.695	outLine	<no-speech>
+284.995	inLine	<no-speech>
+285.935	outLine	<sta> <laugh> we uko na pesa .
+288.015	inLine	mmhm .
+289.051	outLine	biashara iko mingi sana hata ya kuuza watu zinapatikana tu .
+289.875	inLine	<no-speech>
+292.525	outLine	<no-speech>
+293.555	inLine	ati ya kuuza watu kuna biashara ya kuuza watu ?
+293.765	outLine	<no-speech>
+294.185	outLine	<no-speech>
+296.759	inLine	<no-speech>
+297.425	outLine	<sta> yeah .
+297.685	inLine	<no-speech>
+297.842	outLine	we una- -- unafikiri hapo ni mchezo ?
+299.165	inLine	<no-speech>
+299.895	inLine	<no-speech>
+300.495	outLine	<no-speech>
+301.545	outLine	<sta> pesa -- pesa ikiwa %incomplete
+301.635	inLine	ehhe ?
+302.525	inLine	<no-speech>
+302.995	outLine	<no-speech>
+303.345	inLine	<sta> ehhe .
+304.505	outLine	<sta> hakuna biashara mtu hajawahi kopa .
+304.685	inLine	<no-speech>
+305.515	inLine	<no-speech>
+306.195	outLine	<no-speech>
+306.927	inLine	ati biashara ya kuuza watu <laugh> kuna biashara inakuwanga ya kuuza watu kweli ?
+308.525	outLine	<no-speech>
+309.625	outLine	<no-speech>
+310.764	inLine	<no-speech>
+310.845	outLine	<sta> si unafungua tu pahali unawaambia warembo wanakaa tu wanakamatwa tu hapo mdogo mdogo <int> .
+312.835	inLine	<no-speech>
+314.375	inLine	<no-speech>
+315.745	outLine	<no-speech>
+315.795	inLine	<no-speech>
+316.745	inLine	<laugh> ehhe hata we unakuwanga wa vituko saa zingine .
+317.725	outLine	<no-speech>
+318.105	outLine	<no-speech>
+319.035	outLine	<no-speech>
+322.501	inLine	<laugh> kwa hivyo ni %incomplete
+326.895	inLine	<no-speech>
+327.565	outLine	<no-speech>
+327.875	inLine	kwa hivyo nifungue mahali inauzwa watu ?
+329.115	outLine	<no-speech>
+329.631	inLine	<no-speech>
+330.745	outLine	by the way sijakwambia nakwambia kama pesa iko bloody fucking hakuna kazi huwezi fanya .
+332.215	inLine	<no-speech>
+333.075	inLine	<no-speech>
+333.715	inLine	<no-speech>
+335.095	inLine	<laugh> kesho utakuwa wapi ?
+335.525	outLine	<no-speech>
+338.735	inLine	<no-speech>
+339.465	outLine	<sta> mi niko napatikana wakati wowote .
+340.695	inLine	<no-speech>
+341.405	outLine	hata saa kumi ya usiku ukinitaka unanipata tu .
+341.885	inLine	<no-speech>
+343.775	outLine	<no-speech>
+344.575	outLine	<no-speech>
+344.755	inLine	kesho niko Nairobi nitakupigia simu .
+344.935	outLine	<no-speech>
+347.235	inLine	<no-speech>
+347.895	outLine	<sta> ukuje na pesa bwana .
+349.508	outLine	si ni pesa tunataka .
+349.785	inLine	<no-speech>
+350.195	inLine	<no-speech>
+350.665	outLine	<no-speech>
+351.285	inLine	<no-speech>
+352.312	inLine	nani amekwambia sina pesa <laugh> ?
+354.115	inLine	<no-speech>
+354.775	outLine	<sta> pesa kama pesa ndiyo twende tukamate pombe kama fombe .
+355.955	inLine	<no-speech>
+356.315	inLine	<no-speech>
+357.665	outLine	<no-speech>
+358.935	inLine	unakunywanga pombe siku hizi ?
+360.255	outLine	<no-speech>
+360.525	inLine	<no-speech>
+361.654	outLine	niliokoka bwana .
+362.225	inLine	<laugh> ehhe ?
+362.621	outLine	<no-speech>
+364.725	outLine	mi niliokoka .
+365.505	inLine	<no-speech>
+366.033	outLine	<no-speech>
+366.725	inLine	hukunywangi ?
+368.005	inLine	<no-speech>
+368.124	outLine	ndiyo maana niliwacha <int> .
+369.405	outLine	<no-speech>
+371.085	inLine	ahh kwenda huko ukiniona ukiona Josiah ndiyo huyo si utakunywa tu .
+374.647	inLine	<no-speech>
+375.425	outLine	<sta> niliwacha bwana .
+376.335	inLine	<no-speech>
+377.074	outLine	<no-speech>
+377.935	inLine	kabisa kabisa huwezi kukunywa hata -- hata -- hata nini hata Smirnoff hata nini ?
+381.895	inLine	<no-speech>
+383.595	inLine	ile tu ya kukunywa tu once in a Blue Moon .
+384.105	outLine	<no-speech>
+385.768	inLine	<no-speech>
+387.495	inLine	<no-speech>
+387.505	outLine	<sta> si nipatikane tutaona tu vile iko <int> .
+388.685	inLine	<sta> <laugh> sasa kesho nakutaka sana .
+389.205	outLine	<no-speech>
+390.215	outLine	<no-speech>
+390.575	outLine	<no-speech>
+392.915	inLine	<no-speech>
+393.855	outLine	<int> saa ngapi ?
+394.495	outLine	<no-speech>
+395.035	inLine	<sta> kesho saa tano nataka kukuona Kencom .
+395.515	outLine	<no-speech>
+395.875	outLine	<no-speech>
+396.785	outLine	<no-speech>
+397.155	outLine	<no-speech>
+397.935	inLine	<no-speech>
+399.735	outLine	<sta> we niambie tu- -- juu ni (()) %incomplete
+401.215	inLine	<no-speech>
+402.123	outLine	unaniambianga hivyo kila siku mara ohh ohh nakupigia simu sijui (()) %incomplete
+402.405	inLine	<no-speech>
+403.425	inLine	<no-speech>
+403.795	inLine	<no-speech>
+405.265	inLine	uhuh lakini kesho %incomplete
+406.395	outLine	<no-speech>
+406.909	inLine	<no-speech>
+407.925	inLine	ona %incomplete
+408.255	outLine	mmhm .
+408.515	inLine	<no-speech>
+408.825	outLine	<no-speech>
+409.455	inLine	kesho -- kesho nitakuwa -- kesho nitakuwa available .
+411.863	inLine	kesho nitakuwa community ile biashara yangu ya kawaida .
+412.075	outLine	<no-speech>
+412.425	outLine	<no-speech>
+413.675	outLine	<no-speech>
+414.025	outLine	<no-speech>
+414.755	inLine	<no-speech>
+415.155	outLine	mmhm .
+415.675	outLine	<no-speech>
+416.335	inLine	nataka at least nipate ka transfer nikuje through <lipsmack> unajua Nairobi ndiyo pesa inakuwanga huko kwenu bwana hakuna kitu huko .
+419.825	outLine	<no-speech>
+420.225	outLine	<no-speech>
+423.495	inLine	<no-speech>
+424.795	outLine	<sta> haiya sawasawa tutaongea ukikuja utaniambia .
+425.495	inLine	mmhm .
+425.853	inLine	<no-speech>
+427.365	outLine	<no-speech>
+429.152	inLine	<sta> mmhm saa hii mko na Ashley ?
+430.605	inLine	<no-speech>
+431.015	outLine	mmhm ?
+431.495	outLine	<no-speech>
+432.215	inLine	Ashley mko na ye pamoja ?
+434.095	inLine	<no-speech>
+435.245	outLine	<sta> si ndiyo .
+435.835	outLine	<no-speech>
+436.515	inLine	<sta> saa hii a- -- ako mko na ye saa hii na %incomplete
+439.605	inLine	<no-speech>
+440.165	outLine	<sta> bwana si mi niko kazini bwana .
+442.095	inLine	<no-speech>
+442.365	outLine	<no-speech>
+442.755	inLine	<no-speech>
+443.765	inLine	<sta> saa hii uko kazi hau- -- hauko na Ashley saa hii <int> ?
+445.825	inLine	<no-speech>
+446.595	outLine	<sta> si niko kazi kwani saa hii ni saa ngapi na we ?
+448.615	outLine	<no-speech>
+450.585	inLine	wah unajua utaweza kuwa uko kwa nyumba %incomplete
+452.325	inLine	<no-speech>
+453.145	outLine	<sta> hapana siko kwa nyumba .
+454.455	inLine	<no-speech>
+454.515	outLine	<no-speech>
+455.511	inLine	nilikuwa nataka nisikie kama Ashley amejua kuongea .
+457.438	inLine	<no-speech>
+458.375	outLine	<sta> we kesho kama unakuja kuja na ulete pesa .
+459.415	inLine	<no-speech>
+461.655	inLine	ehhe ?
+462.435	inLine	<no-speech>
+464.345	inLine	kesho nakuja .
+465.325	inLine	<no-speech>
+466.305	inLine	kesho nakuja kitu kama saa tano nitakuwa niko hapo .
+466.435	outLine	<no-speech>
+467.305	outLine	<no-speech>
+467.655	outLine	<no-speech>
+469.105	inLine	<no-speech>
+469.625	outLine	<sta> haya sawasawa .
+470.615	inLine	halafu ukuje sijui kama utakuwa available ?
+470.823	outLine	<no-speech>
+471.975	outLine	<no-speech>
+473.845	inLine	<no-speech>
+475.185	outLine	<sta> mi napatikana bwana .
+476.299	outLine	<no-speech>
+477.725	inLine	kesho utapatikana ?
+478.645	inLine	<no-speech>
+479.128	outLine	napatikana kabisa .
+480.565	outLine	<no-speech>
+481.655	inLine	kwa hivyo kesho hautaenda -- hautaenda kazi ?
+483.555	inLine	<no-speech>
+485.595	outLine	<sta> sasa nitakosa aje bila kazi nikikosa kwenda kazi si nitakufa njaa ?
+489.252	outLine	ukiniambia utanipatia pesa siwezi enda .
+491.366	outLine	<no-speech>
+492.385	outLine	<no-speech>
+492.595	inLine	<laugh> halafu Njagi wanaendelea na madam bado ?
+495.935	inLine	<no-speech>
+496.225	outLine	<sta> ahh mi hata mambo yao sijui kabisa niliwachana na biashara yao mi .
+498.795	inLine	<no-speech>
+500.345	outLine	<no-speech>
+500.395	inLine	<no-speech>
+501.295	inLine	nani yule anaitwanga Mureithi -- Mureithi naendelea na ile four eighty five ?
+506.225	inLine	<no-speech>
+506.845	outLine	ehhe ye bado ako Nai .
+508.135	outLine	<no-speech>
+509.395	inLine	ehhe amenona kabisa ?
+511.585	inLine	<no-speech>
+512.465	outLine	<sta> wacha nione tu- -- .
+513.315	outLine	hiyo ni yake <int> .
+514.055	outLine	<no-speech>
+514.485	inLine	jamaa bwana ananona kama %incomplete
+516.263	inLine	<no-speech>
+516.875	outLine	<no-speech>
+517.185	inLine	<no-speech>
+517.889	outLine	ehhe kama nguruwe bwana .
+518.505	inLine	<no-speech>
+519.115	outLine	<no-speech>
+519.648	inLine	na uki- -- na ukiona ukiona mwanaume ananona hivyo %incomplete
+521.934	inLine	<no-speech>
+522.375	outLine	<no-speech>
+522.725	outLine	<no-speech>
+523.287	inLine	ehhe ?
+523.685	outLine	mmhm .
+523.735	inLine	<no-speech>
+524.335	outLine	<no-speech>
+524.835	inLine	Otieno ?
+525.325	outLine	<sta> ehhe nakusikia .
+525.505	inLine	<no-speech>
+526.515	inLine	ukiona mwanaume hiyo si mwanaume hafai anone .
+526.555	outLine	<no-speech>
+532.018	inLine	<laugh> kunona tuliachia wanawake bwana .
+534.315	outLine	<sta> unaona kama ulikula juala unajua we huwezi nona .
+534.345	inLine	<no-speech>
+535.945	inLine	<no-speech>
+537.005	inLine	<no-speech>
+537.325	outLine	<no-speech>
+538.445	inLine	<no-speech>
+539.985	inLine	<no-speech>
+540.005	outLine	<sta> watu wameanza kunona .
+540.875	inLine	<no-speech>
+541.825	inLine	<no-speech>
+543.205	inLine	ehhe ?
+543.386	outLine	ukiwa huna stress unafanya kazi unafikiri itakusaidia utanona tu .
+543.725	inLine	<no-speech>
+549.685	inLine	ehhe mtu ka sa mi Josiah mi nitanona wapi ?
+550.715	outLine	<no-speech>
+552.395	outLine	<sta> na we huwezi nona we ulikula monyore juala kitambo .
+554.975	inLine	<no-speech>
+555.634	outLine	<no-speech>
+556.105	inLine	<no-speech>
+557.185	inLine	<no-speech>
+558.435	inLine	ile mtu yangu unamwonanga ?
+558.812	outLine	haya .
+559.525	outLine	<no-speech>
+560.695	inLine	<no-speech>
+561.185	outLine	<no-speech>
+562.213	outLine	mtu gani hii tena ?
+563.365	outLine	<no-speech>
+563.515	inLine	<sta> ile -- ile -- ile -- ile tu .
+565.513	inLine	<no-speech>
+566.345	outLine	<sta> ahh huko hata hiyo mu- %incomplete
+566.485	inLine	<no-speech>
+568.145	outLine	ahh huku kwa ma- -- matatu mi hata si shughulikanangi na hao watu .
+571.682	outLine	<no-speech>
+572.305	inLine	<laugh> ahh huyo nilisema mu- -- Mungu anisaidie tu nitoke hapo .
+573.585	outLine	<no-speech>
+576.345	inLine	<no-speech>
+577.065	outLine	<sta> haya sawasawa <int> .
+577.875	inLine	ehhe na -- na ikaukwa -- na ikakuwa tu hivyo hivyo .
+578.485	outLine	<no-speech>
+580.614	inLine	<no-speech>
+580.625	outLine	<sta> ehhe nliendanga hivyo .
+581.635	inLine	<no-speech>
+582.595	inLine	<no-speech>
+583.035	inLine	<no-speech>
+583.231	outLine	unaamuanga unaenda na maisha inaendelea tu .
+584.485	inLine	ehhe ?
+584.995	inLine	<no-speech>
+586.085	inLine	<no-speech>
+586.325	outLine	<no-speech>
+587.792	inLine	mm- -- huyo hata sitaki kumwona na macho yangu mi .
+588.615	outLine	<no-speech>
+589.005	outLine	<no-speech>
+590.055	inLine	<no-speech>
+590.285	outLine	<int> ye ?
+590.935	outLine	<no-speech>
+592.175	outLine	<no-speech>
+593.015	outLine	<no-speech>
+593.505	inLine	sitaki kumwona na macho yangu .
+594.085	outLine	<no-speech>
+594.475	outLine	<no-speech>
+594.865	inLine	hata sitaki kumwona sitaki kusikia <laugh> .
+597.195	inLine	<no-speech>
+597.865

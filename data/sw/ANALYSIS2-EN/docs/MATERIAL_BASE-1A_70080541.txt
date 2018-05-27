@@ -1,0 +1,49 @@
+<1>	(Outline, 0.000-3.810)	ahh ni sawa wangu wangu mi naendelea tu na shughuli .	ahh it's okay quickly I'm just carrying out tasks .
+<2>	(Inline, 0.000-3.970)	<no-speech>	<no-speech>
+<3>	(Outline, 3.810-8.340)	<no-speech>	<no-speech>
+<4>	(Inline, 3.970-5.887)	ahh siku yako leo ikoje ?	ahh how was your day today ?
+<5>	(Inline, 5.887-7.220)	imeendaje mpaka saa hizi ?	what has happened up to now ?
+<6>	(Inline, 7.220-8.640)	<no-speech>	<no-speech>
+<7>	(Outline, 8.340-8.955)	ahh .	ahh .
+<8>	(Inline, 8.640-9.820)	<no-speech>	<no-speech>
+<9>	(Outline, 8.955-14.332)	hapa nimepanga foleni mpaka saa hii foleni yenyewe haijamalizika nakwambia kuingia ndani shida .	I am queuing on the line up to now the line itself is not yet over I am telling getting inside is a problem .
+<10>	(Inline, 9.820-14.970)	<no-speech>	<no-speech>
+<11>	(Outline, 14.332-16.073)	<no-speech>	<no-speech>
+<12>	(Inline, 14.970-16.239)	foleni huko benki ?	line at the bank ?
+<13>	(Outline, 16.073-18.054)	ehhe ehhe .	mm mm .
+<14>	(Inline, 16.239-17.154)	<no-speech>	<no-speech>
+<15>	(Inline, 17.154-17.716)	uko wapi ?	where are you ?
+<16>	(Inline, 17.716-18.464)	<no-speech>	<no-speech>
+<17>	(Outline, 18.054-19.368)	<no-speech>	<no-speech>
+<18>	(Inline, 18.464-19.879)	ahh pole sana ndugu yangu .	really I am very sorry my brother .
+<19>	(Outline, 19.368-20.290)	ehhe Equity .	mm Equity .
+<20>	(Inline, 19.879-21.272)	<no-speech>	<no-speech>
+<21>	(Outline, 20.290-23.180)	<no-speech>	<no-speech>
+<22>	(Inline, 21.272-22.250)	pole sana .	very sorry .
+<23>	(Inline, 22.250-28.490)	<no-speech>	<no-speech>
+<24>	(Outline, 23.180-29.840)	ahh nimeshapoa lakini ndiyo hivyo najitahidi ndiyo nasongasonga <sta> lakini naingia ndani saa hii narejea mlangoni .	ahh I have recovered but that is it I am making an effort so I am moving about but I am going inside and I'm now returning to the door .
+<25>	(Inline, 28.490-32.200)	ehhe usijali wajua mvumilivu hula mbivu ?	mm don't worry patience pays ?
+<26>	(Outline, 29.840-32.170)	<no-speech>	<no-speech>
+<27>	(Outline, 32.170-33.675)	<laugh> ndiyo maanake .	that's why .
+<28>	(Inline, 32.200-34.840)	<no-speech>	<no-speech>
+<29>	(Outline, 33.675-34.962)	<no-speech>	<no-speech>
+<30>	(Inline, 34.840-35.240)	<no-speech>	<no-speech>
+<31>	(Outline, 34.962-41.750)	lakini mbivu yenyewe siioni mpaka saa hizi kuanzia asubuhi yote nimekaa hapa mpaka saa hizi hamna kitu ninachoona .	but the benefits themselves I can't see since morning I have been hear up to now there is nothing I am seeing .
+<32>	(Inline, 35.240-41.040)	<no-speech>	<no-speech>
+<33>	(Inline, 41.040-51.156)	ahh usijali hata mi nilikuwa sijala kiamsha kinywa lakini unajua kupata chakula cha mchana <breath> hapo katika hoteli ya mama Juma na nimekula samaki mzuri kweli .	ahh don't worry I hadn't also taken breakfast but you know after getting lunch at Mama Juma's hotel I have eaten really nice fish .
+<34>	(Outline, 41.750-43.490)	<no-speech>	<no-speech>
+<35>	(Outline, 43.490-44.390)	<no-speech>	<no-speech>
+<36>	(Outline, 44.390-45.580)	<no-speech>	<no-speech>
+<37>	(Outline, 45.580-45.940)	<no-speech>	<no-speech>
+<38>	(Outline, 45.940-50.790)	<no-speech>	<no-speech>
+<39>	(Outline, 50.790-52.321)	<no-speech>	<no-speech>
+<40>	(Inline, 51.156-52.370)	<no-speech>	<no-speech>
+<41>	(Outline, 52.321-53.510)	ni tamu ehhe ?	it's delicious mm ?
+<42>	(Inline, 52.370-57.440)	<no-speech> mzuri sana yaani anapika vizuri yule mama sana nampongeza kwa kweli kwa hilo .	very nice that is she cooks very nice that woman I congratulate her truly for that .
+<43>	(Outline, 53.510-56.200)	<no-speech>	<no-speech>
+<44>	(Outline, 56.200-59.680)	<int> jioni si utanipeleka wacha mi nikapige kidogo .	will you take me in the evening so that I also eat a little .
+<45>	(Inline, 57.440-59.920)	<no-speech>	<no-speech>
+<46>	(Outline, 59.680-61.490)	<no-speech>	<no-speech>
+<47>	(Inline, 59.920-60.770)	(()) .	(()) .
+<48>	(Inline, 60.770-62.380)	<no-speech>	<no-speech>
+<49>	(Outline, 61.490-62.380)	ehhe .	mm .

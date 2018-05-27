@@ -1,0 +1,78 @@
+<1>	(Inline, 0.000-0.437)	ahh .	ahh .
+<2>	(Outline, 0.000-2.410)	<no-speech>	<no-speech>
+<3>	(Inline, 0.437-1.486)	sikuelewi umesemaje ?	I don't understand you what have you said ?
+<4>	(Inline, 1.486-2.686)	hebu rudia venye umesema .	repeat what you've said .
+<5>	(Outline, 2.410-3.854)	<no-speech>	<no-speech>
+<6>	(Inline, 2.686-3.190)	rudia .	repeat .
+<7>	(Inline, 3.190-10.460)	<no-speech>	<no-speech>
+<8>	(Outline, 3.854-7.620)	ahh nakuuliza ni timu gani na gani tuta- -- watakuwa wakicheza -- watakuwa wakicheza ?	ahh I'm asking you which teams we will -- will be playing -- will be playing ?
+<9>	(Outline, 7.620-9.370)	<no-speech>	<no-speech>
+<10>	(Outline, 9.370-9.820)	<no-speech>	<no-speech>
+<11>	(Outline, 9.820-11.310)	<no-speech>	<no-speech>
+<12>	(Inline, 10.460-11.030)	ehhe .	mm .
+<13>	(Inline, 11.030-14.590)	<no-speech>	<no-speech>
+<14>	(Outline, 11.310-11.920)	halo .	hello .
+<15>	(Outline, 11.920-12.830)	<no-speech>	<no-speech>
+<16>	(Outline, 12.830-15.510)	<laugh> ama hunishikanishi buda ?	or can't you understand me still dude ?
+<17>	(Inline, 14.590-15.780)	halo nakusikia .	hello I can hear you .
+<18>	(Outline, 15.510-16.770)	<no-speech>	<no-speech>
+<19>	(Inline, 15.780-19.140)	<no-speech>	<no-speech>
+<20>	(Outline, 16.770-17.430)	ehhe ?	mm ?
+<21>	(Outline, 17.430-19.330)	<no-speech>	<no-speech>
+<22>	(Inline, 19.140-19.780)	halo .	hello .
+<23>	(Outline, 19.330-25.953)	nakuuliza <no-speech> -- nakuuliza ?	I'm asking you -- I'm asking you ?
+<24>	(Inline, 19.780-23.070)	<no-speech>	<no-speech>
+<25>	(Inline, 23.070-23.660)	ehhe .	mm .
+<26>	(Inline, 23.660-28.700)	<no-speech>	<no-speech>
+<27>	(Outline, 25.953-27.912)	<no-speech>	<no-speech>
+<28>	(Outline, 27.912-28.350)	halo .	hello .
+<29>	(Outline, 28.350-30.220)	<no-speech>	<no-speech>
+<30>	(Inline, 28.700-29.300)	ehhe .	mm .
+<31>	(Inline, 29.300-36.470)	<no-speech>	<no-speech>
+<32>	(Outline, 30.220-33.420)	<sta> so watakuwa wakicheza hapo %incomplete	so they will be playing there in %incomplete
+<33>	(Outline, 33.420-34.570)	<no-speech>	<no-speech>
+<34>	(Outline, 34.570-36.400)	ehhe ?	mm ?
+<35>	(Outline, 36.400-39.530)	<no-speech>	<no-speech>
+<36>	(Inline, 36.470-39.850)	ndiyo nakwambiaje nakwa- -- nakushow -- nakwambia %incomplete	that's why I'm telling you -- I'm telling you -- I'm telling you %incomplete
+<37>	(Outline, 39.530-41.340)	ehhe <no-speech> ehhe .	mm mm .
+<38>	(Inline, 39.850-43.040)	<no-speech>	<no-speech>
+<39>	(Outline, 41.340-43.670)	<no-speech>	<no-speech>
+<40>	(Inline, 43.040-47.130)	<sta> utulie kidogo ndiyo tus- -- tu- -- tu- -- tu- -- tusikizane vizuri .	calm a little bit down so that we can listen to each other well .
+<41>	(Outline, 43.670-45.080)	nakusikia endelea .	I can hear you continue .
+<42>	(Outline, 45.080-46.210)	<no-speech>	<no-speech>
+<43>	(Outline, 46.210-47.512)	endelea -- endelea nakus- %incomplete	continue -- continue %incomplete
+<44>	(Inline, 47.130-56.150)	<no-speech>	<no-speech>
+<45>	(Outline, 47.512-48.603)	ehhe ?	mm ?
+<46>	(Outline, 48.603-51.492)	<no-speech>	<no-speech>
+<47>	(Outline, 51.492-53.650)	endelea -- endelea mbona unanyamaza ?	continue -- continue why are you quiet again ?
+<48>	(Outline, 53.650-54.890)	<no-speech>	<no-speech>
+<49>	(Outline, 54.890-56.140)	<no-speech>	<no-speech>
+<50>	(Outline, 56.140-57.010)	<breath> ehhe ?	mm ?
+<51>	(Inline, 56.150-57.422)	sijanyamaza .	I haven't gone quiet .
+<52>	(Outline, 57.010-59.250)	<no-speech>	<no-speech>
+<53>	(Inline, 57.422-58.370)	nakwambiaje ?	what am I telling you ?
+<54>	(Inline, 58.370-59.890)	<no-speech>	<no-speech>
+<55>	(Outline, 59.250-59.890)	ehhe .	mm .
+<56>	(Inline, 59.890-61.050)	nakwambiaje ?	what am I telling you ?
+<57>	(Outline, 59.890-61.970)	<no-speech>	<no-speech>
+<58>	(Inline, 61.050-62.810)	<no-speech>	<no-speech>
+<59>	(Outline, 61.970-62.590)	ehhe .	mm .
+<60>	(Outline, 62.590-65.270)	<no-speech>	<no-speech>
+<61>	(Inline, 62.810-66.420)	si leo saa tatu -- leo saa tatu tukitoka biashara %incomplete	today at nine o'clock -- today at nine o'clock when we're done with business %incomplete
+<62>	(Outline, 65.270-67.585)	<no-speech>	<no-speech>
+<63>	(Inline, 66.420-70.960)	<no-speech>	<no-speech>
+<64>	(Outline, 67.585-68.000)	ehhe .	mm .
+<65>	(Outline, 68.000-70.114)	<no-speech>	<no-speech>
+<66>	(Outline, 70.114-72.084)	halafu we naku- -- nakwambia hivi %incomplete	and then I'm -- I'm telling you that %incomplete
+<67>	(Inline, 70.960-73.293)	nataka tu -- tujue saa hii %incomplete	I want us to -- to know at this moment %incomplete
+<68>	(Outline, 72.084-73.580)	<no-speech>	<no-speech>
+<69>	(Inline, 73.293-74.740)	(()) <no-speech> .	(()) .
+<70>	(Outline, 73.580-74.830)	<no-speech>	<no-speech>
+<71>	(Inline, 74.740-75.320)	ehhe .	mm .
+<72>	(Outline, 74.830-79.560)	ahh mi nakwambia <no-speech> -- mi nakwambia ukishaona kandanda ikishaisha %incomplete	ahh I saying -- I'm saying when you're done watching soccer %incomplete
+<73>	(Inline, 75.320-82.410)	<no-speech>	<no-speech>
+<74>	(Outline, 79.560-81.020)	<no-speech>	<no-speech>
+<75>	(Outline, 81.020-82.360)	ehhe <no-speech> halo .	mm hello .
+<76>	(Outline, 82.360-83.370)	<no-speech>	<no-speech>
+<77>	(Inline, 82.410-82.990)	ehhe .	mm .
+<78>	(Inline, 82.990-83.370)	<no-speech>	<no-speech>

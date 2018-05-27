@@ -1,0 +1,67 @@
+<1>	(Inline, 0.000-1.970)	na yule shemeji yako %incomplete	and your in-law %incomplete
+<2>	(Outline, 0.000-2.550)	<no-speech>	<no-speech>
+<3>	(Inline, 1.970-4.480)	<no-speech>	<no-speech>
+<4>	(Outline, 2.550-3.180)	ehhe .	mm .
+<5>	(Outline, 3.180-12.810)	<no-speech>	<no-speech>
+<6>	(Inline, 4.480-6.690)	ule- -- yule shemeji yako %incomplete	your brother-in-law %incomplete
+<7>	(Inline, 6.690-8.070)	(()) <no-speech> .	(()) .
+<8>	(Inline, 8.070-11.370)	alipo- -- alipopata ajali na lile gari la %incomplete	when he -- when he was in an accident with that vehicle of %incomplete
+<9>	(Inline, 11.370-12.340)	<no-speech>	<no-speech>
+<10>	(Inline, 12.340-13.844)	lile -- lile gari lake %incomplete	his vehicle %incomplete
+<11>	(Outline, 12.810-13.600)	ohh .	ohh .
+<12>	(Outline, 13.600-14.480)	<no-speech>	<no-speech>
+<13>	(Inline, 13.844-14.275)	ehhe .	mm .
+<14>	(Inline, 14.275-15.550)	unakumbuka ?	do you remember ?
+<15>	(Outline, 14.480-15.172)	ehhe .	mm .
+<16>	(Outline, 15.172-16.242)	<no-speech>	<no-speech>
+<17>	(Inline, 15.550-17.500)	<no-speech>	<no-speech>
+<18>	(Outline, 16.242-17.319)	naikumbuka vizuri .	I remember well .
+<19>	(Outline, 17.319-18.690)	sasa ye %incomplete	now %incomplete
+<20>	(Inline, 17.500-19.600)	hiyo ke- -- hiyo kesi iliendaje ?	how did the case go ?
+<21>	(Outline, 18.690-21.000)	<no-speech>	<no-speech>
+<22>	(Inline, 19.600-23.110)	<no-speech>	<no-speech>
+<23>	(Outline, 21.000-22.820)	hiyo kesi ilienda hivi %incomplete	this is how the case went %incomplete
+<24>	(Outline, 22.820-23.780)	<no-speech>	<no-speech>
+<25>	(Inline, 23.110-23.580)	ehhe .	mm .
+<26>	(Inline, 23.580-27.390)	<no-speech>	<no-speech>
+<27>	(Outline, 23.780-26.930)	mwenye kugonga ye na -- na gari lake %incomplete	whoever hit him with his car %incomplete
+<28>	(Outline, 26.930-27.930)	<no-speech>	<no-speech>
+<29>	(Inline, 27.390-27.890)	ehhe .	mm .
+<30>	(Inline, 27.890-31.400)	<no-speech>	<no-speech>
+<31>	(Outline, 27.930-34.610)	<sta> ilibidi ali- -- apelekwe kortini halafu akalipia fidia .	he was taken to court and then paid damages .
+<32>	(Inline, 31.400-31.900)	ehhe .	mm .
+<33>	(Inline, 31.900-41.310)	<no-speech>	<no-speech>
+<34>	(Outline, 34.610-35.960)	<no-speech>	<no-speech>
+<35>	(Outline, 35.960-41.000)	nayo ka- -- kampuni -- kampuni pia ikalipia ye .	and the company -- the company also paid for him .
+<36>	(Outline, 41.000-43.060)	<no-speech>	<no-speech>
+<37>	(Inline, 41.310-41.820)	ehhe .	mm .
+<38>	(Inline, 41.820-46.970)	<no-speech>	<no-speech>
+<39>	(Outline, 43.060-44.994)	lakini amekuwa amekaa bado .	but he has just been sitting .
+<40>	(Outline, 44.994-46.470)	bado hajatembea vizuri .	he hasn't still walked properly .
+<41>	(Outline, 46.470-48.430)	<no-speech>	<no-speech>
+<42>	(Inline, 46.970-47.310)	ehhe .	mm .
+<43>	(Inline, 47.310-48.720)	na alilipwa ?	and was he paid ?
+<44>	(Outline, 48.430-48.790)	<no-speech>	<no-speech>
+<45>	(Inline, 48.720-51.290)	<no-speech>	<no-speech>
+<46>	(Outline, 48.790-49.910)	<no-speech>	<no-speech>
+<47>	(Outline, 49.910-51.170)	alilipwa %incomplete	he was paid %incomplete
+<48>	(Outline, 51.170-52.690)	<no-speech>	<no-speech>
+<49>	(Inline, 51.290-51.820)	ehhe <int> .	mm .
+<50>	(Inline, 51.820-57.330)	<no-speech>	<no-speech>
+<51>	(Outline, 52.690-57.010)	alilipwa na alilipiwa hospitali na mwenye kugonga ye .	he was paid and the person who hit him paid the hospital .
+<52>	(Outline, 57.010-58.260)	<no-speech>	<no-speech>
+<53>	(Inline, 57.330-57.890)	ehhe .	mm .
+<54>	(Inline, 57.890-61.480)	<no-speech>	<no-speech>
+<55>	(Outline, 58.260-61.127)	alilipiwa *pesa* za hospitali na mwenye kugonga ye .	he was paid the hospital *money* by the one who hit him .
+<56>	(Outline, 61.127-63.340)	sasa anaendelea pole pole .	and now he's progressing slowly .
+<57>	(Inline, 61.480-61.976)	na %incomplete	and %incomplete
+<58>	(Inline, 61.976-62.530)	ehhe .	mm .
+<59>	(Inline, 62.530-63.610)	<no-speech>	<no-speech>
+<60>	(Outline, 63.340-64.790)	<no-speech>	<no-speech>
+<61>	(Inline, 63.610-64.110)	ehhe .	mm .
+<62>	(Inline, 64.110-66.750)	<no-speech>	<no-speech>
+<63>	(Outline, 64.790-66.340)	ahh yuko karibu kupona .	ahh he's about to get well .
+<64>	(Outline, 66.340-69.640)	<no-speech>	<no-speech>
+<65>	(Inline, 66.750-68.310)	na gari lilishughulikiwa ?	and was the car attended to ?
+<66>	(Inline, 68.310-73.280)	<no-speech>	<no-speech>
+<67>	(Outline, 69.640-73.280)	gari linashughulika lakini bado -- bado si unajua gari kama %incomplete	the car is being attended to but it's still -- it's not yet you know matters to do with cars like %incomplete

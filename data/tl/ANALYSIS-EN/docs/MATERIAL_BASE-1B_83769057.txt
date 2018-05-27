@@ -1,0 +1,26 @@
+<1>	(Outline, 0.000-1.530)	ano nabuntis niya ?	well did he impregnate her ?
+<2>	(Inline, 0.000-2.640)	<no-speech>	<no-speech>
+<3>	(Outline, 1.530-5.020)	<no-speech>	<no-speech>
+<4>	(Inline, 2.640-3.200)	<sta> kami .	us .
+<5>	(Inline, 3.200-4.130)	<no-speech>	<no-speech>
+<6>	(Inline, 4.130-6.370)	buntis <no-speech> 'yong matanda ?	pregnant that old lady ?
+<7>	(Outline, 5.020-6.036)	oo .	yes .
+<8>	(Outline, 6.036-8.987)	<no-speech> oo nabuntis niya 'yon 'yon matanda na 'yon .	yes he impregnated her that old woman .
+<9>	(Inline, 6.370-11.200)	<no-speech>	<no-speech>
+<10>	(Outline, 8.987-21.478)	<breath> sabi kasi sa kanya <breath> ano <hes> -- <no-speech> sabi sa kanya okey lang kahit na diyan ka- -- sumama basta ano lang -- ano buntisin mo lang ako iyon lang ang sinabi .	he was told what -- he was told it was okay for him to be there -- to join as long as what -- what just impregnate me that's what she said .
+<11>	(Inline, 11.200-11.763)	<sta> oo .	yes .
+<12>	(Inline, 11.763-12.500)	<no-speech> ako .	me .
+<13>	(Inline, 12.500-22.870)	<no-speech>	<no-speech>
+<14>	(Outline, 21.478-25.577)	<breath> kasi gusto niya nga magkaanak dahil nga hindi nga siya kagandahan .	because she wanted to have a child because she wasn't that beautiful .
+<15>	(Inline, 22.870-24.000)	anong nawala ?	what's lost ?
+<16>	(Inline, 24.000-28.300)	<no-speech>	<no-speech>
+<17>	(Outline, 25.577-27.970)	<breath> pineperahan lang talaga ni Kuya Jessie iyon .	Big Brother Jessie is just getting money from that .
+<18>	(Outline, 27.970-28.970)	<no-speech>	<no-speech>
+<19>	(Inline, 28.300-29.420)	'yong babae .	that girl .
+<20>	(Outline, 28.970-32.902)	oo natatakot siya kasi matanda na nga siya 'di ba baka 'di na siya magkaanak .	yes she's afraid because she's old right maybe she won't be able to have a child .
+<21>	(Inline, 29.420-40.950)	<no-speech>	<no-speech>
+<22>	(Outline, 32.902-35.146)	so iyon ang nangyari <breath> .	so that's what happened .
+<23>	(Outline, 35.146-42.220)	tapos <hes> ito naman Shunga-Shunga naman itong ni Kuya Jessie hello hindi ba maghahabol iyon siyempre timer lang iyon 'di ba ?	then this big brother Jessie is so stupid hello won't she chase him of course she's only a timer right ?
+<24>	(Inline, 40.950-41.900)	pumayag .	agreed .
+<25>	(Inline, 41.900-43.930)	<no-speech>	<no-speech>
+<26>	(Outline, 42.220-43.930)	oo pumayag siya .	yes he agreed .

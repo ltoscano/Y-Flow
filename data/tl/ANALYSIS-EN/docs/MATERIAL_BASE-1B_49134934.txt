@@ -1,0 +1,26 @@
+<1>	(0.000-1.821)	<no-speech>	<no-speech>
+<2>	(1.821-9.431)	<sta> nagpakitang gilas naman ang mga tropang Pilipino at Amerikano sa pagpapatuloy ng Balikatan twenty fifteen <sta> sa Zambales .	the Filipino and American troops then showcased their skills in the continuation of balikatan twenty fifteen in Zambales .
+<3>	(9.431-13.860)	<sta> pero kasabay nito umani naman ng batikos sa Chinese media ang war games .	but simultaneous to this the war games earned criticism from the Chinese media .
+<4>	(13.860-17.848)	<sta> tinawag pa ang Pilipinas na cute little submissive daw <sta> ng America .	the Philippines was even called a cute little submission of America .
+<5>	(17.848-20.040)	<sta> umaaksiyon si Jun Loyola .	Jun Loyola is making action .
+<6>	(20.040-22.625)	<no-speech>	<no-speech>
+<7>	(22.625-29.870)	mula sa dagat dumaong sa pampang ng <sta> San Antonio Zambales ang dalawampung naglalakihang Amphibious Assault Vehicle .	from the sea the twenty big amphibious assault vehicle docked at the shore of San Antonio Zambales .
+<8>	(29.870-32.474)	<sta> sakay nito ang mga sundalong Amerikano at Pilipino .	on board this are the America and Filipino soldiers .
+<9>	(32.474-33.566)	<no-speech>	<no-speech>
+<10>	(33.566-37.830)	pagkababa agad silang pumosisyon para sa gagawing pag-atake .	upon disembarking they quickly positioned for the attack to be made .
+<11>	(37.830-40.435)	armado sila ng matataas na kalibre ng baril .	they are armed with high caliber guns .
+<12>	(40.435-44.189)	<sta> nagpapatrolya rin sa himpapawid ang mga helicopter .	the helicopters are also patrolling in the sky .
+<13>	(44.189-48.147)	pakay nilang mabawi ang lugar mula sa kalabang Calvanian .	they aim to recover the place from the Calvanian enemy .
+<14>	(48.147-52.208)	<sta> pero ang lahat ng ito ay parte lang ng Balikatan twenty fifteen .	but all of this is part only of the balikatan twenty fifteen .
+<15>	(52.208-62.870)	it was a territorial defense based scenario where some <hes> aggressive forces had taken <hes> some terrain and we are going to take it back .	it was a territorial defense based scenario where some aggressive forces had taken some terrain and we are going to take it back .
+<16>	(62.870-69.550)	<sta> bukod sa mutual defense parte rin ng Balikatan ang disaster response at community development .	apart from mutual defense also part of the balikatan is disaster response and community development .
+<17>	(69.550-87.840)	<sta> bagamat dito sa San Antonio Zambales na dalawang daang kilometro ang layo sa pinag-aagawang teritoryong Panatag Shoal ginanap ang unang training ng Balikatan Exercises twenty fifteen hindi raw ibig sabihin nito na nagpapakita ng puwersa ang mga sundalong Amerikano at Pilipino laban sa China .	although here in San Antonio Zambales that is two-hundred kilometers far from the disputed territory Panatag Shoal is taking place the first training of balikatan exercises twenty fifteen does not mean that the American and Filipino soldiers are showing force against China .
+<18>	(87.840-92.959)	<sta> wala raw silang balak na isagot ito sa ginagawang reclamation ng China sa West Philippine Sea .	they do not plan this to be the answer to the reclamation being made by China in the West Philippine Sea .
+<19>	(92.959-104.240)	the point really is <hes> whatever capability the U_S and the Philippine Marines are doing here it is purely capability and capacity building .	the point really is whatever capability the U_S and the Philippine marines are doing here it is purely capability and capacity building .
+<20>	(104.240-110.740)	sa gitna nito binatikos sa editorial ng Global Times sa China ang war games ng America at Pilipinas .	in the middle of this the war games of America and Philippines were criticized in the editorial of the Global Times in China .
+<21>	(110.740-114.499)	tinawag ang Pilipinas na cute little submissive ng America .	the Philippines was called a cute little submissive of America .
+<22>	(114.499-119.720)	at sa kabila raw nito mga second-hand armas lang daw ang nakuha ng Pilipinas .	and despite of this only second-hand arms were gotten by Philippines .
+<23>	(119.720-122.980)	wala raw tayong napala ang lalo lang umaasa sa U_S .	we did not get anything especially only relying on U_S .
+<24>	(122.980-130.980)	umalma rin ang China sa plano ni Pangulong Aquino na idulog sa Association of Southeast Asian Nations ang ginagawa nila sa West Philippine Sea .	China also protested the plan of President Aquino to consult with the Association of Southeast Asian Nations on their actions in the West Philippine Sea .
+<25>	(130.980-135.974)	sana raw ay hindi ito gamitin ng Pilipinas para masira ang relasyon ng China sa ASEAN .	hopefully the Philippines will not use this to destroy the relationship of China to the ASEAN .
+<26>	(135.974-137.795)	umaaksiyon Jun Loyola ~ %incomplete	Jun Loyola taking action %incomplete

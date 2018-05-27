@@ -1,0 +1,57 @@
+[0.000]
+<no-speech>
+[2.468]
+<sta> maya't maya ang dating ng mga C_One_Thirty dito sa Sulu Sea mula pa noong Biyernes .
+[7.290]
+dala nito ang medical supplies at pagkain para sa tropa na patuloy na nakikipagbakbakan sa Abu Sayyaf .
+[13.100]
+<sta> nitong Sabado personal na bumisita si A_F_P Chief of Staff Ricardo Visaya para marinig ang takbo ng operasyon laban sa mga bandido .
+[20.810]
+binisita rin ni Visaya ang bagong bukas na ospital sa loob ng kampo .
+[24.373]
+kumpleto ito sa medical equipment at kayang tumanggap ng hindi bababa sa limampung pasyente .
+[29.440]
+sa ngayon nasa halos sampung libong sundalo na ang naka-deploy sa Basilan at Sulu .
+[33.543]
+ito na ang pinakamalaking bilang ng ipinadalang tropa laban sa Abu Sayyaf .
+[37.530]
+matapang din ang minsahing ipinaabot ng heneral sa mga bandido .
+[41.106]
+if they want <int> to live ang gusto ko lang sa kanila ay pakawalan nila ang kanilang mga bihag .
+[49.730]
+and mag-surrender sila and they will be given -- <hes> they will given the chance to live .
+[55.223]
+kung ayaw nila the troops the Armed Forces of the Philippines is ready to crush them .
+[60.836]
+<no-speech>
+[61.660]
+walang deadline na ibinigay si Visaya para matapos ang military operation .
+[65.634]
+pero asahan na raw na lalong iigting pa ang bakbakan sa mga susunod na araw .
+[70.520]
+<sta> namataan naman ng tropa ang Abu Sayyaf na tumatakas sa mga bundok <sta> kasama ang mga bihag nito kabilang na ang Norwegian na si Kjartan Sekkingstad .
+[78.215]
+ang isa sa mga bihag nasawi pa umano dahil sa matinding pagod .
+[82.457]
+<no-speech>
+[83.130]
+ang balita lang sa amin ay <hes> <hes> talagang pagod na pagod sila .
+[87.885]
+in fact <hes> we are still verifying also the report na one Filipino kidnapped victim was killed due to exhaustion .
+[95.626]
+<int> sa ngayon pumalo na sa limampu't siyam na miyembro ng Abu Sayyaf ang nalagas simula no'ng paigtingin ang operasyon noong Agosto .
+[103.000]
+labingwalo naman ang nasawi sa hanay ng militar habang dalawampu't walo pa ang sugatan .
+[108.460]
+kaya hindi pa mairerekomenda ng A_F_P kay Pangulong Rodrigo Duterte na alisin ang state of national emergency sa bansa .
+[115.781]
+<no-speech>
+[116.620]
+habang <hes> nag-operate kami rito and even kahit matapos na 'yong operations dito there might be the plans of <hes> Abu Sayyaf 'yong mga supporters nila 'to conduct bombing .
+[126.258]
+kaya it's better na <hes> will keep our guards up .
+[130.059]
+<int> bukas naman daw ang A_F_P sa pakikipagtulungan sa ibang grupo tulad ng M_N_L_F .
+[136.100]
+umaaksiyon mula Sulu ~ %incomplete
+[137.837]

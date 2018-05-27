@@ -1,0 +1,94 @@
+<1>	(Outline, 0.000-0.205)	<no-speech>	<no-speech>
+<2>	(Inline, 0.000-1.060)	<no-speech>	<no-speech>
+<3>	(Outline, 0.205-0.875)	nasa ?	in ?
+<4>	(Outline, 0.875-2.185)	<no-speech>	<no-speech>
+<5>	(Inline, 1.060-1.490)	<no-speech>	<no-speech>
+<6>	(Inline, 1.490-3.590)	<no-speech>	<no-speech>
+<7>	(Outline, 2.185-2.555)	<no-speech>	<no-speech>
+<8>	(Outline, 2.555-5.235)	<no-speech>	<no-speech>
+<9>	(Inline, 3.590-4.146)	<no-speech>	<no-speech>
+<10>	(Inline, 4.146-5.240)	'asaan ka sa altar ?	where are you at the altar ?
+<11>	(Outline, 5.235-6.730)	oo .	yes .
+<12>	(Inline, 5.240-6.990)	<no-speech>	<no-speech>
+<13>	(Outline, 6.730-9.673)	<no-speech>	<no-speech>
+<14>	(Inline, 6.990-7.350)	<no-speech>	<no-speech>
+<15>	(Inline, 7.350-11.870)	<no-speech>	<no-speech>
+<16>	(Outline, 9.673-10.685)	bakit ?	why ?
+<17>	(Outline, 10.685-11.945)	<no-speech>	<no-speech>
+<18>	(Inline, 11.870-12.420)	ah .	ah .
+<19>	(Outline, 11.945-14.275)	<no-speech>	<no-speech>
+<20>	(Inline, 12.420-14.260)	<no-speech>	<no-speech>
+<21>	(Inline, 14.260-16.168)	<no-speech>	<no-speech>
+<22>	(Outline, 14.275-15.104)	'asaan ka ba ?	where are you ?
+<23>	(Outline, 15.104-17.075)	<no-speech>	<no-speech>
+<24>	(Inline, 16.168-16.980)	'ala lang .	just nothing .
+<25>	(Inline, 16.980-18.310)	<no-speech>	<no-speech>
+<26>	(Outline, 17.075-19.075)	<no-speech>	<no-speech>
+<27>	(Inline, 18.310-20.413)	<sta> dito ako sa ano <hes> Sampaloc <hes> .	I am here at Sampaloc .
+<28>	(Outline, 19.075-20.865)	<no-speech>	<no-speech>
+<29>	(Inline, 20.413-23.403)	sa ano hospital .	here at the hospital .
+<30>	(Outline, 20.865-22.105)	<no-speech>	<no-speech>
+<31>	(Outline, 22.105-22.795)	ah .	ah .
+<32>	(Outline, 22.795-24.385)	<no-speech>	<no-speech>
+<33>	(Inline, 23.403-29.810)	na hospital si ano si Donnie .	Donnie is hospitalized .
+<34>	(Outline, 24.385-24.735)	<no-speech>	<no-speech>
+<35>	(Outline, 24.735-25.735)	<no-speech>	<no-speech>
+<36>	(Outline, 25.735-26.325)	sino ?	who ?
+<37>	(Outline, 26.325-28.265)	<no-speech>	<no-speech>
+<38>	(Outline, 28.265-28.685)	<no-speech>	<no-speech>
+<39>	(Outline, 28.685-30.215)	<no-speech>	<no-speech>
+<40>	(Inline, 29.810-33.646)	<sta> 'tsaka si Balong fifty fifty na raw silang dalawa .	and also Balong both of them are critical .
+<41>	(Outline, 30.215-30.864)	bakit ?	why ?
+<42>	(Outline, 30.864-31.325)	<no-speech>	<no-speech>
+<43>	(Outline, 31.325-34.585)	<no-speech>	<no-speech>
+<44>	(Inline, 33.646-36.280)	<laugh> may <hes> raw sa mukha <hes> .	has on the face .
+<45>	(Outline, 34.585-37.677)	<no-speech>	<no-speech>
+<46>	(Inline, 36.280-39.520)	<no-speech>	<no-speech>
+<47>	(Outline, 37.677-38.416)	sinong manok ?	whose the bet ?
+<48>	(Outline, 38.416-39.515)	<no-speech>	<no-speech>
+<49>	(Outline, 39.515-40.735)	<no-speech>	<no-speech>
+<50>	(Inline, 39.520-44.795)	<sta> si Balong kasi ang daming taghiyawat daw ng utol niya <hes> .	because of Balong his brother has a lot of acne .
+<51>	(Outline, 40.735-41.195)	ha ?	what ?
+<52>	(Outline, 41.195-44.945)	<no-speech>	<no-speech>
+<53>	(Inline, 44.795-48.504)	si Balong papatanggal niya sa ospital ng Sampaloc .	it's Balong he's going to remove it in a hospital in Sampaloc .
+<54>	(Outline, 44.945-45.725)	ah .	ah .
+<55>	(Outline, 45.725-48.985)	<no-speech>	<no-speech>
+<56>	(Inline, 48.504-50.710)	<no-speech>	<no-speech>
+<57>	(Outline, 48.985-49.587)	bakit ?	why ?
+<58>	(Outline, 49.587-50.935)	papa-off n'yo na ?	are you going to have it turned off already ?
+<59>	(Inline, 50.710-53.900)	<no-speech>	<no-speech>
+<60>	(Outline, 50.935-52.265)	<no-speech>	<no-speech>
+<61>	(Outline, 52.265-52.695)	<no-speech>	<no-speech>
+<62>	(Outline, 52.695-59.215)	<no-speech>	<no-speech>
+<63>	(Inline, 53.900-55.174)	oo nga <hes> .	oh yes .
+<64>	(Inline, 55.174-56.471)	<no-speech>	<no-speech>
+<65>	(Inline, 56.471-58.712)	o parang iyong starfish na dumikit .	yes like a sticking starfish .
+<66>	(Inline, 58.712-59.540)	<no-speech>	<no-speech>
+<67>	(Outline, 59.215-59.755)	ah .	ah .
+<68>	(Inline, 59.540-60.570)	<no-speech>	<no-speech>
+<69>	(Outline, 59.755-61.275)	<no-speech>	<no-speech>
+<70>	(Inline, 60.570-64.050)	<no-speech>	<no-speech>
+<71>	(Outline, 61.275-61.695)	o .	oh .
+<72>	(Outline, 61.695-63.635)	<no-speech>	<no-speech>
+<73>	(Outline, 63.635-64.075)	o <int> .	oh .
+<74>	(Inline, 64.050-65.790)	<no-speech>	<no-speech>
+<75>	(Outline, 64.075-67.175)	<no-speech>	<no-speech>
+<76>	(Inline, 65.790-66.953)	<no-speech>	<no-speech>
+<77>	(Inline, 66.953-67.560)	ah .	ah .
+<78>	(Outline, 67.175-68.605)	mama- -- mamaya ha ?	-- later okay ?
+<79>	(Inline, 67.560-70.490)	<no-speech>	<no-speech>
+<80>	(Outline, 68.605-70.735)	<no-speech>	<no-speech>
+<81>	(Inline, 70.490-71.534)	<no-speech>	<no-speech>
+<82>	(Outline, 70.735-72.135)	<no-speech>	<no-speech>
+<83>	(Inline, 71.534-75.000)	ah oo mamaya maliligo -- maliligo pa ako <hes> <int> .	ah yes later I have to take a bath -- take a bath yet .
+<84>	(Outline, 72.135-75.355)	<no-speech>	<no-speech>
+<85>	(Inline, 75.000-80.860)	<no-speech>	<no-speech>
+<86>	(Outline, 75.355-76.241)	<int> sige sige .	sure sure .
+<87>	(Outline, 76.241-77.375)	<no-speech>	<no-speech>
+<88>	(Outline, 77.375-78.905)	<no-speech>	<no-speech>
+<89>	(Outline, 78.905-79.975)	tagal naman matapos .	too long to finish .
+<90>	(Outline, 79.975-81.745)	<no-speech>	<no-speech>
+<91>	(Inline, 80.860-81.440)	hello .	hello .
+<92>	(Inline, 81.440-84.075)	<no-speech>	<no-speech>
+<93>	(Outline, 81.745-83.243)	mamaya pa 'ata tapos nito <hes> .	perhaps this will be finished later .
+<94>	(Outline, 83.243-84.075)	<no-speech>	<no-speech>

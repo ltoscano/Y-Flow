@@ -1,0 +1,51 @@
+0.000	inLine	<no-speech>
+0.000	outLine	halo <no-speech> -- halo .
+1.090	inLine	ohh halafu si nilikuwa nakwambia %incomplete
+2.144	outLine	<no-speech>
+3.070	inLine	<no-speech>
+4.138	outLine	ehhe .
+4.330	inLine	nasi nakwambia %incomplete
+4.590	outLine	<no-speech>
+5.630	inLine	<no-speech>
+7.360	inLine	leo jioni si tupatane pale uwanjani kuna kandanda hapo nataka tukaguze kidogo .
+8.500	outLine	ehhe ?
+8.940	outLine	<no-speech>
+10.800	outLine	<no-speech>
+11.640	outLine	<no-speech>
+13.340	inLine	<no-speech>
+14.480	outLine	ohh hu- -- hapo kwa hii -- hii shule iko hapo *hivyo* <no-speech> ?
+16.940	inLine	halo .
+17.660	inLine	<no-speech>
+20.120	outLine	<no-speech>
+21.400	outLine	halo .
+22.170	outLine	<no-speech>
+22.260	inLine	ehhe hapo hapo hapo .
+23.890	inLine	<no-speech>
+25.040	outLine	ohh kwa hivyo kuna kandanda ?
+25.080	inLine	hapo unanisikia ?
+26.460	inLine	<no-speech>
+27.107	outLine	<no-speech> ehhe nakusikia nakusikia .
+29.350	outLine	<no-speech>
+29.670	inLine	ehhe hapo kwa kandanda nataka tupatane hapo .
+31.890	inLine	<no-speech>
+32.240	outLine	<no-speech>
+33.550	outLine	ohh tupatane hapo halafu <no-speech> -- halafu ?
+34.030	inLine	halafu %incomplete
+34.920	inLine	<no-speech>
+39.480	outLine	<no-speech>
+40.860	inLine	halafu %incomplete
+41.340	outLine	<no-speech>
+41.836	inLine	ehhe .
+42.620	inLine	<no-speech>
+44.527	outLine	ehhe halafu utakuja na mazuri nini ?
+46.913	outLine	<no-speech>
+48.020	outLine	<no-speech>
+49.490	inLine	aai ehhe nitangojea -- nitangojea ukuje na mazuri .
+49.580	outLine	halo .
+50.310	outLine	<no-speech>
+51.300	outLine	<no-speech>
+52.310	inLine	<no-speech>
+53.464	outLine	ohh kwa hivyo we nikuje na mazuri ama ni we uta -- ni we utakuja na mazuri ama ni we -- ni- -- nikuje na mazuri ?
+54.020	inLine	ehhe ?
+54.570	inLine	<no-speech>
+59.070

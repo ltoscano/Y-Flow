@@ -1,0 +1,86 @@
+0.000	outLine	<no-speech>
+0.000	inLine	<no-speech>
+0.005	outLine	bukas ng umaga .
+1.086	outLine	'di ba puwede ngayon ?
+2.185	outLine	<no-speech>
+2.330	inLine	eh subukan ko .
+3.380	inLine	<no-speech>
+4.190	inLine	subukan ko 'pag ano -- 'pag .
+5.065	outLine	ah .
+5.839	outLine	<no-speech>
+6.657	outLine	eh pa'no ay sino pala nanalo 'yun sa P_B_A ?
+6.700	inLine	<no-speech>
+9.435	outLine	<no-speech>
+9.620	inLine	<int> kung sa P_B_A ?
+10.395	outLine	o sige .
+11.155	outLine	<no-speech>
+11.620	inLine	<no-speech>
+12.355	outLine	o .
+13.830	inLine	eh hindi ko napanood 'yong laro eh .
+14.113	outLine	hello ?
+15.239	outLine	hello ?
+16.026	inLine	<no-speech>
+16.453	outLine	oo .
+16.720	inLine	<no-speech>
+17.505	outLine	<no-speech>
+17.650	inLine	'di ko nga napanood 'yong laro pero 'yong nag-champion Miami .
+20.670	inLine	<no-speech>
+20.935	outLine	eh 'di ba 'yung galing ni ano .
+22.930	inLine	<no-speech>
+23.035	outLine	<no-speech>
+24.929	inLine	si ?
+25.460	inLine	<no-speech>
+25.555	outLine	ay maya .
+26.320	inLine	<no-speech>
+26.518	outLine	maya may laban Alaska .
+28.723	outLine	ay .
+28.831	inLine	sino 'to ?
+29.376	outLine	<no-speech>
+29.854	inLine	<no-speech>
+30.617	outLine	'yun si ano -- si Kobe Cortez 'yung naglamang .
+30.660	inLine	<no-speech>
+31.620	inLine	(()) .
+33.850	inLine	<no-speech>
+34.209	outLine	<no-speech> si Kobe Co si Kobe Cortez <laugh> si ano si Lebron James Yap 'yung M_V_P .
+34.670	inLine	<no-speech>
+37.160	inLine	<no-speech>
+38.700	inLine	oo nga eh .
+39.722	inLine	<no-speech>
+42.283	inLine	oo nga eh pero ang lupit ni Durant 'no ?
+43.055	outLine	<no-speech>
+44.045	outLine	ah .
+44.451	outLine	<no-speech>
+44.926	inLine	<no-speech>
+45.445	outLine	'di ba ?
+46.005	outLine	<no-speech>
+46.353	inLine	pero ang lupit ni Durant nadala niya 'yong ano 'yong Oklahoma sa .
+48.935	outLine	oo may kendeng Durant .
+50.050	inLine	<no-speech>
+51.696	inLine	oo nadala niya sa championship game 'di ba ?
+53.135	outLine	<no-speech>
+53.965	outLine	<no-speech>
+54.345	outLine	<no-speech>
+55.410	inLine	<no-speech>
+55.445	outLine	ayun nga eh .
+56.370	outLine	<no-speech>
+56.421	outLine	galing nga ni kendeng Durant kaso <laugh> hindi naka-shoot sumablay .
+60.770	inLine	oh ?
+61.588	inLine	oo nga eh .
+62.187	outLine	<no-speech>
+62.598	inLine	sayang din 'yon eh .
+63.780	inLine	sayang nga din 'yon .
+64.435	outLine	<no-speech>
+65.390	inLine	<no-speech>
+66.640	inLine	oo sayang din 'yon eh .
+68.355	outLine	ayan nga eh .
+68.443	inLine	<no-speech>
+69.181	outLine	<no-speech>
+69.220	inLine	eh 'di sana nagkaro'n ng game seven man lang o kung 'di three four four one .
+70.257	outLine	mhm .
+70.825	outLine	<no-speech>
+72.965	outLine	<laugh> pa'nong talaga ?
+74.100	inLine	<no-speech>
+75.097	inLine	oo talagang-talaga .
+75.175	outLine	<no-speech>
+76.175	outLine	<no-speech>
+76.900

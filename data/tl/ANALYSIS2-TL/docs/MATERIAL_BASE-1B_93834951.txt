@@ -1,0 +1,65 @@
+[0.000]
+<misc> day fifteen kalahating buwan na po ang krisis sa Zamboanga .
+[6.627]
+ngayong araw mas pinaigting pa raw ang opensiba ng militar kontra sa mga miyembro ng M_N_L_F Misuari faction .
+[14.630]
+sa gitna naman ng kanilang operasyon natagpuan ang ilang gamit na mga M_N_L_F sniper .
+[20.111]
+samantala sa ilang bahagi naman ng siyudad nagsabit ang mga residente ng watawat ng Pilipinas bilang suporta sa ating pamahalaan .
+[28.513]
+live mula sa Zamboanga may report si Chino Gaston .
+[32.061]
+Chino ?
+[34.950]
+Jessica nangako nga ang militar na kaunting panahon na lamang ay makukubkob na nila itong nalalabing <hes> kuta ng M_N_L_F dito sa Zamboanga city at matatapos na rin ang krisis .
+[44.030]
+pero kung kailan ito mangyayari wala pa ring nakakapagsabi .
+[49.640]
+sa pagpasok ng ikatlong linggo ng krisis dito sa siyudad ng Zamboanga lalo pang pinatindi ng militar ang kanilang operasyon sa mga miyembro ng M_N_L_F Misuari faction .
+[58.400]
+sunod-sunod na nagpakawala ng raket mula sa M_G five attack helicopter .
+[63.610]
+(()) .
+[64.523]
+target daw ng raket attack ang ilang rebeldeng namataan umano sa Bakwawan sa barangay Mariqui .
+[70.130]
+<no-speech>
+[73.029]
+sa karagatang malapit sa lugar nagpaputok din ang Philippine Navy .
+[77.250]
+ang matinding bakbakan ngayon naganap matapos muling sumiklab ang isang sunog sa gitna ng umiigting na palitan ng putok sa pagitan ng militar at mga rebelde .
+[85.619]
+sa barangay Santa Barbara maya't maya ang labas pasok ng ambulansiya ng militar .
+[90.220]
+sa A_F_P dalawang sundalo ang sugatan sa bakbakan ngayong araw .
+[93.760]
+umabot na sa labing limang sundalo at pulis ang nasawi mula ng magsimula ang labanan .
+[98.276]
+<int> kaninang umaga namatay na si second lieutenant Florencio Mikael Meneses sa ospital habang ginagamot matapos masugatan sa bakbakan kahapon sa barangay Santa Catalina .
+[108.150]
+si Meneses ang ikalawang opisyal ng militar na nasawi sa labi lima na araw ng bakbakan .
+[113.610]
+<sta> ayon sa A_F_P malapit na raw nilang matapos ang clearing operations lalo na sa Luste street kung saan nagkukuta ang grupo ng M_N_L_F sa ilalim ni kumander Habier Malik .
+[123.220]
+maliit na grupo na lang daw ang kasama ni Malik pero nananatiling delikado dahil nakapuwesto ang mga sniper sa lugar .
+[130.180]
+there are no indications <hes> na susuko sila .
+[133.330]
+what we do know is kaunti na lang ang putok nila 'no for the past <hes> few days .
+[137.615]
+(()) malawak ang pinsala sa siyudad .
+[141.780]
+ng pasukin namin ang barangay Kasangyaan ito ang aming nadatnan .
+[145.299]
+mga sunog na bahay ang iba pader na lang ang nakatayo .
+[149.650]
+halos lahat tadtad ng bala .
+[151.580]
+sa buong lungsod mahigit isang libong bahay na ang natupok ng mga sunog .
+[157.050]
+sa barangay Santa Katalinan naman natagpuan kanina ng Light Reaction Company at scout rangers ng Philippine Army ang mag-amang nagtatago sa bahay sa likod ng K_J_K building ang balwarte noon ni M_N_L_F commander Ustadz Habier Malik .
+[169.931]
+mula September nine hindi na nakaalis ang mga mag-amang Vicente at Elizabeth Climaco sa kanilang bahay dahil sa walang tigil na putukan .
+[177.506]
+hindi raw sila kumain ng mahigit isang linggo .
+[180.015]
